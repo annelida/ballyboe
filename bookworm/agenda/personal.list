@@ -1,0 +1,33 @@
+MY PROJECTS    -*- mode: org; -*-
+#+AUTHOR:    Viktoriia Kosinova
+#+TITLE:     Mental Athlete's Wife ToDo List
+#+SUBTITLE:  Life in a plain text
+#+EMAIL:     viqsiq@gmail.com
+#+LANGUAGE: en
+#+STARTUP: showall indent
+#+PROPERTY: header-args :comments org
+#+CATEGORY: Personal
+#+TODO: RAW INIT TODO ACTIVE | DONE
+
+
+*** TODO School transport
+    SCHEDULED: <2023-10-15 Sun ++1w>
+    :PROPERTIES:
+    :LAST_REPEAT: [2023-10-10 Tue 08:00]
+    :END:
+    - State "DONE"       from "TODO"       [2023-06-23 Fri 15:12]
+*** TODO Check the waste
+    SCHEDULED: <2023-10-24 Tue ++1w>
+    :PROPERTIES:
+    :LAST_REPEAT: [2023-10-10 Tue 08:00]
+    :END:
+    - State "DONE"       from "TODO"       [2023-10-10 Tue 08:00]
+    - State "DONE"       from "TODO"       [2023-07-11 Tue 08:55]
+    - State "DONE"       from "TODO"       [2023-07-05 Wed 15:35]
+*** DONE Electricity bills
+    CLOSED: [2023-10-10 Tue 08:00] SCHEDULED: <2023-08-10 Thu>
+*** DONE Rental supplement
+    CLOSED: [2023-10-10 Tue 08:00] SCHEDULED: <2023-07-14 Fri>
+*** Electrecity bill's payment day
+*** DONE To buy DM Waste labels
+    CLOSED: [2023-10-10 Tue 08:00] SCHEDULED: <2023-09-26 Tue>

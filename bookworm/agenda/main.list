@@ -1,0 +1,178 @@
+MY PROJECTS    -*- mode: org; -*-
+#+AUTHOR:    Viktoriia Kosinova
+#+TITLE:     Mental Athlete's Wife ToDo List
+#+SUBTITLE:  Life in a plain text
+#+EMAIL:     viqsiq@gmail.com
+#+LANGUAGE: en
+#+STARTUP: showall indent
+#+PROPERTY: header-args :comments org
+#+CATEGORY: Thesis
+#+TODO: RAW INIT TODO ACTIVE | DONE
+
+
+* Preparation to work as software tester
+** Agenda Views
+** TODO [#C] Install Selenium Python on Cromebook Linux. 
+   SCHEDULED: <2023-11-03 Fri>
+   :PROPERTIES:
+   :CATEGORY: Selenium
+   :END:
+** TODO [#C] WEB Driver Tutorial
+   SCHEDULED: <2023-11-03 Fri>
+** TODO [#C] Git repository. Git tutorial.
+   SCHEDULED: <2023-11-03 Fri>
+Delete the old one and create a new and empy (annelida)
+** TODO [#C] Upwork about testing
+   SCHEDULED: <2023-11-03 Fri ++2d/3d>
+   :PROPERTIES:
+   :LAST_REPEAT: [2023-06-23 Fri 15:19]
+   :END:
+   - State "DONE"       from "TODO"       [2023-06-23 Fri 15:19]
+   - State "DONE"       from "TODO"       [2023-06-23 Fri 15:19]
+   - State "DONE"       from "TODO"       [2023-06-23 Fri 15:19]
+   - State "DONE"       from "TODO"       [2023-06-23 Fri 15:19]
+   - State "DONE"       from "TODO"       [2023-06-23 Fri 15:19]
+   - State "DONE"       from "TODO"       [2023-06-23 Fri 15:19]
+   - State "DONE"       from "TODO"       [2023-06-23 Fri 15:18]
+Requirements to job seekers (software testers)
+** TODO [#C] Emacs tutorial
+   SCHEDULED: <2023-11-03 Fri>
+** TODO [#C] Org-mode tutorial
+   SCHEDULED: <2023-11-03 Fri>
+** TODO [#C] Linkedin video about software testing foundation
+   SCHEDULED: <2023-11-03 Fri>
+** DONE Reading aloud
+   CLOSED: [2023-09-29 Fri 10:09] SCHEDULED: <2023-07-22 Sat>
+   :PROPERTIES:
+   :LAST_REPEAT: [2023-09-26 Tue 18:00]
+   :END:
+   - State "DONE"       from "TODO"       [2023-09-26 Tue 18:00]
+   - State "DONE"       from "TODO"       [2023-09-26 Tue 17:43]
+   - State "DONE"       from "TODO"       [2023-08-13 Sun 11:05]
+   - State "DONE"       from "TODO"       [2023-07-27 Thu 14:26]
+   - State "DONE"       from "TODO"       [2023-07-26 Wed 13:03]
+   - State "DONE"       from "TODO"       [2023-07-25 Tue 17:19]
+   - State "DONE"       from "TODO"       [2023-07-24 Mon 17:58]
+   - State "DONE"       from "TODO"       [2023-07-17 Mon 13:16]
+   - State "DONE"       from "TODO"       [2023-07-17 Mon 13:16]
+   - State "DONE"       from "TODO"       [2023-07-12 Wed 19:10]
+   - State "DONE"       from "TODO"       [2023-07-11 Tue 17:11]
+   - State "DONE"       from "TODO"       [2023-07-10 Mon 16:12]
+   - State "DONE"       from "TODO"       [2023-07-10 Mon 16:08]
+   - State "DONE"       from "TODO"       [2023-07-09 Sun 10:51]
+   - State "DONE"       from "TODO"       [2023-07-09 Sun 10:50]
+   - State "DONE"       from "TODO"       [2023-07-07 Fri 16:29]
+   - State "DONE"       from "TODO"       [2023-07-05 Wed 15:36]
+   - State "DONE"       from "TODO"       [2023-07-03 Mon 18:07]
+   - State "DONE"       from "TODO"       [2023-07-03 Mon 18:07]
+   - State "DONE"       from "TODO"       [2023-07-02 Sun 13:15]
+   - State "DONE"       from "TODO"       [2023-07-01 Sat 13:40]
+   - State "DONE"       from "TODO"       [2023-06-30 Fri 15:27]
+   - State "DONE"       from "TODO"       [2023-06-29 Thu 13:21]
+   - State "DONE"       from "TODO"       [2023-06-29 Thu 13:21]
+   - State "DONE"       from "TODO"       [2023-06-27 Tue 17:22]
+   - State "DONE"       from "TODO"       [2023-06-27 Tue 17:22]
+   - State "DONE"       from "TODO"       [2023-06-26 Mon 15:44]
+** TODO [#C] Software management in Linux operation system
+   SCHEDULED: <2023-11-03 Fri>
+** TODO [#C] Repeatitive tasks in Org-agenda
+   SCHEDULED: <2023-11-03 Fri>
+** TODO [#B] Lucy Worsley transcript
+   SCHEDULED: <2023-11-03 Fri>
+** TODO Org-mode repeaters
+   SCHEDULED: <2023-11-03 Fri ++1w>
+   :PROPERTIES:
+   :LAST_REPEAT: [2023-06-23 Fri 15:16]
+   :END:
+   - State "DONE"       from "TODO"       [2023-06-23 Fri 15:16]
+[[https://www.danliden.com/posts/20220116-org-time.html]]
+** TODO Practice: UnitTesting in Python
+SCHEDULED: <2023-11-03 Fri>
+*** TODO Official unittesting documentation
+SCHEDULED: <2023-11-03 Fri>
+*** TODO StackOverflow for questions resolving
+SCHEDULED: <2023-11-03 Fri>
+[[http://0--key.github.io/python/tdd/unittest_init.html]]
+[[http://0--key.github.io/python/stdlib/python-built-in-functions.html]]
+** DONE Feyman's learning technique
+CLOSED: [2023-07-17 Mon 13:16] SCHEDULED: <2023-07-16 Sun>
+** TODO Google shortcuts
+SCHEDULED: <2023-11-03 Fri>
+* Selenium Learning Course
+** TODO Selenium official documentation
+SCHEDULED: <2023-11-03 Fri>
+* TODO Linux file system
+SCHEDULED: <2023-11-03 Fri>
+* TODO HTML tutorial
+** DONE HTML Elements
+CLOSED: [2023-09-25 Mon 10:41] SCHEDULED: <2023-09-25 Mon>
+** DONE HTML Attributes
+CLOSED: [2023-09-25 Mon 10:41] SCHEDULED: <2023-09-25 Mon>
+* DONE Publishing Org-mode files to HTML
+CLOSED: [2023-09-26 Tue 17:44] SCHEDULED: <2023-09-25 Mon>
+* DONE Selenium locators
+CLOSED: [2023-09-26 Tue 17:43] SCHEDULED: <2023-09-25 Mon>
+* DONE Feynman technique. Studying,analyzing and descrybing by my own words.
+CLOSED: [2023-09-28 Thu 10:01] SCHEDULED: <2023-09-28 Thu>
+* DONE Selenium synchronization, Exception Handling and Assertions
+CLOSED: [2023-09-28 Thu 10:01] SCHEDULED: <2023-09-28 Thu>
+** DONE Selenium implicit wait
+CLOSED: [2023-09-30 Sat 09:30] SCHEDULED: <2023-09-29 Fri>
+* DONE Working with transcript "The Experiment That Teaches People How To Learn"
+CLOSED: [2023-10-02 Mon 10:45] SCHEDULED: <2023-09-30 Sat>
+** DONE To rewrite the transcript
+CLOSED: [2023-10-02 Mon 10:45] SCHEDULED: <2023-09-30 Sat>
+** DONE To make the synctacsis analyse
+CLOSED: [2023-10-02 Mon 10:45] SCHEDULED: <2023-09-30 Sat>
+** TODO To create the cloud of words
+** DONE To rewrite the text of video by my owm words
+CLOSED: [2023-10-02 Mon 10:45] SCHEDULED: <2023-09-30 Sat>
+* DONE Reading aloud: "Matilda" R. Dahl
+CLOSED: [2023-10-02 Mon 10:46] SCHEDULED: <2023-09-30 Sat>
+* DONE Using Git on Debian
+CLOSED: [2023-10-06 Fri 08:01] SCHEDULED: <2023-10-05 Thu>
+* DONE Generating a new SSH key and adding it to the ssh-agent
+CLOSED: [2023-10-02 Mon 17:46] SCHEDULED: <2023-10-02 Mon>
+** DONE Adding a new SSH key to GitHub account
+CLOSED: [2023-10-02 Mon 17:46] SCHEDULED: <2023-10-02 Mon>
+* TODO [#C] Working with transctipt to video "How to Learn Anything Fast: Teach Your Brain to Focus"
+SCHEDULED: <2023-10-10 Tue>
+** DONE Rewrite the transcript
+CLOSED: [2023-10-10 Tue 08:00] SCHEDULED: <2023-10-06 Fri>
+* ACTIVE Org-Jekyll - configuration options
+SCHEDULED: <2023-10-10 Tue>
+* DONE Github.io - configuration
+CLOSED: [2023-10-06 Fri 08:01] SCHEDULED: <2023-10-04 Wed>
+* DONE What is Python REPL
+CLOSED: [2023-10-06 Fri 08:01] SCHEDULED: <2023-10-04 Wed>
+* DONE What is Ipython?
+CLOSED: [2023-10-06 Fri 08:01] SCHEDULED: <2023-10-04 Wed>
+* TODO Linux symbolic links 10m
+SCHEDULED: <2023-10-10 Tue>
+It allows to move the original file in safe place.
+On the place original file it possible to leave the shortcut with
+link to original file. For create soft link use command ln -s
+* DONE Emacs server 10m
+CLOSED: [2023-10-10 Tue 15:29] SCHEDULED: <2023-10-10 Tue>
+- Note taken on [2023-10-10 Tue 15:27] \\
+  * Launch the graphical version;
+  * Start the server: =M-x server-start=
+  * Launch the client version by =emacsclient -t=
+* TODO Org-Agenda views: item arrangement in daily agenda, its priorities;
+SCHEDULED: <2023-10-10 Tue>
+* TODO Magit brief overview
+SCHEDULED: <2023-10-10 Tue>
+* TODO Key-chords from 0--key: each key-chorded command with explanation
+SCHEDULED: <2023-10-10 Tue>
+C-h a <command name>
+* TODO Emacs frames
+SCHEDULED: <2023-10-10 Tue>
+* TODO Emacs buffers
+SCHEDULED: <2023-10-10 Tue>
+* TODO Emacs windows - resize and split
+SCHEDULED: <2023-10-10 Tue>
+* TODO Sym linkage between host and repo
+SCHEDULED: <2023-10-10 Tue>
+:LOGBOOK:
+CLOCK: [2023-10-10 Tue 13:58]
+:END:

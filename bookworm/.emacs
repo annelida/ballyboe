@@ -64,7 +64,9 @@
 (define-key global-map "\C-ca" 'org-agenda)
 (setq org-log-done t)
 
-(setq org-agenda-files (list "~/org/Home.org" "~/org/MySchedule.org"))
+(setq org-agenda-files (list
+			"~/git/ballyboe/bookworm/agenda/personal.list"
+			"~/git/ballyboe/bookworm/agenda/main.list"))
 (setq org-agenda-include-diary t)
 
 
