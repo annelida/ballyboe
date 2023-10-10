@@ -1,0 +1,22 @@
+#+BEGIN_EXPORT html
+---
+layout: page
+title: Blogging with Emacs Org
+tagline: " easy&peasy"
+permalink: /blogging-in-org.html
+categories: [Blogging, Emacs, Org, Jekyll]
+tags: [init, manual, how-to]
+---
+#+END_EXPORT
+
+#+STARTUP: showall indent
+#+OPTIONS: tags:nil num:nil \n:nil @:t ::t |:t ^:{} _:{} *:t
+#+TOC: headlines 2
+#+PROPERTY:header-args :results output :exports both :eval no-export
+#+CATEGORY: Blogging
+#+TODO: RAW INIT TODO ACTIVE | DONE
+
+* Overview
+* Installation
+* Settings
+* Usage Samples
