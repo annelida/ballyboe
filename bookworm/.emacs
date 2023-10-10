@@ -45,6 +45,9 @@
 (key-chord-define-global "bk"     'kill-buffer)
 (key-chord-define-global "qe"     'eval-region)
 
+(require 'magit)
+(key-chord-define-global "gs"     'magit-status)
+
 (require 'google-translate)
 (setq google-translate-translation-directions-alist '(("en" . "ru")))
 (setq google-translate-default-source-language "en")
