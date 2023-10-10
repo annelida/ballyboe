@@ -147,11 +147,12 @@ CLOSED: [2023-10-06 Fri 08:01] SCHEDULED: <2023-10-04 Wed>
 CLOSED: [2023-10-06 Fri 08:01] SCHEDULED: <2023-10-04 Wed>
 * DONE What is Ipython?
 CLOSED: [2023-10-06 Fri 08:01] SCHEDULED: <2023-10-04 Wed>
-* TODO Linux symbolic links 10m
-SCHEDULED: <2023-10-10 Tue>
-It allows to move the original file in safe place.
-On the place original file it possible to leave the shortcut with
-link to original file. For create soft link use command ln -s
+* DONE Linux symbolic links 10m
+CLOSED: [2023-10-10 Tue 18:52] SCHEDULED: <2023-10-10 Tue>
+- Note taken on <2023-10-10 Tue 15:30>
+  * It allows to move the original file in safe place.
+  * On the place original file it possible to leave the shortcut with
+  * link to original file. For create soft link use command ln -s
 * DONE Emacs server 10m
 CLOSED: [2023-10-10 Tue 15:29] SCHEDULED: <2023-10-10 Tue>
 - Note taken on [2023-10-10 Tue 15:27] \\
@@ -174,5 +175,5 @@ SCHEDULED: <2023-10-10 Tue>
 * TODO Sym linkage between host and repo
 SCHEDULED: <2023-10-10 Tue>
 :LOGBOOK:
-CLOCK: [2023-10-10 Tue 13:58]
+CLOCK: [2023-10-10 Tue 13:58]--[2023-10-10 Tue 14:48] =>  0:50
 :END:
