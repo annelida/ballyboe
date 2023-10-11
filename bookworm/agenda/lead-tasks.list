@@ -8,7 +8,7 @@
 #+PROPERTY: header-args :comments org
 #+CATEGORY: Lead
 #+TODO: RAW INIT TODO ACTIVE | DONE
-* INIT Genuine source of knowledge
+* INIT [#A] Genuine source of knowledge
 SCHEDULED: <2023-10-12 Thu>
 about how the program works are:
 - is the source code and embedded documentation;

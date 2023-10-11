@@ -136,44 +136,71 @@ CLOSED: [2023-10-02 Mon 17:46] SCHEDULED: <2023-10-02 Mon>
 ** DONE Adding a new SSH key to GitHub account
 CLOSED: [2023-10-02 Mon 17:46] SCHEDULED: <2023-10-02 Mon>
 * TODO [#C] Working with transctipt to video "How to Learn Anything Fast: Teach Your Brain to Focus"
-SCHEDULED: <2023-10-10 Tue>
+SCHEDULED: <2023-10-11 Wed>
 ** DONE Rewrite the transcript
 CLOSED: [2023-10-10 Tue 08:00] SCHEDULED: <2023-10-06 Fri>
-* ACTIVE Org-Jekyll - configuration options
-SCHEDULED: <2023-10-10 Tue>
+* ACTIVE
+Org-Jekyll - configuration options
+SCHEDULED: <2023-10-11 Wed>
+- Note taken on [2023-10-11 Wed 15:47] \\
+  Compare two folders: the working one sample in 0--key.github.io ||
+  annelida.github.io
+
+  Manually
+  Via diff utility
+  Modification date
+  [[file:~/git/annelida.github.io/_posts/core-samples/2011-12-29-jekyll-introduction.md][core samples]]
+:LOGBOOK:
+CLOCK: [2023-10-11 Wed 15:47]--[2023-10-11 Wed 16:07] =>  0:20
+:END:
 * DONE Github.io - configuration
 CLOSED: [2023-10-06 Fri 08:01] SCHEDULED: <2023-10-04 Wed>
 * DONE What is Python REPL
 CLOSED: [2023-10-06 Fri 08:01] SCHEDULED: <2023-10-04 Wed>
 * DONE What is Ipython?
 CLOSED: [2023-10-06 Fri 08:01] SCHEDULED: <2023-10-04 Wed>
-* DONE Linux symbolic links 10m
-CLOSED: [2023-10-10 Tue 18:52] SCHEDULED: <2023-10-10 Tue>
-- Note taken on <2023-10-10 Tue 15:30>
+* ACTIVE Linux symbolic links 10m
+SCHEDULED: <2023-10-17 Tue>
+- Note taken on [2023-10-10 Tue 19:27] \\
+  M-x man <enter> ln
+- Note taken on [2023-10-10 Tue 15:30]
   * It allows to move the original file in safe place.
   * On the place original file it possible to leave the shortcut with
   * link to original file. For create soft link use command ln -s
-* DONE Emacs server 10m
-CLOSED: [2023-10-10 Tue 15:29] SCHEDULED: <2023-10-10 Tue>
+* ACTIVE Emacs server 10m
+SCHEDULED: <2023-10-17 Tue>
 - Note taken on [2023-10-10 Tue 15:27] \\
   * Launch the graphical version;
   * Start the server: =M-x server-start=
   * Launch the client version by =emacsclient -t=
 * TODO Org-Agenda views: item arrangement in daily agenda, its priorities;
-SCHEDULED: <2023-10-10 Tue>
+SCHEDULED: <2023-10-17 Tue>
 * TODO Magit brief overview
-SCHEDULED: <2023-10-10 Tue>
+SCHEDULED: <2023-10-11 Wed>
 * TODO Key-chords from 0--key: each key-chorded command with explanation
-SCHEDULED: <2023-10-10 Tue>
+SCHEDULED: <2023-10-11 Wed>
+:LOGBOOK:
+CLOCK: [2023-10-10 Tue 18:53]--[2023-10-10 Tue 19:00] =>  0:07
+:END:
 C-h a <command name>
 * TODO Emacs frames
-SCHEDULED: <2023-10-10 Tue>
+SCHEDULED: <2023-10-12 Thu>
+[[info:emacs#Frame Commands][emacs#Frame Commands]]
+[[info:emacs#Frames][emacs#Frames]]
+:LOGBOOK:
+CLOCK: [2023-10-10 Tue 19:00]--[2023-10-10 Tue 19:14] =>  0:14
+:END:
 * TODO Emacs buffers
-SCHEDULED: <2023-10-10 Tue>
+SCHEDULED: <2023-10-12 Thu>
+[[info:emacs#Buffers][emacs#Buffers]]
+:LOGBOOK:
+CLOCK: [2023-10-10 Tue 19:14]--[2023-10-10 Tue 19:20] =>  0:06
+:END:
 * TODO Emacs windows - resize and split
-SCHEDULED: <2023-10-10 Tue>
-* TODO Sym linkage between host and repo
-SCHEDULED: <2023-10-10 Tue>
+SCHEDULED: <2023-10-12 Thu>
+[[info:emacs#Basic Window][emacs#Basic Window]]
+* DONE Sym linkage between host and repo
+CLOSED: [2023-10-10 Tue 19:23] SCHEDULED: <2023-10-10 Tue>
 :LOGBOOK:
 CLOCK: [2023-10-10 Tue 13:58]--[2023-10-10 Tue 14:48] =>  0:50
 :END:
