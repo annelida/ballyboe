@@ -78,6 +78,15 @@
 (require 'org)
 (define-key global-map "\C-cl" 'org-store-link)
 (define-key global-map "\C-ca" 'org-agenda)
+(key-chord-define-global "ga"     'org-agenda)
+(key-chord-define org-mode-map "km"     'org-meta-return)
+(key-chord-define org-mode-map "a["     'org-agenda-file-to-front)
+(key-chord-define org-mode-map "a]"     'org-remove-file)
+(key-chord-define org-mode-map "od"     'org-deadline)
+(key-chord-define org-mode-map "so"     'org-schedule)
+(key-chord-define-global "sz"     'org-store-link)
+(key-chord-define-global "sx"     'org-insert-link)
+
 (setq org-log-done t)
 
 (setq org-agenda-files (list
