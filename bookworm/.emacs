@@ -82,7 +82,8 @@
 
 (setq org-agenda-files (list
 			"~/git/ballyboe/bookworm/agenda/personal.list"
-			"~/git/ballyboe/bookworm/agenda/main.list"))
+			"~/git/ballyboe/bookworm/agenda/main.list"
+			"~/git/ballyboe/bookworm/agenda/lead-tasks.list"))
 (setq org-agenda-include-diary t)
 
 
