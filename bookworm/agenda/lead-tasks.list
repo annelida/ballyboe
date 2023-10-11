@@ -1,0 +1,19 @@
+-*- mode: org; -*-
+#+AUTHOR:    Viktoriia Kosinova
+#+TITLE:     Mental Athlete's Directives
+#+SUBTITLE:  Life in a plain text
+#+EMAIL:     viqsiq@gmail.com
+#+LANGUAGE: en
+#+STARTUP: showall indent
+#+PROPERTY: header-args :comments org
+#+CATEGORY: Lead
+#+TODO: RAW INIT TODO ACTIVE | DONE
+* INIT Genuine source of knowledge
+SCHEDULED: <2023-10-12 Thu>
+about how the program works are:
+- is the source code and embedded documentation;
+- the simplified version usually provided by official documentation;
+  - in most cases the latter included in a particular package;
+  - usually it is available through =Emacs= *info system*;
+
+--Conclusion: the wisest decision is just to use it properly!
