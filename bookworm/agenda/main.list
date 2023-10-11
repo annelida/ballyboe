@@ -136,12 +136,11 @@ CLOSED: [2023-10-02 Mon 17:46] SCHEDULED: <2023-10-02 Mon>
 ** DONE Adding a new SSH key to GitHub account
 CLOSED: [2023-10-02 Mon 17:46] SCHEDULED: <2023-10-02 Mon>
 * TODO [#C] Working with transctipt to video "How to Learn Anything Fast: Teach Your Brain to Focus"
-SCHEDULED: <2023-10-11 Wed>
+SCHEDULED: <2023-10-12 Thu>
 ** DONE Rewrite the transcript
 CLOSED: [2023-10-10 Tue 08:00] SCHEDULED: <2023-10-06 Fri>
-* ACTIVE
-Org-Jekyll - configuration options
-SCHEDULED: <2023-10-11 Wed>
+* ACTIVE Org-Jekyll - configuration options
+SCHEDULED: <2023-10-12 Thu>
 - Note taken on [2023-10-11 Wed 15:47] \\
   Compare two folders: the working one sample in 0--key.github.io ||
   annelida.github.io
@@ -149,7 +148,7 @@ SCHEDULED: <2023-10-11 Wed>
   Manually
   Via diff utility
   Modification date
-  [[file:~/git/annelida.github.io/_posts/core-samples/2011-12-29-jekyll-introduction.md][core samples]]
+  ~/git/annelida.github.io/_posts/core-samples/2011-12-29-jekyll-introduction.md
 :LOGBOOK:
 CLOCK: [2023-10-11 Wed 15:47]--[2023-10-11 Wed 16:07] =>  0:20
 :END:
@@ -176,9 +175,9 @@ SCHEDULED: <2023-10-17 Tue>
 * TODO Org-Agenda views: item arrangement in daily agenda, its priorities;
 SCHEDULED: <2023-10-17 Tue>
 * TODO Magit brief overview
-SCHEDULED: <2023-10-11 Wed>
+SCHEDULED: <2023-10-12 Thu>
 * TODO Key-chords from 0--key: each key-chorded command with explanation
-SCHEDULED: <2023-10-11 Wed>
+SCHEDULED: <2023-10-12 Thu>
 :LOGBOOK:
 CLOCK: [2023-10-10 Tue 18:53]--[2023-10-10 Tue 19:00] =>  0:07
 :END:
