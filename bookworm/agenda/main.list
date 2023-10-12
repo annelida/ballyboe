@@ -136,11 +136,11 @@ CLOSED: [2023-10-02 Mon 17:46] SCHEDULED: <2023-10-02 Mon>
 ** DONE Adding a new SSH key to GitHub account
 CLOSED: [2023-10-02 Mon 17:46] SCHEDULED: <2023-10-02 Mon>
 * TODO [#C] Working with transctipt to video "How to Learn Anything Fast: Teach Your Brain to Focus"
-SCHEDULED: <2023-10-12 Thu>
+SCHEDULED: <2023-10-13 Fri>
 ** DONE Rewrite the transcript
 CLOSED: [2023-10-10 Tue 08:00] SCHEDULED: <2023-10-06 Fri>
 * ACTIVE Org-Jekyll - configuration options
-SCHEDULED: <2023-10-12 Thu>
+SCHEDULED: <2023-10-13 Fri>
 - Note taken on [2023-10-12 Thu 15:01] \\
   Reverse approach: use the working sample with minimum modifications
   (personal data).
@@ -200,28 +200,28 @@ SCHEDULED: <2023-10-17 Tue>
 * TODO Org-Agenda views: item arrangement in daily agenda, its priorities;
 SCHEDULED: <2023-10-17 Tue>
 * TODO Magit brief overview
-SCHEDULED: <2023-10-12 Thu>
+SCHEDULED: <2023-10-13 Fri>
 * TODO Key-chords from 0--key: each key-chorded command with explanation
-SCHEDULED: <2023-10-12 Thu>
+SCHEDULED: <2023-10-13 Fri>
 :LOGBOOK:
 CLOCK: [2023-10-10 Tue 18:53]--[2023-10-10 Tue 19:00] =>  0:07
 :END:
 C-h a <command name>
 * TODO Emacs frames
-SCHEDULED: <2023-10-12 Thu>
+SCHEDULED: <2023-10-13 Fri>
 [[info:emacs#Frame Commands][emacs#Frame Commands]]
 [[info:emacs#Frames][emacs#Frames]]
 :LOGBOOK:
 CLOCK: [2023-10-10 Tue 19:00]--[2023-10-10 Tue 19:14] =>  0:14
 :END:
 * TODO Emacs buffers
-SCHEDULED: <2023-10-12 Thu>
+SCHEDULED: <2023-10-13 Fri>
 [[info:emacs#Buffers][emacs#Buffers]]
 :LOGBOOK:
 CLOCK: [2023-10-10 Tue 19:14]--[2023-10-10 Tue 19:20] =>  0:06
 :END:
 * TODO Emacs windows - resize and split
-SCHEDULED: <2023-10-12 Thu>
+SCHEDULED: <2023-10-13 Fri>
 [[info:emacs#Basic Window][emacs#Basic Window]]
 * DONE Sym linkage between host and repo
 CLOSED: [2023-10-10 Tue 19:23] SCHEDULED: <2023-10-10 Tue>
