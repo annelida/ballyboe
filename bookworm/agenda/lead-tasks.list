@@ -8,8 +8,16 @@
 #+PROPERTY: header-args :comments org
 #+CATEGORY: Lead
 #+TODO: RAW INIT TODO ACTIVE | DONE
-* INIT [#A] Genuine source of knowledge
-SCHEDULED: <2023-10-12 Thu>
+* TODO [#A] Genuine source of knowledge
+SCHEDULED: <2023-10-13 Fri>
+:LOGBOOK:
+CLOCK: [2023-10-12 Thu 08:33]--[2023-10-12 Thu 10:58] =>  2:25
+:END:
+
+Genuine (original, authentic)
+Have undisputed origin, independly verified,
+and objectively authenticated.
+
 about how the program works are:
 - is the source code and embedded documentation;
 - the simplified version usually provided by official documentation;
