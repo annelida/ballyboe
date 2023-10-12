@@ -26,5 +26,15 @@ about how the program works are:
 
 --Conclusion: the wisest decision is just to use it properly!
 * INIT [#A] Deliberate practice
-SCHEDULED: <2023-10-12 Thu>
+SCHEDULED: <2023-10-13 Fri>
 when you do challenging but indispensable tasks by yourself
+* INIT Help about *Help*
+SCHEDULED: <2023-10-13 Fri>
+Very straighforward system out from 10 initial keys to use in embedded
+*Help* browser. To use several *Help* buffers use =M-x raname uniquely=
+* INIT Help about *info*
+SCHEDULED: <2023-10-13 Fri>
+Mostly the similar approach with several quirks
+* [#A] Clocking
+SCHEDULED: <2023-10-13 Fri>
+[[info:org#Clocking Work Time][org#Clocking Work Time]]
