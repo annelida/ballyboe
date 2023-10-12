@@ -141,6 +141,30 @@ SCHEDULED: <2023-10-12 Thu>
 CLOSED: [2023-10-10 Tue 08:00] SCHEDULED: <2023-10-06 Fri>
 * ACTIVE Org-Jekyll - configuration options
 SCHEDULED: <2023-10-12 Thu>
+- Note taken on [2023-10-12 Thu 15:01] \\
+  Reverse approach: use the working sample with minimum modifications
+  (personal data).
+- Note taken on [2023-10-11 Wed 17:05] \\
+  * Prerequisites
+  I have two repositories:
+  - The first -  working properly
+  - The second - new, not working.
+  - Core samples with brief description how it shold work
+
+    The task: *Modificate the content of not working repo and force it
+    work properly as the first one*
+
+    The average workflow:
+    1. Core samples reading till full clarification the idea behind
+       these words;
+
+    2. Find differences among these two repos. It's not difficult by
+       /diff/ utility in Bash or the same in Emacs;
+
+    3. To ponder aroun what is should be changed, why and how?
+
+    4. Elaborate a clear hypothesis how to make changes to achieve the
+       result.
 - Note taken on [2023-10-11 Wed 15:47] \\
   Compare two folders: the working one sample in 0--key.github.io ||
   annelida.github.io
