@@ -1,0 +1,48 @@
+-*- mode: org; -*-
+#+AUTHOR:    Viktoriia Kosinova
+#+TITLE:     The list of chores
+#+SUBTITLE:  Life in a plain text
+#+EMAIL:     viqsiq@gmail.com
+#+LANGUAGE: en
+#+STARTUP: showall indent
+#+PROPERTY: header-args :comments org
+#+CATEGORY: Chore
+#+TODO: RAW INIT TODO ACTIVE | DONE
+* INIT What is chores
+SCHEDULED: <2023-10-13 Fri>
+Naturally, by its definition they are the routine, usual and regular
+tasks.
+* INIT Git commits purification
+SCHEDULED: <2023-10-13 Fri ++1d>
+* INIT *PUSH*
+SCHEDULED: <2023-10-13 Fri ++1d>
+Initially it should be accomplished daily. Sometimes it would be
+necessary to do after some changes need to be shared with me
+urgently. Before push I can't see any changes, because all them are on
+your localhost.
+* INIT Workspace clean-up
+SCHEDULED: <2023-10-13 Fri ++1w>
+Twice a week you should remove all redundant trash out from your
+workspace:
+- All unrelevant tabs in Chrome browser (10 might be left only);
+- All outdated and unused buffers in Emacs.
+* INIT Workspace clean-up
+SCHEDULED: <2023-10-18 Wed ++1w>
+Twice a week you should remove all redundant trash out from your
+workspace:
+- All unrelevant tabs in Chrome browser (10 might be left only);
+- All outdated and unused buffers in Emacs;
+- Update and upgrade your Debian packages;
+- Update your Elpa/Melpa packages in Emacs;
+- Check updates and if it possible update ChromeOS;
+  If OS updated successfully --> reboot it up.
+* ACTIVE Evening meet-up
+SCHEDULED: <2023-10-13 Fri ++1d>
+To discuss actual questions and find answers.
+* TODO Daily taskset schedulling
+SCHEDULED: <2023-10-13 Fri ++1d>
+It might be required several times a day, but first time in the early
+morning.
+* TODO Tomorrow's agenda brush-up
+SCHEDULED: <2023-10-13 Fri ++1d>
+=Tomorrow begins today=. You should be well prepared.
