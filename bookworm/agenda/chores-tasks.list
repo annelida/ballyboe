@@ -9,23 +9,47 @@
 #+CATEGORY: Chore
 #+TODO: RAW INIT TODO ACTIVE | DONE
 * INIT What is chores
-SCHEDULED: <2023-10-13 Fri>
+SCHEDULED: <2023-10-14 Sat>
 Naturally, by its definition they are the routine, usual and regular
 tasks.
-* INIT Git commits purification
-SCHEDULED: <2023-10-13 Fri ++1d>
-* INIT *PUSH*
-SCHEDULED: <2023-10-13 Fri ++1d>
+* RAW Git commits purification
+SCHEDULED: <2023-10-14 Sat ++1d>
+:PROPERTIES:
+:LAST_REPEAT: [2023-10-13 Fri 13:02]
+:END:
+- State "DONE"       from "ACTIVE"     [2023-10-13 Fri 13:02]
+* RAW *PUSH*
+SCHEDULED: <2023-10-14 Sat ++1d>
+:PROPERTIES:
+:LAST_REPEAT: [2023-10-13 Fri 13:02]
+:END:
+- State "DONE"       from "ACTIVE"     [2023-10-13 Fri 13:02]
 Initially it should be accomplished daily. Sometimes it would be
 necessary to do after some changes need to be shared with me
 urgently. Before push I can't see any changes, because all them are on
 your localhost.
-* INIT Workspace clean-up
-SCHEDULED: <2023-10-13 Fri ++1w>
+* RAW Workspace clean-up
+SCHEDULED: <2023-10-20 Fri ++1w>
+:PROPERTIES:
+:LAST_REPEAT: [2023-10-13 Fri 13:01]
+:END:
+- State "DONE"       from "ACTIVE"     [2023-10-13 Fri 13:01]
+- State "DONE"       from "ACTIVE"     [2023-10-13 Fri 12:59]
+- State "DONE"       from "ACTIVE"     [2023-10-13 Fri 12:59]
 Twice a week you should remove all redundant trash out from your
 workspace:
 - All unrelevant tabs in Chrome browser (10 might be left only);
 - All outdated and unused buffers in Emacs.
+  - Note taken on [2023-10-13 Fri 12:55] \\
+  
+  * Run M-x ibuffer (built-in command).
+  * On each line with a buffer you want to delete press 'd'.
+  * When finished press 'x' to commit changes.
+
+  * C-x C-b to list all buffers
+  * k to mark buffers for kill (D appears next to buffer)
+  * x to execute kill
+    
 * INIT Workspace clean-up
 SCHEDULED: <2023-10-18 Wed ++1w>
 Twice a week you should remove all redundant trash out from your
