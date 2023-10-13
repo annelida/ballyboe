@@ -199,30 +199,78 @@ SCHEDULED: <2023-10-17 Tue>
   * Launch the client version by =emacsclient -t=
 * TODO Org-Agenda views: item arrangement in daily agenda, its priorities;
 SCHEDULED: <2023-10-17 Tue>
-* TODO Magit brief overview
-SCHEDULED: <2023-10-13 Fri>
+* ACTIVE Magit brief overview
+SCHEDULED: <2023-10-20 Fri>
+- Note taken on [2023-10-13 Fri 07:58] \\
+  * To display information about the current Git repository C-x-g
+    or gs (key-chord);
+  * Depending on what state repository is in, this buffer may contain
+    sections titled "Staged changes", "Unstaged changes",
+     "Unmerged into origin/master",
+    "Unpushed to origin/master";
+  * To move file from ustage area to stage area: go  the section named
+    "Unstaged changes" and type s to stage the changes you have made to
+    that file or hunk (piece of hunk).
+ 
+  Most Magit commands invoks from the status buffer:
+  F		magit-pull
+  G		magit-refresh-all
+  P		magit-push
+  c		magit-commit
+  f		magit-fetch
+  g		magit-refresh
+  l		magit-log
+:LOGBOOK:
+CLOCK: [2023-10-13 Fri 07:53]--[2023-10-13 Fri 08:17] =>  0:24
+:END:
 * TODO Key-chords from 0--key: each key-chorded command with explanation
 SCHEDULED: <2023-10-13 Fri>
 :LOGBOOK:
 CLOCK: [2023-10-10 Tue 18:53]--[2023-10-10 Tue 19:00] =>  0:07
 :END:
 C-h a <command name>
-* TODO Emacs frames
-SCHEDULED: <2023-10-13 Fri>
+C-h f
+* ACTIVE Emacs frames
+SCHEDULED: <2023-10-20 Fri>
+- Note taken on [2023-10-13 Fri 08:31] \\
+  * A graphical display that contains one or more Emacs windows,
+    a menu bar, tool bar, echo area.
+  * The C-x 5 o ( other-frame ) command selects the next frame
+    on the current terminal.
+    (';) - key-chord
 [[info:emacs#Frame Commands][emacs#Frame Commands]]
 [[info:emacs#Frames][emacs#Frames]]
 :LOGBOOK:
+CLOCK: [2023-10-13 Fri 08:25]--[2023-10-13 Fri 08:51] =>  0:26
 CLOCK: [2023-10-10 Tue 19:00]--[2023-10-10 Tue 19:14] =>  0:14
 :END:
-* TODO Emacs buffers
-SCHEDULED: <2023-10-13 Fri>
+* ACTIVE Emacs buffers
+SCHEDULED: <2023-10-20 Fri>
+The text you are editing in Emacs resides in an
+object called a “buffer”.
+Each buffer has a unique name.
+
+[[info:emacs#Kill Buffer][emacs#Kill Buffer]]
 [[info:emacs#Buffers][emacs#Buffers]]
+
 :LOGBOOK:
+CLOCK: [2023-10-13 Fri 09:22]--[2023-10-13 Fri 09:42] =>  0:20
+CLOCK: [2023-10-13 Fri 09:16]--[2023-10-13 Fri 09:22] =>  0:06
 CLOCK: [2023-10-10 Tue 19:14]--[2023-10-10 Tue 19:20] =>  0:06
 :END:
-* TODO Emacs windows - resize and split
-SCHEDULED: <2023-10-13 Fri>
+* ACTIVE Emacs windows - resize and split
+SCHEDULED: <2023-10-20 Fri>
+- Note taken on [2023-10-13 Fri 09:01] \\
+  * Frame can be split into several windows. Buffer or it's part
+    displays in window
+  * one Emacs window is the “selected window”; the buffer
+    this window is displaying is the current buffer.
+:LOGBOOK:
+CLOCK: [2023-10-13 Fri 08:59]--[2023-10-13 Fri 09:16] =>  0:17
+:END:
 [[info:emacs#Basic Window][emacs#Basic Window]]
+[[info:emacs#Split Window][emacs#Split Window]]
+[[info:emacs#Change Window][emacs#Change Window]]
 * DONE Sym linkage between host and repo
 CLOSED: [2023-10-10 Tue 19:23] SCHEDULED: <2023-10-10 Tue>
 :LOGBOOK:
