@@ -9,7 +9,7 @@
 #+CATEGORY: Lead
 #+TODO: RAW INIT TODO ACTIVE | DONE
 * TODO [#A] Genuine source of knowledge
-SCHEDULED: <2023-10-13 Fri>
+SCHEDULED: <2023-10-16 Mon>
 :LOGBOOK:
 CLOCK: [2023-10-12 Thu 08:33]--[2023-10-12 Thu 10:58] =>  2:25
 :END:
@@ -26,15 +26,15 @@ about how the program works are:
 
 --Conclusion: the wisest decision is just to use it properly!
 * INIT [#A] Deliberate practice
-SCHEDULED: <2023-10-13 Fri>
+SCHEDULED: <2023-10-16 Mon>
 when you do challenging but indispensable tasks by yourself
 * INIT Help about *Help*
-SCHEDULED: <2023-10-13 Fri>
+SCHEDULED: <2023-10-14 Sat>
 Very straighforward system out from 10 initial keys to use in embedded
 *Help* browser. To use several *Help* buffers use =M-x raname uniquely=
 * INIT Help about *info*
-SCHEDULED: <2023-10-13 Fri>
+SCHEDULED: <2023-10-14 Sat>
 Mostly the similar approach with several quirks
-* [#A] Clocking
-SCHEDULED: <2023-10-13 Fri>
+* TODO [#A] Clocking
+SCHEDULED: <2023-10-14 Sat>
 [[info:org#Clocking Work Time][org#Clocking Work Time]]

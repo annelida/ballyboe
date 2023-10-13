@@ -36,13 +36,25 @@ workspace:
 - Update your Elpa/Melpa packages in Emacs;
 - Check updates and if it possible update ChromeOS;
   If OS updated successfully --> reboot it up.
-* ACTIVE Evening meet-up
-SCHEDULED: <2023-10-13 Fri ++1d>
+* RAW Evening meet-up
+SCHEDULED: <2023-10-14 Sat ++1d>
+:PROPERTIES:
+:LAST_REPEAT: [2023-10-13 Fri 13:01]
+:END:
+- State "DONE"       from "ACTIVE"     [2023-10-13 Fri 13:01]
 To discuss actual questions and find answers.
-* TODO Daily taskset schedulling
-SCHEDULED: <2023-10-13 Fri ++1d>
+* RAW Daily taskset schedulling
+SCHEDULED: <2023-10-14 Sat ++1d>
+:PROPERTIES:
+:LAST_REPEAT: [2023-10-13 Fri 13:03]
+:END:
+- State "DONE"       from "ACTIVE"     [2023-10-13 Fri 13:03]
 It might be required several times a day, but first time in the early
 morning.
-* TODO Tomorrow's agenda brush-up
-SCHEDULED: <2023-10-13 Fri ++1d>
+* RAW Tomorrow's agenda brush-up
+SCHEDULED: <2023-10-14 Sat ++1d>
+:PROPERTIES:
+:LAST_REPEAT: [2023-10-13 Fri 13:03]
+:END:
+- State "DONE"       from "ACTIVE"     [2023-10-13 Fri 13:03]
 =Tomorrow begins today=. You should be well prepared.
