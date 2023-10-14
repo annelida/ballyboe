@@ -30,8 +30,31 @@ SCHEDULED: <2023-10-16 Mon>
 when you do challenging but indispensable tasks by yourself
 * INIT Help about *Help*
 SCHEDULED: <2023-10-14 Sat>
+- Note taken on [2023-10-14 Sat 08:14] \\
+
+  C-h C-h or C-h ? to invoke Emacs built-n key.
+  When type the key from the list
+
+  f FUNCTION - describe-function
+  Type a function name and get documentation of it.
+
+  i - info. The info documentation reader.
+
+  k KEYS - describe-key.
+  Type a command key sequence; it displays the full documentation.
+
+  m - describe-mode. Print documentation of current minor modes,
+  and the current major mode, including their special commands.
+
+  t - help-with-tutorial. Select the Emacs learn-by-doing tutorial.
+
+  v - VARIABLE - describe-variable.
+  Type name of a variable; it displays the variable's documentation and value
+:LOGBOOK:
+CLOCK: [2023-10-14 Sat 07:30]--[2023-10-14 Sat 08:27] =>  0:57
+:END:
 Very straighforward system out from 10 initial keys to use in embedded
-*Help* browser. To use several *Help* buffers use =M-x raname uniquely=
+*Help* browser.OA To use several *Help* buffers use =M-x raname uniquely=
 * INIT Help about *info*
 SCHEDULED: <2023-10-14 Sat>
 Mostly the similar approach with several quirks
