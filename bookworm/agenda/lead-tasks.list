@@ -29,7 +29,7 @@ about how the program works are:
 SCHEDULED: <2023-10-16 Mon>
 when you do challenging but indispensable tasks by yourself
 * INIT Help about *Help*
-SCHEDULED: <2023-10-14 Sat>
+SCHEDULED: <2023-10-21 Sat>
 - Note taken on [2023-10-14 Sat 08:14] \\
 
   C-h C-h or C-h ? to invoke Emacs built-n key.
@@ -56,13 +56,13 @@ CLOCK: [2023-10-14 Sat 07:30]--[2023-10-14 Sat 08:27] =>  0:57
 Very straighforward system out from 10 initial keys to use in embedded
 *Help* browser.OA To use several *Help* buffers use =M-x raname uniquely=
 * INIT Help about *info*
-SCHEDULED: <2023-10-14 Sat>
+SCHEDULED: <2023-10-21 Sat>
 - Note taken on [2023-10-14 Sat 08:47] \\
   To open Emacs Info use C-h-i or C-h-r
 :LOGBOOK:
 CLOCK: [2023-10-14 Sat 08:45]--[2023-10-14 Sat 09:18] =>  0:33
 :END:
 Mostly the similar approach with several quirks
-* TODO [#A] Clocking
+* ACTIVE [#A] Clocking
 SCHEDULED: <2023-10-14 Sat>
 [[info:org#Clocking Work Time][org#Clocking Work Time]]

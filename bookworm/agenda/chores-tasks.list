@@ -8,11 +8,11 @@
 #+PROPERTY: header-args :comments org
 #+CATEGORY: Chore
 #+TODO: RAW INIT TODO ACTIVE | DONE
-* INIT What is chores
+* TODO What is chores
 SCHEDULED: <2023-10-14 Sat>
 Naturally, by its definition they are the routine, usual and regular
 tasks.
-* RAW Git commits purification
+* INIT Git commits purification
 SCHEDULED: <2023-10-14 Sat ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2023-10-13 Fri 13:02]
@@ -60,14 +60,14 @@ workspace:
 - Update your Elpa/Melpa packages in Emacs;
 - Check updates and if it possible update ChromeOS;
   If OS updated successfully --> reboot it up.
-* RAW Evening meet-up
+* INIT Evening meet-up
 SCHEDULED: <2023-10-14 Sat ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2023-10-13 Fri 13:01]
 :END:
 - State "DONE"       from "ACTIVE"     [2023-10-13 Fri 13:01]
 To discuss actual questions and find answers.
-* RAW Daily taskset schedulling
+* INIT Daily taskset schedulling
 SCHEDULED: <2023-10-14 Sat ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2023-10-13 Fri 13:03]
@@ -75,7 +75,7 @@ SCHEDULED: <2023-10-14 Sat ++1d>
 - State "DONE"       from "ACTIVE"     [2023-10-13 Fri 13:03]
 It might be required several times a day, but first time in the early
 morning.
-* RAW Tomorrow's agenda brush-up
+* INIT Tomorrow's agenda brush-up
 SCHEDULED: <2023-10-14 Sat ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2023-10-13 Fri 13:03]
