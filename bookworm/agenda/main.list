@@ -136,11 +136,31 @@ CLOSED: [2023-10-02 Mon 17:46] SCHEDULED: <2023-10-02 Mon>
 ** DONE Adding a new SSH key to GitHub account
 CLOSED: [2023-10-02 Mon 17:46] SCHEDULED: <2023-10-02 Mon>
 * ACTIVE [#C] Working with transctipt to video "How to Learn Anything Fast: Teach Your Brain to Focus"
-SCHEDULED: <2023-10-14 Sat>
+SCHEDULED: <2023-10-15 Sun>
+- Note taken on [2023-10-14 Sat 13:30] \\
+  Part I "The neuroscience solution to boredom "
+
+  Sometimes during our learning process it is difficult to focus and
+  remember studying material.The reason why our brain works so bad in
+  particular situationsis because the new information can be not
+  interesting for us or too hard or boring. Scientific research has proven
+  that our brain in the studying process tries to search for rewards.
+  And in cases when rewards are non-obvious our brain doesn't know how
+  to progress.
+  To solve this trouble the scientists offer to change our direction of
+  thinking.
+  Instead of traditional searching rewards in our learning process,
+  just try to seek novelty.
+ 
+  And think about the novelty, new knowledge as your rewards.
+  
+:LOGBOOK:
+CLOCK: [2023-10-14 Sat 13:30]--[2023-10-14 Sat 14:03] =>  0:33
+:END:
 ** DONE Rewrite the transcript
 CLOSED: [2023-10-10 Tue 08:00] SCHEDULED: <2023-10-06 Fri>
 * ACTIVE Org-Jekyll - configuration options
-SCHEDULED: <2023-10-14 Sat>
+SCHEDULED: <2023-10-16 Mon>
 - Note taken on [2023-10-12 Thu 15:01] \\
   Reverse approach: use the working sample with minimum modifications
   (personal data).
