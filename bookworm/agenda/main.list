@@ -248,7 +248,7 @@ Press c (Commit), then a (Amend), edit the message, C-c C-c.
 CLOCK: [2023-10-13 Fri 07:53]--[2023-10-13 Fri 08:17] =>  0:24
 :END:
 * TODO Key-chords from 0--key: each key-chorded command with explanation
-SCHEDULED: <2023-10-14 Sat>
+SCHEDULED: <2023-10-16 Mon>
 :LOGBOOK:
 CLOCK: [2023-10-10 Tue 18:53]--[2023-10-10 Tue 19:00] =>  0:07
 :END:
