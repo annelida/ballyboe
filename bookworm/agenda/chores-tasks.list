@@ -8,21 +8,23 @@
 #+PROPERTY: header-args :comments org
 #+CATEGORY: Chore
 #+TODO: RAW INIT TODO ACTIVE | DONE
-* TODO What is chores
-SCHEDULED: <2023-10-14 Sat>
+* DONE What is chores
+CLOSED: [2023-10-14 Sat 14:24] SCHEDULED: <2023-10-15 Sun>
 Naturally, by its definition they are the routine, usual and regular
 tasks.
-* INIT Git commits purification
-SCHEDULED: <2023-10-14 Sat ++1d>
+* RAW Git commits purification
+SCHEDULED: <2023-10-15 Sun ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-10-13 Fri 13:02]
+:LAST_REPEAT: [2023-10-14 Sat 14:24]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-10-14 Sat 14:24]
 - State "DONE"       from "ACTIVE"     [2023-10-13 Fri 13:02]
 * RAW *PUSH*
-SCHEDULED: <2023-10-14 Sat ++1d>
+SCHEDULED: <2023-10-15 Sun ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-10-13 Fri 13:02]
+:LAST_REPEAT: [2023-10-14 Sat 14:24]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-10-14 Sat 14:24]
 - State "DONE"       from "ACTIVE"     [2023-10-13 Fri 13:02]
 Initially it should be accomplished daily. Sometimes it would be
 necessary to do after some changes need to be shared with me
@@ -60,25 +62,29 @@ workspace:
 - Update your Elpa/Melpa packages in Emacs;
 - Check updates and if it possible update ChromeOS;
   If OS updated successfully --> reboot it up.
-* INIT Evening meet-up
-SCHEDULED: <2023-10-14 Sat ++1d>
+* RAW Evening meet-up
+SCHEDULED: <2023-10-15 Sun ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-10-13 Fri 13:01]
+:LAST_REPEAT: [2023-10-14 Sat 14:24]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-10-14 Sat 14:24]
 - State "DONE"       from "ACTIVE"     [2023-10-13 Fri 13:01]
 To discuss actual questions and find answers.
-* INIT Daily taskset schedulling
-SCHEDULED: <2023-10-14 Sat ++1d>
+* RAW Daily taskset schedulling
+SCHEDULED: <2023-10-15 Sun ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-10-13 Fri 13:03]
+:LAST_REPEAT: [2023-10-14 Sat 14:24]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-10-14 Sat 14:24]
 - State "DONE"       from "ACTIVE"     [2023-10-13 Fri 13:03]
 It might be required several times a day, but first time in the early
 morning.
-* INIT Tomorrow's agenda brush-up
-SCHEDULED: <2023-10-14 Sat ++1d>
+* ACTIVE Tomorrow's agenda brush-up
+SCHEDULED: <2023-10-16 Mon ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-10-13 Fri 13:03]
+:LAST_REPEAT: [2023-10-14 Sat 14:24]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-10-14 Sat 14:24]
+- State "DONE"       from "ACTIVE"     [2023-10-14 Sat 14:23]
 - State "DONE"       from "ACTIVE"     [2023-10-13 Fri 13:03]
 =Tomorrow begins today=. You should be well prepared.
