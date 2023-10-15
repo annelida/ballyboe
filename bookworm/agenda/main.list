@@ -301,7 +301,7 @@ CLOSED: [2023-10-10 Tue 19:23] SCHEDULED: <2023-10-10 Tue>
 CLOCK: [2023-10-10 Tue 13:58]--[2023-10-10 Tue 14:48] =>  0:50
 :END:
 * TODO Comparing files and folders in Linux/Emacs
-SCHEDULED: <2023-10-15 Sun>
+SCHEDULED: <2023-10-16 Mon>
 - Note taken on [2023-10-15 Sun 08:13] \\
 
   In Emacs:
@@ -332,6 +332,11 @@ SCHEDULED: <2023-10-15 Sun>
   Meld has many options for comparing files or directories.
   If two files differ, it's easy to enter file comparison mode
   and see the exact differences.
+
+  Create two files with some difference and compare them using
+  each possible approach.
+  Put the files in folders with the same name and compare again.
+  
 :LOGBOOK:
 CLOCK: [2023-10-15 Sun 08:13]--[2023-10-15 Sun 09:23] =>  1:10
 :END:
