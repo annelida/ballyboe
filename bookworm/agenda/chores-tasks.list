@@ -20,10 +20,11 @@ SCHEDULED: <2023-10-15 Sun ++1d>
 - State "DONE"       from "ACTIVE"     [2023-10-14 Sat 14:24]
 - State "DONE"       from "ACTIVE"     [2023-10-13 Fri 13:02]
 * RAW *PUSH*
-SCHEDULED: <2023-10-15 Sun ++1d>
+SCHEDULED: <2023-10-16 Mon ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-10-14 Sat 14:24]
+:LAST_REPEAT: [2023-10-15 Sun 11:55]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-10-15 Sun 11:55]
 - State "DONE"       from "ACTIVE"     [2023-10-14 Sat 14:24]
 - State "DONE"       from "ACTIVE"     [2023-10-13 Fri 13:02]
 Initially it should be accomplished daily. Sometimes it would be
@@ -63,18 +64,20 @@ workspace:
 - Check updates and if it possible update ChromeOS;
   If OS updated successfully --> reboot it up.
 * RAW Evening meet-up
-SCHEDULED: <2023-10-15 Sun ++1d>
+SCHEDULED: <2023-10-16 Mon ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-10-14 Sat 14:24]
+:LAST_REPEAT: [2023-10-15 Sun 11:55]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-10-15 Sun 11:55]
 - State "DONE"       from "ACTIVE"     [2023-10-14 Sat 14:24]
 - State "DONE"       from "ACTIVE"     [2023-10-13 Fri 13:01]
 To discuss actual questions and find answers.
 * RAW Daily taskset schedulling
-SCHEDULED: <2023-10-15 Sun ++1d>
+SCHEDULED: <2023-10-16 Mon ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-10-14 Sat 14:24]
+:LAST_REPEAT: [2023-10-15 Sun 11:56]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-10-15 Sun 11:56]
 - State "DONE"       from "ACTIVE"     [2023-10-14 Sat 14:24]
 - State "DONE"       from "ACTIVE"     [2023-10-13 Fri 13:03]
 It might be required several times a day, but first time in the early
