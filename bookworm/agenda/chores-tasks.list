@@ -8,8 +8,8 @@
 #+PROPERTY: header-args :comments org
 #+CATEGORY: Chore
 #+TODO: RAW INIT TODO ACTIVE | DONE
-* DONE What is chores
-CLOSED: [2023-10-14 Sat 14:24] SCHEDULED: <2023-10-15 Sun>
+* TODO What is chores
+SCHEDULED: <2023-10-15 Sun>
 Naturally, by its definition they are the routine, usual and regular
 tasks.
 * RAW Git commits purification
