@@ -309,8 +309,10 @@ SCHEDULED: <2023-10-15 Sun>
   The command M-x diff prompts for two file names, using the minibuffer,
   and displays the differences between the two files in a buffer
   named *diff*.
+  [[info:emacs#Comparing Files][emacs#Comparing Files]]
 
   A (much more sophisticated) alternative is M-x ediff
+  [[https://www.gnu.org/software/emacs/manual/html_mono/ediff.html][Ediff]]
 
   In Linux terminal:
 
@@ -331,5 +333,5 @@ SCHEDULED: <2023-10-15 Sun>
   If two files differ, it's easy to enter file comparison mode
   and see the exact differences.
 :LOGBOOK:
-CLOCK: [2023-10-15 Sun 08:13]
+CLOCK: [2023-10-15 Sun 08:13]--[2023-10-15 Sun 09:23] =>  1:10
 :END:
