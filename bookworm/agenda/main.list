@@ -338,6 +338,7 @@ SCHEDULED: <2023-10-16 Mon>
   Put the files in folders with the same name and compare again.
   
 :LOGBOOK:
+CLOCK: [2023-10-16 Mon 08:00]--[2023-10-16 Mon 09:57] =>  1:57
 CLOCK: [2023-10-15 Sun 08:13]--[2023-10-15 Sun 09:23] =>  1:10
 :END:
 
@@ -405,4 +406,41 @@ Diff finished.  Mon Oct 16 13:07:00 2023
 In the Linux terminal:
 vikky@penguin:~/tests$ diff -u dir1 dir2
 Only in dir2: file2.txt
+
+Test 4
+I edited file1.txt in dir2 and ran M-x diff in Emacs
+(I wrote the path to each file):
+
+Result:
+I saw only the differences between the two files. Differences
+between two folders are not shown.
+
+In the Linux terminal i used the command:
+vikky@penguin:~/tests$ diff -a -y dir1 dir2
+-a treat all lines as text;
+-y output in two columns;
+As a result I saw  not only the difference between two files, but the
+difference between the two folders also:
+Only in dir2: file2.txt
+
+Test 4
+I edited file1.txt in dir2 and ran M-x diff in Emacs (I wrote the path
+to each file):
+
+Result:
+I saw only the differences between the two files. Differences between
+the two folders are not shown.
+
+In the Linux terminal i used the command:
+vikky@penguin:~/tests$ diff -a -y dir1 dir2
+-a treat all lines as text;
+-y output in two columns;
+
+As a result I saw  not only the difference between the two files, but the difference between the two folders also:
+Only in dir2: file2.txt
+ 
+Conclusion for today:
+In Emacs it is necessary to separately compare folders and when files.
+In the Linux terminal it is possible at the same time to compare folder with files:
+$ diff -a -y dir1 dir2
 
