@@ -365,3 +365,25 @@ $diff -u file1.txt file2.txt
 
 Command executed, but no results didn't shown in this case.
 
+Test 2.
+I added three lines with changes to file2.txt and ran
+M-x diff again.
+The changes were shown in a separate  buffer (it's name diff)
+with highlights. 
+
+Emac's ediff function works the same way. But I prefer diff function
+result presentations.
+
+In Linux terminal I run again:
+$ diff -u file1.txt file2.txt
+As result lines with changes were shown.
+
+Anna Kalynchuk Reviewer: Michael Nystromfocus on you            Anna Kalynchuk Reviewer: Michael Nystromfocus on you
+people come and go                                              people come and go
+                                                              | Canges1
+If you don't control your mind                                  If you don't control your mind
+someone else will.                                              someone else will.
+                                                              | Changes2
+Sometimes the things that break your                            Sometimes the things that break your
+heart end up fixing your vision.                                heart end up fixing your vision.
+                                                              | Chenges3
