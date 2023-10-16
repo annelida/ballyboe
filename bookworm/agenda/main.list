@@ -387,3 +387,22 @@ someone else will.                                              someone else wil
 Sometimes the things that break your                            Sometimes the things that break your
 heart end up fixing your vision.                                heart end up fixing your vision.
                                                               | Chenges3
+Test 3
+I created folder /dir1 and /dir2 inside my folder /tests and put where
+two of the same files with same name (file1.txt).
+
+When run M-x diff.
+
+Results: Diff finished (no differences).  Mon Oct 16 12:54:43 2023
+
+When I put file2.txt  into folder dir2 and run M-x diff in my Emacs:
+
+Result:
+diff -u /home/vikky/tests/dir2 /home/vikky/tests/dir1
+Only in /home/vikky/tests/dir2: file2.txt
+Diff finished.  Mon Oct 16 13:07:00 2023
+
+In the Linux terminal:
+vikky@penguin:~/tests$ diff -u dir1 dir2
+Only in dir2: file2.txt
+
