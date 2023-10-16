@@ -340,3 +340,28 @@ SCHEDULED: <2023-10-16 Mon>
 :LOGBOOK:
 CLOCK: [2023-10-15 Sun 08:13]--[2023-10-15 Sun 09:23] =>  1:10
 :END:
+
+To compare two files and two folders with files I spent several
+simple tests.
+
+For the test I used Emacs's diff and ediff functions.
+Also I used the diff command in the Linux terminal.
+
+Test 1.
+I created a folder /test and put inside two absolutely similar files:
+file1.txt and file2.txt.
+The files have the same content.
+When I run M-x diff function and put the file's name.
+
+Result:
+Diff finished (no differences).  Mon Oct 16 12:18:47 2023
+
+The ediff function result was the same.
+But results were shown in different ways.
+
+In the Linux terminal I run the command:
+$diff -u file1.txt file2.txt
+-u output NUM (default 3) lines of unified context
+
+Command executed, but no results didn't shown in this case.
+
