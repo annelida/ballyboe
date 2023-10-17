@@ -87,6 +87,9 @@
 (key-chord-define-global "sz"     'org-store-link)
 (key-chord-define-global "sx"     'org-insert-link)
 
+(require 'org-agenda)
+(key-chord-define org-agenda-mode-map "lo"     'org-agenda-open-link)
+
 (setq org-log-done t)
 
 (setq org-agenda-files (list
