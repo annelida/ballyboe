@@ -13,19 +13,21 @@ SCHEDULED: <2023-10-18 Wed>
 Naturally, by its definition they are the routine, usual and regular
 tasks.
 * RAW Git commits purification
-SCHEDULED: <2023-10-17 Tue ++1d>
+SCHEDULED: <2023-10-18 Wed ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-10-16 Mon 14:13]
+:LAST_REPEAT: [2023-10-17 Tue 14:38]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-10-17 Tue 14:38]
 - State "DONE"       from "ACTIVE"     [2023-10-16 Mon 14:13]
 - State "DONE"       from "ACTIVE"     [2023-10-16 Mon 14:10]
 - State "DONE"       from "ACTIVE"     [2023-10-14 Sat 14:24]
 - State "DONE"       from "ACTIVE"     [2023-10-13 Fri 13:02]
 * RAW *PUSH*
-SCHEDULED: <2023-10-17 Tue ++1d>
+SCHEDULED: <2023-10-18 Wed ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-10-16 Mon 14:10]
+:LAST_REPEAT: [2023-10-17 Tue 14:38]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-10-17 Tue 14:38]
 - State "DONE"       from "ACTIVE"     [2023-10-16 Mon 14:10]
 - State "DONE"       from "ACTIVE"     [2023-10-15 Sun 11:55]
 - State "DONE"       from "ACTIVE"     [2023-10-14 Sat 14:24]
