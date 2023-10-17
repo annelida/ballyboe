@@ -69,20 +69,22 @@ workspace:
 - Check updates and if it possible update ChromeOS;
   If OS updated successfully --> reboot it up.
 * RAW Evening meet-up
-SCHEDULED: <2023-10-17 Tue ++1d>
+SCHEDULED: <2023-10-18 Wed ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-10-16 Mon 14:10]
+:LAST_REPEAT: [2023-10-17 Tue 14:37]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-10-17 Tue 14:37]
 - State "DONE"       from "ACTIVE"     [2023-10-16 Mon 14:10]
 - State "DONE"       from "ACTIVE"     [2023-10-15 Sun 11:55]
 - State "DONE"       from "ACTIVE"     [2023-10-14 Sat 14:24]
 - State "DONE"       from "ACTIVE"     [2023-10-13 Fri 13:01]
 To discuss actual questions and find answers.
 * RAW Daily taskset schedulling
-SCHEDULED: <2023-10-17 Tue ++1d>
+SCHEDULED: <2023-10-18 Wed ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-10-16 Mon 14:10]
+:LAST_REPEAT: [2023-10-17 Tue 14:37]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-10-17 Tue 14:37]
 - State "DONE"       from "ACTIVE"     [2023-10-16 Mon 14:10]
 - State "DONE"       from "ACTIVE"     [2023-10-15 Sun 11:56]
 - State "DONE"       from "ACTIVE"     [2023-10-14 Sat 14:24]
@@ -90,10 +92,11 @@ SCHEDULED: <2023-10-17 Tue ++1d>
 It might be required several times a day, but first time in the early
 morning.
 * RAW Tomorrow's agenda brush-up
-SCHEDULED: <2023-10-17 Tue ++1d>
+SCHEDULED: <2023-10-18 Wed ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-10-16 Mon 14:10]
+:LAST_REPEAT: [2023-10-17 Tue 14:37]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-10-17 Tue 14:37]
 - State "DONE"       from "ACTIVE"     [2023-10-16 Mon 14:10]
 - State "DONE"       from "ACTIVE"     [2023-10-16 Mon 14:08]
 - State "DONE"       from "ACTIVE"     [2023-10-14 Sat 14:24]
