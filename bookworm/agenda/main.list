@@ -221,6 +221,9 @@ diff -u /home/vikky/git/annelida.github.io/index.md /home/vikky/git/0--key.githu
 Only annelida.github.io has:
 _site
 Gemfile.lock
+[[https://jekyllrb.com/docs/step-by-step/10-deployment/][What is Gemfile.lock]]
+[[https://www.jekyll.com.cn/tutorials/using-jekyll-with-bundler/#:~:text=Bundler%20provides%20a%20consistent%20environment,tool%20to%20use%20with%20Jekyll.][What is Bundler]]
+[[https://stackoverflow.com/questions/51157446/whats-the-difference-between-bundle-exec-jekyll-serve-and-jekyll-serve][Why you need use bundler]]
 index.md
 
 Only 0--key.github.io has files:
