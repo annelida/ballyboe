@@ -439,8 +439,9 @@ vikky@penguin:~/tests$ diff -a -y dir1 dir2
 As a result I saw  not only the difference between the two files, but the difference between the two folders also:
 Only in dir2: file2.txt
  
-Conclusion for today:
-In Emacs it is necessary to separately compare folders and when files.
+Conclusions for 17/10/2023:
+In Emacs using M-x diff function it not necessary to separately compare folders and whe files.
+You can see full result in diff buffer.
 In the Linux terminal it is possible at the same time to compare folder with files:
 $ diff -a -y dir1 dir2
 
