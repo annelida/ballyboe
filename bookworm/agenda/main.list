@@ -160,7 +160,7 @@ CLOCK: [2023-10-14 Sat 13:30]--[2023-10-14 Sat 14:03] =>  0:33
 ** DONE Rewrite the transcript
 CLOSED: [2023-10-10 Tue 08:00] SCHEDULED: <2023-10-06 Fri>
 * ACTIVE Org-Jekyll - configuration options
-SCHEDULED: <2023-10-17 Tue>
+SCHEDULED: <2023-10-18 Wed>
 - Note taken on [2023-10-12 Thu 15:01] \\
   Reverse approach: use the working sample with minimum modifications
   (personal data).
@@ -246,21 +246,21 @@ CLOSED: [2023-10-06 Fri 08:01] SCHEDULED: <2023-10-04 Wed>
 * DONE What is Ipython?
 CLOSED: [2023-10-06 Fri 08:01] SCHEDULED: <2023-10-04 Wed>
 * ACTIVE Linux symbolic links 10m
-SCHEDULED: <2023-10-17 Tue>
+SCHEDULED: <2023-11-20 Mon>
 - Note taken on [2023-10-10 Tue 19:27] \\
   M-x man <enter> ln
 - Note taken on [2023-10-10 Tue 15:30]
   * It allows to move the original file in safe place.
   * On the place original file it possible to leave the shortcut with
   * link to original file. For create soft link use command ln -s
-* ACTIVE Emacs server 10m
-SCHEDULED: <2023-10-17 Tue>
+* TODO Emacs server 10m
+SCHEDULED: <2023-11-15 Wed>
 - Note taken on [2023-10-10 Tue 15:27] \\
   * Launch the graphical version;
   * Start the server: =M-x server-start=
   * Launch the client version by =emacsclient -t=
 * TODO Org-Agenda views: item arrangement in daily agenda, its priorities;
-SCHEDULED: <2023-10-17 Tue>
+SCHEDULED: <2023-11-15 Wed>
 * ACTIVE Magit brief overview
 SCHEDULED: <2023-10-20 Fri>
 - Note taken on [2023-10-13 Fri 07:58] \\
@@ -290,7 +290,7 @@ Press c (Commit), then a (Amend), edit the message, C-c C-c.
 CLOCK: [2023-10-13 Fri 07:53]--[2023-10-13 Fri 08:17] =>  0:24
 :END:
 * TODO Key-chords from 0--key: each key-chorded command with explanation
-SCHEDULED: <2023-10-17 Tue>
+SCHEDULED: <2023-11-15 Wed>
 :LOGBOOK:
 CLOCK: [2023-10-17 Tue 10:13]--[2023-10-17 Tue 10:35] =>  0:22
 CLOCK: [2023-10-10 Tue 18:53]--[2023-10-10 Tue 19:00] =>  0:07
@@ -343,8 +343,8 @@ CLOSED: [2023-10-10 Tue 19:23] SCHEDULED: <2023-10-10 Tue>
 :LOGBOOK:
 CLOCK: [2023-10-10 Tue 13:58]--[2023-10-10 Tue 14:48] =>  0:50
 :END:
-* TODO Comparing files and folders in Linux/Emacs
-SCHEDULED: <2023-10-17 Tue>
+* ACTIVE Comparing files and folders in Linux/Emacs
+SCHEDULED: <2023-11-15 Wed>
 - Note taken on [2023-10-15 Sun 08:13] \\
 
   In Emacs:
