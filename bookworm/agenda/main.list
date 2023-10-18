@@ -195,6 +195,7 @@ SCHEDULED: <2023-10-18 Wed>
   ~/git/annelida.github.io/_posts/core-samples/2011-12-29-jekyll-introduction.md
  ]]
 :LOGBOOK:
+CLOCK: [2023-10-18 Wed 09:04]
 CLOCK: [2023-10-17 Tue 09:18]--[2023-10-17 Tue 10:13] =>  0:55
 CLOCK: [2023-10-11 Wed 15:47]--[2023-10-11 Wed 16:07] =>  0:20
 :END:
@@ -238,6 +239,35 @@ Result:
 diff -u /home/vikky/git/annelida.github.io/index.md /home/vikky/git/0--key.github.io/old_index.md
 Diff finished (no differences).  Tue Oct 17 09:01:54 2023
 Diff finished (no differences).  Tue Oct 17 09:01:54 2023
+
+2. I compared the root folders from two repositories
+0--key.github.io and annelida.github.io file by file.
+
+Differences are in files:
+
+_config.yml
+
+The line are different:
+title:
+tagline:
+author:
+name:
+email:
+github:
+production_url:
+short_name:
+tracking_id:
+
+Gemfile
+
+Only in annelida.github.io/Gemfile:
+gem "kramdown-parser-gfm"
+gem "minima"
+
+Only in annelida.github.io there is a file:
+Gemfile.lock
+
+* How to syncronize my local repository annelida.github.io with Github?
 
 * DONE Github.io - configuration
 CLOSED: [2023-10-06 Fri 08:01] SCHEDULED: <2023-10-04 Wed>
