@@ -195,7 +195,7 @@ SCHEDULED: <2023-10-18 Wed>
   ~/git/annelida.github.io/_posts/core-samples/2011-12-29-jekyll-introduction.md
  ]]
 :LOGBOOK:
-CLOCK: [2023-10-18 Wed 09:04]
+CLOCK: [2023-10-18 Wed 09:04]--[2023-10-18 Wed 10:26] =>  1:22
 CLOCK: [2023-10-17 Tue 09:18]--[2023-10-17 Tue 10:13] =>  0:55
 CLOCK: [2023-10-11 Wed 15:47]--[2023-10-11 Wed 16:07] =>  0:20
 :END:
@@ -267,7 +267,24 @@ gem "minima"
 Only in annelida.github.io there is a file:
 Gemfile.lock
 
+3. Comparing two repositories folder by folder:
+Differences only in content of /_includes/themes folder and /assets/themes folder.
+Differences in each file in _/layouts folder 
+
+diff 0--key.github.io/_includes/themes/ annelida.github.io/_includes/themes/
+Common subdirectories: 0--key.github.io/_includes/themes/bootstrap-3 and annelida.github.io/_includes/themes/bootstrap-3
+Common subdirectories: 0--key.github.io/_includes/themes/twitter and annelida.github.io/_includes/themes/twitter
+Only in 0--key.github.io/_includes/themes/: hooligan
+
+diff 0--key.github.io/assets/themes/ annelida.github.io/assets/themes/
+Common subdirectories: 0--key.github.io/assets/themes/bootstrap and annelida.github.io/assets/themes/bootstrap
+Common subdirectories: 0--key.github.io/assets/themes/css and annelida.github.io/assets/themes/css
+Common subdirectories: 0--key.github.io/assets/themes/twitter and annelida.github.io/assets/themes/twitter
+Only in 0--key.github.io/assets/themes/: hooligan
+
 * How to syncronize my local repository annelida.github.io with Github?
+
+* What is Jekyll's Gemfile.lock (full clarification).
 
 * DONE Github.io - configuration
 CLOSED: [2023-10-06 Fri 08:01] SCHEDULED: <2023-10-04 Wed>
