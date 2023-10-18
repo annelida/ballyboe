@@ -160,7 +160,7 @@ CLOCK: [2023-10-14 Sat 13:30]--[2023-10-14 Sat 14:03] =>  0:33
 ** DONE Rewrite the transcript
 CLOSED: [2023-10-10 Tue 08:00] SCHEDULED: <2023-10-06 Fri>
 * ACTIVE Org-Jekyll - configuration options
-SCHEDULED: <2023-10-18 Wed>
+SCHEDULED: <2023-10-19 Thu>
 - Note taken on [2023-10-12 Thu 15:01] \\
   Reverse approach: use the working sample with minimum modifications
   (personal data).
@@ -282,9 +282,11 @@ Common subdirectories: 0--key.github.io/assets/themes/css and annelida.github.io
 Common subdirectories: 0--key.github.io/assets/themes/twitter and annelida.github.io/assets/themes/twitter
 Only in 0--key.github.io/assets/themes/: hooligan
 
-* How to syncronize my local repository annelida.github.io with Github?
+* RAW How to syncronize my local repository annelida.github.io with Github?
+SCHEDULED: <2023-10-19 Thu>
 
-* What is Jekyll's Gemfile.lock (full clarification).
+* RAW What is Jekyll's Gemfile.lock (full clarification).
+SCHEDULED: <2023-10-19 Thu>
 
 * DONE Github.io - configuration
 CLOSED: [2023-10-06 Fri 08:01] SCHEDULED: <2023-10-04 Wed>
