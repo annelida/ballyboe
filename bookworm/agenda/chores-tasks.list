@@ -60,12 +60,21 @@ workspace:
     
 * INIT Workspace clean-up
 SCHEDULED: <2023-10-18 Wed ++1w>
+:LOGBOOK:
+CLOCK: [2023-10-18 Wed 10:45]--[2023-10-18 Wed 11:13] =>  0:28
+:END:
 Twice a week you should remove all redundant trash out from your
 workspace:
 - All unrelevant tabs in Chrome browser (10 might be left only);
 - All outdated and unused buffers in Emacs;
 - Update and upgrade your Debian packages;
+  - Note taken on [2023-10-18 Wed 10:45] \\
+  $ sudo apt update
+  $ sudo apt upgrade
 - Update your Elpa/Melpa packages in Emacs;
+  - Note taken on [2023-10-18 Wed 11:09] \\
+  M-x package-list-packages
+  Shift + u and x
 - Check updates and if it possible update ChromeOS;
   If OS updated successfully --> reboot it up.
 * RAW Evening meet-up
