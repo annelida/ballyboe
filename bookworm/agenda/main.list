@@ -159,8 +159,8 @@ CLOCK: [2023-10-14 Sat 13:30]--[2023-10-14 Sat 14:03] =>  0:33
 :END:
 ** DONE Rewrite the transcript
 CLOSED: [2023-10-10 Tue 08:00] SCHEDULED: <2023-10-06 Fri>
-* ACTIVE Org-Jekyll - configuration options
-SCHEDULED: <2023-10-19 Thu>
+* TODO Org-Jekyll - configuration options
+SCHEDULED: <2023-10-20 Fri>
 - Note taken on [2023-10-12 Thu 15:01] \\
   Reverse approach: use the working sample with minimum modifications
   (personal data).
@@ -308,8 +308,8 @@ SCHEDULED: <2023-10-20 Fri>
 [[https://jekyllrb.com/docs/step-by-step/07-assets/][/assets]]
 [[https://jekyllrb.com/docs/includes/][/includes]]
 
-* RAW How to syncronize my local repository annelida.github.io with Github?
-SCHEDULED: <2023-10-19 Thu>
+* TODO How to syncronize my local repository annelida.github.io with Github?
+SCHEDULED: <2023-10-20 Fri>
 - Note taken on [2023-10-19 Thu 08:18] \\
   - What is differences between git PULL and git FETCH?
   * git fetch is the command that tells your local git to retrieve
@@ -334,8 +334,8 @@ SCHEDULED: <2023-10-19 Thu>
 CLOCK: [2023-10-19 Thu 08:17]--[2023-10-19 Thu 08:44] =>  0:27
 :END:
 
-* RAW What is Jekyll's Gemfile.lock (full clarification).
-SCHEDULED: <2023-10-19 Thu>
+* TODO What is Jekyll's Gemfile.lock (full clarification).
+SCHEDULED: <2023-10-20 Fri>
 
 * DONE Github.io - configuration
 CLOSED: [2023-10-06 Fri 08:01] SCHEDULED: <2023-10-04 Wed>

@@ -9,7 +9,7 @@
 #+CATEGORY: Lead
 #+TODO: RAW INIT TODO ACTIVE | DONE
 * ACTIVE [#A] Genuine source of knowledge
-SCHEDULED: <2023-10-19 Thu>
+SCHEDULED: <2023-10-20 Fri>
 :LOGBOOK:
 CLOCK: [2023-10-12 Thu 08:33]--[2023-10-12 Thu 10:58] =>  2:25
 :END:
@@ -26,7 +26,7 @@ about how the program works are:
 
 --Conclusion: the wisest decision is just to use it properly!
 * ACTIVE [#A] Deliberate practice
-SCHEDULED: <2023-10-19 Thu>
+SCHEDULED: <2023-10-20 Fri>
 when you do challenging but indispensable tasks by yourself
 * INIT Help about *Help*
 SCHEDULED: <2023-10-21 Sat>
@@ -64,10 +64,10 @@ CLOCK: [2023-10-14 Sat 08:45]--[2023-10-14 Sat 09:18] =>  0:33
 :END:
 Mostly the similar approach with several quirks
 * ACTIVE [#A] Clocking
-SCHEDULED: <2023-10-19 Thu>
+SCHEDULED: <2023-10-20 Fri>
 [[info:org#Clocking Work Time][org#Clocking Work Time]]
-* INIT [#A] The Absolute Beginner
-SCHEDULED: <2023-10-19 Thu>
+* ACTIVE [#A] The Absolute Beginner
+SCHEDULED: <2023-10-20 Fri>
 :LOGBOOK:
 CLOCK: [2023-10-19 Thu 08:48]--[2023-10-19 Thu 09:14] =>  0:26
 :END:
