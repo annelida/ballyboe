@@ -282,6 +282,20 @@ Common subdirectories: 0--key.github.io/assets/themes/css and annelida.github.io
 Common subdirectories: 0--key.github.io/assets/themes/twitter and annelida.github.io/assets/themes/twitter
 Only in 0--key.github.io/assets/themes/: hooligan
 
+4. Comparing /_layouts folders file by file:
+
+Folder /layouts for both repositories contains the same files:
+default.html
+page.html
+post.html
+ 
+The difference is one and common for this files:
+
+ ---
+ theme :
+-  name : bootstrap-3   (annelida.github.io)
++  name : hooligan      (0--key.github.io)
+ ---
 
 * RAW Explore in details Jekyll's /assets and /_includes.
 SCHEDULED: <2023-10-20 Fri>
