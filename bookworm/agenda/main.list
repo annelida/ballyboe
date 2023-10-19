@@ -282,17 +282,18 @@ Common subdirectories: 0--key.github.io/assets/themes/css and annelida.github.io
 Common subdirectories: 0--key.github.io/assets/themes/twitter and annelida.github.io/assets/themes/twitter
 Only in 0--key.github.io/assets/themes/: hooligan
 
-Jekyll folders /assets and /_includes brief description 
-[[https://jekyllrb.com/docs/step-by-step/07-assets/][/assets]]
-[[https://jekyllrb.com/docs/includes/][/includes]]
 
-* RAW Explore in detail Jekyll's /assets and /_includes.
+* RAW Explore in details Jekyll's /assets and /_includes.
 SCHEDULED: <2023-10-20 Fri>
 
 - Note taken on [2023-10-19 Thu 10:08] \\
-  The include tag allows to include content from another file stored
+  * The include tag allows to include content from another file stored
   in an _includes folder. Includes are useful for having a single source
   for source code that repeats around the site.
+  * Jekyll folders /assets and /_includes brief description
+[[https://jekyllrb.com/docs/step-by-step/07-assets/][/assets]]
+[[https://jekyllrb.com/docs/includes/][/includes]]
+
 * RAW How to syncronize my local repository annelida.github.io with Github?
 SCHEDULED: <2023-10-19 Thu>
 - Note taken on [2023-10-19 Thu 08:18] \\
