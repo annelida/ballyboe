@@ -282,6 +282,10 @@ Common subdirectories: 0--key.github.io/assets/themes/css and annelida.github.io
 Common subdirectories: 0--key.github.io/assets/themes/twitter and annelida.github.io/assets/themes/twitter
 Only in 0--key.github.io/assets/themes/: hooligan
 
+Jekyll folders /assets and /_includes brief description 
+[[https://jekyllrb.com/docs/step-by-step/07-assets/][/assets]]
+[[https://jekyllrb.com/docs/includes/][/includes]]
+
 * RAW How to syncronize my local repository annelida.github.io with Github?
 SCHEDULED: <2023-10-19 Thu>
 - Note taken on [2023-10-19 Thu 08:18] \\

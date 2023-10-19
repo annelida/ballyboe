@@ -68,6 +68,9 @@ SCHEDULED: <2023-10-19 Thu>
 [[info:org#Clocking Work Time][org#Clocking Work Time]]
 * INIT [#A] The Absolute Beginner
 SCHEDULED: <2023-10-19 Thu>
+:LOGBOOK:
+CLOCK: [2023-10-19 Thu 08:48]--[2023-10-19 Thu 09:14] =>  0:26
+:END:
 Guide to Emacs --> Just watch it 25 minutes
 And *notice* the details, please!
 [[https://www.youtube.com/watch?v=48JlgiBpw_I]]
