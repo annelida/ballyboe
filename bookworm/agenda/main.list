@@ -284,6 +284,29 @@ Only in 0--key.github.io/assets/themes/: hooligan
 
 * RAW How to syncronize my local repository annelida.github.io with Github?
 SCHEDULED: <2023-10-19 Thu>
+- Note taken on [2023-10-19 Thu 08:18] \\
+  - What is differences between git PULL and git FETCH?
+  * git fetch is the command that tells your local git to retrieve
+  the latest meta-data info from the original (yet doesn’t do any
+  file transferring. It’s more like just checking to see if there
+  are any changes available).
+
+  * git pull on the other hand does that AND brings (copy) those
+  changes from the remote repository.
+
+  You can use git fetch to know the changes done in the remote
+  repo/branch since your last pull. This is useful to allow for
+  checking before doing an actual pull, which could change files
+  in your current branch and working copy (and potentially lose
+  your changes, etc).
+
+  git fetch
+  git diff ...origin
+
+  [[https://www.freecodecamp.org/news/git-fetch-vs-pull/][Git Fetch vs Pull differences]]
+:LOGBOOK:
+CLOCK: [2023-10-19 Thu 08:17]--[2023-10-19 Thu 08:44] =>  0:27
+:END:
 
 * RAW What is Jekyll's Gemfile.lock (full clarification).
 SCHEDULED: <2023-10-19 Thu>
