@@ -9,14 +9,15 @@
 #+CATEGORY: Chore
 #+TODO: RAW INIT TODO ACTIVE | DONE
 * DONE What is chores
-CLOSED: [2023-10-19 Thu 15:35] SCHEDULED: <2023-10-20 Fri>
+CLOSED: [2023-10-19 Thu 15:35] SCHEDULED: <2023-10-21 Sat>
 Naturally, by its definition they are the routine, usual and regular
 tasks.
 * RAW Git commits purification
-SCHEDULED: <2023-10-20 Fri ++1d>
+SCHEDULED: <2023-10-21 Sat ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-10-19 Thu 15:35]
+:LAST_REPEAT: [2023-10-20 Fri 13:19]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-10-20 Fri 13:19]
 - State "DONE"       from "ACTIVE"     [2023-10-19 Thu 15:35]
 - State "DONE"       from "ACTIVE"     [2023-10-18 Wed 14:33]
 - State "DONE"       from "ACTIVE"     [2023-10-17 Tue 14:38]
@@ -25,10 +26,11 @@ SCHEDULED: <2023-10-20 Fri ++1d>
 - State "DONE"       from "ACTIVE"     [2023-10-14 Sat 14:24]
 - State "DONE"       from "ACTIVE"     [2023-10-13 Fri 13:02]
 * RAW *PUSH*
-SCHEDULED: <2023-10-20 Fri ++1d>
+SCHEDULED: <2023-10-21 Sat ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-10-19 Thu 15:35]
+:LAST_REPEAT: [2023-10-20 Fri 13:19]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-10-20 Fri 13:19]
 - State "DONE"       from "ACTIVE"     [2023-10-19 Thu 15:35]
 - State "DONE"       from "ACTIVE"     [2023-10-18 Wed 14:33]
 - State "DONE"       from "ACTIVE"     [2023-10-17 Tue 14:38]
@@ -41,10 +43,11 @@ necessary to do after some changes need to be shared with me
 urgently. Before push I can't see any changes, because all them are on
 your localhost.
 * RAW Workspace clean-up
-SCHEDULED: <2023-10-20 Fri ++1w>
+SCHEDULED: <2023-10-27 Fri ++1w>
 :PROPERTIES:
-:LAST_REPEAT: [2023-10-13 Fri 13:01]
+:LAST_REPEAT: [2023-10-20 Fri 13:19]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-10-20 Fri 13:19]
 - State "DONE"       from "ACTIVE"     [2023-10-13 Fri 13:01]
 - State "DONE"       from "ACTIVE"     [2023-10-13 Fri 12:59]
 - State "DONE"       from "ACTIVE"     [2023-10-13 Fri 12:59]
@@ -93,10 +96,11 @@ workspace:
   At the bottom left, select: Advanced - About ChromeOS - Select Check for updates.
 
 * RAW Evening meet-up
-SCHEDULED: <2023-10-20 Fri ++1d>
+SCHEDULED: <2023-10-21 Sat ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-10-19 Thu 15:35]
+:LAST_REPEAT: [2023-10-20 Fri 13:19]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-10-20 Fri 13:19]
 - State "DONE"       from "ACTIVE"     [2023-10-19 Thu 15:35]
 - State "DONE"       from "ACTIVE"     [2023-10-18 Wed 14:32]
 - State "DONE"       from "ACTIVE"     [2023-10-17 Tue 14:37]
@@ -106,10 +110,11 @@ SCHEDULED: <2023-10-20 Fri ++1d>
 - State "DONE"       from "ACTIVE"     [2023-10-13 Fri 13:01]
 To discuss actual questions and find answers.
 * RAW Daily taskset schedulling
-SCHEDULED: <2023-10-20 Fri ++1d>
+SCHEDULED: <2023-10-21 Sat ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-10-19 Thu 15:35]
+:LAST_REPEAT: [2023-10-20 Fri 13:19]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-10-20 Fri 13:19]
 - State "DONE"       from "ACTIVE"     [2023-10-19 Thu 15:35]
 - State "DONE"       from "ACTIVE"     [2023-10-18 Wed 14:32]
 - State "DONE"       from "ACTIVE"     [2023-10-17 Tue 14:37]
@@ -120,10 +125,11 @@ SCHEDULED: <2023-10-20 Fri ++1d>
 It might be required several times a day, but first time in the early
 morning.
 * RAW Tomorrow's agenda brush-up
-SCHEDULED: <2023-10-20 Fri ++1d>
+SCHEDULED: <2023-10-21 Sat ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-10-19 Thu 15:35]
+:LAST_REPEAT: [2023-10-20 Fri 13:19]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-10-20 Fri 13:19]
 - State "DONE"       from "ACTIVE"     [2023-10-19 Thu 15:35]
 - State "DONE"       from "ACTIVE"     [2023-10-18 Wed 14:33]
 - State "DONE"       from "ACTIVE"     [2023-10-17 Tue 14:37]
