@@ -308,8 +308,8 @@ SCHEDULED: <2023-10-20 Fri>
 [[https://jekyllrb.com/docs/step-by-step/07-assets/][/assets]]
 [[https://jekyllrb.com/docs/includes/][/includes]]
 
-* TODO How to syncronize my local repository annelida.github.io with Github?
-SCHEDULED: <2023-10-20 Fri>
+* DONE How to syncronize my local repository annelida.github.io with Github?
+CLOSED: [2023-10-20 Fri 08:39] SCHEDULED: <2023-10-20 Fri>
 - Note taken on [2023-10-19 Thu 08:18] \\
   - What is differences between git PULL and git FETCH?
   * git fetch is the command that tells your local git to retrieve
@@ -335,8 +335,14 @@ CLOCK: [2023-10-19 Thu 08:17]--[2023-10-19 Thu 08:44] =>  0:27
 :END:
 
 * TODO What is Jekyll's Gemfile.lock (full clarification).
-SCHEDULED: <2023-10-20 Fri>
+SCHEDULED: <2023-10-27 Fri>
 
+- Note taken on [2023-10-20 Fri 08:33] \\
+  The Gemfile.lock file is where Bundler records the exact
+  versions that were installed. This way, when the same library/project
+  is loaded on another machine, running bundle install will look at the
+  Gemfile.lock and install the exact same versions, rather than just using
+  the Gemfile and installing the most recent versions.
 * DONE Github.io - configuration
 CLOSED: [2023-10-06 Fri 08:01] SCHEDULED: <2023-10-04 Wed>
 * DONE What is Python REPL
