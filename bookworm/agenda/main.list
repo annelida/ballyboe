@@ -160,7 +160,7 @@ CLOCK: [2023-10-14 Sat 13:30]--[2023-10-14 Sat 14:03] =>  0:33
 ** DONE Rewrite the transcript
 CLOSED: [2023-10-10 Tue 08:00] SCHEDULED: <2023-10-06 Fri>
 * TODO Org-Jekyll - configuration options
-SCHEDULED: <2023-10-20 Fri>
+SCHEDULED: <2023-10-21 Sat>
 - Note taken on [2023-10-12 Thu 15:01] \\
   Reverse approach: use the working sample with minimum modifications
   (personal data).
@@ -327,7 +327,7 @@ CLOCK: [2023-10-20 Fri 08:58]--[2023-10-20 Fri 10:19] =>  1:21
 [[https://jekyllrb.com/docs/includes/][/includes]]
 
 * DONE How to syncronize my local repository annelida.github.io with Github?
-CLOSED: [2023-10-20 Fri 08:39] SCHEDULED: <2023-10-20 Fri>
+CLOSED: [2023-10-20 Fri 08:39] SCHEDULED: <2023-10-27 Fri>
 - Note taken on [2023-10-19 Thu 08:18] \\
   - What is differences between git PULL and git FETCH?
   * git fetch is the command that tells your local git to retrieve
@@ -384,7 +384,7 @@ SCHEDULED: <2023-11-15 Wed>
 * TODO Org-Agenda views: item arrangement in daily agenda, its priorities;
 SCHEDULED: <2023-11-15 Wed>
 * ACTIVE Magit brief overview
-SCHEDULED: <2023-10-20 Fri>
+SCHEDULED: <2023-10-28 Sat>
 - Note taken on [2023-10-13 Fri 07:58] \\
   * To display information about the current Git repository C-x-g
     or gs (key-chord);
@@ -420,7 +420,7 @@ CLOCK: [2023-10-10 Tue 18:53]--[2023-10-10 Tue 19:00] =>  0:07
 C-h a <command name>
 C-h f
 * ACTIVE Emacs frames
-SCHEDULED: <2023-10-20 Fri>
+SCHEDULED: <2023-10-28 Sat>
 - Note taken on [2023-10-13 Fri 08:31] \\
   * A graphical display that contains one or more Emacs windows,
     a menu bar, tool bar, echo area.
@@ -434,7 +434,7 @@ CLOCK: [2023-10-13 Fri 08:25]--[2023-10-13 Fri 08:51] =>  0:26
 CLOCK: [2023-10-10 Tue 19:00]--[2023-10-10 Tue 19:14] =>  0:14
 :END:
 * ACTIVE Emacs buffers
-SCHEDULED: <2023-10-20 Fri>
+SCHEDULED: <2023-10-28 Sat>
 The text you are editing in Emacs resides in an
 object called a “buffer”.
 Each buffer has a unique name.
@@ -448,7 +448,7 @@ CLOCK: [2023-10-13 Fri 09:16]--[2023-10-13 Fri 09:22] =>  0:06
 CLOCK: [2023-10-10 Tue 19:14]--[2023-10-10 Tue 19:20] =>  0:06
 :END:
 * ACTIVE Emacs windows - resize and split
-SCHEDULED: <2023-10-20 Fri>
+SCHEDULED: <2023-10-28 Sat>
 - Note taken on [2023-10-13 Fri 09:01] \\
   * Frame can be split into several windows. Buffer or it's part
     displays in window
