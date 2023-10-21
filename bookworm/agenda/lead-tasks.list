@@ -9,7 +9,7 @@
 #+CATEGORY: Lead
 #+TODO: RAW INIT TODO ACTIVE | DONE
 * ACTIVE [#A] Genuine source of knowledge
-SCHEDULED: <2023-10-21 Sat>
+SCHEDULED: <2023-10-22 Sun>
 :LOGBOOK:
 CLOCK: [2023-10-12 Thu 08:33]--[2023-10-12 Thu 10:58] =>  2:25
 :END:
@@ -26,10 +26,10 @@ about how the program works are:
 
 --Conclusion: the wisest decision is just to use it properly!
 * ACTIVE [#A] Deliberate practice
-SCHEDULED: <2023-10-21 Sat>
+SCHEDULED: <2023-10-22 Sun>
 when you do challenging but indispensable tasks by yourself
 * INIT Help about *Help*
-SCHEDULED: <2023-10-21 Sat>
+SCHEDULED: <2023-10-28 Sat>
 - Note taken on [2023-10-14 Sat 08:14] \\
 
   C-h C-h or C-h ? to invoke Emacs built-n key.
@@ -56,7 +56,7 @@ CLOCK: [2023-10-14 Sat 07:30]--[2023-10-14 Sat 08:27] =>  0:57
 Very straighforward system out from 10 initial keys to use in embedded
 *Help* browser.OA To use several *Help* buffers use =M-x raname uniquely=
 * INIT Help about *info*
-SCHEDULED: <2023-10-21 Sat>
+SCHEDULED: <2023-10-28 Sat>
 - Note taken on [2023-10-14 Sat 08:47] \\
   To open Emacs Info use C-h-i or C-h-r
 :LOGBOOK:
@@ -64,10 +64,10 @@ CLOCK: [2023-10-14 Sat 08:45]--[2023-10-14 Sat 09:18] =>  0:33
 :END:
 Mostly the similar approach with several quirks
 * ACTIVE [#A] Clocking
-SCHEDULED: <2023-10-21 Sat>
+SCHEDULED: <2023-10-22 Sun>
 [[info:org#Clocking Work Time][org#Clocking Work Time]]
 * ACTIVE [#A] The Absolute Beginner
-SCHEDULED: <2023-10-21 Sat>
+SCHEDULED: <2023-10-22 Sun>
 :LOGBOOK:
 CLOCK: [2023-10-20 Fri 10:26]--[2023-10-20 Fri 13:17] =>  2:51
 CLOCK: [2023-10-19 Thu 08:48]--[2023-10-19 Thu 09:14] =>  0:26
