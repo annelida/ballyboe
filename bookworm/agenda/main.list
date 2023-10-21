@@ -136,7 +136,7 @@ CLOSED: [2023-10-02 Mon 17:46] SCHEDULED: <2023-10-02 Mon>
 ** DONE Adding a new SSH key to GitHub account
 CLOSED: [2023-10-02 Mon 17:46] SCHEDULED: <2023-10-02 Mon>
 * ACTIVE [#C] Working with transctipt to video "How to Learn Anything Fast: Teach Your Brain to Focus"
-SCHEDULED: <2023-10-21 Sat>
+SCHEDULED: <2023-10-22 Sun>
 - Note taken on [2023-10-14 Sat 13:30] \\
   Part I "The neuroscience solution to boredom "
 
@@ -160,7 +160,7 @@ CLOCK: [2023-10-14 Sat 13:30]--[2023-10-14 Sat 14:03] =>  0:33
 ** DONE Rewrite the transcript
 CLOSED: [2023-10-10 Tue 08:00] SCHEDULED: <2023-10-06 Fri>
 * TODO Org-Jekyll - configuration options
-SCHEDULED: <2023-10-21 Sat>
+SCHEDULED: <2023-10-22 Sun>
 - Note taken on [2023-10-12 Thu 15:01] \\
   Reverse approach: use the working sample with minimum modifications
   (personal data).
@@ -317,7 +317,7 @@ Result you can see on [[https://annelida.github.io/]]
 * RAW Explorations in details pages structure.
 SCHEDULED: <2023-10-22 Sun>
 * RAW Explore in details Jekyll's /assets and /_includes.
-SCHEDULED: <2023-10-21 Sat>
+SCHEDULED: <2023-10-22 Sun>
 - Note taken on [2023-10-20 Fri 09:07] \\
   When you put your images, CSS or another sources in /assets folder
   Jekyll copies and applies them across all your project.
