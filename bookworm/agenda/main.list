@@ -440,6 +440,9 @@ Press c (Commit), then a (Amend), edit the message, C-c C-c.
 :LOGBOOK:
 CLOCK: [2023-10-13 Fri 07:53]--[2023-10-13 Fri 08:17] =>  0:24
 :END:
+* RAW Git/Magit undo options.
+SCHEDULED: <2023-10-23 Mon>
+
 * TODO Key-chords from 0--key: each key-chorded command with explanation
 SCHEDULED: <2023-11-15 Wed>
 :LOGBOOK:
