@@ -395,7 +395,8 @@ CLOSED: [2023-10-06 Fri 08:01] SCHEDULED: <2023-10-04 Wed>
 * DONE What is Python REPL
 CLOSED: [2023-10-06 Fri 08:01] SCHEDULED: <2023-10-04 Wed>
 * DONE What is Ipython?
-CLOSED: [2023-10-06 Fri 08:01] SCHEDULED: <2023-10-04 Wed>
+* TODO Python: modules, relative import, unittest module structure
+SCHEDULED: <2023-10-23 Mon>
 * ACTIVE Linux symbolic links 10m
 SCHEDULED: <2023-11-20 Mon>
 - Note taken on [2023-10-10 Tue 19:27] \\
@@ -440,9 +441,15 @@ Press c (Commit), then a (Amend), edit the message, C-c C-c.
 :LOGBOOK:
 CLOCK: [2023-10-13 Fri 07:53]--[2023-10-13 Fri 08:17] =>  0:24
 :END:
-* RAW Git/Magit undo options.
+* TODO Git/Magit undo options.
 SCHEDULED: <2023-10-23 Mon>
 
+- Note taken on [2023-10-23 Mon 08:09] \\
+  branch
+  head
+  rebase
+  tag
+  version
 * TODO Key-chords from 0--key: each key-chorded command with explanation
 SCHEDULED: <2023-11-15 Wed>
 :LOGBOOK:
