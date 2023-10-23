@@ -160,7 +160,7 @@ CLOCK: [2023-10-14 Sat 13:30]--[2023-10-14 Sat 14:03] =>  0:33
 ** DONE Rewrite the transcript
 CLOSED: [2023-10-10 Tue 08:00] SCHEDULED: <2023-10-06 Fri>
 * TODO Org-Jekyll - configuration options
-SCHEDULED: <2023-10-23 Mon>
+SCHEDULED: <2023-10-24 Tue>
 - Note taken on [2023-10-12 Thu 15:01] \\
   Reverse approach: use the working sample with minimum modifications
   (personal data).
@@ -315,7 +315,7 @@ post.html
 to the corresponding files from /_layouts folder.
 Result you can see on [[https://annelida.github.io/]]
 * TODO Explorations in details page's structure in Jekyll.
-SCHEDULED: <2023-10-23 Mon>
+SCHEDULED: <2023-10-24 Tue>
 - Note taken on [2023-10-22 Sun 08:21] \\
   * How it is possible to organize several pages.
   * Page's front matter structure:
@@ -395,8 +395,8 @@ CLOSED: [2023-10-06 Fri 08:01] SCHEDULED: <2023-10-04 Wed>
 * DONE What is Python REPL
 CLOSED: [2023-10-06 Fri 08:01] SCHEDULED: <2023-10-04 Wed>
 * DONE What is Ipython?
-* TODO Python: modules, relative import, unittest module structure
-SCHEDULED: <2023-10-23 Mon>
+* TODO [#A] Python: modules, relative import, unittest module structure
+SCHEDULED: <2023-10-24 Tue>
 * ACTIVE Linux symbolic links 10m
 SCHEDULED: <2023-11-20 Mon>
 - Note taken on [2023-10-10 Tue 19:27] \\
@@ -441,8 +441,8 @@ Press c (Commit), then a (Amend), edit the message, C-c C-c.
 :LOGBOOK:
 CLOCK: [2023-10-13 Fri 07:53]--[2023-10-13 Fri 08:17] =>  0:24
 :END:
-* TODO Git/Magit undo options.
-SCHEDULED: <2023-10-23 Mon>
+* TODO [#A] Git/Magit undo options.
+SCHEDULED: <2023-10-24 Tue>
 - Note taken on [2023-10-23 Mon 08:47] \\
   If you want to redo that commit, make the additional
   changes you forgot, stage them, and commit again using
@@ -511,7 +511,7 @@ b n (magit-branch-create)
   ref: refs/heads/main
 
 :LOGBOOK:
-CLOCK: [2023-10-23 Mon 08:47]
+CLOCK: [2023-10-23 Mon 08:47]--[2023-10-23 Mon 11:08] =>  2:21
 :END:
 
 - Note taken on [2023-10-23 Mon 08:09] \\
