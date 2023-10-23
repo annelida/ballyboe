@@ -470,6 +470,32 @@ SCHEDULED: <2023-10-23 Mon>
   k (magit-discard)
 
   [[https://git-scm.com/book/en/v2/Git-Basics-Undoing-Things][Git undoing things]]
+
+  - Note taken on [2023-10-23 Mon 09:48] \\
+  In Git, a branch is a new/separate version of the main repository.
+
+  Let's say you have a large project, and you need to update
+  the design on it.
+
+  With a new branch called NEW-DISIGN, edit the code directly without
+  impacting the main branch.
+
+  Let’s say that at the same time an error was discovered in the
+  project that requires be urgent fixed.
+
+  Create a new branch from the main project called ERROR-FIX.
+  Fix the error and merge the ERROR-FIX branch with
+  the main branch.
+
+  When go back to the NEW_DESIGN branch, and finish the work there.
+  Merge the NEW-DISIGN branch with main.
+
+  $ git checkout -  command used to check out a branch
+  $ git checkout -b - will create a new branch, and move to it.
+
+Magit:
+b n (magit-branch-create)
+
 :LOGBOOK:
 CLOCK: [2023-10-23 Mon 08:47]
 :END:
