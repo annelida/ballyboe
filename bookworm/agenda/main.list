@@ -481,6 +481,23 @@ Press c (Commit), then a (Amend), edit the message, C-c C-c.
 :LOGBOOK:
 CLOCK: [2023-10-13 Fri 07:53]--[2023-10-13 Fri 08:17] =>  0:24
 :END:
+* TODO Git/Magit merge and rebase concept.
+SCHEDULED: <2023-10-24 Tue>
+- Note taken on [2023-10-24 Tue 10:38] \\
+  Both of these commands are designed to integrate changes
+  from one branch into another branch. They just do it in very
+  different ways.
+
+  Merging is nice because it’s a non-destructive operation.
+  The existing branches are not changed in any way. This avoids
+  all of the potential pitfalls of rebasing.
+
+  The major benefit of rebasing is that you get a much cleaner
+  project history.
+
+  The golden rule of git rebase is to never use it on public branches.
+  (ie. never rebase master). You should never rebase master onto
+  a feature branch.
 * TODO [#A] Git/Magit undo options.
 SCHEDULED: <2023-10-24 Tue>
 - Note taken on [2023-10-23 Mon 08:47] \\
