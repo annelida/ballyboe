@@ -397,6 +397,20 @@ CLOSED: [2023-10-06 Fri 08:01] SCHEDULED: <2023-10-04 Wed>
 * DONE What is Ipython?
 * TODO [#A] Python: modules, relative import, unittest module structure
 SCHEDULED: <2023-10-24 Tue>
+- Note taken on [2023-10-24 Tue 08:54] \\
+  A Python module is a file that has a .py extension, and a Python
+  package is any folder that has modules inside it.
+
+  Relative imports in Python 3 allow you to import modules
+  or functions from other packages within your package hierarchy.
+
+  To use relative imports, you need to use the from . import syntax.
+  The number of dots before the import statement represents the number
+  of package levels you need to go up to reach the desired module or
+  function.
+:LOGBOOK:
+CLOCK: [2023-10-24 Tue 08:07]
+:END:
 * ACTIVE Linux symbolic links 10m
 SCHEDULED: <2023-11-20 Mon>
 - Note taken on [2023-10-10 Tue 19:27] \\
