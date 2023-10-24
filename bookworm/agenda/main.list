@@ -409,7 +409,33 @@ SCHEDULED: <2023-10-24 Tue>
   of package levels you need to go up to reach the desired module or
   function.
 :LOGBOOK:
-CLOCK: [2023-10-24 Tue 08:07]
+CLOCK: [2023-10-24 Tue 08:07]--[2023-10-24 Tue 09:32] =>  1:25
+:END:
+* TODO [#A] Unit test module description and structure.
+SCHEDULED: <2023-10-25 Wed>
+- Note taken on [2023-10-24 Tue 09:35] \\
+  A unit test is a smaller test, that checks
+  that a single component operates in the right way.
+
+  An integration test checks that components in your
+  application operate with each other.
+
+  A unit test checks a small component in your application.
+
+  The three most popular test runners are:
+
+  unittest
+  nose or nose2
+  pytest
+
+  unittest requires that:
+
+  You put your tests into classes as methods
+  You use a series of special assertion methods
+  in the unittest.TestCase class instead of the
+  built-in assert statement
+:LOGBOOK:
+CLOCK: [2023-10-24 Tue 09:35]--[2023-10-24 Tue 09:50] =>  0:15
 :END:
 * ACTIVE Linux symbolic links 10m
 SCHEDULED: <2023-11-20 Mon>
