@@ -160,7 +160,7 @@ CLOCK: [2023-10-14 Sat 13:30]--[2023-10-14 Sat 14:03] =>  0:33
 ** DONE Rewrite the transcript
 CLOSED: [2023-10-10 Tue 08:00] SCHEDULED: <2023-10-06 Fri>
 * TODO Org-Jekyll - configuration options
-SCHEDULED: <2023-10-24 Tue>
+SCHEDULED: <2023-10-27 Fri>
 - Note taken on [2023-10-12 Thu 15:01] \\
   Reverse approach: use the working sample with minimum modifications
   (personal data).
@@ -315,7 +315,7 @@ post.html
 to the corresponding files from /_layouts folder.
 Result you can see on [[https://annelida.github.io/]]
 * TODO Explorations in details page's structure in Jekyll.
-SCHEDULED: <2023-10-24 Tue>
+SCHEDULED: <2023-10-27 Fri>
 - Note taken on [2023-10-22 Sun 08:21] \\
   * How it is possible to organize several pages.
   * Page's front matter structure:
@@ -395,8 +395,8 @@ CLOSED: [2023-10-06 Fri 08:01] SCHEDULED: <2023-10-04 Wed>
 * DONE What is Python REPL
 CLOSED: [2023-10-06 Fri 08:01] SCHEDULED: <2023-10-04 Wed>
 * DONE What is Ipython?
-* TODO [#A] Python: modules, relative import, unittest module structure
-SCHEDULED: <2023-10-24 Tue>
+* TODO [#A] Python: modules, relative import. 
+SCHEDULED: <2023-10-25 Wed>
 - Note taken on [2023-10-24 Tue 08:54] \\
   A Python module is a file that has a .py extension, and a Python
   package is any folder that has modules inside it.
@@ -482,7 +482,7 @@ Press c (Commit), then a (Amend), edit the message, C-c C-c.
 CLOCK: [2023-10-13 Fri 07:53]--[2023-10-13 Fri 08:17] =>  0:24
 :END:
 * TODO Git/Magit merge and rebase concept.
-SCHEDULED: <2023-10-24 Tue>
+SCHEDULED: <2023-10-25 Wed>
 - Note taken on [2023-10-24 Tue 10:38] \\
   Both of these commands are designed to integrate changes
   from one branch into another branch. They just do it in very
@@ -499,7 +499,7 @@ SCHEDULED: <2023-10-24 Tue>
   (ie. never rebase master). You should never rebase master onto
   a feature branch.
 * TODO [#A] Git/Magit undo options.
-SCHEDULED: <2023-10-24 Tue>
+SCHEDULED: <2023-10-26 Thu>
 - Note taken on [2023-10-23 Mon 08:47] \\
   If you want to redo that commit, make the additional
   changes you forgot, stage them, and commit again using
@@ -577,6 +577,7 @@ CLOCK: [2023-10-23 Mon 08:47]--[2023-10-23 Mon 11:08] =>  2:21
   rebase
   tag
   version
+
 * TODO Key-chords from 0--key: each key-chorded command with explanation
 SCHEDULED: <2023-11-15 Wed>
 :LOGBOOK:
