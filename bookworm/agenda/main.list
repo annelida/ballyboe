@@ -396,7 +396,7 @@ CLOSED: [2023-10-06 Fri 08:01] SCHEDULED: <2023-10-04 Wed>
 CLOSED: [2023-10-06 Fri 08:01] SCHEDULED: <2023-10-04 Wed>
 * DONE What is Ipython?
 * TODO [#A] Python: modules, relative import. 
-SCHEDULED: <2023-10-25 Wed>
+SCHEDULED: <2023-10-26 Thu>
 - Note taken on [2023-10-24 Tue 08:54] \\
   A Python module is a file that has a .py extension, and a Python
   package is any folder that has modules inside it.
@@ -461,6 +461,18 @@ as the first argument;
 Change the assertions to use the self.assertEqual() method on
 the TestCase class;
 Change the command-line entry point to call unittest.main()
+
+import unittest
+
+class TestSum(unittest.TestCase):
+
+    def test_sum(self):
+        self.assertEqual(sum(([1, 2, 3])), 6, "Should be 6")
+        
+    def test_sum_tuple(self):
+        self.assertEqual(sum((1, 2, 2)), 6, "Should be 6")
+if __name__ == '__main__':
+    unittest.main()
 
 * ACTIVE Linux symbolic links 10m
 SCHEDULED: <2023-11-20 Mon>
