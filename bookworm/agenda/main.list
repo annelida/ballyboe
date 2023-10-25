@@ -520,6 +520,26 @@ CLOCK: [2023-10-13 Fri 07:53]--[2023-10-13 Fri 08:17] =>  0:24
 :END:
 * TODO Git/Magit merge and rebase concept.
 SCHEDULED: <2023-10-25 Wed>
+- Note taken on [2023-10-25 Wed 10:50] \\
+  Git tags description
+
+  Tags are used as markers for significant points in the project timeline,
+  whereas branches are separate lines of development that will eventually
+  be merged back into the main application code.
+  A tag is an object referencing a specific commit within the project history,
+  similar to chapter markers in a book.
+  This allows you to switch to the tagged version of the codebase to see what
+  the code looked like when the tag was created and, if necessary,
+  revert to that specific codebase version.
+
+  $ git tag
+  command allows to create, list, delete, and verify tags.
+
+  Deleting a tag does not affect the code in your repository -
+  it just removes the tag label.
+:LOGBOOK:
+CLOCK: [2023-10-25 Wed 10:36]
+:END:
 - Note taken on [2023-10-24 Tue 10:38] \\
   Both of these commands are designed to integrate changes
   from one branch into another branch. They just do it in very
