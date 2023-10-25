@@ -586,6 +586,12 @@ SCHEDULED: <2023-10-26 Thu>
   [[https://git-scm.com/book/en/v2/Git-Basics-Undoing-Things][Git undoing things]]
 
   - Note taken on [2023-10-23 Mon 09:48] \\
+
+  A branch is an independent development line containing a pointer
+   — or the branch head — to the most recent commit in the code.
+  A single Git repository can track many branches, but your working
+  tree centers on just one. The head points to the tip (the latest commit)
+  of a branch.
   In Git, a branch is a new/separate version of the main repository.
 
   Let's say you have a large project, and you need to update
