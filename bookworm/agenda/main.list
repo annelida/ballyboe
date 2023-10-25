@@ -396,7 +396,7 @@ CLOSED: [2023-10-06 Fri 08:01] SCHEDULED: <2023-10-04 Wed>
 CLOSED: [2023-10-06 Fri 08:01] SCHEDULED: <2023-10-04 Wed>
 * DONE What is Ipython?
 * TODO [#A] Python: modules, relative import. 
-SCHEDULED: <2023-10-26 Thu>
+SCHEDULED: <2023-10-27 Fri>
 - Note taken on [2023-10-24 Tue 08:54] \\
   A Python module is a file that has a .py extension, and a Python
   package is any folder that has modules inside it.
@@ -412,7 +412,7 @@ SCHEDULED: <2023-10-26 Thu>
 CLOCK: [2023-10-24 Tue 08:07]--[2023-10-24 Tue 09:32] =>  1:25
 :END:
 * TODO [#A] Unit test module description and structure.
-SCHEDULED: <2023-10-25 Wed>
+SCHEDULED: <2023-10-26 Thu>
 - Note taken on [2023-10-24 Tue 09:35] \\
   A unit test is a smaller test, that checks
   that a single component operates in the right way.
@@ -435,7 +435,7 @@ SCHEDULED: <2023-10-25 Wed>
   in the unittest.TestCase class instead of the
   built-in assert statement
 :LOGBOOK:
-CLOCK: [2023-10-25 Wed 09:13]
+CLOCK: [2023-10-25 Wed 09:13]--[2023-10-25 Wed 10:35] =>  1:22
 CLOCK: [2023-10-24 Tue 09:35]--[2023-10-24 Tue 09:50] =>  0:15
 :END:
 [[https://realpython.com/python-testing/][unit test
@@ -473,7 +473,8 @@ class TestSum(unittest.TestCase):
         self.assertEqual(sum((1, 2, 2)), 6, "Should be 6")
 if __name__ == '__main__':
     unittest.main()
-
+* INIT Org-Babel configuration.
+SCHEDULED: <2023-10-26 Thu>
 * ACTIVE Linux symbolic links 10m
 SCHEDULED: <2023-11-20 Mon>
 - Note taken on [2023-10-10 Tue 19:27] \\
@@ -519,7 +520,7 @@ Press c (Commit), then a (Amend), edit the message, C-c C-c.
 CLOCK: [2023-10-13 Fri 07:53]--[2023-10-13 Fri 08:17] =>  0:24
 :END:
 * TODO Git/Magit merge and rebase concept.
-SCHEDULED: <2023-10-25 Wed>
+SCHEDULED: <2023-10-27 Fri>
 - Note taken on [2023-10-25 Wed 10:50] \\
   Git tags description
 
@@ -538,7 +539,7 @@ SCHEDULED: <2023-10-25 Wed>
   Deleting a tag does not affect the code in your repository -
   it just removes the tag label.
 :LOGBOOK:
-CLOCK: [2023-10-25 Wed 10:36]
+CLOCK: [2023-10-25 Wed 10:36]--[2023-10-25 Wed 11:16] =>  0:40
 :END:
 - Note taken on [2023-10-24 Tue 10:38] \\
   Both of these commands are designed to integrate changes

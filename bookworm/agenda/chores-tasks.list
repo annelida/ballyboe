@@ -9,7 +9,7 @@
 #+CATEGORY: Chore
 #+TODO: RAW INIT TODO ACTIVE | DONE
 * DONE What is chores
-SCHEDULED: <2023-10-25 Wed>
+SCHEDULED: <2023-10-26 Thu>
 Naturally, by its definition they are the routine, usual and regular
 tasks.
 * RAW [#A] Git commits purification
@@ -29,10 +29,11 @@ SCHEDULED: <2023-10-29 Sun ++1d>
 - State "DONE"       from "ACTIVE"     [2023-10-14 Sat 14:24]
 - State "DONE"       from "ACTIVE"     [2023-10-13 Fri 13:02]
 * RAW [#A] *PUSH*
-SCHEDULED: <2023-10-25 Wed ++1d>
+SCHEDULED: <2023-10-26 Thu ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-10-24 Tue 17:48]
+:LAST_REPEAT: [2023-10-25 Wed 16:11]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-10-25 Wed 16:11]
 - State "DONE"       from "ACTIVE"     [2023-10-24 Tue 17:48]
 - State "DONE"       from "ACTIVE"     [2023-10-22 Sun 09:07]
 - State "DONE"       from "ACTIVE"     [2023-10-20 Fri 13:19]
@@ -70,11 +71,12 @@ workspace:
   * k to mark buffers for kill (D appears next to buffer)
   * x to execute kill
     
-* ACTIVE Workspace clean-up
-SCHEDULED: <2023-10-25 Wed ++1w>
+* RAW Workspace clean-up
+SCHEDULED: <2023-11-01 Wed ++1w>
 :PROPERTIES:
-:LAST_REPEAT: [2023-10-18 Wed 14:30]
+:LAST_REPEAT: [2023-10-25 Wed 11:17]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-10-25 Wed 11:17]
 - State "DONE"       from "ACTIVE"     [2023-10-18 Wed 14:30]
 :LOGBOOK:
 CLOCK: [2023-10-18 Wed 10:45]--[2023-10-18 Wed 11:13] =>  0:28
@@ -100,11 +102,12 @@ workspace:
   At the bottom right, select the time - Settings
   At the bottom left, select: Advanced - About ChromeOS - Select Check for updates.
 
-* RAW [#B] Evening meet-up
-SCHEDULED: <2023-10-26 Thu ++1d>
+* ACTIVE [#B] Evening meet-up
+SCHEDULED: <2023-10-27 Fri ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-10-24 Tue 17:49]
+:LAST_REPEAT: [2023-10-25 Wed 16:12]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-10-25 Wed 16:12]
 - State "DONE"       from "ACTIVE"     [2023-10-24 Tue 17:49]
 - State "DONE"       from "ACTIVE"     [2023-10-22 Sun 09:06]
 - State "DONE"       from "ACTIVE"     [2023-10-20 Fri 13:19]
@@ -117,7 +120,7 @@ SCHEDULED: <2023-10-26 Thu ++1d>
 - State "DONE"       from "ACTIVE"     [2023-10-13 Fri 13:01]
 To discuss actual questions and find answers.
 * RAW Daily taskset schedulling
-SCHEDULED: <2023-10-25 Wed ++1d>
+SCHEDULED: <2023-10-26 Thu ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2023-10-24 Tue 17:50]
 :END:
@@ -134,7 +137,7 @@ SCHEDULED: <2023-10-25 Wed ++1d>
 It might be required several times a day, but first time in the early
 morning.
 * RAW Tomorrow's agenda brush-up
-SCHEDULED: <2023-10-25 Wed ++1d>
+SCHEDULED: <2023-10-26 Thu ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2023-10-24 Tue 17:50]
 :END:
