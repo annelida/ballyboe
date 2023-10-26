@@ -9,7 +9,7 @@
 #+CATEGORY: Chore
 #+TODO: RAW INIT TODO ACTIVE | DONE
 * DONE What is chores
-SCHEDULED: <2023-10-26 Thu>
+CLOSED: [2023-10-26 Thu 17:32] SCHEDULED: <2023-10-27 Fri>
 Naturally, by its definition they are the routine, usual and regular
 tasks.
 * RAW [#A] Git commits purification
@@ -29,10 +29,12 @@ SCHEDULED: <2023-10-29 Sun ++1d>
 - State "DONE"       from "ACTIVE"     [2023-10-14 Sat 14:24]
 - State "DONE"       from "ACTIVE"     [2023-10-13 Fri 13:02]
 * RAW [#A] *PUSH*
-SCHEDULED: <2023-10-26 Thu ++1d>
+SCHEDULED: <2023-10-28 Sat ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-10-25 Wed 16:11]
+:LAST_REPEAT: [2023-10-26 Thu 17:32]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-10-26 Thu 17:32]
+- State "DONE"       from "ACTIVE"     [2023-10-26 Thu 17:32]
 - State "DONE"       from "ACTIVE"     [2023-10-25 Wed 16:11]
 - State "DONE"       from "ACTIVE"     [2023-10-24 Tue 17:48]
 - State "DONE"       from "ACTIVE"     [2023-10-22 Sun 09:07]
@@ -120,10 +122,11 @@ SCHEDULED: <2023-10-27 Fri ++1d>
 - State "DONE"       from "ACTIVE"     [2023-10-13 Fri 13:01]
 To discuss actual questions and find answers.
 * RAW Daily taskset schedulling
-SCHEDULED: <2023-10-26 Thu ++1d>
+SCHEDULED: <2023-10-27 Fri ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-10-24 Tue 17:50]
+:LAST_REPEAT: [2023-10-26 Thu 17:31]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-10-26 Thu 17:31]
 - State "DONE"       from "ACTIVE"     [2023-10-24 Tue 17:50]
 - State "DONE"       from "ACTIVE"     [2023-10-22 Sun 09:07]
 - State "DONE"       from "ACTIVE"     [2023-10-20 Fri 13:19]
@@ -137,10 +140,11 @@ SCHEDULED: <2023-10-26 Thu ++1d>
 It might be required several times a day, but first time in the early
 morning.
 * RAW Tomorrow's agenda brush-up
-SCHEDULED: <2023-10-26 Thu ++1d>
+SCHEDULED: <2023-10-27 Fri ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-10-24 Tue 17:50]
+:LAST_REPEAT: [2023-10-26 Thu 17:31]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-10-26 Thu 17:31]
 - State "DONE"       from "ACTIVE"     [2023-10-24 Tue 17:50]
 - State "DONE"       from "ACTIVE"     [2023-10-22 Sun 09:07]
 - State "DONE"       from "ACTIVE"     [2023-10-20 Fri 13:19]
