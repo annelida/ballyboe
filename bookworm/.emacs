@@ -75,6 +75,19 @@
 (require 'mw-thesaurus)
 (key-chord-define-global "wd"     'mw-thesaurus-lookup-dwim)
 
+;; Programming languages for Babel
+
+(org-babel-do-load-languages
+ 'org-babel-load-languages
+ '((python . t)
+   (emacs-lisp . t)
+   (shell . t)
+   (sqlite . t)
+   (go . t)
+   (C . t)
+   )) ;; perhaps this hunk is redundant because init.el contains the
+      ;; similar one in the =custom= section
+
 (require 'org)
 (define-key global-map "\C-cl" 'org-store-link)
 (define-key global-map "\C-ca" 'org-agenda)
