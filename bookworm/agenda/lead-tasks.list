@@ -64,10 +64,10 @@ CLOCK: [2023-10-14 Sat 08:45]--[2023-10-14 Sat 09:18] =>  0:33
 :END:
 Mostly the similar approach with several quirks
 * DONE [#A] Clocking
-CLOSED: [2023-10-25 Wed 16:15] SCHEDULED: <2023-10-26 Thu>
+CLOSED: [2023-10-25 Wed 16:15] SCHEDULED: <2023-10-27 Fri>
 [[info:org#Clocking Work Time][org#Clocking Work Time]]
 * ACTIVE [#A] The Absolute Beginner
-SCHEDULED: <2023-10-26 Thu>
+SCHEDULED: <2023-10-27 Fri>
 :LOGBOOK:
 CLOCK: [2023-10-20 Fri 10:26]--[2023-10-20 Fri 13:17] =>  2:51
 CLOCK: [2023-10-19 Thu 08:48]--[2023-10-19 Thu 09:14] =>  0:26
