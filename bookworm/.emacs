@@ -75,6 +75,8 @@
 (require 'mw-thesaurus)
 (key-chord-define-global "wd"     'mw-thesaurus-lookup-dwim)
 
+(require 'org-tempo)
+
 ;; Programming languages for Babel
 
 (org-babel-do-load-languages
