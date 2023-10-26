@@ -77,6 +77,8 @@
 
 (require 'org-tempo)
 
+(setq org-babel-python-command "python3")
+
 ;; Programming languages for Babel
 (org-babel-do-load-languages
  'org-babel-load-languages
