@@ -481,6 +481,34 @@ if __name__ == '__main__':
     unittest.main()
 * INIT Org-Babel configuration.
 SCHEDULED: <2023-10-27 Fri>
+- Note taken on [2023-10-27 Fri 08:25] \\
+  I had problems with running Python3 code using org-babel.
+  At first when I run my code I saw the error:
+  "Program Python is not found."
+
+  I fixed this error when I installed the package "python-is-python3" on my Debian:
+
+  $  apt-get install python-is-python3
+
+  Is a package which makes Python 3 become the default version in Ubuntu/Debian instead of Python 2.
+
+  The second problem was that my output was always "None" when I run my code.
+  My source code block looked:
+
+  #+begin_src python
+  print("hello")
+  #+end_src
+
+  #+RESULTS:
+  : None
+
+  I fixed it when added :results output
+
+  #+begin_src python :results output
+  print("hello")
+  #+end_src
+  #+RESULTS:
+  : hello
 :LOGBOOK:
 CLOCK: [2023-10-26 Thu 07:54]--[2023-10-26 Thu 08:52] =>  0:58
 :END:
