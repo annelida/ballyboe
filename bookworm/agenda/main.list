@@ -386,9 +386,9 @@ SCHEDULED: <2023-10-27 Fri>
 CLOCK: [2023-10-24 Tue 08:07]--[2023-10-24 Tue 09:32] =>  1:25
 :END:
 * TODO Python classes.
-SCHEDULED: <2023-10-27 Fri>
+SCHEDULED: <2023-10-28 Sat>
 :LOGBOOK:
-CLOCK: [2023-10-27 Fri 08:53]
+CLOCK: [2023-10-27 Fri 08:53]--[2023-10-27 Fri 09:33] =>  0:40
 CLOCK: [2023-10-26 Thu 09:51]--[2023-10-26 Thu 17:30] =>  7:39
 :END:
 #+begin_src python :results output
