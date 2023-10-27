@@ -9,7 +9,7 @@
 #+CATEGORY: Chore
 #+TODO: RAW INIT TODO ACTIVE | DONE
 * DONE What is chores
-CLOSED: [2023-10-26 Thu 17:32] SCHEDULED: <2023-10-27 Fri>
+CLOSED: [2023-10-26 Thu 17:32] SCHEDULED: <2023-10-29 Sun>
 Naturally, by its definition they are the routine, usual and regular
 tasks.
 * RAW [#A] Git commits purification
@@ -124,11 +124,12 @@ SCHEDULED: <2023-10-28 Sat ++1d>
 - State "DONE"       from "ACTIVE"     [2023-10-14 Sat 14:24]
 - State "DONE"       from "ACTIVE"     [2023-10-13 Fri 13:01]
 To discuss actual questions and find answers.
-* ACTIVE Daily taskset schedulling
-SCHEDULED: <2023-10-27 Fri ++1d>
+* RAW Daily taskset schedulling
+SCHEDULED: <2023-10-28 Sat ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-10-26 Thu 17:31]
+:LAST_REPEAT: [2023-10-27 Fri 09:42]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-10-27 Fri 09:42]
 - State "DONE"       from "ACTIVE"     [2023-10-26 Thu 17:31]
 - State "DONE"       from "ACTIVE"     [2023-10-24 Tue 17:50]
 - State "DONE"       from "ACTIVE"     [2023-10-22 Sun 09:07]
