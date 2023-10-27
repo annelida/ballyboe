@@ -410,6 +410,24 @@ print(s1.age)
 The __init__(function) is using to assign the values of name
 and age.
 
+Object's methods are functions that belong to the object.
+
+#+begin_src python :results output
+  class Student:
+    def __init__(self, name, age):
+      self.name = name
+      self.age = age
+
+    def stfunc(self):
+      print("The student's name is " + self.name)
+
+  s1 = Student("Tony Black", 16)
+  s1.stfunc()
+#+end_src
+
+#+RESULTS:
+: The student's name is Tony Black
+
 * TODO [#A] Unit test module description and structure.
 SCHEDULED: <2023-10-27 Fri>
 - Note taken on [2023-10-24 Tue 09:35] \\
