@@ -388,8 +388,27 @@ CLOCK: [2023-10-24 Tue 08:07]--[2023-10-24 Tue 09:32] =>  1:25
 * TODO Python classes.
 SCHEDULED: <2023-10-27 Fri>
 :LOGBOOK:
+CLOCK: [2023-10-27 Fri 08:53]
 CLOCK: [2023-10-26 Thu 09:51]--[2023-10-26 Thu 17:30] =>  7:39
 :END:
+#+begin_src python :results output
+class Student:
+  def __init__(self, name, age):
+    self.name = name
+    self.age = age
+
+s1 = Student("Tony Black", 16)
+
+print(s1.name)
+print(s1.age)
+#+end_src
+
+#+RESULTS:
+: Tony Black
+: 16
+
+The __init__(function) is using to assign the values of name
+and age.
 
 * TODO [#A] Unit test module description and structure.
 SCHEDULED: <2023-10-27 Fri>
