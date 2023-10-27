@@ -370,7 +370,7 @@ CLOSED: [2023-10-06 Fri 08:01] SCHEDULED: <2023-10-04 Wed>
 CLOSED: [2023-10-06 Fri 08:01] SCHEDULED: <2023-10-04 Wed>
 * DONE What is Ipython?
 * TODO [#A] Python: modules, relative import. 
-SCHEDULED: <2023-10-27 Fri>
+SCHEDULED: <2023-10-28 Sat>
 - Note taken on [2023-10-24 Tue 08:54] \\
   A Python module is a file that has a .py extension, and a Python
   package is any folder that has modules inside it.
@@ -429,7 +429,7 @@ Object's methods are functions that belong to the object.
 : The student's name is Tony Black
 
 * TODO [#A] Unit test module description and structure.
-SCHEDULED: <2023-10-27 Fri>
+SCHEDULED: <2023-10-28 Sat>
 - Note taken on [2023-10-24 Tue 09:35] \\
   A unit test is a smaller test, that checks
   that a single component operates in the right way.
@@ -608,7 +608,7 @@ CLOCK: [2023-10-25 Wed 10:36]--[2023-10-25 Wed 11:16] =>  0:40
   (ie. never rebase master). You should never rebase master onto
   a feature branch.
 * TODO [#A] Git/Magit undo options.
-SCHEDULED: <2023-10-27 Fri>
+SCHEDULED: <2023-11-03 Fri>
 - Note taken on [2023-10-23 Mon 08:47] \\
   If you want to redo that commit, make the additional
   changes you forgot, stage them, and commit again using
