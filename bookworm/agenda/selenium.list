@@ -1,0 +1,36 @@
+MY PROJECTS    -*- mode: org; -*-
+#+AUTHOR:    Viktoriia Kosinova
+#+TITLE:     Mental Athlete's Wife ToDo List
+#+SUBTITLE:  Life in a plain text
+#+EMAIL:     viqsiq@gmail.com
+#+LANGUAGE: en
+#+STARTUP: showall indent
+#+PROPERTY: header-args :comments org
+#+CATEGORY: Selenium
+#+TODO: RAW INIT TODO ACTIVE | DONE
+
+* ACTIVE [#A] What is Selenium?
+SCHEDULED: <2023-10-30 Mon>
+* Components of Selenium
+* What is Selenium WebDriver?
+* What is Selenium Grid?
+* What is Selenium IDE?
+* Features of Selenium IDE
+* Benefits of Using Selenium IDE
+* Limitations of Selenium IDE 
+* How to Install Selenium IDE?
+* Installing Selenium IDE in Firefox
+* Installing Selenium IDE in Chrome
+* Selenium IDE Features in Detail
+* Adding a new test using the Selenium IDE
+* Save Selenium IDE Tests
+* Selenium IDE Test Execution
+* Selenium IDE Debugging Options
+* Command Details Section
+* Additional options available in Selenium IDE
+* Adding Assertions using Selenium IDE
+* Convert Selenium IDE command to Any Programming Language Automation Test
+* Wrapping Up
+
+
+
