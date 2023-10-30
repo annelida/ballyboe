@@ -160,7 +160,7 @@ CLOCK: [2023-10-14 Sat 13:30]--[2023-10-14 Sat 14:03] =>  0:33
 ** DONE Rewrite the transcript
 CLOSED: [2023-10-10 Tue 08:00] SCHEDULED: <2023-10-06 Fri>
 * TODO Org-Jekyll - configuration options
-SCHEDULED: <2023-10-31 Tue>
+SCHEDULED: <2023-11-02 Thu>
 - Note taken on [2023-10-12 Thu 15:01] \\
   Reverse approach: use the working sample with minimum modifications
   (personal data).
@@ -315,7 +315,7 @@ post.html
 to the corresponding files from /_layouts folder.
 Result you can see on [[https://annelida.github.io/]]
 * TODO [#A] Explorations in details page's structure in Jekyll.
-SCHEDULED: <2023-10-30 Mon>
+SCHEDULED: <2023-10-31 Tue>
 - Note taken on [2023-10-22 Sun 08:21] \\
   * How it is possible to organize several pages.
   * Page's front matter structure:
@@ -356,7 +356,7 @@ CLOCK: [2023-10-20 Fri 08:58]--[2023-10-20 Fri 10:19] =>  1:21
 [[https://jekyllrb.com/docs/includes/][/includes]]
 
 * TODO What is Jekyll's Gemfile.lock (full clarification).
-SCHEDULED: <2023-10-31 Tue>
+SCHEDULED: <2023-11-02 Thu>
 
 - Note taken on [2023-10-20 Fri 08:33] \\
   The Gemfile.lock file is where Bundler records the exact
@@ -429,7 +429,7 @@ Object's methods are functions that belong to the object.
 : The student's name is Tony Black
 
 * TODO [#A] Unit test module description and structure.
-SCHEDULED: <2023-10-30 Mon>
+SCHEDULED: <2023-10-31 Tue>
 - Note taken on [2023-10-24 Tue 09:35] \\
   A unit test is a smaller test, that checks
   that a single component operates in the right way.
