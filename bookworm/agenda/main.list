@@ -136,7 +136,7 @@ CLOSED: [2023-10-02 Mon 17:46] SCHEDULED: <2023-10-02 Mon>
 ** DONE Adding a new SSH key to GitHub account
 CLOSED: [2023-10-02 Mon 17:46] SCHEDULED: <2023-10-02 Mon>
 * ACTIVE [#C] Working with transctipt to video "How to Learn Anything Fast: Teach Your Brain to Focus"
-SCHEDULED: <2023-10-28 Sat>
+SCHEDULED: <2023-11-03 Fri>
 - Note taken on [2023-10-14 Sat 13:30] \\
   Part I "The neuroscience solution to boredom "
 
@@ -314,7 +314,7 @@ page.html
 post.html
 to the corresponding files from /_layouts folder.
 Result you can see on [[https://annelida.github.io/]]
-* TODO Explorations in details page's structure in Jekyll.
+* TODO [#A] Explorations in details page's structure in Jekyll.
 SCHEDULED: <2023-10-30 Mon>
 - Note taken on [2023-10-22 Sun 08:21] \\
   * How it is possible to organize several pages.
@@ -327,7 +327,7 @@ SCHEDULED: <2023-10-30 Mon>
 CLOCK: [2023-10-22 Sun 08:21]--[2023-10-22 Sun 08:34] =>  0:13
 :END:
 * RAW Explore in details Jekyll's /assets and /_includes.
-SCHEDULED: <2023-10-30 Mon>
+SCHEDULED: <2023-11-03 Fri>
 - Note taken on [2023-10-20 Fri 09:07] \\
   When you put your images, CSS or another sources in /assets folder
   Jekyll copies and applies them across all your project.
@@ -370,7 +370,7 @@ CLOSED: [2023-10-06 Fri 08:01] SCHEDULED: <2023-10-04 Wed>
 CLOSED: [2023-10-06 Fri 08:01] SCHEDULED: <2023-10-04 Wed>
 * DONE What is Ipython?
 * TODO [#A] Python: modules, relative import. 
-SCHEDULED: <2023-10-28 Sat>
+SCHEDULED: <2023-11-01 Wed>
 - Note taken on [2023-10-24 Tue 08:54] \\
   A Python module is a file that has a .py extension, and a Python
   package is any folder that has modules inside it.
@@ -386,7 +386,7 @@ SCHEDULED: <2023-10-28 Sat>
 CLOCK: [2023-10-24 Tue 08:07]--[2023-10-24 Tue 09:32] =>  1:25
 :END:
 * TODO Python classes.
-SCHEDULED: <2023-10-28 Sat>
+SCHEDULED: <2023-11-01 Wed>
 :LOGBOOK:
 CLOCK: [2023-10-27 Fri 08:53]--[2023-10-27 Fri 09:33] =>  0:40
 CLOCK: [2023-10-26 Thu 09:51]--[2023-10-26 Thu 17:30] =>  7:39
@@ -429,7 +429,7 @@ Object's methods are functions that belong to the object.
 : The student's name is Tony Black
 
 * TODO [#A] Unit test module description and structure.
-SCHEDULED: <2023-10-28 Sat>
+SCHEDULED: <2023-10-30 Mon>
 - Note taken on [2023-10-24 Tue 09:35] \\
   A unit test is a smaller test, that checks
   that a single component operates in the right way.
@@ -543,7 +543,7 @@ SCHEDULED: <2023-11-15 Wed>
 * TODO Org-Agenda views: item arrangement in daily agenda, its priorities;
 SCHEDULED: <2023-11-15 Wed>
 * ACTIVE Magit brief overview
-SCHEDULED: <2023-10-28 Sat>
+SCHEDULED: <2023-11-02 Thu>
 - Note taken on [2023-10-13 Fri 07:58] \\
   * To display information about the current Git repository C-x-g
     or gs (key-chord);
@@ -571,7 +571,7 @@ Press c (Commit), then a (Amend), edit the message, C-c C-c.
 CLOCK: [2023-10-13 Fri 07:53]--[2023-10-13 Fri 08:17] =>  0:24
 :END:
 * TODO Git/Magit merge and rebase concept.
-SCHEDULED: <2023-10-30 Mon>
+SCHEDULED: <2023-11-03 Fri>
 - Note taken on [2023-10-25 Wed 10:50] \\
   Git tags description
 
@@ -702,7 +702,7 @@ CLOCK: [2023-10-10 Tue 18:53]--[2023-10-10 Tue 19:00] =>  0:07
 C-h a <command name>
 C-h f
 * ACTIVE Emacs frames
-SCHEDULED: <2023-10-28 Sat>
+SCHEDULED: <2023-11-02 Thu>
 - Note taken on [2023-10-13 Fri 08:31] \\
   * A graphical display that contains one or more Emacs windows,
     a menu bar, tool bar, echo area.
@@ -716,7 +716,7 @@ CLOCK: [2023-10-13 Fri 08:25]--[2023-10-13 Fri 08:51] =>  0:26
 CLOCK: [2023-10-10 Tue 19:00]--[2023-10-10 Tue 19:14] =>  0:14
 :END:
 * ACTIVE Emacs buffers
-SCHEDULED: <2023-10-28 Sat>
+SCHEDULED: <2023-11-02 Thu>
 The text you are editing in Emacs resides in an
 object called a “buffer”.
 Each buffer has a unique name.
@@ -730,7 +730,7 @@ CLOCK: [2023-10-13 Fri 09:16]--[2023-10-13 Fri 09:22] =>  0:06
 CLOCK: [2023-10-10 Tue 19:14]--[2023-10-10 Tue 19:20] =>  0:06
 :END:
 * ACTIVE Emacs windows - resize and split
-SCHEDULED: <2023-10-28 Sat>
+SCHEDULED: <2023-11-02 Thu>
 - Note taken on [2023-10-13 Fri 09:01] \\
   * Frame can be split into several windows. Buffer or it's part
     displays in window
