@@ -100,10 +100,13 @@
 (setq org-log-done t)
 
 (setq org-agenda-files (list
+			"~/git/ballyboe/bookworm/agenda/selenium.list"
+			"~/git/ballyboe/bookworm/agenda/main.list"
 			"~/git/ballyboe/bookworm/agenda/chores-tasks.list"
 			"~/git/ballyboe/bookworm/agenda/personal.list"
-			"~/git/ballyboe/bookworm/agenda/main.list"
-			"~/git/ballyboe/bookworm/agenda/lead-tasks.list"))
+		    	"~/git/ballyboe/bookworm/agenda/lead-tasks.list"
+			))
+
 (setq org-agenda-include-diary t)
 
 
