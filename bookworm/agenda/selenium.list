@@ -11,10 +11,31 @@ MY PROJECTS    -*- mode: org; -*-
 
 * ACTIVE [#A] What is Selenium?
 SCHEDULED: <2023-10-30 Mon>
+- Note taken on [2023-10-30 Mon 10:08] \\
+  Selenium is Open source test automation tool that provides API/Libraries
+  to automate the tests; in turn, it simulates the actions on the browser.
 * Components of Selenium
-* What is Selenium WebDriver?
-* What is Selenium Grid?
-* What is Selenium IDE?
+* ACTIVE What is Selenium WebDriver?
+SCHEDULED: <2023-10-30 Mon>
+- Note taken on [2023-10-30 Mon 10:15] \\
+  Allows direct communication 
+  with the browser.
+  Selenium WebDriver component provides libraries to automate the browser.
+  It accepts the commands, processes, and actions on the browser.
+* ACTIVE What is Selenium Grid?
+SCHEDULED: <2023-10-30 Mon>
+- Note taken on [2023-10-30 Mon 10:13] \\
+  Selenium Grid helps to run the test on multiple machines.
+  If you have a specific requirement to run a test against multiple
+  browsers and operating systems, consider integrating the Selenium Grid.
+* ACTIVE What is Selenium IDE?
+SCHEDULED: <2023-10-30 Mon>
+- Note taken on [2023-10-30 Mon 10:17] \\
+  Selenium IDE (Integrated Development Environment) is a record and
+  playback tool.
+  It is available as a browser extension or plugin. Selenium IDE helps
+  beginners and manual testers to learn more efficiently.
+ 
 * Features of Selenium IDE
 * Benefits of Using Selenium IDE
 * Limitations of Selenium IDE 
