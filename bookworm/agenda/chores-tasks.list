@@ -13,10 +13,11 @@ CLOSED: [2023-10-26 Thu 17:32] SCHEDULED: <2023-10-29 Sun>
 Naturally, by its definition they are the routine, usual and regular
 tasks.
 * RAW [#A] Git commits purification
-SCHEDULED: <2023-10-31 Tue ++1d>
+SCHEDULED: <2023-11-01 Wed ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-10-30 Mon 08:58]
+:LAST_REPEAT: [2023-10-31 Tue 10:00]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-10-31 Tue 10:00]
 - State "DONE"       from "ACTIVE"     [2023-10-30 Mon 08:58]
 - State "DONE"       from "ACTIVE"     [2023-10-27 Fri 09:39]
 - State "DONE"       from "ACTIVE"     [2023-10-24 Tue 17:51]
@@ -31,10 +32,11 @@ SCHEDULED: <2023-10-31 Tue ++1d>
 - State "DONE"       from "ACTIVE"     [2023-10-14 Sat 14:24]
 - State "DONE"       from "ACTIVE"     [2023-10-13 Fri 13:02]
 * RAW *PUSH*
-SCHEDULED: <2023-10-31 Tue ++1d>
+SCHEDULED: <2023-11-01 Wed ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-10-30 Mon 08:56]
+:LAST_REPEAT: [2023-10-31 Tue 11:19]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-10-31 Tue 11:19]
 - State "DONE"       from "ACTIVE"     [2023-10-30 Mon 08:56]
 - State "DONE"       from "ACTIVE"     [2023-10-26 Thu 17:32]
 - State "DONE"       from "ACTIVE"     [2023-10-26 Thu 17:32]
@@ -109,10 +111,11 @@ workspace:
   At the bottom left, select: Advanced - About ChromeOS - Select Check for updates.
 
 * RAW [#B] Evening meet-up
-SCHEDULED: <2023-10-31 Tue ++1d>
+SCHEDULED: <2023-11-01 Wed ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-10-30 Mon 08:58]
+:LAST_REPEAT: [2023-10-31 Tue 11:19]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-10-31 Tue 11:19]
 - State "DONE"       from "ACTIVE"     [2023-10-30 Mon 08:58]
 - State "DONE"       from "ACTIVE"     [2023-10-27 Fri 09:40]
 - State "DONE"       from "ACTIVE"     [2023-10-25 Wed 16:12]
@@ -149,10 +152,11 @@ SCHEDULED: <2023-11-01 Wed ++1d>
 It might be required several times a day, but first time in the early
 morning.
 * RAW Tomorrow's agenda brush-up
-SCHEDULED: <2023-10-31 Tue ++1d>
+SCHEDULED: <2023-11-01 Wed ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-10-30 Mon 08:58]
+:LAST_REPEAT: [2023-10-31 Tue 11:19]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-10-31 Tue 11:19]
 - State "DONE"       from "ACTIVE"     [2023-10-30 Mon 08:58]
 - State "DONE"       from "ACTIVE"     [2023-10-27 Fri 09:41]
 - State "DONE"       from "ACTIVE"     [2023-10-26 Thu 17:31]
