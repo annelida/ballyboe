@@ -36,9 +36,35 @@ SCHEDULED: <2023-10-31 Tue>
   It is available as a browser extension or plugin. Selenium IDE helps
   beginners and manual testers to learn more efficiently.
  
-* Features of Selenium IDE
-* Benefits of Using Selenium IDE
-* Limitations of Selenium IDE 
+* TODO [#A] Features of Selenium IDE
+SCHEDULED: <2023-10-31 Tue>
+TODO [#A] Benefits of Using Selenium IDE
+SCHEDULED: <2023-10-31 Tue>
+* INIT [#A] Limitations of Selenium IDE
+SCHEDULED: <2023-10-31 Tue>
+- Note taken on [2023-10-31 Tue 09:28] \\
+  * Limited Data Testing: Selenium IDE might not be
+  ideal for testing scenarios involving extensive
+  datasets, making it less suitable for comprehensive
+  data-driven testing.
+
+  * Database Interaction: It lacks the capability to directly interact
+  with databases, making it
+  unable to validate database-related functionalities.
+
+  * Dynamic Web Applications: Selenium IDE struggles with handling
+  dynamic components within web-based applications, potentially
+  leading to inaccuracies in testing results.
+
+  * No Screenshot Capture on Failures: Unlike some other testing tools,
+  Selenium IDE doesn’t offer built-in functionality to automatically
+  capture screenshots when a test case fails, potentially hindering
+  troubleshooting.
+
+  * No Result Report Generation: Selenium IDE lacks the feature to
+  generate comprehensive   result reports, making it challenging to
+  review and share detailed testing outcomes.
+
 * How to Install Selenium IDE?
 * Installing Selenium IDE in Firefox
 * Installing Selenium IDE in Chrome
