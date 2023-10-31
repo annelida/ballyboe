@@ -490,11 +490,17 @@ class TestSum(unittest.TestCase):
         self.assertEqual(sum((1, 2, 2)), 6, "Should be 6")
 if __name__ == '__main__':
     unittest.main()
-* TODO Emacs registers
+* TODO [#B] Emacs registers
 SCHEDULED: <2023-10-31 Tue>
-* TODO Org-capture
+- Note taken on [2023-10-31 Tue 10:00] \\
+  [[info:emacs#Registers][emacs#Registers]]
+  [[info:emacs#Position Registers][emacs#Position Registers]]
+  [[info:emacs#Text Registers][emacs#Text Registers]]
+  [[info:emacs#Rectangle Registers][emacs#Rectangle Registers]]
+  [[info:emacs#Configuration Registers][emacs#Configuration Registers]]
+* TODO [#B] Org-capture
 SCHEDULED: <2023-10-31 Tue>
-* RAW Org-babel
+* RAW [#B] Org-babel
 SCHEDULED: <2023-10-31 Tue>
 
 * INIT Org-Babel configuration.
