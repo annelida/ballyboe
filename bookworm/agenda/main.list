@@ -315,7 +315,7 @@ post.html
 to the corresponding files from /_layouts folder.
 Result you can see on [[https://annelida.github.io/]]
 * TODO [#A] Explorations in details page's structure in Jekyll.
-SCHEDULED: <2023-10-31 Tue>
+SCHEDULED: <2023-11-02 Thu>
 - Note taken on [2023-10-22 Sun 08:21] \\
   * How it is possible to organize several pages.
   * Page's front matter structure:
@@ -429,7 +429,7 @@ Object's methods are functions that belong to the object.
 : The student's name is Tony Black
 
 * TODO [#A] Unit test module description and structure.
-SCHEDULED: <2023-10-31 Tue>
+SCHEDULED: <2023-11-01 Wed>
 - Note taken on [2023-10-24 Tue 09:35] \\
   A unit test is a smaller test, that checks
   that a single component operates in the right way.
@@ -491,7 +491,7 @@ class TestSum(unittest.TestCase):
 if __name__ == '__main__':
     unittest.main()
 * TODO [#B] Emacs registers
-SCHEDULED: <2023-10-31 Tue>
+SCHEDULED: <2023-11-01 Wed>
 - Note taken on [2023-10-31 Tue 10:00] \\
   [[info:emacs#Registers][emacs#Registers]]
   [[info:emacs#Position Registers][emacs#Position Registers]]
@@ -499,7 +499,7 @@ SCHEDULED: <2023-10-31 Tue>
   [[info:emacs#Rectangle Registers][emacs#Rectangle Registers]]
   [[info:emacs#Configuration Registers][emacs#Configuration Registers]]
 * TODO [#B] Org-capture
-SCHEDULED: <2023-10-31 Tue>
+SCHEDULED: <2023-11-01 Wed>
 - Note taken on [2023-10-31 Tue 11:09] \\
   [[info:org#Capture and Attachments][org#Capture and Attachments]]
   [[info:org#Capture][org#Capture]]
@@ -507,7 +507,7 @@ SCHEDULED: <2023-10-31 Tue>
   [[info:org#Using capture][org#Using capture]]
   [[info:org#Capture templates][org#Capture templates]]
 * RAW [#B] Org-babel
-SCHEDULED: <2023-10-31 Tue>
+SCHEDULED: <2023-11-01 Wed>
 
 * INIT Org-Babel configuration.
 SCHEDULED: <2023-11-04 Sat>
