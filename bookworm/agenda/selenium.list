@@ -9,6 +9,49 @@ MY PROJECTS    -*- mode: org; -*-
 #+CATEGORY: Selenium
 #+TODO: RAW INIT TODO ACTIVE | DONE
 
+* RAW Testing Process and Role of Automation
+SCHEDULED: <2023-11-02 Thu>
+** RAW Introduction
+SCHEDULED: <2023-11-02 Thu>
+** RAW Structure 
+SCHEDULED: <2023-11-02 Thu>
+** Objectives
+** Significance of software testing
+** Core concepts of software testing
+** Software Testing Process
+** Types of software testing
+** Manual testing
+** Advantages of manual testing
+** Disadvantages of manual testing
+** Functional and non-functional testing
+** Unit testing
+** White-Box, Black-Box, and Grey-Box Testing
+** Integration testing
+** User acceptance testing
+** Alpha and beta testing
+** System testing
+** End-to-end testing
+** Sanity testing
+** Smoke testing
+** Software Development Life Cycle (SDLC)
+** Waterfall model
+** Waterfall model application
+** Advantages of the Waterfall model
+** Disadvantages of the waterfall model
+** Iterative (and incremental) model
+** Iterative and incremental model application
+** Advantages of the Iterative and Incremental Model
+** Disadvantages of the iterative and incremental model
+** Agile methodology – SCRUM
+** SCRUM Agile methodology application
+** Advantages of SCRUM Agile methodology
+** Disadvantages of SCRUM Agile Methodology
+** Defect/Bug Life Cycle
+** Different states of defect
+** Automation in software testing
+** Advantages of automation testing
+** Conclusion
+
 * ACTIVE [#A] What is Selenium?
 SCHEDULED: <2023-11-07 Tue>
 - Note taken on [2023-10-30 Mon 10:08] \\
@@ -22,6 +65,13 @@ SCHEDULED: <2023-11-07 Tue>
   with the browser.
   Selenium WebDriver component provides libraries to automate the browser.
   It accepts the commands, processes, and actions on the browser.
+* Selenium for Web Automation
+* Locators and Handling Web Elements
+* Synchronization, Exception Handling and Assertions
+* Hybrid Application Automation & Launching Multiple Apps
+* Selenium Automation Framework – Part 1
+* Selenium Automation Framework – Part 2
+* Dockerized Selenium Grid
 * ACTIVE [#A] What is Selenium Grid?
 SCHEDULED: <2023-11-07 Tue>
 - Note taken on [2023-10-30 Mon 10:13] \\
@@ -65,9 +115,12 @@ SCHEDULED: <2023-11-07 Tue>
   generate comprehensive   result reports, making it challenging to
   review and share detailed testing outcomes.
 
-* How to Install Selenium IDE?
-* Installing Selenium IDE in Firefox
-* Installing Selenium IDE in Chrome
+* ACTIVE How to Install Selenium IDE?
+SCHEDULED: <2023-11-01 Wed>
+* ACTIVE Installing Selenium IDE in Firefox
+SCHEDULED: <2023-11-01 Wed>
+* ACTIVE Installing Selenium IDE in Chrome
+SCHEDULED: <2023-11-01 Wed>
 * Selenium IDE Features in Detail
 * Adding a new test using the Selenium IDE
 * Save Selenium IDE Tests
@@ -78,6 +131,3 @@ SCHEDULED: <2023-11-07 Tue>
 * Adding Assertions using Selenium IDE
 * Convert Selenium IDE command to Any Programming Language Automation Test
 * Wrapping Up
-
-
-
