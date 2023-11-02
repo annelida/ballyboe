@@ -44,6 +44,10 @@
 (key-chord-define-global "0o"     'delete-window)
 (key-chord-define-global "bk"     'kill-buffer)
 (key-chord-define-global "qe"     'eval-region)
+(key-chord-define-global "ga"
+			 (lambda ()
+			   (interactive)
+			   (switch-to-buffer "*Org Agenda*")))
 
 (require 'magit)
 (key-chord-define-global "gs"     'magit-status)
