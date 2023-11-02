@@ -12,21 +12,26 @@ MY PROJECTS    -*- mode: org; -*-
 
 * Preparation to work as software tester
 ** Agenda Views
-** TODO [#C] Install Selenium Python on Cromebook Linux. 
-   SCHEDULED: <2023-11-03 Fri>
+** DONE [#C] Install Selenium Python on Cromebook Linux. 
+   CLOSED: [2023-11-02 Thu 16:43] SCHEDULED: <2023-11-03 Fri>
    :PROPERTIES:
    :CATEGORY: Selenium
    :END:
-** TODO [#C] WEB Driver Tutorial
-   SCHEDULED: <2023-11-03 Fri>
-** TODO [#C] Git repository. Git tutorial.
-   SCHEDULED: <2023-11-03 Fri>
+** DONE [#C] WEB Driver Tutorial
+   CLOSED: [2023-11-02 Thu 16:41] SCHEDULED: <2023-11-03 Fri>
+** DONE [#C] Git repository. Git tutorial.
+   CLOSED: [2023-11-02 Thu 16:41] SCHEDULED: <2023-11-03 Fri>
 Delete the old one and create a new and empy (annelida)
-** TODO [#C] Upwork about testing
-   SCHEDULED: <2023-11-03 Fri ++2d/3d>
+** RAW [#C] Upwork about testing
+   SCHEDULED: <2023-11-13 Mon ++2d/3d>
    :PROPERTIES:
-   :LAST_REPEAT: [2023-06-23 Fri 15:19]
+   :LAST_REPEAT: [2023-11-02 Thu 16:41]
    :END:
+   - State "DONE"       from "ACTIVE"     [2023-11-02 Thu 16:41]
+   - State "DONE"       from "ACTIVE"     [2023-11-02 Thu 16:41]
+   - State "DONE"       from "ACTIVE"     [2023-11-02 Thu 16:41]
+   - State "DONE"       from "ACTIVE"     [2023-11-02 Thu 16:41]
+   - State "DONE"       from "ACTIVE"     [2023-11-02 Thu 16:41]
    - State "DONE"       from "TODO"       [2023-06-23 Fri 15:19]
    - State "DONE"       from "TODO"       [2023-06-23 Fri 15:19]
    - State "DONE"       from "TODO"       [2023-06-23 Fri 15:19]
@@ -35,12 +40,12 @@ Delete the old one and create a new and empy (annelida)
    - State "DONE"       from "TODO"       [2023-06-23 Fri 15:19]
    - State "DONE"       from "TODO"       [2023-06-23 Fri 15:18]
 Requirements to job seekers (software testers)
-** TODO [#C] Emacs tutorial
-   SCHEDULED: <2023-11-03 Fri>
-** TODO [#C] Org-mode tutorial
-   SCHEDULED: <2023-11-03 Fri>
-** TODO [#C] Linkedin video about software testing foundation
-   SCHEDULED: <2023-11-03 Fri>
+** DONE [#C] Emacs tutorial
+   CLOSED: [2023-11-02 Thu 16:41] SCHEDULED: <2023-11-03 Fri>
+** DONE [#C] Org-mode tutorial
+   CLOSED: [2023-11-02 Thu 16:42] SCHEDULED: <2023-11-03 Fri>
+** DONE [#C] Linkedin video about software testing foundation
+   CLOSED: [2023-11-02 Thu 16:42] SCHEDULED: <2023-11-03 Fri>
 ** DONE Reading aloud
    CLOSED: [2023-09-29 Fri 10:09] SCHEDULED: <2023-07-22 Sat>
    :PROPERTIES:
@@ -73,36 +78,41 @@ Requirements to job seekers (software testers)
    - State "DONE"       from "TODO"       [2023-06-27 Tue 17:22]
    - State "DONE"       from "TODO"       [2023-06-27 Tue 17:22]
    - State "DONE"       from "TODO"       [2023-06-26 Mon 15:44]
-** TODO [#C] Software management in Linux operation system
-   SCHEDULED: <2023-11-03 Fri>
+** DONE [#C] Software management in Linux operation system
+   CLOSED: [2023-11-02 Thu 16:42] SCHEDULED: <2023-11-03 Fri>
 ** TODO [#C] Repeatitive tasks in Org-agenda
    SCHEDULED: <2023-11-03 Fri>
 ** TODO [#B] Lucy Worsley transcript
    SCHEDULED: <2023-11-03 Fri>
-** TODO Org-mode repeaters
-   SCHEDULED: <2023-11-03 Fri ++1w>
+** RAW Org-mode repeaters
+   SCHEDULED: <2023-12-09 Sat ++1w>
    :PROPERTIES:
-   :LAST_REPEAT: [2023-06-23 Fri 15:16]
+   :LAST_REPEAT: [2023-11-02 Thu 16:44]
    :END:
+   - State "DONE"       from "ACTIVE"     [2023-11-02 Thu 16:44]
+   - State "DONE"       from "ACTIVE"     [2023-11-02 Thu 16:44]
+   - State "DONE"       from "ACTIVE"     [2023-11-02 Thu 16:44]
+   - State "DONE"       from "ACTIVE"     [2023-11-02 Thu 16:44]
+   - State "DONE"       from "ACTIVE"     [2023-11-02 Thu 16:44]
    - State "DONE"       from "TODO"       [2023-06-23 Fri 15:16]
 [[https://www.danliden.com/posts/20220116-org-time.html]]
 ** TODO Practice: UnitTesting in Python
 SCHEDULED: <2023-11-03 Fri>
-*** TODO Official unittesting documentation
-SCHEDULED: <2023-11-03 Fri>
-*** TODO StackOverflow for questions resolving
-SCHEDULED: <2023-11-03 Fri>
+*** TODO [#B] Official unittesting documentation
+SCHEDULED: <2023-11-17 Fri>
+*** DONE StackOverflow for questions resolving
+CLOSED: [2023-11-02 Thu 16:43] SCHEDULED: <2023-11-03 Fri>
 [[http://0--key.github.io/python/tdd/unittest_init.html]]
 [[http://0--key.github.io/python/stdlib/python-built-in-functions.html]]
 ** DONE Feyman's learning technique
 CLOSED: [2023-07-17 Mon 13:16] SCHEDULED: <2023-07-16 Sun>
-** TODO Google shortcuts
-SCHEDULED: <2023-11-03 Fri>
+** DONE Google shortcuts
+CLOSED: [2023-11-02 Thu 16:43] SCHEDULED: <2023-11-03 Fri>
 * Selenium Learning Course
-** TODO Selenium official documentation
-SCHEDULED: <2023-11-03 Fri>
-* TODO Linux file system
-SCHEDULED: <2023-11-03 Fri>
+** DONE Selenium official documentation
+CLOSED: [2023-11-02 Thu 16:41] SCHEDULED: <2023-11-03 Fri>
+* DONE Linux file system
+CLOSED: [2023-11-02 Thu 16:41] SCHEDULED: <2023-11-03 Fri>
 * TODO HTML tutorial
 ** DONE HTML Elements
 CLOSED: [2023-09-25 Mon 10:41] SCHEDULED: <2023-09-25 Mon>
@@ -136,7 +146,7 @@ CLOSED: [2023-10-02 Mon 17:46] SCHEDULED: <2023-10-02 Mon>
 ** DONE Adding a new SSH key to GitHub account
 CLOSED: [2023-10-02 Mon 17:46] SCHEDULED: <2023-10-02 Mon>
 * ACTIVE [#C] Working with transctipt to video "How to Learn Anything Fast: Teach Your Brain to Focus"
-SCHEDULED: <2023-11-03 Fri>
+SCHEDULED: <2023-11-11 Sat>
 - Note taken on [2023-10-14 Sat 13:30] \\
   Part I "The neuroscience solution to boredom "
 
@@ -159,8 +169,8 @@ CLOCK: [2023-10-14 Sat 13:30]--[2023-10-14 Sat 14:03] =>  0:33
 :END:
 ** DONE Rewrite the transcript
 CLOSED: [2023-10-10 Tue 08:00] SCHEDULED: <2023-10-06 Fri>
-* TODO Org-Jekyll - configuration options
-SCHEDULED: <2023-11-02 Thu>
+* TODO [#B] Org-Jekyll - configuration options
+SCHEDULED: <2023-11-11 Sat>
 - Note taken on [2023-10-12 Thu 15:01] \\
   Reverse approach: use the working sample with minimum modifications
   (personal data).
@@ -315,7 +325,7 @@ post.html
 to the corresponding files from /_layouts folder.
 Result you can see on [[https://annelida.github.io/]]
 * TODO [#A] Explorations in details page's structure in Jekyll.
-SCHEDULED: <2023-11-02 Thu>
+SCHEDULED: <2023-11-04 Sat>
 - Note taken on [2023-10-22 Sun 08:21] \\
   * How it is possible to organize several pages.
   * Page's front matter structure:
@@ -356,7 +366,7 @@ CLOCK: [2023-10-20 Fri 08:58]--[2023-10-20 Fri 10:19] =>  1:21
 [[https://jekyllrb.com/docs/includes/][/includes]]
 
 * TODO What is Jekyll's Gemfile.lock (full clarification).
-SCHEDULED: <2023-11-02 Thu>
+SCHEDULED: <2023-11-05 Sun>
 
 - Note taken on [2023-10-20 Fri 08:33] \\
   The Gemfile.lock file is where Bundler records the exact
@@ -386,7 +396,7 @@ SCHEDULED: <2023-11-03 Fri>
 CLOCK: [2023-10-24 Tue 08:07]--[2023-10-24 Tue 09:32] =>  1:25
 :END:
 * TODO Python classes.
-SCHEDULED: <2023-11-02 Thu>
+SCHEDULED: <2023-11-03 Fri>
 - Note taken on [2023-11-01 Wed 16:02] \\
   Stock portfolio class clarification.
 :LOGBOOK:
@@ -564,7 +574,7 @@ SCHEDULED: <2023-11-15 Wed>
 * TODO Org-Agenda views: item arrangement in daily agenda, its priorities;
 SCHEDULED: <2023-11-15 Wed>
 * ACTIVE Magit brief overview
-SCHEDULED: <2023-11-02 Thu>
+SCHEDULED: <2023-11-09 Thu>
 - Note taken on [2023-10-13 Fri 07:58] \\
   * To display information about the current Git repository C-x-g
     or gs (key-chord);
@@ -589,6 +599,7 @@ How rename last commit:
 Press c (Commit), then a (Amend), edit the message, C-c C-c.
   
 :LOGBOOK:
+CLOCK: [2023-11-02 Thu 08:58]--[2023-11-02 Thu 09:45] =>  0:47
 CLOCK: [2023-10-13 Fri 07:53]--[2023-10-13 Fri 08:17] =>  0:24
 :END:
 * TODO Git/Magit merge and rebase concept.
@@ -723,7 +734,7 @@ CLOCK: [2023-10-10 Tue 18:53]--[2023-10-10 Tue 19:00] =>  0:07
 C-h a <command name>
 C-h f
 * ACTIVE Emacs frames
-SCHEDULED: <2023-11-02 Thu>
+SCHEDULED: <2023-11-23 Thu>
 - Note taken on [2023-10-13 Fri 08:31] \\
   * A graphical display that contains one or more Emacs windows,
     a menu bar, tool bar, echo area.
@@ -737,7 +748,7 @@ CLOCK: [2023-10-13 Fri 08:25]--[2023-10-13 Fri 08:51] =>  0:26
 CLOCK: [2023-10-10 Tue 19:00]--[2023-10-10 Tue 19:14] =>  0:14
 :END:
 * ACTIVE Emacs buffers
-SCHEDULED: <2023-11-02 Thu>
+SCHEDULED: <2023-11-23 Thu>
 The text you are editing in Emacs resides in an
 object called a “buffer”.
 Each buffer has a unique name.
@@ -751,7 +762,7 @@ CLOCK: [2023-10-13 Fri 09:16]--[2023-10-13 Fri 09:22] =>  0:06
 CLOCK: [2023-10-10 Tue 19:14]--[2023-10-10 Tue 19:20] =>  0:06
 :END:
 * ACTIVE Emacs windows - resize and split
-SCHEDULED: <2023-11-02 Thu>
+SCHEDULED: <2023-11-23 Thu>
 - Note taken on [2023-10-13 Fri 09:01] \\
   * Frame can be split into several windows. Buffer or it's part
     displays in window
