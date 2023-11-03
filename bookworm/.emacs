@@ -105,6 +105,7 @@
 
 (setq org-agenda-files (list
 			"~/git/ballyboe/bookworm/agenda/selenium.list"
+			"~/git/ballyboe/bookworm/agenda/Python.list"
 			"~/git/ballyboe/bookworm/agenda/main.list"
 			"~/git/ballyboe/bookworm/agenda/chores-tasks.list"
 			"~/git/ballyboe/bookworm/agenda/personal.list"
