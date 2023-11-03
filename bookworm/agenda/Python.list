@@ -1,0 +1,159 @@
+MY PROJECTS    -*- mode: org; -*-
+#+AUTHOR:    Viktoriia Kosinova
+#+TITLE:     Mental Athlete's Wife ToDo List
+#+SUBTITLE:  Life in a plain text
+#+EMAIL:     viqsiq@gmail.com
+#+LANGUAGE: en
+#+STARTUP: showall indent
+#+PROPERTY: header-args :comments org
+#+CATEGORY: Python
+#+TODO: RAW INIT TODO ACTIVE | DONE
+
+* RAW Whetting Your Appetite
+SCHEDULED: <2023-11-04 Sat>
+* RAW Using the Python Interpreter
+SCHEDULED: <2023-11-04 Sat>
+* RAW Invoking the Interpreter
+SCHEDULED: <2023-11-04 Sat>
+* RAW Argument Passing
+SCHEDULED: <2023-11-04 Sat>
+* RAW Interactive Mode
+SCHEDULED: <2023-11-04 Sat>
+* RAW The Interpreter and Its Environment
+SCHEDULED: <2023-11-04 Sat>
+* RAW Source Code Encoding
+SCHEDULED: <2023-11-04 Sat>
+* RAW An Informal Introduction to Python
+SCHEDULED: <2023-11-04 Sat>
+* RAW Using Python as a Calculator
+SCHEDULED: <2023-11-04 Sat>
+* RAW Numbers
+SCHEDULED: <2023-11-04 Sat>
+* RAW Text
+SCHEDULED: <2023-11-04 Sat>
+* RAW Lists
+SCHEDULED: <2023-11-04 Sat>
+* RAW First Steps Towards Programming
+* RAW More Control Flow Tools
+* RAW if Statements
+* RAW for Statements
+* RAW The range() Function
+* RAW break and continue Statements, and else Clauses on Loops
+* RAW pass Statements
+* RAW match Statements
+* RAW Defining Functions
+* RAW More on Defining Functions
+* RAW Default Argument Values
+* RAW Keyword Arguments
+* RAW Special parameters
+* RAW Positional-or-Keyword Arguments
+* RAW Positional-Only Parameters
+* RAW Keyword-Only Arguments
+* RAW Function Examples
+* RAW Recap
+* RAW Arbitrary Argument Lists
+* RAW Unpacking Argument Lists
+* RAW Lambda Expressions
+* RAW Documentation Strings
+* RAW Function Annotations
+* RAW Intermezzo: Coding Style
+* RAW Data Structures
+* RAW More on Lists
+* RAW Using Lists as Stacks
+* RAW Using Lists as Queues
+* RAW List Comprehensions
+* RAW Nested List Comprehensions
+* RAW The del statement
+* RAW Tuples and Sequences
+* RAW Sets
+* RAW Dictionaries
+* RAW Looping Techniques
+* RAW More on Conditions
+* RAW Comparing Sequences and Other Types
+* RAW Modules
+* RAW More on Modules
+* RAW Executing modules as scripts
+* RAW The Module Search Path
+* RAW “Compiled” Python files
+* RAW Standard Modules
+* RAW The dir() Function
+* RAW Packages
+* RAW Importing * From a Package
+* RAW Intra-package References
+* RAW Packages in Multiple Directories
+* RAW Input and Output
+* RAW Fancier Output Formatting
+* RAW Formatted String Literals
+* RAW The String format() Method
+* RAW Manual String Formatting
+* RAW Old string formatting
+* RAW Reading and Writing Files
+* RAW Methods of File Objects
+* RAW Saving structured data with json
+* RAW Errors and Exceptions
+* RAW Syntax Errors
+* RAW Exceptions
+* RAW Handling Exceptions
+* RAW Raising Exceptions
+* RAW Exception Chaining
+* RAW User-defined Exceptions
+* RAW Defining Clean-up Actions
+* RAW Predefined Clean-up Actions
+* RAW Raising and Handling Multiple Unrelated Exceptions
+* RAW Enriching Exceptions with Notes
+* RAW Classes
+* RAW A Word About Names and Objects
+* RAW Python Scopes and Namespaces
+* RAW Scopes and Namespaces Example
+* RAW A First Look at Classes
+* RAW Class Definition Syntax
+* RAW Class Objects
+* RAW Instance Objects
+* RAW Method Objects
+* RAW Class and Instance Variables
+* RAW Random Remarks
+* RAW Inheritance
+* RAW Multiple Inheritance
+* RAW Private Variables
+* RAW Odds and Ends
+* RAW Iterators
+* RAW Generators
+* RAW Generator Expressions
+* RAW Brief Tour of the Standard Library
+* RAW Operating System Interface
+* RAW File Wildcards
+* RAW Command Line Arguments
+* RAW Error Output Redirection and Program Termination
+* RAW String Pattern Matching
+* RAW Mathematics
+* RAW Internet Access
+* RAW Dates and Times
+* RAW Data Compression
+* RAW Performance Measurement
+* RAW Quality Control
+* RAW Batteries Included
+* RAW Brief Tour of the Standard Library — Part II
+* RAW Output Formatting
+* RAW Templating
+* RAW Working with Binary Data Record Layouts
+* RAW Multi-threading
+* RAW Logging
+* RAW Weak References
+* RAW Tools for Working with Lists
+* RAW Decimal Floating Point Arithmetic
+* RAW Virtual Environments and Packages
+* RAW Introduction
+* RAW Creating Virtual Environments
+* RAW Managing Packages with pip
+* RAW What Now?
+* RAW Interactive Input Editing and History Substitution
+* RAW Tab Completion and History Editing
+* RAW Alternatives to the Interactive Interpreter
+* RAW Floating Point Arithmetic: Issues and Limitations
+* RAW Representation Error
+* RAW Appendix
+* RAW Interactive Mode
+* RAW Error Handling
+* RAW Executable Python Scripts
+* RAW The Interactive Startup File
+* RAW The Customization Modules
