@@ -68,7 +68,29 @@ SCHEDULED: <2023-11-07 Tue>
   It accepts the commands, processes, and actions on the browser.
 * Selenium for Web Automation
 * Locators and Handling Web Elements
-* Synchronization, Exception Handling and Assertions
+* TODO Synchronization, Exception Handling and Assertions
+SCHEDULED: <2023-11-04 Sat>
+** TODO Synchronization.Introduction
+SCHEDULED: <2023-11-04 Sat>
+** INIT Synchronization. Structure
+SCHEDULED: <2023-11-04 Sat>
+** INIT Synchronization.Objectives
+SCHEDULED: <2023-11-04 Sat>
+** INIT Synchronization
+SCHEDULED: <2023-11-04 Sat>
+** INIT Unconditional Synchronization
+SCHEDULED: <2023-11-04 Sat>
+** INIT Conditional synchronization
+SCHEDULED: <2023-11-04 Sat>
+** Implicit wait
+** Explicit wait
+** Fluent wait
+** Selenium exceptions and handling
+** Exceptions
+** Exception Handling
+** Assertions
+** Python Assert Statement
+** Conclusion
 * Hybrid Application Automation & Launching Multiple Apps
 * Selenium Automation Framework – Part 1
 * Selenium Automation Framework – Part 2
@@ -126,7 +148,8 @@ SCHEDULED: <2023-11-08 Wed>
   Navigate to https://chrome.google.com/webstore
   Search for Selenium IDE.
   Click on Add to Chrome.
-* Selenium IDE Features in Detail
+* TODO Selenium IDE Features in Detail
+SCHEDULED: <2023-11-04 Sat>
 * Adding a new test using the Selenium IDE
 * Save Selenium IDE Tests
 * Selenium IDE Test Execution
