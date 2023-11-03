@@ -114,6 +114,8 @@
 
 (setq org-agenda-include-diary t)
 
+(setq org-default-notes-file (concat org-directory "/notes.org"))
+(global-set-key (kbd "C-c c") #'org-capture)
 
 ;; Jekyll settings there -->
 ;;
