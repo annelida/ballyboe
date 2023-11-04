@@ -9,14 +9,31 @@ MY PROJECTS    -*- mode: org; -*-
 #+CATEGORY: Selenium
 #+TODO: RAW INIT TODO ACTIVE | DONE
 
-* RAW Testing Process and Role of Automation
-SCHEDULED: <2023-11-04 Sat>
-** RAW Introduction
-SCHEDULED: <2023-11-04 Sat>
-** RAW Structure 
-SCHEDULED: <2023-11-04 Sat>
-** RAW Objectives
-SCHEDULED: <2023-11-04 Sat>
+* ACTIVE Software testing definition and mission.
+SCHEDULED: <2023-11-05 Sun>
+- Note taken on [2023-11-04 Sat 10:47] \\
+  Software testing is in sync with the expected software,
+  intended to be developed as defined in the business specification.
+
+  The goal of software testing is to find potential errors in the developed
+  software.
+
+  Software testing provides confidence and guarantees that the
+  product is of a standard to be pushed to production for customers. It is
+  significant because these software applications are bound to have errors,
+  and identifying them in the early stage saves a great sum of money and
+  time.
+
+  • Security: The testing phase case significantly finds the
+  vulnerabilities in the software.
+ 
+  • Performance and efficiency of the application.
+
+  • Reputation: For any industry, the consumers are the most important
+   part.
+:LOGBOOK:
+CLOCK: [2023-11-04 Sat 10:45]--[2023-11-04 Sat 11:04] =>  0:19
+:END:
 ** Significance of software testing
 ** Core concepts of software testing
 ** Software Testing Process
@@ -68,35 +85,6 @@ SCHEDULED: <2023-11-07 Tue>
   It accepts the commands, processes, and actions on the browser.
 * Selenium for Web Automation
 * Locators and Handling Web Elements
-* ACTIVE Synchronization, Exception Handling and Assertions
-SCHEDULED: <2023-11-04 Sat>
-- Note taken on [2023-11-04 Sat 10:20] \\
-  Selenium WebDriver offers implicit wait, and explicit wait to address
-  the synchronization exceptions.
- 
-  Synchronization is when two or more components work together 
-  to perform any action, the components need to run in sync to achieve
-  the expected output.
-
-  Synchronization can be classified into 
-  two categories – Unconditional Synchronization (Static Wait)
-  and Conditional Synchronization (Dynamic wait).
-:LOGBOOK:
-CLOCK: [2023-11-04 Sat 10:10]--[2023-11-04 Sat 10:29] =>  0:19
-:END:
-** INIT Unconditional Synchronization
-SCHEDULED: <2023-11-04 Sat>
-** INIT Conditional synchronization
-SCHEDULED: <2023-11-04 Sat>
-** Implicit wait
-** Explicit wait
-** Fluent wait
-** Selenium exceptions and handling
-** Exceptions
-** Exception Handling
-** Assertions
-** Python Assert Statement
-** Conclusion
 * Hybrid Application Automation & Launching Multiple Apps
 * Selenium Automation Framework – Part 1
 * Selenium Automation Framework – Part 2
