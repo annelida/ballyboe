@@ -30,8 +30,8 @@ SCHEDULED: <2023-11-05 Sun>
 :LOGBOOK:
 CLOCK: [2023-11-04 Sat 08:24]--[2023-11-04 Sat 08:44] =>  0:20
 :END:
-* RAW Using the Python Interpreter
-SCHEDULED: <2023-11-04 Sat>
+* ACTIVE Using the Python Interpreter
+SCHEDULED: <2023-11-05 Sun>
 - Note taken on [2023-11-04 Sat 08:45] \\
   * The Python interpreter is usually installed as /usr/local/bin/python3
   It possible to start it by typing the command:
@@ -64,10 +64,24 @@ SCHEDULED: <2023-11-04 Sat>
 :LOGBOOK:
 CLOCK: [2023-11-04 Sat 08:45]--[2023-11-04 Sat 09:18] =>  0:33
 :END:
-* RAW Invoking the Interpreter
-SCHEDULED: <2023-11-04 Sat>
-* RAW Argument Passing
-SCHEDULED: <2023-11-04 Sat>
+* ACTIVE Argument Passing
+SCHEDULED: <2023-11-05 Sun>
+- Note taken on [2023-11-04 Sat 09:33] \\
+  When known to the interpreter, the script name and additional arguments thereafter
+  are turned into a list of strings and assigned to the argv variable in the sys module.
+
+  You can access this list by executing import sys.
+
+  The length of the list is at least one; when no script and no arguments are given,
+  sys.argv[0] is an empty string.
+
+  $ python3 -i 00_import_test.py
+  >>> import sys
+  >>> sys.argv[0]
+  '00_import_test.py'
+:LOGBOOK:
+CLOCK: [2023-11-04 Sat 09:33]--[2023-11-04 Sat 09:57] =>  0:24
+:END:
 * RAW Interactive Mode
 SCHEDULED: <2023-11-04 Sat>
 * RAW The Interpreter and Its Environment
