@@ -297,7 +297,7 @@ post.html
 to the corresponding files from /_layouts folder.
 Result you can see on [[https://annelida.github.io/]]
 * TODO [#A] Explorations in details page's structure in Jekyll.
-SCHEDULED: <2023-11-04 Sat>
+SCHEDULED: <2023-11-09 Thu>
 - Note taken on [2023-10-22 Sun 08:21] \\
   * How it is possible to organize several pages.
   * Page's front matter structure:
@@ -309,7 +309,7 @@ SCHEDULED: <2023-11-04 Sat>
 CLOCK: [2023-10-22 Sun 08:21]--[2023-10-22 Sun 08:34] =>  0:13
 :END:
 * TODO What is Jekyll's Gemfile.lock (full clarification).
-SCHEDULED: <2023-11-05 Sun>
+SCHEDULED: <2023-11-26 Sun>
 
 - Note taken on [2023-10-20 Fri 08:33] \\
   The Gemfile.lock file is where Bundler records the exact
@@ -446,7 +446,7 @@ class TestSum(unittest.TestCase):
 if __name__ == '__main__':
     unittest.main()
 * TODO [#B] Emacs registers
-SCHEDULED: <2023-11-04 Sat>
+SCHEDULED: <2023-11-05 Sun>
 - Note taken on [2023-10-31 Tue 10:00] \\
   [[info:emacs#Registers][emacs#Registers]]
   [[info:emacs#Position Registers][emacs#Position Registers]]
@@ -454,7 +454,7 @@ SCHEDULED: <2023-11-04 Sat>
   [[info:emacs#Rectangle Registers][emacs#Rectangle Registers]]
   [[info:emacs#Configuration Registers][emacs#Configuration Registers]]
 * TODO [#B] Org-capture
-SCHEDULED: <2023-11-04 Sat>
+SCHEDULED: <2023-11-07 Tue>
 - Note taken on [2023-10-31 Tue 11:09] \\
   [[info:org#Capture and Attachments][org#Capture and Attachments]]
   [[info:org#Capture][org#Capture]]
@@ -462,10 +462,10 @@ SCHEDULED: <2023-11-04 Sat>
   [[info:org#Using capture][org#Using capture]]
   [[info:org#Capture templates][org#Capture templates]]
 * RAW [#B] Org-babel
-SCHEDULED: <2023-11-04 Sat>
+SCHEDULED: <2023-11-07 Tue>
 
 * INIT Org-Babel configuration.
-SCHEDULED: <2023-11-04 Sat>
+SCHEDULED: <2023-11-08 Wed>
 - Note taken on [2023-10-27 Fri 08:25] \\
   I had problems with running Python3 code using org-babel.
   At first when I run my code I saw the error:
