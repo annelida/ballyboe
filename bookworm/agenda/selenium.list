@@ -10,7 +10,7 @@ MY PROJECTS    -*- mode: org; -*-
 #+TODO: RAW INIT TODO ACTIVE | DONE
 
 * ACTIVE Software testing definition and mission.
-SCHEDULED: <2023-11-05 Sun>
+SCHEDULED: <2023-11-12 Sun>
 - Note taken on [2023-11-04 Sat 10:47] \\
   Software testing is in sync with the expected software,
   intended to be developed as defined in the business specification.
@@ -143,7 +143,7 @@ SCHEDULED: <2023-11-08 Wed>
   Search for Selenium IDE.
   Click on Add to Chrome.
 * TODO Selenium IDE Features in Detail
-SCHEDULED: <2023-11-04 Sat>
+SCHEDULED: <2023-11-06 Mon>
 * Adding a new test using the Selenium IDE
 * Save Selenium IDE Tests
 * Selenium IDE Test Execution

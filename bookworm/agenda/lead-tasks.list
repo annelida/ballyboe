@@ -8,8 +8,8 @@
 #+PROPERTY: header-args :comments org
 #+CATEGORY: Lead
 #+TODO: RAW INIT TODO ACTIVE | DONE
-* ACTIVE [#A] Genuine source of knowledge
-SCHEDULED: <2023-11-04 Sat>
+* ACTIVE [#B] Genuine source of knowledge
+SCHEDULED: <2023-11-20 Mon>
 :LOGBOOK:
 CLOCK: [2023-10-12 Thu 08:33]--[2023-10-12 Thu 10:58] =>  2:25
 :END:
@@ -26,7 +26,7 @@ about how the program works are:
 
 --Conclusion: the wisest decision is just to use it properly!
 * ACTIVE [#A] Deliberate practice
-SCHEDULED: <2023-11-04 Sat>
+SCHEDULED: <2023-11-20 Mon>
 when you do challenging but indispensable tasks by yourself
 * INIT Help about *Help*
 SCHEDULED: <2023-11-25 Sat>
@@ -67,7 +67,7 @@ Mostly the similar approach with several quirks
 CLOSED: [2023-10-25 Wed 16:15] SCHEDULED: <2023-10-28 Sat>
 [[info:org#Clocking Work Time][org#Clocking Work Time]]
 * ACTIVE [#A] The Absolute Beginner
-SCHEDULED: <2023-11-04 Sat>
+SCHEDULED: <2023-11-12 Sun>
 :LOGBOOK:
 CLOCK: [2023-10-20 Fri 10:26]--[2023-10-20 Fri 13:17] =>  2:51
 CLOCK: [2023-10-19 Thu 08:48]--[2023-10-19 Thu 09:14] =>  0:26
