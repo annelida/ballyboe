@@ -68,16 +68,22 @@ SCHEDULED: <2023-11-07 Tue>
   It accepts the commands, processes, and actions on the browser.
 * Selenium for Web Automation
 * Locators and Handling Web Elements
-* TODO Synchronization, Exception Handling and Assertions
+* ACTIVE Synchronization, Exception Handling and Assertions
 SCHEDULED: <2023-11-04 Sat>
-** TODO Synchronization.Introduction
-SCHEDULED: <2023-11-04 Sat>
-** INIT Synchronization. Structure
-SCHEDULED: <2023-11-04 Sat>
-** INIT Synchronization.Objectives
-SCHEDULED: <2023-11-04 Sat>
-** INIT Synchronization
-SCHEDULED: <2023-11-04 Sat>
+- Note taken on [2023-11-04 Sat 10:20] \\
+  Selenium WebDriver offers implicit wait, and explicit wait to address
+  the synchronization exceptions.
+ 
+  Synchronization is when two or more components work together 
+  to perform any action, the components need to run in sync to achieve
+  the expected output.
+
+  Synchronization can be classified into 
+  two categories – Unconditional Synchronization (Static Wait)
+  and Conditional Synchronization (Dynamic wait).
+:LOGBOOK:
+CLOCK: [2023-11-04 Sat 10:10]--[2023-11-04 Sat 10:29] =>  0:19
+:END:
 ** INIT Unconditional Synchronization
 SCHEDULED: <2023-11-04 Sat>
 ** INIT Conditional synchronization
