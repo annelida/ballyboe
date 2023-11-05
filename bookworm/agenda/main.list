@@ -446,7 +446,7 @@ class TestSum(unittest.TestCase):
 if __name__ == '__main__':
     unittest.main()
 * TODO [#B] Emacs registers
-SCHEDULED: <2023-11-05 Sun>
+SCHEDULED: <2023-11-06 Mon>
 - Note taken on [2023-10-31 Tue 10:00] \\
   [[info:emacs#Registers][emacs#Registers]]
   [[info:emacs#Position Registers][emacs#Position Registers]]
