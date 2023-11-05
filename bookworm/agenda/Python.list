@@ -10,7 +10,7 @@ MY PROJECTS    -*- mode: org; -*-
 #+TODO: RAW INIT TODO ACTIVE | DONE
 
 * ACTIVE Whetting Your Appetite
-SCHEDULED: <2023-11-05 Sun>
+SCHEDULED: <2023-11-06 Mon>
 - Note taken on [2023-11-04 Sat 08:31] \\
   * Python is simpler to use, available on Windows, macOS, and Unix operating systems,
   and will help you get the job done more quickly.
@@ -31,7 +31,7 @@ SCHEDULED: <2023-11-05 Sun>
 CLOCK: [2023-11-04 Sat 08:24]--[2023-11-04 Sat 08:44] =>  0:20
 :END:
 * ACTIVE Using the Python Interpreter
-SCHEDULED: <2023-11-05 Sun>
+SCHEDULED: <2023-11-06 Mon>
 - Note taken on [2023-11-04 Sat 08:45] \\
   * The Python interpreter is usually installed as /usr/local/bin/python3
   It possible to start it by typing the command:
@@ -65,7 +65,7 @@ SCHEDULED: <2023-11-05 Sun>
 CLOCK: [2023-11-04 Sat 08:45]--[2023-11-04 Sat 09:18] =>  0:33
 :END:
 * ACTIVE Argument Passing
-SCHEDULED: <2023-11-05 Sun>
+SCHEDULED: <2023-11-06 Mon>
 - Note taken on [2023-11-04 Sat 09:33] \\
   When known to the interpreter, the script name and additional arguments thereafter
   are turned into a list of strings and assigned to the argv variable in the sys module.
@@ -83,21 +83,21 @@ SCHEDULED: <2023-11-05 Sun>
 CLOCK: [2023-11-04 Sat 09:33]--[2023-11-04 Sat 09:57] =>  0:24
 :END:
 * RAW Interactive Mode
-SCHEDULED: <2023-11-05 Sun>
+SCHEDULED: <2023-11-06 Mon>
 * RAW The Interpreter and Its Environment
-SCHEDULED: <2023-11-05 Sun>
+SCHEDULED: <2023-11-06 Mon>
 * RAW Source Code Encoding
-SCHEDULED: <2023-11-05 Sun>
+SCHEDULED: <2023-11-06 Mon>
 * RAW An Informal Introduction to Python
-SCHEDULED: <2023-11-05 Sun>
+SCHEDULED: <2023-11-06 Mon>
 * RAW Using Python as a Calculator
-SCHEDULED: <2023-11-05 Sun>
+SCHEDULED: <2023-11-06 Mon>
 * RAW Numbers
-SCHEDULED: <2023-11-05 Sun>
+SCHEDULED: <2023-11-06 Mon>
 * RAW Text
-SCHEDULED: <2023-11-05 Sun>
+SCHEDULED: <2023-11-06 Mon>
 * RAW Lists
-SCHEDULED: <2023-11-05 Sun>
+SCHEDULED: <2023-11-06 Mon>
 * RAW First Steps Towards Programming
 * RAW More Control Flow Tools
 * RAW if Statements
