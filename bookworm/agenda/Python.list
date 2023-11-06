@@ -98,12 +98,29 @@ SCHEDULED: <2023-11-06 Mon>
   # -*- coding: encoding -*-
 * RAW An Informal Introduction to Python
 SCHEDULED: <2023-11-06 Mon>
+:LOGBOOK:
+CLOCK: [2023-11-06 Mon 10:27]--[2023-11-06 Mon 10:51] =>  0:24
+:END:
 * RAW Using Python as a Calculator
 SCHEDULED: <2023-11-06 Mon>
 * RAW Numbers
 SCHEDULED: <2023-11-06 Mon>
 * RAW Text
 SCHEDULED: <2023-11-06 Mon>
+- Note taken on [2023-11-06 Mon 10:51] \\
+  >>> s = 'First line.\nSecond line.'  # \n means newline
+  >>> s  # without print(), special characters are included in the string
+  'First line.\nSecond line.'
+  >>> print(s)  # with print(), special characters are interpreted, so \n produces new line
+  First line.
+  Second line.
+  >>> text = ('Put several strings within parentheses '
+  ... 'to have them joined together.')
+  >>> text
+  'Put several strings within parentheses to have them joined together.'
+:LOGBOOK:
+CLOCK: [2023-11-06 Mon 10:51]
+:END:
 * RAW Lists
 SCHEDULED: <2023-11-06 Mon>
 * RAW First Steps Towards Programming
