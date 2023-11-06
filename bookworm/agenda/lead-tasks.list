@@ -20,14 +20,14 @@ Have undisputed origin, independly verified,
 and objectively authenticated.
 
 about how the program works are:
-- is the source code and embedded documentation;
-- the simplified version usually provided by official documentation;
-  - in most cases the latter included in a particular package;
-  - usually it is available through =Emacs= *info system*;
+1) is the _source code and embedded documentation_;
+2) the simplified version usually provided by official documentation;
+   - in most cases the latter included in a particular package;
+   - usually it is available through =Emacs= *info system*;
 
---Conclusion: the wisest decision is just to use it properly!
+--*Conclusion*: the wisest decision is just to use it properly!
 * ACTIVE [#A] Deliberate practice
-SCHEDULED: <2023-11-20 Mon>
+SCHEDULED: <2023-11-07 Tue>
 when you do challenging but indispensable tasks by yourself
 * INIT Help about *Help*
 SCHEDULED: <2023-11-25 Sat>
