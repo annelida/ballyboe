@@ -29,8 +29,25 @@ about how the program works are:
 * ACTIVE [#A] Deliberate practice
 SCHEDULED: <2023-11-07 Tue>
 when you do challenging but indispensable tasks by yourself
-* INIT Help about *Help*
-SCHEDULED: <2023-11-25 Sat>
+* INIT [#A] Help about *Help*
+SCHEDULED: <2023-11-07 Tue ++5d/6d>
+
+Initially all software was used by the ancient (true) users by its
+/innate (embedded) documentation/, ~without~ any Google and
+Stack-Overflow suggestions and notes. Bear this fact in mind do your
+job as it would be done in a sure and fire manner.
+
+** INIT [#A] *Python* embedded help system
+SCHEDULED: <2023-11-07 Tue ++2d/3d>
+** INIT [#A] *Selenium* package:
+SCHEDULED: <2023-11-07 Tue ++1d>
+- Place in OS filesystem;
+  - Accessibility through =venvs=;
+- Its structure;
+  - features;
+- Content;
+- Source code and =docstrings=
+** Emacs' embedded help system
 - Note taken on [2023-10-14 Sat 08:14] \\
 
   C-h C-h or C-h ? to invoke Emacs built-n key.
