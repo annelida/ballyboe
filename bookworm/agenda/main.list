@@ -79,7 +79,7 @@ Requirements to job seekers (software testers)
    - State "DONE"       from "TODO"       [2023-06-23 Fri 15:16]
 [[https://www.danliden.com/posts/20220116-org-time.html]]
 ** TODO Practice: UnitTesting in Python
-SCHEDULED: <2023-11-07 Tue>
+SCHEDULED: <2023-11-08 Wed>
 *** TODO [#B] Official unittesting documentation
 SCHEDULED: <2023-11-17 Fri>
 ** DONE Feyman's learning technique
@@ -384,7 +384,7 @@ Object's methods are functions that belong to the object.
 : The student's name is Tony Black
 
 * TODO [#A] Unit test module description and structure.
-SCHEDULED: <2023-11-07 Tue>
+SCHEDULED: <2023-11-09 Thu>
 - Note taken on [2023-10-24 Tue 09:35] \\
   A unit test is a smaller test, that checks
   that a single component operates in the right way.
@@ -446,7 +446,7 @@ class TestSum(unittest.TestCase):
 if __name__ == '__main__':
     unittest.main()
 * TODO [#B] Emacs registers
-SCHEDULED: <2023-11-06 Mon>
+SCHEDULED: <2023-11-08 Wed>
 - Note taken on [2023-10-31 Tue 10:00] \\
   [[info:emacs#Registers][emacs#Registers]]
   [[info:emacs#Position Registers][emacs#Position Registers]]
@@ -454,7 +454,7 @@ SCHEDULED: <2023-11-06 Mon>
   [[info:emacs#Rectangle Registers][emacs#Rectangle Registers]]
   [[info:emacs#Configuration Registers][emacs#Configuration Registers]]
 * TODO [#B] Org-capture
-SCHEDULED: <2023-11-07 Tue>
+SCHEDULED: <2023-11-08 Wed>
 - Note taken on [2023-10-31 Tue 11:09] \\
   [[info:org#Capture and Attachments][org#Capture and Attachments]]
   [[info:org#Capture][org#Capture]]
@@ -462,7 +462,7 @@ SCHEDULED: <2023-11-07 Tue>
   [[info:org#Using capture][org#Using capture]]
   [[info:org#Capture templates][org#Capture templates]]
 * RAW [#B] Org-babel
-SCHEDULED: <2023-11-07 Tue>
+SCHEDULED: <2023-11-08 Wed>
 
 * INIT Org-Babel configuration.
 SCHEDULED: <2023-11-08 Wed>
@@ -869,4 +869,8 @@ In Emacs using M-x diff function it not necessary to separately compare folders 
 You can see full result in diff buffer.
 In the Linux terminal it is possible at the same time to compare folder with files:
 $ diff -a -y dir1 dir2
+* RAW Git/Magit --amend clarification
+SCHEDULED: <2023-11-07 Tue>
+* RAW Create agenda's file for blogging
+SCHEDULED: <2023-11-07 Tue>
 

@@ -9,8 +9,14 @@ MY PROJECTS    -*- mode: org; -*-
 #+CATEGORY: Python
 #+TODO: RAW INIT TODO ACTIVE | DONE
 
-* ACTIVE Whetting Your Appetite
-SCHEDULED: <2023-11-06 Mon>
+* RAW Whetting Your Appetite
+SCHEDULED: <2023-12-18 Mon ++2w>
+:PROPERTIES:
+:LAST_REPEAT: [2023-11-06 Mon 15:54]
+:END:
+- State "DONE"       from "ACTIVE"     [2023-11-06 Mon 15:54]
+- State "DONE"       from "ACTIVE"     [2023-11-06 Mon 15:54]
+- State "DONE"       from "ACTIVE"     [2023-11-06 Mon 15:46]
 - Note taken on [2023-11-04 Sat 08:31] \\
   * Python is simpler to use, available on Windows, macOS, and Unix operating systems,
   and will help you get the job done more quickly.
@@ -30,8 +36,9 @@ SCHEDULED: <2023-11-06 Mon>
 :LOGBOOK:
 CLOCK: [2023-11-04 Sat 08:24]--[2023-11-04 Sat 08:44] =>  0:20
 :END:
-* ACTIVE Using the Python Interpreter
-SCHEDULED: <2023-11-06 Mon>
+SCHEDULED: <2023-12-04 Mon ++2w>
+* DONE Using the Python Interpreter
+CLOSED: [2023-11-06 Mon 15:47]
 - Note taken on [2023-11-04 Sat 08:45] \\
   * The Python interpreter is usually installed as /usr/local/bin/python3
   It possible to start it by typing the command:
@@ -64,8 +71,16 @@ SCHEDULED: <2023-11-06 Mon>
 :LOGBOOK:
 CLOCK: [2023-11-04 Sat 08:45]--[2023-11-04 Sat 09:18] =>  0:33
 :END:
-* ACTIVE Argument Passing
-SCHEDULED: <2023-11-06 Mon>
+* RAW Argument Passing
+SCHEDULED: <2024-01-15 Mon ++2w>
+:PROPERTIES:
+:LAST_REPEAT: [2023-11-06 Mon 15:48]
+:END:
+- State "DONE"       from "ACTIVE"     [2023-11-06 Mon 15:48]
+- State "DONE"       from "ACTIVE"     [2023-11-06 Mon 15:48]
+- State "DONE"       from "ACTIVE"     [2023-11-06 Mon 15:48]
+- State "DONE"       from "ACTIVE"     [2023-11-06 Mon 15:48]
+- State "DONE"       from "ACTIVE"     [2023-11-06 Mon 15:47]
 - Note taken on [2023-11-04 Sat 09:33] \\
   When known to the interpreter, the script name and additional arguments thereafter
   are turned into a list of strings and assigned to the argv variable in the sys module.
@@ -83,30 +98,54 @@ SCHEDULED: <2023-11-06 Mon>
 CLOCK: [2023-11-04 Sat 09:33]--[2023-11-04 Sat 09:57] =>  0:24
 :END:
 * RAW Interactive Mode
-SCHEDULED: <2023-11-06 Mon>
-* RAW The Interpreter and Its Environment
-SCHEDULED: <2023-11-06 Mon>
+SCHEDULED: <2023-11-20 Mon ++2w>
+:PROPERTIES:
+:LAST_REPEAT: [2023-11-06 Mon 15:49]
+:END:
+- State "DONE"       from "ACTIVE"     [2023-11-06 Mon 15:49]
+* DONE The Interpreter and Its Environment
+CLOSED: [2023-11-06 Mon 15:54] SCHEDULED: <2023-11-06 Mon>
 :LOGBOOK:
 CLOCK: [2023-11-06 Mon 10:16]--[2023-11-06 Mon 10:27] =>  0:11
 :END:
 * RAW Source Code Encoding
-SCHEDULED: <2023-11-06 Mon>
+SCHEDULED: <2023-11-20 Mon ++2w>
+:PROPERTIES:
+:LAST_REPEAT: [2023-11-06 Mon 15:50]
+:END:
+- State "DONE"       from "ACTIVE"     [2023-11-06 Mon 15:50]
 - Note taken on [2023-11-06 Mon 10:22] \\
   To declare an encoding other than the default one, a special comment
   line should be added as the first line of the file:
 
   # -*- coding: encoding -*-
 * RAW An Informal Introduction to Python
-SCHEDULED: <2023-11-06 Mon>
+SCHEDULED: <2023-11-20 Mon ++2w>
+:PROPERTIES:
+:LAST_REPEAT: [2023-11-06 Mon 15:51]
+:END:
+- State "DONE"       from "ACTIVE"     [2023-11-06 Mon 15:51]
 :LOGBOOK:
 CLOCK: [2023-11-06 Mon 10:27]--[2023-11-06 Mon 10:51] =>  0:24
 :END:
 * RAW Using Python as a Calculator
-SCHEDULED: <2023-11-06 Mon>
+SCHEDULED: <2023-11-20 Mon ++2w>
+:PROPERTIES:
+:LAST_REPEAT: [2023-11-06 Mon 15:51]
+:END:
+- State "DONE"       from "ACTIVE"     [2023-11-06 Mon 15:51]
 * RAW Numbers
-SCHEDULED: <2023-11-06 Mon>
+SCHEDULED: <2023-11-20 Mon ++2w>
+:PROPERTIES:
+:LAST_REPEAT: [2023-11-06 Mon 15:52]
+:END:
+- State "DONE"       from "ACTIVE"     [2023-11-06 Mon 15:52]
 * RAW Text
-SCHEDULED: <2023-11-06 Mon>
+SCHEDULED: <2023-11-20 Mon ++2w>
+:PROPERTIES:
+:LAST_REPEAT: [2023-11-06 Mon 15:52]
+:END:
+- State "DONE"       from "ACTIVE"     [2023-11-06 Mon 15:52]
 - Note taken on [2023-11-06 Mon 10:51] \\
   >>> s = 'First line.\nSecond line.'  # \n means newline
   >>> s  # without print(), special characters are included in the string
@@ -122,7 +161,11 @@ SCHEDULED: <2023-11-06 Mon>
 CLOCK: [2023-11-06 Mon 10:51]--[2023-11-06 Mon 11:03] =>  0:12
 :END:
 * RAW Lists
-SCHEDULED: <2023-11-06 Mon>
+SCHEDULED: <2023-11-20 Mon ++2w>
+:PROPERTIES:
+:LAST_REPEAT: [2023-11-06 Mon 15:52]
+:END:
+- State "DONE"       from "ACTIVE"     [2023-11-06 Mon 15:52]
 :LOGBOOK:
 CLOCK: [2023-11-06 Mon 11:03]--[2023-11-06 Mon 11:09] =>  0:06
 :END:
