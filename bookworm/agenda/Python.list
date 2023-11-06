@@ -87,7 +87,7 @@ SCHEDULED: <2023-11-06 Mon>
 * RAW The Interpreter and Its Environment
 SCHEDULED: <2023-11-06 Mon>
 :LOGBOOK:
-CLOCK: [2023-11-06 Mon 10:16]
+CLOCK: [2023-11-06 Mon 10:16]--[2023-11-06 Mon 10:27] =>  0:11
 :END:
 * RAW Source Code Encoding
 SCHEDULED: <2023-11-06 Mon>
@@ -119,10 +119,13 @@ SCHEDULED: <2023-11-06 Mon>
   >>> text
   'Put several strings within parentheses to have them joined together.'
 :LOGBOOK:
-CLOCK: [2023-11-06 Mon 10:51]
+CLOCK: [2023-11-06 Mon 10:51]--[2023-11-06 Mon 11:03] =>  0:12
 :END:
 * RAW Lists
 SCHEDULED: <2023-11-06 Mon>
+:LOGBOOK:
+CLOCK: [2023-11-06 Mon 11:03]--[2023-11-06 Mon 11:09] =>  0:06
+:END:
 * RAW First Steps Towards Programming
 * RAW More Control Flow Tools
 * RAW if Statements
