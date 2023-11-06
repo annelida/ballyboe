@@ -86,8 +86,16 @@ CLOCK: [2023-11-04 Sat 09:33]--[2023-11-04 Sat 09:57] =>  0:24
 SCHEDULED: <2023-11-06 Mon>
 * RAW The Interpreter and Its Environment
 SCHEDULED: <2023-11-06 Mon>
+:LOGBOOK:
+CLOCK: [2023-11-06 Mon 10:16]
+:END:
 * RAW Source Code Encoding
 SCHEDULED: <2023-11-06 Mon>
+- Note taken on [2023-11-06 Mon 10:22] \\
+  To declare an encoding other than the default one, a special comment
+  line should be added as the first line of the file:
+
+  # -*- coding: encoding -*-
 * RAW An Informal Introduction to Python
 SCHEDULED: <2023-11-06 Mon>
 * RAW Using Python as a Calculator
