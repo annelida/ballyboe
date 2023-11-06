@@ -9,8 +9,8 @@
 #+CATEGORY: Lead
 #+TODO: RAW INIT TODO ACTIVE | DONE
 #+TODO: | AMPLE
-* ACTIVE [#A] Genuine source of knowledge
-SCHEDULED: <2023-11-07 Tue>
+* [#A] Genuine source of knowledge
+SCHEDULED: <2023-11-07 Tue ++14d>
 :LOGBOOK:
 CLOCK: [2023-10-12 Thu 08:33]--[2023-10-12 Thu 10:58] =>  2:25
 :END:
@@ -26,8 +26,8 @@ about how the program works are:
    - usually it is available through =Emacs= *info system*;
 
 --*Conclusion*: the wisest decision is just to use it properly!
-* ACTIVE [#A] Deliberate practice
-SCHEDULED: <2023-11-07 Tue>
+* [#A] Deliberate practice
+SCHEDULED: <2023-11-07 Tue ++14d>
 when you do challenging but indispensable tasks by yourself
 * INIT [#A] Help about *Help*
 SCHEDULED: <2023-11-07 Tue ++5d/6d>
