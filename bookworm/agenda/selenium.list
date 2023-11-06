@@ -154,8 +154,7 @@ SCHEDULED: <2023-11-06 Mon>
 
   The Selenium IDE also provides options to assert.
   You can use other options like Mouse over, Verify,
-  WaitFor and Store.ou can use other options like Mouse over,
-  Verify, WaitFor and Store.
+  WaitFor and Store.
   You can convert the Recorded test into C#, Java, JavaScript,
   Python or Ruby test cases, just by clicking the export option.
 * Adding a new test using the Selenium IDE
