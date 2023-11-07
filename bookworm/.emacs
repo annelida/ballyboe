@@ -7,7 +7,7 @@
  '(org-agenda-files
    '("/home/vikky/git/ballyboe/bookworm/agenda/lead-tasks.list" "/home/vikky/git/ballyboe/bookworm/agenda/selenium.list" "/home/vikky/git/ballyboe/bookworm/agenda/Python.list" "/home/vikky/git/ballyboe/bookworm/agenda/main.list" "/home/vikky/git/ballyboe/bookworm/agenda/chores-tasks.list" "/home/vikky/git/ballyboe/bookworm/agenda/personal.list"))
  '(package-selected-packages
-   '(pdf-tools org ordinal magit speed-type dictionary mw-thesaurus voca-builder go-translate key-chord ereader google-translate)))
+   '(exec-path-from-shell pyvenv pdf-tools org ordinal magit speed-type dictionary mw-thesaurus voca-builder go-translate key-chord ereader google-translate)))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
@@ -27,6 +27,7 @@
 (add-to-list 'package-archives '("melpa" . "https://melpa.org/packages/") t)
 
 (package-initialize)
+
 
 (require 'key-chord)
 (key-chord-mode 1)
