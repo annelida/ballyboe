@@ -7,7 +7,7 @@
  '(org-agenda-files
    '("/home/vikky/git/ballyboe/bookworm/agenda/lead-tasks.list" "/home/vikky/git/ballyboe/bookworm/agenda/selenium.list" "/home/vikky/git/ballyboe/bookworm/agenda/Python.list" "/home/vikky/git/ballyboe/bookworm/agenda/main.list" "/home/vikky/git/ballyboe/bookworm/agenda/chores-tasks.list" "/home/vikky/git/ballyboe/bookworm/agenda/personal.list"))
  '(package-selected-packages
-   '(exec-path-from-shell pyvenv pdf-tools org ordinal magit speed-type dictionary mw-thesaurus voca-builder go-translate key-chord ereader google-translate)))
+   '(pyvenv-auto exec-path-from-shell pyvenv pdf-tools org ordinal magit speed-type dictionary mw-thesaurus voca-builder go-translate key-chord ereader google-translate)))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
@@ -88,8 +88,7 @@
 
 ;; Programming languages for Babel
 (org-babel-do-load-languages
- 'org-babel-load-languages
- '((python . t)))
+'org-babel-load-languages '((python . t) (emacs-lisp . t) (shell . t) (sqlite . t)))
 
 (require 'org)
 (define-key global-map "\C-cl" 'org-store-link)
