@@ -9,8 +9,14 @@
 #+CATEGORY: Lead
 #+TODO: RAW INIT TODO ACTIVE | DONE
 #+TODO: | AMPLE
-* [#A] Genuine source of knowledge
-SCHEDULED: <2023-11-07 Tue ++14d>
+* RAW [#A] Genuine source of knowledge
+SCHEDULED: <2023-12-20 Wed ++14d>
+:PROPERTIES:
+:LAST_REPEAT: [2023-11-07 Tue 18:20]
+:END:
+- State "DONE"       from "ACTIVE"     [2023-11-07 Tue 18:20]
+- State "DONE"       from "ACTIVE"     [2023-11-07 Tue 18:20]
+- State "DONE"       from "ACTIVE"     [2023-11-07 Tue 18:19]
 :LOGBOOK:
 CLOCK: [2023-10-12 Thu 08:33]--[2023-10-12 Thu 10:58] =>  2:25
 :END:
@@ -26,21 +32,38 @@ about how the program works are:
    - usually it is available through =Emacs= *info system*;
 
 --*Conclusion*: the wisest decision is just to use it properly!
-* [#A] Deliberate practice
-SCHEDULED: <2023-11-07 Tue ++14d>
+* RAW [#A] Deliberate practice
+SCHEDULED: <2023-12-05 Tue ++14d>
+:PROPERTIES:
+:LAST_REPEAT: [2023-11-07 Tue 18:20]
+:END:
+- State "DONE"       from "ACTIVE"     [2023-11-07 Tue 18:20]
+- State "DONE"       from "ACTIVE"     [2023-11-07 Tue 18:19]
 when you do challenging but indispensable tasks by yourself
-* INIT [#A] Help about *Help*
-SCHEDULED: <2023-11-07 Tue ++5d/6d>
+* RAW [#A] Help about *Help*
+SCHEDULED: <2023-11-12 Sun ++5d/6d>
+:PROPERTIES:
+:LAST_REPEAT: [2023-11-07 Tue 18:20]
+:END:
 
+- State "DONE"       from "ACTIVE"     [2023-11-07 Tue 18:20]
 Initially all software was used by the ancient (true) users by its
 /innate (embedded) documentation/, ~without~ any Google and
 Stack-Overflow suggestions and notes. Bear this fact in mind do your
 job as it would be done in a sure and fire manner.
 
-** INIT [#A] *Python* embedded help system
-SCHEDULED: <2023-11-07 Tue ++2d/3d>
-** INIT [#A] *Selenium* package:
-SCHEDULED: <2023-11-07 Tue ++1d>
+** RAW [#A] *Python* embedded help system
+SCHEDULED: <2023-11-09 Thu ++2d/3d>
+:PROPERTIES:
+:LAST_REPEAT: [2023-11-07 Tue 18:21]
+:END:
+- State "DONE"       from "ACTIVE"     [2023-11-07 Tue 18:21]
+** RAW [#A] *Selenium* package:
+SCHEDULED: <2023-11-08 Wed ++1d>
+:PROPERTIES:
+:LAST_REPEAT: [2023-11-07 Tue 18:21]
+:END:
+- State "DONE"       from "ACTIVE"     [2023-11-07 Tue 18:21]
 - Place in OS filesystem;
   - Accessibility through =venvs=;
 - Its structure;
