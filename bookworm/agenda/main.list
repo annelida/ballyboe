@@ -870,11 +870,11 @@ You can see full result in diff buffer.
 In the Linux terminal it is possible at the same time to compare folder with files:
 $ diff -a -y dir1 dir2
 * RAW Git/Magit --amend clarification
-SCHEDULED: <2023-11-07 Tue>
+SCHEDULED: <2023-11-08 Wed>
 * RAW Create agenda's file for blogging
-SCHEDULED: <2023-11-07 Tue>
+SCHEDULED: <2023-11-08 Wed>
 * RAW Create a separate venv with selenium, WebDriver, ipython in it
-SCHEDULED: <2023-11-07 Tue>
+SCHEDULED: <2023-11-08 Wed>
 
 - Note taken on [2023-11-07 Tue 09:36] \\
   $ python -m venv venv
@@ -917,3 +917,14 @@ SCHEDULED: <2023-11-07 Tue>
   #+end_src
 
   #+RESULTS:
+
+* RAW Python virtual environment.
+SCHEDULED: <2023-11-08 Wed>
+* RAW activate.sh
+SCHEDULED: <2023-11-08 Wed>
+* RAW Emacs + venv
+SCHEDULED: <2023-11-08 Wed>
+* RAW What is CI/CD and how does it work
+SCHEDULED: <2023-11-08 Wed>
+* RAW Elpy installation
+SCHEDULED: <2023-11-08 Wed>
