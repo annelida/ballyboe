@@ -1,0 +1,73 @@
+#+BEGIN_HTML
+---
+layout: post
+title: Python virtual environment applying
+permalink: /python/virtual_env.html
+categories: [python, literate programming]
+tags: [tutorial, virtualenv, methodology]
+---
+#+END_HTML
+#+OPTIONS: tags:nil num:nil \n:nil @:t ::t |:t ^:{} _:{} *:t
+
+#+TOC: headlines 2
+
+#+begin_src 
+
+#+end_src
+
+A virtual environment in Python is a separeted directory that contains
+a certain version of the Python interpreter with its own set of
+installed packages.
+
+The virtual environment is used to isolate the project
+from system-wide Python installation and from other projects.
+It is allows to avoid conflicts between packages.
+
+To install virtual environment Python module venv used.
+Command 'python -m venv venv' will create a directory named 'venv'.
+
+#+begin_src shell :results output
+python -m venv venv
+#+end_src
+
+To activate virtual environment, navigate to the created 
+'venv' and type: 
+
+#+begin_src shell :results output
+  cd /home/vikky/venv/
+  source bin/activate
+#+end_src
+
+When virtual environment activated sys.path is generate list of paths from venv directory only. 
+To see it let's create a simple script python_sys.py
+
+#+begin_src python :results output
+    import sys
+    print(sys.path)
+#+end_src
+
+when activate a virtual environment and run it.
+
+#+begin_src shell :results output
+  cd /home/vikky/venv/
+  source bin/activate
+  python python_sys.py 
+#+end_src
+
+#+RESULTS:
+  ['/home/vikky/venv', '/usr/lib/python39.zip', '/usr/lib/python3.9',
+  '/usr/lib/python3.9/lib-dynload', '/home/vikky/venv/lib/python3.9/site-packages']
+
+To deactivate the current virtual environment use the command “deactivate”.
+
+When virtual envoronment is deactivated sys.path will search paths outside venv directory. 
+  
+#+begin_src python :results output
+    import sys
+    print(sys.path)
+#+end_src
+
+#+RESULTS:
+ '', '/usr/lib/python39.zip', '/usr/lib/python3.9', '/usr/lib/python3.9/lib-dynload', '/home/vikky/.local/lib/python3.9/site-packages',
+ '/usr/local/lib/python3.9/dist-packages', '/usr/lib/python3/dist-packages']
+
