@@ -442,7 +442,7 @@ class TestSum(unittest.TestCase):
 if __name__ == '__main__':
     unittest.main()
 * TODO [#B] Emacs registers
-SCHEDULED: <2023-11-08 Wed ++2w>
+SCHEDULED: <2023-11-11 Sat ++2w>
 - Note taken on [2023-11-08 Wed 14:31] \\
   ‘M-x view-register <RET> R’
        Display a description of what register R contains.
