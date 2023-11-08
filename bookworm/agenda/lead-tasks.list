@@ -59,10 +59,11 @@ SCHEDULED: <2023-11-09 Thu ++2d/3d>
 :END:
 - State "DONE"       from "ACTIVE"     [2023-11-07 Tue 18:21]
 ** RAW [#A] *Selenium* package:
-SCHEDULED: <2023-11-08 Wed ++1d>
+SCHEDULED: <2023-11-09 Thu ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-11-07 Tue 18:21]
+:LAST_REPEAT: [2023-11-08 Wed 13:33]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-11-08 Wed 13:33]
 - State "DONE"       from "ACTIVE"     [2023-11-07 Tue 18:21]
 - Place in OS filesystem;
   - Accessibility through =venvs=;

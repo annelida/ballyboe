@@ -280,3 +280,76 @@ Delete the old one and create a new and empy (annelida)
    :ARCHIVE_CATEGORY: Thesis
    :ARCHIVE_TODO: DONE
    :END:
+
+* TODO Practice: UnitTesting in Python
+SCHEDULED: <2023-11-08 Wed>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-11-08 Wed 09:29
+:ARCHIVE_FILE: ~/git/ballyboe/bookworm/agenda/main.list
+:ARCHIVE_OLPATH: Preparation to work as software tester
+:ARCHIVE_CATEGORY: Thesis
+:ARCHIVE_TODO: TODO
+:END:
+** TODO [#B] Official unittesting documentation
+SCHEDULED: <2023-11-17 Fri>
+
+* RAW Create agenda's file for blogging
+SCHEDULED: <2023-11-08 Wed>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-11-08 Wed 09:30
+:ARCHIVE_FILE: ~/git/ballyboe/bookworm/agenda/main.list
+:ARCHIVE_CATEGORY: Thesis
+:ARCHIVE_TODO: RAW
+:END:
+
+* RAW Create a separate venv with selenium, WebDriver, ipython in it
+SCHEDULED: <2023-11-08 Wed>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-11-08 Wed 13:34
+:ARCHIVE_FILE: ~/git/ballyboe/bookworm/agenda/main.list
+:ARCHIVE_CATEGORY: Thesis
+:ARCHIVE_TODO: RAW
+:END:
+
+- Note taken on [2023-11-07 Tue 09:36] \\
+  $ python -m venv venv
+  ~/venv$ ls
+  bin  include  lib  lib64  pyvenv.cfg  share
+
+  Before start using it, first activate the environment:
+  vikky@penguin:~/venv$ source bin/activate
+  (venv) vikky@penguin:~/venv$
+
+  Install packages into it.
+  After creating and activating virtual environment, you can
+  now install any external dependencies that you need for your project:
+  (venv) vikky@penguin:~/venv$ pip install selenium
+
+  (venv) vikky@penguin:~/venv$ pip install ipython
+  (venv) vikky@penguin:~/venv$ ipython
+  Python 3.9.2 (default, Feb 28 2021, 17:03:44)
+  Type 'copyright', 'credits' or 'license' for more information
+  IPython 8.17.2 -- An enhanced Interactive Python. Type '?' for help.
+
+  In [1]:
+
+  Download Chrome Driver:
+
+  Go to https://chromedriver.chromium.org
+  Choose which support your Chrome version and Download it, when copy
+  into folder for Selenium projects.
+  
+  Run the sample program:
+
+  #+begin_src python :results output
+  from selenium import webdriver
+
+  driver = webdriver.Chrome()
+
+  driver.get("http://annelida.github.io")
+
+  driver.quit()
+  #+end_src
+
+  #+RESULTS:
+
