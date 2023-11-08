@@ -95,10 +95,11 @@ workspace:
   * x to execute kill
     
 * RAW Workspace clean-up
-SCHEDULED: <2023-11-08 Wed ++1w>
+SCHEDULED: <2023-11-15 Wed ++1w>
 :PROPERTIES:
-:LAST_REPEAT: [2023-11-01 Wed 15:17]
+:LAST_REPEAT: [2023-11-08 Wed 09:30]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-11-08 Wed 09:30]
 - State "DONE"       from "ACTIVE"     [2023-11-01 Wed 15:17]
 - State "DONE"       from "ACTIVE"     [2023-10-25 Wed 11:17]
 - State "DONE"       from "ACTIVE"     [2023-10-18 Wed 14:30]

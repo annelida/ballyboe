@@ -78,10 +78,6 @@ Requirements to job seekers (software testers)
    - State "DONE"       from "ACTIVE"     [2023-11-02 Thu 16:44]
    - State "DONE"       from "TODO"       [2023-06-23 Fri 15:16]
 [[https://www.danliden.com/posts/20220116-org-time.html]]
-** TODO Practice: UnitTesting in Python
-SCHEDULED: <2023-11-08 Wed>
-*** TODO [#B] Official unittesting documentation
-SCHEDULED: <2023-11-17 Fri>
 ** DONE Feyman's learning technique
 CLOSED: [2023-07-17 Mon 13:16] SCHEDULED: <2023-07-16 Sun>
 * Selenium Learning Course
@@ -464,8 +460,12 @@ SCHEDULED: <2023-11-08 Wed>
 * RAW [#B] Org-babel
 SCHEDULED: <2023-11-08 Wed>
 
-* INIT Org-Babel configuration.
-SCHEDULED: <2023-11-08 Wed>
+* TODO Org-Babel configuration.
+SCHEDULED: <2023-11-22 Wed ++2w>
+:PROPERTIES:
+:LAST_REPEAT: [2023-11-08 Wed 09:29]
+:END:
+- State "DONE"       from "ACTIVE"     [2023-11-08 Wed 09:29]
 - Note taken on [2023-10-27 Fri 08:25] \\
   I had problems with running Python3 code using org-babel.
   At first when I run my code I saw the error:
@@ -871,60 +871,15 @@ In the Linux terminal it is possible at the same time to compare folder with fil
 $ diff -a -y dir1 dir2
 * RAW Git/Magit --amend clarification
 SCHEDULED: <2023-11-08 Wed>
-* RAW Create agenda's file for blogging
-SCHEDULED: <2023-11-08 Wed>
-* RAW Create a separate venv with selenium, WebDriver, ipython in it
-SCHEDULED: <2023-11-08 Wed>
-
-- Note taken on [2023-11-07 Tue 09:36] \\
-  $ python -m venv venv
-  ~/venv$ ls
-  bin  include  lib  lib64  pyvenv.cfg  share
-
-  Before start using it, first activate the environment:
-  vikky@penguin:~/venv$ source bin/activate
-  (venv) vikky@penguin:~/venv$
-
-  Install packages into it.
-  After creating and activating virtual environment, you can
-  now install any external dependencies that you need for your project:
-  (venv) vikky@penguin:~/venv$ pip install selenium
-
-  (venv) vikky@penguin:~/venv$ pip install ipython
-  (venv) vikky@penguin:~/venv$ ipython
-  Python 3.9.2 (default, Feb 28 2021, 17:03:44)
-  Type 'copyright', 'credits' or 'license' for more information
-  IPython 8.17.2 -- An enhanced Interactive Python. Type '?' for help.
-
-  In [1]:
-
-  Download Chrome Driver:
-
-  Go to https://chromedriver.chromium.org
-  Choose which support your Chrome version and Download it, when copy
-  into folder for Selenium projects.
-  
-  Run the sample program:
-
-  #+begin_src python :results output
-  from selenium import webdriver
-
-  driver = webdriver.Chrome()
-
-  driver.get("http://annelida.github.io")
-
-  driver.quit()
-  #+end_src
-
-  #+RESULTS:
-
+- Note taken on [2023-11-08 Wed 13:57] \\
+  git reset --soft
 * RAW Python virtual environment.
-SCHEDULED: <2023-11-08 Wed>
+SCHEDULED: <2023-11-09 Thu>
 * RAW activate.sh
-SCHEDULED: <2023-11-08 Wed>
+SCHEDULED: <2023-11-09 Thu>
 * RAW Emacs + venv
-SCHEDULED: <2023-11-08 Wed>
+SCHEDULED: <2023-11-09 Thu>
 * RAW What is CI/CD and how does it work
-SCHEDULED: <2023-11-08 Wed>
+SCHEDULED: <2023-11-09 Thu>
 * RAW Elpy installation
-SCHEDULED: <2023-11-08 Wed>
+SCHEDULED: <2023-11-09 Thu>
