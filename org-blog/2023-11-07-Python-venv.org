@@ -27,7 +27,57 @@ To install virtual environment Python module venv used.
 Command 'python -m venv venv' will create a directory named 'venv'.
 
 #+begin_src shell :results output
-python -m venv venv
+  pip list
+#+end_src
+
+#+RESULTS:
+#+begin_example
+Package           Version
+----------------- --------
+asttokens         2.4.0
+async-generator   1.10
+attrs             23.1.0
+backcall          0.2.0
+certifi           2023.5.7
+decorator         5.1.1
+exceptiongroup    1.1.1
+executing         2.0.0
+h11               0.14.0
+idna              3.4
+ipython           8.17.2
+jedi              0.19.1
+markdown-it-py    3.0.0
+matplotlib-inline 0.1.6
+mdurl             0.1.2
+outcome           1.2.0
+parso             0.8.3
+pexpect           4.8.0
+pickleshare       0.7.5
+pip               23.3.1
+prompt-toolkit    3.0.39
+ptyprocess        0.7.0
+pure-eval         0.2.2
+Pygments          2.16.1
+PySocks           1.7.1
+rich              13.6.0
+selenium          4.10.0
+setuptools        52.0.0
+six               1.16.0
+sniffio           1.3.0
+sortedcontainers  2.4.0
+stack-data        0.6.3
+traitlets         5.11.2
+trio              0.22.0
+trio-websocket    0.10.3
+typing_extensions 4.8.0
+urllib3           2.0.3
+wcwidth           0.2.8
+wheel             0.34.2
+wsproto           1.2.0
+#+end_example
+
+  #+begin_src shell :results output
+  python -m venv venv
 #+end_src
 
 To activate virtual environment, navigate to the created 
@@ -45,6 +95,9 @@ To see it let's create a simple script python_sys.py
     import sys
     print(sys.path)
 #+end_src
+
+#+RESULTS:
+: ['', '/usr/lib/python39.zip', '/usr/lib/python3.9', '/usr/lib/python3.9/lib-dynload', '/home/vikky/.local/lib/python3.9/site-packages', '/usr/local/lib/python3.9/dist-packages', '/usr/lib/python3/dist-packages']
 
 when activate a virtual environment and run it.
 
@@ -68,6 +121,7 @@ When virtual envoronment is deactivated sys.path will search paths outside venv 
 #+end_src
 
 #+RESULTS:
+: ['', '/usr/lib/python39.zip', '/usr/lib/python3.9', '/usr/lib/python3.9/lib-dynload', '/home/vikky/.local/lib/python3.9/site-packages', '/usr/local/lib/python3.9/dist-packages', '/usr/lib/python3/dist-packages']
  '', '/usr/lib/python39.zip', '/usr/lib/python3.9', '/usr/lib/python3.9/lib-dynload', '/home/vikky/.local/lib/python3.9/site-packages',
  '/usr/local/lib/python3.9/dist-packages', '/usr/lib/python3/dist-packages']
 
