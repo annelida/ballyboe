@@ -442,15 +442,26 @@ class TestSum(unittest.TestCase):
 if __name__ == '__main__':
     unittest.main()
 * TODO [#B] Emacs registers
-SCHEDULED: <2023-11-08 Wed>
-- Note taken on [2023-10-31 Tue 10:00] \\
+SCHEDULED: <2023-11-08 Wed ++2w>
+- Note taken on [2023-11-08 Wed 14:31] \\
+  ‘M-x view-register <RET> R’
+       Display a description of what register R contains.
+  ‘C-x r s R’
+       Copy region into register R (‘copy-to-register’).
+  ‘C-x r i R’
+       Insert text from register R (‘insert-register’).
+  ‘C-x r w R’
+     Save the state of the selected frame’s windows in register R
+     (‘window-configuration-to-register’).
+  ‘C-x r j R’ to restore a window or frame configuration.
+
   [[info:emacs#Registers][emacs#Registers]]
   [[info:emacs#Position Registers][emacs#Position Registers]]
   [[info:emacs#Text Registers][emacs#Text Registers]]
   [[info:emacs#Rectangle Registers][emacs#Rectangle Registers]]
   [[info:emacs#Configuration Registers][emacs#Configuration Registers]]
 * TODO [#B] Org-capture
-SCHEDULED: <2023-11-08 Wed>
+SCHEDULED: <2023-11-14 Tue>
 - Note taken on [2023-10-31 Tue 11:09] \\
   [[info:org#Capture and Attachments][org#Capture and Attachments]]
   [[info:org#Capture][org#Capture]]
@@ -458,7 +469,7 @@ SCHEDULED: <2023-11-08 Wed>
   [[info:org#Using capture][org#Using capture]]
   [[info:org#Capture templates][org#Capture templates]]
 * RAW [#B] Org-babel
-SCHEDULED: <2023-11-08 Wed>
+SCHEDULED: <2023-11-09 Thu>
 
 * TODO Org-Babel configuration.
 SCHEDULED: <2023-11-22 Wed ++2w>
@@ -870,7 +881,7 @@ You can see full result in diff buffer.
 In the Linux terminal it is possible at the same time to compare folder with files:
 $ diff -a -y dir1 dir2
 * RAW Git/Magit --amend clarification
-SCHEDULED: <2023-11-08 Wed>
+SCHEDULED: <2023-11-11 Sat>
 - Note taken on [2023-11-08 Wed 13:57] \\
   git reset --soft
 * RAW Python virtual environment.
