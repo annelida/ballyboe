@@ -93,7 +93,6 @@
 (require 'org)
 (define-key global-map "\C-cl" 'org-store-link)
 (define-key global-map "\C-ca" 'org-agenda)
-(key-chord-define-global "ga"     'org-agenda)
 (key-chord-define org-mode-map "km"     'org-meta-return)
 (key-chord-define org-mode-map "a["     'org-agenda-file-to-front)
 (key-chord-define org-mode-map "a]"     'org-remove-file)
