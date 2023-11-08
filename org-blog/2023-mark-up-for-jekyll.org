@@ -1,0 +1,18 @@
+#+BEGIN_EXPORT html
+---
+layout: post
+title: Nice and dice
+subtitle: feel and view
+permalink: /blog-mark-up.html
+categories: [Literate Programming]
+tags: [tutorial, mark-up]
+---
+#+END_EXPORT
+
+#+STARTUP: showall indent
+#+OPTIONS: tags:nil num:nil \n:nil @:t ::t |:t ^:{} _:{} *:t
+#+TOC: headlines 2
+#+PROPERTY:header-args :results output :exports both :eval no-export
+#+CATEGORY: Venv
+#+TODO: RAW INIT TODO ACTIVE | DONE
+[[info:org#Markup for Rich Contents][org#Markup for Rich Contents]]
