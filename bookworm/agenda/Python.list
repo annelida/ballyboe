@@ -103,8 +103,12 @@ SCHEDULED: <2023-11-20 Mon ++2w>
 :LAST_REPEAT: [2023-11-06 Mon 15:49]
 :END:
 - State "DONE"       from "ACTIVE"     [2023-11-06 Mon 15:49]
-* DONE The Interpreter and Its Environment
-CLOSED: [2023-11-06 Mon 15:54] SCHEDULED: <2023-11-06 Mon>
+* RAW The Interpreter and Its Environment
+SCHEDULED: <2023-11-20 Mon>
+:PROPERTIES:
+:LAST_REPEAT: [2023-11-09 Thu 08:00]
+:END:
+- State "DONE"       from "ACTIVE"     [2023-11-09 Thu 08:00]
 :LOGBOOK:
 CLOCK: [2023-11-06 Mon 10:16]--[2023-11-06 Mon 10:27] =>  0:11
 :END:
@@ -170,8 +174,11 @@ SCHEDULED: <2023-11-20 Mon ++2w>
 CLOCK: [2023-11-06 Mon 11:03]--[2023-11-06 Mon 11:09] =>  0:06
 :END:
 * RAW First Steps Towards Programming
+SCHEDULED: <2023-11-09 Thu>
 * RAW More Control Flow Tools
+SCHEDULED: <2023-11-09 Thu>
 * RAW if Statements
+SCHEDULED: <2023-11-09 Thu>
 * RAW for Statements
 * RAW The range() Function
 * RAW break and continue Statements, and else Clauses on Loops
