@@ -12,6 +12,9 @@ MY PROJECTS    -*- mode: org; -*-
 
 * RAW What is Python virtual environment
 SCHEDULED: <2023-11-09 Thu>
+- Note taken on [2023-11-09 Thu 08:20] \\
+  A Virtual environment is a light weight python installation
+  with its own package directories
 A brief description:
 
 #+begin_quote
@@ -23,6 +26,8 @@ to create this environment) and can have its own independent set of
 installed Python packages in its site directories.
 #+end_quote
 
+
+
 In other words ===>
 
 ** RAW Area of usage
@@ -31,6 +36,12 @@ SCHEDULED: <2023-11-09 Thu>
 ** RAW Core features
 SCHEDULED: <2023-11-09 Thu>
 
+- Note taken on [2023-11-09 Thu 08:14] \\
+  Virtual environments let you have a stable,
+  reproducible, and portable environment.
+  You are in control of which packages versions are
+  installed and when they are upgraded.
+  You can have as many venvs as you want.
 ** =sys.path=
 Does ~venv~ activation modificates it?
 

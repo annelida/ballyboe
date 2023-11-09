@@ -293,7 +293,7 @@ post.html
 to the corresponding files from /_layouts folder.
 Result you can see on [[https://annelida.github.io/]]
 * TODO [#A] Explorations in details page's structure in Jekyll.
-SCHEDULED: <2023-11-09 Thu>
+SCHEDULED: <2023-11-13 Mon>
 - Note taken on [2023-10-22 Sun 08:21] \\
   * How it is possible to organize several pages.
   * Page's front matter structure:
@@ -380,7 +380,7 @@ Object's methods are functions that belong to the object.
 : The student's name is Tony Black
 
 * TODO [#A] Unit test module description and structure.
-SCHEDULED: <2023-11-09 Thu>
+SCHEDULED: <2023-11-13 Mon>
 - Note taken on [2023-10-24 Tue 09:35] \\
   A unit test is a smaller test, that checks
   that a single component operates in the right way.
@@ -468,7 +468,7 @@ SCHEDULED: <2023-11-14 Tue>
   [[info:org#Setting up capture][org#Setting up capture]]
   [[info:org#Using capture][org#Using capture]]
   [[info:org#Capture templates][org#Capture templates]]
-* RAW [#B] Org-babel
+* RAW [#B] Org-mode, org-babel markup rules
 SCHEDULED: <2023-11-09 Thu>
 
 * TODO Org-Babel configuration.
@@ -527,8 +527,12 @@ SCHEDULED: <2023-11-15 Wed>
   * Launch the client version by =emacsclient -t=
 * TODO Org-Agenda views: item arrangement in daily agenda, its priorities;
 SCHEDULED: <2023-11-15 Wed>
-* ACTIVE Magit brief overview
-SCHEDULED: <2023-11-09 Thu>
+* RAW Magit brief overview
+SCHEDULED: <2023-11-23 Thu ++2w>
+:PROPERTIES:
+:LAST_REPEAT: [2023-11-09 Thu 07:56]
+:END:
+- State "DONE"       from "ACTIVE"     [2023-11-09 Thu 07:56]
 - Note taken on [2023-10-13 Fri 07:58] \\
   * To display information about the current Git repository C-x-g
     or gs (key-chord);
@@ -884,8 +888,6 @@ $ diff -a -y dir1 dir2
 SCHEDULED: <2023-11-11 Sat>
 - Note taken on [2023-11-08 Wed 13:57] \\
   git reset --soft
-* RAW Python virtual environment.
-SCHEDULED: <2023-11-09 Thu>
 * RAW activate.sh
 SCHEDULED: <2023-11-09 Thu>
 * RAW Emacs + venv
@@ -894,3 +896,5 @@ SCHEDULED: <2023-11-09 Thu>
 SCHEDULED: <2023-11-09 Thu>
 * RAW Elpy installation
 SCHEDULED: <2023-11-09 Thu>
+* RAW Speed-typing
+SCHEDULED: <2023-11-09 Thu ++1d>
