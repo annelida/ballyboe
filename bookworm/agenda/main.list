@@ -469,7 +469,7 @@ SCHEDULED: <2023-11-14 Tue>
   [[info:org#Using capture][org#Using capture]]
   [[info:org#Capture templates][org#Capture templates]]
 * RAW [#B] Org-mode, org-babel markup rules
-SCHEDULED: <2023-11-09 Thu>
+SCHEDULED: <2023-11-10 Fri>
 
 * TODO Org-Babel configuration.
 SCHEDULED: <2023-11-22 Wed ++2w>
@@ -889,12 +889,16 @@ SCHEDULED: <2023-11-11 Sat>
 - Note taken on [2023-11-08 Wed 13:57] \\
   git reset --soft
 * RAW activate.sh
-SCHEDULED: <2023-11-09 Thu>
+SCHEDULED: <2023-11-13 Mon>
 * RAW Emacs + venv
-SCHEDULED: <2023-11-09 Thu>
+SCHEDULED: <2023-11-13 Mon>
 * RAW What is CI/CD and how does it work
-SCHEDULED: <2023-11-09 Thu>
+SCHEDULED: <2023-11-15 Wed>
 * RAW Elpy installation
-SCHEDULED: <2023-11-09 Thu>
+SCHEDULED: <2023-11-15 Wed>
 * RAW Speed-typing
-SCHEDULED: <2023-11-09 Thu ++1d>
+SCHEDULED: <2023-11-10 Fri ++1d>
+:PROPERTIES:
+:LAST_REPEAT: [2023-11-09 Thu 18:42]
+:END:
+- State "DONE"       from "ACTIVE"     [2023-11-09 Thu 18:42]
