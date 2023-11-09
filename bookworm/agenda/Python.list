@@ -174,11 +174,11 @@ SCHEDULED: <2023-11-20 Mon ++2w>
 CLOCK: [2023-11-06 Mon 11:03]--[2023-11-06 Mon 11:09] =>  0:06
 :END:
 * RAW First Steps Towards Programming
-SCHEDULED: <2023-11-09 Thu>
+SCHEDULED: <2023-11-13 Mon>
 * RAW More Control Flow Tools
-SCHEDULED: <2023-11-09 Thu>
+SCHEDULED: <2023-11-13 Mon>
 * RAW if Statements
-SCHEDULED: <2023-11-09 Thu>
+SCHEDULED: <2023-11-13 Mon>
 * RAW for Statements
 * RAW The range() Function
 * RAW break and continue Statements, and else Clauses on Loops
