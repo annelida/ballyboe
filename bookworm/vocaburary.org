@@ -117,6 +117,79 @@ single executable program.
 Dynamic typing means that the type of the variable is determined
 only during runtime.
 
+* abundant
+обильный
+being more than enough without being excessive
+
+adjective
+ 1. богатый (rich, wealthy, affluent, abundant, full, opulent)
+ 2. обильный (abundant, heavy, rich, ample, copious, plenty)
+ 3. изобилующий (full of, abounding, abundant, full, rife, rich
+
+* humble
+
+скромный
+not having or showing any feelings
+of superiority, self-assertiveness, or showiness
+
+adjective
+ 1. скромный (modest, humble, frugal, small, unassuming, lowly)
+ 2. смиренный (humble, meek, submissive)
+ 3. покорный (obedient, submissive, humble, resigned, docile, dutiful)
+ 4. простой (plain, simple, ordinary, elementary, idle, humble)
+ 5. униженный (humiliated, humble, abject, degraded, oppressed, diminished)
+ 6. бедный (poor, lean, penniless, meager, humble, indigent)
+ 7. застенчивый (shy, timid, diffident, bashful, blushing, humble)
+ 8. робкий (timid, shy, fearful, sheepish, gingerly, humble)
+
+* equations
+уравнения
+
+* overflow
+переполнение
+a great flow of water or of something that overwhelms
+
+noun
+ 1. переполнение (overflow, repletion)
+ 2. перелив (overflow)
+ 3. избыток (excess, surplus, abundance, glut, overflow, overabundance)
+
+* flowcharts
+блок-схемы
+
+noun
+ 1. схема (scheme, diagram, circuit, schema, pattern, chart)
+ 2. диаграмма (diagram, chart, figure, graph, pattern, plot)
+ 3. блок-схема (flowchart)
+* dump
+свалка
+
+noun
+ 1. свалка (dump, scramble, melee, scrimmage, rubbish dump, junk yard)
+ 2. отвал (dump, heap, breast, muck)
+ 3. дыра (hole, rent, tear, dump, hollow, bore)
+ 4. деньги (money, cash, currency, dollars, coin, dump)
+ 5. груда хлама (dump)
+ 6. мусорная куча (dump)
+
+    свалка
+
+noun
+ 1. свалка (dump, scramble, melee, scrimmage, rubbish dump, junk yard)
+ 2. отвал (dump, heap, breast, muck)
+ 3. дыра (hole, rent, tear, dump, hollow, bore)
+ 4. деньги (money, cash, currency, dollars, coin, dump)
+ 5. груда хлама (dump)
+ 6. мусорная куча (dump)
+
+    verb
+ 1. сбрасывать (discard, drop, shed, dump, throw, throw off)
+ 2. сваливать (dump, lump, get out, drop, tip, shuffle off)
+ 3. вываливать (throw out, dump, tip out, empty)
+
+
+    
+
 
 
 
