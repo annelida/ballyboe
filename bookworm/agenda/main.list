@@ -64,6 +64,26 @@ Requirements to job seekers (software testers)
    - State "DONE"       from "TODO"       [2023-06-26 Mon 15:44]
 ** TODO [#C] Repeatitive tasks in Org-agenda
    SCHEDULED: <2023-11-10 Fri>
+   - Note taken on [2023-11-10 Fri 16:33] \\
+     [[https://www.danliden.com/posts/20220116-org-time.html][Org-repeaters]]
+
+     <C-c> - add timestamp
+     A timestamp entry with a time can be added with <C-u><C-c>
+     <C-c> ! (org-time-stamp-inactive), which inserts an inactive timestamp (represented
+     with square rather than angled brackets; e.g. [2022-01-16 Sun] rather than <2022-01-16 Sun>).
+     Inactive timestamps work the same as active timestamps, except that they
+     do not appear on the org-agenda.
+
+     Two timestamps connected by -- make up a range (e.g. <2022-02-12 Sat>--<2022-01-16 Sun>)
+
+     Add a scheduled date to a headline with <C-c><C-s> and a deadline with <C-c><C-d>
+
+     Marking Tasks with Repeaters DONE:
+
+     <C-u> -1 <C-t> or <C--1><C-t>
+   :LOGBOOK:
+   CLOCK: [2023-11-10 Fri 16:33]--[2023-11-10 Fri 16:58] =>  0:25
+   :END:
 ** TODO [#B] Lucy Worsley transcript
    SCHEDULED: <2023-11-18 Sat>
 ** RAW Org-mode repeaters
