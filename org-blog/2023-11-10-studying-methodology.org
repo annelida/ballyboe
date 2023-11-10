@@ -1,0 +1,81 @@
+#+BEGIN_EXPORT html
+---
+layout: post
+title: Nice and dice
+subtitle: feel and view
+permalink: /blog-mark-up.html
+categories: [Learning, Methodology]
+tags: [emacs, org-mode, org-agenda, double-loop-learning]
+---
+#+END_EXPORT
+
+#+STARTUP: showall indent
+#+OPTIONS: tags:nil num:nil \n:nil @:t ::t |:t ^:{} _:{} *:t
+#+TOC: headlines 2
+#+PROPERTY:header-args :results output :exports both :eval no-export
+#+CATEGORY: Methodolody
+#+TODO: RAW INIT TODO ACTIVE | DONE
+
+* Preface
+* What is methodology
+* What methodology means in learning
+* How practically prepare yourself to studying
+* What is the average time you should spend on each session
+
+As an implementation of =double-loop-learning= approach might be
+convenient to use these words in your ~TODO~ sequence:
+
+#+begin_example
+RAW Init DP0 Todo DP1 Active | Done
+#+end_example
+
+
+ - RAW state is for just captured and unscheduled yet tasks;
+ - After scheduling and Initial dissection task its status switches
+   (++1d/2d) on to DeliberatePractice0 status;
+ - After that (++1d/2d) it's time Todo the second loop in studying theory;
+ - And soon (++1d/2d) it's very moment to another DP1 session;
+ - Now material is well prepapared to be a handy tool in your hands
+   and it is reasonably to shift a week ahead for final rehersal;
+ - After that it's nothing to add - use these piece of knowledge and
+   have fun out from it!
+
+
+ #+begin_quote
+All relevant questions should be questioned while task resolving.
+ #+end_quote
+ So, you *must* write these questions down during session and answer
+ they a little bit later.
+
+* Initial chapter dissection
+
+Describe what you ought to do and in what manner it might be
+implemented.
+
+* Deliberate practice 0 session
+
+Describe what you ought to do and in what manner it might be
+implemented.
+
+
+* ToDo session
+
+Describe what you ought to do and in what manner it might be
+implemented.
+
+
+* Deliberate practice 1 session
+
+Describe what you ought to do and in what manner it might be
+implemented.
+
+
+* Active session
+
+
+Describe what you ought to do and in what manner it might be
+implemented.
+
+
+
+* Conclusion
