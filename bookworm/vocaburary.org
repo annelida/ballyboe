@@ -183,9 +183,25 @@ noun
  6. мусорная куча (dump)
 
     verb
- 1. сбрасывать (discard, drop, shed, dump, throw, throw off)
- 2. сваливать (dump, lump, get out, drop, tip, shuffle off)
- 3. вываливать (throw out, dump, tip out, empty)
+ 7. сбрасывать (discard, drop, shed, dump, throw, throw off)
+ 8. сваливать (dump, lump, get out, drop, tip, shuffle off)
+ 9. вываливать (throw out, dump, tip out, empty)
+
+* seldom
+
+not often
+   - we ​/seldom/​ go to the theater downtown because its prices are so high
+*** Synonyms:
+    infrequently, little, rarely
+* insofar
+
+насколько
+
+adverb
+ 1. до такой степени (to such an extent, so, that, insofar, insomuch, thus)
+
+
+
 
 
     
