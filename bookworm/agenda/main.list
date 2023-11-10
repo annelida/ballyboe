@@ -906,7 +906,43 @@ SCHEDULED: <2023-11-10 Fri ++1d>
 
 
 * RAW A Python Q&A Session
-SCHEDULED: <2023-11-10 Fri>
+SCHEDULED: <2023-11-10 Fri ++2w>
+- Note taken on [2023-11-10 Fri 07:51] \\
+  It is deliberately optimized for speed of development—its
+  simple syntax, dynamic typing, lack of compile steps,
+  and built-in toolset allow pro-grammers to develop programs in a fraction
+  of the time needed when using some other
+  tools.
+
+  The net effect is that Python typically boosts developer productivity many times beyond the levels supported by traditional languages.
+
+
+  Python’s built-in interfaces to operating-system services make it ideal for writing port-able, maintainable system-administration tools and utilities
+  (sometimes called shell tools).
+  Python programs can search files and directory trees,
+  launch other programs, do parallel processing with processes and
+  threads, and so on.
+
+  Internet Scripting
+  Python comes with standard Internet modules that allow Python programs
+  to perform a wide variety of networking tasks, in client and server modes.
+  Scripts can communicate over sockets; extract form information sent to
+  server-side CGI scripts; transfer files by FTP; parse, generate, and analyzeXML files; send, receive, compose, and parse email;
+  fetch web pages by URLs; parse the HTML and XML of fetched web pages; commu-
+  nicate over XML-RPC, SO.
+
+  Database Programming
+
+  For traditional database demands, there are Python interfaces to all
+  commonly used  ODBC, MySQL, PostgreSQL, SQLite, and more.
+
+
+
+  “script” -  a simpler top-level file.
+  “program” to refer to a more sophisticated multifile application.
+:LOGBOOK:
+CLOCK: [2023-11-10 Fri 07:49]--[2023-11-10 Fri 09:32] =>  1:43
+:END:
 
 * RAW How Python Runs Programs
 SCHEDULED: <2023-11-10 Fri>
