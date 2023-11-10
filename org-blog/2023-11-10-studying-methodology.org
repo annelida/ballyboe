@@ -47,10 +47,13 @@ All relevant questions should be questioned while task resolving.
  So, you *must* write these questions down during session and answer
  they a little bit later.
 
+
+
 * Initial chapter dissection
 
 Describe what you ought to do and in what manner it might be
 implemented.
+
 
 * Deliberate practice 0 session
 
