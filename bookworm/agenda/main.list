@@ -205,7 +205,7 @@ CLOSED: [2023-10-02 Mon 17:46] SCHEDULED: <2023-10-02 Mon>
 ** DONE Adding a new SSH key to GitHub account
 CLOSED: [2023-10-02 Mon 17:46] SCHEDULED: <2023-10-02 Mon>
 * ACTIVE [#C] Working with transctipt to video "How to Learn Anything Fast: Teach Your Brain to Focus"
-SCHEDULED: <2023-11-11 Sat>
+SCHEDULED: <2023-11-19 Sun>
 - Note taken on [2023-10-14 Sat 13:30] \\
   Part I "The neuroscience solution to boredom "
 
@@ -560,7 +560,7 @@ SCHEDULED: <2023-11-14 Tue>
   [[info:org#Using capture][org#Using capture]]
   [[info:org#Capture templates][org#Capture templates]]
 * RAW [#B] Org-mode, org-babel markup rules
-SCHEDULED: <2023-11-11 Sat>
+SCHEDULED: <2023-11-12 Sun>
 
 * TODO Org-Babel configuration.
 SCHEDULED: <2023-11-22 Wed ++2w>
@@ -984,17 +984,19 @@ SCHEDULED: <2023-11-15 Wed>
 * RAW Elpy installation
 SCHEDULED: <2023-11-15 Wed>
 * RAW Speed-typing
-SCHEDULED: <2023-11-11 Sat ++1d>
+SCHEDULED: <2023-11-13 Mon ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-11-10 Fri 17:13]
+:LAST_REPEAT: [2023-11-11 Sat 17:14]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-11-11 Sat 17:14]
+- State "DONE"       from "ACTIVE"     [2023-11-11 Sat 17:14]
 - State "DONE"       from "ACTIVE"     [2023-11-10 Fri 17:13]
 - State "DONE"       from "ACTIVE"     [2023-11-09 Thu 18:42]
 
 
 
 * RAW A Python Q&A Session
-SCHEDULED: <2023-11-11 Sat ++2w>
+SCHEDULED: <2023-11-12 Sun ++2w>
 - Note taken on [2023-11-10 Fri 07:51] \\
   It is deliberately optimized for speed of development—its
   simple syntax, dynamic typing, lack of compile steps,
@@ -1033,19 +1035,19 @@ CLOCK: [2023-11-10 Fri 07:49]--[2023-11-10 Fri 09:32] =>  1:43
 :END:
 
 * RAW How Python Runs Programs
-SCHEDULED: <2023-11-11 Sat>
+SCHEDULED: <2023-11-12 Sun>
 
 * RAW How You Run Program
-SCHEDULED: <2023-11-11 Sat>
+SCHEDULED: <2023-11-12 Sun>
 
 * RAW Computer science distilled - Basic
-SCHEDULED: <2023-11-11 Sat>
+SCHEDULED: <2023-11-12 Sun>
 :LOGBOOK:
 CLOCK: [2023-11-10 Fri 09:35]--[2023-11-10 Fri 16:29] =>  6:54
 :END:
 
 * RAW Computer science distilled - Complexity
-SCHEDULED: <2023-11-11 Sat>
+SCHEDULED: <2023-11-12 Sun>
 
 * RAW Computer science distilled - Strategy
-SCHEDULED: <2023-11-11 Sat>
+SCHEDULED: <2023-11-12 Sun>

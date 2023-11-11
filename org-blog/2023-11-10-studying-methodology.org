@@ -17,7 +17,7 @@ tags: [emacs, org-mode, org-agenda, double-loop-learning]
 #+TODO: RAW INIT TODO ACTIVE | DONE
 
 * INIT Preface
-SCHEDULED: <2023-11-11 Sat ++4d>
+SCHEDULED: <2023-11-12 Sun ++4d>
 * What is methodology
 * What methodology means in learning
 * How practically prepare yourself to studying
