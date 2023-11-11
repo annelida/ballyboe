@@ -16,14 +16,16 @@ tags: [emacs, org-mode, org-agenda, double-loop-learning]
 #+CATEGORY: Methodolody
 #+TODO: RAW INIT TODO ACTIVE | DONE
 
-* Preface
+* INIT Preface
+SCHEDULED: <2023-11-11 Sat ++4d>
 * What is methodology
 * What methodology means in learning
 * How practically prepare yourself to studying
 * What is the average time you should spend on each session
 
 As an implementation of =double-loop-learning= approach might be
-convenient to use these words in your ~TODO~ sequence:
+convenient to use these words in your ~TODO~ sequence during studying
+computer science and programming:
 
 #+begin_example
 RAW Init DP0 Todo DP1 Active | Done
@@ -44,6 +46,7 @@ RAW Init DP0 Todo DP1 Active | Done
  #+begin_quote
 All relevant questions should be questioned while task resolving.
  #+end_quote
+ 
  So, you *must* write these questions down during session and answer
  they a little bit later.
 
