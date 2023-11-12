@@ -533,7 +533,7 @@ class TestSum(unittest.TestCase):
 if __name__ == '__main__':
     unittest.main()
 * TODO [#B] Emacs registers
-SCHEDULED: <2023-11-12 Sun ++2w>
+SCHEDULED: <2023-11-15 Wed ++2w>
 - Note taken on [2023-11-08 Wed 14:31] \\
   ‘M-x view-register <RET> R’
        Display a description of what register R contains.
@@ -560,7 +560,7 @@ SCHEDULED: <2023-11-14 Tue>
   [[info:org#Using capture][org#Using capture]]
   [[info:org#Capture templates][org#Capture templates]]
 * RAW [#B] Org-mode, org-babel markup rules
-SCHEDULED: <2023-11-12 Sun>
+SCHEDULED: <2023-11-13 Mon>
 
 * TODO Org-Babel configuration.
 SCHEDULED: <2023-11-22 Wed ++2w>
@@ -996,7 +996,7 @@ SCHEDULED: <2023-11-13 Mon ++1d>
 
 
 * RAW A Python Q&A Session
-SCHEDULED: <2023-11-12 Sun ++2w>
+SCHEDULED: <2023-11-13 Mon ++2w>
 - Note taken on [2023-11-10 Fri 07:51] \\
   It is deliberately optimized for speed of development—its
   simple syntax, dynamic typing, lack of compile steps,
@@ -1035,19 +1035,19 @@ CLOCK: [2023-11-10 Fri 07:49]--[2023-11-10 Fri 09:32] =>  1:43
 :END:
 
 * RAW How Python Runs Programs
-SCHEDULED: <2023-11-12 Sun>
+SCHEDULED: <2023-11-13 Mon>
 
 * RAW How You Run Program
-SCHEDULED: <2023-11-12 Sun>
+SCHEDULED: <2023-11-13 Mon>
 
 * RAW Computer science distilled - Basic
-SCHEDULED: <2023-11-12 Sun>
+SCHEDULED: <2023-11-13 Mon>
 :LOGBOOK:
 CLOCK: [2023-11-10 Fri 09:35]--[2023-11-10 Fri 16:29] =>  6:54
 :END:
 
 * RAW Computer science distilled - Complexity
-SCHEDULED: <2023-11-12 Sun>
+SCHEDULED: <2023-11-13 Mon>
 
 * RAW Computer science distilled - Strategy
-SCHEDULED: <2023-11-12 Sun>
+SCHEDULED: <2023-11-13 Mon>
