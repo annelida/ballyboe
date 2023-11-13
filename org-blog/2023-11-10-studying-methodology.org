@@ -16,10 +16,45 @@ tags: [emacs, org-mode, org-agenda, double-loop-learning]
 #+CATEGORY: Methodolody
 #+TODO: RAW INIT TODO ACTIVE | DONE
 
-* INIT Preface
-SCHEDULED: <2023-11-13 Mon ++4d>
+* RAW Preface
+SCHEDULED: <2023-11-17 Fri ++4d>
+:PROPERTIES:
+:LAST_REPEAT: [2023-11-13 Mon 12:03]
+:END:
+- State "DONE"       from "ACTIVE"     [2023-11-13 Mon 12:03]
+:LOGBOOK:
+CLOCK: [2023-11-13 Mon 10:45]--[2023-11-13 Mon 12:02] =>  1:17
+:END:
 * What is methodology
+A "methodology" is a system of methods and principles in particular area
+to perform some complex task.
+
+System - a regularly interacting or interdependent group of items forming a unified whole.
+A set of connected things or devices that operate together.
+
+Method - a particular way of doing something.
+
+Principle - a basic idea or rule that explains or controls how something happens or works.
+Basic rules or laws.
+
 * What methodology means in learning
+The goal of learning is achieving a solid base of personal knowledge.
+
+Learning methodology is a system of  methods, principles and practices
+used to effective learning.
+
+In essence it is the learning of how to learn.
+
+Learning methodologies and activities include:
+
+Double loop learning approach
+Pomodoro technique
+Brainstorming
+Extract of marrow from each studied material
+Feyman's technique
+Deliberate practice
+Spaced repetition
+
 * How practically prepare yourself to studying
 * What is the average time you should spend on each session
 
