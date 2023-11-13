@@ -60,7 +60,7 @@ CLOCK: [2023-10-14 Sat 13:30]--[2023-10-14 Sat 14:03] =>  0:33
 
 ** Python
 
-*** TODO [#A] Python: modules, relative import. 
+**** TODO [#A] Python: modules, relative import. 
 SCHEDULED: <2023-11-24 Fri>
 - Note taken on [2023-10-24 Tue 08:54] \\
   A Python module is a file that has a .py extension, and a Python
@@ -78,7 +78,7 @@ CLOCK: [2023-10-24 Tue 08:07]--[2023-10-24 Tue 09:32] =>  1:25
 :END:
 
 
-*** TODO Python classes
+**** TODO Python classes
 
 SCHEDULED: <2023-11-18 Sat>
 - Note taken on [2023-11-01 Wed 16:02] \\
@@ -125,7 +125,7 @@ Object's methods are functions that belong to the object.
 : The student's name is Tony Black
 
 
-*** TODO [#A] Python Unit test module description and structure.
+**** TODO [#A] Python Unit test module description and structure.
 SCHEDULED: <2023-11-13 Mon>
 - Note taken on [2023-10-24 Tue 09:35] \\
   A unit test is a smaller test, that checks
@@ -190,22 +190,23 @@ if __name__ == '__main__':
     
 ** Emacs
 
+**** Interface
 
-*** Interface
+**** Keys
 
-*** Keys
-
-*** Embedded Help System
-*** TODO Emacs server
+**** Embedded Help System
+**** TODO Emacs server
 SCHEDULED: <2023-11-15 Wed>
 - Note taken on [2023-10-10 Tue 15:27] \\
   * Launch the graphical version;
   * Start the server: =M-x server-start=
   * Launch the client version by =emacsclient -t=
-*** Registers
+**** Registers
 
 **** Window Registers
 
+**** RAW Emacs + venv
+SCHEDULED: <2023-11-16 Thu>
 ** Org-mode
 
 **** RAW [#B] Org-mode, org-babel markup rules
@@ -251,10 +252,10 @@ CLOCK: [2023-10-26 Thu 07:54]--[2023-10-26 Thu 08:52] =>  0:58
 :END:
 [[https://www.youtube.com/watch?v=kkqVTDbfYp4][org-babel configuration]]
 [[https://orgmode.org/manual/Structure-Templates.html][org templates structure]]
-**** 
-*** Jekyll
+ 
+** Jekyll
 
-***** TODO [#B] Org-Jekyll - configuration options
+**** TODO [#B] Org-Jekyll - configuration options
 SCHEDULED: <2024-01-20 Sat ++1m>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-13 Mon 14:41]
@@ -416,7 +417,7 @@ to the corresponding files from /_layouts folder.
 Result you can see on [[https://annelida.github.io/]]
 
 
-***** TODO [#A] Explorations in details page's structure in Jekyll.
+**** TODO [#A] Explorations in details page's structure in Jekyll.
 SCHEDULED: <2023-11-20 Mon>
 - Note taken on [2023-10-22 Sun 08:21] \\
   * How it is possible to organize several pages.
@@ -430,7 +431,7 @@ CLOCK: [2023-10-22 Sun 08:21]--[2023-10-22 Sun 08:34] =>  0:13
 :END:
 
 
-***** TODO What is Jekyll's Gemfile.lock (full clarification).
+**** TODO What is Jekyll's Gemfile.lock (full clarification).
 SCHEDULED: <2023-11-26 Sun>
 
 - Note taken on [2023-10-20 Fri 08:33] \\
@@ -440,209 +441,8 @@ SCHEDULED: <2023-11-26 Sun>
   Gemfile.lock and install the exact same versions, rather than just using
   the Gemfile and installing the most recent version.
 ** Linux
-***** ACTIVE Linux symbolic links
-SCHEDULED: <2023-11-20 Mon>
-- Note taken on [2023-10-10 Tue 19:27] \\
-  M-x man <enter> ln
-- Note taken on [2023-10-10 Tue 15:30]
-  * It allows to move the original file in safe place.
-  * On the place original file it possible to leave the shortcut with
-  * link to original file. For create soft link use command ln -s
 
-* Work
-
-** Professional Preparation
-
-** Portfolio creation
-
-** CV elaboration
-
-* Leasure
-
-
-
-* Events
-
-* Notes
-
-
-
-* Personal
-
-
-
-* TODO Git/Magit merge and rebase concept.
-SCHEDULED: <2023-11-16 Thu>
-
-  - Note taken on [2023-10-23 Mon 09:48] \\
-
-  A branch is an independent development line containing a pointer
-   — or the branch head — to the most recent commit in the code.
-  A single Git repository can track many branches, but your working
-  tree centers on just one. The head points to the tip (the latest commit)
-  of a branch.
-  In Git, a branch is a new/separate version of the main repository.
-
-  Let's say you have a large project, and you need to update
-  the design on it.
-
-  With a new branch called NEW-DISIGN, edit the code directly without
-  impacting the main branch.
-
-  Let’s say that at the same time an error was discovered in the
-  project that requires be urgent fixed.
-
-  Create a new branch from the main project called ERROR-FIX.
-  Fix the error and merge the ERROR-FIX branch with
-  the main branch.
-
-  When go back to the NEW_DESIGN branch, and finish the work there.
-  Merge the NEW-DISIGN branch with main.
-
-  $ git checkout -  command used to check out a branch
-  $ git checkout -b - will create a new branch, and move to it.
-
-Magit:
-b n (magit-branch-create)
-
-- Note taken on [2023-10-23 Mon 10:40] \\
-  You can describe of the HEAD as the "current branch".
-  When you switch branches
-
-  $ git checkout
-
-  the HEAD revision changes to point to the tip of the new branch.
-
-  You can see what HEAD points to by doing:
-
-  $ cat .git/HEAD
-
-  ref: refs/heads/main
-
-:LOGBOOK:
-CLOCK: [2023-10-23 Mon 08:47]--[2023-10-23 Mon 11:08] =>  2:21
-:END:
-
-- Note taken on [2023-10-25 Wed 10:50] \\
-  Git tags description
-
-  Tags are used as markers for significant points in the project timeline,
-  whereas branches are separate lines of development that will eventually
-  be merged back into the main application code.
-  A tag is an object referencing a specific commit within the project history,
-  similar to chapter markers in a book.
-  This allows you to switch to the tagged version of the codebase to see what
-  the code looked like when the tag was created and, if necessary,
-  revert to that specific codebase version.
-
-  $ git tag
-  command allows to create, list, delete, and verify tags.
-
-  Deleting a tag does not affect the code in your repository -
-  it just removes the tag label.
-:LOGBOOK:
-CLOCK: [2023-10-25 Wed 10:36]--[2023-10-25 Wed 11:16] =>  0:40
-:END:
-- Note taken on [2023-10-24 Tue 10:38] \\
-  Both of these commands are designed to integrate changes
-  from one branch into another branch. They just do it in very
-  different ways.
-
-  Merging is nice because it’s a non-destructive operation.
-  The existing branches are not changed in any way. This avoids
-  all of the potential pitfalls of rebasing.
-
-  The major benefit of rebasing is that you get a much cleaner
-  project history.
-
-  The golden rule of git rebase is to never use it on public branches.
-  (ie. never rebase master). You should never rebase master onto
-  a feature branch.
-* TODO [#A] Git/Magit undo options.
-SCHEDULED: <2023-12-01 Fri>
-- Note taken on [2023-10-23 Mon 08:47] \\
-  If you want to redo that commit, make the additional
-  changes you forgot, stage them, and commit again using
-  the --amend option
-
-  Git:
-  $ git commit --amend
-  Magit:
-  c a C-c C-c
-
-  Unstaging a Staged File
-  Git:
-  use "git reset HEAD <file>..." to unstage
-  use "git restore --staged <file>..." to unstage
-  Magit:
-  u (magit-unstage-file)
-
-  Unmodifying a Modified File
-  Git:
-  use "git checkout -- <file>..." to discard changes in
-  working directory
-  use "git restore <file>..." to discard changes in
-  working directory
-  Magit:
-  k (magit-discard)
-
-  [[https://git-scm.com/book/en/v2/Git-Basics-Undoing-Things][Git undoing things]]
-
-
-- Note taken on [2023-10-23 Mon 08:09] \\
-  branch
-  head
-  rebase
-  tag
-  version
-
-* ACTIVE Emacs frames
-SCHEDULED: <2023-11-23 Thu>
-- Note taken on [2023-10-13 Fri 08:31] \\
-  * A graphical display that contains one or more Emacs windows,
-    a menu bar, tool bar, echo area.
-  * The C-x 5 o ( other-frame ) command selects the next frame
-    on the current terminal.
-    (';) - key-chord
-[[info:emacs#Frame Commands][emacs#Frame Commands]]
-[[info:emacs#Frames][emacs#Frames]]
-:LOGBOOK:
-CLOCK: [2023-10-13 Fri 08:25]--[2023-10-13 Fri 08:51] =>  0:26
-CLOCK: [2023-10-10 Tue 19:00]--[2023-10-10 Tue 19:14] =>  0:14
-:END:
-* ACTIVE Emacs buffers
-SCHEDULED: <2023-11-23 Thu>
-The text you are editing in Emacs resides in an
-object called a “buffer”.
-Each buffer has a unique name.
-
-[[info:emacs#Kill Buffer][emacs#Kill Buffer]]
-[[info:emacs#Buffers][emacs#Buffers]]
-
-:LOGBOOK:
-CLOCK: [2023-10-13 Fri 09:22]--[2023-10-13 Fri 09:42] =>  0:20
-CLOCK: [2023-10-13 Fri 09:16]--[2023-10-13 Fri 09:22] =>  0:06
-CLOCK: [2023-10-10 Tue 19:14]--[2023-10-10 Tue 19:20] =>  0:06
-:END:
-* ACTIVE Emacs windows - resize and split
-SCHEDULED: <2023-11-23 Thu>
-- Note taken on [2023-10-13 Fri 09:01] \\
-  * Frame can be split into several windows. Buffer or it's part
-    displays in window
-  * one Emacs window is the “selected window”; the buffer
-    this window is displaying is the current buffer.
-:LOGBOOK:
-CLOCK: [2023-10-13 Fri 08:59]--[2023-10-13 Fri 09:16] =>  0:17
-:END:
-[[info:emacs#Basic Window][emacs#Basic Window]]
-[[info:emacs#Split Window][emacs#Split Window]]
-[[info:emacs#Change Window][emacs#Change Window]]
-* DONE Sym linkage between host and repo
-CLOSED: [2023-10-10 Tue 19:23] SCHEDULED: <2023-10-10 Tue>
-:LOGBOOK:
-CLOCK: [2023-10-10 Tue 13:58]--[2023-10-10 Tue 14:48] =>  0:50
-:END:
-* ACTIVE Comparing files and folders in Linux/Emacs
+**** ACTIVE Comparing files and folders in Linux/Emacs
 SCHEDULED: <2023-11-15 Wed>
 - Note taken on [2023-10-15 Sun 08:13] \\
 
@@ -787,15 +587,144 @@ In Emacs using M-x diff function it not necessary to separately compare folders 
 You can see full result in diff buffer.
 In the Linux terminal it is possible at the same time to compare folder with files:
 $ diff -a -y dir1 dir2
-* RAW activate.sh
+**** ACTIVE Linux symbolic links
+SCHEDULED: <2023-11-20 Mon>
+- Note taken on [2023-10-10 Tue 19:27] \\
+  M-x man <enter> ln
+- Note taken on [2023-10-10 Tue 15:30]
+  * It allows to move the original file in safe place.
+  * On the place original file it possible to leave the shortcut with
+  * link to original file. For create soft link use command ln -s
+** Git/Magit
+
+**** TODO Git/Magit merge and rebase concept.
+
 SCHEDULED: <2023-11-16 Thu>
-* RAW Emacs + venv
-SCHEDULED: <2023-11-16 Thu>
-* RAW What is CI/CD and how does it work
-SCHEDULED: <2023-11-15 Wed>
-* RAW Elpy installation
-SCHEDULED: <2023-11-15 Wed>
-* RAW Speed-typing
+
+  - Note taken on [2023-10-23 Mon 09:48] \\
+
+  A branch is an independent development line containing a pointer
+   — or the branch head — to the most recent commit in the code.
+  A single Git repository can track many branches, but your working
+  tree centers on just one. The head points to the tip (the latest commit)
+  of a branch.
+  In Git, a branch is a new/separate version of the main repository.
+
+  Let's say you have a large project, and you need to update
+  the design on it.
+
+  With a new branch called NEW-DISIGN, edit the code directly without
+  impacting the main branch.
+
+  Let’s say that at the same time an error was discovered in the
+  project that requires be urgent fixed.
+
+  Create a new branch from the main project called ERROR-FIX.
+  Fix the error and merge the ERROR-FIX branch with
+  the main branch.
+
+  When go back to the NEW_DESIGN branch, and finish the work there.
+  Merge the NEW-DISIGN branch with main.
+
+  $ git checkout -  command used to check out a branch
+  $ git checkout -b - will create a new branch, and move to it.
+
+Magit:
+b n (magit-branch-create)
+
+- Note taken on [2023-10-23 Mon 10:40] \\
+  You can describe of the HEAD as the "current branch".
+  When you switch branches
+
+  $ git checkout
+
+  the HEAD revision changes to point to the tip of the new branch.
+
+  You can see what HEAD points to by doing:
+
+  $ cat .git/HEAD
+
+  ref: refs/heads/main
+
+:LOGBOOK:
+CLOCK: [2023-10-23 Mon 08:47]--[2023-10-23 Mon 11:08] =>  2:21
+:END:
+
+- Note taken on [2023-10-25 Wed 10:50] \\
+  Git tags description
+
+  Tags are used as markers for significant points in the project timeline,
+  whereas branches are separate lines of development that will eventually
+  be merged back into the main application code.
+  A tag is an object referencing a specific commit within the project history,
+  similar to chapter markers in a book.
+  This allows you to switch to the tagged version of the codebase to see what
+  the code looked like when the tag was created and, if necessary,
+  revert to that specific codebase version.
+
+  $ git tag
+  command allows to create, list, delete, and verify tags.
+
+  Deleting a tag does not affect the code in your repository -
+  it just removes the tag label.
+:LOGBOOK:
+CLOCK: [2023-10-25 Wed 10:36]--[2023-10-25 Wed 11:16] =>  0:40
+:END:
+- Note taken on [2023-10-24 Tue 10:38] \\
+  Both of these commands are designed to integrate changes
+  from one branch into another branch. They just do it in very
+  different ways.
+
+  Merging is nice because it’s a non-destructive operation.
+  The existing branches are not changed in any way. This avoids
+  all of the potential pitfalls of rebasing.
+
+  The major benefit of rebasing is that you get a much cleaner
+  project history.
+
+  The golden rule of git rebase is to never use it on public branches.
+  (ie. never rebase master). You should never rebase master onto
+  a feature branch.
+
+**** TODO [#A] Git/Magit undo options.
+SCHEDULED: <2023-12-01 Fri>
+- Note taken on [2023-10-23 Mon 08:47] \\
+  If you want to redo that commit, make the additional
+  changes you forgot, stage them, and commit again using
+  the --amend option
+
+  Git:
+  $ git commit --amend
+  Magit:
+  c a C-c C-c
+
+  Unstaging a Staged File
+  Git:
+  use "git reset HEAD <file>..." to unstage
+  use "git restore --staged <file>..." to unstage
+  Magit:
+  u (magit-unstage-file)
+
+  Unmodifying a Modified File
+  Git:
+  use "git checkout -- <file>..." to discard changes in
+  working directory
+  use "git restore <file>..." to discard changes in
+  working directory
+  Magit:
+  k (magit-discard)
+
+  [[https://git-scm.com/book/en/v2/Git-Basics-Undoing-Things][Git undoing things]]
+
+
+- Note taken on [2023-10-23 Mon 08:09] \\
+  branch
+  head
+  rebase
+  tag
+  version
+
+** RAW Speed-typing
 SCHEDULED: <2023-11-13 Mon ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-11 Sat 17:14]
@@ -807,7 +736,20 @@ SCHEDULED: <2023-11-13 Mon ++1d>
 
 
 
-* RAW A Python Q&A Session
+* Work
+
+** Professional Preparation
+
+** Portfolio creation
+
+** CV elaboration
+
+* Leasure
+
+* Books
+*** Learning Python
+
+**** RAW A Python Q&A Session
 SCHEDULED: <2023-11-27 Mon ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-13 Mon 13:24]
@@ -851,7 +793,8 @@ CLOCK: [2023-11-13 Mon 12:10]--[2023-11-13 Mon 12:21] =>  0:11
 CLOCK: [2023-11-10 Fri 07:49]--[2023-11-10 Fri 09:32] =>  1:43
 :END:
 
-* RAW How Python Runs Programs
+ 
+**** RAW How Python Runs Programs
 SCHEDULED: <2023-11-27 Mon ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-13 Mon 13:24]
@@ -879,18 +822,31 @@ CLOCK: [2023-11-13 Mon 12:21]--[2023-11-13 Mon 13:06] =>  0:45
 #+RESULTS:
 : /home/vikky/git/ballyboe/bookworm/agenda
 
-* RAW How You Run Program
+
+**** RAW How You Run Program
 SCHEDULED: <2023-11-14 Tue>
 
-* RAW Computer science distilled - Basic
+*** Computer science distillled
+
+**** RAW Computer science distilled - Basic
 SCHEDULED: <2023-11-14 Tue>
 :LOGBOOK:
 CLOCK: [2023-11-13 Mon 13:58]--[2023-11-13 Mon 14:16] =>  0:18
 CLOCK: [2023-11-10 Fri 09:35]--[2023-11-10 Fri 16:29] =>  6:54
 :END:
 
-* RAW Computer science distilled - Complexity
+**** RAW Computer science distilled - Complexity
 SCHEDULED: <2023-11-14 Tue>
+ 
+**** RAW Computer science distilled - Strategy
+SCHEDULED: <2023-11-14 Tue>
+* Events
 
-* RAW Computer science distilled - Strategy
-SCHEDULED: <2023-11-14 Tue>
+* Notes
+
+
+
+* Personal
+
+
+
