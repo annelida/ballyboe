@@ -28,183 +28,9 @@ MY PROJECTS    -*- mode: org; -*-
 
 **** Philosophy of Software Design
 
-*** Grammar
+*** Working with transcripts
 
-**** Present simple
-
-**** Present perfect
-
-
-** Emacs
-
-
-*** Interface
-
-*** Keys
-
-*** Embedded Help System
-
-*** Registers
-
-**** Window Registers
-
-*** Org-mode
-
-**** Org-agenda
-
-**** Org-capture
-
-
-* Work
-
-** Professional Preparation
-
-** Portfolio creation
-
-** CV elaboration
-
-* Leasure
-
-
-
-* Events
-
-* Notes
-
-
-
-* Personal
-
-
-
-* Preparation to work as software tester
-** Agenda Views
-** RAW [#C] Upwork about testing
-   SCHEDULED: <2023-11-13 Mon ++2d/3d>
-   :PROPERTIES:
-   :LAST_REPEAT: [2023-11-02 Thu 16:41]
-   :END:
-   - State "DONE"       from "ACTIVE"     [2023-11-02 Thu 16:41]
-   - State "DONE"       from "ACTIVE"     [2023-11-02 Thu 16:41]
-   - State "DONE"       from "ACTIVE"     [2023-11-02 Thu 16:41]
-   - State "DONE"       from "ACTIVE"     [2023-11-02 Thu 16:41]
-   - State "DONE"       from "ACTIVE"     [2023-11-02 Thu 16:41]
-   - State "DONE"       from "TODO"       [2023-06-23 Fri 15:19]
-   - State "DONE"       from "TODO"       [2023-06-23 Fri 15:19]
-   - State "DONE"       from "TODO"       [2023-06-23 Fri 15:19]
-   - State "DONE"       from "TODO"       [2023-06-23 Fri 15:19]
-   - State "DONE"       from "TODO"       [2023-06-23 Fri 15:19]
-   - State "DONE"       from "TODO"       [2023-06-23 Fri 15:19]
-   - State "DONE"       from "TODO"       [2023-06-23 Fri 15:18]
-Requirements to job seekers (software testers)
-** DONE Reading aloud
-   CLOSED: [2023-09-29 Fri 10:09] SCHEDULED: <2023-07-22 Sat>
-   :PROPERTIES:
-   :LAST_REPEAT: [2023-09-26 Tue 18:00]
-   :END:
-   - State "DONE"       from "TODO"       [2023-09-26 Tue 18:00]
-   - State "DONE"       from "TODO"       [2023-09-26 Tue 17:43]
-   - State "DONE"       from "TODO"       [2023-08-13 Sun 11:05]
-   - State "DONE"       from "TODO"       [2023-07-27 Thu 14:26]
-   - State "DONE"       from "TODO"       [2023-07-26 Wed 13:03]
-   - State "DONE"       from "TODO"       [2023-07-25 Tue 17:19]
-   - State "DONE"       from "TODO"       [2023-07-24 Mon 17:58]
-   - State "DONE"       from "TODO"       [2023-07-17 Mon 13:16]
-   - State "DONE"       from "TODO"       [2023-07-17 Mon 13:16]
-   - State "DONE"       from "TODO"       [2023-07-12 Wed 19:10]
-   - State "DONE"       from "TODO"       [2023-07-11 Tue 17:11]
-   - State "DONE"       from "TODO"       [2023-07-10 Mon 16:12]
-   - State "DONE"       from "TODO"       [2023-07-10 Mon 16:08]
-   - State "DONE"       from "TODO"       [2023-07-09 Sun 10:51]
-   - State "DONE"       from "TODO"       [2023-07-09 Sun 10:50]
-   - State "DONE"       from "TODO"       [2023-07-07 Fri 16:29]
-   - State "DONE"       from "TODO"       [2023-07-05 Wed 15:36]
-   - State "DONE"       from "TODO"       [2023-07-03 Mon 18:07]
-   - State "DONE"       from "TODO"       [2023-07-03 Mon 18:07]
-   - State "DONE"       from "TODO"       [2023-07-02 Sun 13:15]
-   - State "DONE"       from "TODO"       [2023-07-01 Sat 13:40]
-   - State "DONE"       from "TODO"       [2023-06-30 Fri 15:27]
-   - State "DONE"       from "TODO"       [2023-06-29 Thu 13:21]
-   - State "DONE"       from "TODO"       [2023-06-29 Thu 13:21]
-   - State "DONE"       from "TODO"       [2023-06-27 Tue 17:22]
-   - State "DONE"       from "TODO"       [2023-06-27 Tue 17:22]
-   - State "DONE"       from "TODO"       [2023-06-26 Mon 15:44]
-** RAW [#C] Repeatitive tasks in Org-agenda
-   SCHEDULED: <2023-11-24 Fri ++2w>
-   :PROPERTIES:
-   :LAST_REPEAT: [2023-11-10 Fri 17:01]
-   :END:
-   - State "DONE"       from "ACTIVE"     [2023-11-10 Fri 17:01]
-   - Note taken on [2023-11-10 Fri 16:33] \\
-     [[https://www.danliden.com/posts/20220116-org-time.html][Org-repeaters]]
-
-     <C-c> - add timestamp
-     A timestamp entry with a time can be added with <C-u><C-c>
-     <C-c> ! (org-time-stamp-inactive), which inserts an inactive timestamp (represented
-     with square rather than angled brackets; e.g. [2022-01-16 Sun] rather than <2022-01-16 Sun>).
-     Inactive timestamps work the same as active timestamps, except that they
-     do not appear on the org-agenda.
-
-     Two timestamps connected by -- make up a range (e.g. <2022-02-12 Sat>--<2022-01-16 Sun>)
-
-     Add a scheduled date to a headline with <C-c><C-s> and a deadline with <C-c><C-d>
-
-     Marking Tasks with Repeaters DONE:
-
-     <C-u> -1 <C-t> or <C--1><C-t>
-   :LOGBOOK:
-   CLOCK: [2023-11-10 Fri 16:33]--[2023-11-10 Fri 16:58] =>  0:25
-   :END:
-** TODO [#B] Lucy Worsley transcript
-   SCHEDULED: <2023-11-18 Sat>
-** RAW Org-mode repeaters
-   SCHEDULED: <2023-12-09 Sat ++1w>
-   :PROPERTIES:
-   :LAST_REPEAT: [2023-11-02 Thu 16:44]
-   :END:
-   - State "DONE"       from "ACTIVE"     [2023-11-02 Thu 16:44]
-   - State "DONE"       from "ACTIVE"     [2023-11-02 Thu 16:44]
-   - State "DONE"       from "ACTIVE"     [2023-11-02 Thu 16:44]
-   - State "DONE"       from "ACTIVE"     [2023-11-02 Thu 16:44]
-   - State "DONE"       from "ACTIVE"     [2023-11-02 Thu 16:44]
-   - State "DONE"       from "TODO"       [2023-06-23 Fri 15:16]
-[[https://www.danliden.com/posts/20220116-org-time.html]]
-** DONE Feyman's learning technique
-CLOSED: [2023-07-17 Mon 13:16] SCHEDULED: <2023-07-16 Sun>
-* Selenium Learning Course
-* TODO HTML tutorial
-** DONE HTML Elements
-CLOSED: [2023-09-25 Mon 10:41] SCHEDULED: <2023-09-25 Mon>
-** DONE HTML Attributes
-CLOSED: [2023-09-25 Mon 10:41] SCHEDULED: <2023-09-25 Mon>
-* DONE Publishing Org-mode files to HTML
-CLOSED: [2023-09-26 Tue 17:44] SCHEDULED: <2023-09-25 Mon>
-* DONE Selenium locators
-CLOSED: [2023-09-26 Tue 17:43] SCHEDULED: <2023-09-25 Mon>
-* DONE Feynman technique. Studying,analyzing and descrybing by my own words.
-CLOSED: [2023-09-28 Thu 10:01] SCHEDULED: <2023-09-28 Thu>
-* DONE Selenium synchronization, Exception Handling and Assertions
-CLOSED: [2023-09-28 Thu 10:01] SCHEDULED: <2023-09-28 Thu>
-** DONE Selenium implicit wait
-CLOSED: [2023-09-30 Sat 09:30] SCHEDULED: <2023-09-29 Fri>
-* DONE Working with transcript "The Experiment That Teaches People How To Learn"
-CLOSED: [2023-10-02 Mon 10:45] SCHEDULED: <2023-09-30 Sat>
-** DONE To rewrite the transcript
-CLOSED: [2023-10-02 Mon 10:45] SCHEDULED: <2023-09-30 Sat>
-** DONE To make the synctacsis analyse
-CLOSED: [2023-10-02 Mon 10:45] SCHEDULED: <2023-09-30 Sat>
-** TODO To create the cloud of words
-** DONE To rewrite the text of video by my owm words
-CLOSED: [2023-10-02 Mon 10:45] SCHEDULED: <2023-09-30 Sat>
-* DONE Reading aloud: "Matilda" R. Dahl
-CLOSED: [2023-10-02 Mon 10:46] SCHEDULED: <2023-09-30 Sat>
-* DONE Using Git on Debian
-CLOSED: [2023-10-06 Fri 08:01] SCHEDULED: <2023-10-05 Thu>
-* DONE Generating a new SSH key and adding it to the ssh-agent
-CLOSED: [2023-10-02 Mon 17:46] SCHEDULED: <2023-10-02 Mon>
-** DONE Adding a new SSH key to GitHub account
-CLOSED: [2023-10-02 Mon 17:46] SCHEDULED: <2023-10-02 Mon>
-* ACTIVE [#C] Working with transctipt to video "How to Learn Anything Fast: Teach Your Brain to Focus"
+**** ACTIVE [#C] "How to Learn Anything Fast: Teach Your Brain to Focus"
 SCHEDULED: <2023-11-19 Sun>
 - Note taken on [2023-10-14 Sat 13:30] \\
   Part I "The neuroscience solution to boredom "
@@ -226,10 +52,215 @@ SCHEDULED: <2023-11-19 Sun>
 :LOGBOOK:
 CLOCK: [2023-10-14 Sat 13:30]--[2023-10-14 Sat 14:03] =>  0:33
 :END:
-** DONE Rewrite the transcript
-CLOSED: [2023-10-10 Tue 08:00] SCHEDULED: <2023-10-06 Fri>
-* TODO [#B] Org-Jekyll - configuration options
-SCHEDULED: <2023-11-20 Mon>
+*** Grammar
+
+**** Present simple
+
+**** Present perfect
+
+** Python
+
+*** TODO [#A] Python: modules, relative import. 
+SCHEDULED: <2023-11-24 Fri>
+- Note taken on [2023-10-24 Tue 08:54] \\
+  A Python module is a file that has a .py extension, and a Python
+  package is any folder that has modules inside it.
+
+  Relative imports in Python 3 allow you to import modules
+  or functions from other packages within your package hierarchy.
+
+  To use relative imports, you need to use the from . import syntax.
+  The number of dots before the import statement represents the number
+  of package levels you need to go up to reach the desired module or
+  function.
+:LOGBOOK:
+CLOCK: [2023-10-24 Tue 08:07]--[2023-10-24 Tue 09:32] =>  1:25
+:END:
+
+
+*** TODO Python classes
+
+SCHEDULED: <2023-11-18 Sat>
+- Note taken on [2023-11-01 Wed 16:02] \\
+  Stock portfolio class clarification.
+:LOGBOOK:
+CLOCK: [2023-10-27 Fri 08:53]--[2023-10-27 Fri 09:33] =>  0:40
+CLOCK: [2023-10-26 Thu 09:51]--[2023-10-26 Thu 17:30] =>  7:39
+:END:
+#+begin_src python :results output
+class Student:
+  def __init__(self, name, age):
+    self.name = name
+    self.age = age
+
+s1 = Student("Tony Black", 16)
+
+print(s1.name)
+print(s1.age)
+#+end_src
+
+#+RESULTS:
+: Tony Black
+: 16
+
+The __init__(function) is using to assign the values of name
+and age.
+
+Object's methods are functions that belong to the object.
+
+#+begin_src python :results output
+  class Student:
+    def __init__(self, name, age):
+      self.name = name
+      self.age = age
+
+    def stfunc(self):
+      print("The student's name is " + self.name)
+
+  s1 = Student("Tony Black", 16)
+  s1.stfunc()
+#+end_src
+
+#+RESULTS:
+: The student's name is Tony Black
+
+
+*** TODO [#A] Python Unit test module description and structure.
+SCHEDULED: <2023-11-13 Mon>
+- Note taken on [2023-10-24 Tue 09:35] \\
+  A unit test is a smaller test, that checks
+  that a single component operates in the right way.
+
+  An integration test checks that components in your
+  application operate with each other.
+
+  A unit test checks a small component in your application.
+
+  The three most popular test runners are:
+
+  unittest
+  nose or nose2
+  pytest
+
+  unittest requires that:
+
+  You put your tests into classes as methods
+  You use a series of special assertion methods
+  in the unittest.TestCase class instead of the
+  built-in assert statement
+:LOGBOOK:
+CLOCK: [2023-10-25 Wed 09:13]--[2023-10-25 Wed 10:35] =>  1:22
+CLOCK: [2023-10-24 Tue 09:35]--[2023-10-24 Tue 09:50] =>  0:15
+:END:
+[[https://realpython.com/python-testing/][unit test
+]]
+def test_sum():
+    assert sum([1, 2, 3]) == 6, "Should be 6"
+
+def test_sum_tuple():
+    assert sum((1, 2, 2)) == 6, "Should be 6"
+
+if __name__ == "__main__":
+    test_sum()
+    test_sum_tuple()
+    print("Everything passed")
+
+To convert the example to a unittest test case:
+
+Import unittest from the standard library
+Create a class called TestSum that inherits from the
+TestCase class;
+Convert the test functions into methods by adding self
+as the first argument;
+Change the assertions to use the self.assertEqual() method on
+the TestCase class;
+Change the command-line entry point to call unittest.main()
+
+import unittest
+
+class TestSum(unittest.TestCase):
+
+    def test_sum(self):
+        self.assertEqual(sum(([1, 2, 3])), 6, "Should be 6")
+        
+    def test_sum_tuple(self):
+        self.assertEqual(sum((1, 2, 2)), 6, "Should be 6")
+if __name__ == '__main__':
+    unittest.main()
+    
+** Emacs
+
+
+*** Interface
+
+*** Keys
+
+*** Embedded Help System
+*** TODO Emacs server
+SCHEDULED: <2023-11-15 Wed>
+- Note taken on [2023-10-10 Tue 15:27] \\
+  * Launch the graphical version;
+  * Start the server: =M-x server-start=
+  * Launch the client version by =emacsclient -t=
+*** Registers
+
+**** Window Registers
+
+** Org-mode
+
+**** RAW [#B] Org-mode, org-babel markup rules
+SCHEDULED: <2023-11-14 Tue>
+
+
+**** TODO Org-Babel configuration.
+SCHEDULED: <2023-11-22 Wed ++2w>
+:PROPERTIES:
+:LAST_REPEAT: [2023-11-08 Wed 09:29]
+:END:
+- State "DONE"       from "ACTIVE"     [2023-11-08 Wed 09:29]
+- Note taken on [2023-10-27 Fri 08:25] \\
+  I had problems with running Python3 code using org-babel.
+  At first when I run my code I saw the error:
+  "Program Python is not found."
+
+  I fixed this error when I installed the package "python-is-python3" on my Debian:
+
+  $  apt-get install python-is-python3
+
+  Is a package which makes Python 3 become the default version in Ubuntu/Debian instead of Python 2.
+
+  The second problem was that my output was always "None" when I run my code.
+  My source code block looked:
+
+  #+begin_src python
+  print("hello")
+  #+end_src
+
+  #+RESULTS:
+  : None
+
+  I fixed it when added :results output
+
+  #+begin_src python :results output
+  print("hello")
+  #+end_src
+  #+RESULTS:
+  : hello
+:LOGBOOK:
+CLOCK: [2023-10-26 Thu 07:54]--[2023-10-26 Thu 08:52] =>  0:58
+:END:
+[[https://www.youtube.com/watch?v=kkqVTDbfYp4][org-babel configuration]]
+[[https://orgmode.org/manual/Structure-Templates.html][org templates structure]]
+**** 
+*** Jekyll
+
+***** TODO [#B] Org-Jekyll - configuration options
+SCHEDULED: <2024-01-20 Sat ++1m>
+:PROPERTIES:
+:LAST_REPEAT: [2023-11-13 Mon 14:41]
+:END:
+- State "DONE"       from "ACTIVE"     [2023-11-13 Mon 14:41]
+- State "DONE"       from "ACTIVE"     [2023-11-13 Mon 14:41]
 - Note taken on [2023-10-12 Thu 15:01] \\
   Reverse approach: use the working sample with minimum modifications
   (personal data).
@@ -383,8 +414,10 @@ page.html
 post.html
 to the corresponding files from /_layouts folder.
 Result you can see on [[https://annelida.github.io/]]
-* TODO [#A] Explorations in details page's structure in Jekyll.
-SCHEDULED: <2023-11-13 Mon>
+
+
+***** TODO [#A] Explorations in details page's structure in Jekyll.
+SCHEDULED: <2023-11-20 Mon>
 - Note taken on [2023-10-22 Sun 08:21] \\
   * How it is possible to organize several pages.
   * Page's front matter structure:
@@ -395,7 +428,9 @@ SCHEDULED: <2023-11-13 Mon>
 :LOGBOOK:
 CLOCK: [2023-10-22 Sun 08:21]--[2023-10-22 Sun 08:34] =>  0:13
 :END:
-* TODO What is Jekyll's Gemfile.lock (full clarification).
+
+
+***** TODO What is Jekyll's Gemfile.lock (full clarification).
 SCHEDULED: <2023-11-26 Sun>
 
 - Note taken on [2023-10-20 Fri 08:33] \\
@@ -403,206 +438,9 @@ SCHEDULED: <2023-11-26 Sun>
   versions that were installed. This way, when the same library/project
   is loaded on another machine, running bundle install will look at the
   Gemfile.lock and install the exact same versions, rather than just using
-  the Gemfile and installing the most recent versions.
-* DONE Github.io - configuration
-CLOSED: [2023-10-06 Fri 08:01] SCHEDULED: <2023-10-04 Wed>
-* DONE What is Python REPL
-CLOSED: [2023-10-06 Fri 08:01] SCHEDULED: <2023-10-04 Wed>
-* DONE What is Ipython?
-* TODO [#A] Python: modules, relative import. 
-SCHEDULED: <2023-11-24 Fri>
-- Note taken on [2023-10-24 Tue 08:54] \\
-  A Python module is a file that has a .py extension, and a Python
-  package is any folder that has modules inside it.
-
-  Relative imports in Python 3 allow you to import modules
-  or functions from other packages within your package hierarchy.
-
-  To use relative imports, you need to use the from . import syntax.
-  The number of dots before the import statement represents the number
-  of package levels you need to go up to reach the desired module or
-  function.
-:LOGBOOK:
-CLOCK: [2023-10-24 Tue 08:07]--[2023-10-24 Tue 09:32] =>  1:25
-:END:
-* TODO Python classes.
-SCHEDULED: <2023-11-18 Sat>
-- Note taken on [2023-11-01 Wed 16:02] \\
-  Stock portfolio class clarification.
-:LOGBOOK:
-CLOCK: [2023-10-27 Fri 08:53]--[2023-10-27 Fri 09:33] =>  0:40
-CLOCK: [2023-10-26 Thu 09:51]--[2023-10-26 Thu 17:30] =>  7:39
-:END:
-#+begin_src python :results output
-class Student:
-  def __init__(self, name, age):
-    self.name = name
-    self.age = age
-
-s1 = Student("Tony Black", 16)
-
-print(s1.name)
-print(s1.age)
-#+end_src
-
-#+RESULTS:
-: Tony Black
-: 16
-
-The __init__(function) is using to assign the values of name
-and age.
-
-Object's methods are functions that belong to the object.
-
-#+begin_src python :results output
-  class Student:
-    def __init__(self, name, age):
-      self.name = name
-      self.age = age
-
-    def stfunc(self):
-      print("The student's name is " + self.name)
-
-  s1 = Student("Tony Black", 16)
-  s1.stfunc()
-#+end_src
-
-#+RESULTS:
-: The student's name is Tony Black
-
-* TODO [#A] Unit test module description and structure.
-SCHEDULED: <2023-11-13 Mon>
-- Note taken on [2023-10-24 Tue 09:35] \\
-  A unit test is a smaller test, that checks
-  that a single component operates in the right way.
-
-  An integration test checks that components in your
-  application operate with each other.
-
-  A unit test checks a small component in your application.
-
-  The three most popular test runners are:
-
-  unittest
-  nose or nose2
-  pytest
-
-  unittest requires that:
-
-  You put your tests into classes as methods
-  You use a series of special assertion methods
-  in the unittest.TestCase class instead of the
-  built-in assert statement
-:LOGBOOK:
-CLOCK: [2023-10-25 Wed 09:13]--[2023-10-25 Wed 10:35] =>  1:22
-CLOCK: [2023-10-24 Tue 09:35]--[2023-10-24 Tue 09:50] =>  0:15
-:END:
-[[https://realpython.com/python-testing/][unit test
-]]
-def test_sum():
-    assert sum([1, 2, 3]) == 6, "Should be 6"
-
-def test_sum_tuple():
-    assert sum((1, 2, 2)) == 6, "Should be 6"
-
-if __name__ == "__main__":
-    test_sum()
-    test_sum_tuple()
-    print("Everything passed")
-
-To convert the example to a unittest test case:
-
-Import unittest from the standard library
-Create a class called TestSum that inherits from the
-TestCase class;
-Convert the test functions into methods by adding self
-as the first argument;
-Change the assertions to use the self.assertEqual() method on
-the TestCase class;
-Change the command-line entry point to call unittest.main()
-
-import unittest
-
-class TestSum(unittest.TestCase):
-
-    def test_sum(self):
-        self.assertEqual(sum(([1, 2, 3])), 6, "Should be 6")
-        
-    def test_sum_tuple(self):
-        self.assertEqual(sum((1, 2, 2)), 6, "Should be 6")
-if __name__ == '__main__':
-    unittest.main()
-* TODO [#B] Emacs registers
-SCHEDULED: <2023-11-15 Wed ++2w>
-- Note taken on [2023-11-08 Wed 14:31] \\
-  ‘M-x view-register <RET> R’
-       Display a description of what register R contains.
-  ‘C-x r s R’
-       Copy region into register R (‘copy-to-register’).
-  ‘C-x r i R’
-       Insert text from register R (‘insert-register’).
-  ‘C-x r w R’
-     Save the state of the selected frame’s windows in register R
-     (‘window-configuration-to-register’).
-  ‘C-x r j R’ to restore a window or frame configuration.
-
-  [[info:emacs#Registers][emacs#Registers]]
-  [[info:emacs#Position Registers][emacs#Position Registers]]
-  [[info:emacs#Text Registers][emacs#Text Registers]]
-  [[info:emacs#Rectangle Registers][emacs#Rectangle Registers]]
-  [[info:emacs#Configuration Registers][emacs#Configuration Registers]]
-* TODO [#B] Org-capture
-SCHEDULED: <2023-11-14 Tue>
-- Note taken on [2023-10-31 Tue 11:09] \\
-  [[info:org#Capture and Attachments][org#Capture and Attachments]]
-  [[info:org#Capture][org#Capture]]
-  [[info:org#Setting up capture][org#Setting up capture]]
-  [[info:org#Using capture][org#Using capture]]
-  [[info:org#Capture templates][org#Capture templates]]
-* RAW [#B] Org-mode, org-babel markup rules
-SCHEDULED: <2023-11-13 Mon>
-
-* TODO Org-Babel configuration.
-SCHEDULED: <2023-11-22 Wed ++2w>
-:PROPERTIES:
-:LAST_REPEAT: [2023-11-08 Wed 09:29]
-:END:
-- State "DONE"       from "ACTIVE"     [2023-11-08 Wed 09:29]
-- Note taken on [2023-10-27 Fri 08:25] \\
-  I had problems with running Python3 code using org-babel.
-  At first when I run my code I saw the error:
-  "Program Python is not found."
-
-  I fixed this error when I installed the package "python-is-python3" on my Debian:
-
-  $  apt-get install python-is-python3
-
-  Is a package which makes Python 3 become the default version in Ubuntu/Debian instead of Python 2.
-
-  The second problem was that my output was always "None" when I run my code.
-  My source code block looked:
-
-  #+begin_src python
-  print("hello")
-  #+end_src
-
-  #+RESULTS:
-  : None
-
-  I fixed it when added :results output
-
-  #+begin_src python :results output
-  print("hello")
-  #+end_src
-  #+RESULTS:
-  : hello
-:LOGBOOK:
-CLOCK: [2023-10-26 Thu 07:54]--[2023-10-26 Thu 08:52] =>  0:58
-:END:
-[[https://www.youtube.com/watch?v=kkqVTDbfYp4][org-babel configuration]]
-[[https://orgmode.org/manual/Structure-Templates.html][org templates structure]]
-
-* ACTIVE Linux symbolic links 10m
+  the Gemfile and installing the most recent version.
+** Linux
+***** ACTIVE Linux symbolic links
 SCHEDULED: <2023-11-20 Mon>
 - Note taken on [2023-10-10 Tue 19:27] \\
   M-x man <enter> ln
@@ -610,47 +448,29 @@ SCHEDULED: <2023-11-20 Mon>
   * It allows to move the original file in safe place.
   * On the place original file it possible to leave the shortcut with
   * link to original file. For create soft link use command ln -s
-* TODO Emacs server 10m
-SCHEDULED: <2023-11-15 Wed>
-- Note taken on [2023-10-10 Tue 15:27] \\
-  * Launch the graphical version;
-  * Start the server: =M-x server-start=
-  * Launch the client version by =emacsclient -t=
-* TODO Org-Agenda views: item arrangement in daily agenda, its priorities;
-SCHEDULED: <2023-11-15 Wed>
-* RAW Magit brief overview
-SCHEDULED: <2023-11-23 Thu ++2w>
-:PROPERTIES:
-:LAST_REPEAT: [2023-11-09 Thu 07:56]
-:END:
-- State "DONE"       from "ACTIVE"     [2023-11-09 Thu 07:56]
-- Note taken on [2023-10-13 Fri 07:58] \\
-  * To display information about the current Git repository C-x-g
-    or gs (key-chord);
-  * Depending on what state repository is in, this buffer may contain
-    sections titled "Staged changes", "Unstaged changes",
-     "Unmerged into origin/master",
-    "Unpushed to origin/master";
-  * To move file from ustage area to stage area: go  the section named
-    "Unstaged changes" and type s to stage the changes you have made to
-    that file or hunk (piece of hunk).
- 
-  Most Magit commands invoks from the status buffer:
-  F		magit-pull
-  G		magit-refresh-all
-  P		magit-push
-  c		magit-commit
-  f		magit-fetch
-  g		magit-refresh
-  l		magit-log
-  
-How rename last commit:
-Press c (Commit), then a (Amend), edit the message, C-c C-c.
-  
-:LOGBOOK:
-CLOCK: [2023-11-02 Thu 08:58]--[2023-11-02 Thu 09:45] =>  0:47
-CLOCK: [2023-10-13 Fri 07:53]--[2023-10-13 Fri 08:17] =>  0:24
-:END:
+
+* Work
+
+** Professional Preparation
+
+** Portfolio creation
+
+** CV elaboration
+
+* Leasure
+
+
+
+* Events
+
+* Notes
+
+
+
+* Personal
+
+
+
 * TODO Git/Magit merge and rebase concept.
 SCHEDULED: <2023-11-16 Thu>
 
@@ -776,14 +596,6 @@ SCHEDULED: <2023-12-01 Fri>
   tag
   version
 
-* TODO Key-chords from 0--key: each key-chorded command with explanation
-SCHEDULED: <2023-11-15 Wed>
-:LOGBOOK:
-CLOCK: [2023-10-17 Tue 10:13]--[2023-10-17 Tue 10:35] =>  0:22
-CLOCK: [2023-10-10 Tue 18:53]--[2023-10-10 Tue 19:00] =>  0:07
-:END:
-C-h a <command name>
-C-h f
 * ACTIVE Emacs frames
 SCHEDULED: <2023-11-23 Thu>
 - Note taken on [2023-10-13 Fri 08:31] \\
@@ -976,9 +788,9 @@ You can see full result in diff buffer.
 In the Linux terminal it is possible at the same time to compare folder with files:
 $ diff -a -y dir1 dir2
 * RAW activate.sh
-SCHEDULED: <2023-11-13 Mon>
+SCHEDULED: <2023-11-16 Thu>
 * RAW Emacs + venv
-SCHEDULED: <2023-11-13 Mon>
+SCHEDULED: <2023-11-16 Thu>
 * RAW What is CI/CD and how does it work
 SCHEDULED: <2023-11-15 Wed>
 * RAW Elpy installation
@@ -996,7 +808,11 @@ SCHEDULED: <2023-11-13 Mon ++1d>
 
 
 * RAW A Python Q&A Session
-SCHEDULED: <2023-11-13 Mon ++2w>
+SCHEDULED: <2023-11-27 Mon ++2w>
+:PROPERTIES:
+:LAST_REPEAT: [2023-11-13 Mon 13:24]
+:END:
+- State "DONE"       from "ACTIVE"     [2023-11-13 Mon 13:24]
 - Note taken on [2023-11-10 Fri 07:51] \\
   It is deliberately optimized for speed of development—its
   simple syntax, dynamic typing, lack of compile steps,
@@ -1036,7 +852,11 @@ CLOCK: [2023-11-10 Fri 07:49]--[2023-11-10 Fri 09:32] =>  1:43
 :END:
 
 * RAW How Python Runs Programs
-SCHEDULED: <2023-11-13 Mon>
+SCHEDULED: <2023-11-27 Mon ++2w>
+:PROPERTIES:
+:LAST_REPEAT: [2023-11-13 Mon 13:24]
+:END:
+- State "DONE"       from "ACTIVE"     [2023-11-13 Mon 13:24]
 - Note taken on [2023-11-13 Mon 12:21] \\
   An interpreter is
   a kind of program that executes other programs.
@@ -1060,16 +880,17 @@ CLOCK: [2023-11-13 Mon 12:21]--[2023-11-13 Mon 13:06] =>  0:45
 : /home/vikky/git/ballyboe/bookworm/agenda
 
 * RAW How You Run Program
-SCHEDULED: <2023-11-13 Mon>
+SCHEDULED: <2023-11-14 Tue>
 
 * RAW Computer science distilled - Basic
-SCHEDULED: <2023-11-13 Mon>
+SCHEDULED: <2023-11-14 Tue>
 :LOGBOOK:
+CLOCK: [2023-11-13 Mon 13:58]--[2023-11-13 Mon 14:16] =>  0:18
 CLOCK: [2023-11-10 Fri 09:35]--[2023-11-10 Fri 16:29] =>  6:54
 :END:
 
 * RAW Computer science distilled - Complexity
-SCHEDULED: <2023-11-13 Mon>
+SCHEDULED: <2023-11-14 Tue>
 
 * RAW Computer science distilled - Strategy
-SCHEDULED: <2023-11-13 Mon>
+SCHEDULED: <2023-11-14 Tue>
