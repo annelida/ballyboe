@@ -1031,11 +1031,33 @@ SCHEDULED: <2023-11-13 Mon ++2w>
   “script” -  a simpler top-level file.
   “program” to refer to a more sophisticated multifile application.
 :LOGBOOK:
+CLOCK: [2023-11-13 Mon 12:10]--[2023-11-13 Mon 12:21] =>  0:11
 CLOCK: [2023-11-10 Fri 07:49]--[2023-11-10 Fri 09:32] =>  1:43
 :END:
 
 * RAW How Python Runs Programs
 SCHEDULED: <2023-11-13 Mon>
+- Note taken on [2023-11-13 Mon 12:21] \\
+  An interpreter is
+  a kind of program that executes other programs.
+  When you run your script it’s first compiled to
+  something called “byte code” and then routed to something called a “virtual machine.
+  if you’re ever in doubt about how a piece of Python code works, fire up the
+  interactive command line and try it out to see what happens.
+  You can import your module files interactively and run tests 
+ on the tools they define by typing calls at the interactive prompt.
+
+:LOGBOOK:
+CLOCK: [2023-11-13 Mon 12:21]--[2023-11-13 Mon 13:06] =>  0:45
+:END:
+
+#+begin_src python :results output
+  import os
+  print(os.getcwd())
+#+end_src
+
+#+RESULTS:
+: /home/vikky/git/ballyboe/bookworm/agenda
 
 * RAW How You Run Program
 SCHEDULED: <2023-11-13 Mon>
