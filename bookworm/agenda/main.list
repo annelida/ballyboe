@@ -126,7 +126,7 @@ Object's methods are functions that belong to the object.
 
 
 **** TODO [#A] Python Unit test module description and structure.
-SCHEDULED: <2023-11-13 Mon>
+SCHEDULED: <2023-11-16 Thu>
 - Note taken on [2023-10-24 Tue 09:35] \\
   A unit test is a smaller test, that checks
   that a single component operates in the right way.
@@ -724,11 +724,13 @@ SCHEDULED: <2023-12-01 Fri>
   tag
   version
 
-** RAW Speed-typing
-SCHEDULED: <2023-11-13 Mon ++1d>
+** ACTIVE Speed-typing
+SCHEDULED: <2023-11-14 Tue ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-11-11 Sat 17:14]
+:LAST_REPEAT: [2023-11-13 Mon 15:42]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-11-13 Mon 15:42]
+- State "DONE"       from "ACTIVE"     [2023-11-13 Mon 15:41]
 - State "DONE"       from "ACTIVE"     [2023-11-11 Sat 17:14]
 - State "DONE"       from "ACTIVE"     [2023-11-11 Sat 17:14]
 - State "DONE"       from "ACTIVE"     [2023-11-10 Fri 17:13]
