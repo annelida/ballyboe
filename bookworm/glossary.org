@@ -1,0 +1,246 @@
+MY PROJECTS    -*- mode: org; -*-
+#+AUTHOR:    Viktoriia Kosinova
+#+TITLE:     Mental Athlete's Wife ToDo List
+#+SUBTITLE:  Life in a plain text
+#+EMAIL:     viqsiq@gmail.com
+#+LANGUAGE: en
+#+STARTUP: showall indent
+#+PROPERTY: header-args :comments org
+
+* damn 
+having no exceptions or restrictions
+noun
+ 1. проклятие (curse, damn, damnation, goddamn, bane, anathema)
+ 2. ругательство (swearing, curse, swearword, obscenity, swear, damn)
+
+adjective
+ 1. жуткий (eerie, spooky, scary, uncanny, eery, damn)
+ 2. чертовский (damn, devilish, fucking, helluva, damned, plaguy)
+
+ Synonyms:
+ all-out, arrant, blank, blooming
+
+
+#+begin_quote
+I know that two & two make four—and should be
+glad to prove it too if I could—though I must say if
+by any sort of process I could convert 2 & 2 into five
+it would give me much greater pleasure.
+#+end_quote
+
+* probability
+
+вероятность
+
+The quality or state of being likely to occur
+Synonyms:
+liability, likelihood
+
+* counting time
+be counting (down) the minutes/hours/days
+
+* The Big-O Notation
+Is a way to describe the speed or complexity of a given algorithm.
+If your current project demands a predefined algorithm, it's
+important to understand how fast or slow it is compared
+to other options.
+
+* Exponential
+Exponential means growing or increasing very rapidly.
+
+* counting memory
+Method for measuring working memory capacity.
+
+* Recursion
+
+Recursion means "defining a problem in terms of itself".
+This can be a very powerful tool in writing algorithms.
+
+Recursion is the process of defining a problem (or the solution
+to a problem) in terms of (a simpler version of) itself.
+
+* Brute force
+relying on or achieved through the application of force, effort,
+or power in usually large amounts instead of more efficient,
+carefully planned, or precisely directed methods
+
+* Backtracking
+to go back to an earlier point in a sequence
+
+* Heuristics
+Involving or serving as an aid to learning, discovery, or
+problem-solving by experimental and especially trial-and-error
+methods
+
+Arriving at a solution by trying different actions to see if they
+produce the result that is wanted, rather than using strict rules
+
+* Systems programming
+
+System is “a set of things working together as parts of a
+mechanism or an interconnecting network.”
+
+Systems programming involves the development of the individual
+pieces of software that allow the entire system to function
+as a single unit.
+
+* GUI
+A graphical user interface (GUI) is a digital interface in which
+a user interacts with graphical components such as icons, buttons,
+and menus. In a GUI, the visuals displayed in the user interface
+convey information relevant to the user, as well as actions that
+they can take.
+
+* Internet scripting
+A script is a list of commands that are present within
+the code of a website that defines how the website behaves
+in response to certain click requests sent by the user
+
+* Component integration
+The process of ensuring that individual units of code interact
+together according to specifications.
+
+* Rapid prototyping
+Is a group of techniques used to quickly fabricate a scale model
+of a physical part .
+
+* Numeric and Scientific programming
+Discipline that sits at the interface between mathematical
+analysis and scientific computing.
+
+* Frozen binary executables
+Frozen binary executables are packages that combine your
+program's byte code and the Python interpreter into a
+single executable program.
+
+* Dynamic typing interlude
+Dynamic typing means that the type of the variable is determined
+only during runtime.
+
+* abundant
+обильный
+being more than enough without being excessive
+
+adjective
+ 1. богатый (rich, wealthy, affluent, abundant, full, opulent)
+ 2. обильный (abundant, heavy, rich, ample, copious, plenty)
+ 3. изобилующий (full of, abounding, abundant, full, rife, rich
+
+* humble
+
+скромный
+not having or showing any feelings
+of superiority, self-assertiveness, or showiness
+
+adjective
+ 1. скромный (modest, humble, frugal, small, unassuming, lowly)
+ 2. смиренный (humble, meek, submissive)
+ 3. покорный (obedient, submissive, humble, resigned, docile, dutiful)
+ 4. простой (plain, simple, ordinary, elementary, idle, humble)
+ 5. униженный (humiliated, humble, abject, degraded, oppressed, diminished)
+ 6. бедный (poor, lean, penniless, meager, humble, indigent)
+ 7. застенчивый (shy, timid, diffident, bashful, blushing, humble)
+ 8. робкий (timid, shy, fearful, sheepish, gingerly, humble)
+
+* equations
+уравнения
+
+* overflow
+переполнение
+a great flow of water or of something that overwhelms
+
+noun
+ 1. переполнение (overflow, repletion)
+ 2. перелив (overflow)
+ 3. избыток (excess, surplus, abundance, glut, overflow, overabundance)
+
+* flowcharts
+блок-схемы
+
+noun
+ 1. схема (scheme, diagram, circuit, schema, pattern, chart)
+ 2. диаграмма (diagram, chart, figure, graph, pattern, plot)
+ 3. блок-схема (flowchart)
+* dump
+свалка
+
+noun
+ 1. свалка (dump, scramble, melee, scrimmage, rubbish dump, junk yard)
+ 2. отвал (dump, heap, breast, muck)
+ 3. дыра (hole, rent, tear, dump, hollow, bore)
+ 4. деньги (money, cash, currency, dollars, coin, dump)
+ 5. груда хлама (dump)
+ 6. мусорная куча (dump)
+
+    свалка
+
+noun
+ 1. свалка (dump, scramble, melee, scrimmage, rubbish dump, junk yard)
+ 2. отвал (dump, heap, breast, muck)
+ 3. дыра (hole, rent, tear, dump, hollow, bore)
+ 4. деньги (money, cash, currency, dollars, coin, dump)
+ 5. груда хлама (dump)
+ 6. мусорная куча (dump)
+
+    verb
+ 7. сбрасывать (discard, drop, shed, dump, throw, throw off)
+ 8. сваливать (dump, lump, get out, drop, tip, shuffle off)
+ 9. вываливать (throw out, dump, tip out, empty)
+
+* seldom
+
+not often
+   - we ​/seldom/​ go to the theater downtown because its prices are so high
+*** Synonyms:
+    infrequently, little, rarely
+* insofar
+
+насколько
+
+adverb
+ 1. до такой степени (to such an extent, so, that, insofar, insomuch, thus)
+
+
+* pseudocode
+Is a description of the steps in an algorithm using a mix of conventions of
+programming languages (like assignment operator, conditional operator, loop)
+with informal, usually self-explanatory, notation of actions and conditions.
+
+* model
+Is a set of concepts that represents a problem and its char-
+acteristics
+
+* science
+a body of facts learned by study or experience
+* pasture
+пастбище
+
+* barbed
+колючий
+
+adjective
+ 1. колючий (barbed, prickly, spiny, scratchy, thorny, spiky)
+ 2. колкий (caustic, poignant, prickly, barbed, sharp, pointed)
+ 3. с колючками (barbed, prickly)
+ 4. ядовитый (poisonous, venomous, toxic, noxious, toxicant, barbed)
+
+
+* logic
+The thought processes that have been established as leading to valid solutions to problems
+
+*** Synonyms:
+    intellection, ratiocination, reason, reasoning, sense
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
