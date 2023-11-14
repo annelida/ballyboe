@@ -1,3 +1,3 @@
-#/usr/local/bin/python
+#!/usr/local/bin/python
 # The special first line tells the system where the Python interpreter lives
 print('The Bright Side ' + 'of Life...')
