@@ -34,8 +34,9 @@ Searching  your ways and approaches for learning and process information
 
   I define learning methodology simply as your strategical understanding of
   how you receive information to best learn.
+  
 * RAW What is methodology
-SCHEDULED: <2023-11-14 Tue>
+ SCHEDULED: <2023-11-15 Wed ++4d>
 A "methodology" is a system of methods and principles in particular area
 to perform some complex task.
 
@@ -48,7 +49,7 @@ Principle - a basic idea or rule that explains or controls how something happens
 Basic rules or laws.
 
 * RAW What methodology means in learning
-SCHEDULED: <2023-11-16 Thu>
+SCHEDULED: <2023-11-16 Thu ++4d>
 
 Learning methodology is a system of  methods, principles and practices
 used to effective learning.

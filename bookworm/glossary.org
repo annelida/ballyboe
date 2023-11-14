@@ -205,6 +205,8 @@ adverb
 Is a description of the steps in an algorithm using a mix of conventions of
 programming languages (like assignment operator, conditional operator, loop)
 with informal, usually self-explanatory, notation of actions and conditions.
+Pseudocode is human-friendly code that cannot be understood by
+a machine.
 
 * model
 Is a set of concepts that represents a problem and its char-

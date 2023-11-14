@@ -210,14 +210,14 @@ SCHEDULED: <2023-11-16 Thu>
 ** Org-mode
 
 **** RAW [#B] Org-mode, org-babel markup rules
-SCHEDULED: <2023-11-14 Tue>
+SCHEDULED: <2023-11-15 Wed>
 - Note taken on [2023-11-14 Tue 15:13] \\
   [[info:org#Markup for Rich Contents][org#Markup for Rich Contents]]
   [[info:org#Emphasis and Monospace][org#Emphasis and Monospace]]
 
   [[https://orgmode.org/worg/org-contrib/babel/examples/fontify-src-code-blocks.html]]]]
 :LOGBOOK:
-CLOCK: [2023-11-14 Tue 15:06]
+CLOCK: [2023-11-14 Tue 15:06]--[2023-11-14 Tue 15:48] =>  0:42
 :END:
 
 **** TODO Org-Babel configuration.
@@ -731,11 +731,13 @@ SCHEDULED: <2023-12-01 Fri>
   tag
   version
 
-** ACTIVE Speed-typing
-SCHEDULED: <2023-11-14 Tue ++1d>
+** RAW Speed-typing
+SCHEDULED: <2023-11-15 Wed ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-11-13 Mon 15:42]
+:LAST_REPEAT: [2023-11-14 Tue 15:48]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-11-14 Tue 15:48]
+- State "DONE"       from "ACTIVE"     [2023-11-14 Tue 15:48]
 - State "DONE"       from "ACTIVE"     [2023-11-13 Mon 15:42]
 - State "DONE"       from "ACTIVE"     [2023-11-13 Mon 15:41]
 - State "DONE"       from "ACTIVE"     [2023-11-11 Sat 17:14]
@@ -848,17 +850,18 @@ This is known as 'stream redirection'.
 *** Computer science distillled
 
 **** RAW Computer science distilled - Basic
-SCHEDULED: <2023-11-14 Tue>
+SCHEDULED: <2023-11-15 Wed>
 :LOGBOOK:
 CLOCK: [2023-11-13 Mon 13:58]--[2023-11-13 Mon 14:16] =>  0:18
 CLOCK: [2023-11-10 Fri 09:35]--[2023-11-10 Fri 16:29] =>  6:54
 :END:
 
+
 **** RAW Computer science distilled - Complexity
-SCHEDULED: <2023-11-14 Tue>
- 
+SCHEDULED: <2023-11-16 Thu>
+
 **** RAW Computer science distilled - Strategy
-SCHEDULED: <2023-11-14 Tue>
+SCHEDULED: <2023-11-17 Fri>
 * Events
 
 * Notes
