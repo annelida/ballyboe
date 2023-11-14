@@ -22,10 +22,20 @@ SCHEDULED: <2023-11-17 Fri ++4d>
 :LAST_REPEAT: [2023-11-13 Mon 12:03]
 :END:
 - State "DONE"       from "ACTIVE"     [2023-11-13 Mon 12:03]
-:LOGBOOK:
-CLOCK: [2023-11-13 Mon 10:45]--[2023-11-13 Mon 12:02] =>  1:17
-:END:
-* What is methodology
+
+
+Searching  your ways and approaches for learning and process information
+  is a complex and constantly evolving process.
+
+  They can impact how you understand, retain and apply new material.
+
+  However it is utter importance find it to achieving the best learning outcome and
+  your solid base of personal knowledge.
+
+  I define learning methodology simply as your strategical understanding of
+  how you receive information to best learn.
+* RAW What is methodology
+SCHEDULED: <2023-11-14 Tue>
 A "methodology" is a system of methods and principles in particular area
 to perform some complex task.
 
@@ -37,8 +47,8 @@ Method - a particular way of doing something.
 Principle - a basic idea or rule that explains or controls how something happens or works.
 Basic rules or laws.
 
-* What methodology means in learning
-The goal of learning is achieving a solid base of personal knowledge.
+* RAW What methodology means in learning
+SCHEDULED: <2023-11-16 Thu>
 
 Learning methodology is a system of  methods, principles and practices
 used to effective learning.
