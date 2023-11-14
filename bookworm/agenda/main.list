@@ -826,8 +826,18 @@ CLOCK: [2023-11-13 Mon 12:21]--[2023-11-13 Mon 13:06] =>  0:45
 
 
 **** RAW How You Run Program
-SCHEDULED: <2023-11-14 Tue>
+SCHEDULED: <2023-11-15 Wed>
+- Note taken on [2023-11-14 Tue 10:15] \\
+  You can route the output of a Python script to a file
+  to save it for later use:
 
+  #+begin_src sh :results output
+  python script1.py > saveit.txt
+  #+end_src
+:LOGBOOK:
+CLOCK: [2023-11-14 Tue 09:26]--[2023-11-14 Tue 10:52] =>  1:26
+:END:
+This is known as 'stream redirection'.
 *** Computer science distillled
 
 **** RAW Computer science distilled - Basic
