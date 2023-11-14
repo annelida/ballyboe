@@ -211,7 +211,14 @@ SCHEDULED: <2023-11-16 Thu>
 
 **** RAW [#B] Org-mode, org-babel markup rules
 SCHEDULED: <2023-11-14 Tue>
+- Note taken on [2023-11-14 Tue 15:13] \\
+  [[info:org#Markup for Rich Contents][org#Markup for Rich Contents]]
+  [[info:org#Emphasis and Monospace][org#Emphasis and Monospace]]
 
+  [[https://orgmode.org/worg/org-contrib/babel/examples/fontify-src-code-blocks.html]]]]
+:LOGBOOK:
+CLOCK: [2023-11-14 Tue 15:06]
+:END:
 
 **** TODO Org-Babel configuration.
 SCHEDULED: <2023-11-22 Wed ++2w>
