@@ -13,10 +13,11 @@ CLOSED: [2023-10-26 Thu 17:32] SCHEDULED: <2023-10-29 Sun>
 Naturally, by its definition they are the routine, usual and regular
 tasks.
 * RAW [#A] Git commits purification
-SCHEDULED: <2023-11-15 Wed ++1d>
+SCHEDULED: <2023-11-16 Thu ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-11-14 Tue 15:48]
+:LAST_REPEAT: [2023-11-15 Wed 15:56]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-11-15 Wed 15:56]
 - State "DONE"       from "ACTIVE"     [2023-11-14 Tue 15:48]
 - State "DONE"       from "ACTIVE"     [2023-11-13 Mon 15:41]
 - State "DONE"       from "ACTIVE"     [2023-11-11 Sat 17:14]
@@ -46,10 +47,11 @@ SCHEDULED: <2023-11-15 Wed ++1d>
 - State "DONE"       from "ACTIVE"     [2023-10-14 Sat 14:24]
 - State "DONE"       from "ACTIVE"     [2023-10-13 Fri 13:02]
 * RAW *PUSH*
-SCHEDULED: <2023-11-15 Wed ++1d>
+SCHEDULED: <2023-11-16 Thu ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-11-14 Tue 15:48]
+:LAST_REPEAT: [2023-11-15 Wed 15:56]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-11-15 Wed 15:56]
 - State "DONE"       from "ACTIVE"     [2023-11-14 Tue 15:48]
 - State "DONE"       from "ACTIVE"     [2023-11-13 Mon 15:42]
 - State "DONE"       from "ACTIVE"     [2023-11-12 Sun 14:00]
@@ -110,10 +112,11 @@ workspace:
   * x to execute kill
     
 * RAW Workspace clean-up
-SCHEDULED: <2023-11-15 Wed ++1w>
+SCHEDULED: <2023-11-22 Wed ++1w>
 :PROPERTIES:
-:LAST_REPEAT: [2023-11-08 Wed 09:30]
+:LAST_REPEAT: [2023-11-15 Wed 15:56]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-11-15 Wed 15:56]
 - State "DONE"       from "ACTIVE"     [2023-11-08 Wed 09:30]
 - State "DONE"       from "ACTIVE"     [2023-11-01 Wed 15:17]
 - State "DONE"       from "ACTIVE"     [2023-10-25 Wed 11:17]
@@ -143,10 +146,11 @@ workspace:
   At the bottom left, select: Advanced - About ChromeOS - Select Check for updates.
 
 * RAW [#B] Evening meet-up
-SCHEDULED: <2023-11-15 Wed ++1d>
+SCHEDULED: <2023-11-16 Thu ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-11-14 Tue 15:48]
+:LAST_REPEAT: [2023-11-15 Wed 15:56]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-11-15 Wed 15:56]
 - State "DONE"       from "ACTIVE"     [2023-11-14 Tue 15:48]
 - State "DONE"       from "ACTIVE"     [2023-11-13 Mon 15:42]
 - State "DONE"       from "ACTIVE"     [2023-11-12 Sun 14:01]
@@ -177,10 +181,11 @@ SCHEDULED: <2023-11-15 Wed ++1d>
 - State "DONE"       from "ACTIVE"     [2023-10-13 Fri 13:01]
 To discuss actual questions and find answers.
 * RAW Daily taskset schedulling
-SCHEDULED: <2023-11-15 Wed ++1d>
+SCHEDULED: <2023-11-16 Thu ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-11-14 Tue 15:48]
+:LAST_REPEAT: [2023-11-15 Wed 15:57]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-11-15 Wed 15:57]
 - State "DONE"       from "ACTIVE"     [2023-11-14 Tue 15:48]
 - State "DONE"       from "ACTIVE"     [2023-11-13 Mon 15:42]
 - State "DONE"       from "ACTIVE"     [2023-11-11 Sat 17:15]
