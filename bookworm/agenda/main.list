@@ -449,8 +449,13 @@ SCHEDULED: <2023-11-26 Sun>
   the Gemfile and installing the most recent version.
 ** Linux
 
-**** ACTIVE Comparing files and folders in Linux/Emacs
-SCHEDULED: <2023-11-15 Wed>
+**** RAW Comparing files and folders in Linux/Emacs
+SCHEDULED: <2023-12-13 Wed ++2w>
+:PROPERTIES:
+:LAST_REPEAT: [2023-11-15 Wed 09:24]
+:END:
+- State "DONE"       from "ACTIVE"     [2023-11-15 Wed 09:24]
+- State "DONE"       from "ACTIVE"     [2023-11-15 Wed 09:24]
 - Note taken on [2023-10-15 Sun 08:13] \\
 
   In Emacs:
@@ -849,6 +854,7 @@ SCHEDULED: <2023-11-15 Wed>
   python script1.py > saveit.txt
   #+end_src
 :LOGBOOK:
+CLOCK: [2023-11-15 Wed 09:25]--[2023-11-15 Wed 10:47] =>  1:22
 CLOCK: [2023-11-14 Tue 09:26]--[2023-11-14 Tue 10:52] =>  1:26
 :END:
 This is known as 'stream redirection'.
