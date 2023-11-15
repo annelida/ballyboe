@@ -26,27 +26,33 @@ SCHEDULED: <2023-11-17 Fri ++4d>
 
 Searching  your ways and approaches for learning and process information
   is a complex and constantly evolving process.
-
   They can impact how you understand, retain and apply new material.
-
   However it is utter importance find it to achieving the best learning outcome and
   your solid base of personal knowledge.
-
-  I define learning methodology simply as your strategical understanding of
-  how you receive information to best learn.
+  
   
 * RAW What is methodology
- SCHEDULED: <2023-11-15 Wed ++4d>
+ SCHEDULED: <2023-11-19 Sun ++4d>
+ :PROPERTIES:
+ :LAST_REPEAT: [2023-11-15 Wed 09:03]
+ :END:
+ - State "DONE"       from "ACTIVE"     [2023-11-15 Wed 09:03]
+ :LOGBOOK:
+ CLOCK: [2023-11-15 Wed 08:01]--[2023-11-15 Wed 09:03] =>  1:02
+ :END:
 A "methodology" is a system of methods and principles in particular area
 to perform some complex task.
 
-System - a regularly interacting or interdependent group of items forming a unified whole.
+System is a regularly interacting or interdependent group of items forming a unified whole.
 A set of connected things or devices that operate together.
 
-Method - a particular way of doing something.
+Method is a particular way of doing something.
 
-Principle - a basic idea or rule that explains or controls how something happens or works.
+Principle - is a basic idea or rule that explains or controls how something happens or works.
 Basic rules or laws.
+
+  I define learning methodology simply as your strategical understanding of
+  how you receive information to best learn.
 
 * RAW What methodology means in learning
 SCHEDULED: <2023-11-16 Thu ++4d>
@@ -66,7 +72,31 @@ Feyman's technique
 Deliberate practice
 Spaced repetition
 
-* How practically prepare yourself to studying
+* RAW How practically prepare yourself to studying
+SCHEDULED: <2023-11-15 Wed ++4d>
+
+
+Before you start your learning, answer yourself the questions:
+
+1. What do I want to achieve in life?
+2. What are the reasons I chose this specialty?
+3. Where do I want to see myself in 5 years? In 10 yrs?
+4. What do I need to do to reach those goals?
+
+If you feel like you have too much to study or don't know where to start
+break your studying into manageable chunks and create a study plan to help
+you stay organized.
+
+Determine the list of educational material that you need to study.
+Find the best sources for this material.
+For each subject it is necessary to draw up a list of questions that need
+to be studied.
+
+The workplace should be clean without unnecessary objects. So that you are
+not distracted and be able to focus as much as possible.
+Get enough sleep before studying. Eat less can make your brain more clear and easier
+to focus on the task.
+
 * What is the average time you should spend on each session
 
 As an implementation of =double-loop-learning= approach might be
