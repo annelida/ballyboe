@@ -1,0 +1,37 @@
+Import and reload module example
+#+begin_src python :results output
+  import script1
+  from importlib import reload
+  reload(script1)
+#+end_src
+
+#+RESULTS:
+: linux
+: 1267650600228229401496703205376
+: Spam!Spam!Spam!Spam!Spam!Spam!Spam!Spam!
+: linux
+: 1267650600228229401496703205376
+: Spam!Spam!Spam!Spam!Spam!Spam!Spam!Spam!
+
+Access to module attribute
+#+begin_example myfile.py
+title = "The Meaning of Life"
+#+end_example
+
+#+begin_src python :results output
+  import myfile          # Run file; load module as a whole
+  print(myfile.title)    # Use its attribute names: '.' to qualify
+#+end_src
+
+#+RESULTS:
+: The Meaning of Life
+
+the dot expression syntax object.attribute
+
+#+begin_src python :results output
+  from myfile import title   # Run file; copy its names
+  print(title)               # Use name directly: no need to qualify
+#+end_src
+
+#+RESULTS:
+: The Meaning of Life
