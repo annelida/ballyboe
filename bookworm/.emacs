@@ -1,25 +1,3 @@
-(custom-set-variables
- ;; custom-set-variables was added by Custom.
- ;; If you edit it by hand, you could mess it up, so be careful.
- ;; Your init file should contain only one such instance.
- ;; If there is more than one, they won't work right.
- '(custom-enabled-themes '(wombat))
- '(org-agenda-files
-   '("/home/vikky/git/ballyboe/org-blog/2023-11-10-studying-methodology.org" "/home/vikky/git/ballyboe/bookworm/agenda/selenium.list" "/home/vikky/git/ballyboe/bookworm/agenda/Python.list" "/home/vikky/git/ballyboe/bookworm/agenda/main.list" "/home/vikky/git/ballyboe/bookworm/agenda/chores-tasks.list" "/home/vikky/git/ballyboe/bookworm/agenda/personal.list" "/home/vikky/git/ballyboe/bookworm/agenda/lead-tasks.list"))
- '(org-babel-load-languages ''((python . t) '(shell . t)))
- '(package-selected-packages
-   '(pyvenv-auto exec-path-from-shell pyvenv pdf-tools org ordinal magit speed-type dictionary mw-thesaurus voca-builder go-translate key-chord ereader google-translate)))
-(custom-set-faces
- ;; custom-set-faces was added by Custom.
- ;; If you edit it by hand, you could mess it up, so be careful.
- ;; Your init file should contain only one such instance.
- ;; If there is more than one, they won't work right.
- )
-(tool-bar-mode -1)
-(menu-bar-mode -1)
-(scroll-bar-mode -1)
-
-
 (require 'package)
 ;; New 2022 Year and dances with drums around org replacement
 ;;(add-to-list 'package-archives '("org" . "http://orgmode.org/elpa/") t)
@@ -28,6 +6,14 @@
 (add-to-list 'package-archives '("melpa" . "https://melpa.org/packages/") t)
 
 (package-initialize)
+
+
+
+(tool-bar-mode -1)
+(menu-bar-mode -1)
+(scroll-bar-mode -1)
+
+
 
 
 (require 'key-chord)
@@ -147,3 +133,20 @@
   ("jekyll" :components ("jekyll-org" "jekyll-org-img"))
   ))
 ;;
+(custom-set-variables
+ ;; custom-set-variables was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
+;; '(custom-enabled-themes '(wombat))
+ '(org-agenda-files
+   '("/home/vikky/git/ballyboe/org-blog/2023-11-10-studying-methodology.org" "/home/vikky/git/ballyboe/bookworm/agenda/selenium.list" "/home/vikky/git/ballyboe/bookworm/agenda/Python.list" "/home/vikky/git/ballyboe/bookworm/agenda/main.list" "/home/vikky/git/ballyboe/bookworm/agenda/chores-tasks.list" "/home/vikky/git/ballyboe/bookworm/agenda/personal.list" "/home/vikky/git/ballyboe/bookworm/agenda/lead-tasks.list"))
+ 
+ '(package-selected-packages
+   '(pyvenv-auto exec-path-from-shell pyvenv pdf-tools org ordinal magit speed-type dictionary mw-thesaurus voca-builder go-translate key-chord ereader google-translate)))
+(custom-set-faces
+ ;; custom-set-faces was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
+ )
