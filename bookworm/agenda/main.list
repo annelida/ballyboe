@@ -218,11 +218,15 @@ SCHEDULED: <2023-11-29 Wed ++2w>
 **** Window Registers
 
 **** RAW Emacs + venv
-SCHEDULED: <2023-11-16 Thu>
+SCHEDULED: <2023-11-18 Sat>
 ** Org-mode
 
 **** RAW [#B] Org-mode, org-babel markup rules
-SCHEDULED: <2023-11-16 Thu>
+SCHEDULED: <2023-11-30 Thu ++2w>
+:PROPERTIES:
+:LAST_REPEAT: [2023-11-16 Thu 15:33]
+:END:
+- State "DONE"       from "ACTIVE"     [2023-11-16 Thu 15:33]
 - Note taken on [2023-11-14 Tue 15:13] \\
   [[info:org#Markup for Rich Contents][org#Markup for Rich Contents]]
   [[info:org#Emphasis and Monospace][org#Emphasis and Monospace]]
@@ -621,9 +625,14 @@ SCHEDULED: <2023-11-20 Mon>
   * link to original file. For create soft link use command ln -s
 ** Git/Magit
 
-**** TODO Git/Magit merge and rebase concept.
+**** RAW Git/Magit merge and rebase concept.
+:PROPERTIES:
+:LAST_REPEAT: [2023-11-16 Thu 15:34]
+:END:
 
-SCHEDULED: <2023-11-16 Thu>
+- State "DONE"       from "ACTIVE"     [2023-11-16 Thu 15:34]
+- State "DONE"       from "ACTIVE"     [2023-11-16 Thu 15:34]
+SCHEDULED: <2023-12-14 Thu ++2w>
 
   - Note taken on [2023-10-23 Mon 09:48] \\
 
@@ -749,10 +758,11 @@ SCHEDULED: <2023-12-01 Fri>
   version
 
 ** RAW Speed-typing
-SCHEDULED: <2023-11-16 Thu ++1d>
+SCHEDULED: <2023-11-17 Fri ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-11-15 Wed 15:56]
+:LAST_REPEAT: [2023-11-16 Thu 15:35]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-11-16 Thu 15:35]
 - State "DONE"       from "ACTIVE"     [2023-11-15 Wed 15:56]
 - State "DONE"       from "ACTIVE"     [2023-11-14 Tue 15:48]
 - State "DONE"       from "ACTIVE"     [2023-11-14 Tue 15:48]
