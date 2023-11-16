@@ -13,10 +13,11 @@ CLOSED: [2023-10-26 Thu 17:32] SCHEDULED: <2023-10-29 Sun>
 Naturally, by its definition they are the routine, usual and regular
 tasks.
 * RAW [#A] Git commits purification
-SCHEDULED: <2023-11-16 Thu ++1d>
+SCHEDULED: <2023-11-17 Fri ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-11-15 Wed 15:56]
+:LAST_REPEAT: [2023-11-16 Thu 15:35]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-11-16 Thu 15:35]
 - State "DONE"       from "ACTIVE"     [2023-11-15 Wed 15:56]
 - State "DONE"       from "ACTIVE"     [2023-11-14 Tue 15:48]
 - State "DONE"       from "ACTIVE"     [2023-11-13 Mon 15:41]
@@ -47,10 +48,11 @@ SCHEDULED: <2023-11-16 Thu ++1d>
 - State "DONE"       from "ACTIVE"     [2023-10-14 Sat 14:24]
 - State "DONE"       from "ACTIVE"     [2023-10-13 Fri 13:02]
 * RAW *PUSH*
-SCHEDULED: <2023-11-16 Thu ++1d>
+SCHEDULED: <2023-11-17 Fri ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-11-15 Wed 15:56]
+:LAST_REPEAT: [2023-11-16 Thu 15:35]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-11-16 Thu 15:35]
 - State "DONE"       from "ACTIVE"     [2023-11-15 Wed 15:56]
 - State "DONE"       from "ACTIVE"     [2023-11-14 Tue 15:48]
 - State "DONE"       from "ACTIVE"     [2023-11-13 Mon 15:42]
@@ -146,10 +148,11 @@ workspace:
   At the bottom left, select: Advanced - About ChromeOS - Select Check for updates.
 
 * RAW [#B] Evening meet-up
-SCHEDULED: <2023-11-16 Thu ++1d>
+SCHEDULED: <2023-11-17 Fri ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-11-15 Wed 15:56]
+:LAST_REPEAT: [2023-11-16 Thu 15:35]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-11-16 Thu 15:35]
 - State "DONE"       from "ACTIVE"     [2023-11-15 Wed 15:56]
 - State "DONE"       from "ACTIVE"     [2023-11-14 Tue 15:48]
 - State "DONE"       from "ACTIVE"     [2023-11-13 Mon 15:42]
@@ -181,10 +184,11 @@ SCHEDULED: <2023-11-16 Thu ++1d>
 - State "DONE"       from "ACTIVE"     [2023-10-13 Fri 13:01]
 To discuss actual questions and find answers.
 * RAW Daily taskset schedulling
-SCHEDULED: <2023-11-16 Thu ++1d>
+SCHEDULED: <2023-11-17 Fri ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-11-15 Wed 15:57]
+:LAST_REPEAT: [2023-11-16 Thu 15:35]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-11-16 Thu 15:35]
 - State "DONE"       from "ACTIVE"     [2023-11-15 Wed 15:57]
 - State "DONE"       from "ACTIVE"     [2023-11-14 Tue 15:48]
 - State "DONE"       from "ACTIVE"     [2023-11-13 Mon 15:42]
