@@ -26,7 +26,7 @@ title = "The Meaning of Life"
 #+RESULTS:
 : The Meaning of Life
 
-the dot expression syntax object.attribute
+the dot expression syntax =object.attribute=
 
 #+begin_src python :results output
   from myfile import title   # Run file; copy its names
@@ -35,3 +35,28 @@ the dot expression syntax object.attribute
 
 #+RESULTS:
 : The Meaning of Life
+
+#+begin_src python :results output
+  import threenames
+  print(threenames.b, threenames.c)
+  print(dir(threenames))
+#+end_src
+
+#+RESULTS:
+: dead parrot sketch
+: parrot sketch
+: ['__builtins__', '__cached__', '__doc__', '__file__', '__loader__', '__name__', '__package__', '__spec__', 'a', 'b', 'c']
+
+When the =dir= function is called with the name of an imported module
+passed in parentheses like this, it returns all
+the attributes inside that module.
+
+#+begin_src python :results output
+  from threenames import a, b, c
+  print(b, c)
+#+end_src
+
+#+RESULTS:
+: dead parrot sketch
+: parrot sketch
+
