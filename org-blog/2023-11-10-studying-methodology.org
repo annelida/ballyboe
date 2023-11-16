@@ -55,8 +55,12 @@ SCHEDULED: <2023-11-17 Fri ++4d>
  how you receive information to best learn.
 
 * RAW What methodology means in learning
-SCHEDULED: <2023-11-16 Thu ++4d>
+SCHEDULED: <2023-11-20 Mon ++4d>
+:PROPERTIES:
+:LAST_REPEAT: [2023-11-16 Thu 08:30]
+:END:
 
+- State "DONE"       from "ACTIVE"     [2023-11-16 Thu 08:30]
 Learning methodology is a system of  methods, principles and practices
 used to effective learning.
 

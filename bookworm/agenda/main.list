@@ -125,8 +125,12 @@ Object's methods are functions that belong to the object.
 : The student's name is Tony Black
 
 
-**** TODO [#A] Python Unit test module description and structure.
-SCHEDULED: <2023-11-16 Thu>
+**** RAW [#A] Python Unit test module description and structure.
+SCHEDULED: <2023-11-30 Thu ++2w>
+:PROPERTIES:
+:LAST_REPEAT: [2023-11-16 Thu 09:23]
+:END:
+- State "DONE"       from "ACTIVE"     [2023-11-16 Thu 09:23]
 - Note taken on [2023-10-24 Tue 09:35] \\
   A unit test is a smaller test, that checks
   that a single component operates in the right way.
@@ -149,7 +153,7 @@ SCHEDULED: <2023-11-16 Thu>
   in the unittest.TestCase class instead of the
   built-in assert statement
 :LOGBOOK:
-CLOCK: [2023-11-16 Thu 08:30]
+CLOCK: [2023-11-16 Thu 08:30]--[2023-11-16 Thu 09:23] =>  0:53
 CLOCK: [2023-10-25 Wed 09:13]--[2023-10-25 Wed 10:35] =>  1:22
 CLOCK: [2023-10-24 Tue 09:35]--[2023-10-24 Tue 09:50] =>  0:15
 :END:
@@ -849,7 +853,7 @@ CLOCK: [2023-11-13 Mon 12:21]--[2023-11-13 Mon 13:06] =>  0:45
 
 
 **** RAW How You Run Program
-SCHEDULED: <2023-11-16 Thu>
+SCHEDULED: <2023-11-17 Fri>
 - Note taken on [2023-11-15 Wed 09:37] \\
   If you really want to force Python to run the file again
   in the same session without stopping and restarting
@@ -862,7 +866,11 @@ SCHEDULED: <2023-11-16 Thu>
   #+begin_src sh :results output
   python script1.py > saveit.txt
   #+end_src
+
+  #+RESULTS:
+
 :LOGBOOK:
+CLOCK: [2023-11-16 Thu 10:45]--[2023-11-16 Thu 11:19] =>  0:34
 CLOCK: [2023-11-15 Wed 09:25]--[2023-11-15 Wed 10:47] =>  1:22
 CLOCK: [2023-11-14 Tue 09:26]--[2023-11-14 Tue 10:52] =>  1:26
 :END:
@@ -870,15 +878,16 @@ This is known as 'stream redirection'.
 *** Computer science distillled
 
 **** RAW Computer science distilled - Basic
-SCHEDULED: <2023-11-16 Thu>
+SCHEDULED: <2023-11-17 Fri>
 :LOGBOOK:
+CLOCK: [2023-11-16 Thu 09:24]--[2023-11-16 Thu 10:44] =>  1:20
 CLOCK: [2023-11-13 Mon 13:58]--[2023-11-13 Mon 14:16] =>  0:18
 CLOCK: [2023-11-10 Fri 09:35]--[2023-11-10 Fri 16:29] =>  6:54
 :END:
 
 
 **** RAW Computer science distilled - Complexity
-SCHEDULED: <2023-11-16 Thu>
+SCHEDULED: <2023-11-17 Fri>
 
 **** RAW Computer science distilled - Strategy
 SCHEDULED: <2023-11-17 Fri>
