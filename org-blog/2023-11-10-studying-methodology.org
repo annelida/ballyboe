@@ -24,10 +24,10 @@ SCHEDULED: <2023-11-17 Fri ++4d>
 - State "DONE"       from "ACTIVE"     [2023-11-13 Mon 12:03]
 
 
-Searching  your ways and approaches for learning and process information
+  Searching  your ways and approaches for learning and process information
   is a complex and constantly evolving process.
   They can impact how you understand, retain and apply new material.
-  However it is utter importance find it to achieving the best learning outcome and
+  However it is utter importance find it if you want achieve the best learning outcome and
   your solid base of personal knowledge.
   
   
@@ -40,19 +40,19 @@ Searching  your ways and approaches for learning and process information
  :LOGBOOK:
  CLOCK: [2023-11-15 Wed 08:01]--[2023-11-15 Wed 09:03] =>  1:02
  :END:
-A "methodology" is a system of methods and principles in particular area
-to perform some complex task.
+ A "methodology" is a system of methods and principles in particular area
+ to perform some complex task.
 
-System is a regularly interacting or interdependent group of items forming a unified whole.
-A set of connected things or devices that operate together.
+ System is a regularly interacting or interdependent group of items forming a unified whole.
+ A set of connected things or devices that operate together.
 
-Method is a particular way of doing something.
+ Method is a particular way of doing something.
 
-Principle - is a basic idea or rule that explains or controls how something happens or works.
-Basic rules or laws.
+ Principle - is a basic idea or rule that explains or controls how something happens or works.
+ Basic rules or laws.
 
-  I define learning methodology simply as your strategical understanding of
-  how you receive information to best learn.
+ I define learning methodology simply as your strategical understanding of
+ how you receive information to best learn.
 
 * RAW What methodology means in learning
 SCHEDULED: <2023-11-16 Thu ++4d>
@@ -62,7 +62,10 @@ used to effective learning.
 
 In essence it is the learning of how to learn.
 
-Learning methodologies and activities include:
+There are several techniques and learning methods that will not only help in the
+learning process itself, but will help make the learning process more effective and also help
+you achieve the best result.
+They are include:
 
 Double loop learning approach
 Pomodoro technique
@@ -80,6 +83,9 @@ SCHEDULED: <2023-11-19 Sun ++4d>
 
 
 - State "DONE"       from "ACTIVE"     [2023-11-15 Wed 09:24]
+
+Preparing yourself mentally to learn is essential for a successful and
+fulfilling learning process and futher best result.
 Before you start your learning, answer yourself the questions:
 
 1. What do I want to achieve in life?
@@ -101,7 +107,8 @@ not distracted and be able to focus as much as possible.
 Get enough sleep before studying. Eat less can make your brain more clear and easier
 to focus on the task.
 
-* What is the average time you should spend on each session
+* RAW What is the average time you should spend on each session
+SCHEDULED: <2023-11-17 Fri ++4d>
 
 As an implementation of =double-loop-learning= approach might be
 convenient to use these words in your ~TODO~ sequence during studying
@@ -132,7 +139,8 @@ All relevant questions should be questioned while task resolving.
 
 
 
-* Initial chapter dissection
+* RAW Initial chapter dissection
+SCHEDULED: <2023-11-17 Fri>
 
 Describe what you ought to do and in what manner it might be
 implemented.
