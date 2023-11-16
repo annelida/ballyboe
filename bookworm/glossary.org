@@ -266,3 +266,28 @@ noun
 
 
 
+* fuzzy
+
+нечеткий
+
+adjective
+ 1. пушистый (fluffy, fuzzy, furry, downy, cottony, feathery)
+ 2. неясный (unclear, obscure, vague, dim, indistinct, fuzzy)
+ 3. ворсистый (nappy, hairy, fuzzy, fluffy, shaggy, piled)
+ 4. запушенный (fuzzy)
+ 5. неопределенный (uncertain, vague, indefinite, ambiguous,
+    indeterminate, fuzzy
+* biconditional
+a relation between two propositions that is true only when both
+propositions are simultaneously true or false
+* vice-versa
+
+with the order changed : with the relations reversed
+
+наоборот
+
+adverb
+ 1. наоборот (vice versa, on the contrary, conversely, backwards, contrariwise, round)
+ 2. обратно (back, backward, inversely, backwards, vice versa, conversely)
+
+
