@@ -149,22 +149,23 @@ SCHEDULED: <2023-11-16 Thu>
   in the unittest.TestCase class instead of the
   built-in assert statement
 :LOGBOOK:
+CLOCK: [2023-11-16 Thu 08:30]
 CLOCK: [2023-10-25 Wed 09:13]--[2023-10-25 Wed 10:35] =>  1:22
 CLOCK: [2023-10-24 Tue 09:35]--[2023-10-24 Tue 09:50] =>  0:15
 :END:
-[[https://realpython.com/python-testing/][unit test
-]]
+[[https://realpython.com/python-testing/]]]]
+#+begin_example
 def test_sum():
-    assert sum([1, 2, 3]) == 6, "Should be 6"
+   assert sum([1, 2, 3]) == 6, "Should be 6"
 
 def test_sum_tuple():
-    assert sum((1, 2, 2)) == 6, "Should be 6"
+   assert sum((1, 2, 2)) == 6, "Should be 6"
 
 if __name__ == "__main__":
     test_sum()
     test_sum_tuple()
     print("Everything passed")
-
+#+end_example
 To convert the example to a unittest test case:
 
 Import unittest from the standard library
@@ -176,18 +177,21 @@ Change the assertions to use the self.assertEqual() method on
 the TestCase class;
 Change the command-line entry point to call unittest.main()
 
+#+begin_example
 import unittest
 
 class TestSum(unittest.TestCase):
 
     def test_sum(self):
         self.assertEqual(sum(([1, 2, 3])), 6, "Should be 6")
-        
+
     def test_sum_tuple(self):
         self.assertEqual(sum((1, 2, 2)), 6, "Should be 6")
+
 if __name__ == '__main__':
     unittest.main()
-    
+
+#+end_example    
 ** Emacs
 
 **** Interface
