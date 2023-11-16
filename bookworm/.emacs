@@ -70,6 +70,7 @@
 (key-chord-define-global "wd"     'mw-thesaurus-lookup-dwim)
 
 (require 'org-tempo)
+(setq org-confirm-babel-evaluate nil)
 
 ;; (setq org-babel-python-command "python3")
 
