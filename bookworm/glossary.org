@@ -289,5 +289,32 @@ with the order changed : with the relations reversed
 adverb
  1. наоборот (vice versa, on the contrary, conversely, backwards, contrariwise, round)
  2. обратно (back, backward, inversely, backwards, vice versa, conversely)
+* circuit
 
+схема
 
+noun
+ 1. схема (scheme, diagram, circuit, schema, pattern, chart)
+ 2. цепь (chain, circuit, range, network, series, train)
+ 3. контур (circuit, contour, outline, path, profile, line)
+ 4. кругооборот (circuit, cycle, revolution, bout)
+ 5. цикл (cycle, series, round, circle, circuit, tour)
+  
+* permutations
+
+перестановки
+
+noun
+ 1. перестановка (permutation, transposition, rearrangement, reshuffle, shift, reversal)
+ 2. изменение (change, variation, modification, alteration, shift, amendment)
+ 3. перемещение (movement, displacement, motion, transfer, relocation, migration)
+* toss
+
+бросать
+
+verb
+ 1. бросать (throw, cast, drop, quit, toss, fling)
+ 2. вскидывать (throw up, toss, cast up)
+ 3. подниматься и опускаться (heave, toss)
+ 4. кидать (throw, toss, fling, cast, shoot, pitch)
+ 5. швырять (toss, throw, fling, hurl, slam, sling)
