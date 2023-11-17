@@ -13,10 +13,11 @@ CLOSED: [2023-10-26 Thu 17:32] SCHEDULED: <2023-10-29 Sun>
 Naturally, by its definition they are the routine, usual and regular
 tasks.
 * RAW [#A] Git commits purification
-SCHEDULED: <2023-11-17 Fri ++1d>
+SCHEDULED: <2023-11-18 Sat ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-11-16 Thu 15:35]
+:LAST_REPEAT: [2023-11-17 Fri 15:23]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-11-17 Fri 15:23]
 - State "DONE"       from "ACTIVE"     [2023-11-16 Thu 15:35]
 - State "DONE"       from "ACTIVE"     [2023-11-15 Wed 15:56]
 - State "DONE"       from "ACTIVE"     [2023-11-14 Tue 15:48]
@@ -48,10 +49,11 @@ SCHEDULED: <2023-11-17 Fri ++1d>
 - State "DONE"       from "ACTIVE"     [2023-10-14 Sat 14:24]
 - State "DONE"       from "ACTIVE"     [2023-10-13 Fri 13:02]
 * RAW *PUSH*
-SCHEDULED: <2023-11-17 Fri ++1d>
+SCHEDULED: <2023-11-18 Sat ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-11-16 Thu 15:35]
+:LAST_REPEAT: [2023-11-17 Fri 15:23]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-11-17 Fri 15:23]
 - State "DONE"       from "ACTIVE"     [2023-11-16 Thu 15:35]
 - State "DONE"       from "ACTIVE"     [2023-11-15 Wed 15:56]
 - State "DONE"       from "ACTIVE"     [2023-11-14 Tue 15:48]
@@ -88,10 +90,11 @@ necessary to do after some changes need to be shared with me
 urgently. Before push I can't see any changes, because all them are on
 your localhost.
 * RAW Workspace clean-up
-SCHEDULED: <2023-11-17 Fri ++1w>
+SCHEDULED: <2023-11-24 Fri ++1w>
 :PROPERTIES:
-:LAST_REPEAT: [2023-11-10 Fri 17:02]
+:LAST_REPEAT: [2023-11-17 Fri 15:23]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-11-17 Fri 15:23]
 - State "DONE"       from "ACTIVE"     [2023-11-10 Fri 17:02]
 - State "DONE"       from "ACTIVE"     [2023-11-03 Fri 10:13]
 - State "DONE"       from "ACTIVE"     [2023-10-27 Fri 09:39]
@@ -148,10 +151,11 @@ workspace:
   At the bottom left, select: Advanced - About ChromeOS - Select Check for updates.
 
 * RAW [#B] Evening meet-up
-SCHEDULED: <2023-11-17 Fri ++1d>
+SCHEDULED: <2023-11-18 Sat ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-11-16 Thu 15:35]
+:LAST_REPEAT: [2023-11-17 Fri 15:23]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-11-17 Fri 15:23]
 - State "DONE"       from "ACTIVE"     [2023-11-16 Thu 15:35]
 - State "DONE"       from "ACTIVE"     [2023-11-15 Wed 15:56]
 - State "DONE"       from "ACTIVE"     [2023-11-14 Tue 15:48]
@@ -184,10 +188,11 @@ SCHEDULED: <2023-11-17 Fri ++1d>
 - State "DONE"       from "ACTIVE"     [2023-10-13 Fri 13:01]
 To discuss actual questions and find answers.
 * RAW Daily taskset schedulling
-SCHEDULED: <2023-11-17 Fri ++1d>
+SCHEDULED: <2023-11-18 Sat ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-11-16 Thu 15:35]
+:LAST_REPEAT: [2023-11-17 Fri 15:23]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-11-17 Fri 15:23]
 - State "DONE"       from "ACTIVE"     [2023-11-16 Thu 15:35]
 - State "DONE"       from "ACTIVE"     [2023-11-15 Wed 15:57]
 - State "DONE"       from "ACTIVE"     [2023-11-14 Tue 15:48]
