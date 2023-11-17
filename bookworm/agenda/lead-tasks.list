@@ -41,11 +41,13 @@ SCHEDULED: <2023-12-05 Tue ++14d>
 - State "DONE"       from "ACTIVE"     [2023-11-07 Tue 18:19]
 when you do challenging but indispensable tasks by yourself
 * RAW [#A] Help about *Help*
-SCHEDULED: <2023-11-17 Fri ++5d/6d>
+SCHEDULED: <2023-11-27 Mon ++5d/6d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-11-12 Sun 13:59]
+:LAST_REPEAT: [2023-11-17 Fri 15:23]
 :END:
 
+- State "DONE"       from "ACTIVE"     [2023-11-17 Fri 15:23]
+- State "DONE"       from "ACTIVE"     [2023-11-17 Fri 15:22]
 - State "DONE"       from "ACTIVE"     [2023-11-12 Sun 13:59]
 - State "DONE"       from "ACTIVE"     [2023-11-07 Tue 18:20]
 Initially all software was used by the ancient (true) users by its
@@ -54,10 +56,11 @@ Stack-Overflow suggestions and notes. Bear this fact in mind do your
 job as it would be done in a sure and fire manner.
 
 ** RAW [#A] *Python* embedded help system
-SCHEDULED: <2023-11-17 Fri ++2d/3d>
+SCHEDULED: <2023-11-19 Sun ++2d/3d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-11-13 Mon 14:17]
+:LAST_REPEAT: [2023-11-17 Fri 07:54]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-11-17 Fri 07:54]
 - State "DONE"       from "ACTIVE"     [2023-11-13 Mon 14:17]
 - State "DONE"       from "ACTIVE"     [2023-11-11 Sat 17:14]
 - State "DONE"       from "ACTIVE"     [2023-11-09 Thu 18:41]
