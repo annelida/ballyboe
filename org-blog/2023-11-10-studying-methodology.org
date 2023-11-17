@@ -17,10 +17,11 @@ tags: [emacs, org-mode, org-agenda, double-loop-learning]
 #+TODO: RAW INIT TODO ACTIVE | DONE
 
 * RAW Preface
-SCHEDULED: <2023-11-17 Fri ++4d>
+SCHEDULED: <2023-11-21 Tue ++4d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-11-13 Mon 12:03]
+:LAST_REPEAT: [2023-11-17 Fri 08:56]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-11-17 Fri 08:56]
 - State "DONE"       from "ACTIVE"     [2023-11-13 Mon 12:03]
 
 
@@ -92,10 +93,10 @@ Preparing yourself mentally to learn is essential for a successful and
 fulfilling learning process and futher best result.
 Before you start your learning, answer yourself the questions:
 
-1. What do I want to achieve in life?
-2. What are the reasons I chose this specialty?
-3. Where do I want to see myself in 5 years? In 10 yrs?
-4. What do I need to do to reach those goals?
+- What do I want to achieve in life?
+- What are the reasons I chose this specialty?
+- Where do I want to see myself in 5 years? In 10 yrs?
+- What do I need to do to reach those goals?
 
 If you feel like you have too much to study or don't know where to start
 break your studying into manageable chunks and create a study plan to help
@@ -112,8 +113,12 @@ Get enough sleep before studying. Eat less can make your brain more clear and ea
 to focus on the task.
 
 * RAW What is the average time you should spend on each session
-SCHEDULED: <2023-11-17 Fri ++4d>
+SCHEDULED: <2023-11-21 Tue ++4d>
+:PROPERTIES:
+:LAST_REPEAT: [2023-11-17 Fri 08:04]
+:END:
 
+- State "DONE"       from "ACTIVE"     [2023-11-17 Fri 08:04]
 As an implementation of =double-loop-learning= approach might be
 convenient to use these words in your ~TODO~ sequence during studying
 computer science and programming:
@@ -142,19 +147,31 @@ All relevant questions should be questioned while task resolving.
  they a little bit later.
 
 
-
 * RAW Initial chapter dissection
-SCHEDULED: <2023-11-17 Fri>
+SCHEDULED: <2023-11-21 Tue ++4d>
+:PROPERTIES:
+:LAST_REPEAT: [2023-11-17 Fri 08:55]
+:END:
 
-Describe what you ought to do and in what manner it might be
-implemented.
+- State "DONE"       from "ACTIVE"     [2023-11-17 Fri 08:55]
+At the Initial chapter dissection stage, I begin a detailed study of the material:
 
+ - I find the relevant theoretical material;
+ - Determine a list of questions that I need to learn;
+ - Schedule each question;
+ - Start to learn each question in detail using Pomodoro technique
+   and extract of marrow from each studied material;
+ - I write down all the questions that arise. 
+   
+* RAW Deliberate practice 0 session
+SCHEDULED: <2023-11-21 Tue ++4d>
+:PROPERTIES:
+:LAST_REPEAT: [2023-11-17 Fri 08:55]
+:END:
 
-* Deliberate practice 0 session
-
-Describe what you ought to do and in what manner it might be
-implemented.
-
+- State "DONE"       from "ACTIVE"     [2023-11-17 Fri 08:55]
+On this stage I use pseudo tests from the books and practice with them in my Python Interpreter
+and using Org-babel source code opportunity. It partially allows me to understand how it works.
 
 * ToDo session
 
