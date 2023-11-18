@@ -80,7 +80,7 @@ CLOCK: [2023-10-24 Tue 08:07]--[2023-10-24 Tue 09:32] =>  1:25
 
 **** TODO Python classes
 
-SCHEDULED: <2023-11-18 Sat>
+SCHEDULED: <2023-11-22 Wed>
 - Note taken on [2023-11-01 Wed 16:02] \\
   Stock portfolio class clarification.
 :LOGBOOK:
@@ -218,7 +218,7 @@ SCHEDULED: <2023-11-29 Wed ++2w>
 **** Window Registers
 
 **** RAW Emacs + venv
-SCHEDULED: <2023-11-18 Sat>
+SCHEDULED: <2023-11-21 Tue>
 ** Org-mode
 
 **** RAW [#B] Org-mode, org-babel markup rules
@@ -758,10 +758,11 @@ SCHEDULED: <2023-12-01 Fri>
   version
 
 ** RAW Speed-typing
-SCHEDULED: <2023-11-18 Sat ++1d>
+SCHEDULED: <2023-11-19 Sun ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-11-17 Fri 15:22]
+:LAST_REPEAT: [2023-11-18 Sat 13:18]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-11-18 Sat 13:18]
 - State "DONE"       from "ACTIVE"     [2023-11-17 Fri 15:22]
 - State "DONE"       from "ACTIVE"     [2023-11-16 Thu 15:35]
 - State "DONE"       from "ACTIVE"     [2023-11-15 Wed 15:56]
@@ -864,7 +865,7 @@ CLOCK: [2023-11-13 Mon 12:21]--[2023-11-13 Mon 13:06] =>  0:45
 
 
 **** RAW How You Run Program
-SCHEDULED: <2023-11-18 Sat>
+SCHEDULED: <2023-11-20 Mon>
 - Note taken on [2023-11-15 Wed 09:37] \\
   If you really want to force Python to run the file again
   in the same session without stopping and restarting
@@ -889,7 +890,7 @@ This is known as 'stream redirection'.
 *** Computer science distillled
 
 **** RAW Computer science distilled - Basic
-SCHEDULED: <2023-11-18 Sat>
+SCHEDULED: <2023-11-20 Mon>
 :LOGBOOK:
 CLOCK: [2023-11-17 Fri 09:05]--[2023-11-17 Fri 15:21] =>  6:16
 CLOCK: [2023-11-16 Thu 09:24]--[2023-11-16 Thu 10:44] =>  1:20
@@ -899,7 +900,7 @@ CLOCK: [2023-11-10 Fri 09:35]--[2023-11-10 Fri 16:29] =>  6:54
 
 
 **** RAW Computer science distilled - Complexity
-SCHEDULED: <2023-11-18 Sat>
+SCHEDULED: <2023-11-20 Mon>
 
 **** RAW Computer science distilled - Strategy
 SCHEDULED: <2023-11-19 Sun>
