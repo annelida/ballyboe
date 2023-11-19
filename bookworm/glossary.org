@@ -6,6 +6,14 @@
 #+STARTUP: showall indent
 #+PROPERTY: header-args :comments org
 
+* Glossary:
+
+#+begin_quote
+an alphabetical list of /terms or words found in _or relating_ to a
+specific subject/, text, or dialect, with explanations; a brief
+dictionary.
+#+end_quote
+
 * damn 
 having no exceptions or restrictions
 noun
