@@ -31,7 +31,7 @@ MY PROJECTS    -*- mode: org; -*-
 *** Working with transcripts
 
 **** ACTIVE [#C] "How to Learn Anything Fast: Teach Your Brain to Focus"
-SCHEDULED: <2023-11-19 Sun>
+SCHEDULED: <2023-11-26 Sun>
 - Note taken on [2023-10-14 Sat 13:30] \\
   Part I "The neuroscience solution to boredom "
 
@@ -758,10 +758,11 @@ SCHEDULED: <2023-12-01 Fri>
   version
 
 ** RAW Speed-typing
-SCHEDULED: <2023-11-19 Sun ++1d>
+SCHEDULED: <2023-11-20 Mon ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-11-18 Sat 13:18]
+:LAST_REPEAT: [2023-11-19 Sun 12:38]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-11-19 Sun 12:38]
 - State "DONE"       from "ACTIVE"     [2023-11-18 Sat 13:18]
 - State "DONE"       from "ACTIVE"     [2023-11-17 Fri 15:22]
 - State "DONE"       from "ACTIVE"     [2023-11-16 Thu 15:35]
@@ -903,7 +904,7 @@ CLOCK: [2023-11-10 Fri 09:35]--[2023-11-10 Fri 16:29] =>  6:54
 SCHEDULED: <2023-11-20 Mon>
 
 **** RAW Computer science distilled - Strategy
-SCHEDULED: <2023-11-19 Sun>
+SCHEDULED: <2023-11-20 Mon>
 * Events
 
 * Notes

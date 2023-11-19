@@ -33,10 +33,11 @@ SCHEDULED: <2023-11-21 Tue ++4d>
   
   
 * RAW What is methodology
- SCHEDULED: <2023-11-19 Sun ++4d>
+ SCHEDULED: <2023-11-23 Thu ++4d>
  :PROPERTIES:
- :LAST_REPEAT: [2023-11-15 Wed 09:03]
+ :LAST_REPEAT: [2023-11-19 Sun 12:38]
  :END:
+ - State "DONE"       from "ACTIVE"     [2023-11-19 Sun 12:38]
  - State "DONE"       from "ACTIVE"     [2023-11-15 Wed 09:03]
  :LOGBOOK:
  CLOCK: [2023-11-15 Wed 08:01]--[2023-11-15 Wed 09:03] =>  1:02
@@ -81,12 +82,13 @@ Deliberate practice
 Spaced repetition
 
 * RAW How practically prepare yourself to studying
-SCHEDULED: <2023-11-19 Sun ++4d>
+SCHEDULED: <2023-11-23 Thu ++4d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-11-15 Wed 09:24]
+:LAST_REPEAT: [2023-11-19 Sun 12:38]
 :END:
 
 
+- State "DONE"       from "ACTIVE"     [2023-11-19 Sun 12:38]
 - State "DONE"       from "ACTIVE"     [2023-11-15 Wed 09:24]
 
 Preparing yourself mentally to learn is essential for a successful and
