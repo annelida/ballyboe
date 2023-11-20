@@ -57,8 +57,8 @@ or electronic system that is physically *tangible*.
 
 #+begin_example
 A computer program is a sequence or set of instructions in a programming
-language for a computer to execute. It is one component of software, which
-also includes documentation and other *intangible* components.
+language for a computer to execute. It is one component of software,
+which also includes documentation and other *intangible* components.
 #+end_example
 
 *** Source Code
@@ -71,12 +71,13 @@ A computer program in its *human-readable* form is called source code.
 * Science
 
 #+begin_example
-
+Science is a rigorous, systematic study that builds and organizes
+knowledge in the form explanations about the world.
 #+end_example
 
 Science is a rigorous, systematic endeavor that builds and organizes
-knowledge in the form of testable explanations and predictions about the
-world.
+knowledge in the form of testable explanations and predictions about
+the world.
 
 Science is the systematic study of the structure and behaviour of the
 natural and physical world, or knowledge obtained about the world by
@@ -97,10 +98,9 @@ be counting (down) the minutes/hours/days
 
 
 * The Big-O Notation
-Is a way to describe the speed or complexity of a given algorithm.
-If your current project demands a predefined algorithm, it's
-important to understand how fast or slow it is compared
-to other options.
+Is a way to describe the speed or complexity of a given algorithm. If
+your current project demands a predefined algorithm, it's important to
+understand how fast or slow it is compared to other options.
 
 * Exponential
 Exponential means growing or increasing very rapidly.
@@ -110,8 +110,8 @@ Method for measuring working memory capacity.
 
 * Recursion
 
-Recursion means "defining a problem in terms of itself".
-This can be a very powerful tool in writing algorithms.
+Recursion means "defining a problem in terms of itself". This can be
+a very powerful tool in writing algorithms.
 
 Recursion is the process of defining a problem (or the solution
 to a problem) in terms of (a simpler version of) itself.
