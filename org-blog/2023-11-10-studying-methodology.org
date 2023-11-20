@@ -57,29 +57,82 @@ SCHEDULED: <2023-11-21 Tue ++4d>
  how you receive information to best learn.
 
 * RAW What methodology means in learning
-SCHEDULED: <2023-11-20 Mon ++4d>
+SCHEDULED: <2023-11-24 Fri ++4d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-11-16 Thu 08:30]
+:LAST_REPEAT: [2023-11-20 Mon 16:13]
 :END:
 
+- State "DONE"       from "ACTIVE"     [2023-11-20 Mon 16:13]
 - State "DONE"       from "ACTIVE"     [2023-11-16 Thu 08:30]
-Learning methodology is a system of  methods, principles and practices
+Learning methodology is a system of methods, principles and practices
 used to effective learning.
 
 In essence it is the learning of how to learn.
 
-There are several techniques and learning methods that will not only help in the
-learning process itself, but will help make the learning process more effective and also help
-you achieve the best result.
+There are several techniques and learning methods that will not only
+help in the learning process itself, but will help make the learning
+process more effective and also help you achieve the best result.
 They are include:
 
-Double loop learning approach
+Double loop learning - is an iterative model which posits that
+higher-order learning involves two processes or loops.
+
+#+begin_quote
+In double loop learning, problems are examined and corrected even
+though correction requires challenge to underlying policies and
+objectives.
+
+Single loop learning - this form of learning aims at solving the
+increasing changes and the problems that have risen as a consequence
+of this. However, this ignores the real cause of the problem.
+
+Double loop learning - this form of learning will go more deeply into
+the cause of the problem and feedback is used to look at past actions.
+#+end_quote
+
+
 Pomodoro technique
-Brainstorming
-Extract of marrow from each studied material
+
+#+begin_quote
+The Pomodoro Technique is a time management method developed by
+Francesco Cirillo in the late 1980s. It uses a kitchen timer to break
+work into intervals, typically 25 minutes in length, separated by
+short breaks. Each interval is known as a pomodoro
+#+end_quote
+
 Feyman's technique
+
+#+begin_quote
+The Feynman Technique, developed by Richard Feynman, is a study method
+for students to learn through the act of teaching. To use the
+technique, students choose a topic and then explain it in their own
+words as if teaching a sixth-grader. Then, they improve their
+explanations and go through the process again until they have mastered.
+#+end_quote
+
 Deliberate practice
+
+#+begin_quote
+Deliberate practice refers to a special type of practice that is
+purposeful and systematic. While regular practice might include
+mindless repetitions, deliberate practice requires focused attention
+and is conducted with the specific goal of improving performance.
+#+end_quote
+
 Spaced repetition
+
+#+begin_quote
+Spaced repetition is a memory technique that involves reviewing and
+recalling information at optimal spacing intervals until the
+information is learned. It helps your brain remember more information,
+reduces forgetting, and improves long-term memory recall.
+
+"Spaced repetition" is when you repeatedly revisit material at
+designated intervals. Author Barbara Oakley advises using this
+strategy with active recall studying because it will engrain the
+information in your memory better than the same amount of study
+crammed into a single session.
+#+end_quote
 
 * RAW How practically prepare yourself to studying
 SCHEDULED: <2023-11-23 Thu ++4d>
@@ -172,8 +225,9 @@ SCHEDULED: <2023-11-21 Tue ++4d>
 :END:
 
 - State "DONE"       from "ACTIVE"     [2023-11-17 Fri 08:55]
-On this stage I use pseudo tests from the books and practice with them in my Python Interpreter
-and using Org-babel source code opportunity. It partially allows me to understand how it works.
+On this stage I use pseudo tests from the books and practice with them
+in my Python Interpreter and using Org-babel source code
+opportunity. It partially allows me to understand how it works.
 
 * ToDo session
 
