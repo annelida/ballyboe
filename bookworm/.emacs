@@ -139,10 +139,8 @@
  ;; If you edit it by hand, you could mess it up, so be careful.
  ;; Your init file should contain only one such instance.
  ;; If there is more than one, they won't work right.
-;; '(custom-enabled-themes '(wombat))
  '(org-agenda-files
-   '("/home/vikky/git/ballyboe/org-blog/2023-11-10-studying-methodology.org" "/home/vikky/git/ballyboe/bookworm/agenda/selenium.list" "/home/vikky/git/ballyboe/bookworm/agenda/Python.list" "/home/vikky/git/ballyboe/bookworm/agenda/main.list" "/home/vikky/git/ballyboe/bookworm/agenda/chores-tasks.list" "/home/vikky/git/ballyboe/bookworm/agenda/personal.list" "/home/vikky/git/ballyboe/bookworm/agenda/lead-tasks.list"))
- 
+   '("/home/vikky/git/ballyboe/org-blog/2023-11-10-studying-methodology.org" "/home/vikky/git/ballyboe/bookworm/agenda/selenium.list" "/home/vikky/git/ballyboe/bookworm/agenda/main.list" "/home/vikky/git/ballyboe/bookworm/agenda/chores-tasks.list" "/home/vikky/git/ballyboe/bookworm/agenda/personal.list" "/home/vikky/git/ballyboe/bookworm/agenda/lead-tasks.list"))
  '(package-selected-packages
    '(pyvenv-auto exec-path-from-shell pyvenv pdf-tools org ordinal magit speed-type dictionary mw-thesaurus voca-builder go-translate key-chord ereader google-translate)))
 (custom-set-faces
