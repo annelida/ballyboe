@@ -17,10 +17,11 @@ tags: [emacs, org-mode, org-agenda, double-loop-learning]
 #+TODO: RAW INIT TODO ACTIVE | DONE
 
 * RAW Preface
-SCHEDULED: <2023-11-21 Tue ++4d>
+SCHEDULED: <2023-11-25 Sat ++4d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-11-17 Fri 08:56]
+:LAST_REPEAT: [2023-11-21 Tue 18:11]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-11-21 Tue 18:11]
 - State "DONE"       from "ACTIVE"     [2023-11-17 Fri 08:56]
 - State "DONE"       from "ACTIVE"     [2023-11-13 Mon 12:03]
 
@@ -168,11 +169,12 @@ Get enough sleep before studying. Eat less can make your brain more clear and ea
 to focus on the task.
 
 * RAW What is the average time you should spend on each session
-SCHEDULED: <2023-11-21 Tue ++4d>
+SCHEDULED: <2023-11-25 Sat ++4d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-11-17 Fri 08:04]
+:LAST_REPEAT: [2023-11-21 Tue 18:11]
 :END:
 
+- State "DONE"       from "ACTIVE"     [2023-11-21 Tue 18:11]
 - State "DONE"       from "ACTIVE"     [2023-11-17 Fri 08:04]
 As an implementation of =double-loop-learning= approach might be
 convenient to use these words in your ~TODO~ sequence during studying
@@ -203,11 +205,12 @@ All relevant questions should be questioned while task resolving.
 
 
 * RAW Initial chapter dissection
-SCHEDULED: <2023-11-21 Tue ++4d>
+SCHEDULED: <2023-11-25 Sat ++4d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-11-17 Fri 08:55]
+:LAST_REPEAT: [2023-11-21 Tue 18:12]
 :END:
 
+- State "DONE"       from "ACTIVE"     [2023-11-21 Tue 18:12]
 - State "DONE"       from "ACTIVE"     [2023-11-17 Fri 08:55]
 At the Initial chapter dissection stage, I begin a detailed study of the material:
 
@@ -219,11 +222,12 @@ At the Initial chapter dissection stage, I begin a detailed study of the materia
  - I write down all the questions that arise. 
    
 * RAW Deliberate practice 0 session
-SCHEDULED: <2023-11-21 Tue ++4d>
+SCHEDULED: <2023-11-25 Sat ++4d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-11-17 Fri 08:55]
+:LAST_REPEAT: [2023-11-21 Tue 18:12]
 :END:
 
+- State "DONE"       from "ACTIVE"     [2023-11-21 Tue 18:12]
 - State "DONE"       from "ACTIVE"     [2023-11-17 Fri 08:55]
 On this stage I use pseudo tests from the books and practice with them
 in my Python Interpreter and using Org-babel source code
