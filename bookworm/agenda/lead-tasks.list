@@ -10,10 +10,11 @@
 #+TODO: RAW INIT TODO ACTIVE | DONE
 #+TODO: | AMPLE
 * RAW [#A] Genuine source of knowledge
-SCHEDULED: <2023-12-20 Wed ++14d>
+SCHEDULED: <2023-11-22 Wed ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-11-07 Tue 18:20]
+:LAST_REPEAT: [2023-11-21 Tue 18:09]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-11-21 Tue 18:09]
 - State "DONE"       from "ACTIVE"     [2023-11-07 Tue 18:20]
 - State "DONE"       from "ACTIVE"     [2023-11-07 Tue 18:20]
 - State "DONE"       from "ACTIVE"     [2023-11-07 Tue 18:19]
@@ -31,21 +32,23 @@ about how the program works are:
    - in most cases the latter included in a particular package;
    - usually it is available through =Emacs= *info system*;
 
---*Conclusion*: the wisest decision is just to use it properly!
+--* INIT Conclusion*: the wisest decision is just to use it properly!
 * RAW [#A] Deliberate practice
-SCHEDULED: <2023-12-05 Tue ++14d>
+SCHEDULED: <2023-11-22 Wed ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-11-07 Tue 18:20]
+:LAST_REPEAT: [2023-11-21 Tue 18:09]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-11-21 Tue 18:09]
 - State "DONE"       from "ACTIVE"     [2023-11-07 Tue 18:20]
 - State "DONE"       from "ACTIVE"     [2023-11-07 Tue 18:19]
 when you do challenging but indispensable tasks by yourself
 * RAW [#A] Help about *Help*
-SCHEDULED: <2023-11-27 Mon ++5d/6d>
+SCHEDULED: <2023-11-22 Wed ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-11-17 Fri 15:23]
+:LAST_REPEAT: [2023-11-21 Tue 18:09]
 :END:
 
+- State "DONE"       from "ACTIVE"     [2023-11-21 Tue 18:09]
 - State "DONE"       from "ACTIVE"     [2023-11-17 Fri 15:23]
 - State "DONE"       from "ACTIVE"     [2023-11-17 Fri 15:22]
 - State "DONE"       from "ACTIVE"     [2023-11-12 Sun 13:59]
@@ -56,10 +59,11 @@ Stack-Overflow suggestions and notes. Bear this fact in mind do your
 job as it would be done in a sure and fire manner.
 
 ** RAW [#A] *Python* embedded help system
-SCHEDULED: <2023-11-21 Tue ++2d/3d>
+SCHEDULED: <2023-11-23 Thu ++2d/3d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-11-19 Sun 12:38]
+:LAST_REPEAT: [2023-11-21 Tue 18:09]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-11-21 Tue 18:09]
 - State "DONE"       from "ACTIVE"     [2023-11-19 Sun 12:38]
 - State "DONE"       from "ACTIVE"     [2023-11-17 Fri 07:54]
 - State "DONE"       from "ACTIVE"     [2023-11-13 Mon 14:17]
@@ -67,10 +71,11 @@ SCHEDULED: <2023-11-21 Tue ++2d/3d>
 - State "DONE"       from "ACTIVE"     [2023-11-09 Thu 18:41]
 - State "DONE"       from "ACTIVE"     [2023-11-07 Tue 18:21]
 ** RAW [#A] *Selenium* package:
-SCHEDULED: <2023-11-21 Tue ++1d>
+SCHEDULED: <2023-11-22 Wed ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-11-20 Mon 16:20]
+:LAST_REPEAT: [2023-11-21 Tue 18:10]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-11-21 Tue 18:10]
 - State "DONE"       from "ACTIVE"     [2023-11-20 Mon 16:20]
 - State "DONE"       from "ACTIVE"     [2023-11-19 Sun 12:38]
 - State "DONE"       from "ACTIVE"     [2023-11-18 Sat 13:18]
