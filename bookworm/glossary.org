@@ -175,18 +175,27 @@ Dynamic typing means that the type of the variable is determined
 only during runtime.
 
 * pseudocode
-Is a description of the steps in an algorithm using a mix of conventions of
-programming languages (like assignment operator, conditional operator, loop)
-with informal, usually self-explanatory, notation of actions and conditions.
-Pseudocode is human-friendly code that cannot be understood by
-a machine.
+
+Pseudocode is human-friendly code that cannot be understood by a
+machine. Pseudocode expresses computational process.
 
 * model
-Is a set of concepts that represents a problem and its char-
-acteristics
 
-* science
-a body of facts learned by study or experience
+Is a set of concepts that represents a problem and its characteristics.
+
+** concept
+
+#+begin_example
+A concept is an abstract idea. It can defines principles,
+thoughts and beliefs.
+#+end_example
+
+** principle
+
+#+begin_example
+A principle is a basic rule, belief or idea that guides you.
+#+end_example
+
 
 * logic
 The thought processes that have been established as leading to valid solutions to problems
@@ -194,10 +203,6 @@ The thought processes that have been established as leading to valid solutions t
 *** Synonyms:
     intellection, ratiocination, reason, reasoning, sense
 
-* concept
-something imagined or pictured in the mind
-
 * biconditional
 a relation between two propositions that is true only when both
 propositions are simultaneously true or false
-* computer
