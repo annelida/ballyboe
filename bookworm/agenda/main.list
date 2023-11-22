@@ -78,9 +78,13 @@ CLOCK: [2023-10-24 Tue 08:07]--[2023-10-24 Tue 09:32] =>  1:25
 :END:
 
 
-**** TODO Python classes
+**** RAW TODO Python classes
+:PROPERTIES:
+:LAST_REPEAT: [2023-11-22 Wed 14:25]
+:END:
 
-SCHEDULED: <2023-11-22 Wed>
+- State "DONE"       from "Active"     [2023-11-22 Wed 14:25]
+SCHEDULED: <2023-11-29 Wed ++1w>
 - Note taken on [2023-11-01 Wed 16:02] \\
   Stock portfolio class clarification.
 :LOGBOOK:
@@ -236,25 +240,30 @@ SCHEDULED: <2023-11-30 Thu ++2w>
 CLOCK: [2023-11-14 Tue 15:06]--[2023-11-14 Tue 15:48] =>  0:42
 :END:
 
-**** TODO Org-Babel configuration.
-SCHEDULED: <2023-11-22 Wed ++2w>
+**** RAW TODO Org-Babel configuration.
+SCHEDULED: <2023-12-06 Wed ++2w>
 :PROPERTIES:
-:LAST_REPEAT: [2023-11-08 Wed 09:29]
+:LAST_REPEAT: [2023-11-22 Wed 08:46]
 :END:
+- State "DONE"       from "Active"     [2023-11-22 Wed 08:46]
 - State "DONE"       from "ACTIVE"     [2023-11-08 Wed 09:29]
 - Note taken on [2023-10-27 Fri 08:25] \\
   I had problems with running Python3 code using org-babel.
   At first when I run my code I saw the error:
   "Program Python is not found."
 
-  I fixed this error when I installed the package "python-is-python3" on my Debian:
+  I fixed this error when I installed the package "python-is-python3"
+  on my Debian:
 
-  $  apt-get install python-is-python3
+  #+begin_src shell :results output
+    apt-get install python-is-python3
+  #+end_src
 
-  Is a package which makes Python 3 become the default version in Ubuntu/Debian instead of Python 2.
+  Is a package which makes Python 3 become the default version in
+  Ubuntu/Debian instead of Python 2.
 
-  The second problem was that my output was always "None" when I run my code.
-  My source code block looked:
+  The second problem was that my output was always "None" when I run
+  my code.  My source code block looked:
 
   #+begin_src python
   print("hello")
@@ -263,7 +272,7 @@ SCHEDULED: <2023-11-22 Wed ++2w>
   #+RESULTS:
   : None
 
-  I fixed it when added :results output
+  I fixed it when added ==:results output==
 
   #+begin_src python :results output
   print("hello")
@@ -766,10 +775,11 @@ SCHEDULED: <2023-12-01 Fri>
   version
 
 ** RAW Speed-typing
-SCHEDULED: <2023-11-22 Wed ++1d>
+SCHEDULED: <2023-11-23 Thu ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-11-21 Tue 18:12]
+:LAST_REPEAT: [2023-11-22 Wed 14:18]
 :END:
+- State "DONE"       from "Active"     [2023-11-22 Wed 14:18]
 - State "DONE"       from "Active"     [2023-11-21 Tue 18:12]
 - State "DONE"       from "Active"     [2023-11-20 Mon 16:20]
 - State "DONE"       from "ACTIVE"     [2023-11-19 Sun 12:38]
@@ -903,10 +913,11 @@ CLOCK: [2023-11-14 Tue 09:26]--[2023-11-14 Tue 10:52] =>  1:26
 This is known as 'stream redirection'.
 
 *** RAW Types and Operations
-SCHEDULED: <2023-11-22 Wed ++1d>
+SCHEDULED: <2023-11-23 Thu ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-11-21 Tue 18:13]
+:LAST_REPEAT: [2023-11-22 Wed 14:17]
 :END:
+- State "DONE"       from "Active"     [2023-11-22 Wed 14:17]
 - State "DONE"       from "Active"     [2023-11-21 Tue 18:13]
 :LOGBOOK:
 CLOCK: [2023-11-21 Tue 08:57]--[2023-11-21 Tue 11:01] =>  2:04
@@ -914,13 +925,15 @@ CLOCK: [2023-11-21 Tue 08:57]--[2023-11-21 Tue 11:01] =>  2:04
 *** Computer science distillled
 
 **** RAW Computer science distilled - Basic
-SCHEDULED: <2023-11-22 Wed ++1d>
+SCHEDULED: <2023-11-23 Thu ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-11-21 Tue 18:13]
+:LAST_REPEAT: [2023-11-22 Wed 14:18]
 :END:
+- State "DONE"       from "Active"     [2023-11-22 Wed 14:18]
 - State "DONE"       from "Active"     [2023-11-21 Tue 18:13]
 - State "DONE"       from "Active"     [2023-11-20 Mon 09:05]
 :LOGBOOK:
+CLOCK: [2023-11-22 Wed 08:46]--[2023-11-22 Wed 14:17] =>  5:31
 CLOCK: [2023-11-17 Fri 09:05]--[2023-11-17 Fri 15:21] =>  6:16
 CLOCK: [2023-11-16 Thu 09:24]--[2023-11-16 Thu 10:44] =>  1:20
 CLOCK: [2023-11-13 Mon 13:58]--[2023-11-13 Mon 14:16] =>  0:18
@@ -933,6 +946,11 @@ SCHEDULED: <2023-11-27 Mon ++1d>
 
 **** RAW Computer science distilled - Strategy
 SCHEDULED: <2023-11-30 Thu ++1d>
+
+*** "Talk Python to me" podcasts
+
+**** RAW 10 Tips and Tools for Developer Productivity
+SCHEDULED: <2023-11-23 Thu ++1d>
 * Events
 
 * Notes
