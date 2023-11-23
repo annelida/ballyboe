@@ -1,3 +1,12 @@
+
+#+AUTHOR:    Viktoriia Kosinova
+#+TITLE:     Mental Athlete's Wife ToDo List
+#+SUBTITLE:  Life in a plain text
+#+EMAIL:     viqsiq@gmail.com
+#+LANGUAGE: en
+#+STARTUP: showall indent
+#+PROPERTY: header-args :comments org
+
 Import and reload module example
 #+begin_src python :results output
   import script1
@@ -78,3 +87,42 @@ which is initialized from a PYTHONPATH environment variable, plus a
 set of standard directories. If you want to import from a directory
 other than the one you are working in, that directory must generally
 be listed in your PYTHONPATH setting.
+
+* Deliberate practice
+
+** Run program in different ways
+
+#+begin_quote
+Programs. With the text editor of your choice, write a simple module
+file containing the single statement print('Hello module world!') and
+store it as module1.py.  Now, run this file by using any launch option
+you like: running it in IDLE, clicking on its file icon, passing it to
+the Python interpreter on the system shell’s command line (e.g.,
+python module1.py ), built-in exec calls, imports and reloads, and so
+on.  In fact, experiment by running your file with as many of the
+launch techniques discussed in this chapter as you can. Which
+technique seems easiest? (There is no right answer to this, of
+course.)
+#+end_quote
+
+#+begin_src sh :results output
+cat module1.py
+#+end_src
+
+#+RESULTS:
+: print("Hello module world!")
+
+#+begin_src python :results output
+  import module1
+  from importlib import reload
+  reload(module1)
+  exec(open('module1.py').read())
+#+end_src
+
+#+RESULTS:
+: Hello module world!
+: Hello module world!
+: Hello module world!
+
+
+
