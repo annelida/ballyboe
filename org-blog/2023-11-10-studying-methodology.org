@@ -34,10 +34,11 @@ SCHEDULED: <2023-11-25 Sat ++4d>
   
   
 * RAW What is methodology
- SCHEDULED: <2023-11-23 Thu ++4d>
+ SCHEDULED: <2023-11-27 Mon ++4d>
  :PROPERTIES:
- :LAST_REPEAT: [2023-11-19 Sun 12:38]
+ :LAST_REPEAT: [2023-11-23 Thu 11:38]
  :END:
+ - State "DONE"       from "ACTIVE"     [2023-11-23 Thu 11:38]
  - State "DONE"       from "ACTIVE"     [2023-11-19 Sun 12:38]
  - State "DONE"       from "ACTIVE"     [2023-11-15 Wed 09:03]
  :LOGBOOK:
@@ -136,12 +137,13 @@ crammed into a single session.
 #+end_quote
 
 * RAW How practically prepare yourself to studying
-SCHEDULED: <2023-11-23 Thu ++4d>
+SCHEDULED: <2023-11-27 Mon ++4d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-11-19 Sun 12:38]
+:LAST_REPEAT: [2023-11-23 Thu 11:38]
 :END:
 
 
+- State "DONE"       from "ACTIVE"     [2023-11-23 Thu 11:38]
 - State "DONE"       from "ACTIVE"     [2023-11-19 Sun 12:38]
 - State "DONE"       from "ACTIVE"     [2023-11-15 Wed 09:24]
 
