@@ -100,3 +100,23 @@ module contains more advanced numeric tools as functions, while the
 : Spamxyz
 : Spam
 : SpamSpamSpamSpamSpamSpamSpamSpam
+
+** Immutability
+
+#+begin_src python :resuls output
+  B = 'Banana'
+  B[0] = 'z'      # Immutable objects cannot be changed
+#+end_src
+
+#+RESULTS:
+TypeError: 'str' object does not support item assignment
+
+#+begin_src python :results output
+  B = 'Banana'
+  B = 'z' + B[1:] # But we can make new object
+  print(B)
+#+end_src
+
+#+RESULTS:
+: zanana
+
