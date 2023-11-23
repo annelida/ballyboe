@@ -85,6 +85,9 @@ module contains more advanced numeric tools as functions, while the
   print(S[:3])        # Same as S[0:3]
   print(S[:-1])       # Everything but the last again, but simpler
   print(S[:])         # All of S
+  print(S + 'xyz')    #Concatenation
+  print(S)            #S is unchanged
+  print(S * 8)        #Repetition
 #+end_src
 
 #+RESULTS:
@@ -94,3 +97,6 @@ module contains more advanced numeric tools as functions, while the
 : Spa
 : Spa
 : Spam
+: Spamxyz
+: Spam
+: SpamSpamSpamSpamSpamSpamSpamSpam
