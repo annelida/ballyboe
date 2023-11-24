@@ -120,3 +120,16 @@ TypeError: 'str' object does not support item assignment
 #+RESULTS:
 : zanana
 
+** Type-specific methods
+
+#+begin_src python :results output
+  C = 'Coconut'
+  print(C.find('nut'))  # Find the offset of a substring
+  print(C.replace('nut', 'XYZ'))  # Replace occurrences of a substring with another
+  print(C)
+#+end_src
+
+#+RESULTS:
+: 4
+: CocoXYZ
+: Coconut
