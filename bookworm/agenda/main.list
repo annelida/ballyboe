@@ -60,8 +60,8 @@ CLOCK: [2023-10-14 Sat 13:30]--[2023-10-14 Sat 14:03] =>  0:33
 
 ** Python
 
-**** TODO [#A] Python: modules, relative import. 
-SCHEDULED: <2023-11-24 Fri>
+**** Init TODO [#A] Python: modules, relative import. 
+SCHEDULED: <2023-12-25 Mon>
 - Note taken on [2023-10-24 Tue 08:54] \\
   A Python module is a file that has a .py extension, and a Python
   package is any folder that has modules inside it.
@@ -222,9 +222,9 @@ SCHEDULED: <2023-11-29 Wed ++2w>
 **** Window Registers
 
 **** RAW Emacs + venv
-SCHEDULED: <2023-11-24 Fri>
-**** RAW Elpy description 
-SCHEDULED: <2023-11-24 Fri ++1d>
+SCHEDULED: <2023-12-02 Sat>
+**** DP0 Elpy
+SCHEDULED: <2023-11-25 Sat>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-23 Thu 15:54]
 :END:
@@ -293,7 +293,9 @@ CLOCK: [2023-10-26 Thu 07:54]--[2023-10-26 Thu 08:52] =>  0:58
 :END:
 [[https://www.youtube.com/watch?v=kkqVTDbfYp4][org-babel configuration]]
 [[https://orgmode.org/manual/Structure-Templates.html][org templates structure]]
- 
+
+*** DP0 Org-drill
+SCHEDULED: <2023-11-25 Sat>
 ** Jekyll
 
 **** TODO [#B] Org-Jekyll - configuration options
@@ -459,7 +461,7 @@ Result you can see on [[https://annelida.github.io/]]
 
 
 **** RAW TODO [#A] Explorations in details page's structure in Jekyll.
-SCHEDULED: <2023-11-24 Fri ++4d>
+SCHEDULED: <2023-12-05 Tue>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-20 Mon 16:18]
 :END:
@@ -783,7 +785,7 @@ SCHEDULED: <2023-12-01 Fri>
   tag
   version
 
-** RAW Speed-typing
+** Todo Speed-typing
 SCHEDULED: <2023-11-24 Fri ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-23 Thu 15:54]
@@ -805,7 +807,6 @@ SCHEDULED: <2023-11-24 Fri ++1d>
 - State "DONE"       from "ACTIVE"     [2023-11-11 Sat 17:14]
 - State "DONE"       from "ACTIVE"     [2023-11-10 Fri 17:13]
 - State "DONE"       from "ACTIVE"     [2023-11-09 Thu 18:42]
-
 
 * Work
 
@@ -893,9 +894,8 @@ CLOCK: [2023-11-13 Mon 12:21]--[2023-11-13 Mon 13:06] =>  0:45
 #+RESULTS:
 : /home/vikky/git/ballyboe/bookworm/agenda
 
-
-**** RAW How You Run Program
-SCHEDULED: <2023-11-25 Sat ++2d>
+**** DP1 How do you run program.
+SCHEDULED: <2023-11-25 Sat>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-23 Thu 10:43]
 :END:
@@ -924,48 +924,30 @@ CLOCK: [2023-11-14 Tue 09:26]--[2023-11-14 Tue 10:52] =>  1:26
 :END:
 This is known as 'stream redirection'.
 
-*** RAW Types and Operations
-SCHEDULED: <2023-11-24 Fri ++1d>
-:PROPERTIES:
-:LAST_REPEAT: [2023-11-23 Thu 11:37]
-:END:
-- State "DONE"       from "Active"     [2023-11-23 Thu 11:37]
-- State "DONE"       from "Active"     [2023-11-22 Wed 14:17]
-- State "DONE"       from "Active"     [2023-11-21 Tue 18:13]
+**** Init Python object types
+***** Init Python strings methods
+****** DP0 Python string type-specific methods
+SCHEDULED: <2023-11-25 Sat>
 :LOGBOOK:
-CLOCK: [2023-11-23 Thu 10:44]--[2023-11-23 Thu 11:37] =>  0:53
-CLOCK: [2023-11-21 Tue 08:57]--[2023-11-21 Tue 11:01] =>  2:04
+CLOCK: [2023-11-24 Fri 14:29]--[2023-11-24 Fri 14:52] =>  0:23
 :END:
+
 *** Computer science distillled
 
 **** RAW Computer science distilled - Basic
-SCHEDULED: <2023-11-24 Fri ++1d>
-:PROPERTIES:
-:LAST_REPEAT: [2023-11-23 Thu 14:58]
-:END:
-- State "DONE"       from "Active"     [2023-11-23 Thu 14:58]
-- State "DONE"       from "Active"     [2023-11-22 Wed 14:18]
-- State "DONE"       from "Active"     [2023-11-21 Tue 18:13]
-- State "DONE"       from "Active"     [2023-11-20 Mon 09:05]
-:LOGBOOK:
-CLOCK: [2023-11-22 Wed 08:46]--[2023-11-22 Wed 14:17] =>  5:31
-CLOCK: [2023-11-17 Fri 09:05]--[2023-11-17 Fri 15:21] =>  6:16
-CLOCK: [2023-11-16 Thu 09:24]--[2023-11-16 Thu 10:44] =>  1:20
-CLOCK: [2023-11-13 Mon 13:58]--[2023-11-13 Mon 14:16] =>  0:18
-CLOCK: [2023-11-10 Fri 09:35]--[2023-11-10 Fri 16:29] =>  6:54
-:END:
 
+***** Init Mathematical Model
+SCHEDULED: <2023-11-25 Sat>
 
-**** Init Computer science distilled - Complexity
-SCHEDULED: <2023-11-27 Mon ++1d>
-
+**** RAW Computer science distilled - Complexity
+SCHEDULED: <2023-11-28 Tue ++1d>
 **** RAW Computer science distilled - Strategy
 SCHEDULED: <2023-11-30 Thu ++1d>
 
 *** "Talk Python to me" podcasts
 
-**** RAW 10 Tips and Tools for Developer Productivity
-SCHEDULED: <2023-11-24 Fri ++1d>
+**** Init Transcript 10 Tips and Tools for Developer Productivity
+SCHEDULED: <2023-11-25 Sat>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-23 Thu 15:54]
 :END:
