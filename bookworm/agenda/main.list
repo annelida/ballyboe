@@ -31,7 +31,7 @@ MY PROJECTS    -*- mode: org; -*-
 *** Working with transcripts
 
 **** ACTIVE [#C] "How to Learn Anything Fast: Teach Your Brain to Focus"
-SCHEDULED: <2023-11-26 Sun>
+SCHEDULED: <2023-11-27 Mon>
 - Note taken on [2023-10-14 Sat 13:30] \\
   Part I "The neuroscience solution to boredom "
 
@@ -223,8 +223,8 @@ SCHEDULED: <2023-11-29 Wed ++2w>
 
 **** RAW Emacs + venv
 SCHEDULED: <2023-12-02 Sat>
-**** DP0 Elpy
-SCHEDULED: <2023-11-25 Sat>
+**** DP0 [#A] Elpy
+SCHEDULED: <2023-11-27 Mon>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-23 Thu 15:54]
 :END:
@@ -295,7 +295,7 @@ CLOCK: [2023-10-26 Thu 07:54]--[2023-10-26 Thu 08:52] =>  0:58
 [[https://orgmode.org/manual/Structure-Templates.html][org templates structure]]
 
 *** DP0 Org-drill
-SCHEDULED: <2023-11-25 Sat>
+SCHEDULED: <2023-11-28 Tue>
 ** Jekyll
 
 **** TODO [#B] Org-Jekyll - configuration options
@@ -478,9 +478,13 @@ CLOCK: [2023-10-22 Sun 08:21]--[2023-10-22 Sun 08:34] =>  0:13
 :END:
 
 
-**** TODO What is Jekyll's Gemfile.lock (full clarification).
-SCHEDULED: <2023-11-26 Sun>
+**** RAW TODO What is Jekyll's Gemfile.lock (full clarification).
+SCHEDULED: <2023-12-23 Sat ++4w>
+:PROPERTIES:
+:LAST_REPEAT: [2023-11-27 Mon 10:07]
+:END:
 
+- State "DONE"       from "Active"     [2023-11-27 Mon 10:07]
 - Note taken on [2023-10-20 Fri 08:33] \\
   The Gemfile.lock file is where Bundler records the exact
   versions that were installed. This way, when the same library/project
@@ -785,11 +789,12 @@ SCHEDULED: <2023-12-01 Fri>
   tag
   version
 
-** Todo Speed-typing
-SCHEDULED: <2023-11-24 Fri ++1d>
+** DP1 Speed-typing
+SCHEDULED: <2023-11-27 Mon ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-11-23 Thu 15:54]
+:LAST_REPEAT: [2023-11-25 Sat 17:47]
 :END:
+- State "DONE"       from "Active"     [2023-11-25 Sat 17:47]
 - State "DONE"       from "Active"     [2023-11-23 Thu 15:54]
 - State "DONE"       from "Active"     [2023-11-22 Wed 14:18]
 - State "DONE"       from "Active"     [2023-11-21 Tue 18:12]
@@ -821,7 +826,7 @@ SCHEDULED: <2023-11-24 Fri ++1d>
 * Books
 *** Learning Python
 
-**** RAW A Python Q&A Session
+**** Todo A Python Q&A Session
 SCHEDULED: <2023-11-27 Mon ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-13 Mon 13:24]
@@ -866,7 +871,7 @@ CLOCK: [2023-11-10 Fri 07:49]--[2023-11-10 Fri 09:32] =>  1:43
 :END:
 
  
-**** RAW How Python Runs Programs
+**** Todo How Python Runs Programs
 SCHEDULED: <2023-11-27 Mon ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-13 Mon 13:24]
@@ -895,7 +900,7 @@ CLOCK: [2023-11-13 Mon 12:21]--[2023-11-13 Mon 13:06] =>  0:45
 : /home/vikky/git/ballyboe/bookworm/agenda
 
 **** DP1 How do you run program.
-SCHEDULED: <2023-11-25 Sat>
+SCHEDULED: <2023-11-27 Mon>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-23 Thu 10:43]
 :END:
@@ -927,7 +932,7 @@ This is known as 'stream redirection'.
 **** Init Python object types
 ***** Init Python strings methods
 ****** DP0 Python string type-specific methods
-SCHEDULED: <2023-11-25 Sat>
+SCHEDULED: <2023-11-27 Mon>
 :LOGBOOK:
 CLOCK: [2023-11-24 Fri 14:29]--[2023-11-24 Fri 14:52] =>  0:23
 :END:
@@ -937,7 +942,7 @@ CLOCK: [2023-11-24 Fri 14:29]--[2023-11-24 Fri 14:52] =>  0:23
 **** RAW Computer science distilled - Basic
 
 ***** Init Mathematical Model
-SCHEDULED: <2023-11-25 Sat>
+SCHEDULED: <2023-11-27 Mon>
 
 **** RAW Computer science distilled - Complexity
 SCHEDULED: <2023-11-28 Tue ++1d>
@@ -947,7 +952,7 @@ SCHEDULED: <2023-11-30 Thu ++1d>
 *** "Talk Python to me" podcasts
 
 **** Init Transcript 10 Tips and Tools for Developer Productivity
-SCHEDULED: <2023-11-25 Sat>
+SCHEDULED: <2023-11-27 Mon>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-23 Thu 15:54]
 :END:
