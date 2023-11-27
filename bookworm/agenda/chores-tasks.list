@@ -13,10 +13,11 @@ CLOSED: [2023-10-26 Thu 17:32] SCHEDULED: <2023-10-29 Sun>
 Naturally, by its definition they are the routine, usual and regular
 tasks.
 * RAW [#A] Git commits purification
-SCHEDULED: <2023-11-27 Mon ++1d>
+SCHEDULED: <2023-11-28 Tue ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-11-24 Fri 14:57]
+:LAST_REPEAT: [2023-11-27 Mon 17:36]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-11-27 Mon 17:36]
 - State "DONE"       from "ACTIVE"     [2023-11-24 Fri 14:57]
 - State "DONE"       from "ACTIVE"     [2023-11-23 Thu 15:54]
 - State "DONE"       from "ACTIVE"     [2023-11-22 Wed 14:18]
@@ -56,10 +57,11 @@ SCHEDULED: <2023-11-27 Mon ++1d>
 - State "DONE"       from "ACTIVE"     [2023-10-14 Sat 14:24]
 - State "DONE"       from "ACTIVE"     [2023-10-13 Fri 13:02]
 * RAW *PUSH*
-SCHEDULED: <2023-11-27 Mon ++1d>
+SCHEDULED: <2023-11-28 Tue ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-11-24 Fri 14:52]
+:LAST_REPEAT: [2023-11-27 Mon 17:35]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-11-27 Mon 17:35]
 - State "DONE"       from "ACTIVE"     [2023-11-24 Fri 14:52]
 - State "DONE"       from "ACTIVE"     [2023-11-23 Thu 15:54]
 - State "DONE"       from "ACTIVE"     [2023-11-22 Wed 14:18]
@@ -211,10 +213,11 @@ SCHEDULED: <2023-11-28 Tue ++1d>
 - State "DONE"       from "ACTIVE"     [2023-10-13 Fri 13:01]
 To discuss actual questions and find answers.
 * RAW Daily taskset schedulling
-SCHEDULED: <2023-11-27 Mon ++1d>
+SCHEDULED: <2023-11-28 Tue ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-11-24 Fri 14:52]
+:LAST_REPEAT: [2023-11-27 Mon 17:35]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-11-27 Mon 17:35]
 - State "DONE"       from "ACTIVE"     [2023-11-24 Fri 14:52]
 - State "DONE"       from "ACTIVE"     [2023-11-23 Thu 15:54]
 - State "DONE"       from "ACTIVE"     [2023-11-22 Wed 14:19]
@@ -256,10 +259,11 @@ SCHEDULED: <2023-11-27 Mon ++1d>
 It might be required several times a day, but first time in the early
 morning.
 * RAW Tomorrow's agenda brush-up
-SCHEDULED: <2023-11-27 Mon ++1d>
+SCHEDULED: <2023-11-28 Tue ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-11-24 Fri 14:52]
+:LAST_REPEAT: [2023-11-27 Mon 17:36]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-11-27 Mon 17:36]
 - State "DONE"       from "ACTIVE"     [2023-11-24 Fri 14:52]
 - State "DONE"       from "ACTIVE"     [2023-11-23 Thu 15:54]
 - State "DONE"       from "ACTIVE"     [2023-11-22 Wed 14:19]
