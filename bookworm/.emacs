@@ -151,5 +151,4 @@
  )
 
 (require 'elpy)
-(package-initialize)
 (elpy-enable)
