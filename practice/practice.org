@@ -124,5 +124,59 @@ cat module1.py
 : Hello module world!
 : Hello module world!
 
+** Import variations
+
+#+begin_quote
+Modules. Start the Python interactive command line ( >>> prompt) and
+import the module you wrote in exercise 2. Try moving the file to a
+different directory and importing it again from its original directory
+(i.e., run Python in the original di- rectory when you import). What
+happens? (Hint: is there still a module1.pyc byte code file in the
+original directory?)
+#+end_quote
+
+#+begin_src sh :results output
+  mv module1.py test_projects
+  cd test_projects/
+  ls
+#+end_src
+
+#+RESULTS:
+: module1.py
+
+#+begin_src sh :results output
+  cd practice/
+  ls
+#+end_src
+
+#+RESULTS:
+#+begin_example
+brian
+module1.py~
+myfile.py
+practice.org
+__pycache__
+script1.py
+test_projects
+tests.org
+test_str_im.py
+test_str.py
+test_sum.py
+threenames.py
+types_operations.org
+#+end_example
+
+#+begin_src python :results output
+import module1
+#+end_src
+
+#+RESULTS:
+ModuleNotFoundError: No module named 'module1'
 
 
+#+begin_src python :results output
+from test_projects import module1
+#+end_src
+
+#+RESULTS:
+: Hello module world!
