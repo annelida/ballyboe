@@ -23,8 +23,11 @@ words or terms to define it; the /tree-like structure/ of ~Org~ file
 allows to visualize this relationship with no interruptions.
 
 
+* Definition 1                                                        :drill:
 
-* Computer
+Computer
+
+** Answer
 A computer is a programmable device that stores, retrieves, and
 processes data.
 
@@ -32,177 +35,149 @@ A computer is a machine or device that performs processes,
 calculations and operations based on instructions provided by a
 software or hardware program.
 
-** Software
-Software is a set of computer programs and associated documentation
-and data.
+* Definition 2                                                        :drill:
 
-Software is a set of instructions, data, or programs used to operate a
-computer and execute specific tasks.
-#+begin_example
-Software is a set of computer programs and associated documentation
-and data used to operate computer and execute specific task.
-#+end_example
+Software
 
-** Hardware
+** Answer
+
+Software is a set of computer programs, instructions, associated
+documentation and data.
+
+* Definition 3                                                        :drill:
+
+Hardware
+
+** Answer
+
 Hardware (H/W), in the context of technology, refers to the physical
-elements that make up a computer or electronic system and everything else
-involved that is physically tangible.
+elements that make up a computer or electronic system and everything
+else involved that is physically tangible.
 
-#+begin_example
-Hardware (H/W) refers to the physical elements that make up a computer
-or electronic system that is physically *tangible*.
-#+end_example
+* Definition 4                                                        :drill:
 
-** Computer program
+Computer program
 
-#+begin_example
-A computer program is a sequence or set of instructions in a programming
-language for a computer to execute. It is one component of software,
-which also includes documentation and other *intangible* components.
-#+end_example
+** Answer
 
-*** Source Code
+A computer program is a sequence or set of instructions in a
+programming language for a computer to execute. It is one component of
+software, which also includes documentation and other *intangible*
+components.
 
-#+begin_src 
+* Definition 5                                                        :drill:
+
+Source code
+
+** Answer
+
 A computer program in its *human-readable* form is called source code.
-#+end_src
 
+* Definition 6                                                        :drill:
 
-* Science
+Science
 
-#+begin_example
+** Answer
+
 Science is a rigorous, systematic study that builds and organizes
 knowledge in the form explanations about the world.
-#+end_example
 
-Science is a rigorous, systematic endeavor that builds and organizes
-knowledge in the form of testable explanations and predictions about
-the world.
+* Definition 7                                                        :drill:
 
-Science is the systematic study of the structure and behaviour of the
-natural and physical world, or knowledge obtained about the world by
-watching it carefully and experimenting. 
+Computer Science
 
-* Computer Science
+** Answer
 
 Computer science is the study of computers and computing, including
 their theoretical and algorithmic foundations, hardware and software,
 and their uses for processing information.
 
-Computer science is the study of computers and how they work,
-including software, hardware, and algorithms. An algorithm is a list
-of instructions for completing a task.
+* Definition 8                                                        :drill:
 
-* counting time
-be counting (down) the minutes/hours/days
+The Big-O Notation
 
+** Answer
 
-* The Big-O Notation
 Is a way to describe the speed or complexity of a given algorithm. If
 your current project demands a predefined algorithm, it's important to
 understand how fast or slow it is compared to other options.
 
-* Exponential
-Exponential means growing or increasing very rapidly.
+* Definition 9                                                        :drill:
 
-* counting memory
-Method for measuring working memory capacity.
+Systems programming
 
-* Recursion
+** Answer
 
-Recursion means "defining a problem in terms of itself". This can be
-a very powerful tool in writing algorithms.
+System is “a set of things working together as parts of a mechanism or
+an interconnecting network.”
 
-Recursion is the process of defining a problem (or the solution
-to a problem) in terms of (a simpler version of) itself.
+Systems programming involves the development of the individual pieces
+of software that allow the entire system to function as a single unit.
 
-* Brute force
-relying on or achieved through the application of force, effort,
-or power in usually large amounts instead of more efficient,
-carefully planned, or precisely directed methods
+* Definition 10                                                       :drill:
 
-* Backtracking
-to go back to an earlier point in a sequence
+GUI
 
-* Heuristics
-Involving or serving as an aid to learning, discovery, or
-problem-solving by experimental and especially trial-and-error
-methods
+** Answer
 
-Arriving at a solution by trying different actions to see if they
-produce the result that is wanted, rather than using strict rules
+A graphical user interface (GUI) is a digital interface in which a
+user interacts with graphical components such as icons, buttons, and
+menus. In a GUI, the visuals displayed in the user interface convey
+information relevant to the user, as well as actions that they can
+take.
 
-* Systems programming
+* Definition 11                                                       :drill:
 
-System is “a set of things working together as parts of a
-mechanism or an interconnecting network.”
+Internet scripting
 
-Systems programming involves the development of the individual
-pieces of software that allow the entire system to function
-as a single unit.
+** Answer
 
-* GUI
-A graphical user interface (GUI) is a digital interface in which
-a user interacts with graphical components such as icons, buttons,
-and menus. In a GUI, the visuals displayed in the user interface
-convey information relevant to the user, as well as actions that
-they can take.
+A script is a list of commands that are present within the code of a
+website that defines how the website behaves in response to certain
+click requests sent by the user
 
-* Internet scripting
-A script is a list of commands that are present within
-the code of a website that defines how the website behaves
-in response to certain click requests sent by the user
+* Definition 11                                                       :drill:
 
-* Component integration
-The process of ensuring that individual units of code interact
-together according to specifications.
+Pseudocode
 
-* Rapid prototyping
-Is a group of techniques used to quickly fabricate a scale model
-of a physical part .
-
-* Numeric and Scientific programming
-Discipline that sits at the interface between mathematical
-analysis and scientific computing.
-
-* Frozen binary executables
-Frozen binary executables are packages that combine your
-program's byte code and the Python interpreter into a
-single executable program.
-
-* Dynamic typing interlude
-Dynamic typing means that the type of the variable is determined
-only during runtime.
-
-* pseudocode
+** Answer
 
 Pseudocode is human-friendly code that cannot be understood by a
 machine. Pseudocode expresses computational process.
 
-* model
+* Definition 12                                                       :drill:
 
+Model
+
+** Answer
 Is a set of concepts that represents a problem and its characteristics.
 
-** concept
+* Definition 13                                                       :drill:
 
-#+begin_example
-A concept is an abstract idea. It can defines principles,
-thoughts and beliefs.
-#+end_example
+Principle
 
-** principle
+** Answer
 
-#+begin_example
 A principle is a basic rule, belief or idea that guides you.
-#+end_example
 
 
-* logic
-The thought processes that have been established as leading to valid solutions to problems
+* Definition 14                                                       :drill:
 
-*** Synonyms:
-    intellection, ratiocination, reason, reasoning, sense
+Logic
 
-* biconditional
-a relation between two propositions that is true only when both
-propositions are simultaneously true or false
+** Answer
+
+The thought processes that have been established as leading to valid
+solutions to problems.
+
+
+* Definition 15                                                       :drill:
+
+Deliberate practice
+
+** Answer
+
+Is a system of repetitive consciouos activities that are conducted for
+improving an idividual's skills and performance. It is demand many
+mind efforts, maximum focus, patience and have no immediate effect.
+
