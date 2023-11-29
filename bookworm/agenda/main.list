@@ -30,8 +30,12 @@ MY PROJECTS    -*- mode: org; -*-
 
 *** Working with transcripts
 
-**** ACTIVE [#C] "How to Learn Anything Fast: Teach Your Brain to Focus"
-SCHEDULED: <2023-11-29 Wed>
+**** RAW [#C] "How to Learn Anything Fast: Teach Your Brain to Focus"
+SCHEDULED: <2023-12-13 Wed ++2w>
+:PROPERTIES:
+:LAST_REPEAT: [2023-11-29 Wed 18:19]
+:END:
+- State "DONE"       from "Active"     [2023-11-29 Wed 18:19]
 - Note taken on [2023-10-14 Sat 13:30] \\
   Part I "The neuroscience solution to boredom "
 
@@ -84,7 +88,7 @@ CLOCK: [2023-10-24 Tue 08:07]--[2023-10-24 Tue 09:32] =>  1:25
 :END:
 
 - State "DONE"       from "Active"     [2023-11-22 Wed 14:25]
-SCHEDULED: <2023-11-29 Wed ++1w>
+SCHEDULED: <2023-12-01 Fri ++1w>
 - Note taken on [2023-11-01 Wed 16:02] \\
   Stock portfolio class clarification.
 :LOGBOOK:
@@ -207,11 +211,12 @@ if __name__ == '__main__':
 **** Keys
 
 **** Embedded Help System
-**** INIT Emacs server
-SCHEDULED: <2023-11-29 Wed ++2w>
+**** RAW INIT Emacs server
+SCHEDULED: <2023-12-13 Wed ++2w>
 :PROPERTIES:
-:LAST_REPEAT: [2023-11-15 Wed 15:58]
+:LAST_REPEAT: [2023-11-29 Wed 18:17]
 :END:
+- State "DONE"       from "Active"     [2023-11-29 Wed 18:17]
 - State "DONE"       from "ACTIVE"     [2023-11-15 Wed 15:58]
 - Note taken on [2023-10-10 Tue 15:27] \\
   * Launch the graphical version;
@@ -223,15 +228,18 @@ SCHEDULED: <2023-11-29 Wed ++2w>
 
 **** RAW Emacs + venv
 SCHEDULED: <2023-12-02 Sat>
-**** DP0 [#A] Elpy
-SCHEDULED: <2023-11-28 Tue>
+**** Init [#A] Elpy concepts
+SCHEDULED: <2023-12-01 Fri>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-23 Thu 15:54]
 :END:
 - State "DONE"       from "Active"     [2023-11-23 Thu 15:54]
 :LOGBOOK:
+CLOCK: [2023-11-28 Tue 14:37]--[2023-11-28 Tue 15:11] =>  0:34
 CLOCK: [2023-11-23 Thu 14:58]--[2023-11-23 Thu 15:53] =>  0:55
 :END:
+[[https://elpy.readthedocs.io/en/latest/concepts.html#:~:text=Concepts-,The%20RPC%20Process,going%20on%20in%20the%20background.]]
+
 ** Org-mode
 
 **** RAW [#B] Org-mode, org-babel markup rules
@@ -294,8 +302,15 @@ CLOCK: [2023-10-26 Thu 07:54]--[2023-10-26 Thu 08:52] =>  0:58
 [[https://www.youtube.com/watch?v=kkqVTDbfYp4][org-babel configuration]]
 [[https://orgmode.org/manual/Structure-Templates.html][org templates structure]]
 
-*** DP0 Org-drill
-SCHEDULED: <2023-11-28 Tue>
+*** DP1 Org-drill
+SCHEDULED: <2023-11-30 Thu>
+:LOGBOOK:
+CLOCK: [2023-11-28 Tue 17:27]--[2023-11-28 Tue 18:27] =>  1:00
+CLOCK: [2023-11-28 Tue 08:00]--[2023-11-28 Tue 08:58] =>  0:58
+:END:
+https://orgmode.org/worg/org-contrib/org-drill.html
+
+https://orgmode.org/worg/org-contrib/org-drill.html#org51fd4f9
 ** Jekyll
 
 **** TODO [#B] Org-Jekyll - configuration options
@@ -790,10 +805,13 @@ SCHEDULED: <2023-12-01 Fri>
   version
 
 ** RAW Speed-typing
-SCHEDULED: <2023-11-28 Tue ++1d>
+SCHEDULED: <2023-12-02 Sat ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-11-27 Mon 17:35]
+:LAST_REPEAT: [2023-11-29 Wed 18:16]
 :END:
+- State "DONE"       from "Active"     [2023-11-29 Wed 18:16]
+- State "DONE"       from "Active"     [2023-11-29 Wed 18:15]
+- State "DONE"       from "Active"     [2023-11-29 Wed 18:15]
 - State "DONE"       from "Active"     [2023-11-27 Mon 17:35]
 - State "DONE"       from "Active"     [2023-11-25 Sat 17:47]
 - State "DONE"       from "Active"     [2023-11-23 Thu 15:54]
@@ -875,7 +893,6 @@ CLOCK: [2023-11-10 Fri 07:49]--[2023-11-10 Fri 09:32] =>  1:43
 
  
 **** Todo How Python Runs Programs
-SCHEDULED: <2023-11-28 Tue ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-13 Mon 13:24]
 :END:
@@ -902,8 +919,20 @@ CLOCK: [2023-11-13 Mon 12:21]--[2023-11-13 Mon 13:06] =>  0:45
 #+RESULTS:
 : /home/vikky/git/ballyboe/bookworm/agenda
 
+***** RAW Python Import variations
+SCHEDULED: <2023-12-02 Sat ++4d>
+:PROPERTIES:
+:LAST_REPEAT: [2023-11-28 Tue 10:38]
+:END:
+- State "DONE"       from "Active"     [2023-11-28 Tue 10:38]
+:LOGBOOK:
+CLOCK: [2023-11-28 Tue 08:59]--[2023-11-28 Tue 09:23] =>  0:24
+:END:
+
+***** DP0 Python run the file with executable privileges.
+SCHEDULED: <2023-11-30 Thu>
+
 **** DP1 How do you run program.
-SCHEDULED: <2023-11-28 Tue>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-23 Thu 10:43]
 :END:
@@ -934,30 +963,39 @@ This is known as 'stream redirection'.
 
 **** Init Python object types
 ***** Init Python strings methods
-****** DP0 Python string type-specific methods
-SCHEDULED: <2023-11-28 Tue>
-:LOGBOOK:
+****** RAW Python string type-specific methods
+SCHEDULED: <2023-12-02 Sat ++4d>
+:PROPERTIES:
+:LAST_REPEAT: [2023-11-28 Tue 11:14]
+:END:
+- State "DONE"       from "Active"     [2023-11-28 Tue 11:14]
+:LOGBOOK: 
+CLOCK: [2023-11-28 Tue 10:40]--[2023-11-28 Tue 11:14] =>  0:34
 CLOCK: [2023-11-24 Fri 14:29]--[2023-11-24 Fri 14:52] =>  0:23
 :END:
+***** RAW Python how to code strings
+SCHEDULED: <2023-11-30 Thu>
 
 *** Computer science distillled
 
 **** RAW Computer science distilled - Basic
 
-***** Init Mathematical Model
-SCHEDULED: <2023-11-28 Tue>
+***** Init Computer science Mathematical Model
+SCHEDULED: <2023-11-30 Thu>
 
 **** RAW Computer science distilled - Complexity
-SCHEDULED: <2023-11-28 Tue ++1d>
 **** RAW Computer science distilled - Strategy
 SCHEDULED: <2023-11-30 Thu ++1d>
 
 *** "Talk Python to me" podcasts
 
 **** Init Transcript 10 Tips and Tools for Developer Productivity
-SCHEDULED: <2023-11-28 Tue>
+SCHEDULED: <2023-11-30 Thu>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-23 Thu 15:54]
+:END:
+:LOGBOOK:
+CLOCK: [2023-11-28 Tue 18:27]--[2023-11-28 Tue 18:33] =>  0:06
 :END:
 - State "DONE"       from "Active"     [2023-11-23 Thu 15:54]
 * Events

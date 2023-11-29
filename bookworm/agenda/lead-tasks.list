@@ -11,10 +11,11 @@
 #+TODO: RAW INIT TODO ACTIVE | DONE
 
 * RAW [#A] Genuine source of knowledge
-SCHEDULED: <2023-11-28 Tue ++1d>
+SCHEDULED: <2023-11-30 Thu ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-11-27 Mon 17:34]
+:LAST_REPEAT: [2023-11-29 Wed 18:15]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-11-29 Wed 18:15]
 - State "DONE"       from "ACTIVE"     [2023-11-27 Mon 17:34]
 - State "DONE"       from "ACTIVE"     [2023-11-24 Fri 14:56]
 - State "DONE"       from "ACTIVE"     [2023-11-23 Thu 15:53]
@@ -39,10 +40,12 @@ about how the program works are:
 
 --* INIT Conclusion*: the wisest decision is just to use it properly!
 * RAW [#A] Deliberate practice
-SCHEDULED: <2023-11-28 Tue ++1d>
+SCHEDULED: <2023-11-30 Thu ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-11-27 Mon 17:35]
+:LAST_REPEAT: [2023-11-29 Wed 18:15]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-11-29 Wed 18:15]
+- State "DONE"       from "ACTIVE"     [2023-11-28 Tue 15:11]
 - State "DONE"       from "ACTIVE"     [2023-11-27 Mon 17:35]
 - State "DONE"       from "ACTIVE"     [2023-11-27 Mon 10:03]
 - State "DONE"       from "ACTIVE"     [2023-11-24 Fri 14:56]
@@ -66,11 +69,13 @@ CLOCK: [2023-11-24 Fri 08:31]--[2023-11-24 Fri 09:02] =>  0:31
 - State "DONE"       from "ACTIVE"     [2023-11-07 Tue 18:20]
 - State "DONE"       from "ACTIVE"     [2023-11-07 Tue 18:19]
 when you do challenging but indispensable tasks by yourself
-* INIT [#A] Help about *Help*
-SCHEDULED: <2023-11-28 Tue ++1d>
+* RAW [#A] Help about *Help*
+SCHEDULED: <2023-11-30 Thu ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-11-24 Fri 14:56]
+:LAST_REPEAT: [2023-11-29 Wed 18:16]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-11-29 Wed 18:16]
+- State "DONE"       from "ACTIVE"     [2023-11-28 Tue 11:55]
 - State "DONE"       from "ACTIVE"     [2023-11-24 Fri 14:56]
 - State "DONE"       from "ACTIVE"     [2023-11-23 Thu 10:44]
 - Note taken on [2023-11-23 Thu 09:28] \\
@@ -92,10 +97,11 @@ Stack-Overflow suggestions and notes. Bear this fact in mind do your
 job as it would be done in a sure and fire manner.
 
 ** RAW [#A] *Python* embedded help system
-SCHEDULED: <2023-11-29 Wed ++2d/3d>
+SCHEDULED: <2023-12-01 Fri ++2d/3d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-11-27 Mon 17:35]
+:LAST_REPEAT: [2023-11-29 Wed 18:16]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-11-29 Wed 18:16]
 - State "DONE"       from "ACTIVE"     [2023-11-27 Mon 17:35]
 - State "DONE"       from "ACTIVE"     [2023-11-23 Thu 11:38]
 - State "DONE"       from "ACTIVE"     [2023-11-21 Tue 18:09]
@@ -106,10 +112,12 @@ SCHEDULED: <2023-11-29 Wed ++2d/3d>
 - State "DONE"       from "ACTIVE"     [2023-11-09 Thu 18:41]
 - State "DONE"       from "ACTIVE"     [2023-11-07 Tue 18:21]
 ** RAW [#A] *Selenium* package:
-SCHEDULED: <2023-11-28 Tue ++1d>
+SCHEDULED: <2023-11-30 Thu ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-11-27 Mon 17:35]
+:LAST_REPEAT: [2023-11-28 Tue 11:55]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-11-28 Tue 11:55]
+- State "DONE"       from "ACTIVE"     [2023-11-28 Tue 11:55]
 - State "DONE"       from "ACTIVE"     [2023-11-27 Mon 17:35]
 - State "DONE"       from "ACTIVE"     [2023-11-24 Fri 14:56]
 - State "DONE"       from "ACTIVE"     [2023-11-23 Thu 11:38]
@@ -154,11 +162,17 @@ CLOCK: [2023-10-14 Sat 07:30]--[2023-10-14 Sat 08:27] =>  0:57
 :END:
 Very straighforward system out from 10 initial keys to use in embedded
 *Help* browser.OA To use several *Help* buffers use =M-x raname uniquely=
-* DONE Help about *info*
-CLOSED: [2023-11-27 Mon 11:57] SCHEDULED: <2023-11-28 Tue ++1d>
+* RAW Help about *info*
+SCHEDULED: <2023-11-30 Thu ++1d>
+:PROPERTIES:
+:LAST_REPEAT: [2023-11-29 Wed 18:16]
+:END:
+- State "DONE"       from "ACTIVE"     [2023-11-29 Wed 18:16]
+- State "DONE"       from "ACTIVE"     [2023-11-28 Tue 14:36]
 - Note taken on [2023-10-14 Sat 08:47] \\
   To open Emacs Info use C-h-i or C-h-r
 :LOGBOOK:
+CLOCK: [2023-11-28 Tue 11:26]--[2023-11-28 Tue 11:54] =>  0:28
 CLOCK: [2023-11-27 Mon 10:20]--[2023-11-27 Mon 11:57] =>  1:37
 CLOCK: [2023-10-14 Sat 08:45]--[2023-10-14 Sat 09:18] =>  0:33
 :END:
