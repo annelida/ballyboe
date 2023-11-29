@@ -25,12 +25,39 @@ SCHEDULED: <2023-11-30 Thu ++4d>
 - State "DONE"       from "ACTIVE"     [2023-11-17 Fri 08:56]
 - State "DONE"       from "ACTIVE"     [2023-11-13 Mon 12:03]
 
+#+begin_quote
+In its most common sense, methodology is the study of research
+methods. However, the term can also refer to the methods themselves or
+to the philosophical discussion of associated background
+assumptions. A method is a structured procedure for bringing about a
+certain goal, like acquiring knowledge or verifying knowledge
+claims. This normally involves various steps, like choosing a sample,
+collecting data from this sample, and interpreting the data.  More at
+Wikipedia
+#+end_quote
 
-  Searching  your ways and approaches for learning and process information
-  is a complex and constantly evolving process.
-  They can impact how you understand, retain and apply new material.
-  However it is utter importance find it if you want achieve the best learning outcome and
-  your solid base of personal knowledge.
+#+begin_quote
+It is a set of systems, methods, procedures or rules that is used to
+conduct a structured research process for a thesis or dissertation.
+The main purpose of the methodology is to be able to come up with an
+original and significant outcome that will contribute towards the
+field of your research.
+#+end_quote
+
+#+begin_quote
+Method is a noun that means a procedure, technique, or way of doing
+something, especially in accordance with a definite plan. It can
+also be an adjective that means of, relating to, or employing the
+Method. See synonyms, origin, and examples of method in sentences. 
+
+#+end_quote
+
+
+  Searching your ways and approaches for learning and process
+  information is a complex and constantly evolving process.  They can
+  impact how you understand, retain and apply new material.  However
+  it is utter importance find it if you want achieve the best learning
+  outcome and your solid base of personal knowledge.
   
   
 * RAW What is methodology
