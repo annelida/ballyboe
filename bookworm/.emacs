@@ -153,5 +153,5 @@
 (require 'elpy)
 (elpy-enable)
 
-(setq python-shell-interpreter "ipython"
-      python-shell-interpreter-args "-i --simple-prompt")
+(setq python-shell-interpreter "python"
+      python-shell-interpreter-args "-i")
