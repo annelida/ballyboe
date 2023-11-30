@@ -11,10 +11,11 @@
 #+TODO: RAW INIT TODO ACTIVE | DONE
 
 * RAW [#A] Genuine source of knowledge
-SCHEDULED: <2023-11-30 Thu ++1d>
+SCHEDULED: <2023-12-01 Fri ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-11-29 Wed 18:15]
+:LAST_REPEAT: [2023-11-30 Thu 15:34]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-11-30 Thu 15:34]
 - State "DONE"       from "ACTIVE"     [2023-11-29 Wed 18:15]
 - State "DONE"       from "ACTIVE"     [2023-11-27 Mon 17:34]
 - State "DONE"       from "ACTIVE"     [2023-11-24 Fri 14:56]
@@ -40,10 +41,11 @@ about how the program works are:
 
 --* INIT Conclusion*: the wisest decision is just to use it properly!
 * RAW [#A] Deliberate practice
-SCHEDULED: <2023-11-30 Thu ++1d>
+SCHEDULED: <2023-12-01 Fri ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-11-29 Wed 18:15]
+:LAST_REPEAT: [2023-11-30 Thu 15:34]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-11-30 Thu 15:34]
 - State "DONE"       from "ACTIVE"     [2023-11-29 Wed 18:15]
 - State "DONE"       from "ACTIVE"     [2023-11-28 Tue 15:11]
 - State "DONE"       from "ACTIVE"     [2023-11-27 Mon 17:35]
@@ -69,11 +71,12 @@ CLOCK: [2023-11-24 Fri 08:31]--[2023-11-24 Fri 09:02] =>  0:31
 - State "DONE"       from "ACTIVE"     [2023-11-07 Tue 18:20]
 - State "DONE"       from "ACTIVE"     [2023-11-07 Tue 18:19]
 when you do challenging but indispensable tasks by yourself
-* RAW [#A] Help about *Help*
-SCHEDULED: <2023-11-30 Thu ++1d>
+* ACTIVE [#A] Help about *Help*
+SCHEDULED: <2023-12-01 Fri ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-11-29 Wed 18:16]
+:LAST_REPEAT: [2023-11-30 Thu 09:40]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-11-30 Thu 09:40]
 - State "DONE"       from "ACTIVE"     [2023-11-29 Wed 18:16]
 - State "DONE"       from "ACTIVE"     [2023-11-28 Tue 11:55]
 - State "DONE"       from "ACTIVE"     [2023-11-24 Fri 14:56]
@@ -112,7 +115,7 @@ SCHEDULED: <2023-12-01 Fri ++2d/3d>
 - State "DONE"       from "ACTIVE"     [2023-11-09 Thu 18:41]
 - State "DONE"       from "ACTIVE"     [2023-11-07 Tue 18:21]
 ** RAW [#A] *Selenium* package:
-SCHEDULED: <2023-11-30 Thu ++1d>
+gSCHEDULED: <2023-12-06 Wed ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-28 Tue 11:55]
 :END:
@@ -162,11 +165,12 @@ CLOCK: [2023-10-14 Sat 07:30]--[2023-10-14 Sat 08:27] =>  0:57
 :END:
 Very straighforward system out from 10 initial keys to use in embedded
 *Help* browser.OA To use several *Help* buffers use =M-x raname uniquely=
-* RAW Help about *info*
-SCHEDULED: <2023-11-30 Thu ++1d>
+* RAW [#B] Help about *info*
+SCHEDULED: <2023-12-01 Fri ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-11-29 Wed 18:16]
+:LAST_REPEAT: [2023-11-30 Thu 15:34]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-11-30 Thu 15:34]
 - State "DONE"       from "ACTIVE"     [2023-11-29 Wed 18:16]
 - State "DONE"       from "ACTIVE"     [2023-11-28 Tue 14:36]
 - Note taken on [2023-10-14 Sat 08:47] \\

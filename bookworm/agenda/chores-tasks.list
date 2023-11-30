@@ -61,10 +61,11 @@ SCHEDULED: <2023-12-01 Fri ++1d>
 ** DONE Test
 CLOSED: [2023-11-29 Wed 18:16] SCHEDULED: <2023-11-28 Tue>
 * RAW *PUSH*
-SCHEDULED: <2023-11-30 Thu ++1d>
+SCHEDULED: <2023-12-01 Fri ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-11-29 Wed 18:16]
+:LAST_REPEAT: [2023-11-30 Thu 15:35]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-11-30 Thu 15:35]
 - State "DONE"       from "ACTIVE"     [2023-11-29 Wed 18:16]
 - State "DONE"       from "ACTIVE"     [2023-11-27 Mon 17:35]
 - State "DONE"       from "ACTIVE"     [2023-11-24 Fri 14:52]
@@ -175,10 +176,11 @@ workspace:
   At the bottom left, select: Advanced - About ChromeOS - Select Check for updates.
 
 * RAW [#B] Evening meet-up
-SCHEDULED: <2023-11-30 Thu ++1d>
+SCHEDULED: <2023-12-01 Fri ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-11-29 Wed 18:16]
+:LAST_REPEAT: [2023-11-30 Thu 15:35]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-11-30 Thu 15:35]
 - State "DONE"       from "ACTIVE"     [2023-11-29 Wed 18:16]
 - State "DONE"       from "ACTIVE"     [2023-11-23 Thu 15:54]
 - State "DONE"       from "ACTIVE"     [2023-11-23 Thu 15:54]
@@ -220,10 +222,11 @@ SCHEDULED: <2023-11-30 Thu ++1d>
 - State "DONE"       from "ACTIVE"     [2023-10-13 Fri 13:01]
 To discuss actual questions and find answers.
 * RAW Daily taskset schedulling
-SCHEDULED: <2023-11-30 Thu ++1d>
+SCHEDULED: <2023-12-01 Fri ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-11-29 Wed 18:16]
+:LAST_REPEAT: [2023-11-30 Thu 15:35]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-11-30 Thu 15:35]
 - State "DONE"       from "ACTIVE"     [2023-11-29 Wed 18:16]
 - State "DONE"       from "ACTIVE"     [2023-11-27 Mon 17:35]
 - State "DONE"       from "ACTIVE"     [2023-11-24 Fri 14:52]
@@ -267,10 +270,11 @@ SCHEDULED: <2023-11-30 Thu ++1d>
 It might be required several times a day, but first time in the early
 morning.
 * RAW Tomorrow's agenda brush-up
-SCHEDULED: <2023-11-30 Thu ++1d>
+SCHEDULED: <2023-12-01 Fri ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-11-29 Wed 18:16]
+:LAST_REPEAT: [2023-11-30 Thu 15:35]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-11-30 Thu 15:35]
 - State "DONE"       from "ACTIVE"     [2023-11-29 Wed 18:16]
 - State "DONE"       from "ACTIVE"     [2023-11-27 Mon 17:36]
 - State "DONE"       from "ACTIVE"     [2023-11-24 Fri 14:52]
