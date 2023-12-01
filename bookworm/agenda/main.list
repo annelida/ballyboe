@@ -82,13 +82,13 @@ CLOCK: [2023-10-24 Tue 08:07]--[2023-10-24 Tue 09:32] =>  1:25
 :END:
 
 
-**** RAW TODO Python classes
+**** RAW Python classes
+SCHEDULED: <2023-12-20 Wed>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-22 Wed 14:25]
 :END:
 
 - State "DONE"       from "Active"     [2023-11-22 Wed 14:25]
-SCHEDULED: <2023-12-01 Fri ++1w>
 - Note taken on [2023-11-01 Wed 16:02] \\
   Stock portfolio class clarification.
 :LOGBOOK:
@@ -229,7 +229,7 @@ SCHEDULED: <2023-12-13 Wed ++2w>
 **** RAW Emacs + venv
 SCHEDULED: <2023-12-02 Sat>
 **** Init Elpy concepts
-SCHEDULED: <2023-12-01 Fri>
+SCHEDULED: <2023-12-02 Sat>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-23 Thu 15:54]
 :END:
@@ -239,8 +239,8 @@ CLOCK: [2023-11-28 Tue 14:37]--[2023-11-28 Tue 15:11] =>  0:34
 CLOCK: [2023-11-23 Thu 14:58]--[2023-11-23 Thu 15:53] =>  0:55
 :END:
 [[https://elpy.readthedocs.io/en/latest/concepts.html#:~:text=Concepts-,The%20RPC%20Process,going%20on%20in%20the%20background.]]
-***** RAW Elpy the RPC Process
-SCHEDULED: <2023-12-01 Fri>
+***** RAW Elpy the RPC Process                                     :Elpy:
+SCHEDULED: <2023-12-02 Sat ++2w>:
 - Note taken on [2023-11-30 Thu 15:31] \\
   RPC processes are used to provide code completion, documentation and
   other features. To do so, they use python packages (jedi, yapf, …)
@@ -250,6 +250,8 @@ SCHEDULED: <2023-12-01 Fri>
   Outside of RPC processes, though, it is not easy to have more than one
   virtual env active at the same time. Elpy allows you to set a single
   global virtual env and change it whenever you like, though.
+
+  M-x elpy-config shows Elpy settings
 :LOGBOOK:
 CLOCK: [2023-11-30 Thu 14:50]--[2023-11-30 Thu 15:33] =>  0:43
 :END:
@@ -316,9 +318,9 @@ CLOCK: [2023-10-26 Thu 07:54]--[2023-10-26 Thu 08:52] =>  0:58
 [[https://orgmode.org/manual/Structure-Templates.html][org templates structure]]
 
 *** DP1 Org-drill add several definitions
-SCHEDULED: <2023-11-30 Thu>
+SCHEDULED: <2023-12-02 Sat>
 :LOGBOOK:
-CLOCK: [2023-11-30 Thu 15:36]
+CLOCK: [2023-11-30 Thu 15:36]--[2023-12-01 Fri 07:55] => 16:19
 CLOCK: [2023-11-28 Tue 17:27]--[2023-11-28 Tue 18:27] =>  1:00
 CLOCK: [2023-11-28 Tue 08:00]--[2023-11-28 Tue 08:58] =>  0:58
 :END:
@@ -779,8 +781,8 @@ CLOCK: [2023-10-25 Wed 10:36]--[2023-10-25 Wed 11:16] =>  0:40
   (ie. never rebase master). You should never rebase master onto
   a feature branch.
 
-**** TODO [#A] Git/Magit undo options.
-SCHEDULED: <2023-12-01 Fri>
+**** Init TODO [#A] Git/Magit undo options.
+SCHEDULED: <2023-12-05 Tue>
 - Note taken on [2023-10-23 Mon 08:47] \\
   If you want to redo that commit, make the additional
   changes you forgot, stage them, and commit again using
@@ -942,8 +944,15 @@ SCHEDULED: <2023-12-02 Sat ++4d>
 CLOCK: [2023-11-28 Tue 08:59]--[2023-11-28 Tue 09:23] =>  0:24
 :END:
 
-***** DP0 Python run the file with executable privileges.
-SCHEDULED: <2023-12-01 Fri>
+***** RAW Python run the file with executable privileges.
+SCHEDULED: <2023-12-08 Fri ++1w>
+:PROPERTIES:
+:LAST_REPEAT: [2023-12-01 Fri 10:39]
+:END:
+- State "DONE"       from "Active"     [2023-12-01 Fri 10:39]
+:LOGBOOK:
+CLOCK: [2023-12-01 Fri 10:08]--[2023-12-01 Fri 10:39] =>  0:31
+:END:
 
 **** DP1 How do you run program.
 :PROPERTIES:
@@ -986,8 +995,8 @@ SCHEDULED: <2023-12-02 Sat ++4d>
 CLOCK: [2023-11-28 Tue 10:40]--[2023-11-28 Tue 11:14] =>  0:34
 CLOCK: [2023-11-24 Fri 14:29]--[2023-11-24 Fri 14:52] =>  0:23
 :END:
-***** DP0 Python how to code strings
-SCHEDULED: <2023-12-01 Fri>
+***** Init Python how to code strings
+SCHEDULED: <2023-12-02 Sat>
 
 *** Computer science distillled
 
@@ -1003,7 +1012,7 @@ SCHEDULED: <2023-12-02 Sat ++1d>
 *** "Talk Python to me" podcasts
 
 **** Init Transcript 10 Tips and Tools for Developer Productivity
-SCHEDULED: <2023-12-01 Fri>
+SCHEDULED: <2023-12-02 Sat>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-23 Thu 15:54]
 :END:
