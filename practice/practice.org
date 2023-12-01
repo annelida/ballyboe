@@ -180,3 +180,34 @@ from test_projects import module1
 
 #+RESULTS:
 : Hello module world!
+
+** Run the file with executable privileges
+
+#+begin_quote
+If your platform supports it, add the #! line to the top of your
+module1.py module file, give the file executable privileges, and run
+it directly as an executable. What does the first line need to
+contain? #! usually only has meaning on Unix, Linux, and Unix-like
+platforms such as Mac OS X; if you’re working on Windows, instead try
+running your file by listing just its name in a DOS console window
+without the word “python” before it (this works on recent versions of
+Windows), or via the Start→Run... dialog box.
+#+end_quote
+
+#+begin_src python :results output
+#!
+print("Hello module world!")
+#+end_src
+
+#+RESULTS:
+: Hello module world!
+
+#+begin_quote
+The shebang is actually a human-readable instance of a magic number in
+the executable file, the magic byte string being 0x23 0x21, the
+two-character encoding in ASCII of #!. This magic number is detected
+by the "exec" family of functions, which determine whether a file is a
+script or an executable binary.  The presence of the shebang will
+result in the execution of the specified executable, usually an
+interpreter for the script's language
+#+end_quote
