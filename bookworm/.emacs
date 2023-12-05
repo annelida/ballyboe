@@ -90,7 +90,7 @@
 (key-chord-define-global "sx"     'org-insert-link)
 (key-chord-define-global  "lo"    'org-agenda-open-link)
 
-(setq org-log-done t)
+;;(setq org-log-done t)
 
 (setq org-agenda-files (list
 			"~/git/ballyboe/bookworm/agenda/selenium.list"
@@ -106,6 +106,26 @@
 
 (setq org-default-notes-file (concat org-directory "/notes.org"))
 (global-set-key (kbd "C-c c") #'org-capture)
+(setq org-capture-templates
+      '(
+	("w" "Quote" entry (file+headline
+			    "~/git/ballyboe/bookworm/drills.org"
+			    "Quotes")
+	 "* COMMENT >->-> %c :drill:
+   :PROPERTIES:
+   :DRILL_CARD_TYPE: hide1cloze
+   :END:\n%i\n")
+	;;
+	("d" "Definitions" entry (file+headline
+			    "~/git/ballyboe/bookworm/drills.org"
+			    "Definitions")
+	 "* %c :drill:
+   :PROPERTIES:
+   :DRILL_CARD_TYPE: hide1cloze
+   :END:\n%i\n")
+))
+
+
 
 ;; Jekyll settings there -->
 ;;
@@ -143,6 +163,7 @@
    '("/home/vikky/git/ballyboe/bookworm/agenda/lead-tasks.list" "/home/vikky/git/ballyboe/org-blog/2023-11-10-studying-methodology.org" "/home/vikky/git/ballyboe/bookworm/agenda/selenium.list" "/home/vikky/git/ballyboe/bookworm/agenda/main.list" "/home/vikky/git/ballyboe/bookworm/agenda/chores-tasks.list" "/home/vikky/git/ballyboe/bookworm/agenda/personal.list"))
  '(package-selected-packages
    '(find-file-in-project elpy org-drill pyvenv-auto exec-path-from-shell pyvenv pdf-tools org ordinal magit speed-type dictionary mw-thesaurus voca-builder go-translate key-chord ereader google-translate)))
+'(browse-url-browser-function 'eww-browse-url)
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
