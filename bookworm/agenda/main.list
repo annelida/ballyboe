@@ -11,7 +11,6 @@ MY PROJECTS    -*- mode: org; -*-
 
 
 * Learning
-
 ** Methodology
 
 *** Spaced Repetition
@@ -227,11 +226,16 @@ SCHEDULED: <2023-12-13 Wed ++2w>
 **** Window Registers
 
 **** RAW Emacs + venv
-SCHEDULED: <2023-12-02 Sat>
+SCHEDULED: <2023-12-23 Sat ++3w>
+:PROPERTIES:
+:LAST_REPEAT: [2023-12-04 Mon 11:10]
+:END:
+- State "DONE"       from "Active"     [2023-12-04 Mon 11:10]
 **** Init Elpy concepts
-SCHEDULED: <2023-12-02 Sat>
+SCHEDULED: <2023-12-05 Tue>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-23 Thu 15:54]
+:CATEGORY: Elpy
 :END:
 - State "DONE"       from "Active"     [2023-11-23 Thu 15:54]
 :LOGBOOK:
@@ -239,8 +243,8 @@ CLOCK: [2023-11-28 Tue 14:37]--[2023-11-28 Tue 15:11] =>  0:34
 CLOCK: [2023-11-23 Thu 14:58]--[2023-11-23 Thu 15:53] =>  0:55
 :END:
 [[https://elpy.readthedocs.io/en/latest/concepts.html#:~:text=Concepts-,The%20RPC%20Process,going%20on%20in%20the%20background.]]
-***** RAW Elpy the RPC Process                                     :Elpy:
-SCHEDULED: <2023-12-02 Sat ++2w>:
+***** RAW Elpy the RPC Process                                   
+SCHEDULED: <2023-12-05 Tue ++2w>:
 - Note taken on [2023-11-30 Thu 15:31] \\
   RPC processes are used to provide code completion, documentation and
   other features. To do so, they use python packages (jedi, yapf, …)
@@ -317,15 +321,27 @@ CLOCK: [2023-10-26 Thu 07:54]--[2023-10-26 Thu 08:52] =>  0:58
 [[https://www.youtube.com/watch?v=kkqVTDbfYp4][org-babel configuration]]
 [[https://orgmode.org/manual/Structure-Templates.html][org templates structure]]
 
-*** DP1 Org-drill add several definitions
-SCHEDULED: <2023-12-02 Sat>
+*** DP1 Org-drill concept
+SCHEDULED: <2023-12-05 Tue>
 :LOGBOOK:
+CLOCK: [2023-12-03 Sun 12:32]--[2023-12-03 Sun 13:04] =>  0:32
 CLOCK: [2023-11-30 Thu 15:36]--[2023-12-01 Fri 07:55] => 16:19
 CLOCK: [2023-11-28 Tue 17:27]--[2023-11-28 Tue 18:27] =>  1:00
 CLOCK: [2023-11-28 Tue 08:00]--[2023-11-28 Tue 08:58] =>  0:58
 :END:
 https://orgmode.org/worg/org-contrib/org-drill.html
 https://orgmode.org/worg/org-contrib/org-drill.html#org51fd4f9
+
+*** RAW Org-capture templates
+SCHEDULED: <2023-12-05 Tue ++1d>
+:PROPERTIES:
+:LAST_REPEAT: [2023-12-04 Mon 11:20]
+:END:
+- State "DONE"       from "Active"     [2023-12-04 Mon 11:20]
+:LOGBOOK:
+CLOCK: [2023-12-03 Sun 13:04]--[2023-12-03 Sun 13:32] =>  0:28
+:END:
+[[info:org#Capture templates][org#Capture templates]]
 ** Jekyll
 
 **** TODO [#B] Org-Jekyll - configuration options
@@ -491,7 +507,7 @@ Result you can see on [[https://annelida.github.io/]]
 
 
 **** RAW TODO [#A] Explorations in details page's structure in Jekyll.
-SCHEDULED: <2023-12-05 Tue>
+SCHEDULED: <2023-12-28 Thu>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-20 Mon 16:18]
 :END:
@@ -674,10 +690,11 @@ You can see full result in diff buffer.
 In the Linux terminal it is possible at the same time to compare folder with files:
 $ diff -a -y dir1 dir2
 **** RAW ACTIVE Linux symbolic links
-SCHEDULED: <2023-12-04 Mon ++2w>
+SCHEDULED: <2023-12-18 Mon ++2w>
 :PROPERTIES:
-:LAST_REPEAT: [2023-11-20 Mon 08:20]
+:LAST_REPEAT: [2023-12-04 Mon 11:21]
 :END:
+- State "DONE"       from "Active"     [2023-12-04 Mon 11:21]
 - State "DONE"       from "Active"     [2023-11-20 Mon 08:20]
 - Note taken on [2023-10-10 Tue 19:27] \\
   M-x man <enter> ln
@@ -819,11 +836,12 @@ SCHEDULED: <2023-12-05 Tue>
   tag
   version
 
-** RAW Speed-typing
-SCHEDULED: <2023-12-02 Sat ++1d>
+** DP1 Speed-typing
+SCHEDULED: <2023-12-05 Tue ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-11-29 Wed 18:16]
+:LAST_REPEAT: [2023-12-04 Mon 11:11]
 :END:
+- State "DONE"       from "Active"     [2023-12-04 Mon 11:11]
 - State "DONE"       from "Active"     [2023-11-29 Wed 18:16]
 - State "DONE"       from "Active"     [2023-11-29 Wed 18:15]
 - State "DONE"       from "Active"     [2023-11-29 Wed 18:15]
@@ -846,7 +864,7 @@ SCHEDULED: <2023-12-02 Sat ++1d>
 - State "DONE"       from "ACTIVE"     [2023-11-11 Sat 17:14]
 - State "DONE"       from "ACTIVE"     [2023-11-10 Fri 17:13]
 - State "DONE"       from "ACTIVE"     [2023-11-09 Thu 18:42]
-
+  
 * Work
 
 ** Professional Preparation
@@ -859,6 +877,9 @@ SCHEDULED: <2023-12-02 Sat ++1d>
 
 * Books
 *** Learning Python
+:PROPERTIES:
+:CATEGORY: Learning Python
+:END:
 
 **** RAW A Python Q&A Session
 SCHEDULED: <2023-12-25 Mon ++2w>
@@ -934,8 +955,8 @@ CLOCK: [2023-11-13 Mon 12:21]--[2023-11-13 Mon 13:06] =>  0:45
 #+RESULTS:
 : /home/vikky/git/ballyboe/bookworm/agenda
 
-***** RAW Python Import variations
-SCHEDULED: <2023-12-02 Sat ++4d>
+***** Todo Python Import variations
+SCHEDULED: <2023-12-05 Tue ++4d>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-28 Tue 10:38]
 :END:
@@ -948,6 +969,7 @@ CLOCK: [2023-11-28 Tue 08:59]--[2023-11-28 Tue 09:23] =>  0:24
 SCHEDULED: <2023-12-08 Fri ++1w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-12-01 Fri 10:39]
+:CATEGORY: Learning Python
 :END:
 - State "DONE"       from "Active"     [2023-12-01 Fri 10:39]
 :LOGBOOK:
@@ -985,34 +1007,38 @@ This is known as 'stream redirection'.
 
 **** Init Python object types
 ***** Init Python strings methods
-****** RAW Python string type-specific methods
-SCHEDULED: <2023-12-02 Sat ++4d>
+****** Init Python string type-specific methods
+SCHEDULED: <2023-12-10 Sun ++5d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-11-28 Tue 11:14]
+:LAST_REPEAT: [2023-12-04 Mon 11:23]
 :END:
+- State "DONE"       from "Active"     [2023-12-04 Mon 11:23]
 - State "DONE"       from "Active"     [2023-11-28 Tue 11:14]
 :LOGBOOK: 
 CLOCK: [2023-11-28 Tue 10:40]--[2023-11-28 Tue 11:14] =>  0:34
 CLOCK: [2023-11-24 Fri 14:29]--[2023-11-24 Fri 14:52] =>  0:23
 :END:
 ***** Init Python how to code strings
-SCHEDULED: <2023-12-02 Sat>
+SCHEDULED: <2023-12-05 Tue>
 
 *** Computer science distillled
+:PROPERTIES:
+:CATEGORY: Computer science
+:END:
 
 **** RAW Computer science distilled - Basic
 
-***** Init Computer science Mathematical Model
-SCHEDULED: <2023-12-02 Sat>
+***** RAW Computer science Mathematical Model
+SCHEDULED: <2023-12-05 Tue>
 
 **** RAW Computer science distilled - Complexity
 **** RAW Computer science distilled - Strategy
-SCHEDULED: <2023-12-02 Sat ++1d>
+SCHEDULED: <2023-12-05 Tue ++1d>
 
 *** "Talk Python to me" podcasts
 
 **** Init Transcript 10 Tips and Tools for Developer Productivity
-SCHEDULED: <2023-12-02 Sat>
+SCHEDULED: <2023-12-05 Tue>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-23 Thu 15:54]
 :END:

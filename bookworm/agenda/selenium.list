@@ -76,7 +76,7 @@ CLOCK: [2023-11-04 Sat 10:45]--[2023-11-04 Sat 11:04] =>  0:19
 ** Conclusion
 
 * INIT [#A] What is Selenium?
-SCHEDULED: <2023-12-05 Tue ++2w>
+SCHEDULED: <2023-12-07 Thu ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-06 Mon 16:06]
 :END:
@@ -87,7 +87,7 @@ SCHEDULED: <2023-12-05 Tue ++2w>
   to automate the tests; in turn, it simulates the actions on the browser.
 * Components of Selenium
 * INIT [#A] What is Selenium WebDriver?
-SCHEDULED: <2023-12-05 Tue ++2w>
+SCHEDULED: <2023-12-07 Thu ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-06 Mon 16:06]
 :END:
@@ -118,7 +118,7 @@ CLOSED: [2023-11-06 Mon 15:57]
   beginners and manual testers to learn more efficiently.
  
 * RAW [#A] Features of Selenium IDE
-SCHEDULED: <2023-12-05 Tue ++2w>
+SCHEDULED: <2023-12-07 Thu ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-06 Mon 16:07]
 :END:
