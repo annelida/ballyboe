@@ -10,11 +10,13 @@
 #+TODO: | AMPLE
 #+TODO: RAW INIT TODO ACTIVE | DONE
 
-* RAW [#A] Genuine source of knowledge
-SCHEDULED: <2023-12-02 Sat ++1d>
+* INIT [#A] Genuine source of knowledge
+SCHEDULED: <2023-12-06 Wed ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-12-01 Fri 17:21]
+:LAST_REPEAT: [2023-12-04 Mon 11:23]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-12-04 Mon 11:23]
+- State "DONE"       from "ACTIVE"     [2023-12-04 Mon 11:09]
 - State "DONE"       from "ACTIVE"     [2023-12-01 Fri 17:21]
 - State "DONE"       from "ACTIVE"     [2023-11-30 Thu 15:34]
 - State "DONE"       from "ACTIVE"     [2023-11-29 Wed 18:15]
@@ -41,11 +43,12 @@ about how the program works are:
    - usually it is available through =Emacs= *info system*;
 
 --* INIT Conclusion*: the wisest decision is just to use it properly!
-* RAW [#A] Deliberate practice
-SCHEDULED: <2023-12-02 Sat ++1d>
+* INIT [#A] Deliberate practice
+SCHEDULED: <2023-12-05 Tue ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-12-01 Fri 17:21]
+:LAST_REPEAT: [2023-12-04 Mon 11:09]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-12-04 Mon 11:09]
 - State "DONE"       from "ACTIVE"     [2023-12-01 Fri 17:21]
 - State "DONE"       from "ACTIVE"     [2023-11-30 Thu 15:34]
 - State "DONE"       from "ACTIVE"     [2023-11-29 Wed 18:15]
@@ -73,11 +76,13 @@ CLOCK: [2023-11-24 Fri 08:31]--[2023-11-24 Fri 09:02] =>  0:31
 - State "DONE"       from "ACTIVE"     [2023-11-07 Tue 18:20]
 - State "DONE"       from "ACTIVE"     [2023-11-07 Tue 18:19]
 when you do challenging but indispensable tasks by yourself
-* RAW [#A] Help about *Help*
-SCHEDULED: <2023-12-02 Sat ++1d>
+* INIT [#A] Help about *Help*
+SCHEDULED: <2023-12-05 Tue ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-12-01 Fri 17:21]
+:LAST_REPEAT: [2023-12-04 Mon 11:09]
+:CATEGORY: Help
 :END:
+- State "DONE"       from "ACTIVE"     [2023-12-04 Mon 11:09]
 - State "DONE"       from "ACTIVE"     [2023-12-01 Fri 17:21]
 - State "DONE"       from "ACTIVE"     [2023-12-01 Fri 17:21]
 - State "DONE"       from "ACTIVE"     [2023-11-30 Thu 09:40]
@@ -103,11 +108,12 @@ Initially all software was used by the ancient (true) users by its
 Stack-Overflow suggestions and notes. Bear this fact in mind do your
 job as it would be done in a sure and fire manner.
 
-** RAW [#A] *Python* embedded help system
-SCHEDULED: <2023-12-03 Sun ++2d/3d>
+** INIT [#A] *Python* embedded help system
+SCHEDULED: <2023-12-05 Tue ++2d/3d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-12-01 Fri 17:22]
+:LAST_REPEAT: [2023-12-04 Mon 11:10]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-12-04 Mon 11:10]
 - State "DONE"       from "ACTIVE"     [2023-12-01 Fri 17:22]
 - State "DONE"       from "ACTIVE"     [2023-11-29 Wed 18:16]
 - State "DONE"       from "ACTIVE"     [2023-11-27 Mon 17:35]
@@ -120,7 +126,7 @@ SCHEDULED: <2023-12-03 Sun ++2d/3d>
 - State "DONE"       from "ACTIVE"     [2023-11-09 Thu 18:41]
 - State "DONE"       from "ACTIVE"     [2023-11-07 Tue 18:21]
 ** RAW [#A] *Selenium* package:
-gSCHEDULED: <2023-12-06 Wed ++1d>
+SCHEDULED: <2023-12-06 Wed ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-28 Tue 11:55]
 :END:
@@ -145,6 +151,7 @@ gSCHEDULED: <2023-12-06 Wed ++1d>
 - Content;
 - Source code and =docstrings=
 ** Emacs' embedded help system
+SCHEDULED: <2023-12-05 Tue>
 - Note taken on [2023-10-14 Sat 08:14] \\
 
   C-h C-h or C-h ? to invoke Emacs built-n key.
@@ -170,11 +177,12 @@ CLOCK: [2023-10-14 Sat 07:30]--[2023-10-14 Sat 08:27] =>  0:57
 :END:
 Very straighforward system out from 10 initial keys to use in embedded
 *Help* browser.OA To use several *Help* buffers use =M-x raname uniquely=
-* RAW [#B] Help about *info*
-SCHEDULED: <2023-12-02 Sat ++1d>
+* INIT [#B] Help about *info*
+SCHEDULED: <2023-12-05 Tue ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-12-01 Fri 17:23]
+:LAST_REPEAT: [2023-12-04 Mon 11:10]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-12-04 Mon 11:10]
 - State "DONE"       from "ACTIVE"     [2023-12-01 Fri 17:23]
 - State "DONE"       from "ACTIVE"     [2023-11-30 Thu 15:34]
 - State "DONE"       from "ACTIVE"     [2023-11-29 Wed 18:16]
