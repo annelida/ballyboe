@@ -13,10 +13,12 @@ CLOSED: [2023-10-26 Thu 17:32] SCHEDULED: <2023-10-29 Sun>
 Naturally, by its definition they are the routine, usual and regular
 tasks.
 * TODO [#A] Git commits purification
-SCHEDULED: <2023-12-05 Tue ++1d>
+SCHEDULED: <2023-12-07 Thu ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-12-04 Mon 11:09]
+:LAST_REPEAT: [2023-12-05 Tue 15:02]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-12-05 Tue 15:02]
+- State "DONE"       from "ACTIVE"     [2023-12-05 Tue 14:58]
 - State "DONE"       from "ACTIVE"     [2023-12-04 Mon 11:09]
 - State "DONE"       from "ACTIVE"     [2023-12-01 Fri 17:24]
 - State "DONE"       from "ACTIVE"     [2023-11-29 Wed 18:15]
@@ -62,11 +64,12 @@ SCHEDULED: <2023-12-05 Tue ++1d>
 - State "DONE"       from "ACTIVE"     [2023-10-13 Fri 13:02]
 ** DONE Test
 CLOSED: [2023-11-29 Wed 18:16] SCHEDULED: <2023-11-28 Tue>
-* RAW *PUSH*
-SCHEDULED: <2023-12-05 Tue ++1d>
+* TODO *PUSH*
+SCHEDULED: <2023-12-06 Wed ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-12-04 Mon 11:18]
+:LAST_REPEAT: [2023-12-05 Tue 15:00]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-12-05 Tue 15:00]
 - State "DONE"       from "ACTIVE"     [2023-12-04 Mon 11:18]
 - State "DONE"       from "ACTIVE"     [2023-12-01 Fri 17:23]
 - State "DONE"       from "ACTIVE"     [2023-11-30 Thu 15:35]
@@ -144,7 +147,7 @@ workspace:
   * k to mark buffers for kill (D appears next to buffer)
   * x to execute kill
     
-* RAW Workspace clean-up
+* TODO Workspace clean-up
 SCHEDULED: <2023-12-06 Wed ++1w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-29 Wed 18:20]
@@ -180,11 +183,12 @@ workspace:
   At the bottom right, select the time - Settings
   At the bottom left, select: Advanced - About ChromeOS - Select Check for updates.
 
-* RAW [#B] Evening meet-up
-SCHEDULED: <2023-12-05 Tue ++1d>
+* TODO [#B] Evening meet-up
+SCHEDULED: <2023-12-06 Wed ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-12-04 Mon 11:18]
+:LAST_REPEAT: [2023-12-05 Tue 15:00]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-12-05 Tue 15:00]
 - State "DONE"       from "ACTIVE"     [2023-12-04 Mon 11:18]
 - State "DONE"       from "ACTIVE"     [2023-12-01 Fri 17:23]
 - State "DONE"       from "ACTIVE"     [2023-11-30 Thu 15:35]
@@ -228,11 +232,12 @@ SCHEDULED: <2023-12-05 Tue ++1d>
 - State "DONE"       from "ACTIVE"     [2023-10-14 Sat 14:24]
 - State "DONE"       from "ACTIVE"     [2023-10-13 Fri 13:01]
 To discuss actual questions and find answers.
-* RAW Daily taskset schedulling
-SCHEDULED: <2023-12-05 Tue ++1d>
+* TODO Daily taskset schedulling
+SCHEDULED: <2023-12-06 Wed ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-12-04 Mon 11:18]
+:LAST_REPEAT: [2023-12-05 Tue 15:00]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-12-05 Tue 15:00]
 - State "DONE"       from "ACTIVE"     [2023-12-04 Mon 11:18]
 - State "DONE"       from "ACTIVE"     [2023-12-01 Fri 17:23]
 - State "DONE"       from "ACTIVE"     [2023-11-30 Thu 15:35]
@@ -278,11 +283,12 @@ SCHEDULED: <2023-12-05 Tue ++1d>
 - State "DONE"       from "ACTIVE"     [2023-10-13 Fri 13:03]
 It might be required several times a day, but first time in the early
 morning.
-* RAW Tomorrow's agenda brush-up
-SCHEDULED: <2023-12-05 Tue ++1d>
+* TODO Tomorrow's agenda brush-up
+SCHEDULED: <2023-12-06 Wed ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-12-04 Mon 11:19]
+:LAST_REPEAT: [2023-12-05 Tue 15:00]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-12-05 Tue 15:00]
 - State "DONE"       from "ACTIVE"     [2023-12-04 Mon 11:19]
 - State "DONE"       from "ACTIVE"     [2023-12-01 Fri 17:23]
 - State "DONE"       from "ACTIVE"     [2023-11-30 Thu 15:35]
@@ -334,7 +340,7 @@ Are able to alleviate the pain in your wrists and facilitate the whole
 process by significant cut of ~command typing~ time. In the another
 hand you need to foster and stimulate their usage on the regular basics.
 ** RAW Key-cord extension
-SCHEDULED: <2023-12-06 Wed ++2w>
+SCHEDULED: <2023-12-25 Mon ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-20 Mon 16:19]
 :END:
