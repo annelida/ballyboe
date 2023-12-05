@@ -133,7 +133,7 @@ Object's methods are functions that belong to the object.
 
 
 **** RAW [#A] Python Unit test module description and structure.
-SCHEDULED: <2023-12-06 Wed ++2w>
+SCHEDULED: <2023-12-28 Thu ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-16 Thu 09:23]
 :END:
@@ -232,7 +232,7 @@ SCHEDULED: <2023-12-23 Sat ++3w>
 :END:
 - State "DONE"       from "Active"     [2023-12-04 Mon 11:10]
 **** Init Elpy concepts
-SCHEDULED: <2023-12-05 Tue>
+SCHEDULED: <2023-12-06 Wed>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-23 Thu 15:54]
 :CATEGORY: Elpy
@@ -243,8 +243,8 @@ CLOCK: [2023-11-28 Tue 14:37]--[2023-11-28 Tue 15:11] =>  0:34
 CLOCK: [2023-11-23 Thu 14:58]--[2023-11-23 Thu 15:53] =>  0:55
 :END:
 [[https://elpy.readthedocs.io/en/latest/concepts.html#:~:text=Concepts-,The%20RPC%20Process,going%20on%20in%20the%20background.]]
-***** RAW Elpy the RPC Process                                   
-SCHEDULED: <2023-12-05 Tue ++2w>:
+***** Init Elpy the RPC Process                                   
+SCHEDULED: <2023-12-06 Wed ++2w>:
 - Note taken on [2023-11-30 Thu 15:31] \\
   RPC processes are used to provide code completion, documentation and
   other features. To do so, they use python packages (jedi, yapf, …)
@@ -277,7 +277,7 @@ CLOCK: [2023-11-14 Tue 15:06]--[2023-11-14 Tue 15:48] =>  0:42
 :END:
 
 **** RAW TODO Org-Babel configuration.
-SCHEDULED: <2023-12-06 Wed ++2w>
+SCHEDULED: <2023-12-20 Wed ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-22 Wed 08:46]
 :END:
@@ -322,7 +322,7 @@ CLOCK: [2023-10-26 Thu 07:54]--[2023-10-26 Thu 08:52] =>  0:58
 [[https://orgmode.org/manual/Structure-Templates.html][org templates structure]]
 
 *** DP1 Org-drill concept
-SCHEDULED: <2023-12-05 Tue>
+SCHEDULED: <2023-12-06 Wed ++2w>
 :LOGBOOK:
 CLOCK: [2023-12-03 Sun 12:32]--[2023-12-03 Sun 13:04] =>  0:32
 CLOCK: [2023-11-30 Thu 15:36]--[2023-12-01 Fri 07:55] => 16:19
@@ -332,8 +332,8 @@ CLOCK: [2023-11-28 Tue 08:00]--[2023-11-28 Tue 08:58] =>  0:58
 https://orgmode.org/worg/org-contrib/org-drill.html
 https://orgmode.org/worg/org-contrib/org-drill.html#org51fd4f9
 
-*** RAW Org-capture templates
-SCHEDULED: <2023-12-05 Tue ++1d>
+*** DP0 Org-capture templates
+SCHEDULED: <2023-12-06 Wed ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2023-12-04 Mon 11:20]
 :END:
@@ -799,7 +799,7 @@ CLOCK: [2023-10-25 Wed 10:36]--[2023-10-25 Wed 11:16] =>  0:40
   a feature branch.
 
 **** Init TODO [#A] Git/Magit undo options.
-SCHEDULED: <2023-12-05 Tue>
+SCHEDULED: <2023-12-06 Wed>
 - Note taken on [2023-10-23 Mon 08:47] \\
   If you want to redo that commit, make the additional
   changes you forgot, stage them, and commit again using
@@ -836,11 +836,12 @@ SCHEDULED: <2023-12-05 Tue>
   tag
   version
 
-** DP1 Speed-typing
-SCHEDULED: <2023-12-05 Tue ++1d>
+** Todo Speed-typing
+SCHEDULED: <2023-12-06 Wed ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-12-04 Mon 11:11]
+:LAST_REPEAT: [2023-12-05 Tue 14:59]
 :END:
+- State "DONE"       from "Active"     [2023-12-05 Tue 14:59]
 - State "DONE"       from "Active"     [2023-12-04 Mon 11:11]
 - State "DONE"       from "Active"     [2023-11-29 Wed 18:16]
 - State "DONE"       from "Active"     [2023-11-29 Wed 18:15]
@@ -956,7 +957,7 @@ CLOCK: [2023-11-13 Mon 12:21]--[2023-11-13 Mon 13:06] =>  0:45
 : /home/vikky/git/ballyboe/bookworm/agenda
 
 ***** Todo Python Import variations
-SCHEDULED: <2023-12-05 Tue ++4d>
+SCHEDULED: <2023-12-06 Wed ++4d>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-28 Tue 10:38]
 :END:
@@ -1018,8 +1019,8 @@ SCHEDULED: <2023-12-10 Sun ++5d>
 CLOCK: [2023-11-28 Tue 10:40]--[2023-11-28 Tue 11:14] =>  0:34
 CLOCK: [2023-11-24 Fri 14:29]--[2023-11-24 Fri 14:52] =>  0:23
 :END:
-***** Init Python how to code strings
-SCHEDULED: <2023-12-05 Tue>
+***** RAW Python how to code strings
+SCHEDULED: <2023-12-06 Wed>
 
 *** Computer science distillled
 :PROPERTIES:
@@ -1029,16 +1030,16 @@ SCHEDULED: <2023-12-05 Tue>
 **** RAW Computer science distilled - Basic
 
 ***** RAW Computer science Mathematical Model
-SCHEDULED: <2023-12-05 Tue>
+SCHEDULED: <2023-12-06 Wed>
 
 **** RAW Computer science distilled - Complexity
 **** RAW Computer science distilled - Strategy
-SCHEDULED: <2023-12-05 Tue ++1d>
+SCHEDULED: <2023-12-06 Wed ++1d>
 
 *** "Talk Python to me" podcasts
 
 **** Init Transcript 10 Tips and Tools for Developer Productivity
-SCHEDULED: <2023-12-05 Tue>
+SCHEDULED: <2023-12-06 Wed>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-23 Thu 15:54]
 :END:

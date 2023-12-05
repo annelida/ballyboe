@@ -44,10 +44,11 @@ about how the program works are:
 
 --* INIT Conclusion*: the wisest decision is just to use it properly!
 * INIT [#A] Deliberate practice
-SCHEDULED: <2023-12-05 Tue ++1d>
+SCHEDULED: <2023-12-06 Wed ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-12-04 Mon 11:09]
+:LAST_REPEAT: [2023-12-05 Tue 14:58]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-12-05 Tue 14:58]
 - State "DONE"       from "ACTIVE"     [2023-12-04 Mon 11:09]
 - State "DONE"       from "ACTIVE"     [2023-12-01 Fri 17:21]
 - State "DONE"       from "ACTIVE"     [2023-11-30 Thu 15:34]
@@ -77,11 +78,12 @@ CLOCK: [2023-11-24 Fri 08:31]--[2023-11-24 Fri 09:02] =>  0:31
 - State "DONE"       from "ACTIVE"     [2023-11-07 Tue 18:19]
 when you do challenging but indispensable tasks by yourself
 * INIT [#A] Help about *Help*
-SCHEDULED: <2023-12-05 Tue ++1d>
+SCHEDULED: <2023-12-06 Wed ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-12-04 Mon 11:09]
+:LAST_REPEAT: [2023-12-05 Tue 14:58]
 :CATEGORY: Help
 :END:
+- State "DONE"       from "ACTIVE"     [2023-12-05 Tue 14:58]
 - State "DONE"       from "ACTIVE"     [2023-12-04 Mon 11:09]
 - State "DONE"       from "ACTIVE"     [2023-12-01 Fri 17:21]
 - State "DONE"       from "ACTIVE"     [2023-12-01 Fri 17:21]
@@ -108,11 +110,12 @@ Initially all software was used by the ancient (true) users by its
 Stack-Overflow suggestions and notes. Bear this fact in mind do your
 job as it would be done in a sure and fire manner.
 
-** INIT [#A] *Python* embedded help system
-SCHEDULED: <2023-12-05 Tue ++2d/3d>
+** RAW [#A] *Python* embedded help system
+SCHEDULED: <2023-12-07 Thu ++2d/3d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-12-04 Mon 11:10]
+:LAST_REPEAT: [2023-12-05 Tue 14:58]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-12-05 Tue 14:58]
 - State "DONE"       from "ACTIVE"     [2023-12-04 Mon 11:10]
 - State "DONE"       from "ACTIVE"     [2023-12-01 Fri 17:22]
 - State "DONE"       from "ACTIVE"     [2023-11-29 Wed 18:16]
@@ -150,8 +153,8 @@ SCHEDULED: <2023-12-06 Wed ++1d>
   - features;
 - Content;
 - Source code and =docstrings=
-** Emacs' embedded help system
-SCHEDULED: <2023-12-05 Tue>
+** AMPLE Emacs' embedded help system
+CLOSED: [2023-12-05 Tue 14:58] SCHEDULED: <2023-12-06 Wed>
 - Note taken on [2023-10-14 Sat 08:14] \\
 
   C-h C-h or C-h ? to invoke Emacs built-n key.
@@ -178,10 +181,11 @@ CLOCK: [2023-10-14 Sat 07:30]--[2023-10-14 Sat 08:27] =>  0:57
 Very straighforward system out from 10 initial keys to use in embedded
 *Help* browser.OA To use several *Help* buffers use =M-x raname uniquely=
 * INIT [#B] Help about *info*
-SCHEDULED: <2023-12-05 Tue ++1d>
+SCHEDULED: <2023-12-06 Wed ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-12-04 Mon 11:10]
+:LAST_REPEAT: [2023-12-05 Tue 14:58]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-12-05 Tue 14:58]
 - State "DONE"       from "ACTIVE"     [2023-12-04 Mon 11:10]
 - State "DONE"       from "ACTIVE"     [2023-12-01 Fri 17:23]
 - State "DONE"       from "ACTIVE"     [2023-11-30 Thu 15:34]
