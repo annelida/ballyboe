@@ -64,11 +64,12 @@ SCHEDULED: <2023-12-07 Thu ++1d>
 - State "DONE"       from "ACTIVE"     [2023-10-13 Fri 13:02]
 ** DONE Test
 CLOSED: [2023-11-29 Wed 18:16] SCHEDULED: <2023-11-28 Tue>
-* TODO *PUSH*
-SCHEDULED: <2023-12-06 Wed ++1d>
+* RAW *PUSH*
+SCHEDULED: <2023-12-07 Thu ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-12-05 Tue 15:00]
+:LAST_REPEAT: [2023-12-06 Wed 16:12]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-12-06 Wed 16:12]
 - State "DONE"       from "ACTIVE"     [2023-12-05 Tue 15:00]
 - State "DONE"       from "ACTIVE"     [2023-12-04 Mon 11:18]
 - State "DONE"       from "ACTIVE"     [2023-12-01 Fri 17:23]
@@ -147,11 +148,12 @@ workspace:
   * k to mark buffers for kill (D appears next to buffer)
   * x to execute kill
     
-* TODO Workspace clean-up
-SCHEDULED: <2023-12-06 Wed ++1w>
+* RAW Workspace clean-up
+SCHEDULED: <2023-12-13 Wed ++1w>
 :PROPERTIES:
-:LAST_REPEAT: [2023-11-29 Wed 18:20]
+:LAST_REPEAT: [2023-12-06 Wed 16:12]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-12-06 Wed 16:12]
 - State "DONE"       from "ACTIVE"     [2023-11-29 Wed 18:20]
 - State "DONE"       from "ACTIVE"     [2023-11-22 Wed 14:18]
 - State "DONE"       from "ACTIVE"     [2023-11-15 Wed 15:56]
@@ -183,11 +185,12 @@ workspace:
   At the bottom right, select the time - Settings
   At the bottom left, select: Advanced - About ChromeOS - Select Check for updates.
 
-* TODO [#B] Evening meet-up
-SCHEDULED: <2023-12-06 Wed ++1d>
+* RAW [#B] Evening meet-up
+SCHEDULED: <2023-12-07 Thu ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-12-05 Tue 15:00]
+:LAST_REPEAT: [2023-12-06 Wed 16:12]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-12-06 Wed 16:12]
 - State "DONE"       from "ACTIVE"     [2023-12-05 Tue 15:00]
 - State "DONE"       from "ACTIVE"     [2023-12-04 Mon 11:18]
 - State "DONE"       from "ACTIVE"     [2023-12-01 Fri 17:23]
@@ -232,11 +235,12 @@ SCHEDULED: <2023-12-06 Wed ++1d>
 - State "DONE"       from "ACTIVE"     [2023-10-14 Sat 14:24]
 - State "DONE"       from "ACTIVE"     [2023-10-13 Fri 13:01]
 To discuss actual questions and find answers.
-* TODO Daily taskset schedulling
-SCHEDULED: <2023-12-06 Wed ++1d>
+* RAW Daily taskset schedulling
+SCHEDULED: <2023-12-07 Thu ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-12-05 Tue 15:00]
+:LAST_REPEAT: [2023-12-06 Wed 16:12]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-12-06 Wed 16:12]
 - State "DONE"       from "ACTIVE"     [2023-12-05 Tue 15:00]
 - State "DONE"       from "ACTIVE"     [2023-12-04 Mon 11:18]
 - State "DONE"       from "ACTIVE"     [2023-12-01 Fri 17:23]
@@ -283,11 +287,12 @@ SCHEDULED: <2023-12-06 Wed ++1d>
 - State "DONE"       from "ACTIVE"     [2023-10-13 Fri 13:03]
 It might be required several times a day, but first time in the early
 morning.
-* TODO Tomorrow's agenda brush-up
-SCHEDULED: <2023-12-06 Wed ++1d>
+* RAW Tomorrow's agenda brush-up
+SCHEDULED: <2023-12-07 Thu ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-12-05 Tue 15:00]
+:LAST_REPEAT: [2023-12-06 Wed 16:12]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-12-06 Wed 16:12]
 - State "DONE"       from "ACTIVE"     [2023-12-05 Tue 15:00]
 - State "DONE"       from "ACTIVE"     [2023-12-04 Mon 11:19]
 - State "DONE"       from "ACTIVE"     [2023-12-01 Fri 17:23]
@@ -336,15 +341,19 @@ SCHEDULED: <2023-12-06 Wed ++1d>
 * Key-chords
 :PROPERTIES:
 :CATEGORY: Key-Chords
+:END:
+:PROPERTIES:
+:CATEGORY: Key-Chords
 Are able to alleviate the pain in your wrists and facilitate the whole
 process by significant cut of ~command typing~ time. In the another
 hand you need to foster and stimulate their usage on the regular basics.
 ** RAW Key-cord extension
-SCHEDULED: <2023-12-25 Mon ++2w>
+SCHEDULED: <2023-12-07 Thu ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-20 Mon 16:19]
 :END:
 - State "DONE"       from "ACTIVE"     [2023-11-20 Mon 16:19]
 ** Decluttering
+SCHEDULED: <2023-12-07 Thu>
 Re-order and get rid of any littern (sweep it out)
 SCHEDULED: <2023-11-19 Sun ++4w>
