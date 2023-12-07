@@ -259,44 +259,6 @@ SCHEDULED: <2023-12-10 Sun ++4d>
 - State "DONE"       from "ACTIVE"     [2023-11-21 Tue 18:12]
 - State "DONE"       from "ACTIVE"     [2023-11-17 Fri 08:55]
 
-The word "practice" often associates with regular repetition -
-sports exercises, coocking, text typing, vocabulary repetition.
-Just repeating a skill or task, even over a period of many years,
-doesn’t build experience. Many people give up on learning a new
-skill or only reach a middling level of competence because they
-are not making much progress. That’s because once you reach a
-reasonable level of competence and are able to do what you need
-to do, the skill becomes automatic. At best, you’re maintaining
-your abilities, but not improving them.
-
-Deliberate practice is a system of regularly repetitive conscious
-learning activities that are conducted for improving an individual's
-skills and performance that requires many cognitive efforts, maximum
-focus Deliberate practice is conducted with the goal of improving an
-individual's productivity.
-
-The rules of deliberate practice:
- 1. Be engaged and motivated. It will helps in the hard parts of
-    learning process - the frustration, the failures, the slow progres
-    period;
- 2. Break the overall learning process down into small chunks;
- 3. Identify your weaknesses, test new strategies for each chunk;
- 4. Integrate your new learning experience into the overall process;
- 5. Control the duration of each sessision. The deliberate practice
-    requires maximum focus and attention. The overall duration should
-    not exeed 2 hours.
- 6. Search for constructive feedback. Good tutor can track your
-    progress, find small ways to improve, and hold you accountable to
-    deliveringyour best effort each day.
-
-Deliberate practiсe requires permanent cognitive effort and
-patience and have no immediate rewards. It is important to be
-consistent and persistent.  If you put in the time and
-effort to tap into the principles of deliberate practice, you’re
-succefully achieve a experience.
-
-
-
 On this stage I use pseudo tests from the books and practice with them
 in my Python Interpreter and using Org-babel source code
 opportunity. It partially allows me to understand how it works.
