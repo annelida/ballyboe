@@ -1,0 +1,77 @@
+#+BEGIN_EXPORT html
+---
+layout: post
+title: Deliberate practice
+subtitle: feel and view
+permalink: /deliberate-practice.html
+categories: [Learning, Methodology]
+tags: [emacs, org-mode, org-agenda, double-loop-learning]
+---
+#+END_EXPORT
+
+#+STARTUP: showall indent
+#+OPTIONS: tags:nil num:nil \n:nil @:t ::t |:t ^:{} _:{} *:t
+#+TOC: headlines 2
+#+PROPERTY:header-args :results output :exports both :eval no-export
+#+CATEGORY: Methodolody
+#+TODO: RAW INIT TODO ACTIVE | DONE
+
+* RAW Preface
+SCHEDULED: <2023-12-07 Thu>
+
+The word "practice" often associates with "regularly repeated
+actions" - sports exercises, coocking, text typing, vocabulary
+repetition.
+
+But just repeating a skill or task, even over a period of many years,
+doesn’t build experience. Many people give up on learning a new skill
+or only reach a middling level of competence because they are not
+making much progress. That’s because once you reach a reasonable level
+of competence and are able to do what you need to do, the skill
+becomes automatic. At best, you’re maintaining your abilities, but not
+improving them.
+
+
+* Several definitions
+SCHEDULED: <2023-12-07 Thu>
+
+*Practice* is a repetition of an activity to improve a skill.
+
+*Deliberate practice* is a system of regularly repetitive conscious
+learning activities that are conducted for improving an individual's
+skills and performance that requires many cognitive efforts, maximum
+focus Deliberate practice is conducted with the goal of improving an
+individual's productivity.
+
+
+* Real life samples
+
+* Deliberate practice rules
+
+1. Be engaged and motivated. It will helps in the hard parts of
+   learning process - the frustration, the failures, the slow progres
+   period;
+2. Break the overall learning process down into small chunks;
+3. Identify your weaknesses, test new strategies for each chunk;
+4. Integrate your new learning experience into the overall process;
+5. Delibarate practice requires recovery time. The process requires
+   maximum focus and attention. It is challenging and impossible to do
+   it all day long. The overall duration should not exeed 2 hours per
+   day;
+6. Search the constructive feedback and measurement. Good tutor can
+   track your progress, find small ways to improve, and hold you
+   accountable to delivering your best effort each day.
+
+* Conclusion
+
+Regular repetition helps to improve speed, increased confidence but
+doesn't improve our performance.
+
+Mindness activity is the enemy of learning because our progress
+becomes imaginated. We think what we are gained experience. But we
+only reinforcing our current habits.
+
+Deliberate practice have no immediate reward. Important to be
+consistent and persistent.
+
+Delibarate practice help us to maximize our potential.
