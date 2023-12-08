@@ -198,9 +198,12 @@ Get enough sleep before studying. Eat less can make your brain more clear and ea
 to focus on the task.
 
 * RAW [#C] What is the average time you should spend on each session
-SCHEDULED: <2023-12-07 Thu ++4d>
+SCHEDULED: <2023-12-08 Fri ++4d>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-21 Tue 18:11]
+:END:
+:LOGBOOK:
+CLOCK: [2023-12-08 Fri 09:00]
 :END:
 
 - State "DONE"       from "ACTIVE"     [2023-11-21 Tue 18:11]
@@ -232,6 +235,15 @@ All relevant questions should be questioned while task resolving.
  So, you *must* write these questions down during session and answer
  they a little bit later.
 
+* RAW Raw state
+SCHEDULED: <2023-12-08 Fri>
+
+Is for just captured and unscheduled yet tasks. In this stage it is
+necessary to find the best theoretical source for studying (in most
+cases it is official documentation). Read the new material, understand
+is it necessary to study itt in depth in future? If further learning
+makes sense the task's state changes to *INIT* and it is scheduled.
+
 
 * RAW Initial chapter dissection
 SCHEDULED: <2023-12-10 Sun ++4d>
@@ -241,14 +253,18 @@ SCHEDULED: <2023-12-10 Sun ++4d>
 
 - State "DONE"       from "ACTIVE"     [2023-11-21 Tue 18:12]
 - State "DONE"       from "ACTIVE"     [2023-11-17 Fri 08:55]
-At the Initial chapter dissection stage, I begin a detailed study of the material:
 
- - I find the relevant theoretical material;
+At the Initial chapter dissection stage, I begin a detailed and carefully
+study of the material:
  - Determine a list of questions that I need to learn;
  - Schedule each question;
- - Start to learn each question in detail using Pomodoro technique
-   and extract of marrow from each studied material;
- - I write down all the questions that arise. 
+ - Start to learn each question in detail and extract of marrow from
+   each studied material by doing some notes in my own words;
+ - Write down all the questions that arise and find answers.
+ - Read the material again.
+
+After the initial analysis task it's status switches (++1d/2d) on
+to *Deliberate practice 0 session*.
    
 * RAW Deliberate practice 0 session
 SCHEDULED: <2023-12-10 Sun ++4d>
