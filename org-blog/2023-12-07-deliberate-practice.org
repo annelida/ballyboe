@@ -13,14 +13,14 @@ tags: [emacs, org-mode, org-agenda, double-loop-learning]
 #+OPTIONS: tags:nil num:nil \n:nil @:t ::t |:t ^:{} _:{} *:t
 #+TOC: headlines 2
 #+PROPERTY:header-args :results output :exports both :eval no-export
-#+CATEGORY: Methodolody
+#+CATEGORY: Deliberate practice
 #+TODO: RAW INIT TODO ACTIVE | DONE
 
-* RAW Preface
-SCHEDULED: <2023-12-07 Thu>
+* INIT Preface
+SCHEDULED: <2023-12-08 Fri>
 
 The word "practice" often associates with "regularly repeated
-actions" - sports exercises, coocking, text typing, vocabulary
+actions" - sports exercises, cooking, text typing, vocabulary
 repetition.
 
 But just repeating a skill or task, even over a period of many years,
@@ -32,25 +32,44 @@ becomes automatic. At best, you’re maintaining your abilities, but not
 improving them.
 
 
-* Several definitions
-SCHEDULED: <2023-12-07 Thu>
+* RAW Several definitions
+SCHEDULED: <2023-12-08 Fri>
 
 *Practice* is a repetition of an activity to improve a skill.
 
 *Deliberate practice* is a system of regularly repetitive conscious
 learning activities that are conducted for improving an individual's
 skills and performance that requires many cognitive efforts, maximum
-focus Deliberate practice is conducted with the goal of improving an
-individual's productivity.
+focus. Deliberate practice is conducted with the goal of improving an
+individual's productivity and build experience.
 
 
-* Real life samples
+* RAW Real life samples
+SCHEDULED: <2023-12-08 Fri>
+:LOGBOOK:
+CLOCK: [2023-12-08 Fri 08:15]
+:END:
 
-* Deliberate practice rules
+Benjamin Franklin: A self-educated writer.
 
-1. Be engaged and motivated. It will helps in the hard parts of
-   learning process - the frustration, the failures, the slow progres
-   period;
+Benjamin Franklin had been inspired by the quality and style of
+articles in a British magazine he read, and wanted to improve his own
+writing. He wide used the principles of deliberate practice into
+action. He tried to replicate the texts from the magazine. To help
+himself, he wrote short notes of the magazine’s content, so he could
+be restored of the meaning of each sentence. Franklin wanted to create
+his own articles by his own words that were just as detailed, witty,
+and neatly written as the original. When he compared his work to the
+original, he would identify common instances where his writing fell
+short and refine this practice technique to focus on those particular
+weaknesses.
+
+* RAW Deliberate practice rules
+SCHEDULED: <2023-12-08 Fri>
+
+1. Be inspired, engaged and motivated. It will helps in the hard parts
+   of learning process - the frustration, the failures, the slow
+   progres period;
 2. Break the overall learning process down into small chunks;
 3. Identify your weaknesses, test new strategies for each chunk;
 4. Integrate your new learning experience into the overall process;
@@ -62,7 +81,8 @@ individual's productivity.
    track your progress, find small ways to improve, and hold you
    accountable to delivering your best effort each day.
 
-* Conclusion
+* INIT Conclusion
+SCHEDULED: <2023-12-08 Fri>
 
 Regular repetition helps to improve speed, increased confidence but
 doesn't improve our performance.
