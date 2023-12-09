@@ -198,12 +198,12 @@ Get enough sleep before studying. Eat less can make your brain more clear and ea
 to focus on the task.
 
 * RAW [#C] What is the average time you should spend on each session
-SCHEDULED: <2023-12-08 Fri ++4d>
+SCHEDULED: <2023-12-11 Mon ++4d>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-21 Tue 18:11]
 :END:
 :LOGBOOK:
-CLOCK: [2023-12-08 Fri 09:00]
+CLOCK: [2023-12-08 Fri 09:00]--[2023-12-08 Fri 09:29] =>  0:29
 :END:
 
 - State "DONE"       from "ACTIVE"     [2023-11-21 Tue 18:11]
@@ -236,7 +236,7 @@ All relevant questions should be questioned while task resolving.
  they a little bit later.
 
 * RAW Raw state
-SCHEDULED: <2023-12-08 Fri>
+SCHEDULED: <2023-12-11 Mon>
 
 Is for just captured and unscheduled yet tasks. In this stage it is
 necessary to find the best theoretical source for studying (in most

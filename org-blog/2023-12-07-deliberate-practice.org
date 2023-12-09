@@ -1,22 +1,4 @@
-#+BEGIN_EXPORT html
----
-layout: post
-title: Deliberate practice
-subtitle: feel and view
-permalink: /deliberate-practice.html
-categories: [Learning, Methodology]
-tags: [emacs, org-mode, org-agenda, double-loop-learning]
----
-#+END_EXPORT
 
-#+STARTUP: showall indent
-#+OPTIONS: tags:nil num:nil \n:nil @:t ::t |:t ^:{} _:{} *:t
-#+TOC: headlines 2
-#+PROPERTY:header-args :results output :exports both :eval no-export
-#+CATEGORY: Deliberate practice
-#+TODO: RAW INIT TODO ACTIVE | DONE
-
-* INIT Preface
 SCHEDULED: <2023-12-08 Fri>
 
 The word "practice" often associates with "regularly repeated
@@ -33,7 +15,7 @@ improving them.
 
 
 * RAW Several definitions
-SCHEDULED: <2023-12-08 Fri>
+SCHEDULED: <2023-12-11 Mon>
 
 *Practice* is a repetition of an activity to improve a skill.
 
@@ -45,9 +27,9 @@ individual's productivity and build experience.
 
 
 * RAW Real life samples
-SCHEDULED: <2023-12-08 Fri>
+SCHEDULED: <2023-12-10 Sun>
 :LOGBOOK:
-CLOCK: [2023-12-08 Fri 08:15]
+CLOCK: [2023-12-08 Fri 08:15]--[2023-12-08 Fri 09:00] =>  0:45
 :END:
 
 Benjamin Franklin: A self-educated writer.
@@ -65,7 +47,7 @@ short and refine this practice technique to focus on those particular
 weaknesses.
 
 * RAW Deliberate practice rules
-SCHEDULED: <2023-12-08 Fri>
+SCHEDULED: <2023-12-11 Mon>
 
 1. Be inspired, engaged and motivated. It will helps in the hard parts
    of learning process - the frustration, the failures, the slow
@@ -82,7 +64,7 @@ SCHEDULED: <2023-12-08 Fri>
    accountable to delivering your best effort each day.
 
 * INIT Conclusion
-SCHEDULED: <2023-12-08 Fri>
+SCHEDULED: <2023-12-11 Mon>
 
 Regular repetition helps to improve speed, increased confidence but
 doesn't improve our performance.
