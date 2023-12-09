@@ -75,22 +75,24 @@ CLOCK: [2023-11-04 Sat 10:45]--[2023-11-04 Sat 11:04] =>  0:19
 ** Advantages of automation testing
 ** Conclusion
 
-* INIT [#A] What is Selenium?
-SCHEDULED: <2023-12-07 Thu ++2w>
+* RAW [#A] What is Selenium?
+SCHEDULED: <2023-12-25 Mon ++2w>
 :PROPERTIES:
-:LAST_REPEAT: [2023-11-06 Mon 16:06]
+:LAST_REPEAT: [2023-12-07 Thu 19:31]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-12-07 Thu 19:31]
 - State "DONE"       from "ACTIVE"     [2023-11-06 Mon 16:06]
 - State "DONE"       from "ACTIVE"     [2023-11-06 Mon 16:06]
 - Note taken on [2023-10-30 Mon 10:08] \\
   Selenium is Open source test automation tool that provides API/Libraries
   to automate the tests; in turn, it simulates the actions on the browser.
 * Components of Selenium
-* INIT [#A] What is Selenium WebDriver?
-SCHEDULED: <2023-12-07 Thu ++2w>
+* RAW [#A] What is Selenium WebDriver?
+SCHEDULED: <2023-12-25 Mon ++2w>
 :PROPERTIES:
-:LAST_REPEAT: [2023-11-06 Mon 16:06]
+:LAST_REPEAT: [2023-12-07 Thu 19:31]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-12-07 Thu 19:31]
 - State "DONE"       from "ACTIVE"     [2023-11-06 Mon 16:06]
 - Note taken on [2023-10-30 Mon 10:15] \\
   Allows direct communication 
@@ -117,8 +119,8 @@ CLOSED: [2023-11-06 Mon 15:57]
   It is available as a browser extension or plugin. Selenium IDE helps
   beginners and manual testers to learn more efficiently.
  
-* RAW [#A] Features of Selenium IDE
-SCHEDULED: <2023-12-07 Thu ++2w>
+* INIT [#A] Features of Selenium IDE
+SCHEDULED: <2023-12-12 Tue ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-06 Mon 16:07]
 :END:
@@ -149,7 +151,7 @@ CLOSED: [2023-11-06 Mon 15:57]
   review and share detailed testing outcomes.
 
 * TODO Selenium IDE Features in Detail
-SCHEDULED: <2023-12-07 Thu>
+SCHEDULED: <2023-12-12 Tue>
 - Note taken on [2023-11-06 Mon 09:43] \\
   Selenium Projects are always saved with .side extension.
 
