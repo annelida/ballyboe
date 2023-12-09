@@ -63,7 +63,7 @@
 ))
 
 ;; Additional config section:
-(load "~/.emacs.d/key-chords.el")
+(load "~/key-chords.el")
 
 ;; Jekyll settings there -->
 ;;
