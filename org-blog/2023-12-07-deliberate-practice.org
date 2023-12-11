@@ -27,7 +27,7 @@ individual's productivity and build experience.
 
 
 * RAW Real life samples
-SCHEDULED: <2023-12-10 Sun>
+SCHEDULED: <2023-12-11 Mon>
 :LOGBOOK:
 CLOCK: [2023-12-08 Fri 08:15]--[2023-12-08 Fri 09:00] =>  0:45
 :END:
@@ -45,6 +45,15 @@ and neatly written as the original. When he compared his work to the
 original, he would identify common instances where his writing fell
 short and refine this practice technique to focus on those particular
 weaknesses.
+
+Demosthenes: a statesman and the finest orator in ancient Greece.
+
+As a young man, he suffered from speech impediment, but he was
+determined to improve. According to legends, he spoke with pebbles in
+his mouth, which made him exert super-hard to get the words
+out. Practicing with stones improved his diction. And to improve the
+projection of his voice, he practiced speeches while running and in
+the backdrop of the roar of ocean.
 
 * RAW Deliberate practice rules
 SCHEDULED: <2023-12-11 Mon>
