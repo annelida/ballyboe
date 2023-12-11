@@ -12,11 +12,13 @@
 CLOSED: [2023-10-26 Thu 17:32] SCHEDULED: <2023-10-29 Sun>
 Naturally, by its definition they are the routine, usual and regular
 tasks.
-* TODO [#A] Git commits purification
-SCHEDULED: <2023-12-10 Sun ++1d>
+* INIT [#A] Git commits purification
+SCHEDULED: <2023-12-12 Tue ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-12-09 Sat 17:50]
+:LAST_REPEAT: [2023-12-11 Mon 18:21]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-12-11 Mon 18:21]
+- State "DONE"       from "ACTIVE"     [2023-12-10 Sun 18:52]
 - State "DONE"       from "ACTIVE"     [2023-12-09 Sat 17:50]
 - State "DONE"       from "ACTIVE"     [2023-12-07 Thu 19:32]
 - State "DONE"       from "ACTIVE"     [2023-12-05 Tue 15:02]
@@ -66,11 +68,12 @@ SCHEDULED: <2023-12-10 Sun ++1d>
 - State "DONE"       from "ACTIVE"     [2023-10-13 Fri 13:02]
 ** DONE Test
 CLOSED: [2023-11-29 Wed 18:16] SCHEDULED: <2023-11-28 Tue>
-* RAW *PUSH*
-SCHEDULED: <2023-12-11 Mon ++1d>
+* INIT *PUSH*
+SCHEDULED: <2023-12-12 Tue ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-12-09 Sat 17:53]
+:LAST_REPEAT: [2023-12-11 Mon 18:24]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-12-11 Mon 18:24]
 - State "DONE"       from "ACTIVE"     [2023-12-09 Sat 17:53]
 - State "DONE"       from "ACTIVE"     [2023-12-09 Sat 17:53]
 - State "DONE"       from "ACTIVE"     [2023-12-07 Thu 19:33]
@@ -191,11 +194,13 @@ workspace:
   At the bottom right, select the time - Settings
   At the bottom left, select: Advanced - About ChromeOS - Select Check for updates.
 
-* RAW [#B] Evening meet-up
-SCHEDULED: <2023-12-10 Sun ++1d>
+* INIT [#B] Evening meet-up
+SCHEDULED: <2023-12-12 Tue ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-12-09 Sat 17:54]
+:LAST_REPEAT: [2023-12-11 Mon 18:24]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-12-11 Mon 18:24]
+- State "DONE"       from "ACTIVE"     [2023-12-10 Sun 18:53]
 - State "DONE"       from "ACTIVE"     [2023-12-09 Sat 17:54]
 - State "DONE"       from "ACTIVE"     [2023-12-07 Thu 19:33]
 - State "DONE"       from "ACTIVE"     [2023-12-06 Wed 16:12]
@@ -243,11 +248,13 @@ SCHEDULED: <2023-12-10 Sun ++1d>
 - State "DONE"       from "ACTIVE"     [2023-10-14 Sat 14:24]
 - State "DONE"       from "ACTIVE"     [2023-10-13 Fri 13:01]
 To discuss actual questions and find answers.
-* RAW Daily taskset schedulling
-SCHEDULED: <2023-12-10 Sun ++1d>
+* INIT Daily taskset schedulling
+SCHEDULED: <2023-12-12 Tue ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-12-09 Sat 17:54]
+:LAST_REPEAT: [2023-12-11 Mon 18:25]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-12-11 Mon 18:25]
+- State "DONE"       from "ACTIVE"     [2023-12-10 Sun 18:53]
 - State "DONE"       from "ACTIVE"     [2023-12-09 Sat 17:54]
 - State "DONE"       from "ACTIVE"     [2023-12-07 Thu 19:33]
 - State "DONE"       from "ACTIVE"     [2023-12-06 Wed 16:12]
@@ -297,11 +304,13 @@ SCHEDULED: <2023-12-10 Sun ++1d>
 - State "DONE"       from "ACTIVE"     [2023-10-13 Fri 13:03]
 It might be required several times a day, but first time in the early
 morning.
-* RAW Tomorrow's agenda brush-up
-SCHEDULED: <2023-12-10 Sun ++1d>
+* INIT Tomorrow's agenda brush-up
+SCHEDULED: <2023-12-12 Tue ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-12-09 Sat 17:54]
+:LAST_REPEAT: [2023-12-11 Mon 18:25]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-12-11 Mon 18:25]
+- State "DONE"       from "ACTIVE"     [2023-12-10 Sun 18:53]
 - State "DONE"       from "ACTIVE"     [2023-12-09 Sat 17:54]
 - State "DONE"       from "ACTIVE"     [2023-12-07 Thu 19:33]
 - State "DONE"       from "ACTIVE"     [2023-12-06 Wed 16:12]
@@ -360,7 +369,7 @@ Are able to alleviate the pain in your wrists and facilitate the whole
 process by significant cut of ~command typing~ time. In the another
 hand you need to foster and stimulate their usage on the regular basics.
 ** RAW Key-cord extension
-SCHEDULED: <2023-12-11 Mon ++2w>
+SCHEDULED: <2023-12-14 Thu ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-12-07 Thu 19:33]
 :END:
@@ -377,8 +386,8 @@ CLOCK: [2023-12-08 Fri 09:29]--[2023-12-08 Fri 10:22] =>  0:53
 :END:
 Re-order and get rid of any littern (sweep it out)
 SCHEDULED: <2023-12-17 Sun ++4w>
-* YouTube into articles
-SCHEDULED: <2023-12-11 Mon ++2d/3d>
+* RAW YouTube into articles
+SCHEDULED: <2023-12-12 Tue ++2d/3d>
 
 https://www.youtube.com/watch?v=lcyHC9HLTzc&list=PLdGzcof2XV5oRreuRZByoN1oG8q_f_466&pp=gAQBiAQB
 [[file:~/git/ballyboe/org-blog/2023-12-11-framework-thinking.org::---][Current position]]
