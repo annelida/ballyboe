@@ -120,7 +120,7 @@ CLOSED: [2023-11-06 Mon 15:57]
   beginners and manual testers to learn more efficiently.
  
 * INIT [#A] Features of Selenium IDE
-SCHEDULED: <2023-12-12 Tue ++2w>
+SCHEDULED: <2024-01-04 Thu ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-06 Mon 16:07]
 :END:
@@ -151,7 +151,7 @@ CLOSED: [2023-11-06 Mon 15:57]
   review and share detailed testing outcomes.
 
 * TODO Selenium IDE Features in Detail
-SCHEDULED: <2023-12-12 Tue>
+SCHEDULED: <2024-01-04 Thu>
 - Note taken on [2023-11-06 Mon 09:43] \\
   Selenium Projects are always saved with .side extension.
 

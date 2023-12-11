@@ -232,7 +232,7 @@ SCHEDULED: <2023-12-23 Sat ++3w>
 :END:
 - State "DONE"       from "Active"     [2023-12-04 Mon 11:10]
 **** Init Elpy concepts
-SCHEDULED: <2023-12-11 Mon>
+SCHEDULED: <2023-12-15 Fri>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-23 Thu 15:54]
 :CATEGORY: Elpy
@@ -244,7 +244,7 @@ CLOCK: [2023-11-23 Thu 14:58]--[2023-11-23 Thu 15:53] =>  0:55
 :END:
 [[https://elpy.readthedocs.io/en/latest/concepts.html#:~:text=Concepts-,The%20RPC%20Process,going%20on%20in%20the%20background.]]
 ***** Init Elpy the RPC Process                                   
-SCHEDULED: <2023-12-11 Mon ++2w>:
+SCHEDULED: <2023-12-18 Mon ++2w>:
 - Note taken on [2023-11-30 Thu 15:31] \\
   RPC processes are used to provide code completion, documentation and
   other features. To do so, they use python packages (jedi, yapf, …)
@@ -322,7 +322,7 @@ CLOCK: [2023-10-26 Thu 07:54]--[2023-10-26 Thu 08:52] =>  0:58
 [[https://orgmode.org/manual/Structure-Templates.html][org templates structure]]
 
 *** DP1 Org-drill concept
-SCHEDULED: <2023-12-11 Mon ++2w>
+SCHEDULED: <2023-12-12 Tue ++2w>
 :LOGBOOK:
 CLOCK: [2023-12-03 Sun 12:32]--[2023-12-03 Sun 13:04] =>  0:32
 CLOCK: [2023-11-30 Thu 15:36]--[2023-12-01 Fri 07:55] => 16:19
@@ -333,7 +333,7 @@ https://orgmode.org/worg/org-contrib/org-drill.html
 https://orgmode.org/worg/org-contrib/org-drill.html#org51fd4f9
 
 *** DP0 Org-capture templates
-SCHEDULED: <2023-12-11 Mon ++1d>
+SCHEDULED: <2023-12-12 Tue ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2023-12-04 Mon 11:20]
 :END:
@@ -800,7 +800,7 @@ CLOCK: [2023-10-25 Wed 10:36]--[2023-10-25 Wed 11:16] =>  0:40
   a feature branch.
 
 **** Init TODO [#A] Git/Magit undo options.
-SCHEDULED: <2023-12-11 Mon>
+SCHEDULED: <2024-01-03 Wed>
 - Note taken on [2023-10-23 Mon 08:47] \\
   If you want to redo that commit, make the additional
   changes you forgot, stage them, and commit again using
@@ -836,14 +836,16 @@ SCHEDULED: <2023-12-11 Mon>
   rebase
   tag
   version
-** Init Drilling
-SCHEDULED: <2023-12-11 Mon>
+** Init Definitions drilling 
+SCHEDULED: <2023-12-12 Tue>
 [[file:~/git/ballyboe/bookworm/drills.org::*Definitions][Definitions]]
-** DP1 Speed-typing
-SCHEDULED: <2023-12-10 Sun ++1d>
+** DP0 Speed-typing
+SCHEDULED: <2023-12-12 Tue ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-12-09 Sat 17:51]
+:LAST_REPEAT: [2023-12-11 Mon 18:23]
 :END:
+- State "DONE"       from "Active"     [2023-12-11 Mon 18:23]
+- State "DONE"       from "Active"     [2023-12-10 Sun 18:53]
 - State "DONE"       from "Active"     [2023-12-09 Sat 17:51]
 - State "DONE"       from "Active"     [2023-12-07 Thu 19:32]
 - State "DONE"       from "Active"     [2023-12-06 Wed 16:12]
@@ -962,7 +964,7 @@ CLOCK: [2023-11-13 Mon 12:21]--[2023-11-13 Mon 13:06] =>  0:45
 : /home/vikky/git/ballyboe/bookworm/agenda
 
 ***** Todo Python Import variations
-SCHEDULED: <2023-12-11 Mon ++4d>
+SCHEDULED: <2023-12-12 Tue ++4d>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-28 Tue 10:38]
 :END:
@@ -971,8 +973,8 @@ SCHEDULED: <2023-12-11 Mon ++4d>
 CLOCK: [2023-11-28 Tue 08:59]--[2023-11-28 Tue 09:23] =>  0:24
 :END:
 
-***** RAW Python run the file with executable privileges.
-SCHEDULED: <2023-12-11 Mon ++1w>
+***** Init Python run the file with executable privileges.
+SCHEDULED: <2023-12-12 Tue ++1w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-12-01 Fri 10:39]
 :CATEGORY: Learning Python
@@ -1013,11 +1015,12 @@ This is known as 'stream redirection'.
 
 **** Init Python object types
 ***** Init Python strings methods
-****** Init Python string type-specific methods
-SCHEDULED: <2023-12-10 Sun ++5d>
+****** RAW Python string type-specific methods
+SCHEDULED: <2023-12-17 Sun ++5d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-12-04 Mon 11:23]
+:LAST_REPEAT: [2023-12-11 Mon 18:27]
 :END:
+- State "DONE"       from "Active"     [2023-12-11 Mon 18:27]
 - State "DONE"       from "Active"     [2023-12-04 Mon 11:23]
 - State "DONE"       from "Active"     [2023-11-28 Tue 11:14]
 :LOGBOOK: 
@@ -1025,7 +1028,7 @@ CLOCK: [2023-11-28 Tue 10:40]--[2023-11-28 Tue 11:14] =>  0:34
 CLOCK: [2023-11-24 Fri 14:29]--[2023-11-24 Fri 14:52] =>  0:23
 :END:
 ***** RAW Python how to code strings
-SCHEDULED: <2023-12-11 Mon>
+SCHEDULED: <2023-12-12 Tue>
 
 *** Computer science distillled
 :PROPERTIES:
@@ -1035,11 +1038,11 @@ SCHEDULED: <2023-12-11 Mon>
 **** RAW Computer science distilled - Basic
 
 ***** RAW Computer science Mathematical Model
-SCHEDULED: <2023-12-11 Mon>
+SCHEDULED: <2023-12-12 Tue>
 
 **** RAW Computer science distilled - Complexity
 **** RAW Computer science distilled - Strategy
-SCHEDULED: <2023-12-11 Mon ++1d>
+SCHEDULED: <2023-12-12 Tue ++1d>
 
 *** "Talk Python to me" podcasts
 
