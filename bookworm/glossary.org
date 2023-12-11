@@ -23,11 +23,9 @@ words or terms to define it; the /tree-like structure/ of ~Org~ file
 allows to visualize this relationship with no interruptions.
 
 
-* Definition 1                                                        :drill:
+** Computer
 
-Computer
-
-** Answer
+Answer
 A computer is a programmable device that stores, retrieves, and
 processes data.
 
@@ -35,78 +33,50 @@ A computer is a machine or device that performs processes,
 calculations and operations based on instructions provided by a
 software or hardware program.
 
-* Definition 2                                                        :drill:
 
-Software
-
-** Answer
+** Software
 
 Software is a set of computer programs, instructions, associated
-documentation and data.
+documentation and data used operate computers and execute specific
+tasks.
 
-* Definition 3                                                        :drill:
-
-Hardware
-
-** Answer
+** Hardware
 
 Hardware (H/W), in the context of technology, refers to the physical
 elements that make up a computer or electronic system and everything
 else involved that is physically tangible.
 
-* Definition 4                                                        :drill:
-
-Computer program
-
-** Answer
+** Computer program
 
 A computer program is a sequence or set of instructions in a
 programming language for a computer to execute. It is one component of
 software, which also includes documentation and other *intangible*
 components.
 
-* Definition 5                                                        :drill:
 
-Source code
-
-** Answer
+** Source code
 
 A computer program in its *human-readable* form is called source code.
 
-* Definition 6                                                        :drill:
-
-Science
-
-** Answer
+** Science
 
 Science is a rigorous, systematic study that builds and organizes
 knowledge in the form explanations about the world.
 
-* Definition 7                                                        :drill:
-
-Computer Science
-
-** Answer
+** Computer Science
 
 Computer science is the study of computers and computing, including
 their theoretical and algorithmic foundations, hardware and software,
 and their uses for processing information.
 
-* Definition 8                                                        :drill:
-
-The Big-O Notation
-
-** Answer
+** The Big-O Notation
 
 Is a way to describe the speed or complexity of a given algorithm. If
 your current project demands a predefined algorithm, it's important to
 understand how fast or slow it is compared to other options.
 
-* Definition 9                                                        :drill:
 
-Systems programming
-
-** Answer
+** Systems programming
 
 System is “a set of things working together as parts of a mechanism or
 an interconnecting network.”
@@ -114,11 +84,7 @@ an interconnecting network.”
 Systems programming involves the development of the individual pieces
 of software that allow the entire system to function as a single unit.
 
-* Definition 10                                                       :drill:
-
-GUI
-
-** Answer
+** GUI
 
 A graphical user interface (GUI) is a digital interface in which a
 user interacts with graphical components such as icons, buttons, and
@@ -126,58 +92,120 @@ menus. In a GUI, the visuals displayed in the user interface convey
 information relevant to the user, as well as actions that they can
 take.
 
-* Definition 11                                                       :drill:
 
-Internet scripting
-
-** Answer
-
-A script is a list of commands that are present within the code of a
-website that defines how the website behaves in response to certain
-click requests sent by the user
-
-* Definition 11                                                       :drill:
-
-Pseudocode
-
-** Answer
+** Pseudocode
 
 Pseudocode is human-friendly code that cannot be understood by a
 machine. Pseudocode expresses computational process.
 
-* Definition 12                                                       :drill:
 
-Model
+** Model
 
-** Answer
-Is a set of concepts that represents a problem and its characteristics.
+Is a set of concepts that represents a problem and its
+characteristics.
 
-* Definition 13                                                       :drill:
 
 Principle
 
-** Answer
-
 A principle is a basic rule, belief or idea that guides you.
 
-
-* Definition 14                                                       :drill:
-
-Logic
-
-** Answer
+** Logic
 
 The thought processes that have been established as leading to valid
 solutions to problems.
 
 
-* Definition 15                                                       :drill:
-
-Deliberate practice
-
-** Answer
+** Deliberate practice
 
 Is a system of repetitive consciouos activities that are conducted for
 improving an idividual's skills and performance. It is demand many
 mind efforts, maximum focus, patience and have no immediate effect.
+
+** Software testing
+
+Is a method to check whether the actual software product matches
+expected requirement and to ensure that software product is Defect
+free.
+
+** Unit testing
+
+Refers to tests that verify the functionlity of a specific section of
+code to ensure that the specific function works as expected.
+
+** Integrating testing
+
+Is the phase in software testing in which individuals software modules
+are compined and test as group with goal  to check their compatibility.
+
+** Acceptance testing
+
+Is a test conducted to determine if the requirements of a
+specification or contract are met.
+
+** Code review
+
+Is a software quality assurance activity in which one or several
+people check a program by viewing  and reading parts of its source
+code.
+
+** Software walkthrough
+
+Is a form of software peer review in which a designer or programmer
+leads members of the development team and other interested parties
+thrpugh a software product. And the participant ask questions and make
+comments about possible errors and other possible problems.
+
+
+** An application
+
+Is a computer program designed to carry out a specific task other than
+one relating to the operation of the computer itself typically to be
+used by end-users.
+
+** Test
+
+Is a procedure intended to establish the quality, performance or
+reliability of something, especially before it is taken into
+widespread use.
+
+** Validation
+
+The act of confirming something as true or correct. Checks that the
+software product satisfies or fits intended use, i.e., the software
+meets the user requirements.
+"Are we building the right product?"
+
+** Varification
+
+Checks that the specifications are correctly implemented.
+"Are we building the product right?"
+
+** Assembly language
+
+Is any low-level programming language with a very strong
+correspondence between the instructions in the language and the
+arcitecture's machine.
+
+** A compiler
+
+Is a computer program that translates computer code written in one of
+programming language (the source language) into another language (the
+target language).
+
+** Programming language
+
+Is a system of notation for writing computer programs.
+
+** Function
+
+Is a sequence of program instuction that performs a specific task.
+
+** Module
+
+Is a discrete piece of code that can be independently created and
+maintained to be used in different systems.
+
+
+
+
 
