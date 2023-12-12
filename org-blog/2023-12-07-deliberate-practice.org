@@ -1,5 +1,34 @@
+#+BEGIN_EXPORT html
+---
+layout: post
+title: Delibarate practice 
+subtitle: feel and view
+permalink: /deleberate-practice.html
+categories: [Learning, Methodology]
+tags: [org-agenda, double-loop-learning]
+---
+#+END_EXPORT
+
+#+STARTUP: showall indent
+#+OPTIONS: tags:nil num:nil \n:nil @:t ::t |:t ^:{} _:{} *:t
+#+TOC: headlines 2
+#+PROPERTY:header-args :results output :exports both :eval no-export
+#+CATEGORY: Methodolody
+#+TODO: RAW INIT TODO ACTIVE | DONE
+
+* Preface
 
 SCHEDULED: <2023-12-08 Fri>
+
+#+begin_quote
+/"Practice makes perfect."/
+#+end_quote
+
+Practice makes proficient employees, and proficient employees make for
+a successful business.  Proficiency and experience underlies of
+performance for employees and capabilities for business by giving a
+measure of growth, skills, behaviours, and knowledge that leads to
+success.
 
 The word "practice" often associates with "regularly repeated
 actions" - sports exercises, cooking, text typing, vocabulary
