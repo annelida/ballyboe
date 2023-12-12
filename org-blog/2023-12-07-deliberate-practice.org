@@ -13,12 +13,10 @@ tags: [org-agenda, double-loop-learning]
 #+OPTIONS: tags:nil num:nil \n:nil @:t ::t |:t ^:{} _:{} *:t
 #+TOC: headlines 2
 #+PROPERTY:header-args :results output :exports both :eval no-export
-#+CATEGORY: Methodolody
+#+CATEGORY: Deliberate practice
 #+TODO: RAW INIT TODO ACTIVE | DONE
 
 * Preface
-
-SCHEDULED: <2023-12-08 Fri>
 
 #+begin_quote
 /"Practice makes perfect."/
@@ -44,7 +42,6 @@ improving them.
 
 
 * TODO Several definitions
-SCHEDULED: <2023-12-12 Tue>
 
 *Practice* is a repetition of an activity to improve a skill.
 
@@ -56,10 +53,6 @@ individual's productivity and build experience.
 
 
 * TODO Real life samples
-SCHEDULED: <2023-12-12 Tue>
-:LOGBOOK:
-CLOCK: [2023-12-08 Fri 08:15]--[2023-12-08 Fri 09:00] =>  0:45
-:END:
 
 Benjamin Franklin: A self-educated writer.
 
@@ -113,7 +106,6 @@ is enough. If you practice with your head, two hours is plenty.’”
    accountable to delivering your best effort each day.
 
 * TODO Conclusion
-SCHEDULED: <2023-12-12 Tue>
 
 Regular repetition helps to improve speed, increased confidence but
 doesn't improve our performance.
