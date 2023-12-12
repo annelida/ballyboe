@@ -86,7 +86,7 @@ Method. See synonyms, origin, and examples of method in sentences.
  how you receive information to best learn.
 
 * RAW What methodology means in learning
-SCHEDULED: <2023-12-14 Thu ++4d>
+SCHEDULED: <2023-12-15 Fri ++4d>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-20 Mon 16:13]
 :END:
@@ -164,7 +164,7 @@ crammed into a single session.
 #+end_quote
 
 * RAW How practically prepare yourself to studying
-SCHEDULED: <2023-12-14 Thu ++4d>
+SCHEDULED: <2023-12-15 Fri ++4d>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-23 Thu 11:38]
 :END:
@@ -196,8 +196,8 @@ The workplace should be clean without unnecessary objects. So that you are
 not distracted and be able to focus as much as possible.
 Get enough sleep before studying. Eat less can make your brain more clear and easier
 to focus on the task.
-* RAW How to create the best weekly agenda?
-SCHEDULED: <2023-12-14 Thu>
+* INIT How to create the best weekly agenda?
+SCHEDULED: <2023-12-13 Wed>
 
 A weekly agenda is a document that contains a list of the tasks that
 you plan to do or the goals that you want to achieve in a span of
@@ -233,7 +233,7 @@ How to improve a weekly agenda?
    perform.
    
 * RAW [#C] What is the average time you should spend on each session
-SCHEDULED: <2023-12-14 Thu ++4d>
+SCHEDULED: <2023-12-16 Sat ++4d>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-21 Tue 18:11]
 :END:
@@ -271,7 +271,7 @@ All relevant questions should be questioned while task resolving.
  they a little bit later.
 
 * RAW Raw state
-SCHEDULED: <2023-12-14 Thu>
+SCHEDULED: <2023-12-16 Sat>
 
 Is for just captured and unscheduled yet tasks. In this stage it is
 necessary to find the best theoretical source for studying (in most
@@ -281,7 +281,7 @@ makes sense the task's state changes to *INIT* and it is scheduled.
 
 
 * RAW Initial chapter dissection
-SCHEDULED: <2023-12-14 Thu ++4d>
+SCHEDULED: <2023-12-16 Sat ++4d>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-21 Tue 18:12]
 :END:
@@ -302,7 +302,7 @@ After the initial analysis task it's status switches (++1d/2d) on
 to *Deliberate practice 0 session*.
    
 * RAW Deliberate practice 0 session
-SCHEDULED: <2023-12-14 Thu ++4d>
+SCHEDULED: <2023-12-18 Mon ++4d>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-21 Tue 18:12]
 :END:

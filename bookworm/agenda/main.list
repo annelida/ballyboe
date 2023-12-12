@@ -29,7 +29,7 @@ MY PROJECTS    -*- mode: org; -*-
 
 *** Working with transcripts
 
-**** RAW [#C] "How to Learn Anything Fast: Teach Your Brain to Focus"
+**** Init [#C] "How to Learn Anything Fast: Teach Your Brain to Focus"
 SCHEDULED: <2023-12-13 Wed ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-29 Wed 18:19]
@@ -211,7 +211,7 @@ if __name__ == '__main__':
 
 **** Embedded Help System
 **** RAW INIT Emacs server
-SCHEDULED: <2023-12-13 Wed ++2w>
+SCHEDULED: <2023-12-22 Fri ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-29 Wed 18:17]
 :END:
@@ -321,8 +321,11 @@ CLOCK: [2023-10-26 Thu 07:54]--[2023-10-26 Thu 08:52] =>  0:58
 [[https://www.youtube.com/watch?v=kkqVTDbfYp4][org-babel configuration]]
 [[https://orgmode.org/manual/Structure-Templates.html][org templates structure]]
 
-*** DP1 Org-drill concept
-SCHEDULED: <2023-12-12 Tue ++2w>
+**** DP1 Org-drill concept
+SCHEDULED: <2024-01-10 Wed ++2w>
+:PROPERTIES:
+:CATEGORY: Spaced repetition
+:END:
 :LOGBOOK:
 CLOCK: [2023-12-03 Sun 12:32]--[2023-12-03 Sun 13:04] =>  0:32
 CLOCK: [2023-11-30 Thu 15:36]--[2023-12-01 Fri 07:55] => 16:19
@@ -332,8 +335,8 @@ CLOCK: [2023-11-28 Tue 08:00]--[2023-11-28 Tue 08:58] =>  0:58
 https://orgmode.org/worg/org-contrib/org-drill.html
 https://orgmode.org/worg/org-contrib/org-drill.html#org51fd4f9
 
-*** DP0 Org-capture templates
-SCHEDULED: <2023-12-12 Tue ++1d>
+**** DP0 Org-capture templates concept and usage
+SCHEDULED: <2023-12-13 Wed ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2023-12-04 Mon 11:20]
 :END:
@@ -343,9 +346,9 @@ CLOCK: [2023-12-08 Fri 10:26]--[2023-12-09 Sat 10:19] => 23:53
 CLOCK: [2023-12-03 Sun 13:04]--[2023-12-03 Sun 13:32] =>  0:28
 :END:
 [[info:org#Capture templates][org#Capture templates]]
-** Jekyll
+**** Jekyll
 
-**** TODO [#B] Org-Jekyll - configuration options
+****** TODO [#B] Org-Jekyll - configuration options
 SCHEDULED: <2024-01-20 Sat ++1m>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-13 Mon 14:41]
@@ -507,7 +510,7 @@ to the corresponding files from /_layouts folder.
 Result you can see on [[https://annelida.github.io/]]
 
 
-**** RAW TODO [#A] Explorations in details page's structure in Jekyll.
+****** RAW TODO [#A] Explorations in details page's structure in Jekyll.
 SCHEDULED: <2023-12-28 Thu>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-20 Mon 16:18]
@@ -525,7 +528,7 @@ CLOCK: [2023-10-22 Sun 08:21]--[2023-10-22 Sun 08:34] =>  0:13
 :END:
 
 
-**** RAW TODO What is Jekyll's Gemfile.lock (full clarification).
+****** RAW TODO What is Jekyll's Gemfile.lock (full clarification).
 SCHEDULED: <2023-12-23 Sat ++4w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-27 Mon 10:07]
@@ -538,15 +541,9 @@ SCHEDULED: <2023-12-23 Sat ++4w>
   is loaded on another machine, running bundle install will look at the
   Gemfile.lock and install the exact same versions, rather than just using
   the Gemfile and installing the most recent version.
-** Linux
+**** Linux
 
-**** RAW Comparing files and folders in Linux/Emacs
-SCHEDULED: <2023-12-13 Wed ++2w>
-:PROPERTIES:
-:LAST_REPEAT: [2023-11-15 Wed 09:24]
-:END:
-- State "DONE"       from "ACTIVE"     [2023-11-15 Wed 09:24]
-- State "DONE"       from "ACTIVE"     [2023-11-15 Wed 09:24]
+****** RAW Comparing files and folders in Linux/Emacs
 - Note taken on [2023-10-15 Sun 08:13] \\
 
   In Emacs:
@@ -690,7 +687,7 @@ In Emacs using M-x diff function it not necessary to separately compare folders 
 You can see full result in diff buffer.
 In the Linux terminal it is possible at the same time to compare folder with files:
 $ diff -a -y dir1 dir2
-**** RAW ACTIVE Linux symbolic links
+****** RAW ACTIVE Linux symbolic links
 SCHEDULED: <2023-12-18 Mon ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-12-04 Mon 11:21]
@@ -703,9 +700,9 @@ SCHEDULED: <2023-12-18 Mon ++2w>
   * It allows to move the original file in safe place.
   * On the place original file it possible to leave the shortcut with
   * link to original file. For create soft link use command ln -s
-** Git/Magit
+**** Git/Magit
 
-**** RAW Git/Magit merge and rebase concept.
+****** RAW Git/Magit merge and rebase concept.
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-16 Thu 15:34]
 :END:
@@ -799,7 +796,7 @@ CLOCK: [2023-10-25 Wed 10:36]--[2023-10-25 Wed 11:16] =>  0:40
   (ie. never rebase master). You should never rebase master onto
   a feature branch.
 
-**** Init TODO [#A] Git/Magit undo options.
+****** Init TODO [#A] Git/Magit undo options.
 SCHEDULED: <2024-01-03 Wed>
 - Note taken on [2023-10-23 Mon 08:47] \\
   If you want to redo that commit, make the additional
@@ -836,14 +833,18 @@ SCHEDULED: <2024-01-03 Wed>
   rebase
   tag
   version
-** Init Definitions drilling 
-SCHEDULED: <2023-12-12 Tue>
-[[file:~/git/ballyboe/bookworm/drills.org::*Definitions][Definitions]]
-** DP0 Speed-typing
-SCHEDULED: <2023-12-12 Tue ++1d>
+**** Init Drilling "Definitions" 
+SCHEDULED: <2023-12-13 Wed>
 :PROPERTIES:
-:LAST_REPEAT: [2023-12-11 Mon 18:23]
+:CATEGORY: Spaced repetition
 :END:
+[[file:~/git/ballyboe/bookworm/drills.org::*Definitions][Definitions]]
+**** DP1 Speed-typing
+SCHEDULED: <2023-12-13 Wed ++1d>
+:PROPERTIES:
+:LAST_REPEAT: [2023-12-12 Tue 19:19]
+:END:
+- State "DONE"       from "Active"     [2023-12-12 Tue 19:19]
 - State "DONE"       from "Active"     [2023-12-11 Mon 18:23]
 - State "DONE"       from "Active"     [2023-12-10 Sun 18:53]
 - State "DONE"       from "Active"     [2023-12-09 Sat 17:51]
@@ -963,8 +964,8 @@ CLOCK: [2023-11-13 Mon 12:21]--[2023-11-13 Mon 13:06] =>  0:45
 #+RESULTS:
 : /home/vikky/git/ballyboe/bookworm/agenda
 
-***** Todo Python Import variations
-SCHEDULED: <2023-12-12 Tue ++4d>
+***** DP1 Python Import variations
+SCHEDULED: <2023-12-14 Thu ++4d>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-28 Tue 10:38]
 :END:
@@ -973,12 +974,13 @@ SCHEDULED: <2023-12-12 Tue ++4d>
 CLOCK: [2023-11-28 Tue 08:59]--[2023-11-28 Tue 09:23] =>  0:24
 :END:
 
-***** Init Python run the file with executable privileges.
-SCHEDULED: <2023-12-12 Tue ++1w>
+***** RAW Python run the file with executable privileges.
+SCHEDULED: <2023-12-19 Tue ++1w>
 :PROPERTIES:
-:LAST_REPEAT: [2023-12-01 Fri 10:39]
+:LAST_REPEAT: [2023-12-12 Tue 14:31]
 :CATEGORY: Learning Python
 :END:
+- State "DONE"       from "Active"     [2023-12-12 Tue 14:31]
 - State "DONE"       from "Active"     [2023-12-01 Fri 10:39]
 :LOGBOOK:
 CLOCK: [2023-12-01 Fri 10:08]--[2023-12-01 Fri 10:39] =>  0:31
@@ -1028,21 +1030,37 @@ CLOCK: [2023-11-28 Tue 10:40]--[2023-11-28 Tue 11:14] =>  0:34
 CLOCK: [2023-11-24 Fri 14:29]--[2023-11-24 Fri 14:52] =>  0:23
 :END:
 ***** RAW Python how to code strings
-SCHEDULED: <2023-12-12 Tue>
+SCHEDULED: <2023-12-13 Wed>
 
 *** Computer science distillled
 :PROPERTIES:
 :CATEGORY: Computer science
 :END:
 
-**** RAW Computer science distilled - Basic
+**** RAW Basic
+:PROPERTIES:
+:CATEGORY: CS Basic
+:END:
 
-***** RAW Computer science Mathematical Model
-SCHEDULED: <2023-12-12 Tue>
+***** RAW Mathematical models
+SCHEDULED: <2023-12-13 Wed>
 
-**** RAW Computer science distilled - Complexity
-**** RAW Computer science distilled - Strategy
-SCHEDULED: <2023-12-12 Tue ++1d>
+***** Logic
+
+****** Operators
+
+****** Boolean algebra
+
+****** Truth tables
+
+****** Logic in computing
+
+***** Counting
+
+****** Multipying
+
+**** RAW Complexity
+**** RAW Strategy
 
 *** "Talk Python to me" podcasts
 
