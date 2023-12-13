@@ -225,3 +225,22 @@ replace(old, new, count=-1, /) method of builtins.str instance
 
 None
 #+end_example
+
+** Possible ways to string representation
+
+#+begin_src python :results output
+  S = 'A\nB\tC'     # \n is end-of-line, \t is tab
+  print(S)
+#+end_src
+
+#+RESULTS:
+: A
+: B	C
+
+#+begin_src python :results output
+  msg = """aaaaaaaaaaabbbb'''bbbbbbbb""bbbbb'cccccccc"""
+  print(msg)
+#+end_src
+
+#+RESULTS:
+: aaaaaaaaaaabbbb'''bbbbbbbb""bbbbb'cccccccc
