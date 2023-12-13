@@ -359,3 +359,28 @@ Knowing is not enough, [we must apply]. Willing is not enough,
    :END:
 [The master] has failed more times than [the beginner] has
 even tried.
+** COMMENT >->-> Walter Bagehot                                      :drill:
+   :PROPERTIES:
+   :DRILL_CARD_TYPE: hide1cloze
+   :END:
+The [greatest pleasure in life] is [doing what people say] you cannot do.
+** COMMENT >->-> Nelson Mandela                                      :drill:
+   :PROPERTIES:
+   :DRILL_CARD_TYPE: hide1cloze
+   :END:
+[It always] seems impossible [until it's done].
+** COMMENT >->-> George Augustus Moor                                :drill:
+   :PROPERTIES:
+   :DRILL_CARD_TYPE: hide1cloze
+   :END:
+[A winner] is just a loser who tried [one more time].
+** COMMENT >->-> Abraham Lincoln                                     :drill:
+   :PROPERTIES:
+   :DRILL_CARD_TYPE: hide1cloze
+   :END:
+[I am a slow] walker, but I never [walk back].
+** COMMENT >->-> Robert Collier                                      :drill:
+   :PROPERTIES:
+   :DRILL_CARD_TYPE: hide1cloze
+   :END:
+Success is the sum of [small efforts], repeated [day in and day out].
