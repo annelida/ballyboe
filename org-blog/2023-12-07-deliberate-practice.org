@@ -17,6 +17,7 @@ tags: [org-agenda, double-loop-learning]
 #+TODO: RAW INIT TODO ACTIVE | DONE
 
 * Preface
+SCHEDULED: <2023-12-14 Thu>
 
 #+begin_quote
 /"Practice makes perfect."/
