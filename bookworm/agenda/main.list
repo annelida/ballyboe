@@ -30,7 +30,7 @@ MY PROJECTS    -*- mode: org; -*-
 *** Working with transcripts
 
 **** Init [#C] "How to Learn Anything Fast: Teach Your Brain to Focus"
-SCHEDULED: <2023-12-13 Wed ++2w>
+SCHEDULED: <2024-01-24 Wed ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-29 Wed 18:19]
 :END:
@@ -262,7 +262,7 @@ CLOCK: [2023-11-30 Thu 14:50]--[2023-11-30 Thu 15:33] =>  0:43
 ** Org-mode
 
 **** RAW [#B] Org-mode, org-babel markup rules
-SCHEDULED: <2023-12-14 Thu ++2w>
+SCHEDULED: <2024-01-23 Tue ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-16 Thu 15:33]
 :END:
@@ -335,11 +335,12 @@ CLOCK: [2023-11-28 Tue 08:00]--[2023-11-28 Tue 08:58] =>  0:58
 https://orgmode.org/worg/org-contrib/org-drill.html
 https://orgmode.org/worg/org-contrib/org-drill.html#org51fd4f9
 
-**** DP0 Org-capture templates concept and usage
-SCHEDULED: <2023-12-13 Wed ++1d>
+**** RAW Org-capture templates concept and usage
+SCHEDULED: <2023-12-27 Wed ++2w>
 :PROPERTIES:
-:LAST_REPEAT: [2023-12-04 Mon 11:20]
+:LAST_REPEAT: [2023-12-13 Wed 17:47]
 :END:
+- State "DONE"       from "Active"     [2023-12-13 Wed 17:47]
 - State "DONE"       from "Active"     [2023-12-04 Mon 11:20]
 :LOGBOOK:
 CLOCK: [2023-12-08 Fri 10:26]--[2023-12-09 Sat 10:19] => 23:53
@@ -702,14 +703,15 @@ SCHEDULED: <2023-12-18 Mon ++2w>
   * link to original file. For create soft link use command ln -s
 **** Git/Magit
 
-****** RAW Git/Magit merge and rebase concept.
+****** Init Git/Magit merge and rebase concept.
+SCHEDULED: <2023-12-15 Fri>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-16 Thu 15:34]
 :END:
 
 - State "DONE"       from "ACTIVE"     [2023-11-16 Thu 15:34]
 - State "DONE"       from "ACTIVE"     [2023-11-16 Thu 15:34]
-SCHEDULED: <2023-12-14 Thu ++2w>
+SCHEDULED: <2023-12-15 Fri  ++2w>
 
   - Note taken on [2023-10-23 Mon 09:48] \\
 
@@ -834,16 +836,17 @@ SCHEDULED: <2024-01-03 Wed>
   tag
   version
 **** Init Drilling "Definitions" 
-SCHEDULED: <2023-12-13 Wed>
+SCHEDULED: <2023-12-14 Thu>
 :PROPERTIES:
 :CATEGORY: Spaced repetition
 :END:
 [[file:~/git/ballyboe/bookworm/drills.org::*Definitions][Definitions]]
-**** DP1 Speed-typing
-SCHEDULED: <2023-12-13 Wed ++1d>
+**** RAW Speed-typing
+SCHEDULED: <2023-12-14 Thu ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-12-12 Tue 19:19]
+:LAST_REPEAT: [2023-12-13 Wed 17:48]
 :END:
+- State "DONE"       from "Active"     [2023-12-13 Wed 17:48]
 - State "DONE"       from "Active"     [2023-12-12 Tue 19:19]
 - State "DONE"       from "Active"     [2023-12-11 Mon 18:23]
 - State "DONE"       from "Active"     [2023-12-10 Sun 18:53]
@@ -1029,8 +1032,14 @@ SCHEDULED: <2023-12-17 Sun ++5d>
 CLOCK: [2023-11-28 Tue 10:40]--[2023-11-28 Tue 11:14] =>  0:34
 CLOCK: [2023-11-24 Fri 14:29]--[2023-11-24 Fri 14:52] =>  0:23
 :END:
-***** RAW Python how to code strings
-SCHEDULED: <2023-12-13 Wed>
+******* RAW Python how to code strings
+SCHEDULED: <2023-12-27 Wed ++2w>
+:PROPERTIES:
+:LAST_REPEAT: [2023-12-13 Wed 11:24]
+:END:
+- State "DONE"       from "Active"     [2023-12-13 Wed 11:24]
+******* RAW Pattern Matching  
+SCHEDULED: <2023-12-14 Thu>
 
 *** Computer science distillled
 :PROPERTIES:
@@ -1043,9 +1052,14 @@ SCHEDULED: <2023-12-13 Wed>
 :END:
 
 ***** RAW Mathematical models
-SCHEDULED: <2023-12-13 Wed>
+SCHEDULED: <2023-12-27 Wed ++2w>
+:PROPERTIES:
+:LAST_REPEAT: [2023-12-13 Wed 11:24]
+:END:
 
-***** Logic
+- State "DONE"       from "Active"     [2023-12-13 Wed 11:24]
+***** RAW Logic
+SCHEDULED: <2023-12-14 Thu>
 
 ****** Operators
 

@@ -16,7 +16,7 @@ tags: [emacs, org-mode, org-agenda, double-loop-learning]
 #+CATEGORY: Methodolody
 #+TODO: RAW INIT TODO ACTIVE | DONE
 
-* RAW Preface
+* INIT Preface
 SCHEDULED: <2023-12-14 Thu ++4d>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-21 Tue 18:11]
@@ -60,7 +60,7 @@ Method. See synonyms, origin, and examples of method in sentences.
   outcome and your solid base of personal knowledge.
   
   
-* RAW What is methodology
+* INIT What is methodology
  SCHEDULED: <2023-12-14 Thu ++4d>
  :PROPERTIES:
  :LAST_REPEAT: [2023-11-23 Thu 11:38]
@@ -196,8 +196,8 @@ The workplace should be clean without unnecessary objects. So that you are
 not distracted and be able to focus as much as possible.
 Get enough sleep before studying. Eat less can make your brain more clear and easier
 to focus on the task.
-* INIT How to create the best weekly agenda?
-SCHEDULED: <2023-12-13 Wed>
+* TODO How to create the best weekly agenda?
+SCHEDULED: <2023-12-14 Thu>
 
 A weekly agenda is a document that contains a list of the tasks that
 you plan to do or the goals that you want to achieve in a span of

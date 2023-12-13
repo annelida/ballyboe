@@ -13,10 +13,11 @@ CLOSED: [2023-10-26 Thu 17:32] SCHEDULED: <2023-10-29 Sun>
 Naturally, by its definition they are the routine, usual and regular
 tasks.
 * RAW [#A] Git commits purification
-SCHEDULED: <2023-12-13 Wed ++1d>
+SCHEDULED: <2023-12-14 Thu ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-12-12 Tue 19:19]
+:LAST_REPEAT: [2023-12-13 Wed 17:47]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-12-13 Wed 17:47]
 - State "DONE"       from "ACTIVE"     [2023-12-12 Tue 19:19]
 - State "DONE"       from "ACTIVE"     [2023-12-11 Mon 18:21]
 - State "DONE"       from "ACTIVE"     [2023-12-10 Sun 18:52]
@@ -70,10 +71,11 @@ SCHEDULED: <2023-12-13 Wed ++1d>
 ** DONE Test
 CLOSED: [2023-11-29 Wed 18:16] SCHEDULED: <2023-11-28 Tue>
 * TODO *PUSH*
-SCHEDULED: <2023-12-13 Wed ++1d>
+SCHEDULED: <2023-12-14 Thu ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-12-12 Tue 19:19]
+:LAST_REPEAT: [2023-12-13 Wed 17:48]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-12-13 Wed 17:48]
 - State "DONE"       from "ACTIVE"     [2023-12-12 Tue 19:19]
 - State "DONE"       from "ACTIVE"     [2023-12-11 Mon 18:24]
 - State "DONE"       from "ACTIVE"     [2023-12-09 Sat 17:53]
@@ -159,11 +161,12 @@ workspace:
   * k to mark buffers for kill (D appears next to buffer)
   * x to execute kill
     
-* TODO Workspace clean-up
-SCHEDULED: <2023-12-13 Wed ++1w>
+* RAW Workspace clean-up
+SCHEDULED: <2023-12-20 Wed ++1w>
 :PROPERTIES:
-:LAST_REPEAT: [2023-12-06 Wed 16:12]
+:LAST_REPEAT: [2023-12-13 Wed 17:48]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-12-13 Wed 17:48]
 - State "DONE"       from "ACTIVE"     [2023-12-06 Wed 16:12]
 - State "DONE"       from "ACTIVE"     [2023-11-29 Wed 18:20]
 - State "DONE"       from "ACTIVE"     [2023-11-22 Wed 14:18]
@@ -197,10 +200,11 @@ workspace:
   At the bottom left, select: Advanced - About ChromeOS - Select Check for updates.
 
 * TODO [#B] Evening meet-up
-SCHEDULED: <2023-12-13 Wed ++1d>
+SCHEDULED: <2023-12-14 Thu ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-12-12 Tue 19:19]
+:LAST_REPEAT: [2023-12-13 Wed 17:48]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-12-13 Wed 17:48]
 - State "DONE"       from "ACTIVE"     [2023-12-12 Tue 19:19]
 - State "DONE"       from "ACTIVE"     [2023-12-11 Mon 18:24]
 - State "DONE"       from "ACTIVE"     [2023-12-10 Sun 18:53]
@@ -252,10 +256,11 @@ SCHEDULED: <2023-12-13 Wed ++1d>
 - State "DONE"       from "ACTIVE"     [2023-10-13 Fri 13:01]
 To discuss actual questions and find answers.
 * TODO Daily taskset schedulling
-SCHEDULED: <2023-12-13 Wed ++1d>
+SCHEDULED: <2023-12-14 Thu ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-12-12 Tue 19:19]
+:LAST_REPEAT: [2023-12-13 Wed 17:48]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-12-13 Wed 17:48]
 - State "DONE"       from "ACTIVE"     [2023-12-12 Tue 19:19]
 - State "DONE"       from "ACTIVE"     [2023-12-11 Mon 18:25]
 - State "DONE"       from "ACTIVE"     [2023-12-10 Sun 18:53]
@@ -308,11 +313,12 @@ SCHEDULED: <2023-12-13 Wed ++1d>
 - State "DONE"       from "ACTIVE"     [2023-10-13 Fri 13:03]
 It might be required several times a day, but first time in the early
 morning.
-* INIT Tomorrow's agenda brush-up
-SCHEDULED: <2023-12-13 Wed ++1d>
+* TODO Tomorrow's agenda brush-up
+SCHEDULED: <2023-12-14 Thu ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-12-12 Tue 19:19]
+:LAST_REPEAT: [2023-12-13 Wed 17:48]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-12-13 Wed 17:48]
 - State "DONE"       from "ACTIVE"     [2023-12-12 Tue 19:19]
 - State "DONE"       from "ACTIVE"     [2023-12-11 Mon 18:25]
 - State "DONE"       from "ACTIVE"     [2023-12-10 Sun 18:53]
@@ -374,7 +380,7 @@ Are able to alleviate the pain in your wrists and facilitate the whole
 process by significant cut of ~command typing~ time. In the another
 hand you need to foster and stimulate their usage on the regular basics.
 ** RAW Key-cord extension
-SCHEDULED: <2023-12-14 Thu ++2w>
+SCHEDULED: <2024-01-17 Wed ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-12-07 Thu 19:33]
 :END:
@@ -392,7 +398,7 @@ CLOCK: [2023-12-08 Fri 09:29]--[2023-12-08 Fri 10:22] =>  0:53
 Re-order and get rid of any littern (sweep it out)
 SCHEDULED: <2023-12-17 Sun ++4w>
 * RAW YouTube into articles
-SCHEDULED: <2023-12-13 Wed ++2d/3d>
+SCHEDULED: <2024-01-17 Wed ++2d/3d>
 :PROPERTIES:
 :CATEGORY: Blogging
 :END:
