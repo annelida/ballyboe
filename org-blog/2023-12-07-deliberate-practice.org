@@ -16,8 +16,8 @@ tags: [org-agenda, double-loop-learning]
 #+CATEGORY: Deliberate practice
 #+TODO: RAW INIT TODO ACTIVE | DONE
 
-* Preface
-SCHEDULED: <2023-12-14 Thu>
+* TODO [#A] Preface
+SCHEDULED: <2023-12-15 Fri>
 
 #+begin_quote
 /"Practice makes perfect."/
