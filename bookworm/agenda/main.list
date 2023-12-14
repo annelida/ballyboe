@@ -1060,9 +1060,28 @@ SCHEDULED: <2023-12-27 Wed ++2w>
 - State "DONE"       from "Active"     [2023-12-13 Wed 11:24]
 ***** RAW Logic
 SCHEDULED: <2023-12-14 Thu>
+:LOGBOOK:
+CLOCK: [2023-12-14 Thu 10:45]--[2023-12-14 Thu 11:09] =>  0:24
+:END:
 
-****** Operators
+****** RAW Operators
+SCHEDULED: <2023-12-14 Thu>
 
+- Note taken on [2023-12-14 Thu 10:58] \\
+  Conditional operator:
+  A = True implies B = True :
+  A → B
+  Negation operator:
+  ! A
+  ! B
+  Contrapositive:
+  ! B → ! A
+  The Biconditional:
+  A ↔ B
+
+  These logical operators are the most famous, as they’re often
+  explicitly coded. AND expresses all ideas are True ; OR expresses any
+  idea is True ; XOR expresses ideas are of opposing truths.
 ****** Boolean algebra
 
 ****** Truth tables
