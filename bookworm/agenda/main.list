@@ -223,7 +223,13 @@ SCHEDULED: <2023-12-22 Fri ++2w>
   * Launch the client version by =emacsclient -t=
 **** Registers
 
-**** Window Registers
+**** Window Registers 
+
+**** Init [#A] Bookmarks
+SCHEDULED: <2023-12-15 Fri ++2w>
+:LOGBOOK:
+CLOCK: [2023-12-14 Thu 09:30]--[2023-12-14 Thu 10:08] =>  0:38
+:END:
 
 **** RAW Emacs + venv
 SCHEDULED: <2023-12-23 Sat ++3w>
@@ -232,7 +238,7 @@ SCHEDULED: <2023-12-23 Sat ++3w>
 :END:
 - State "DONE"       from "Active"     [2023-12-04 Mon 11:10]
 **** Init Elpy concepts
-SCHEDULED: <2023-12-15 Fri>
+SCHEDULED: <2023-12-25 Mon>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-23 Thu 15:54]
 :CATEGORY: Elpy
@@ -836,16 +842,17 @@ SCHEDULED: <2024-01-03 Wed>
   tag
   version
 **** Init Drilling "Definitions" 
-SCHEDULED: <2023-12-14 Thu>
+SCHEDULED: <2023-12-15 Fri>
 :PROPERTIES:
 :CATEGORY: Spaced repetition
 :END:
 [[file:~/git/ballyboe/bookworm/drills.org::*Definitions][Definitions]]
-**** RAW Speed-typing
-SCHEDULED: <2023-12-14 Thu ++1d>
+**** Init Speed-typing
+SCHEDULED: <2023-12-15 Fri ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-12-13 Wed 17:48]
+:LAST_REPEAT: [2023-12-14 Thu 18:20]
 :END:
+- State "DONE"       from "Active"     [2023-12-14 Thu 18:20]
 - State "DONE"       from "Active"     [2023-12-13 Wed 17:48]
 - State "DONE"       from "Active"     [2023-12-12 Tue 19:19]
 - State "DONE"       from "Active"     [2023-12-11 Mon 18:23]
@@ -968,7 +975,6 @@ CLOCK: [2023-11-13 Mon 12:21]--[2023-11-13 Mon 13:06] =>  0:45
 : /home/vikky/git/ballyboe/bookworm/agenda
 
 ***** DP1 Python Import variations
-SCHEDULED: <2023-12-14 Thu ++4d>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-28 Tue 10:38]
 :END:
@@ -1039,7 +1045,11 @@ SCHEDULED: <2023-12-27 Wed ++2w>
 :END:
 - State "DONE"       from "Active"     [2023-12-13 Wed 11:24]
 ******* RAW Pattern Matching  
-SCHEDULED: <2023-12-14 Thu>
+:LOGBOOK:
+CLOCK: [2023-12-14 Thu 10:09]--[2023-12-14 Thu 10:34] =>  0:25
+:END:
+***** RAW Python Lists
+SCHEDULED: <2023-12-15 Fri>
 
 *** Computer science distillled
 :PROPERTIES:
@@ -1058,14 +1068,14 @@ SCHEDULED: <2023-12-27 Wed ++2w>
 :END:
 
 - State "DONE"       from "Active"     [2023-12-13 Wed 11:24]
-***** RAW Logic
-SCHEDULED: <2023-12-14 Thu>
+***** Init Logic
+SCHEDULED: <2023-12-15 Fri>
 :LOGBOOK:
 CLOCK: [2023-12-14 Thu 10:45]--[2023-12-14 Thu 11:09] =>  0:24
 :END:
 
-****** RAW Operators
-SCHEDULED: <2023-12-14 Thu>
+****** Init Operators
+SCHEDULED: <2023-12-15 Fri>
 
 - Note taken on [2023-12-14 Thu 10:58] \\
   Conditional operator:

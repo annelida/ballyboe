@@ -16,8 +16,8 @@ tags: [emacs, org-mode, org-agenda, double-loop-learning]
 #+CATEGORY: Methodolody
 #+TODO: RAW INIT TODO ACTIVE | DONE
 
-* INIT Preface
-SCHEDULED: <2023-12-14 Thu ++4d>
+* INIT [#B] Preface
+SCHEDULED: <2023-12-15 Fri ++4d>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-21 Tue 18:11]
 :END:
@@ -60,8 +60,8 @@ Method. See synonyms, origin, and examples of method in sentences.
   outcome and your solid base of personal knowledge.
   
   
-* INIT What is methodology
- SCHEDULED: <2023-12-14 Thu ++4d>
+* INIT [#B] What is methodology
+ SCHEDULED: <2023-12-15 Fri ++4d>
  :PROPERTIES:
  :LAST_REPEAT: [2023-11-23 Thu 11:38]
  :END:
@@ -85,7 +85,7 @@ Method. See synonyms, origin, and examples of method in sentences.
  I define learning methodology simply as your strategical understanding of
  how you receive information to best learn.
 
-* RAW What methodology means in learning
+* INIT What methodology means in learning
 SCHEDULED: <2023-12-15 Fri ++4d>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-20 Mon 16:13]
@@ -163,7 +163,7 @@ information in your memory better than the same amount of study
 crammed into a single session.
 #+end_quote
 
-* RAW How practically prepare yourself to studying
+* INIT How practically prepare yourself to studying
 SCHEDULED: <2023-12-15 Fri ++4d>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-23 Thu 11:38]
@@ -196,8 +196,8 @@ The workplace should be clean without unnecessary objects. So that you are
 not distracted and be able to focus as much as possible.
 Get enough sleep before studying. Eat less can make your brain more clear and easier
 to focus on the task.
-* TODO How to create the best weekly agenda?
-SCHEDULED: <2023-12-14 Thu>
+* TODO [#B] How to create the best weekly agenda?
+SCHEDULED: <2023-12-17 Sun>
 
 A weekly agenda is a document that contains a list of the tasks that
 you plan to do or the goals that you want to achieve in a span of
