@@ -244,3 +244,28 @@ None
 
 #+RESULTS:
 : aaaaaaaaaaabbbb'''bbbbbbbb""bbbbb'cccccccc
+
+**  The ~re~ module
+
+re.match(): Checks if a pattern matches the beginning of a string.
+re.search(): Searches for a pattern anywhere in a string.
+
+#+begin_src python :results output
+  import re
+  result = re.match("Python", "Python Regex Match")
+  print(result)
+#+end_src
+
+#+RESULTS:
+: <re.Match object; span=(0, 6), match='Python'>
+
+
+#+begin_src python :results output
+  import re
+  result = re.search("Regex", "Python Regex Match")
+  print(result)
+#+end_src
+
+#+RESULTS:
+: <re.Match object; span=(7, 12), match='Regex'>
+
