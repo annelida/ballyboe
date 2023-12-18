@@ -229,7 +229,29 @@ decomposition and already prepared ~atomic~ tasks for elaboration.
 The great tool to use in your day-to-day life is a simple and dense
 ~todo~ list with all tasks written down.
 
-* TODO [#C] "Methodology" How to create the best weekly agenda?
+** ToDo States
+
+and their purpose
+
+*** ~RAW~
+
+- Terms and words might be uncertain and unclear - translate it...;
+- The task is new and uncertain by its nature. Possible and on average
+  it might been decomposed into a set of components (/offsprings/);
+
+*** ~INIT~
+
+*** 
+
+*** 
+
+*** ~DP2~
+
+** Priorities
+
+** Shift It Out
+
+* TODO How to create the best weekly agenda?
 SCHEDULED: <2023-12-18 Mon>
 :PROPERTIES:
 :CATEGORY: Compilation
