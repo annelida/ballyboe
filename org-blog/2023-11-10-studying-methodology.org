@@ -199,9 +199,12 @@ Before you start your learning, answer yourself the questions:
 
 ** Decompose the Whole Task
 
-If you feel like you have too much to study or don't know where to start
-break your studying into manageable chunks and create a study plan to help
-you stay organized.
+https://www.youtube.com/watch?v=HZRDUZuIKg4
+https://www.youtube.com/watch?v=vJ4bXM185qE
+
+If you feel like you have too much to study or don't know where to
+start break your studying into manageable chunks and create a study
+plan to help you stay organized.
 
 ** Source of Knowledge 
 
@@ -219,6 +222,9 @@ to focus on the task.
 
 
 * Daily ToDo List
+
+Naturally it should be composed from initially ~complex~ tasks for
+decomposition and already prepared ~atomic~ tasks for elaboration.
 
 The great tool to use in your day-to-day life is a simple and dense
 ~todo~ list with all tasks written down.
