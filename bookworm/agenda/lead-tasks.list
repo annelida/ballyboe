@@ -130,6 +130,7 @@ SCHEDULED: <2023-12-18 Mon ++1d>
   [[info:emacs#Help][emacs#Help]]
 - State "DONE"       from "ACTIVE"     [2023-11-22 Wed 08:42]
 :LOGBOOK:
+CLOCK: [2023-12-18 Mon 15:09]--[2023-12-18 Mon 16:11] =>  1:02
 CLOCK: [2023-12-14 Thu 08:53]--[2023-12-14 Thu 09:30] =>  0:37
 CLOCK: [2023-11-23 Thu 09:12]--[2023-11-23 Thu 09:47] =>  0:35
 CLOCK: [2023-11-22 Wed 07:20]--[2023-11-22 Wed 08:36] =>  1:16
@@ -242,7 +243,9 @@ SCHEDULED: <2023-12-18 Mon ++1d>
 - State "DONE"       from "ACTIVE"     [2023-11-28 Tue 14:36]
 - Note taken on [2023-10-14 Sat 08:47] \\
   To open Emacs Info use C-h-i or C-h-r
+  [[help:Enabled][Help about *info*]]
 :LOGBOOK:
+CLOCK: [2023-12-18 Mon 16:11]--[2023-12-18 Mon 16:26] =>  0:15
 CLOCK: [2023-12-14 Thu 08:16]--[2023-12-14 Thu 08:50] =>  0:34
 CLOCK: [2023-11-28 Tue 11:26]--[2023-11-28 Tue 11:54] =>  0:28
 CLOCK: [2023-11-27 Mon 10:20]--[2023-11-27 Mon 11:57] =>  1:37
