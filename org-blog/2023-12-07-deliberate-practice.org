@@ -16,7 +16,7 @@ tags: [org-agenda, double-loop-learning]
 #+CATEGORY: Blogging
 #+TODO: RAW INIT TODO ACTIVE | DONE
 
-* TODO [#C] "Deliberate practice" Preface
+* TODO [#C] Preface
 SCHEDULED: <2023-12-18 Mon>
 :PROPERTIES:
 :CATEGORY: Gathering

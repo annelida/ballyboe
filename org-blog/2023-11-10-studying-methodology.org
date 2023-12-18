@@ -223,7 +223,7 @@ to focus on the task.
 The great tool to use in your day-to-day life is a simple and dense
 ~todo~ list with all tasks written down.
 
-* TODO [#C] "Methodology" How to create the best weekly agenda?
+* TODO [#C] How to create the best weekly agenda?
 SCHEDULED: <2023-12-18 Mon>
 :PROPERTIES:
 :CATEGORY: Compilation
@@ -262,7 +262,7 @@ How to improve a weekly agenda?
    changes to make to them or additional tasks that you may need to
    perform.
    
-* RAW [#C] "Methodology" What is the average time you should spend on each session
+* RAW [#C] What is the average time you should spend on each session
 SCHEDULED: <2023-12-20 Wed ++4d>
 :PROPERTIES:
 :LAST_REPEAT: [2023-12-16 Sat 16:39]
@@ -302,7 +302,7 @@ All relevant questions should be questioned while task resolving.
  So, you *must* write these questions down during session and answer
  they a little bit later.
 
-* INIT [#C] "Methodology" Raw state
+* INIT [#C] Raw state
 SCHEDULED: <2023-12-18 Mon>
 :PROPERTIES:
 :CATEGORY: Elaboration
@@ -315,7 +315,7 @@ is it necessary to study itt in depth in future? If further learning
 makes sense the task's state changes to *INIT* and it is scheduled.
 
 
-* INIT [#C] "Methodology" Initial chapter dissection
+* INIT [#C] Initial chapter dissection
 SCHEDULED: <2023-12-18 Mon ++4d>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-21 Tue 18:12]

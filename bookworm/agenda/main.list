@@ -273,6 +273,8 @@ SCHEDULED: <2023-12-20 Wed ++2w>:
 :LOGBOOK:
 CLOCK: [2023-11-30 Thu 14:50]--[2023-11-30 Thu 15:33] =>  0:43
 :END:
+**** RAW Emacs regular expression
+SCHEDULED: <2023-12-19 Tue>
 ** Org-mode
 
 **** RAW [#B] Org-mode, org-babel markup rules
@@ -852,7 +854,7 @@ SCHEDULED: <2024-01-03 Wed>
 **** Init "Definitions" 
 SCHEDULED: <2023-12-18 Mon>
 :PROPERTIES:
-:CATEGORY: Spaced repetition
+:CATEGORY: Drilling
 :END:
 [[file:~/git/ballyboe/bookworm/drills.org::*Definitions][Definitions]]
 **** DP0 Speed-typing
