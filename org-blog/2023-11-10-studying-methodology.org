@@ -132,7 +132,7 @@ the cause of the problem and feedback is used to look at past actions.
 #+end_quote
 
 
-Pomodoro technique
+** Pomodoro technique
 
 #+begin_quote
 The Pomodoro Technique is a time management method developed by
@@ -141,7 +141,7 @@ work into intervals, typically 25 minutes in length, separated by
 short breaks. Each interval is known as a pomodoro
 #+end_quote
 
-Feyman's technique
+** Feyman's technique
 
 #+begin_quote
 The Feynman Technique, developed by Richard Feynman, is a study method
@@ -151,7 +151,7 @@ words as if teaching a sixth-grader. Then, they improve their
 explanations and go through the process again until they have mastered.
 #+end_quote
 
-Deliberate practice
+** Deliberate practice
 
 #+begin_quote
 Deliberate practice refers to a special type of practice that is
@@ -160,7 +160,7 @@ mindless repetitions, deliberate practice requires focused attention
 and is conducted with the specific goal of improving performance.
 #+end_quote
 
-Spaced repetition
+** Spaced repetition
 
 #+begin_quote
 Spaced repetition is a memory technique that involves reviewing and
