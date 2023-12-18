@@ -293,7 +293,9 @@ How to improve a weekly agenda?
    changes to make to them or additional tasks that you may need to
    perform.
    
-* RAW [#C] "Methodology" What is the average time you should spend on each session
+* RAW [#C] What is the average amount of time
+
+you should spend on each session
 SCHEDULED: <2023-12-20 Wed ++4d>
 :PROPERTIES:
 :LAST_REPEAT: [2023-12-16 Sat 16:39]
