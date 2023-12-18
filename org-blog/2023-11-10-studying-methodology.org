@@ -175,7 +175,7 @@ information in your memory better than the same amount of study
 crammed into a single session.
 #+end_quote
 
-* INIT [#C] "Methodology" How practically prepare yourself to studying
+* INIT [#C] Unavoidable necessities
 SCHEDULED: <2023-12-18 Mon ++4d>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-23 Thu 11:38]
@@ -187,7 +187,8 @@ SCHEDULED: <2023-12-18 Mon ++4d>
 - State "DONE"       from "ACTIVE"     [2023-11-19 Sun 12:38]
 - State "DONE"       from "ACTIVE"     [2023-11-15 Wed 09:24]
 
-Preparing yourself mentally to learn is essential for a successful and
+** Prepare yourself mentally:
+to learn is essential for a successful and
 fulfilling learning process and futher best result.
 Before you start your learning, answer yourself the questions:
 
@@ -196,19 +197,32 @@ Before you start your learning, answer yourself the questions:
 - Where do I want to see myself in 5 years? In 10 yrs?
 - What do I need to do to reach those goals?
 
+** Decompose the Whole Task
+
 If you feel like you have too much to study or don't know where to start
 break your studying into manageable chunks and create a study plan to help
 you stay organized.
+
+** Source of Knowledge 
 
 Determine the list of educational material that you need to study.
 Find the best sources for this material.
 For each subject it is necessary to draw up a list of questions that need
 to be studied.
 
+** Keep clear
+
 The workplace should be clean without unnecessary objects. So that you are
 not distracted and be able to focus as much as possible.
 Get enough sleep before studying. Eat less can make your brain more clear and easier
 to focus on the task.
+
+
+* Daily ToDo List
+
+The great tool to use in your day-to-day life is a simple and dense
+~todo~ list with all tasks written down.
+
 * TODO [#C] "Methodology" How to create the best weekly agenda?
 SCHEDULED: <2023-12-18 Mon>
 :PROPERTIES:
