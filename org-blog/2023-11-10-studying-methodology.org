@@ -59,8 +59,7 @@ Method. See synonyms, origin, and examples of method in sentences.
   impact how you understand, retain and apply new material.  However
   it is utter importance find it if you want achieve the best learning
   outcome and your solid base of personal knowledge.
-  
-  
+    
 * INIT [#C] What is methodology
  SCHEDULED: <2023-12-18 Mon ++4d>
  :PROPERTIES:
@@ -73,21 +72,22 @@ Method. See synonyms, origin, and examples of method in sentences.
  :LOGBOOK:
  CLOCK: [2023-11-15 Wed 08:01]--[2023-11-15 Wed 09:03] =>  1:02
  :END:
- A "methodology" is a system of methods and principles in particular area
- to perform some complex task.
+ A "methodology" is a system of methods and principles in particular
+ area to perform some complex task.
 
- System is a regularly interacting or interdependent group of items forming a unified whole.
- A set of connected things or devices that operate together.
+ System is a regularly interacting or interdependent group of items
+ forming a unified whole.  A set of connected things or devices that
+ operate together.
 
  Method is a particular way of doing something.
 
- Principle - is a basic idea or rule that explains or controls how something happens or works.
- Basic rules or laws.
+ Principle - is a basic idea or rule that explains or controls how
+ something happens or works.  Basic rules or laws.
 
  I define learning methodology simply as your strategical understanding of
  how you receive information to best learn.
 
-* INIT [#C] What methodology means in learning
+* INIT [#C] Applied methodology
 SCHEDULED: <2023-12-18 Mon ++4d>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-20 Mon 16:13]
@@ -96,18 +96,27 @@ SCHEDULED: <2023-12-18 Mon ++4d>
 
 - State "DONE"       from "ACTIVE"     [2023-11-20 Mon 16:13]
 - State "DONE"       from "ACTIVE"     [2023-11-16 Thu 08:30]
+
 Learning methodology is a system of methods, principles and practices
-used to effective learning.
+used to increase ....
 
-In essence it is the learning of how to learn.
+In essence it is the learning of how to learn. *<== Wrong*
 
-There are several techniques and learning methods that will not only
-help in the learning process itself, but will help make the learning
-process more effective and also help you achieve the best result.
+The result of learning is defined as:
+
+
+
+There are /several scientifically approved techniques and methods/
+that help in the learning process itself and, in addition, help to
+make the learning process more effective or /productive/.  =and also
+help you achieve the best result.=
+
 They are include:
 
-Double loop learning - is an iterative model which posits that
-higher-order learning involves two processes or loops.
+** Double loop learning
+
+is an iterative model which posits that higher-order learning involves
+two processes or loops.
 
 #+begin_quote
 In double loop learning, problems are examined and corrected even
