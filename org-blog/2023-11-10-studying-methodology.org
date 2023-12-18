@@ -198,10 +198,14 @@ Before you start your learning, answer yourself the questions:
 - What do I need to do to reach those goals?
 
 ** Decompose the Whole Task
+SCHEDULED: <2023-12-19 Tue>
 
-If you feel like you have too much to study or don't know where to start
-break your studying into manageable chunks and create a study plan to help
-you stay organized.
+https://www.youtube.com/watch?v=HZRDUZuIKg4
+https://www.youtube.com/watch?v=vJ4bXM185qE
+
+If you feel like you have too much to study or don't know where to
+start break your studying into manageable chunks and create a study
+plan to help you stay organized.
 
 ** Source of Knowledge 
 
@@ -219,12 +223,46 @@ to focus on the task.
 
 
 * Daily ToDo List
+SCHEDULED: <2023-12-20 Wed>
+
+Naturally it should be composed from initially ~complex~ tasks for
+decomposition and already prepared ~atomic~ tasks for elaboration.
 
 The great tool to use in your day-to-day life is a simple and dense
 ~todo~ list with all tasks written down.
 
+<<<<<<< HEAD
 * TODO [#C] How to create the best weekly agenda?
 SCHEDULED: <2023-12-18 Mon>
+=======
+** ToDo States
+
+and their purpose
+
+*** ~RAW~
+
+- Terms and words might be uncertain and unclear - translate it...;
+- The task is new and uncertain by its nature. Possible and on average
+  it might been decomposed into a set of components (/offsprings/);
+
+*** ~INIT~
+
+*** 
+
+*** 
+
+*** ~DP2~
+
+New knowledge and tecnhiques fluent utilizing in a variety of usual
+day-to-day professional tasks.
+
+** Priorities
+
+** Shift It Out
+
+* TODO How to create the raw weekly todo list?
+SCHEDULED: <2024-01-08 Mon>
+>>>>>>> ebffc2e5bfbfe35a16018a8e301e2317cbc978b7
 :PROPERTIES:
 :CATEGORY: Compilation
 :END:
@@ -262,7 +300,13 @@ How to improve a weekly agenda?
    changes to make to them or additional tasks that you may need to
    perform.
    
+<<<<<<< HEAD
 * RAW [#C] What is the average time you should spend on each session
+=======
+* RAW [#C] What is the average amount of time
+
+you should spend on each session
+>>>>>>> ebffc2e5bfbfe35a16018a8e301e2317cbc978b7
 SCHEDULED: <2023-12-20 Wed ++4d>
 :PROPERTIES:
 :LAST_REPEAT: [2023-12-16 Sat 16:39]
