@@ -256,7 +256,7 @@ day-to-day professional tasks.
 
 ** Shift It Out
 
-* TODO How to create the best weekly agenda?
+* TODO How to create the raw weekly todo list?
 SCHEDULED: <2024-01-08 Mon>
 :PROPERTIES:
 :CATEGORY: Compilation
