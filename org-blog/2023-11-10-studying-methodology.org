@@ -16,7 +16,7 @@ tags: [emacs, org-mode, org-agenda, double-loop-learning]
 #+CATEGORY: Meth
 #+TODO: RAW INIT TODO ACTIVE | DONE
 
-* INIT [#C] "Methodology" Preface
+* INIT [#C] Intro
 SCHEDULED: <2023-12-18 Mon ++4d>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-21 Tue 18:11]
