@@ -8,13 +8,16 @@
 #+PROPERTY: header-args :comments org
 #+CATEGORY: Lead
 #+TODO: | AMPLE
-#+TODO: RAW INIT TODO ACTIVE | DONE
+#+TODO: RAW Init DP0 Todo DP1 Active | DONE
 
-* INIT [#A] Genuine source of knowledge
-SCHEDULED: <2023-12-15 Fri ++1d>
+* Init [#A] Genuine source of knowledge
+SCHEDULED: <2023-12-18 Mon ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-12-14 Thu 18:19]
+:LAST_REPEAT: [2023-12-17 Sun 18:14]
 :END:
+- State "DONE"       from "Active"     [2023-12-17 Sun 18:14]
+- State "DONE"       from "ACTIVE"     [2023-12-16 Sat 16:37]
+- State "DONE"       from "ACTIVE"     [2023-12-15 Fri 16:21]
 - State "DONE"       from "ACTIVE"     [2023-12-14 Thu 18:19]
 - State "DONE"       from "ACTIVE"     [2023-12-12 Tue 19:19]
 - State "DONE"       from "ACTIVE"     [2023-12-12 Tue 19:18]
@@ -51,11 +54,14 @@ about how the program works are:
    - usually it is available through =Emacs= *info system*;
 
 --* INIT Conclusion*: the wisest decision is just to use it properly!
-* INIT [#A] Deliberate practice
-SCHEDULED: <2023-12-15 Fri ++1d>
+* Init [#A] Deliberate practice
+SCHEDULED: <2023-12-18 Mon ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-12-14 Thu 18:19]
+:LAST_REPEAT: [2023-12-17 Sun 18:14]
 :END:
+- State "DONE"       from "Active"     [2023-12-17 Sun 18:14]
+- State "DONE"       from "ACTIVE"     [2023-12-16 Sat 16:37]
+- State "DONE"       from "ACTIVE"     [2023-12-15 Fri 16:21]
 - State "DONE"       from "ACTIVE"     [2023-12-14 Thu 18:19]
 - State "DONE"       from "ACTIVE"     [2023-12-13 Wed 17:47]
 - State "DONE"       from "ACTIVE"     [2023-12-12 Tue 19:19]
@@ -93,12 +99,15 @@ CLOCK: [2023-11-24 Fri 08:31]--[2023-11-24 Fri 09:02] =>  0:31
 - State "DONE"       from "ACTIVE"     [2023-11-07 Tue 18:20]
 - State "DONE"       from "ACTIVE"     [2023-11-07 Tue 18:19]
 when you do challenging but indispensable tasks by yourself
-* ACTIVE [#A] Help about *Help*
-SCHEDULED: <2023-12-15 Fri ++1d>
+* DP0 [#A] Help about *Help*
+SCHEDULED: <2023-12-18 Mon ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-12-14 Thu 18:19]
-:CATEGORY: Help
+:LAST_REPEAT: [2023-12-16 Sat 16:43]
+:CATEGORY: Studying
 :END:
+- State "DONE"       from "ACTIVE"     [2023-12-16 Sat 16:43]
+- State "DONE"       from "ACTIVE"     [2023-12-16 Sat 16:38]
+- State "DONE"       from "ACTIVE"     [2023-12-15 Fri 16:21]
 - State "DONE"       from "ACTIVE"     [2023-12-14 Thu 18:19]
 - State "DONE"       from "ACTIVE"     [2023-12-13 Wed 17:47]
 - State "DONE"       from "ACTIVE"     [2023-12-11 Mon 18:25]
@@ -137,7 +146,7 @@ Stack-Overflow suggestions and notes. Bear this fact in mind do your
 job as it would be done in a sure and fire manner.
 
 ** RAW [#A] *Python* embedded help system
-SCHEDULED: <2023-12-15 Fri ++2d/3d>
+SCHEDULED: <2023-12-19 Tue ++2d/3d>
 :PROPERTIES:
 :LAST_REPEAT: [2023-12-13 Wed 17:47]
 :END:
@@ -210,11 +219,15 @@ CLOCK: [2023-10-14 Sat 07:30]--[2023-10-14 Sat 08:27] =>  0:57
 :END:
 Very straighforward system out from 10 initial keys to use in embedded
 *Help* browser.OA To use several *Help* buffers use =M-x raname uniquely=
-* RAW [#A] Help about *info*
-SCHEDULED: <2023-12-15 Fri ++1d>
+* DP0 [#A] Help about *info*
+SCHEDULED: <2023-12-18 Mon ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-12-13 Wed 17:47]
+:LAST_REPEAT: [2023-12-17 Sun 18:14]
+:CATEGORY: Studying
 :END:
+- State "DONE"       from "Active"     [2023-12-17 Sun 18:14]
+- State "DONE"       from "ACTIVE"     [2023-12-16 Sat 16:38]
+- State "DONE"       from "ACTIVE"     [2023-12-15 Fri 16:21]
 - State "DONE"       from "ACTIVE"     [2023-12-13 Wed 17:47]
 - State "DONE"       from "ACTIVE"     [2023-12-12 Tue 19:19]
 - State "DONE"       from "ACTIVE"     [2023-12-10 Sun 18:52]

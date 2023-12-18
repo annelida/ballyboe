@@ -225,12 +225,20 @@ SCHEDULED: <2023-12-22 Fri ++2w>
 
 **** Window Registers 
 
-**** Init [#A] Bookmarks
-SCHEDULED: <2023-12-15 Fri ++2w>
+**** Init [#A] Emacs Bookmarks+ conception
+SCHEDULED: <2023-12-18 Mon ++2w>
+:PROPERTIES:
+:CATEGORY: Studying
+:END:
 :LOGBOOK:
 CLOCK: [2023-12-14 Thu 09:30]--[2023-12-14 Thu 10:08] =>  0:38
 :END:
 
+**** DP0 [#A] Help about *eww*
+SCHEDULED: <2023-12-18 Mon>
+:PROPERTIES:
+:CATEGORY: Studying
+:END:
 **** RAW Emacs + venv
 SCHEDULED: <2023-12-23 Sat ++3w>
 :PROPERTIES:
@@ -250,7 +258,7 @@ CLOCK: [2023-11-23 Thu 14:58]--[2023-11-23 Thu 15:53] =>  0:55
 :END:
 [[https://elpy.readthedocs.io/en/latest/concepts.html#:~:text=Concepts-,The%20RPC%20Process,going%20on%20in%20the%20background.]]
 ***** Init Elpy the RPC Process                                   
-SCHEDULED: <2023-12-18 Mon ++2w>:
+SCHEDULED: <2023-12-20 Wed ++2w>:
 - Note taken on [2023-11-30 Thu 15:31] \\
   RPC processes are used to provide code completion, documentation and
   other features. To do so, they use python packages (jedi, yapf, …)
@@ -695,7 +703,7 @@ You can see full result in diff buffer.
 In the Linux terminal it is possible at the same time to compare folder with files:
 $ diff -a -y dir1 dir2
 ****** RAW ACTIVE Linux symbolic links
-SCHEDULED: <2023-12-18 Mon ++2w>
+SCHEDULED: <2023-12-26 Tue ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-12-04 Mon 11:21]
 :END:
@@ -710,14 +718,14 @@ SCHEDULED: <2023-12-18 Mon ++2w>
 **** Git/Magit
 
 ****** Init Git/Magit merge and rebase concept.
-SCHEDULED: <2023-12-15 Fri>
+SCHEDULED: <2023-12-19 Tue>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-16 Thu 15:34]
+:CATEGORY: Repeating
 :END:
 
 - State "DONE"       from "ACTIVE"     [2023-11-16 Thu 15:34]
 - State "DONE"       from "ACTIVE"     [2023-11-16 Thu 15:34]
-SCHEDULED: <2023-12-15 Fri  ++2w>
 
   - Note taken on [2023-10-23 Mon 09:48] \\
 
@@ -841,17 +849,21 @@ SCHEDULED: <2024-01-03 Wed>
   rebase
   tag
   version
-**** Init Drilling "Definitions" 
-SCHEDULED: <2023-12-15 Fri>
+**** Init "Definitions" 
+SCHEDULED: <2023-12-18 Mon>
 :PROPERTIES:
 :CATEGORY: Spaced repetition
 :END:
 [[file:~/git/ballyboe/bookworm/drills.org::*Definitions][Definitions]]
-**** Init Speed-typing
-SCHEDULED: <2023-12-15 Fri ++1d>
+**** DP0 Speed-typing
+SCHEDULED: <2023-12-18 Mon ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-12-14 Thu 18:20]
+:LAST_REPEAT: [2023-12-17 Sun 18:15]
+:CATEGORY: Typing
 :END:
+- State "DONE"       from "Active"     [2023-12-17 Sun 18:15]
+- State "DONE"       from "Active"     [2023-12-16 Sat 16:38]
+- State "DONE"       from "Active"     [2023-12-15 Fri 16:21]
 - State "DONE"       from "Active"     [2023-12-14 Thu 18:20]
 - State "DONE"       from "Active"     [2023-12-13 Wed 17:48]
 - State "DONE"       from "Active"     [2023-12-12 Tue 19:19]
@@ -1027,9 +1039,9 @@ This is known as 'stream redirection'.
 **** Init Python object types
 ***** Init Python strings methods
 ****** RAW Python string type-specific methods
-SCHEDULED: <2023-12-17 Sun ++5d>
 :PROPERTIES:
 :LAST_REPEAT: [2023-12-11 Mon 18:27]
+:CATEGORY: Reading
 :END:
 - State "DONE"       from "Active"     [2023-12-11 Mon 18:27]
 - State "DONE"       from "Active"     [2023-12-04 Mon 11:23]
@@ -1049,7 +1061,10 @@ SCHEDULED: <2023-12-27 Wed ++2w>
 CLOCK: [2023-12-14 Thu 10:09]--[2023-12-14 Thu 10:34] =>  0:25
 :END:
 ***** RAW Python Lists
-SCHEDULED: <2023-12-15 Fri>
+SCHEDULED: <2023-12-18 Mon>
+:PROPERTIES:
+:CATEGORY: Reading
+:END:
 
 *** Computer science distillled
 :PROPERTIES:
@@ -1069,13 +1084,16 @@ SCHEDULED: <2023-12-27 Wed ++2w>
 
 - State "DONE"       from "Active"     [2023-12-13 Wed 11:24]
 ***** Init Logic
-SCHEDULED: <2023-12-15 Fri>
+SCHEDULED: <2023-12-18 Mon>
+:PROPERTIES:
+:CATEGORY: Reading
+:END:
 :LOGBOOK:
 CLOCK: [2023-12-14 Thu 10:45]--[2023-12-14 Thu 11:09] =>  0:24
 :END:
 
 ****** Init Operators
-SCHEDULED: <2023-12-15 Fri>
+SCHEDULED: <2023-12-18 Mon>
 
 - Note taken on [2023-12-14 Thu 10:58] \\
   Conditional operator:
@@ -1108,7 +1126,6 @@ SCHEDULED: <2023-12-15 Fri>
 *** "Talk Python to me" podcasts
 
 **** Init Transcript 10 Tips and Tools for Developer Productivity
-SCHEDULED: <2023-12-17 Sun>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-23 Thu 15:54]
 :END:

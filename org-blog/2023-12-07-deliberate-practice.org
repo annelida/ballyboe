@@ -13,11 +13,14 @@ tags: [org-agenda, double-loop-learning]
 #+OPTIONS: tags:nil num:nil \n:nil @:t ::t |:t ^:{} _:{} *:t
 #+TOC: headlines 2
 #+PROPERTY:header-args :results output :exports both :eval no-export
-#+CATEGORY: Deliberate practice
+#+CATEGORY: Blogging
 #+TODO: RAW INIT TODO ACTIVE | DONE
 
-* TODO [#A] Preface
-SCHEDULED: <2023-12-15 Fri>
+* TODO [#C] "Deliberate practice" Preface
+SCHEDULED: <2023-12-18 Mon>
+:PROPERTIES:
+:CATEGORY: Gathering
+:END:
 
 #+begin_quote
 /"Practice makes perfect."/
@@ -41,6 +44,7 @@ of competence and are able to do what you need to do, the skill
 becomes automatic. At best, you’re maintaining your abilities, but not
 improving them.
 
+** NOTES                                                          :noexport:
 
 * TODO Several definitions
 
