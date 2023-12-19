@@ -11,8 +11,7 @@ MY PROJECTS    -*- mode: org; -*-
 
 
 * Learning
-** Methodology
-
+** Meta
 *** Spaced Repetition
 
 *** Pomodoro Technique
@@ -61,6 +60,73 @@ CLOCK: [2023-10-14 Sat 13:30]--[2023-10-14 Sat 14:03] =>  0:33
 
 **** Present perfect
 
+** Linux
+:PROPERTIES:
+:CATEGORY: Linux
+:END:
+
+*** RAW MAN ssh
+SCHEDULED: <2023-12-19 Tue>
+- Note taken on [2023-12-19 Tue 09:15] \\
+  ssh (SSH client) is a program for logging into a remote machine and
+       for executing commands on a remote machine. It is intended to
+       provide secure encrypted communications between two untrusted
+       hosts over an insecure network
+
+  ssh username@IP address
+:LOGBOOK:
+CLOCK: [2023-12-19 Tue 09:15]--[2023-12-19 Tue 09:18] =>  0:03
+:END:
+*** RAW MAN df
+SCHEDULED: <2023-12-19 Tue>
+- Note taken on [2023-12-19 Tue 09:20] \\
+  df - report file system disk space usage
+
+  -h, --human-readable print sizes in powers of 1024 (e.g., 1023M)
+:LOGBOOK:
+CLOCK: [2023-12-19 Tue 09:18]--[2023-12-19 Tue 09:22] =>  0:04
+:END:
+*** RAW MAN free
+SCHEDULED: <2023-12-19 Tue>
+- Note taken on [2023-12-19 Tue 09:31] \\
+  =free= displays the total amount of free and used physical and swap
+  memory in the system, as well as the buffers and caches used by the
+  kernel. The information is gathered by parsing /proc/meminfo. The
+  displayed columns are:
+
+  *Total*- Total installed memory (MemTotal and SwapTotal in
+  /proc/meminfo)
+
+  *Used*-Used memory (calculated as total - free - buffers - cache)
+
+  *free*- Unused memory (MemFree and SwapFree in /proc/meminfo)
+
+  *shared*- Memory used (mostly) by tmpfs (Shmem in /proc/meminfo)
+
+  *buffers*- Memory used by kernel buffers (Buffers in /proc/meminfo)
+  *cache*- Memory used by the page cache and slabs (Cached and
+  SReclaimable in /proc/meminfo)
+:LOGBOOK:
+CLOCK: [2023-12-19 Tue 09:22]--[2023-12-19 Tue 09:34] =>  0:12
+:END:
+*** RAW MAN htop
+SCHEDULED: <2023-12-19 Tue>
+*** RAW MAN ps
+SCHEDULED: <2023-12-19 Tue>
+- Note taken on [2023-12-19 Tue 10:19] \\
+  ps -ef displays all processes running on the system, while htop
+   displays real-time information about processes that are currently
+   running.
+
+   ps -ef provides a detailed listing of all processes running on the
+   system, including their process ID (PID), parent process ID (PPID),
+   CPU usage, memory usage, and more. On the other hand, htop provides a
+   real-time view of the system’s processes, sorted by CPU usage by
+   default.
+*** RAW Process management
+SCHEDULED: <2023-12-20 Wed>
+*** RAW Software management
+SCHEDULED: <2023-12-20 Wed>
 ** Python
 
 **** Init TODO [#A] Python: modules, relative import. 
@@ -226,7 +292,7 @@ SCHEDULED: <2023-12-22 Fri ++2w>
 **** Window Registers 
 
 **** Init [#A] Emacs Bookmarks+ conception
-SCHEDULED: <2023-12-18 Mon ++2w>
+SCHEDULED: <2023-12-20 Wed ++2w>
 :PROPERTIES:
 :CATEGORY: Studying
 :END:
@@ -235,9 +301,9 @@ CLOCK: [2023-12-14 Thu 09:30]--[2023-12-14 Thu 10:08] =>  0:38
 :END:
 
 **** DP0 [#A] Help about *eww*
-SCHEDULED: <2023-12-18 Mon>
+SCHEDULED: <2023-12-21 Thu>
 :PROPERTIES:
-:CATEGORY: Studying
+:CATEGORY: Emacs
 :END:
 **** RAW Emacs + venv
 SCHEDULED: <2023-12-23 Sat ++3w>
@@ -273,8 +339,19 @@ SCHEDULED: <2023-12-20 Wed ++2w>:
 :LOGBOOK:
 CLOCK: [2023-11-30 Thu 14:50]--[2023-11-30 Thu 15:33] =>  0:43
 :END:
-**** RAW Emacs regular expression
+**** RAW Emacs regular expressions
 SCHEDULED: <2023-12-19 Tue>
+:PROPERTIES:
+:CATEGORY: Emacs
+:END:
+:LOGBOOK:
+CLOCK: [2023-12-19 Tue 10:56]--[2023-12-19 Tue 11:45] =>  0:49
+:END:
+***** Regular expressions syntax
+SCHEDULED: <2023-12-20 Wed>
+[[info:emacs#Regexps][emacs#Regexps]]
+**** RAW Emacs Tremp mode
+SCHEDULED: <2023-12-20 Wed>
 ** Org-mode
 
 **** RAW [#B] Org-mode, org-babel markup rules
@@ -720,10 +797,10 @@ SCHEDULED: <2023-12-26 Tue ++2w>
 **** Git/Magit
 
 ****** Init Git/Magit merge and rebase concept.
-SCHEDULED: <2023-12-19 Tue>
+SCHEDULED: <2023-12-26 Tue>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-16 Thu 15:34]
-:CATEGORY: Repeating
+:CATEGORY: Git
 :END:
 
 - State "DONE"       from "ACTIVE"     [2023-11-16 Thu 15:34]
@@ -852,17 +929,18 @@ SCHEDULED: <2024-01-03 Wed>
   tag
   version
 **** Init "Definitions" 
-SCHEDULED: <2023-12-18 Mon>
+SCHEDULED: <2023-12-19 Tue>
 :PROPERTIES:
-:CATEGORY: Drilling
+:CATEGORY: Drill
 :END:
 [[file:~/git/ballyboe/bookworm/drills.org::*Definitions][Definitions]]
-**** DP0 Speed-typing
-SCHEDULED: <2023-12-18 Mon ++1d>
+**** RAW Speed-typing
+SCHEDULED: <2023-12-19 Tue ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-12-17 Sun 18:15]
-:CATEGORY: Typing
+:LAST_REPEAT: [2023-12-18 Mon 19:56]
+:CATEGORY: Chores
 :END:
+- State "DONE"       from "Active"     [2023-12-18 Mon 19:56]
 - State "DONE"       from "Active"     [2023-12-17 Sun 18:15]
 - State "DONE"       from "Active"     [2023-12-16 Sat 16:38]
 - State "DONE"       from "Active"     [2023-12-15 Fri 16:21]
@@ -998,7 +1076,7 @@ CLOCK: [2023-11-28 Tue 08:59]--[2023-11-28 Tue 09:23] =>  0:24
 :END:
 
 ***** RAW Python run the file with executable privileges.
-SCHEDULED: <2023-12-19 Tue ++1w>
+SCHEDULED: <2023-12-25 Mon ++1w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-12-12 Tue 14:31]
 :CATEGORY: Learning Python
@@ -1063,9 +1141,13 @@ SCHEDULED: <2023-12-27 Wed ++2w>
 CLOCK: [2023-12-14 Thu 10:09]--[2023-12-14 Thu 10:34] =>  0:25
 :END:
 ***** RAW Python Lists
-SCHEDULED: <2023-12-18 Mon>
+SCHEDULED: <2023-12-20 Wed>
 :PROPERTIES:
-:CATEGORY: Reading
+:CATEGORY: Python
+:END:
+:LOGBOOK:
+CLOCK: [2023-12-19 Tue 16:11]--[2023-12-19 Tue 17:52] =>  1:41
+CLOCK: [2023-12-19 Tue 14:10]--[2023-12-19 Tue 14:10] =>  0:00
 :END:
 
 *** Computer science distillled
@@ -1086,16 +1168,16 @@ SCHEDULED: <2023-12-27 Wed ++2w>
 
 - State "DONE"       from "Active"     [2023-12-13 Wed 11:24]
 ***** Init Logic
-SCHEDULED: <2023-12-18 Mon>
+SCHEDULED: <2023-12-21 Thu>
 :PROPERTIES:
-:CATEGORY: Reading
+:CATEGORY: CS
 :END:
 :LOGBOOK:
 CLOCK: [2023-12-14 Thu 10:45]--[2023-12-14 Thu 11:09] =>  0:24
 :END:
 
 ****** Init Operators
-SCHEDULED: <2023-12-18 Mon>
+SCHEDULED: <2023-12-21 Thu>
 
 - Note taken on [2023-12-14 Thu 10:58] \\
   Conditional operator:
@@ -1138,7 +1220,6 @@ CLOCK: [2023-11-28 Tue 18:27]--[2023-11-28 Tue 18:33] =>  0:06
 * Events
 
 * Notes
-
 
 * Personal
 
