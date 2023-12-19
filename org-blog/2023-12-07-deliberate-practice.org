@@ -5,7 +5,7 @@ title: Delibarate practice
 subtitle: feel and view
 permalink: /deleberate-practice.html
 categories: [Learning, Methodology]
-tags: [org-agenda, double-loop-learning]
+tags: [practice, double-loop-learning]
 ---
 #+END_EXPORT
 
@@ -13,13 +13,12 @@ tags: [org-agenda, double-loop-learning]
 #+OPTIONS: tags:nil num:nil \n:nil @:t ::t |:t ^:{} _:{} *:t
 #+TOC: headlines 2
 #+PROPERTY:header-args :results output :exports both :eval no-export
-#+CATEGORY: Blogging
+#+CATEGORY: Meta
 #+TODO: RAW INIT TODO ACTIVE | DONE
 
 * TODO [#C] Preface
-SCHEDULED: <2023-12-18 Mon>
+SCHEDULED: <2023-12-20 Wed>
 :PROPERTIES:
-:CATEGORY: Gathering
 :END:
 
 #+begin_quote

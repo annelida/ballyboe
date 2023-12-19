@@ -65,8 +65,8 @@ CLOCK: [2023-10-14 Sat 13:30]--[2023-10-14 Sat 14:03] =>  0:33
 :CATEGORY: Linux
 :END:
 
-*** RAW MAN ssh
-SCHEDULED: <2023-12-19 Tue>
+*** Init MAN ssh
+SCHEDULED: <2023-12-20 Wed>
 - Note taken on [2023-12-19 Tue 09:15] \\
   ssh (SSH client) is a program for logging into a remote machine and
        for executing commands on a remote machine. It is intended to
@@ -77,8 +77,8 @@ SCHEDULED: <2023-12-19 Tue>
 :LOGBOOK:
 CLOCK: [2023-12-19 Tue 09:15]--[2023-12-19 Tue 09:18] =>  0:03
 :END:
-*** RAW MAN df
-SCHEDULED: <2023-12-19 Tue>
+*** Init MAN df
+SCHEDULED: <2023-12-20 Wed>
 - Note taken on [2023-12-19 Tue 09:20] \\
   df - report file system disk space usage
 
@@ -86,8 +86,8 @@ SCHEDULED: <2023-12-19 Tue>
 :LOGBOOK:
 CLOCK: [2023-12-19 Tue 09:18]--[2023-12-19 Tue 09:22] =>  0:04
 :END:
-*** RAW MAN free
-SCHEDULED: <2023-12-19 Tue>
+*** Init MAN free
+SCHEDULED: <2023-12-20 Wed>
 - Note taken on [2023-12-19 Tue 09:31] \\
   =free= displays the total amount of free and used physical and swap
   memory in the system, as well as the buffers and caches used by the
@@ -109,10 +109,10 @@ SCHEDULED: <2023-12-19 Tue>
 :LOGBOOK:
 CLOCK: [2023-12-19 Tue 09:22]--[2023-12-19 Tue 09:34] =>  0:12
 :END:
-*** RAW MAN htop
-SCHEDULED: <2023-12-19 Tue>
-*** RAW MAN ps
-SCHEDULED: <2023-12-19 Tue>
+*** Init MAN htop
+SCHEDULED: <2023-12-20 Wed>
+*** Init MAN ps
+SCHEDULED: <2023-12-20 Wed>
 - Note taken on [2023-12-19 Tue 10:19] \\
   ps -ef displays all processes running on the system, while htop
    displays real-time information about processes that are currently
@@ -148,7 +148,7 @@ CLOCK: [2023-10-24 Tue 08:07]--[2023-10-24 Tue 09:32] =>  1:25
 
 
 **** RAW Python classes
-SCHEDULED: <2023-12-20 Wed>
+SCHEDULED: <2024-01-03 Wed>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-22 Wed 14:25]
 :END:
@@ -291,10 +291,10 @@ SCHEDULED: <2023-12-22 Fri ++2w>
 
 **** Window Registers 
 
-**** Init [#A] Emacs Bookmarks+ conception
+**** DP0 [#A] Bookmarks+ configuration
 SCHEDULED: <2023-12-20 Wed ++2w>
 :PROPERTIES:
-:CATEGORY: Studying
+:CATEGORY: Emacs
 :END:
 :LOGBOOK:
 CLOCK: [2023-12-14 Thu 09:30]--[2023-12-14 Thu 10:08] =>  0:38
@@ -324,7 +324,7 @@ CLOCK: [2023-11-23 Thu 14:58]--[2023-11-23 Thu 15:53] =>  0:55
 :END:
 [[https://elpy.readthedocs.io/en/latest/concepts.html#:~:text=Concepts-,The%20RPC%20Process,going%20on%20in%20the%20background.]]
 ***** Init Elpy the RPC Process                                   
-SCHEDULED: <2023-12-20 Wed ++2w>:
+SCHEDULED: <2024-01-04 Thu ++2w>:
 - Note taken on [2023-11-30 Thu 15:31] \\
   RPC processes are used to provide code completion, documentation and
   other features. To do so, they use python packages (jedi, yapf, …)
@@ -340,18 +340,20 @@ SCHEDULED: <2023-12-20 Wed ++2w>:
 CLOCK: [2023-11-30 Thu 14:50]--[2023-11-30 Thu 15:33] =>  0:43
 :END:
 **** RAW Emacs regular expressions
-SCHEDULED: <2023-12-19 Tue>
 :PROPERTIES:
 :CATEGORY: Emacs
 :END:
 :LOGBOOK:
 CLOCK: [2023-12-19 Tue 10:56]--[2023-12-19 Tue 11:45] =>  0:49
 :END:
-***** Regular expressions syntax
+***** RAW Regular expressions syntax
 SCHEDULED: <2023-12-20 Wed>
 [[info:emacs#Regexps][emacs#Regexps]]
 **** RAW Emacs Tremp mode
 SCHEDULED: <2023-12-20 Wed>
+:PROPERTIES:
+:CATEGORY: Emacs
+:END:
 ** Org-mode
 
 **** RAW [#B] Org-mode, org-babel markup rules
@@ -370,7 +372,7 @@ CLOCK: [2023-11-14 Tue 15:06]--[2023-11-14 Tue 15:48] =>  0:42
 :END:
 
 **** RAW TODO Org-Babel configuration.
-SCHEDULED: <2023-12-20 Wed ++2w>
+SCHEDULED: <2024-01-09 Tue ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-22 Wed 08:46]
 :END:
@@ -929,17 +931,18 @@ SCHEDULED: <2024-01-03 Wed>
   tag
   version
 **** Init "Definitions" 
-SCHEDULED: <2023-12-19 Tue>
+SCHEDULED: <2023-12-20 Wed>
 :PROPERTIES:
 :CATEGORY: Drill
 :END:
 [[file:~/git/ballyboe/bookworm/drills.org::*Definitions][Definitions]]
-**** RAW Speed-typing
-SCHEDULED: <2023-12-19 Tue ++1d>
+**** DP0 Speed-typing
+SCHEDULED: <2023-12-20 Wed ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-12-18 Mon 19:56]
-:CATEGORY: Chores
+:LAST_REPEAT: [2023-12-19 Tue 17:58]
+:CATEGORY: Chore
 :END:
+- State "DONE"       from "Active"     [2023-12-19 Tue 17:58]
 - State "DONE"       from "Active"     [2023-12-18 Mon 19:56]
 - State "DONE"       from "Active"     [2023-12-17 Sun 18:15]
 - State "DONE"       from "Active"     [2023-12-16 Sat 16:38]
@@ -1140,7 +1143,7 @@ SCHEDULED: <2023-12-27 Wed ++2w>
 :LOGBOOK:
 CLOCK: [2023-12-14 Thu 10:09]--[2023-12-14 Thu 10:34] =>  0:25
 :END:
-***** RAW Python Lists
+***** DP0 Python Lists
 SCHEDULED: <2023-12-20 Wed>
 :PROPERTIES:
 :CATEGORY: Python
