@@ -269,3 +269,36 @@ re.search(): Searches for a pattern anywhere in a string.
 #+RESULTS:
 : <re.Match object; span=(7, 12), match='Regex'>
 
+** Lists
+
+#+begin_src python :results output
+  s = [1, 4, 9, 16, 25]
+  print(s)
+  print(s[0])   # indexing return the item
+  print(s[-1])
+  print(s[-3:]) # slicing return a new list
+  print(s + [36, 49, 64, 81, 100])  # concatenation
+#+end_src
+
+#+RESULTS:
+: [1, 4, 9, 16, 25]
+: 1
+: 25
+: [9, 16, 25]
+: [1, 4, 9, 16, 25, 36, 49, 64, 81, 100]
+
+Lists are mutable
+
+#+begin_src python :results output
+  c = [1, 8, 27, 65, 125]
+  print(c)
+  c[3] = 64  # replacing
+  print(c)
+  c.append(343) # new item adding 
+  print(c)
+#+end_src
+
+#+RESULTS:
+: [1, 8, 27, 65, 125]
+: [1, 8, 27, 64, 125]
+: [1, 8, 27, 64, 125, 343]
