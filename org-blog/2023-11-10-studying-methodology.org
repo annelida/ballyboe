@@ -1,9 +1,9 @@
 #+BEGIN_EXPORT html
 ---
 layout: post
-title: Nice and dice
+title: Learning methodology
 subtitle: feel and view
-permalink: /blog-mark-up.html
+permalink: /methodology.html
 categories: [Learning, Methodology]
 tags: [emacs, org-mode, org-agenda, double-loop-learning]
 ---
@@ -13,14 +13,13 @@ tags: [emacs, org-mode, org-agenda, double-loop-learning]
 #+OPTIONS: tags:nil num:nil \n:nil @:t ::t |:t ^:{} _:{} *:t
 #+TOC: headlines 2
 #+PROPERTY:header-args :results output :exports both :eval no-export
-#+CATEGORY: Meth
+#+CATEGORY: Meta
 #+TODO: RAW INIT TODO ACTIVE | DONE
 
 * INIT [#C] Intro
-SCHEDULED: <2023-12-18 Mon ++4d>
+SCHEDULED: <2023-12-20 Wed ++4d>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-21 Tue 18:11]
-:CATEGORY: Gathering
 :END:
 - State "DONE"       from "ACTIVE"     [2023-11-21 Tue 18:11]
 - State "DONE"       from "ACTIVE"     [2023-11-17 Fri 08:56]
@@ -61,10 +60,9 @@ Method. See synonyms, origin, and examples of method in sentences.
   outcome and your solid base of personal knowledge.
     
 * INIT [#C] What is methodology
- SCHEDULED: <2023-12-18 Mon ++4d>
+ SCHEDULED: <2023-12-20 Wed ++4d>
  :PROPERTIES:
  :LAST_REPEAT: [2023-11-23 Thu 11:38]
- :CATEGORY: Gathering
  :END:
  - State "DONE"       from "ACTIVE"     [2023-11-23 Thu 11:38]
  - State "DONE"       from "ACTIVE"     [2023-11-19 Sun 12:38]
@@ -88,10 +86,9 @@ Method. See synonyms, origin, and examples of method in sentences.
  how you receive information to best learn.
 
 * INIT [#C] Applied methodology
-SCHEDULED: <2023-12-18 Mon ++4d>
+SCHEDULED: <2023-12-20 Wed ++4d>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-20 Mon 16:13]
-:CATEGORY: Gathering
 :END:
 
 - State "DONE"       from "ACTIVE"     [2023-11-20 Mon 16:13]
@@ -176,12 +173,10 @@ crammed into a single session.
 #+end_quote
 
 * INIT [#C] Unavoidable necessities
-SCHEDULED: <2023-12-18 Mon ++4d>
+SCHEDULED: <2023-12-20 Wed ++4d>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-23 Thu 11:38]
-:CATEGORY: Gathering
 :END:
-
 
 - State "DONE"       from "ACTIVE"     [2023-11-23 Thu 11:38]
 - State "DONE"       from "ACTIVE"     [2023-11-19 Sun 12:38]
@@ -197,8 +192,11 @@ Before you start your learning, answer yourself the questions:
 - Where do I want to see myself in 5 years? In 10 yrs?
 - What do I need to do to reach those goals?
 
-** Decompose the Whole Task
-SCHEDULED: <2023-12-19 Tue>
+** RAW [#C] Decompose the Whole Task
+SCHEDULED: <2023-12-20 Wed>
+:PROPERTIES:
+:CATEGORY: Meta
+:END:
 
 https://www.youtube.com/watch?v=HZRDUZuIKg4
 https://www.youtube.com/watch?v=vJ4bXM185qE
@@ -222,7 +220,7 @@ Get enough sleep before studying. Eat less can make your brain more clear and ea
 to focus on the task.
 
 
-* Daily ToDo List
+* RAW Daily ToDo List
 SCHEDULED: <2023-12-20 Wed>
 
 Naturally it should be composed from initially ~complex~ tasks for
@@ -233,7 +231,7 @@ The great tool to use in your day-to-day life is a simple and dense
 
 <<<<<<< HEAD
 * TODO [#C] How to create the best weekly agenda?
-SCHEDULED: <2023-12-18 Mon>
+SCHEDULED: <2023-12-28 Thu>
 =======
 ** ToDo States
 
@@ -347,9 +345,8 @@ All relevant questions should be questioned while task resolving.
  they a little bit later.
 
 * INIT [#C] Raw state
-SCHEDULED: <2023-12-18 Mon>
+SCHEDULED: <2023-12-20 Wed>
 :PROPERTIES:
-:CATEGORY: Elaboration
 :END:
 
 Is for just captured and unscheduled yet tasks. In this stage it is
@@ -360,10 +357,9 @@ makes sense the task's state changes to *INIT* and it is scheduled.
 
 
 * INIT [#C] Initial chapter dissection
-SCHEDULED: <2023-12-18 Mon ++4d>
+SCHEDULED: <2023-12-20 Wed ++4d>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-21 Tue 18:12]
-:CATEGORY: Elaboration
 :END:
 
 - State "DONE"       from "ACTIVE"     [2023-11-21 Tue 18:12]
@@ -381,11 +377,11 @@ study of the material:
 After the initial analysis task it's status switches (++1d/2d) on
 to *Deliberate practice 0 session*.
    
-* INIT Deliberate practice 0 session
-SCHEDULED: <2023-12-18 Mon ++4d>
+* INIT [#C] Deliberate practice 0 session
+SCHEDULED: <2023-12-20 Wed ++4d>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-21 Tue 18:12]
-:CATEGORY: Elaboration
+:CATEGORY: Meta
 :END:
 
 - State "DONE"       from "ACTIVE"     [2023-11-21 Tue 18:12]

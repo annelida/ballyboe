@@ -207,5 +207,9 @@ maintained to be used in different systems.
 
 
 
+** Central Processing Unit (CPU)
 
-
+is the brain of a computer, containing all the circuitry needed to
+process input, store data, and output results. The CPU is constantly
+following instructions of computer programs that tell it which data to
+process and how to process it.
