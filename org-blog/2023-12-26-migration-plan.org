@@ -1,0 +1,54 @@
+#+BEGIN_EXPORT html
+---
+layout: post
+title: Migration from one host to another
+subtitle: step by step description
+permalink: /linux/moving-from-one-host-to-another.html
+categories: [linux, git, literate programming]
+tags: [linux, git,  emacs, python, remotes]
+---
+#+END_EXPORT
+
+#+STARTUP: showall indent
+#+OPTIONS: tags:nil num:nil \n:nil @:t ::t |:t ^:{} _:{} *:t
+#+TOC: headlines 2
+#+PROPERTY:header-args :results output :exports both :eval no-export
+#+CATEGORY: Meta
+#+TODO: RAW INIT TODO ACTIVE | DONE
+
+* Migration sequence
+** Login on remotely computer
+#+begin_example
+ssh vikky@192.168.43.200
+#+end_example
+
+** Check the ssh keys
+#+begin_example
+cd ~/.ssh
+ls -la
+#+end_example
+
+** If where are no any keys, copy next ssh-keys
+#+begin_example
+id_ed25519
+id_ed25519.pub
+#+end_example
+
+** Add keys to ssh-agent
+#+begin_example
+ssh-add ~/.ssh.id25519
+#+end_example
+
+** Install Git
+#+begin_example
+sudo apt-get install git
+git --version
+#+end_example
+** Clone repositories
+** Create soft link to Emacs configuration files
+** Install Magit
+** Edit one particular file from repository, commit and push it
+** Create list packages that need to be installed in Emacs
+
+
+
