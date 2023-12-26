@@ -4,8 +4,8 @@ layout: post
 title: Nice and dice
 subtitle: feel and view
 permalink: /blog-mark-up.html
-categories: [Literate Programming]
-tags: [tutorial, mark-up]
+categories: [emacs, org-mode, mark-up, Literate Programming]
+tags: [html export, mark-up]
 ---
 #+END_EXPORT
 
@@ -16,3 +16,12 @@ tags: [tutorial, mark-up]
 #+CATEGORY: Venv
 #+TODO: RAW INIT TODO ACTIVE | DONE
 [[info:org#Markup for Rich Contents][org#Markup for Rich Contents]]
+
+* Emphasis
+
+** Bold
+** Italic
+** Underlined
+** Verbatim
+** Code
+** Strike-through
