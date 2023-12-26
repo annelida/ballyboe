@@ -206,10 +206,38 @@ Is a discrete piece of code that can be independently created and
 maintained to be used in different systems.
 
 
-
 ** Central Processing Unit (CPU)
 
 is the brain of a computer, containing all the circuitry needed to
 process input, store data, and output results. The CPU is constantly
 following instructions of computer programs that tell it which data to
 process and how to process it.
+
+** Debugging
+
+Is a process of finding and resolving bugs within computer programs,
+software or system.
+
+** Debugger or debugging tool
+
+Is a computer program used to test and debug other program.
+
+** Passive testing
+
+Verifying the system behavior without any interaction with the
+software product. Testers only look at system log and traces.
+
+** Dynamic testing
+
+Executing programmed code with a given set of test cases.
+
+** Test case
+
+Is a specification of the inputs, execution conditions, testing
+procedure and expected results that define a single test to be
+executed.
+
+** Test design
+
+Defines "HOW" something can be tested. It is describes test strategy
+or test plan.
