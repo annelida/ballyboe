@@ -65,7 +65,7 @@ CLOCK: [2023-10-14 Sat 13:30]--[2023-10-14 Sat 14:03] =>  0:33
 :CATEGORY: Linux
 :END:
 
-*** RAW MAN ssh
+*** Init MAN ssh
 SCHEDULED: <2023-12-27 Wed ++1w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-12-20 Wed 18:41]
@@ -86,7 +86,7 @@ SCHEDULED: <2023-12-27 Wed ++1w>
 CLOCK: [2023-12-20 Wed 09:55]--[2023-12-20 Wed 10:45] =>  0:50
 CLOCK: [2023-12-19 Tue 09:15]--[2023-12-19 Tue 09:18] =>  0:03
 :END:
-*** RAW MAN df
+*** Init MAN df
 SCHEDULED: <2023-12-27 Wed ++1w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-12-20 Wed 18:42]
@@ -99,7 +99,7 @@ SCHEDULED: <2023-12-27 Wed ++1w>
 :LOGBOOK:
 CLOCK: [2023-12-19 Tue 09:18]--[2023-12-19 Tue 09:22] =>  0:04
 :END:
-*** RAW MAN free
+*** Init MAN free
 SCHEDULED: <2023-12-27 Wed ++1w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-12-20 Wed 18:42]
@@ -126,7 +126,7 @@ SCHEDULED: <2023-12-27 Wed ++1w>
 :LOGBOOK:
 CLOCK: [2023-12-19 Tue 09:22]--[2023-12-19 Tue 09:34] =>  0:12
 :END:
-*** RAW MAN htop
+*** Init MAN htop
 SCHEDULED: <2023-12-27 Wed ++1w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-12-20 Wed 18:43]
@@ -136,7 +136,7 @@ SCHEDULED: <2023-12-27 Wed ++1w>
 *htop* is an interactive system-monitor process-viewer and
 process-manager. It shows a frequently updated list of the processes
 running on a computer, normally ordered by the amount of CPU usage.
-*** RAW MAN ps
+*** Init MAN ps
 SCHEDULED: <2023-12-27 Wed ++1w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-12-20 Wed 18:44]
@@ -150,8 +150,8 @@ SCHEDULED: <2023-12-27 Wed ++1w>
    ps -ef provides a detailed listing of all processes running on the
    system, including their process ID (PID), parent process ID (PPID),
    CPU usage, memory usage, and more. 
-*** RAW Process management
-SCHEDULED: <2023-12-26 Tue>
+*** Init Process management
+SCHEDULED: <2023-12-27 Wed>
 - Note taken on [2023-12-20 Wed 11:33] \\
 
   Is the technique used by organizations to analyze, optimize, monitor,
@@ -167,8 +167,8 @@ SCHEDULED: <2023-12-26 Tue>
   stable. In addition, process management allows the operating system
   to control how programs interact with each other.
   
-*** RAW Software management
-SCHEDULED: <2023-12-26 Tue>
+*** Init Software management
+SCHEDULED: <2023-12-27 Wed>
 
 Is a science of planning and leading software projects.
 
@@ -348,7 +348,7 @@ SCHEDULED: <2024-01-19 Fri ++2w>
 **** Window Registers 
 
 **** DP0 [#A] Bookmarks+ configuration
-SCHEDULED: <2023-12-27 Wed ++2w>
+SCHEDULED: <2023-12-30 Sat ++2w>
 :PROPERTIES:
 :CATEGORY: Emacs
 :END:
@@ -368,7 +368,7 @@ SCHEDULED: <2023-12-29 Fri ++3w>
 :END:
 - State "DONE"       from "Active"     [2023-12-04 Mon 11:10]
 **** Init Elpy concepts
-SCHEDULED: <2023-12-26 Tue>
+SCHEDULED: <2023-12-31 Sun>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-23 Thu 15:54]
 :CATEGORY: Elpy
@@ -403,10 +403,10 @@ CLOCK: [2023-11-30 Thu 14:50]--[2023-11-30 Thu 15:33] =>  0:43
 CLOCK: [2023-12-19 Tue 10:56]--[2023-12-19 Tue 11:45] =>  0:49
 :END:
 ***** RAW Regular expressions syntax
-SCHEDULED: <2023-12-26 Tue>
+SCHEDULED: <2023-12-31 Sun>
 [[info:emacs#Regexps][emacs#Regexps]]
 **** RAW Emacs Tramp mode
-SCHEDULED: <2023-12-26 Tue>
+SCHEDULED: <2023-12-27 Wed>
 :PROPERTIES:
 :CATEGORY: Emacs
 :END:
@@ -487,7 +487,7 @@ https://orgmode.org/worg/org-contrib/org-drill.html
 https://orgmode.org/worg/org-contrib/org-drill.html#org51fd4f9
 
 **** RAW Org-capture templates concept and usage
-SCHEDULED: <2023-12-27 Wed ++2w>
+SCHEDULED: <2024-01-05 Fri ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-12-13 Wed 17:47]
 :END:
@@ -1194,7 +1194,7 @@ CLOCK: [2023-11-28 Tue 10:40]--[2023-11-28 Tue 11:14] =>  0:34
 CLOCK: [2023-11-24 Fri 14:29]--[2023-11-24 Fri 14:52] =>  0:23
 :END:
 ******* RAW Python how to code strings
-SCHEDULED: <2023-12-27 Wed ++2w>
+SCHEDULED: <2024-01-08 Mon ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-12-13 Wed 11:24]
 :END:
@@ -1204,7 +1204,7 @@ SCHEDULED: <2023-12-27 Wed ++2w>
 CLOCK: [2023-12-14 Thu 10:09]--[2023-12-14 Thu 10:34] =>  0:25
 :END:
 ***** Init Python Lists
-SCHEDULED: <2023-12-26 Tue>
+SCHEDULED: <2023-12-27 Wed>
 :PROPERTIES:
 :CATEGORY: Python
 :END:
@@ -1229,14 +1229,14 @@ CLOCK: [2023-12-19 Tue 14:10]--[2023-12-19 Tue 14:10] =>  0:00
 :END:
 
 ***** RAW Mathematical models
-SCHEDULED: <2023-12-27 Wed ++2w>
+SCHEDULED: <2024-01-09 Tue ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-12-13 Wed 11:24]
 :END:
 
 - State "DONE"       from "Active"     [2023-12-13 Wed 11:24]
 ***** DP0 Logic
-SCHEDULED: <2023-12-26 Tue>
+SCHEDULED: <2023-12-27 Wed>
 :PROPERTIES:
 :CATEGORY: CS
 :END:
@@ -1245,7 +1245,7 @@ CLOCK: [2023-12-14 Thu 10:45]--[2023-12-14 Thu 11:09] =>  0:24
 :END:
 
 ****** Init Operators
-SCHEDULED: <2023-12-26 Tue>
+SCHEDULED: <2023-12-27 Wed>
 
 - Note taken on [2023-12-14 Thu 10:58] \\
   Conditional operator:

@@ -13,10 +13,15 @@ CLOSED: [2023-10-26 Thu 17:32] SCHEDULED: <2023-10-29 Sun>
 Naturally, by its definition they are the routine, usual and regular
 tasks.
 * RAW [#C] Git commits purification
-SCHEDULED: <2023-12-20 Wed ++1d>
+SCHEDULED: <2023-12-27 Wed ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-12-18 Mon 19:56]
+:LAST_REPEAT: [2023-12-26 Tue 16:00]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-12-26 Tue 16:00]
+- State "DONE"       from "ACTIVE"     [2023-12-25 Mon 13:25]
+- State "DONE"       from "ACTIVE"     [2023-12-22 Fri 16:45]
+- State "DONE"       from "ACTIVE"     [2023-12-21 Thu 17:39]
+- State "DONE"       from "ACTIVE"     [2023-12-20 Wed 18:46]
 - State "DONE"       from "ACTIVE"     [2023-12-18 Mon 19:56]
 - State "DONE"       from "ACTIVE"     [2023-12-17 Sun 18:15]
 - State "DONE"       from "ACTIVE"     [2023-12-16 Sat 16:39]
@@ -75,11 +80,16 @@ SCHEDULED: <2023-12-20 Wed ++1d>
 - State "DONE"       from "ACTIVE"     [2023-10-13 Fri 13:02]
 ** DONE Test
 CLOSED: [2023-11-29 Wed 18:16] SCHEDULED: <2023-11-28 Tue>
-* INIT *PUSH*
-SCHEDULED: <2023-12-20 Wed ++1d>
+* RAW *PUSH*
+SCHEDULED: <2023-12-27 Wed ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-12-19 Tue 17:58]
+:LAST_REPEAT: [2023-12-26 Tue 16:00]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-12-26 Tue 16:00]
+- State "DONE"       from "ACTIVE"     [2023-12-25 Mon 13:23]
+- State "DONE"       from "ACTIVE"     [2023-12-22 Fri 16:44]
+- State "DONE"       from "ACTIVE"     [2023-12-21 Thu 17:39]
+- State "DONE"       from "ACTIVE"     [2023-12-20 Wed 18:46]
 - State "DONE"       from "ACTIVE"     [2023-12-19 Tue 17:58]
 - State "DONE"       from "ACTIVE"     [2023-12-18 Mon 19:56]
 - State "DONE"       from "ACTIVE"     [2023-12-17 Sun 18:15]
@@ -143,10 +153,11 @@ necessary to do after some changes need to be shared with me
 urgently. Before push I can't see any changes, because all them are on
 your localhost.
 * RAW Workspace clean-up
-SCHEDULED: <2023-12-22 Fri ++1w>
+SCHEDULED: <2023-12-29 Fri ++1w>
 :PROPERTIES:
-:LAST_REPEAT: [2023-12-15 Fri 16:22]
+:LAST_REPEAT: [2023-12-22 Fri 16:44]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-12-22 Fri 16:44]
 - State "DONE"       from "ACTIVE"     [2023-12-15 Fri 16:22]
 - State "DONE"       from "ACTIVE"     [2023-12-09 Sat 17:53]
 - State "DONE"       from "ACTIVE"     [2023-12-01 Fri 17:23]
@@ -173,11 +184,12 @@ workspace:
   * k to mark buffers for kill (D appears next to buffer)
   * x to execute kill
     
-* TODO Workspace clean-up
-SCHEDULED: <2023-12-20 Wed ++1w>
+* RAW Workspace clean-up
+SCHEDULED: <2023-12-27 Wed ++1w>
 :PROPERTIES:
-:LAST_REPEAT: [2023-12-13 Wed 17:48]
+:LAST_REPEAT: [2023-12-20 Wed 18:46]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-12-20 Wed 18:46]
 - State "DONE"       from "ACTIVE"     [2023-12-13 Wed 17:48]
 - State "DONE"       from "ACTIVE"     [2023-12-06 Wed 16:12]
 - State "DONE"       from "ACTIVE"     [2023-11-29 Wed 18:20]
@@ -212,10 +224,15 @@ workspace:
   At the bottom left, select: Advanced - About ChromeOS - Select Check for updates.
 
 * RAW [#C] Evening meet-up
-SCHEDULED: <2023-12-20 Wed ++1d>
+SCHEDULED: <2023-12-27 Wed ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-12-18 Mon 19:57]
+:LAST_REPEAT: [2023-12-26 Tue 16:00]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-12-26 Tue 16:00]
+- State "DONE"       from "ACTIVE"     [2023-12-25 Mon 13:25]
+- State "DONE"       from "ACTIVE"     [2023-12-22 Fri 16:45]
+- State "DONE"       from "ACTIVE"     [2023-12-21 Thu 17:40]
+- State "DONE"       from "ACTIVE"     [2023-12-20 Wed 18:47]
 - State "DONE"       from "ACTIVE"     [2023-12-18 Mon 19:57]
 - State "DONE"       from "ACTIVE"     [2023-12-17 Sun 18:15]
 - State "DONE"       from "ACTIVE"     [2023-12-16 Sat 16:39]
@@ -272,11 +289,16 @@ SCHEDULED: <2023-12-20 Wed ++1d>
 - State "DONE"       from "ACTIVE"     [2023-10-14 Sat 14:24]
 - State "DONE"       from "ACTIVE"     [2023-10-13 Fri 13:01]
 To discuss actual questions and find answers.
-* TODO Daily taskset schedulling
-SCHEDULED: <2023-12-20 Wed ++1d>
+* RAW Daily taskset schedulling
+SCHEDULED: <2023-12-27 Wed ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-12-19 Tue 17:58]
+:LAST_REPEAT: [2023-12-26 Tue 16:00]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-12-26 Tue 16:00]
+- State "DONE"       from "ACTIVE"     [2023-12-25 Mon 13:23]
+- State "DONE"       from "ACTIVE"     [2023-12-22 Fri 16:45]
+- State "DONE"       from "ACTIVE"     [2023-12-21 Thu 17:39]
+- State "DONE"       from "ACTIVE"     [2023-12-20 Wed 18:46]
 - State "DONE"       from "ACTIVE"     [2023-12-19 Tue 17:58]
 - State "DONE"       from "ACTIVE"     [2023-12-18 Mon 19:56]
 - State "DONE"       from "ACTIVE"     [2023-12-16 Sat 16:39]
@@ -336,11 +358,16 @@ SCHEDULED: <2023-12-20 Wed ++1d>
 - State "DONE"       from "ACTIVE"     [2023-10-13 Fri 13:03]
 It might be required several times a day, but first time in the early
 morning.
-* TODO Tomorrow's agenda brush-up
-SCHEDULED: <2023-12-20 Wed ++1d>
+* RAW Tomorrow's agenda brush-up
+SCHEDULED: <2023-12-27 Wed ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-12-19 Tue 18:05]
+:LAST_REPEAT: [2023-12-26 Tue 16:00]
 :END:
+- State "DONE"       from "ACTIVE"     [2023-12-26 Tue 16:00]
+- State "DONE"       from "ACTIVE"     [2023-12-25 Mon 13:23]
+- State "DONE"       from "ACTIVE"     [2023-12-22 Fri 16:45]
+- State "DONE"       from "ACTIVE"     [2023-12-21 Thu 17:39]
+- State "DONE"       from "ACTIVE"     [2023-12-20 Wed 18:46]
 - State "DONE"       from "ACTIVE"     [2023-12-19 Tue 18:05]
 - State "DONE"       from "ACTIVE"     [2023-12-18 Mon 19:56]
 - State "DONE"       from "ACTIVE"     [2023-12-17 Sun 18:15]
@@ -433,8 +460,8 @@ SCHEDULED: <2024-01-17 Wed ++2d/3d>
 https://www.youtube.com/watch?v=lcyHC9HLTzc&list=PLdGzcof2XV5oRreuRZByoN1oG8q_f_466&pp=gAQBiAQB
 [[file:~/git/ballyboe/org-blog/2023-12-11-framework-thinking.org::---][Current position]]
 * RAW Google credentials add to blog
-SCHEDULED: <2023-12-20 Wed>
+SCHEDULED: <2023-12-27 Wed>
 * DONE Fix all headers in articles
 SCHEDULED: <2023-12-19 Tue>
 * TODO Article's spell checking 
-SCHEDULED: <2023-12-20 Wed>
+SCHEDULED: <2023-12-27 Wed>
