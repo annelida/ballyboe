@@ -22,41 +22,40 @@ tags: [html export, mark-up]
 ** RAW Bold
 SCHEDULED: <2023-12-27 Wed>
 *Bold text sample*
-#+begin_example
+
 *Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
 eiusmod tempor incididunt ut labore et dolore magna aliqua.*
-#+end_example
+
 
 ** Italic
 /Italic text sample/
-#+begin_example
+
 /Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
 eiusmod tempor incididunt ut labore et dolore magna aliqua./
-#+end_example
+
 
 ** Underlined
-_Underlined text_
-#+begin_example
+__Underlined text_
+
 _Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
 eiusmod tempor incididunt ut labore et dolore magna aliqua._
-#+end_example
 
 ** Verbatim
 =verbatim sample=
-#+begin_example
+
 =Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
 eiusmod tempor incididunt ut labore et dolore magna aliqua.=
-#+end_example
+
 ** Code
 ~code sample~
-#+begin_example
+
 ~Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
 eiusmod tempor incididunt ut labore et dolore magna aliqua.~
-#+end_example
+
 ** Strike-through
 +strike-through+
-#+begin_example
+
 +Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
 eiusmod tempor incididunt ut labore et dolore magna aliqua.+
-#+end_example
+
 
