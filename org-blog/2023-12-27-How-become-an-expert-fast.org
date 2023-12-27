@@ -1,0 +1,163 @@
+#+BEGIN_EXPORT html
+---
+layout: page
+title: How become an expert in everything fast
+tagline: "How improve your efficiency in learning"
+permalink: /meta-learning/how-become-an-exppert.html
+categories: [focus, distraction, attention]
+tags: [experience, attention]
+---
+#+END_EXPORT
+
+#+STARTUP: showall indent
+#+OPTIONS: tags:nil num:nil \n:nil @:t ::t |:t ^:{} _:{} *:t
+#+TOC: headlines 2
+#+PROPERTY:header-args :results output :exports both :eval no-export
+#+CATEGORY: Focus
+#+TODO: TODO ACTIVE | DONE
+
+[[https://www.youtube.com/watch?v=Q6vEU6FPOAc][Source]]
+
+* Preamble
+
+Scott Young is an extraordinary man. He speaks multiple languages,
+learned the MIT computer science course from scratch in a year and so
+so much more. Today we'll explore his system for learning new subjects
+and skills quicker than anyone else and how you can use it to get
+ahead in your studies.
+
+* Pre-learning importance
+
+One - pre-learning. If you wanted to hike across America that would
+require planning you would need to know what route you were going to
+take whether, you had enough food and have contingency plans for if
+something went wrong.
+
+Mastering a new subject is just like a long hike. We need to know what
+route we're going to take long before we first set out. This is
+Young's First Step preparation or pre-learning. This is where we do
+some research and sketch out a road map of what we're going to learn,
+the order we're going to learn it in and how we're going to learn it.
+
+If you wanted to learn a language, you would both ask what the most
+vital things to learn are and what the most efficient way of learning
+them is for languages. This is almost always how to speak the language
+and speaking to people in the language. Respectively for maths or
+engineering it's almost always how to solve problems and solving
+problems and on a WI scale you must know which topics provide prior
+knowledge for other topics.
+
+If you don't know high school algebra then there's no point learning
+calculus just yet. And if you can't string a sentence together in
+Welsh then composing Bic poetry is perhaps a little bit ambitious. But
+there is also a danger here while pre-learning can make your study
+project more efficient. It can also lead to procrastination planning
+your study course and fantasizing about already being a world-renowned
+expert. Is a lot more fun than actually sitting down and getting
+started so set yourself.
+
+A hard deadline for when your pre-learning will end when this deadline
+should be set depends on the size of the project. Be young recommends
+no more than 10% of your entire project should be taken up by this
+research phase. So use that as a hard and fast line this will ensure
+the research prepares you for your project without giving you an
+opportunity to procrastinate on actually starting for more study tips.
+Subscribe to my email list the link is in the description.
+
+* The main learning principles
+
+Two the learning as I've discussed before the way you learn can make
+all the difference between being a successful student in a seemingly
+impossible span of time and wasting Years Learning learning
+nothing. At all young has three main principles behind his learning
+approach: Focus, Directedness and Drilling and these are the pillars
+upon which the entire learning project rests.
+
+** Focused learning
+
+I will never stop talking about Focus because it will never stop being
+important. The difference between focused learning and unfocused
+learning is the difference between having perfect vision and having
+cataracts. Without focused learning everything will take more time,
+everything will be less effective and everything will be less
+enjoyable. In a nutshell focusing comes down to just three things:
+eliminating external distractions, like your phone, your TV and your
+younger brother. Eliminating internal distractions, like stress,
+anxiety and perfectionism. And training Focus specifically as a skill
+through meditation, consistency and continual reflection. And
+Improvement these will all link together to make your focus laser
+sharp and this will be key to your Ultra learning project. This is
+even more important if you're fitting this project around a job or
+other studies then you must ensure that your limited time is utilized
+to its maximum capabilities.
+
+** Directedness
+
+Next we look at directedness and Confront a disheartening fact about
+the human brain. We are just not not very good at transferring
+learning from one situation to another. Very bright statistics
+students often have no better intuitive probability estimations than
+those who've never taken a statistics course. And it doesn't matter
+how much Shakespeare you've read if you never perform your debut as
+Hamlet.  Will be a total disaster for anything we learn there is a
+specific scenario or set of scenarios that we are trading for. We
+might be looking to Ace an exam or hold a conversation with a native
+speaker, we might want to write a truly spectacular research essay or
+just look clever at dinner by knowing Lots about Napoleon. Whatever
+situation are learning is directed towards we need to gear a huge
+proportion of our study time towards practicing in that exact
+situation or as close. An approximation as we can get sure you could
+prepare for your History Exam by just revising from flashcards. But
+why do that when writing an essay from memory is going to practice
+both your historical knowledge and your ability to use it in an exam
+context. So for whatever you're learning make sure your study
+techniques never steer too far from the context you wish to use your
+newfound understanding in. If you don't do this you'll end up wasting
+a lot of time and you won't get as close to your goals anyway anyway.
+
+** Drilling
+
+Finally we Must talk about drilling. This is where we first identify
+weakness during our practice. Perhaps our vocabulary is letting us
+down during our conversations and our target language or our grasp of
+the fundamentals of python is so weak. It's actively affecting our
+coding projects next we isolate the weakness and we put specific
+practice into bringing it up to the same level as the rest of our
+studies. Learning something new is in fact bringing a variety of
+different aspects of a subject together towards. A particular goal if
+there's one aspect you are particularly weak on it can form a
+bottleneck where the goal cannot be achieve despite the strengths of
+the other aspects. This is where more isolated practice comes into
+play. You might spend a few hours drilling vocab memorization or
+revising the fundamentals of your coding language before returning to
+your direct practice. This process forms a kind of cycle where you
+begin with direct practice identify a weakness spend time correcting
+it with specific Drilling and then return to direct practice. Rinse
+and repeat until you've mastered your desired skill if you use this
+combination of focus direct work and focus drilling you will reach
+your desired skill level much more quickly. And if you do this for
+each subtopic of your chosen subject it will ensure that your
+expertise only grows three the next level. I've had the privilege of
+speaking to a number of people who I consider Geniuses. I've met a
+mathematician who used to be able to tell just by looking at most
+mathematical statements. Whether they would be provable or not and a
+musician who could tell just from looking at a bar of sheet music,
+which composer wrote the piece in question. These people were
+brilliant not just because of their learning but because they did not
+even actively need to think about their area to make brilliant
+discoveries and bold proclamations. A lot of people demonize intuition
+as a collection of prejudices and biases.  And it can sometimes be
+that but it's also the sum total of our knowledge and observations
+about the world distilled into a feeling. It is the ability to cut
+through the noise and make a strong claim in the face of so much
+information that no one could consciously process it at all. This is
+the level that awaits us.
+
+* Conclusion
+
+If we use Scot Young's system we'll hone our abilities to such an
+extent that we'll be able to think effortlessly and originally about
+our chosen subjects. We will be able to innovate to develop and
+potentially to expand the very boundaries of the field. but this
+Promised Land lies behind a lot of hard work but you'll have your best
+shot at getting there by using Scott Young's system.
