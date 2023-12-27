@@ -19,7 +19,7 @@ tags: [html export, mark-up]
 
 * Emphasis
 
-** RAW Bold
+** DONE Bold
 SCHEDULED: <2023-12-27 Wed>
 *Bold text sample*
 
@@ -34,11 +34,12 @@ eiusmod tempor incididunt ut labore et dolore magna aliqua.*
 eiusmod tempor incididunt ut labore et dolore magna aliqua./
 
 
-** Underlined
-__Underlined text_
+** RAW Underlined
+SCHEDULED: <2023-12-28 Thu>
+__Underlined text__
 
-_Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-eiusmod tempor incididunt ut labore et dolore magna aliqua._
+__Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+eiusmod tempor incididunt ut labore et dolore magna aliqua.__
 
 ** Verbatim
 =verbatim sample=

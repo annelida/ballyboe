@@ -66,7 +66,7 @@ CLOCK: [2023-10-14 Sat 13:30]--[2023-10-14 Sat 14:03] =>  0:33
 :END:
 
 *** Init MAN ssh
-SCHEDULED: <2023-12-27 Wed ++1w>
+SCHEDULED: <2023-12-30 Sat ++1w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-12-20 Wed 18:41]
 :END:
@@ -87,7 +87,7 @@ CLOCK: [2023-12-20 Wed 09:55]--[2023-12-20 Wed 10:45] =>  0:50
 CLOCK: [2023-12-19 Tue 09:15]--[2023-12-19 Tue 09:18] =>  0:03
 :END:
 *** Init MAN df
-SCHEDULED: <2023-12-27 Wed ++1w>
+SCHEDULED: <2023-12-30 Sat ++1w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-12-20 Wed 18:42]
 :END:
@@ -100,7 +100,7 @@ SCHEDULED: <2023-12-27 Wed ++1w>
 CLOCK: [2023-12-19 Tue 09:18]--[2023-12-19 Tue 09:22] =>  0:04
 :END:
 *** Init MAN free
-SCHEDULED: <2023-12-27 Wed ++1w>
+SCHEDULED: <2023-12-30 Sat ++1w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-12-20 Wed 18:42]
 :END:
@@ -127,7 +127,7 @@ SCHEDULED: <2023-12-27 Wed ++1w>
 CLOCK: [2023-12-19 Tue 09:22]--[2023-12-19 Tue 09:34] =>  0:12
 :END:
 *** Init MAN htop
-SCHEDULED: <2023-12-27 Wed ++1w>
+SCHEDULED: <2023-12-30 Sat ++1w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-12-20 Wed 18:43]
 :END:
@@ -137,7 +137,7 @@ SCHEDULED: <2023-12-27 Wed ++1w>
 process-manager. It shows a frequently updated list of the processes
 running on a computer, normally ordered by the amount of CPU usage.
 *** Init MAN ps
-SCHEDULED: <2023-12-27 Wed ++1w>
+SCHEDULED: <2023-12-30 Sat ++1w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-12-20 Wed 18:44]
 :END:
@@ -151,7 +151,7 @@ SCHEDULED: <2023-12-27 Wed ++1w>
    system, including their process ID (PID), parent process ID (PPID),
    CPU usage, memory usage, and more. 
 *** Init Process management
-SCHEDULED: <2023-12-27 Wed>
+SCHEDULED: <2023-12-28 Thu>
 - Note taken on [2023-12-20 Wed 11:33] \\
 
   Is the technique used by organizations to analyze, optimize, monitor,
@@ -168,7 +168,7 @@ SCHEDULED: <2023-12-27 Wed>
   to control how programs interact with each other.
   
 *** Init Software management
-SCHEDULED: <2023-12-27 Wed>
+SCHEDULED: <2023-12-28 Thu>
 
 Is a science of planning and leading software projects.
 
@@ -253,7 +253,7 @@ Object's methods are functions that belong to the object.
 
 
 **** RAW [#A] Python Unit test module description and structure.
-SCHEDULED: <2023-12-28 Thu ++2w>
+SCHEDULED: <2024-01-14 Sun ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-16 Thu 09:23]
 :END:
@@ -406,7 +406,7 @@ CLOCK: [2023-12-19 Tue 10:56]--[2023-12-19 Tue 11:45] =>  0:49
 SCHEDULED: <2023-12-31 Sun>
 [[info:emacs#Regexps][emacs#Regexps]]
 **** RAW Emacs Tramp mode
-SCHEDULED: <2023-12-27 Wed>
+SCHEDULED: <2023-12-28 Thu>
 :PROPERTIES:
 :CATEGORY: Emacs
 :END:
@@ -663,7 +663,7 @@ Result you can see on [[https://annelida.github.io/]]
 
 
 ****** RAW TODO [#A] Explorations in details page's structure in Jekyll.
-SCHEDULED: <2023-12-28 Thu>
+SCHEDULED: <2024-01-16 Tue>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-20 Mon 16:18]
 :END:
@@ -1204,7 +1204,7 @@ SCHEDULED: <2024-01-08 Mon ++2w>
 CLOCK: [2023-12-14 Thu 10:09]--[2023-12-14 Thu 10:34] =>  0:25
 :END:
 ***** Init Python Lists
-SCHEDULED: <2023-12-27 Wed>
+SCHEDULED: <2023-12-28 Thu>
 :PROPERTIES:
 :CATEGORY: Python
 :END:
@@ -1236,7 +1236,7 @@ SCHEDULED: <2024-01-09 Tue ++2w>
 
 - State "DONE"       from "Active"     [2023-12-13 Wed 11:24]
 ***** DP0 Logic
-SCHEDULED: <2023-12-27 Wed>
+SCHEDULED: <2023-12-28 Thu>
 :PROPERTIES:
 :CATEGORY: CS
 :END:
@@ -1245,7 +1245,7 @@ CLOCK: [2023-12-14 Thu 10:45]--[2023-12-14 Thu 11:09] =>  0:24
 :END:
 
 ****** Init Operators
-SCHEDULED: <2023-12-27 Wed>
+SCHEDULED: <2023-12-28 Thu>
 
 - Note taken on [2023-12-14 Thu 10:58] \\
   Conditional operator:
@@ -1287,7 +1287,7 @@ CLOCK: [2023-11-28 Tue 18:27]--[2023-11-28 Tue 18:33] =>  0:06
 - State "DONE"       from "Active"     [2023-11-23 Thu 15:54]
 * Events
 ** RAW Migration plan from one host to another
-SCHEDULED: <2023-12-27 Wed>
+SCHEDULED: <2023-12-28 Thu>
 :PROPERTIES:
 :CATEGORY: Compose
 :END:

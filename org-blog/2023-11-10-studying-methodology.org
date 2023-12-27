@@ -17,7 +17,7 @@ tags: [emacs, org-mode, org-agenda, double-loop-learning]
 #+TODO: RAW INIT TODO ACTIVE | DONE
 
 * INIT [#C] Intro
-SCHEDULED: <2023-12-27 Wed ++4d>
+SCHEDULED: <2023-12-28 Thu ++4d>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-21 Tue 18:11]
 :END:
@@ -60,7 +60,7 @@ Method. See synonyms, origin, and examples of method in sentences.
   outcome and your solid base of personal knowledge.
     
 * INIT [#C] What is methodology
- SCHEDULED: <2023-12-27 Wed ++4d>
+ SCHEDULED: <2023-12-28 Thu ++4d>
  :PROPERTIES:
  :LAST_REPEAT: [2023-11-23 Thu 11:38]
  :END:
@@ -86,7 +86,7 @@ Method. See synonyms, origin, and examples of method in sentences.
  how you receive information to best learn.
 
 * INIT [#C] Applied methodology
-SCHEDULED: <2023-12-27 Wed ++4d>
+SCHEDULED: <2023-12-28 Thu ++4d>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-20 Mon 16:13]
 :END:
@@ -173,7 +173,7 @@ crammed into a single session.
 #+end_quote
 
 * INIT [#C] Unavoidable necessities
-SCHEDULED: <2023-12-27 Wed ++4d>
+SCHEDULED: <2023-12-28 Thu ++4d>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-23 Thu 11:38]
 :END:
@@ -193,7 +193,7 @@ Before you start your learning, answer yourself the questions:
 - What do I need to do to reach those goals?
 
 ** RAW [#C] Decompose the Whole Task
-SCHEDULED: <2023-12-27 Wed>
+SCHEDULED: <2023-12-28 Thu>
 :PROPERTIES:
 :CATEGORY: Meta
 :END:
@@ -220,8 +220,8 @@ Get enough sleep before studying. Eat less can make your brain more clear and ea
 to focus on the task.
 
 
-* RAW [#C] Daily ToDo List
-SCHEDULED: <2023-12-27 Wed>
+* RAW Daily ToDo List
+SCHEDULED: <2023-12-29 Fri>
 
 Naturally it should be composed from initially ~complex~ tasks for
 decomposition and already prepared ~atomic~ tasks for elaboration.
@@ -302,10 +302,9 @@ How to improve a weekly agenda?
 * RAW [#C] What is the average time you should spend on each session
 =======
 * RAW [#C] What is the average amount of time you should spend on each session
-SCHEDULED: <2023-12-27 Wed ++4d>
+SCHEDULED: <2023-12-28 Thu ++4d>
 :PROPERTIES:
 :LAST_REPEAT: [2023-12-16 Sat 16:39]
-:CATEGORY: Gathering
 :END:
 - State "DONE"       from "ACTIVE"     [2023-12-16 Sat 16:39]
 :LOGBOOK:
@@ -342,7 +341,7 @@ All relevant questions should be questioned while task resolving.
  they a little bit later.
 
 * INIT [#C] Raw state
-SCHEDULED: <2023-12-27 Wed>
+SCHEDULED: <2023-12-28 Thu>
 :PROPERTIES:
 :END:
 
@@ -354,7 +353,7 @@ makes sense the task's state changes to *INIT* and it is scheduled.
 
 
 * INIT [#C] Initial chapter dissection
-SCHEDULED: <2023-12-27 Wed ++4d>
+SCHEDULED: <2023-12-28 Thu ++4d>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-21 Tue 18:12]
 :END:
@@ -375,7 +374,7 @@ After the initial analysis task it's status switches (++1d/2d) on
 to *Deliberate practice 0 session*.
    
 * INIT [#C] Deliberate practice 0 session
-SCHEDULED: <2023-12-27 Wed ++4d>
+SCHEDULED: <2023-12-28 Thu ++4d>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-21 Tue 18:12]
 :CATEGORY: Meta
