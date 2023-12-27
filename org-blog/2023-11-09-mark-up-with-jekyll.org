@@ -13,15 +13,50 @@ tags: [html export, mark-up]
 #+OPTIONS: tags:nil num:nil \n:nil @:t ::t |:t ^:{} _:{} *:t
 #+TOC: headlines 2
 #+PROPERTY:header-args :results output :exports both :eval no-export
-#+CATEGORY: Venv
+#+CATEGORY: Org-mode
 #+TODO: RAW INIT TODO ACTIVE | DONE
 [[info:org#Markup for Rich Contents][org#Markup for Rich Contents]]
 
 * Emphasis
 
-** Bold
+** RAW Bold
+SCHEDULED: <2023-12-27 Wed>
+*Bold text sample*
+#+begin_example
+*Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+eiusmod tempor incididunt ut labore et dolore magna aliqua.*
+#+end_example
+
 ** Italic
+/Italic text sample/
+#+begin_example
+/Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+eiusmod tempor incididunt ut labore et dolore magna aliqua./
+#+end_example
+
 ** Underlined
+_Underlined text_
+#+begin_example
+_Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+eiusmod tempor incididunt ut labore et dolore magna aliqua._
+#+end_example
+
 ** Verbatim
+=verbatim sample=
+#+begin_example
+=Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+eiusmod tempor incididunt ut labore et dolore magna aliqua.=
+#+end_example
 ** Code
+~code sample~
+#+begin_example
+~Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+eiusmod tempor incididunt ut labore et dolore magna aliqua.~
+#+end_example
 ** Strike-through
++strike-through+
+#+begin_example
++Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+eiusmod tempor incididunt ut labore et dolore magna aliqua.+
+#+end_example
+
