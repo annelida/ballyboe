@@ -10,11 +10,12 @@
 #+TODO: | AMPLE
 #+TODO: RAW Init DP0 Todo DP1 Active | DONE
 
-* Init [#A] Genuine source of knowledge
-SCHEDULED: <2023-12-27 Wed ++1d>
+* RAW [#A] Genuine source of knowledge
+SCHEDULED: <2023-12-28 Thu ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-12-26 Tue 15:59]
+:LAST_REPEAT: [2023-12-27 Wed 15:43]
 :END:
+- State "DONE"       from "Active"     [2023-12-27 Wed 15:43]
 - State "DONE"       from "Active"     [2023-12-26 Tue 15:59]
 - State "DONE"       from "Active"     [2023-12-25 Mon 13:21]
 - State "DONE"       from "Active"     [2023-12-22 Fri 16:44]
@@ -61,11 +62,12 @@ about how the program works are:
    - usually it is available through =Emacs= *info system*;
 
 --* INIT Conclusion*: the wisest decision is just to use it properly!
-* Init [#A] Deliberate practice
-SCHEDULED: <2023-12-27 Wed ++1d>
+* RAW [#A] Deliberate practice
+SCHEDULED: <2023-12-28 Thu ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-12-26 Tue 15:59]
+:LAST_REPEAT: [2023-12-27 Wed 15:44]
 :END:
+- State "DONE"       from "Active"     [2023-12-27 Wed 15:44]
 - State "DONE"       from "Active"     [2023-12-26 Tue 15:59]
 - State "DONE"       from "Active"     [2023-12-25 Mon 13:22]
 - State "DONE"       from "Active"     [2023-12-22 Fri 16:44]
@@ -113,12 +115,13 @@ CLOCK: [2023-11-24 Fri 08:31]--[2023-11-24 Fri 09:02] =>  0:31
 - State "DONE"       from "ACTIVE"     [2023-11-07 Tue 18:20]
 - State "DONE"       from "ACTIVE"     [2023-11-07 Tue 18:19]
 when you do challenging but indispensable tasks by yourself
-* Init [#A] Help about *Help*
-SCHEDULED: <2023-12-27 Wed ++1d>
+* RAW [#A] Help about *Help*
+SCHEDULED: <2023-12-28 Thu ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-12-26 Tue 15:59]
+:LAST_REPEAT: [2023-12-27 Wed 15:43]
 :CATEGORY: Emacs
 :END:
+- State "DONE"       from "Active"     [2023-12-27 Wed 15:43]
 - State "DONE"       from "Active"     [2023-12-26 Tue 15:59]
 - State "DONE"       from "Active"     [2023-12-25 Mon 13:22]
 - State "DONE"       from "Active"     [2023-12-22 Fri 16:44]
@@ -242,12 +245,13 @@ CLOCK: [2023-10-14 Sat 07:30]--[2023-10-14 Sat 08:27] =>  0:57
 :END:
 Very straighforward system out from 10 initial keys to use in embedded
 *Help* browser.OA To use several *Help* buffers use =M-x raname uniquely=
-* Init [#A] Help about *info*
-SCHEDULED: <2023-12-27 Wed ++1d>
+* RAW [#A] Help about *info*
+SCHEDULED: <2023-12-28 Thu ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-12-26 Tue 15:59]
+:LAST_REPEAT: [2023-12-27 Wed 15:44]
 :CATEGORY: Emacs
 :END:
+- State "DONE"       from "Active"     [2023-12-27 Wed 15:44]
 - State "DONE"       from "Active"     [2023-12-26 Tue 15:59]
 - State "DONE"       from "Active"     [2023-12-25 Mon 13:22]
 - State "DONE"       from "Active"     [2023-12-22 Fri 16:44]
@@ -283,7 +287,7 @@ Mostly the similar approach with several quirks
 CLOSED: [2023-10-25 Wed 16:15] SCHEDULED: <2023-10-28 Sat>
 [[info:org#Clocking Work Time][org#Clocking Work Time]]
 * TODO [#A] The Absolute Beginner
-SCHEDULED: <2023-12-28 Thu ++2w>
+SCHEDULED: <2024-01-07 Sun ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-12 Sun 14:00]
 :END:
