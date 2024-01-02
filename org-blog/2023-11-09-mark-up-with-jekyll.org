@@ -41,9 +41,9 @@ CLOCK: [2024-01-02 Tue 13:31]
 :END:
 
 #+begin_example
-_Underlined text there_
+__Underlined text there__
 #+end_example
-_Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+__Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
 eiusmod tempor incididunt ut labore et dolore magna aliqua.__
 
 ** Verbatim
@@ -74,6 +74,7 @@ To preserve the line breaks, indentation and blank lines in a region,
 but otherwise use normal formatting, you can use this construct, which
 can also be used to format poetry.
 
+#+begin_example
 #+begin_verse
 You’re winning. You simply cannot fail.
 The only obstacle is doubt;
@@ -85,12 +86,14 @@ The word will rob you of your strength.
 “I will succeed,” This phrase repeat
 Throughout the journey’s length.
 
-            ---Wilhelmina Stitch
+            -- Wilhelmina Stitch
 #+end_verse
+#+end_example
 
 ** RAW Quotes
 SCHEDULED: <2024-01-02 Tue>
 You can include quotations in Org documents like this:
+
 #+begin_quote
 If you want something you have never had, you must be willing to do
 something you have never done. ---Thomas Jefferson
@@ -99,8 +102,10 @@ something you have never done. ---Thomas Jefferson
 ** RAW Center
 SCHEDULED: <2024-01-02 Tue>
 If you would like to center some text, do it like this:
+#+begin_example
 #+begin_center
 If you want something you have never had, you must be willing to do \\
 something you have never done.
 #+end_center
+#+end_example
 
