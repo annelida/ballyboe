@@ -1,0 +1,453 @@
+#+BEGIN_EXPORT html
+---
+layout: page
+title: How to be effortlessy disciplined.
+tagline: "How improve your efficiency in learning"
+permalink: /meta-learning/how-be-effirtlessy-desciplined.html
+categories: [focus, distraction, attention]
+tags: [experience, attention]
+---
+#+END_EXPORT
+
+#+STARTUP: showall indent
+#+OPTIONS: tags:nil num:nil \n:nil @:t ::t |:t ^:{} _:{} *:t
+#+TOC: headlines 2
+#+PROPERTY:header-args :results output :exports both :eval no-export
+#+CATEGORY: Meta
+#+TODO: RAW INIT TODO ACTIVE | DONE
+
+* RAW Intro
+SCHEDULED: <2024-01-02 Tue>
+
+I'm able to begin a task and complete it regardless of boredom or
+distractions on a scale from 1 to 10 how much do you agree with that
+statement take a moment to pause and to really think about your answer
+to that now if you rated yourself a 10 out of 10 then you probably
+don't need this video but most of us could probably do with a little
+bit more discipline in our lives right through discipline through self
+discipline you
+
+Develop like an armor for your mind you just need to have discipline
+you need to lock in and you need to do whether you feel like you're
+not there is something wrong with you and that discipline is the
+solution discipline is the ability to do hard stuff that you don't
+want to do once you're disciplined like you're you're like a sharpened
+sword man like a well-tempered blade because discipline equals Freedom
+hey friends welcome back to the
+
+Channel if you're new here my name is Ali I'm a doctor turned
+entrepreneur and the author of Feelgood productivity which is a book
+about how to do more of what matters to you in a way that's enjoyable
+and meaningful and sustainable and so in this video I want to talk
+through five science-backed evidence based methods that you can use to
+become more effortlessly disciplined but then if you stick around till
+the end of the video we're going to talk about why
+
+Actually focusing too much on discipline might actually be the wrong
+move all right so method number one is something called mental
+contrasting and it's based on a really cool study by a psychologist
+called Gabrielle tingan and this is about something called fantasy
+realization Theory which states that when people contrast their
+fantasies about a desired future with Reflections on their present
+reality a necessity to act is induced that leads to the
+
+Activation and use of relevant expectations that's a bit of a mouthful
+but basically the way this study worked is that they split people up
+into three groups now with the first group they asked them to imagine
+the positive fantasy I.E to focus on the goal and imagine how amazing
+it would be if they actually hit the goal for the second group they
+asked them to imagine a negative fantasy I.E to focus on their current
+state in the present moment and
+
+How bad it was but then for the third group they asked them to
+contrast these two things so to look at the future to look at the now
+and like really vividly imagine the contrast between where they are
+right now and where they want it to be and basically what they showed
+is that the people who contrasted where they are and where they want
+to be were way more likely to take responsibility of their own actions
+when it came to going towards their goals and they wrote
+
+In 2009 we argue that mental contrasting by making reality appear as
+an obstacle to Fantasy realization mobilizes energy that strengthens
+the transition to goal commitment so basically the key idea here is
+that if you mentally contrast where you are now and where you want to
+be that is more likely to drive energy towards your goals and that is
+one of the things that's more likely to make you feel more disciplined
+and one specific way of doing this is to First
+
+Imagine what that future and goal state looks like like for example
+you've been able to run that Marathon or get that sixpack ABS or
+launch that business or whatever the thing is that you're trying to
+mobilize discipline to words and then you want to figure out where you
+are right now and imagine the obstacles that might stand in your way
+like the obstacle to me getting six-pack abs is that I might eat too
+much crap or I might not go to the gym as often as I
+
+Need to or a number of other things and the more I can visualize those
+obstacles along with the fantasy that I'm kind of aiming towards in
+theory that is mental contrasting and that should according to the
+evidence improve our levels of discipline now one of my favorite tools
+that I use everyday for tracking to improve my discipline is something
+called rise and they are very kindly sponsoring this video rise is an
+amazing time tracking app that I've literally
+
+Been using for the last 2 years it works on Mac it works on Windows
+and what it does is that it automatically figures out what program or
+what like Chrome tab or whatever you're in and categorizes that thing
+based on what you're doing on your computer and so it's basically an
+automatic way of tracking your time now this is super helpful because
+if you're struggling with discipline for something like I was when I
+was writing my book it was super helpful for me to see how much
+
+Time was I actually spend writing every single day and so what rise
+would is that if I was writing in Google Docs or scrier or noan I was
+like you know the different apps I was used for writing it would call
+that writing time and I'd be aiming to hit at least 4 hours a day and
+before I used rise I thought hey i' I've been writing all day and
+stuff but like actually using rise made me realize that oh crap I
+thought I was writing all day but actually I was screwing around most
+
+Of the time and only doing like an hour and a half of writing but as
+soon as I started to track it and start seeing the numbers I was like
+oh crap I should spend more time in Google Docs and a little less time
+on YouTube Rise also has a really good commodora timer built in so you
+can set 25 minute or 45 minute study sessions or work s sessions or
+whatever the thing is you want to do and it also gives you very handy
+notifications when it's time to take a
+
+Break and also when it senses that you are getting distracted which
+I've got an enormous mileage out of and genuinely it's an app that
+helps me be more effortlessly disciplined in fact I love the app so
+much that I reached out to the founders of the company the super cool
+people and I've actually invested in rice as a company because I have
+enormous Faith behind what they're doing and it's a really cool team
+behind it as well and it's just a genuinely fantastic
+
+Way of tracking your time and staying more on track and more disciplin
+so thank you so much rise for sponsoring this video all right method
+number two is something really powerful as well and that's something I
+use every day in my life and that is called implementation intentions
+now here is a cool study by psychologist Angela Duckworth who actually
+wrote the really good book grit and in the study they got a group of
+high school students who were going to
+
+Take a particular exam and first they asked everyone to visualize the
+outcome of succeeding in that exam but then they split up the class
+into two different groups now the first group the control group was
+just asked to write an essay about an influential person in their life
+but the second group was asked firstly to imagine the obstacles that
+would stand in the way of them succeeding the exam and then also to
+create if then statements that might
+
+Help them overcome the obstacle so for example if I get distracted
+while doing practice tests I will get up and do a quick walk around my
+room and then sit down and start again so basically they're trying to
+imagine the obstacles that are going to be in their way and then
+figuring out what are they going to do if and when they encounter
+those obstacles and the researchers found that the treatment group I.E
+the group that was asked to do the if then stuff that
+
+Group completed 60% more practice questions than the people in the
+control group and I don't know about you but if I was for example
+struggling with discipline to I don't know write or to study or to go
+to the gym or whatever the thing is and by just imagining obstacles
+and then figuring out what I would do if I encountered them that could
+lead to a 60% increase in the amount of questions I did or workouts I
+did or anything like that that's pretty
+
+Sick it's a very very easy change we can make to our lives and
+actually psychologists have paired these two strategies that we've
+just talked about together called MCI mental contrasting with
+implementation intentions so technically an implementation intention
+is just like when you say if x happens I will do y so if for example
+you want to floss more and you can say if I am brushing my teeth or
+when I'm brushing my teeth then afterwards I will also
+
+Floss so this is sometimes known as habit stacking where you are
+stacking in multiple habits together but technically the psychology
+term for it is implementation intentions and then if you pair it with
+mental contrasting I.E Imagining the future Imagining the obstacles
+and then running implementation intentions to figure out how you're
+going to get through those obstacles that concept of MCI is a really
+well validated and highly
+
+Evidence-based strategy for increasing your motivation and discipline
+to actually make progress with the stuff that matters to you if you're
+interested in more details about implementation intentions I have a
+whole section about them in my book Feelgood productivity which you
+can check out if you like but let's now talk about method number three
+which is to reduce environmental friction and the key idea here is
+that if you really want to effortlessly
+
+Increase your discipline you've got to design your environment in a
+way that makes it really easy so if for example you are trying to be
+more disciplined to go to the gym then having your gym clothes out and
+in front of you when you wake up so you can put them on first thing in
+the morning makes it way easier to actually have the discipline to go
+to the gym similarly if you're trying to be more disciplined and not
+eat unhealthy food then just not buying junk food when
+
+You go to the supermarket and shoving in your fridge is a way of
+designing your environment in a way that makes it easy for you to be
+disciplined in that context and I can't remember where this quote is
+from but there's a really nice quote which is that it doesn't take
+much discipline to not eat a chocolate bar if there are no chocolate
+bars in the house and whenever I do talks and speak to students and
+you know any any of this kind of stuff people always ask me like
+
+Oh you know I I'm I'm not I'm not disciplined enough or like how do I
+get more discipline in my life and I usually start I don't usually
+start with mental contrastic or implementation intentions cuz it's a
+bit of a mouthful to explain I usually start with what does your
+environment look like have you actually designed your environment in a
+way that makes it way easier for you to do the thing that you think
+you want to do you know back when I was in medical school I
+
+Would have my medical text books literally next to my desk rather than
+across the room because there's no excuse for me not to just pick them
+up if they're right next to me but if they're all the way across the
+room and I have to walk like five steps to get there and take them off
+the bookshelf and open that's too much friction whatever I can do to
+reduce the environmental friction of making something happen is going
+to make it way
+
+More likely that the thing will actually happen and that is a way to
+become more effortlessly disciplined by not actually needing to rely
+on discipline and willpower so if you want an action point ask
+yourself right now what is something that you are struggling with
+discipline in and what are one or two things that you can do to design
+your environment in a way that that makes it way easier for you to do
+the thing that you actually want to do all right strategy number
+
+Four is monitoring and tracking and basically the idea here is
+something from management literature which is what gets measured gets
+managed and what gets measured gets improved and there have been a
+bunch of studies that have shown this for example for people who are
+trying to lose weight just the act of weighing yourself every day and
+just looking at that number means just by default you end up losing
+weight because now you're more aware of this thing that
+
+You're trying to do similarly if you're trying to build muscle at the
+gym everyone says you should track your workouts and you should take
+progress picks and maybe even like measure your biceps and stuff
+because tracking those numbers and seeing improvements over time is a
+massive source of motivation and therefore helps us be more
+effortlessly disciplined and there are three key reasons why
+monitoring the things that you want to be more
+
+Disciplined in actually works the first one is motivation so seeing
+ourselves make progress in a thing that we care about is enormously
+motivating and drives something called intrinsic motivation which is
+where you do the thing for the sake of doing the thing and feeling
+yourself improve and level up and stuff is just a profoundly
+motivating thing that we can do secondly monitoring gives us a
+feedback loop and so when we can see the result of the
+
+Actions that we're taking we can adjust adust our actions accordingly
+and thirdly monitoring gives us clarity about what's working and
+what's not working and so again allows us to adjust what we're
+actually doing and that means that you can focus on the stuff that's
+actually moving the needle for the results that you want which means
+you have fewer things to focus on which is also a thing that helps
+discipline for me personally the way that I track any
+
+New habit that I want to build is by using an app called streaks on my
+iPhone home screen it's super helpful right now it reminds me to
+exercise 30 minutes a day to do this meditation exercise that I'm
+trying out and to film something for my Vlog Channel every day and
+these are things that I would otherwise struggle with but the fact
+that I see it right there on my iPhone home screen means that I'm just
+like oh yeah of course I need to do some exercise today and then
+
+I will do it cuz I want to keep the streak up and it's a reminder and
+it's also monitoring and tracking and stuff and seeing that streak
+build up for several days in a row is also profoundly motivating and
+now the final strategy that I want to talk about as a way of
+effortlessly increasing your discipline is to find a way to make
+whatever you're doing a little bit more enjoyable or energizing and
+this is the core thesis of my book Feelgood productivity it's
+
+Why it's called Feelgood productivity because when we feel good we are
+more likely to be productive and this really applies to discipline as
+well like when was the last time you felt you needed discipline to I
+don't know watch Netflix we tend not to need discipline for those
+things because those things are inherently enjoyable the things we
+need discipline for are the things that we don't enjoy so you only
+need discipline to go to the gym if you don't enjoy
+
+Going to the gym you only need discipline to study for your exams if
+you do not enjoy the process of studying for your exams now at this
+point a lot of people think well I've got to do hard stuff and we we
+we all have to do things we don't enjoy and yes it's true that we all
+have to do things that we don't enjoy at times but there is normally
+an enormous list of things that we can do to make whatever we're doing
+a little bit more enjoyable and a little bit more
+
+Energizing the first three chapters of my book are play power and
+people so incorporating play and power and people into anything that
+you're doing however boring and Grim the thing is will just
+automatically make it more enjoyable and more energizing which reduces
+the amount of discipline that you actually need to Marshall in order
+to do the thing for example let's say you are struggling with
+discipline when it comes to studying for your exams ask yourself
+
+What would this look like if it were fun how can I make studying for
+my exams a little bit more enjoyable could you have some Lord of the
+Rings instrumental music in the background while you're studying could
+you go to a different library or a coffee shop each day of the the
+week so it feels like you're going on this adventure could you find a
+way to make your notes aesthetically pretty and color code your
+timetables and stuff just as a way of making the process of
+
+Studying a little bit more pleasant now I'm using students as an
+example here because we have all probably been students at some point
+in our life if we aren't already but this really applies to absolutely
+everything in our life because when you're having fun with what you're
+doing productivity and discipline and motivation and all of that kind
+of stuff just automatically takes care of itself and once you've done
+that you broadly won't have to worry about
+
+Discipline ever again but one thing you might run into is still
+worrying about time management because managing our time is something
+we all struggle with and you can check out my video over here which is
+about the Trident method which is a specific method that I've been
+using to manage my time that I've got an enormous value out of so
+check that out over there thank you so much for watching I hope you
+enjoyed this video and I'll see you later bye-bye
+
+
+Related Videos
+
+If I Wanted to Grow An Audience in 2024, I'd Do This12:02
+If I Wanted to Grow An Audience in 2024, I...
+
+Ali Abdaal
+
+165,927 views
+
+Dr. Adam Grant: How to Unlock Your Potential, Motivation & Unique Abilities3:12:22
+Dr. Adam Grant: How to Unlock Your Potenti...
+
+Andrew Huberman
+
+350,409 views
+
+Are Elevated or Underground Metro Systems Better?9:23
+Are Elevated or Underground Metro Systems ...
+
+City Beautiful
+
+1,464 views
+
+“55% Of Women Say That Listening To Joe Rogan Is A Red Flag”12:46
+“55% Of Women Say That Listening To Joe Ro...
+
+Chris Williamson
+
+12,132 views
+
+What You've Heard About Q* is Bull**** - It's Not AGI28:11
+What You've Heard About Q* is Bull**** - I...
+
+Speaker John Ash
+
+2,278 views
+
+How to Pick a Career You Actually Enjoy15:54
+How to Pick a Career You Actually Enjoy
+
+Ali Abdaal
+
+111,817 views
+
+how to be productive | discipline, healthy habits, motivation, balance + THAT GIRL routine22:23
+how to be productive | discipline, healthy...
+
+Tam Kaur
+
+1,158,229 views
+
+GPT4V + Puppeteer = AI agent browse web like human? 🤖24:48
+GPT4V + Puppeteer = AI agent browse web li...
+
+AI Jason
+
+4,412 views
+
+The Holistic Doctor's 3-STEP HACK For Optimal Physical & Mental Health!1:27:28
+The Holistic Doctor's 3-STEP HACK For Opti...
+
+Jay Shetty Podcast
+
+45,213 views
+
+How to Build Self-Discipline: The Mindset Method11:40
+How to Build Self-Discipline: The Mindset ...
+
+struthless
+
+645,320 views
+
+Stop Wasting Your Life: A Guide To Unlocking Your Full Potential I Entrepreneur Jodie Cook1:50:12
+Stop Wasting Your Life: A Guide To Unlocki...
+
+Deep Dive with Ali Abdaal
+
+62,698 views
+
+24 Oras Express: December 5, 2023 [HD]40:21
+24 Oras Express: December 5, 2023 [HD]
+
+GMA Integrated News
+
+62,561 views
+
+WATCH THIS EVERY DAY - Motivational Speech By James Clear10:01
+WATCH THIS EVERY DAY - Motivational Speech...
+
+Motivation Ark
+
+155,637 views
+
+Car Insurance: Why Do They Reject Claims??? #Tips to be compliant 👍🏾16:54
+Car Insurance: Why Do They Reject Claims??...
+
+Nokuhle Kumalo CA(SA)
+
+1,568 views
+
+7 Years of Decluttering: "If I Was STARTING FROM ZERO, This is What I Would Do!!" | MINIMALISM16:35
+7 Years of Decluttering: "If I Was STARTIN...
+
+A to Zen Life
+
+354,254 views
+
+The Science Of Building Extreme Discipline - Andrew Huberman16:37
+The Science Of Building Extreme Discipline...
+
+Chris Williamson
+
+161,681 views
+
+How to Create a Better Morning Routine | Tim Ferriss4:30
+How to Create a Better Morning Routine | T...
+
+Tim Ferriss
+
+822,604 views
+
+7 Mistakes Students Make Every Year16:25
+7 Mistakes Students Make Every Year
+
+Ali Abdaal
+
+233,988 views
+
+Are cheap plywood cabinets even possible in 2023?31:06
+Are cheap plywood cabinets even possible i...
+
+wittworks
+
+462,352 views
+
