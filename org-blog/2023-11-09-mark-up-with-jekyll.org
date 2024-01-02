@@ -13,7 +13,7 @@ tags: [html export, mark-up]
 #+OPTIONS: tags:nil num:nil \n:nil @:t ::t |:t ^:{} _:{} *:t
 #+TOC: headlines 2
 #+PROPERTY:header-args :results output :exports both :eval no-export
-#+CATEGORY: Org-mode
+#+CATEGORY: Org mark up
 #+TODO: RAW INIT TODO ACTIVE | DONE
 [[info:org#Markup for Rich Contents][org#Markup for Rich Contents]]
 
@@ -21,42 +21,86 @@ tags: [html export, mark-up]
 
 ** DONE Bold
 SCHEDULED: <2023-12-27 Wed>
+#+begin_example
 *Bold text sample*
-
+#+end_example
 *Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
 eiusmod tempor incididunt ut labore et dolore magna aliqua.*
 
-
 ** Italic
-/Italic text sample/
-
+#+begin_example
+Italic text sample
+#+end_example
 /Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
 eiusmod tempor incididunt ut labore et dolore magna aliqua./
 
-
 ** RAW Underlined
-SCHEDULED: <2023-12-28 Thu>
-__Underlined text__
+SCHEDULED: <2024-01-02 Tue>
+:LOGBOOK:
+CLOCK: [2024-01-02 Tue 13:31]
+:END:
 
-__Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+#+begin_example
+_Underlined text there_
+#+end_example
+_Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
 eiusmod tempor incididunt ut labore et dolore magna aliqua.__
 
 ** Verbatim
-=verbatim sample=
-
+#+begin_example
+=Verbatim sample=
+#+end_example
 =Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
 eiusmod tempor incididunt ut labore et dolore magna aliqua.=
 
 ** Code
-~code sample~
-
+#+begin_example
+~Code sample~
+#+end_example
 ~Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
 eiusmod tempor incididunt ut labore et dolore magna aliqua.~
 
 ** Strike-through
-+strike-through+
-
+#+begin_example
++Strike-through+
+#+end_example
 +Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
 eiusmod tempor incididunt ut labore et dolore magna aliqua.+
 
+** RAW Poetry
+SCHEDULED: <2024-01-02 Tue>
+
+To preserve the line breaks, indentation and blank lines in a region,
+but otherwise use normal formatting, you can use this construct, which
+can also be used to format poetry.
+
+#+begin_verse
+You’re winning. You simply cannot fail.
+The only obstacle is doubt;
+There’s not a hill you cannot scale
+Once fear is put to rout.
+
+Don’t think defeat, don’t talk defeat,
+The word will rob you of your strength.
+“I will succeed,” This phrase repeat
+Throughout the journey’s length.
+
+            ---Wilhelmina Stitch
+#+end_verse
+
+** RAW Quotes
+SCHEDULED: <2024-01-02 Tue>
+You can include quotations in Org documents like this:
+#+begin_quote
+If you want something you have never had, you must be willing to do
+something you have never done. ---Thomas Jefferson
+#+end_quote
+
+** RAW Center
+SCHEDULED: <2024-01-02 Tue>
+If you would like to center some text, do it like this:
+#+begin_center
+If you want something you have never had, you must be willing to do \\
+something you have never done.
+#+end_center
 
