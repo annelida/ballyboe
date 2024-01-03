@@ -405,6 +405,29 @@ implemented.
 Describe what you ought to do and in what manner it might be
 implemented.
 
+* RAW Tasks actualization
+SCHEDULED: <2024-01-04 Thu>
+[[info:org#TODO Extensions][org#TODO Extensions]]
 
+Over time, a large number of tasks can accumulate in the personal
+Agenda. And some of them may have lost their importance or urgency.
+So, it is important to analyze the list of tasks in Agenda from time
+to time and actualize them. For not urgent or not actual tasks it is
+possible to switch their states to one of the chain:
+
+#+begin_example
+#+TODO: DELAY LAGRETARD | BARE
+#+end_example
+
+And also reschedule these tasks 28 days ahead. After 28
+days you can reanalyze these tasks and decide which state to assign
+them. It can be one of the states:
+
+#+begin_example
+#+TODO: RAW Init DP0 Todo DP1 Active | DONE
+#+end_example
+
+Or maybe you will decide to archive any tasks or come back to them
+later.
 
 * Conclusion
