@@ -7,7 +7,9 @@ MY PROJECTS    -*- mode: org; -*-
 #+STARTUP: showall indent
 #+PROPERTY: header-args :comments org
 #+CATEGORY: Thesis
+#+TODO: | AMPLE
 #+TODO: RAW Init DP0 Todo DP1 Active | DONE
+#+TODO: DELAY LAG RETARD | BARE
 
 
 * Learning
