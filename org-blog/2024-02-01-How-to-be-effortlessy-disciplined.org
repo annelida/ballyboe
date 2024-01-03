@@ -17,7 +17,7 @@ tags: [experience, attention]
 #+TODO: RAW INIT TODO ACTIVE | DONE
 
 * RAW Intro
-SCHEDULED: <2024-01-02 Tue>
+SCHEDULED: <2024-01-03 Wed>
 
 I'm able to begin a task and complete it regardless of boredom or
 distractions. On a scale from 1 to 10 how much do you agree with that
@@ -42,67 +42,72 @@ become more effortlessly disciplined. But then if you stick around
 till the end of the video we're going to talk about why actually
 focusing too much on discipline might actually be the wrong.
 
-* Mental contrasting
+* RAW Mental contrasting
+SCHEDULED: <2024-01-03 Wed>
 
-So method number one is something called mental contrasting. And it's
-based on a really cool study by a psychologist called Gabrielle
-Tingan. And this is about something called "fantasy realization
-theory" which states that when people contrast their fantasies about a
-desired future with reflections on their present reality a necessity
+So method number one is something called *mental contrasting*. And
+it's based on a really cool study by a psychologist called Gabrielle
+Tingan. And this is about something called /fantasy realization
+theory/, which states that when people contrast their fantasies about
+a desired future with reflections on their present reality a necessity
 to act is induced that leads to the activation and use of relevant
 expectations. That's a bit of a mouthful but basically the way this
-study worked. Is that they split people up into three groups: now with
-the first group they asked them to imagine the positive fantasy I.E to
-focus on the goal and imagine how amazing it would be if they actually
-hit the goal. For the second group they asked them to imagine a
-negative fantasy I.E to focus on their current state in the present
-moment and how bad it was. But then for the third group they asked
-them to contrast these two things. So to look at the future to look at
-the now and like really vividly imagine the contrast between where
-they are right now and where they want it to be. And basically what
-they showed is that the people who contrasted where they are and where
-they want to be were way more likely to take responsibility of their
-own actions. When it came to going towards their goals and they wrote.
-In 2009 we argue that mental contrasting by making reality appear as
-an obstacle to Fantasy realization mobilizes energy that strengthens
-the transition to goal commitment so basically the key idea here is
-that if you mentally contrast where you are now and where you want to
-be that is more likely to drive energy towards your goals and that is
-one of the things that's more likely to make you feel more disciplined
-and one specific way of doing this is to First
+study worked. Is that they split people up into three groups. Now with
+the first group they asked them to imagine the positive fantasy (I.E
+to focus on the goal and imagine how amazing it would be if they
+actually hit the goal). For the second group they asked them to
+imagine a negative fantasy (I.E to focus on their current state in the
+present moment and how bad it was). But then for the third group they
+asked them to contrast these two things. So to look at the future to
+look at the now and like really vividly imagine the contrast between
+where they are right now and where they want it to be. And basically
+what they showed is that the people who contrasted where they are and
+where they want to be were way more likely to take responsibility of
+their own actions. When it came to going towards their goals and they
+wrote.  In 2009 we argue that mental contrasting by making reality
+appear as an obstacle to Fantasy realization mobilizes energy that
+strengthens the transition to goal commitment. So basically the key
+idea here is that if you mentally contrast where you are now and where
+you want to be that is more likely to drive energy towards your goals
+and that is one of the things that's more likely to make you feel more
+disciplined. And one specific way of doing this is to First - *imagine
+what that future and goal state looks like*. For example, you've been
+able to run that Marathon or get that sixpack ABS or launch that
+business or whatever the thing is that you're trying to mobilize
+discipline to words. And then you want to figure out where you are
+right now and imagine the obstacles that might stand in your way. Like
+the obstacle to me getting six-pack ABS is that I might eat too much
+crap or I might not go to the gym as often as I need to. Or a number of
+other things and the more I can visualize those obstacles along with
+the fantasy that I'm kind of aiming towards in theory that is mental
+contrasting. And that should according to the evidence improve our
+levels of discipline.
 
-Imagine what that future and goal state looks like like for example
-you've been able to run that Marathon or get that sixpack ABS or
-launch that business or whatever the thing is that you're trying to
-mobilize discipline to words and then you want to figure out where you
-are right now and imagine the obstacles that might stand in your way
-like the obstacle to me getting six-pack abs is that I might eat too
-much crap or I might not go to the gym as often as I
+* RAW Rise
+SCHEDULED: <2024-01-04 Thu>
 
-Need to or a number of other things and the more I can visualize those
-obstacles along with the fantasy that I'm kind of aiming towards in
-theory that is mental contrasting and that should according to the
-evidence improve our levels of discipline now one of my favorite tools
-that I use everyday for tracking to improve my discipline is something
-called rise and they are very kindly sponsoring this video rise is an
-amazing time tracking app that I've literally
+Now one of my favorite tools that I use everyday for tracking to
+improve my discipline is something called *rise*. And they are very
+kindly sponsoring this video. Rise is an amazing time tracking app
+that I've literally been using for the last 2 years. It works on Mac
+it works on Windows and what it does is that it automatically figures
+out what program or what like Chrome tab or whatever you're in. And
+categorizes that thing based on what you're doing on your computer and
+so it's basically an automatic way of tracking your time. Now this is
+super helpful because if you're struggling with discipline for
+something like I was when I was writing my book it was super helpful
+for me to see how much time was I actually spend writing every single
+day. And so what rise would is that if I was writing in Google Docs or
+scrier or noan. I was like you know the different apps I was used for
+writing it would call that writing time and I'd be aiming to hit at
+least 4 hours a day and before I used rise I thought "Hey i' I've been
+writing all day and stuff", but like actually using rise made me
+realize that oh crap I thought I was writing all day.
 
-Been using for the last 2 years it works on Mac it works on Windows
-and what it does is that it automatically figures out what program or
-what like Chrome tab or whatever you're in and categorizes that thing
-based on what you're doing on your computer and so it's basically an
-automatic way of tracking your time now this is super helpful because
-if you're struggling with discipline for something like I was when I
-was writing my book it was super helpful for me to see how much
 
-Time was I actually spend writing every single day and so what rise
-would is that if I was writing in Google Docs or scrier or noan I was
-like you know the different apps I was used for writing it would call
-that writing time and I'd be aiming to hit at least 4 hours a day and
-before I used rise I thought hey i' I've been writing all day and
-stuff but like actually using rise made me realize that oh crap I
-thought I was writing all day but actually I was screwing around most
 
+but actually I
+was screwing around most
 Of the time and only doing like an hour and a half of writing but as
 soon as I started to track it and start seeing the numbers I was like
 oh crap I should spend more time in Google Docs and a little less time
