@@ -307,3 +307,36 @@ Lists are mutable
 : [1, 8, 27, 65, 125]
 : [1, 8, 27, 64, 125]
 : [1, 8, 27, 64, 125, 343]
+
+
+#+begin_src python :results output
+  letters = ['a', 'b', 'c', 'd', 'e', 'f', 'g']
+  print(letters)
+  letters[2:5] = ['C', 'D', 'E'] # replace some value
+  print(letters)
+  letters[2:5] = []  # remove
+  print(letters)
+  letters[:] = [] # clear the list
+  print(letters)
+#+end_src
+
+#+RESULTS:
+: ['a', 'b', 'c', 'd', 'e', 'f', 'g']
+: ['a', 'b', 'C', 'D', 'E', 'f', 'g']
+: ['a', 'b', 'f', 'g']
+: []
+
+
+#+begin_src python :results output
+  a = ['a', 'b', 'c']
+  n = [1, 2, 3]
+  x = [a, n]
+  print(x)
+  print(x[0])
+  print(x[0][1])
+#+end_src
+
+#+RESULTS:
+: [['a', 'b', 'c'], [1, 2, 3]]
+: ['a', 'b', 'c']
+: b
