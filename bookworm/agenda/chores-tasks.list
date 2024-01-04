@@ -13,7 +13,7 @@ CLOSED: [2023-10-26 Thu 17:32] SCHEDULED: <2023-10-29 Sun>
 Naturally, by its definition they are the routine, usual and regular
 tasks.
 * RAW [#C] Git commits purification
-SCHEDULED: <2023-12-28 Thu ++1d>
+SCHEDULED: <2024-01-09 Tue ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2023-12-27 Wed 15:46]
 :END:
@@ -82,10 +82,11 @@ SCHEDULED: <2023-12-28 Thu ++1d>
 ** DONE Test
 CLOSED: [2023-11-29 Wed 18:16] SCHEDULED: <2023-11-28 Tue>
 * RAW *PUSH*
-SCHEDULED: <2023-12-28 Thu ++1d>
+SCHEDULED: <2024-01-05 Fri ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-12-27 Wed 15:46]
+:LAST_REPEAT: [2024-01-04 Thu 15:10]
 :END:
+- State "DONE"       from "ACTIVE"     [2024-01-04 Thu 15:10]
 - State "DONE"       from "ACTIVE"     [2023-12-27 Wed 15:46]
 - State "DONE"       from "ACTIVE"     [2023-12-26 Tue 16:00]
 - State "DONE"       from "ACTIVE"     [2023-12-25 Mon 13:23]
@@ -155,10 +156,11 @@ necessary to do after some changes need to be shared with me
 urgently. Before push I can't see any changes, because all them are on
 your localhost.
 * RAW Workspace clean-up
-SCHEDULED: <2023-12-29 Fri ++1w>
+SCHEDULED: <2024-01-11 Thu ++1w>
 :PROPERTIES:
-:LAST_REPEAT: [2023-12-22 Fri 16:44]
+:LAST_REPEAT: [2024-01-04 Thu 15:11]
 :END:
+- State "DONE"       from "ACTIVE"     [2024-01-04 Thu 15:11]
 - State "DONE"       from "ACTIVE"     [2023-12-22 Fri 16:44]
 - State "DONE"       from "ACTIVE"     [2023-12-15 Fri 16:22]
 - State "DONE"       from "ACTIVE"     [2023-12-09 Sat 17:53]
@@ -187,10 +189,11 @@ workspace:
   * x to execute kill
     
 * RAW Workspace clean-up
-SCHEDULED: <2024-01-03 Wed ++1w>
+SCHEDULED: <2024-01-11 Thu ++1w>
 :PROPERTIES:
-:LAST_REPEAT: [2023-12-27 Wed 15:46]
+:LAST_REPEAT: [2024-01-04 Thu 15:11]
 :END:
+- State "DONE"       from "ACTIVE"     [2024-01-04 Thu 15:11]
 - State "DONE"       from "ACTIVE"     [2023-12-27 Wed 15:46]
 - State "DONE"       from "ACTIVE"     [2023-12-20 Wed 18:46]
 - State "DONE"       from "ACTIVE"     [2023-12-13 Wed 17:48]
@@ -227,7 +230,7 @@ workspace:
   At the bottom left, select: Advanced - About ChromeOS - Select Check for updates.
 
 * RAW [#C] Evening meet-up
-SCHEDULED: <2023-12-28 Thu ++1d>
+SCHEDULED: <2024-01-09 Tue ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2023-12-27 Wed 15:47]
 :END:
@@ -294,10 +297,11 @@ SCHEDULED: <2023-12-28 Thu ++1d>
 - State "DONE"       from "ACTIVE"     [2023-10-13 Fri 13:01]
 To discuss actual questions and find answers.
 * RAW Daily taskset schedulling
-SCHEDULED: <2023-12-28 Thu ++1d>
+SCHEDULED: <2024-01-05 Fri ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-12-27 Wed 15:46]
+:LAST_REPEAT: [2024-01-04 Thu 15:11]
 :END:
+- State "DONE"       from "ACTIVE"     [2024-01-04 Thu 15:11]
 - State "DONE"       from "ACTIVE"     [2023-12-27 Wed 15:46]
 - State "DONE"       from "ACTIVE"     [2023-12-26 Tue 16:00]
 - State "DONE"       from "ACTIVE"     [2023-12-25 Mon 13:23]
@@ -364,10 +368,11 @@ SCHEDULED: <2023-12-28 Thu ++1d>
 It might be required several times a day, but first time in the early
 morning.
 * RAW Tomorrow's agenda brush-up
-SCHEDULED: <2023-12-28 Thu ++1d>
+SCHEDULED: <2024-01-05 Fri ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-12-27 Wed 15:46]
+:LAST_REPEAT: [2024-01-04 Thu 15:11]
 :END:
+- State "DONE"       from "ACTIVE"     [2024-01-04 Thu 15:11]
 - State "DONE"       from "ACTIVE"     [2023-12-27 Wed 15:46]
 - State "DONE"       from "ACTIVE"     [2023-12-26 Tue 16:00]
 - State "DONE"       from "ACTIVE"     [2023-12-25 Mon 13:23]
@@ -449,7 +454,7 @@ SCHEDULED: <2024-01-17 Wed ++2w>
 - State "DONE"       from "ACTIVE"     [2023-12-07 Thu 19:33]
 - State "DONE"       from "ACTIVE"     [2023-11-20 Mon 16:19]
 ** RAW Decluttering
-SCHEDULED: <2023-12-29 Fri ++3w>
+SCHEDULED: <2024-01-10 Wed ++3w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-12-09 Sat 17:54]
 :END:
@@ -465,9 +470,9 @@ SCHEDULED: <2024-01-17 Wed ++2d/3d>
 :END:
 https://www.youtube.com/watch?v=lcyHC9HLTzc&list=PLdGzcof2XV5oRreuRZByoN1oG8q_f_466&pp=gAQBiAQB
 [[file:~/git/ballyboe/org-blog/2023-12-11-framework-thinking.org::---][Current position]]
-* RAW Google credentials add to blog
-SCHEDULED: <2023-12-28 Thu>
+* DONE Google credentials add to blog
+SCHEDULED: <2024-01-07 Sun>
 * DONE Fix all headers in articles
 SCHEDULED: <2023-12-19 Tue>
 * TODO Article's spell checking 
-SCHEDULED: <2023-12-28 Thu>
+SCHEDULED: <2024-01-05 Fri>
