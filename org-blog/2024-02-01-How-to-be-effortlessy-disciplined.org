@@ -83,8 +83,8 @@ the fantasy that I'm kind of aiming towards in theory that is mental
 contrasting. And that should according to the evidence improve our
 levels of discipline.
 
-** RAW Rise
-SCHEDULED: <2024-01-04 Thu>
+** DONE Rise
+SCHEDULED: <2024-01-05 Fri>
 
 Now one of my favorite tools that I use everyday for tracking to
 improve my discipline is something called *rise*. And they are very

@@ -7,10 +7,12 @@ MY PROJECTS    -*- mode: org; -*-
 #+STARTUP: showall indent
 #+PROPERTY: header-args :comments org
 #+CATEGORY: Selenium
-#+TODO: RAW INIT TODO ACTIVE | DONE
+#+TODO: | AMPLE
+#+TODO: RAW Init DP0 Todo DP1 Active | DONE
+#+TODO: DELAY LAG RETARD | BARE
 
 * RAW [#B] Software testing definition and mission.
-SCHEDULED: <2024-01-01 Mon ++2w>
+SCHEDULED: <2024-01-16 Tue ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-16 Thu 11:20]
 :END:
@@ -76,7 +78,7 @@ CLOCK: [2023-11-04 Sat 10:45]--[2023-11-04 Sat 11:04] =>  0:19
 ** Conclusion
 
 * RAW [#A] What is Selenium?
-SCHEDULED: <2024-01-02 Tue ++2w>
+SCHEDULED: <2024-01-12 Fri ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-12-07 Thu 19:31]
 :END:
@@ -88,7 +90,7 @@ SCHEDULED: <2024-01-02 Tue ++2w>
   to automate the tests; in turn, it simulates the actions on the browser.
 * Components of Selenium
 * RAW [#A] What is Selenium WebDriver?
-SCHEDULED: <2024-01-02 Tue ++2w>
+SCHEDULED: <2024-01-12 Fri ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-12-07 Thu 19:31]
 :END:
@@ -119,8 +121,8 @@ CLOSED: [2023-11-06 Mon 15:57]
   It is available as a browser extension or plugin. Selenium IDE helps
   beginners and manual testers to learn more efficiently.
  
-* INIT [#A] Features of Selenium IDE
-SCHEDULED: <2024-01-04 Thu ++2w>
+* DELAY Features of Selenium IDE
+SCHEDULED: <2024-02-04 Sun>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-06 Mon 16:07]
 :END:
@@ -150,8 +152,8 @@ CLOSED: [2023-11-06 Mon 15:57]
   generate comprehensive   result reports, making it challenging to
   review and share detailed testing outcomes.
 
-* TODO Selenium IDE Features in Detail
-SCHEDULED: <2024-01-04 Thu>
+* DELAY Selenium IDE Features in Detail
+SCHEDULED: <2024-02-04 Sun>
 - Note taken on [2023-11-06 Mon 09:43] \\
   Selenium Projects are always saved with .side extension.
 

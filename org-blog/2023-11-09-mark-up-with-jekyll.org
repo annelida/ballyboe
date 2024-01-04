@@ -35,7 +35,7 @@ Italic text sample
 eiusmod tempor incididunt ut labore et dolore magna aliqua./
 
 ** RAW Underlined
-SCHEDULED: <2024-01-02 Tue>
+SCHEDULED: <2024-01-05 Fri>
 :LOGBOOK:
 CLOCK: [2024-01-02 Tue 13:31]
 :END:
@@ -68,7 +68,7 @@ eiusmod tempor incididunt ut labore et dolore magna aliqua.~
 eiusmod tempor incididunt ut labore et dolore magna aliqua.+
 
 ** RAW Poetry
-SCHEDULED: <2024-01-02 Tue>
+SCHEDULED: <2024-01-05 Fri>
 
 To preserve the line breaks, indentation and blank lines in a region,
 but otherwise use normal formatting, you can use this construct, which
@@ -91,7 +91,7 @@ Throughout the journey’s length.
 #+end_example
 
 ** RAW Quotes
-SCHEDULED: <2024-01-02 Tue>
+SCHEDULED: <2024-01-05 Fri>
 You can include quotations in Org documents like this:
 
 #+begin_quote
@@ -100,7 +100,7 @@ something you have never done. ---Thomas Jefferson
 #+end_quote
 
 ** RAW Center
-SCHEDULED: <2024-01-02 Tue>
+SCHEDULED: <2024-01-05 Fri>
 If you would like to center some text, do it like this:
 #+begin_example
 #+begin_center

@@ -68,7 +68,7 @@ CLOCK: [2023-10-14 Sat 13:30]--[2023-10-14 Sat 14:03] =>  0:33
 :END:
 
 *** Init MAN ssh
-SCHEDULED: <2023-12-30 Sat ++1w>
+SCHEDULED: <2024-01-05 Fri ++1w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-12-20 Wed 18:41]
 :END:
@@ -89,7 +89,7 @@ CLOCK: [2023-12-20 Wed 09:55]--[2023-12-20 Wed 10:45] =>  0:50
 CLOCK: [2023-12-19 Tue 09:15]--[2023-12-19 Tue 09:18] =>  0:03
 :END:
 *** Init MAN df
-SCHEDULED: <2023-12-30 Sat ++1w>
+SCHEDULED: <2024-01-05 Fri ++1w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-12-20 Wed 18:42]
 :END:
@@ -102,7 +102,7 @@ SCHEDULED: <2023-12-30 Sat ++1w>
 CLOCK: [2023-12-19 Tue 09:18]--[2023-12-19 Tue 09:22] =>  0:04
 :END:
 *** Init MAN free
-SCHEDULED: <2023-12-30 Sat ++1w>
+SCHEDULED: <2024-01-05 Fri ++1w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-12-20 Wed 18:42]
 :END:
@@ -129,7 +129,7 @@ SCHEDULED: <2023-12-30 Sat ++1w>
 CLOCK: [2023-12-19 Tue 09:22]--[2023-12-19 Tue 09:34] =>  0:12
 :END:
 *** Init MAN htop
-SCHEDULED: <2023-12-30 Sat ++1w>
+SCHEDULED: <2024-01-05 Fri ++1w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-12-20 Wed 18:43]
 :END:
@@ -139,7 +139,7 @@ SCHEDULED: <2023-12-30 Sat ++1w>
 process-manager. It shows a frequently updated list of the processes
 running on a computer, normally ordered by the amount of CPU usage.
 *** Init MAN ps
-SCHEDULED: <2023-12-30 Sat ++1w>
+SCHEDULED: <2024-01-05 Fri ++1w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-12-20 Wed 18:44]
 :END:
@@ -153,7 +153,7 @@ SCHEDULED: <2023-12-30 Sat ++1w>
    system, including their process ID (PID), parent process ID (PPID),
    CPU usage, memory usage, and more. 
 *** Init Process management
-SCHEDULED: <2023-12-28 Thu>
+SCHEDULED: <2024-01-05 Fri>
 - Note taken on [2023-12-20 Wed 11:33] \\
 
   Is the technique used by organizations to analyze, optimize, monitor,
@@ -170,7 +170,7 @@ SCHEDULED: <2023-12-28 Thu>
   to control how programs interact with each other.
   
 *** Init Software management
-SCHEDULED: <2023-12-28 Thu>
+SCHEDULED: <2024-01-05 Fri>
 
 Is a science of planning and leading software projects.
 
@@ -186,7 +186,7 @@ Using Open Source Software
 ** Python
 
 **** Init TODO [#A] Python: modules, relative import. 
-SCHEDULED: <2024-01-02 Tue>
+SCHEDULED: <2024-01-14 Sun>
 - Note taken on [2023-10-24 Tue 08:54] \\
   A Python module is a file that has a .py extension, and a Python
   package is any folder that has modules inside it.
@@ -204,7 +204,7 @@ CLOCK: [2023-10-24 Tue 08:07]--[2023-10-24 Tue 09:32] =>  1:25
 
 
 **** RAW Python classes
-SCHEDULED: <2024-01-03 Wed>
+SCHEDULED: <2024-01-22 Mon>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-22 Wed 14:25]
 :END:
@@ -350,7 +350,7 @@ SCHEDULED: <2024-01-19 Fri ++2w>
 **** Window Registers 
 
 **** DP0 [#A] Bookmarks+ configuration
-SCHEDULED: <2023-12-30 Sat ++2w>
+SCHEDULED: <2024-01-05 Fri ++2w>
 :PROPERTIES:
 :CATEGORY: Emacs
 :END:
@@ -359,18 +359,18 @@ CLOCK: [2023-12-14 Thu 09:30]--[2023-12-14 Thu 10:08] =>  0:38
 :END:
 
 **** Init [#A] Help about *eww*
-SCHEDULED: <2023-12-28 Thu>
+SCHEDULED: <2024-01-07 Sun>
 :PROPERTIES:
 :CATEGORY: Emacs
 :END:
 **** RAW Emacs + venv
-SCHEDULED: <2023-12-29 Fri ++3w>
+SCHEDULED: <2024-01-19 Fri ++3w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-12-04 Mon 11:10]
 :END:
 - State "DONE"       from "Active"     [2023-12-04 Mon 11:10]
-**** Init Elpy concepts
-SCHEDULED: <2023-12-31 Sun>
+**** DELAY Elpy concepts
+SCHEDULED: <2024-02-05 Mon>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-23 Thu 15:54]
 :CATEGORY: Elpy
@@ -381,8 +381,11 @@ CLOCK: [2023-11-28 Tue 14:37]--[2023-11-28 Tue 15:11] =>  0:34
 CLOCK: [2023-11-23 Thu 14:58]--[2023-11-23 Thu 15:53] =>  0:55
 :END:
 [[https://elpy.readthedocs.io/en/latest/concepts.html#:~:text=Concepts-,The%20RPC%20Process,going%20on%20in%20the%20background.]]
-***** Init Elpy the RPC Process                                   
-SCHEDULED: <2024-01-04 Thu ++2w>:
+***** DELAY Elpy the RPC Process                                   
+SCHEDULED: <2024-05-23 Thu ++2w>:
+:PROPERTIES:
+:LAST_REPEAT: [2024-01-04 Thu 15:07]
+:END:
 - Note taken on [2023-11-30 Thu 15:31] \\
   RPC processes are used to provide code completion, documentation and
   other features. To do so, they use python packages (jedi, yapf, …)
@@ -405,10 +408,10 @@ CLOCK: [2023-11-30 Thu 14:50]--[2023-11-30 Thu 15:33] =>  0:43
 CLOCK: [2023-12-19 Tue 10:56]--[2023-12-19 Tue 11:45] =>  0:49
 :END:
 ***** RAW Regular expressions syntax
-SCHEDULED: <2023-12-31 Sun>
+SCHEDULED: <2024-01-09 Tue>
 [[info:emacs#Regexps][emacs#Regexps]]
 **** RAW Emacs Tramp mode
-SCHEDULED: <2023-12-28 Thu>
+SCHEDULED: <2024-01-05 Fri>
 :PROPERTIES:
 :CATEGORY: Emacs
 :END:
@@ -681,13 +684,11 @@ SCHEDULED: <2024-01-16 Tue>
 CLOCK: [2023-10-22 Sun 08:21]--[2023-10-22 Sun 08:34] =>  0:13
 :END:
 
-
-****** RAW TODO What is Jekyll's Gemfile.lock (full clarification).
-SCHEDULED: <2024-01-04 Thu ++4w>
+****** What is Jekyll's Gemfile.lock (full clarification).
+SCHEDULED: <2024-07-18 Thu ++4w>
 :PROPERTIES:
-:LAST_REPEAT: [2023-11-27 Mon 10:07]
+:LAST_REPEAT: [2024-01-04 Thu 12:49]
 :END:
-
 - State "DONE"       from "Active"     [2023-11-27 Mon 10:07]
 - Note taken on [2023-10-20 Fri 08:33] \\
   The Gemfile.lock file is where Bundler records the exact
@@ -841,13 +842,9 @@ In Emacs using M-x diff function it not necessary to separately compare folders 
 You can see full result in diff buffer.
 In the Linux terminal it is possible at the same time to compare folder with files:
 $ diff -a -y dir1 dir2
-****** RAW ACTIVE Linux symbolic links
-SCHEDULED: <2023-12-29 Fri ++2w>
-:PROPERTIES:
-:LAST_REPEAT: [2023-12-04 Mon 11:21]
-:END:
-- State "DONE"       from "Active"     [2023-12-04 Mon 11:21]
-- State "DONE"       from "Active"     [2023-11-20 Mon 08:20]
+
+****** DELAY Linux symbolic links
+SCHEDULED: <2024-02-04 Sun>
 - Note taken on [2023-10-10 Tue 19:27] \\
   M-x man <enter> ln
 - Note taken on [2023-10-10 Tue 15:30]
@@ -951,8 +948,13 @@ CLOCK: [2023-10-25 Wed 10:36]--[2023-10-25 Wed 11:16] =>  0:40
   (ie. never rebase master). You should never rebase master onto
   a feature branch.
 
-****** Init TODO [#A] Git/Magit undo options.
-SCHEDULED: <2024-01-04 Thu>
+****** RAW TODO [#A] Git/Magit undo options.
+SCHEDULED: <2024-02-01 Thu ++2w>
+:PROPERTIES:
+:CATEGORY: Git
+:LAST_REPEAT: [2024-01-04 Thu 12:46]
+:END:
+- State "DONE"       from "Active"     [2024-01-04 Thu 12:46]
 - Note taken on [2024-01-04 Thu 12:12] \\
   If you just want to undo commit then:
   #+begin_example
@@ -984,7 +986,7 @@ SCHEDULED: <2024-01-04 Thu>
   ~git reset --hard~ it will automatically discard all the changes made
    between HEAD and the specified commit.
 :LOGBOOK:
-CLOCK: [2024-01-04 Thu 12:11]--[2024-01-04 Thu 12:29] =>  0:18
+CLOCK: [2024-01-04 Thu 12:11]
 :END:
 - Note taken on [2023-10-23 Mon 08:47] \\
   If you want to redo that commit, make the additional
@@ -1091,7 +1093,7 @@ SCHEDULED: <2024-01-05 Fri ++1d>
 :END:
 
 **** RAW A Python Q&A Session
-SCHEDULED: <2024-01-05 Fri ++2w>
+SCHEDULED: <2024-01-26 Fri ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-27 Mon 17:35]
 :END:
@@ -1177,7 +1179,7 @@ CLOCK: [2023-11-28 Tue 08:59]--[2023-11-28 Tue 09:23] =>  0:24
 SCHEDULED: <2024-01-05 Fri ++1w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-12-12 Tue 14:31]
-:CATEGORY: Learning Python
+:CATEGORY: Python
 :END:
 - State "DONE"       from "Active"     [2023-12-12 Tue 14:31]
 - State "DONE"       from "Active"     [2023-12-01 Fri 10:39]
@@ -1238,8 +1240,8 @@ SCHEDULED: <2024-01-08 Mon ++2w>
 :LOGBOOK:
 CLOCK: [2023-12-14 Thu 10:09]--[2023-12-14 Thu 10:34] =>  0:25
 :END:
-***** Init Python Lists
-SCHEDULED: <2023-12-28 Thu>
+***** DP0 Python Lists
+SCHEDULED: <2024-01-05 Fri>
 :PROPERTIES:
 :CATEGORY: Python
 :END:
@@ -1271,7 +1273,7 @@ SCHEDULED: <2024-01-09 Tue ++2w>
 
 - State "DONE"       from "Active"     [2023-12-13 Wed 11:24]
 ***** DP0 Logic
-SCHEDULED: <2023-12-28 Thu>
+SCHEDULED: <2024-01-05 Fri>
 :PROPERTIES:
 :CATEGORY: CS
 :END:
@@ -1280,7 +1282,7 @@ CLOCK: [2023-12-14 Thu 10:45]--[2023-12-14 Thu 11:09] =>  0:24
 :END:
 
 ****** Init Operators
-SCHEDULED: <2023-12-28 Thu>
+SCHEDULED: <2024-01-05 Fri>
 
 - Note taken on [2023-12-14 Thu 10:58] \\
   Conditional operator:
@@ -1322,7 +1324,7 @@ CLOCK: [2023-11-28 Tue 18:27]--[2023-11-28 Tue 18:33] =>  0:06
 - State "DONE"       from "Active"     [2023-11-23 Thu 15:54]
 * Events
 ** RAW Migration plan from one host to another
-SCHEDULED: <2023-12-28 Thu>
+SCHEDULED: <2024-01-05 Fri>
 :PROPERTIES:
 :CATEGORY: Compose
 :END:
