@@ -952,7 +952,40 @@ CLOCK: [2023-10-25 Wed 10:36]--[2023-10-25 Wed 11:16] =>  0:40
   a feature branch.
 
 ****** Init TODO [#A] Git/Magit undo options.
-SCHEDULED: <2024-01-03 Wed>
+SCHEDULED: <2024-01-04 Thu>
+- Note taken on [2024-01-04 Thu 12:12] \\
+  If you just want to undo commit then:
+  #+begin_example
+  $ git revert <commit id>
+  #+end_example
+  This will create a commit opposite to the commit id you provided.
+
+  If you want the branch to appear like the commit never took place
+  you can reset head of current branch to previous commit with
+  #+begin_example
+  $ git reset --hard HEAD^ 
+  #+end_example
+
+  And then send it to Github with
+  #+begin_example
+  $ git push --force 
+  #+end_example
+
+  ~git reset --soft~ this option moves HEAD back to the specified
+  commit, undoes all the changes made between where HEAD was pointing
+  and the specified commit, and saves all the changes in the index. In
+  other words, Git re-adds the changes as staged, ready to be committed
+  again.
+
+  ~git reset --mixed~ will undo all the changes between HEAD and the
+  specified commit, but will preserve your changes in the Working
+  Directory, as unstaged changes.
+
+  ~git reset --hard~ it will automatically discard all the changes made
+   between HEAD and the specified commit.
+:LOGBOOK:
+CLOCK: [2024-01-04 Thu 12:11]--[2024-01-04 Thu 12:29] =>  0:18
+:END:
 - Note taken on [2023-10-23 Mon 08:47] \\
   If you want to redo that commit, make the additional
   changes you forgot, stage them, and commit again using
