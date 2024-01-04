@@ -109,3 +109,7 @@ something you have never done.
 #+end_center
 #+end_example
 
+** The image presentation
+#+CAPTION: An image presentation sample
+#+ATTR_HTML: :title Image presentation test :align right :width 300px
+[[https://annelida.github.io/assets/img/image.jpg]]
