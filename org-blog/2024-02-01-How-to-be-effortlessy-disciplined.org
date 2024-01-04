@@ -16,8 +16,8 @@ tags: [experience, attention]
 #+CATEGORY: Meta
 #+TODO: RAW INIT TODO ACTIVE | DONE
 
-* RAW Intro
-SCHEDULED: <2024-01-03 Wed>
+* ACTIVE Intro
+SCHEDULED: <2024-01-08 Mon>
 
 I'm able to begin a task and complete it regardless of boredom or
 distractions. On a scale from 1 to 10 how much do you agree with that
@@ -42,8 +42,8 @@ become more effortlessly disciplined. But then if you stick around
 till the end of the video we're going to talk about why actually
 focusing too much on discipline might actually be the wrong.
 
-* RAW Mental contrasting
-SCHEDULED: <2024-01-03 Wed>
+* ACTIVE Mental contrasting
+SCHEDULED: <2024-01-08 Mon>
 
 So method number one is something called *mental contrasting*. And
 it's based on a really cool study by a psychologist called Gabrielle
@@ -83,7 +83,7 @@ the fantasy that I'm kind of aiming towards in theory that is mental
 contrasting. And that should according to the evidence improve our
 levels of discipline.
 
-* RAW Rise
+** RAW Rise
 SCHEDULED: <2024-01-04 Thu>
 
 Now one of my favorite tools that I use everyday for tracking to
@@ -102,99 +102,93 @@ scrier or noan. I was like you know the different apps I was used for
 writing it would call that writing time and I'd be aiming to hit at
 least 4 hours a day and before I used rise I thought "Hey i' I've been
 writing all day and stuff", but like actually using rise made me
-realize that oh crap I thought I was writing all day.
+realize that oh crap I thought I was writing all day, but actually I
+was screwing around most of the time and only doing like an hour and a
+half of writing. But as soon as I started to track it and start seeing
+the numbers I was like oh crap I should spend more time. In Google
+Docs and a little less time on YouTube Rise also has a really good
+/Commodora timer/ built in. So you can set 25 minute or 45 minute
+study sessions or works sessions or whatever the thing is you want to
+do. And it also gives you very handy notifications when it's time to
+take a break and also when it senses that you are getting
+distracted. Which I've got an enormous mileage out of and genuinely
+it's an app that helps me be more effortlessly disciplined. in fact I
+love the app so much that I reached out to the founders of the company
+the super cool people. And I've actually invested in *Rise* as a
+company because I have enormous Faith behind what they're doing and
+it's a really cool team. Behind it as well and it's just a genuinely
+fantastic Way of tracking your time and staying more on track and more
+disciplin. So thank you so much *Rise* for sponsoring this video.
+
+* Implementetion intentions
+
+All right method number two is something really powerful as well and
+that's something I use every day in my life. And that is called
+*implementation intentions*. Now here is a cool study by psychologist
+Angela Duckworth who actually wrote the really good book "Grit". And
+in the study they got a group of high school students who were going
+to take a particular exam. And first they asked everyone to visualize
+the outcome of succeeding in that exam. But then they split up the
+class into two different groups. Now the first group the control group
+was just asked to write an essay about an influential person in their
+life, but the second group was asked firstly to imagine the obstacles
+that would stand in the way of them succeeding the exam and then also
+to create if then statements that might help them overcome the
+obstacle. So for example, if I get distracted while doing practice
+tests I will get up and do a quick walk around my room and then sit
+down and start again. So basically they're trying to imagine the
+obstacles that are going to be in their way and then figuring out what
+are they going to do if and when they encounter those obstacles. And
+the researchers found that the treatment group (I.E the group that was
+asked to do the if then stuff that) group completed 60% more practice
+questions than the people in the control group. And I don't know about
+you but if I was, for example, struggling with discipline to I don't
+know write or to study or to go to the gym or whatever the thing is
+and by just imagining obstacles. And then figuring out what I would do
+if I encountered them. That could lead to a 60% increase in the amount
+of questions I did or workouts I did or anything like that. That's
+pretty sick, it's a very very easy change we can make to our
+lives. And actually psychologists have paired these two strategies
+that we've just talked about together called *MCI - mental contrasting
+with implementation intentions*. So technically an implementation
+intention is just like when you say if x happens I will do y. So if
+for example you want to floss more and you can say if I am brushing my
+teeth or when I'm brushing my teeth then afterwards I will also floss.
+So this is sometimes known as habit stacking where you are stacking in
+multiple habits together. But technically the psychology term for it
+is *implementation intentions* and then if you pair it with mental
+contrasting I.E Imagining the future, imagining the obstacles and then
+running implementation intentions to figure out how you're going to
+get through those obstacles that concept of MCI. Is a really well
+validated and highly evidence-based strategy for increasing your
+motivation and discipline to actually make progress with the stuff
+that matters to you. If you're interested in more details about
+implementation intentions I have a whole section about them in my book
+"Feelgood productivity" which you can check out if you like.
+
+* Designing environment
+
+But let's now talk about method number three hich is to reduce
+environmental friction. And the key idea here is that if you really
+want to effortlessly increase your discipline you've got to design
+your environment. In a way that makes it really easy. So if for
+example, you are trying to be more disciplined to go to the gym then
+having your gym clothes out and in front of you when you wake up. So
+you can put them on first thing in the morning. Makes it way easier to
+actually have the discipline to go to the gym similarly if you're
+trying to be more disciplined and not eat unhealthy food then just not
+buying junk food when you go to the supermarket and shoving in your
+fridge. Is a way of designing your environment in a way that makes it
+easy for you to be disciplined in that context. And I can't remember
+where this quote is from, but there's a really nice quote which is
+that /"it doesn't take much discipline to not eat a chocolate bar"/.
 
 
 
-but actually I
-was screwing around most
-Of the time and only doing like an hour and a half of writing but as
-soon as I started to track it and start seeing the numbers I was like
-oh crap I should spend more time in Google Docs and a little less time
-on YouTube Rise also has a really good commodora timer built in so you
-can set 25 minute or 45 minute study sessions or work s sessions or
-whatever the thing is you want to do and it also gives you very handy
-notifications when it's time to take a
-
-Break and also when it senses that you are getting distracted which
-I've got an enormous mileage out of and genuinely it's an app that
-helps me be more effortlessly disciplined in fact I love the app so
-much that I reached out to the founders of the company the super cool
-people and I've actually invested in rice as a company because I have
-enormous Faith behind what they're doing and it's a really cool team
-behind it as well and it's just a genuinely fantastic
-
-Way of tracking your time and staying more on track and more disciplin
-so thank you so much rise for sponsoring this video all right method
-number two is something really powerful as well and that's something I
-use every day in my life and that is called implementation intentions
-now here is a cool study by psychologist Angela Duckworth who actually
-wrote the really good book grit and in the study they got a group of
-high school students who were going to
-
-Take a particular exam and first they asked everyone to visualize the
-outcome of succeeding in that exam but then they split up the class
-into two different groups now the first group the control group was
-just asked to write an essay about an influential person in their life
-but the second group was asked firstly to imagine the obstacles that
-would stand in the way of them succeeding the exam and then also to
-create if then statements that might
-
-Help them overcome the obstacle so for example if I get distracted
-while doing practice tests I will get up and do a quick walk around my
-room and then sit down and start again so basically they're trying to
-imagine the obstacles that are going to be in their way and then
-figuring out what are they going to do if and when they encounter
-those obstacles and the researchers found that the treatment group I.E
-the group that was asked to do the if then stuff that
-
-Group completed 60% more practice questions than the people in the
-control group and I don't know about you but if I was for example
-struggling with discipline to I don't know write or to study or to go
-to the gym or whatever the thing is and by just imagining obstacles
-and then figuring out what I would do if I encountered them that could
-lead to a 60% increase in the amount of questions I did or workouts I
-did or anything like that that's pretty
-
-Sick it's a very very easy change we can make to our lives and
-actually psychologists have paired these two strategies that we've
-just talked about together called MCI mental contrasting with
-implementation intentions so technically an implementation intention
-is just like when you say if x happens I will do y so if for example
-you want to floss more and you can say if I am brushing my teeth or
-when I'm brushing my teeth then afterwards I will also
-
-Floss so this is sometimes known as habit stacking where you are
-stacking in multiple habits together but technically the psychology
-term for it is implementation intentions and then if you pair it with
-mental contrasting I.E Imagining the future Imagining the obstacles
-and then running implementation intentions to figure out how you're
-going to get through those obstacles that concept of MCI is a really
-well validated and highly
-
-Evidence-based strategy for increasing your motivation and discipline
-to actually make progress with the stuff that matters to you if you're
-interested in more details about implementation intentions I have a
-whole section about them in my book Feelgood productivity which you
-can check out if you like but let's now talk about method number three
-which is to reduce environmental friction and the key idea here is
-that if you really want to effortlessly
-
-Increase your discipline you've got to design your environment in a
-way that makes it really easy so if for example you are trying to be
-more disciplined to go to the gym then having your gym clothes out and
-in front of you when you wake up so you can put them on first thing in
-the morning makes it way easier to actually have the discipline to go
-to the gym similarly if you're trying to be more disciplined and not
-eat unhealthy food then just not buying junk food when
-
-You go to the supermarket and shoving in your fridge is a way of
-designing your environment in a way that makes it easy for you to be
-disciplined in that context and I can't remember where this quote is
-from but there's a really nice quote which is that it doesn't take
-much discipline to not eat a chocolate bar if there are no chocolate
-bars in the house and whenever I do talks and speak to students and
-you know any any of this kind of stuff people always ask me like
+If
+there are no chocolate bars in the house and whenever I do talks and
+speak to students and you know any any of this kind of stuff people
+always ask me like
 
 Oh you know I I'm I'm not I'm not disciplined enough or like how do I
 get more discipline in my life and I usually start I don't usually
