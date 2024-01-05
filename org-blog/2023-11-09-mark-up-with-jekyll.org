@@ -1,7 +1,7 @@
 #+BEGIN_EXPORT html
 ---
 layout: post
-title: Nice and dice
+title: Mark up with Org-mode and Jekyll
 subtitle: feel and view
 permalink: /blog-mark-up.html
 categories: [emacs, org-mode, mark-up, Literate Programming]
@@ -15,12 +15,12 @@ tags: [html export, mark-up]
 #+PROPERTY:header-args :results output :exports both :eval no-export
 #+CATEGORY: Org mark up
 #+TODO: RAW INIT TODO ACTIVE | DONE
-[[info:org#Markup for Rich Contents][org#Markup for Rich Contents]]
+
+[[https://orgmode.org/manual/Markup-for-Rich-Contents.html][Official documentation]]
 
 * Emphasis
 
-** DONE Bold
-SCHEDULED: <2023-12-27 Wed>
+** Bold
 #+begin_example
 *Bold text sample*
 #+end_example
@@ -34,12 +34,7 @@ Italic text sample
 /Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
 eiusmod tempor incididunt ut labore et dolore magna aliqua./
 
-** RAW Underlined
-SCHEDULED: <2024-01-05 Fri>
-:LOGBOOK:
-CLOCK: [2024-01-02 Tue 13:31]
-:END:
-
+** Underlined
 #+begin_example
 __Underlined text there__
 #+end_example
@@ -67,9 +62,7 @@ eiusmod tempor incididunt ut labore et dolore magna aliqua.~
 +Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
 eiusmod tempor incididunt ut labore et dolore magna aliqua.+
 
-** RAW Poetry
-SCHEDULED: <2024-01-05 Fri>
-
+** Poetry
 To preserve the line breaks, indentation and blank lines in a region,
 but otherwise use normal formatting, you can use this construct, which
 can also be used to format poetry.
@@ -90,22 +83,22 @@ Throughout the journey’s length.
 #+end_verse
 #+end_example
 
-** RAW Quotes
-SCHEDULED: <2024-01-05 Fri>
+** Quotes
 You can include quotations in Org documents like this:
 
+#+begin_example
 #+begin_quote
-If you want something you have never had, you must be willing to do
-something you have never done. ---Thomas Jefferson
+Life begins at the end of your comfort zone.
+                        -- Neale Donald Walsch
 #+end_quote
+#+end_example
 
-** RAW Center
-SCHEDULED: <2024-01-05 Fri>
+** Center
 If you would like to center some text, do it like this:
 #+begin_example
 #+begin_center
-If you want something you have never had, you must be willing to do \\
-something you have never done.
+If you want something you have never had, you must be \\
+willing to do something you have never done.
 #+end_center
 #+end_example
 
