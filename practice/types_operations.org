@@ -269,9 +269,9 @@ re.search(): Searches for a pattern anywhere in a string.
 #+RESULTS:
 : <re.Match object; span=(7, 12), match='Regex'>
 
-** Lists
+* Lists
 
-*** A Python List is a built-in, ordered, mutable collection of elements
+** A Python List is a built-in, ordered, mutable collection of elements
 or items. Each item in a list can be of any data type, including
 numbers, strings, or other objects like tuples, dictionaries, or even
 other lists.
@@ -340,3 +340,30 @@ Lists are mutable
 : [['a', 'b', 'c'], [1, 2, 3]]
 : ['a', 'b', 'c']
 : b
+
+* Dictionaries
+
+Is a data structure, used to to store values in key:value format. It
+is ordered, mutable and do not allow duplicates.
+
+#+begin_src python :results output
+  tel = {'jack':4098, 'sape':4139}
+  tel['guido'] = 4127
+  print(tel)
+  tel['irv'] = 4127
+  print(tel)
+  print(list(tel))
+  print(sorted(tel))
+  print('guido' in tel)
+  print('jack' not in tel)
+#+end_src
+
+#+RESULTS:
+: {'jack': 4098, 'sape': 4139, 'guido': 4127}
+: {'jack': 4098, 'sape': 4139, 'guido': 4127, 'irv': 4127}
+: ['jack', 'sape', 'guido', 'irv']
+: ['guido', 'irv', 'jack', 'sape']
+: True
+: False
+
+
