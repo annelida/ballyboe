@@ -20,7 +20,7 @@ MY PROJECTS    -*- mode: org; -*-
 
 *** Deliberate Practice
 *** RAW Eisenhower Matrix
-SCHEDULED: <2024-01-08 Mon>
+SCHEDULED: <2024-01-10 Wed>
 :PROPERTIES:
 :CATEGORY: Meta
 :END:
@@ -95,7 +95,7 @@ CLOCK: [2023-10-14 Sat 13:30]--[2023-10-14 Sat 14:03] =>  0:33
 :END:
 
 *** Init MAN ssh
-SCHEDULED: <2024-01-05 Fri ++1w>
+SCHEDULED: <2024-01-11 Thu ++1w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-12-20 Wed 18:41]
 :END:
@@ -116,7 +116,7 @@ CLOCK: [2023-12-20 Wed 09:55]--[2023-12-20 Wed 10:45] =>  0:50
 CLOCK: [2023-12-19 Tue 09:15]--[2023-12-19 Tue 09:18] =>  0:03
 :END:
 *** Init MAN df
-SCHEDULED: <2024-01-05 Fri ++1w>
+SCHEDULED: <2024-01-11 Thu ++1w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-12-20 Wed 18:42]
 :END:
@@ -129,7 +129,7 @@ SCHEDULED: <2024-01-05 Fri ++1w>
 CLOCK: [2023-12-19 Tue 09:18]--[2023-12-19 Tue 09:22] =>  0:04
 :END:
 *** Init MAN free
-SCHEDULED: <2024-01-05 Fri ++1w>
+SCHEDULED: <2024-01-11 Thu ++1w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-12-20 Wed 18:42]
 :END:
@@ -156,7 +156,7 @@ SCHEDULED: <2024-01-05 Fri ++1w>
 CLOCK: [2023-12-19 Tue 09:22]--[2023-12-19 Tue 09:34] =>  0:12
 :END:
 *** Init MAN htop
-SCHEDULED: <2024-01-05 Fri ++1w>
+SCHEDULED: <2024-01-11 Thu ++1w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-12-20 Wed 18:43]
 :END:
@@ -166,7 +166,7 @@ SCHEDULED: <2024-01-05 Fri ++1w>
 process-manager. It shows a frequently updated list of the processes
 running on a computer, normally ordered by the amount of CPU usage.
 *** Init MAN ps
-SCHEDULED: <2024-01-05 Fri ++1w>
+SCHEDULED: <2024-01-11 Thu ++1w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-12-20 Wed 18:44]
 :END:
@@ -180,7 +180,7 @@ SCHEDULED: <2024-01-05 Fri ++1w>
    system, including their process ID (PID), parent process ID (PPID),
    CPU usage, memory usage, and more. 
 *** Init Process management
-SCHEDULED: <2024-01-05 Fri>
+SCHEDULED: <2024-01-16 Tue>
 - Note taken on [2023-12-20 Wed 11:33] \\
 
   Is the technique used by organizations to analyze, optimize, monitor,
@@ -197,7 +197,7 @@ SCHEDULED: <2024-01-05 Fri>
   to control how programs interact with each other.
   
 *** Init Software management
-SCHEDULED: <2024-01-05 Fri>
+SCHEDULED: <2024-01-16 Tue>
 
 Is a science of planning and leading software projects.
 
@@ -377,17 +377,17 @@ SCHEDULED: <2024-01-19 Fri ++2w>
 **** Window Registers 
 
 **** DP0 [#A] Bookmarks+ configuration
-SCHEDULED: <2024-01-05 Fri ++2w>
+SCHEDULED: <2024-01-10 Wed ++2w>
 :PROPERTIES:
 :CATEGORY: Emacs
 :END:
 :LOGBOOK:
-CLOCK: [2024-01-05 Fri 13:49]
+CLOCK: [2024-01-05 Fri 13:49]--[2024-01-05 Fri 15:23] =>  1:34
 CLOCK: [2023-12-14 Thu 09:30]--[2023-12-14 Thu 10:08] =>  0:38
 :END:
 
 **** Init [#A] Help about *eww*
-SCHEDULED: <2024-01-07 Sun>
+SCHEDULED: <2024-01-10 Wed>
 :PROPERTIES:
 :CATEGORY: Emacs
 :END:
@@ -435,8 +435,8 @@ CLOCK: [2023-11-30 Thu 14:50]--[2023-11-30 Thu 15:33] =>  0:43
 :LOGBOOK:
 CLOCK: [2023-12-19 Tue 10:56]--[2023-12-19 Tue 11:45] =>  0:49
 :END:
-***** RAW Regular expressions syntax
-SCHEDULED: <2024-01-09 Tue>
+***** DELAY Regular expressions syntax
+SCHEDULED: <2024-02-09 Fri>
 [[info:emacs#Regexps][emacs#Regexps]]
 **** DELAY Emacs Tramp mode
 SCHEDULED: <2024-01-12 Fri>
@@ -452,6 +452,12 @@ SCHEDULED: <2024-01-12 Fri>
 
   (or /method:user@remotehost:filename)
   C-x C-f /ssh:root@example.com:~/
+**** RAW Search file by the name or content in file system
+SCHEDULED: <2024-01-10 Wed>
+:PROPERTIES:
+:CATEGORY: Emacs
+:END:
+
 ** Org-mode
 
 **** RAW [#B] Org-mode, org-babel markup rules
@@ -469,8 +475,8 @@ SCHEDULED: <2024-01-23 Tue ++2w>
 CLOCK: [2023-11-14 Tue 15:06]--[2023-11-14 Tue 15:48] =>  0:42
 :END:
 
-**** RAW TODO Org-Babel configuration.
-SCHEDULED: <2024-01-09 Tue ++2w>
+**** DELAY Org-Babel configuration.
+SCHEDULED: <2024-02-16 Fri ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-22 Wed 08:46]
 :END:
@@ -517,7 +523,7 @@ CLOCK: [2023-10-26 Thu 07:54]--[2023-10-26 Thu 08:52] =>  0:58
 **** DP1 Org-drill concept
 SCHEDULED: <2024-01-10 Wed ++2w>
 :PROPERTIES:
-:CATEGORY: Spaced repetition
+:CATEGORY: Drilling
 :END:
 :LOGBOOK:
 CLOCK: [2023-12-03 Sun 12:32]--[2023-12-03 Sun 13:04] =>  0:32
@@ -528,8 +534,8 @@ CLOCK: [2023-11-28 Tue 08:00]--[2023-11-28 Tue 08:58] =>  0:58
 https://orgmode.org/worg/org-contrib/org-drill.html
 https://orgmode.org/worg/org-contrib/org-drill.html#org51fd4f9
 
-**** RAW Org-capture templates concept and usage
-SCHEDULED: <2024-01-05 Fri ++2w>
+**** DELAY Org-capture templates concept and usage
+SCHEDULED: <2024-02-07 Wed ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-12-13 Wed 17:47]
 :END:
@@ -890,8 +896,8 @@ SCHEDULED: <2024-02-04 Sun>
   * link to original file. For create soft link use command ln -s
 **** Git/Magit
 
-****** Init Git/Magit merge and rebase concept.
-SCHEDULED: <2024-01-05 Fri>
+****** DELAY Git/Magit merge and rebase concept.
+SCHEDULED: <2024-02-07 Wed>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-16 Thu 15:34]
 :CATEGORY: Git
@@ -1061,17 +1067,18 @@ CLOCK: [2024-01-04 Thu 12:11]
   tag
   version
 **** Init "Definitions" 
-SCHEDULED: <2024-01-05 Fri>
+SCHEDULED: <2024-01-10 Wed>
 :PROPERTIES:
 :CATEGORY: Drill
 :END:
 [[file:~/git/ballyboe/bookworm/drills.org::*Definitions][Definitions]]
 **** RAW Speed-typing
-SCHEDULED: <2024-01-05 Fri ++1d>
+SCHEDULED: <2024-01-10 Wed ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-12-25 Mon 13:22]
+:LAST_REPEAT: [2024-01-09 Tue 15:42]
 :CATEGORY: Chore
 :END:
+- State "DONE"       from "Active"     [2024-01-09 Tue 15:42]
 - State "DONE"       from "Active"     [2023-12-25 Mon 13:22]
 - State "DONE"       from "Active"     [2023-12-22 Fri 14:50]
 - State "DONE"       from "Active"     [2023-12-21 Thu 17:39]
@@ -1212,8 +1219,8 @@ CLOCK: [2023-11-13 Mon 12:21]--[2023-11-13 Mon 13:06] =>  0:45
 CLOCK: [2023-11-28 Tue 08:59]--[2023-11-28 Tue 09:23] =>  0:24
 :END:
 
-***** RAW Python run the file with executable privileges.
-SCHEDULED: <2024-01-05 Fri ++1w>
+***** DELAY Python run the file with executable privileges.
+SCHEDULED: <2024-02-12 Mon ++1w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-12-12 Tue 14:31]
 :CATEGORY: Python
@@ -1267,8 +1274,8 @@ This is known as 'stream redirection'.
 CLOCK: [2023-11-28 Tue 10:40]--[2023-11-28 Tue 11:14] =>  0:34
 CLOCK: [2023-11-24 Fri 14:29]--[2023-11-24 Fri 14:52] =>  0:23
 :END:
-******* RAW Python how to code strings
-SCHEDULED: <2024-01-08 Mon ++2w>
+******* DELAY Python how to code strings
+SCHEDULED: <2024-02-20 Tue ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-12-13 Wed 11:24]
 :END:
@@ -1277,11 +1284,13 @@ SCHEDULED: <2024-01-08 Mon ++2w>
 :LOGBOOK:
 CLOCK: [2023-12-14 Thu 10:09]--[2023-12-14 Thu 10:34] =>  0:25
 :END:
-***** DP0 Python Lists
-SCHEDULED: <2024-01-05 Fri>
+***** RAW Python Lists
+SCHEDULED: <2024-01-23 Tue ++2w>
 :PROPERTIES:
 :CATEGORY: Python
+:LAST_REPEAT: [2024-01-09 Tue 15:43]
 :END:
+- State "DONE"       from "Active"     [2024-01-09 Tue 15:43]
 - Note taken on [2023-12-22 Fri 14:51] \\
   A Python List is a built-in, ordered, mutable collection of elements
   or items. Each item in a list can be of any data type, including
@@ -1303,14 +1312,14 @@ CLOCK: [2023-12-19 Tue 14:10]--[2023-12-19 Tue 14:10] =>  0:00
 :END:
 
 ***** RAW Mathematical models
-SCHEDULED: <2024-01-09 Tue ++2w>
+SCHEDULED: <2024-01-14 Sun ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-12-13 Wed 11:24]
 :END:
 
 - State "DONE"       from "Active"     [2023-12-13 Wed 11:24]
 ***** DP0 Logic
-SCHEDULED: <2024-01-05 Fri>
+SCHEDULED: <2024-01-14 Sun>
 :PROPERTIES:
 :CATEGORY: CS
 :END:
@@ -1319,7 +1328,7 @@ CLOCK: [2023-12-14 Thu 10:45]--[2023-12-14 Thu 11:09] =>  0:24
 :END:
 
 ****** Init Operators
-SCHEDULED: <2024-01-05 Fri>
+SCHEDULED: <2024-01-14 Sun>
 
 - Note taken on [2023-12-14 Thu 10:58] \\
   Conditional operator:
@@ -1361,7 +1370,7 @@ CLOCK: [2023-11-28 Tue 18:27]--[2023-11-28 Tue 18:33] =>  0:06
 - State "DONE"       from "Active"     [2023-11-23 Thu 15:54]
 * Events
 ** RAW Migration plan from one host to another
-SCHEDULED: <2024-01-05 Fri>
+SCHEDULED: <2024-01-10 Wed>
 :PROPERTIES:
 :CATEGORY: Compose
 :END:
