@@ -15,6 +15,8 @@
 (require 'org-tempo)
 (require 'key-chord)
 (key-chord-mode 1)
+(add-to-list 'load-path "~/git/bookmark-plus/")
+(require 'bookmark+)
 (require 'magit)
 (require 'google-translate)
 (setq google-translate-translation-directions-alist '(("en" . "ru")))
