@@ -457,7 +457,48 @@ SCHEDULED: <2024-01-10 Wed>
 :PROPERTIES:
 :CATEGORY: Emacs
 :END:
-
+- Note taken on [2024-01-10 Wed 08:34] \\
+  In Linux command line
+  #+begin_example
+  $ sudo find / -type f -name "*.mp4"
+  $ sudo find / -type f -iname "*.mp4"
+  #+end_example
+  -type f : Only search for files.
+  -type d : Only search for directories  or folders.
+  -name "file" : File to search. It is a base of file name
+  (the path with the leading directories removed) matches shell
+  pattern
+  -iname "file" : Same as -name except file names are not case
+  sensitive.
+ Emacs:
+  =M-x find-name-dired=
+  #+begin_example
+  Find all files with suffix "org" in directory "~/org/".
+  Enter the following:
+  M-x find-name-dired
+  ~/org
+  *org
+  #+end_example
+ If you want to test the contents of
+ files, rather than their names, use
+  =M-x find-grep-dired=
+  #+begin_example
+  M-x find-grep-dired RET catch 
+  #+end_example
+  =‘A REGEXP <RET>’= Search all the specified files for the regular
+  expression REGEXP (‘dired-do-find-regexp’).
+  Dired supports wilcards in the directory part of the file name
+  argument.
+  #+begin_example
+  C-x d ~/soft/*/*.c RET
+  #+end_example
+:LOGBOOK:
+CLOCK: [2024-01-10 Wed 08:31]
+:END:
+**** Alioth config (.emacs)
+:PROPERTIES:
+:CATEGORY: Emacs
+:END:
 ** Org-mode
 
 **** RAW [#B] Org-mode, org-babel markup rules
@@ -523,7 +564,7 @@ CLOCK: [2023-10-26 Thu 07:54]--[2023-10-26 Thu 08:52] =>  0:58
 **** DP1 Org-drill concept
 SCHEDULED: <2024-01-10 Wed ++2w>
 :PROPERTIES:
-:CATEGORY: Drilling
+:CATEGORY: Drill
 :END:
 :LOGBOOK:
 CLOCK: [2023-12-03 Sun 12:32]--[2023-12-03 Sun 13:04] =>  0:32
@@ -1372,7 +1413,7 @@ CLOCK: [2023-11-28 Tue 18:27]--[2023-11-28 Tue 18:33] =>  0:06
 ** RAW Migration plan from one host to another
 SCHEDULED: <2024-01-10 Wed>
 :PROPERTIES:
-:CATEGORY: Compose
+:CATEGORY: Linux
 :END:
 * Notes
 
