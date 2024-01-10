@@ -14,3 +14,31 @@ tags: [Emacs, packages]
 #+PROPERTY:header-args :results output :exports both :eval no-export
 #+CATEGORY: Meta
 #+TODO: RAW INIT TODO ACTIVE | DONE
+[[info:emacs#Packages][emacs#Packages]]
+
+* Package menu buffer
+The command ‘M-x list-packages’ brings up the “package menu”. Press
+‘i’ to mark for installation, ‘u’ to unmark, and ‘x’ to perform the
+installation. Press ‘RET’ to read more about installing and using each
+package.
+
+* Manual
+** Creation
+** Initialization
+Packages are most conveniently installed using the package menu but
+you can also use the command ‘M-x package-install’.
+
+** Upload
+* Automatic
+* Package's sources: Elpa, Melpa
+By default, Emacs 24 or later is set up with the GnuELPA package
+archive. If you need to add more sources, include Emacs code like this
+to your InitFile:
+#+begin_example
+(require 'package)
+(add-to-list 'package-archives '("elpa" . "https://elpa.gnu.org/packages/") t)
+;; and MELPA
+(add-to-list 'package-archives '("melpa" . "https://melpa.org/packages/") t)
+#+end_example
+
+* .deb
