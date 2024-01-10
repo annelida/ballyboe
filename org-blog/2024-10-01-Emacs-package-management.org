@@ -1,0 +1,16 @@
+#+BEGIN_EXPORT html
+---
+layout: page
+title: Emacs package management
+permalink: /Emacs/emacs-package-management.html
+categories:[Emacs, packages, Elpa, Melpa]
+tags: [Emacs, packages]
+---
+#+END_EXPORT
+
+#+STARTUP: showall indent
+#+OPTIONS: tags:nil num:nil \n:nil @:t ::t |:t ^:{} _:{} *:t
+#+TOC: headlines 2
+#+PROPERTY:header-args :results output :exports both :eval no-export
+#+CATEGORY: Meta
+#+TODO: RAW INIT TODO ACTIVE | DONE
