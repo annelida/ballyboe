@@ -12,7 +12,7 @@ tags: [Emacs, packages]
 #+OPTIONS: tags:nil num:nil \n:nil @:t ::t |:t ^:{} _:{} *:t
 #+TOC: headlines 2
 #+PROPERTY:header-args :results output :exports both :eval no-export
-#+CATEGORY: Meta
+#+CATEGORY: Emacs
 #+TODO: RAW INIT TODO ACTIVE | DONE
 [[info:emacs#Packages][emacs#Packages]]
 
@@ -22,7 +22,8 @@ The command ‘M-x list-packages’ brings up the “package menu”. Press
 installation. Press ‘RET’ to read more about installing and using each
 package.
 
-* Manual
+* RAW Manual
+SCHEDULED: <2024-01-11 Thu>
 ** Creation
 ** Initialization
 Packages are most conveniently installed using the package menu but
