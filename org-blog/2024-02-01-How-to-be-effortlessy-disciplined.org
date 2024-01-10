@@ -17,7 +17,7 @@ tags: [experience, attention]
 #+TODO: RAW INIT TODO ACTIVE | DONE
 
 * ACTIVE Intro
-SCHEDULED: <2024-01-10 Wed>
+SCHEDULED: <2024-01-11 Thu>
 
 I'm able to begin a task and complete it regardless of boredom or
 distractions. On a scale from 1 to 10 how much do you agree with that
@@ -43,7 +43,7 @@ till the end of the video we're going to talk about why actually
 focusing too much on discipline might actually be the wrong.
 
 * ACTIVE Mental contrasting
-SCHEDULED: <2024-01-10 Wed>
+SCHEDULED: <2024-01-11 Thu>
 
 So method number one is something called *mental contrasting*. And
 it's based on a really cool study by a psychologist called Gabrielle

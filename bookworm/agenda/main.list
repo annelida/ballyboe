@@ -19,8 +19,8 @@ MY PROJECTS    -*- mode: org; -*-
 *** Pomodoro Technique
 
 *** Deliberate Practice
-*** RAW Eisenhower Matrix
-SCHEDULED: <2024-01-10 Wed>
+*** DELAY Eisenhower Matrix
+SCHEDULED: <2024-02-14 Wed>
 :PROPERTIES:
 :CATEGORY: Meta
 :END:
@@ -32,9 +32,9 @@ SCHEDULED: <2024-01-10 Wed>
   you’ll do first, the tasks you’ll schedule for later, the tasks
   you’ll delegate, and the tasks you’ll delete.
 
-  Urgent tasks require your immediate attention;
+  /Urgent tasks/ require your immediate attention;
 
-  Important tasks may not require immediate attention, but these tasks
+  /Important tasks/ may not require immediate attention, but these tasks
   help you achieve your long-term goals;
 
   Quadrant three is the “delegate” quadrant, and this is where you’ll
@@ -376,8 +376,8 @@ SCHEDULED: <2024-01-19 Fri ++2w>
 
 **** Window Registers 
 
-**** DP0 [#A] Bookmarks+ configuration
-SCHEDULED: <2024-01-10 Wed ++2w>
+**** DP0 [#A] Bookmarks+ usage
+SCHEDULED: <2024-01-11 Thu ++2w>
 :PROPERTIES:
 :CATEGORY: Emacs
 :END:
@@ -390,7 +390,7 @@ CLOCK: [2023-12-14 Thu 09:30]--[2023-12-14 Thu 10:08] =>  0:38
 :END:
 
 **** Init [#A] Help about *eww*
-SCHEDULED: <2024-01-10 Wed>
+SCHEDULED: <2024-01-11 Thu>
 :PROPERTIES:
 :CATEGORY: Emacs
 :END:
@@ -455,8 +455,8 @@ SCHEDULED: <2024-01-12 Fri>
 
   (or /method:user@remotehost:filename)
   C-x C-f /ssh:root@example.com:~/
-**** RAW Search file by the name or content in file system
-SCHEDULED: <2024-01-10 Wed>
+**** Init Search file by the name or content in file system
+SCHEDULED: <2024-01-11 Thu>
 :PROPERTIES:
 :CATEGORY: Emacs
 :END:
@@ -496,8 +496,11 @@ SCHEDULED: <2024-01-10 Wed>
   C-x d ~/soft/*/*.c RET
   #+end_example
 :LOGBOOK:
-CLOCK: [2024-01-10 Wed 08:31]
+CLOCK: [2024-01-10 Wed 08:31]--[2024-01-10 Wed 10:03] =>  1:32
 :END:
+
+**** RAW File searching in different Git branches 
+SCHEDULED: <2024-01-11 Thu>
 **** Alioth config (.emacs)
 :PROPERTIES:
 :CATEGORY: Emacs
@@ -565,7 +568,7 @@ CLOCK: [2023-10-26 Thu 07:54]--[2023-10-26 Thu 08:52] =>  0:58
 [[https://orgmode.org/manual/Structure-Templates.html][org templates structure]]
 
 **** DP1 Org-drill concept
-SCHEDULED: <2024-01-10 Wed ++2w>
+SCHEDULED: <2024-01-16 Tue ++2w>
 :PROPERTIES:
 :CATEGORY: Drill
 :END:
@@ -1111,17 +1114,18 @@ CLOCK: [2024-01-04 Thu 12:11]
   tag
   version
 **** Init "Definitions" 
-SCHEDULED: <2024-01-10 Wed>
+SCHEDULED: <2024-01-16 Tue>
 :PROPERTIES:
 :CATEGORY: Drill
 :END:
 [[file:~/git/ballyboe/bookworm/drills.org::*Definitions][Definitions]]
 **** RAW Speed-typing
-SCHEDULED: <2024-01-10 Wed ++1d>
+SCHEDULED: <2024-01-11 Thu ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-01-09 Tue 15:42]
+:LAST_REPEAT: [2024-01-10 Wed 15:17]
 :CATEGORY: Chore
 :END:
+- State "DONE"       from "Active"     [2024-01-10 Wed 15:17]
 - State "DONE"       from "Active"     [2024-01-09 Tue 15:42]
 - State "DONE"       from "Active"     [2023-12-25 Mon 13:22]
 - State "DONE"       from "Active"     [2023-12-22 Fri 14:50]
@@ -1413,8 +1417,8 @@ CLOCK: [2023-11-28 Tue 18:27]--[2023-11-28 Tue 18:33] =>  0:06
 :END:
 - State "DONE"       from "Active"     [2023-11-23 Thu 15:54]
 * Events
-** RAW Migration plan from one host to another
-SCHEDULED: <2024-01-10 Wed>
+** DELAY Migration plan from one host to another
+SCHEDULED: <2024-02-22 Thu>
 :PROPERTIES:
 :CATEGORY: Linux
 :END:

@@ -11,10 +11,11 @@
 #+TODO: RAW Init DP0 Todo DP1 Active | DONE
 
 * RAW [#A] Genuine source of knowledge
-SCHEDULED: <2024-01-10 Wed ++1d>
+SCHEDULED: <2024-01-11 Thu ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-01-09 Tue 15:40]
+:LAST_REPEAT: [2024-01-10 Wed 15:13]
 :END:
+- State "DONE"       from "Active"     [2024-01-10 Wed 15:13]
 - State "DONE"       from "Active"     [2024-01-09 Tue 15:40]
 - State "DONE"       from "Active"     [2024-01-04 Thu 15:01]
 - State "DONE"       from "Active"     [2023-12-27 Wed 15:43]
@@ -65,10 +66,11 @@ about how the program works are:
 
 --* INIT Conclusion*: the wisest decision is just to use it properly!
 * RAW [#A] Deliberate practice
-SCHEDULED: <2024-01-10 Wed ++1d>
+SCHEDULED: <2024-01-11 Thu ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-01-09 Tue 15:40]
+:LAST_REPEAT: [2024-01-10 Wed 15:13]
 :END:
+- State "DONE"       from "Active"     [2024-01-10 Wed 15:13]
 - State "DONE"       from "Active"     [2024-01-09 Tue 15:40]
 - State "DONE"       from "Active"     [2024-01-04 Thu 15:01]
 - State "DONE"       from "Active"     [2023-12-27 Wed 15:44]
@@ -120,11 +122,12 @@ CLOCK: [2023-11-24 Fri 08:31]--[2023-11-24 Fri 09:02] =>  0:31
 - State "DONE"       from "ACTIVE"     [2023-11-07 Tue 18:19]
 when you do challenging but indispensable tasks by yourself
 * RAW [#A] Help about *Help*
-SCHEDULED: <2024-01-10 Wed ++1d>
+SCHEDULED: <2024-01-11 Thu ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-01-09 Tue 15:40]
+:LAST_REPEAT: [2024-01-10 Wed 15:13]
 :CATEGORY: Emacs
 :END:
+- State "DONE"       from "Active"     [2024-01-10 Wed 15:13]
 - State "DONE"       from "Active"     [2024-01-09 Tue 15:40]
 - State "DONE"       from "Active"     [2024-01-04 Thu 15:02]
 - State "DONE"       from "Active"     [2023-12-27 Wed 15:43]
@@ -255,11 +258,12 @@ CLOCK: [2023-10-14 Sat 07:30]--[2023-10-14 Sat 08:27] =>  0:57
 Very straighforward system out from 10 initial keys to use in embedded
 *Help* browser.OA To use several *Help* buffers use =M-x raname uniquely=
 * RAW [#A] Help about *info*
-SCHEDULED: <2024-01-10 Wed ++1d>
+SCHEDULED: <2024-01-11 Thu ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-01-09 Tue 15:40]
+:LAST_REPEAT: [2024-01-10 Wed 15:13]
 :CATEGORY: Emacs
 :END:
+- State "DONE"       from "Active"     [2024-01-10 Wed 15:13]
 - State "DONE"       from "Active"     [2024-01-09 Tue 15:40]
 - State "DONE"       from "Active"     [2024-01-04 Thu 15:02]
 - State "DONE"       from "Active"     [2023-12-27 Wed 15:44]
