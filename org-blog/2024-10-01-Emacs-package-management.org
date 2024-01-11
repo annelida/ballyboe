@@ -16,6 +16,36 @@ tags: [Emacs, packages]
 #+TODO: RAW INIT TODO ACTIVE | DONE
 [[info:emacs#Packages][emacs#Packages]]
 
+* Intro
+
+#+begin_quote
+For Emacs users, optimizing their configuration is fun and a sure way
+to become an Emacs expert. Generally speaking, a novice’s
+configuration is pieced together, which is the fastest and most
+efficient way to learn. As you get deeper into Emacs, the
+configuration becomes more complex, and it is hard to imagine
+continuing to have fun with Emacs without refactoring your previously
+disorganized configuration
+#+end_quote
+
+* Several definitions
+
+*A package* is a collection of one or more ELisp files that Emacs
+searches in the folder specified by load-path.
+
+Packages installed through the distro package manager are installed to
+/usr/local/share/emacs/site-lisp/ which is a default in the load-path.
+
+*Lisp* (historically LISP, an abbreviation of "list processing") is a
+high-level programming language created by John McCarthy in 1958. Lisp
+is the third-oldest high-level programming language still in common
+use, after Fortran and COBOL. It is a machine-independent language
+that supports dynamic programming, object-oriented programming, and
+data types.
+
+*Package management system* allows users to easily install, manage,
+and update packages.
+
 * Package menu buffer
 The command ‘M-x list-packages’ brings up the “package menu”. Press
 ‘i’ to mark for installation, ‘u’ to unmark, and ‘x’ to perform the
@@ -23,7 +53,7 @@ installation. Press ‘RET’ to read more about installing and using each
 package.
 
 * RAW Manual
-SCHEDULED: <2024-01-11 Thu>
+SCHEDULED: <2024-01-12 Fri>
 ** Creation
 ** Initialization
 Packages are most conveniently installed using the package menu but
