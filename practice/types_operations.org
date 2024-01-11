@@ -366,4 +366,25 @@ is ordered, mutable and do not allow duplicates.
 : True
 : False
 
+dict() constructor builds dictionaries directly from sequences
+of key-value pairs:
+
+#+begin_src python :results output
+  print(dict([('sape', 4139), ('guido', 4127), ('jack', 4098)]))
+  print(dict(sape=4139, guido=4127, jack=4098))
+#+end_src
+
+#+RESULTS:
+: {'sape': 4139, 'guido': 4127, 'jack': 4098}
+: {'sape': 4139, 'guido': 4127, 'jack': 4098}
+
+Dict can be used to create dictionaries from arbitrary key and value
+expressions:
+
+#+begin_src python :results output
+print({x: x**2 for x in (2, 4, 6)})
+#+end_src
+
+#+RESULTS:
+: {2: 4, 4: 16, 6: 36}
 
