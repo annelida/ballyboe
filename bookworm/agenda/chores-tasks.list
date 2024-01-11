@@ -13,10 +13,11 @@ CLOSED: [2023-10-26 Thu 17:32] SCHEDULED: <2023-10-29 Sun>
 Naturally, by its definition they are the routine, usual and regular
 tasks.
 * RAW [#C] Git commits purification
-SCHEDULED: <2024-01-11 Thu ++1d>
+SCHEDULED: <2024-01-12 Fri ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-01-10 Wed 15:19]
+:LAST_REPEAT: [2024-01-11 Thu 16:09]
 :END:
+- State "DONE"       from "ACTIVE"     [2024-01-11 Thu 16:09]
 - State "DONE"       from "ACTIVE"     [2024-01-10 Wed 15:19]
 - State "DONE"       from "ACTIVE"     [2024-01-09 Tue 15:44]
 - State "DONE"       from "ACTIVE"     [2023-12-27 Wed 15:46]
@@ -84,10 +85,11 @@ SCHEDULED: <2024-01-11 Thu ++1d>
 ** DONE Test
 CLOSED: [2023-11-29 Wed 18:16] SCHEDULED: <2023-11-28 Tue>
 * RAW *PUSH*
-SCHEDULED: <2024-01-11 Thu ++1d>
+SCHEDULED: <2024-01-12 Fri ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-01-10 Wed 15:18]
+:LAST_REPEAT: [2024-01-11 Thu 16:09]
 :END:
+- State "DONE"       from "ACTIVE"     [2024-01-11 Thu 16:09]
 - State "DONE"       from "ACTIVE"     [2024-01-10 Wed 15:18]
 - State "DONE"       from "ACTIVE"     [2024-01-09 Tue 15:43]
 - State "DONE"       from "ACTIVE"     [2024-01-04 Thu 15:10]
@@ -160,10 +162,11 @@ necessary to do after some changes need to be shared with me
 urgently. Before push I can't see any changes, because all them are on
 your localhost.
 * RAW Workspace clean-up
-SCHEDULED: <2024-01-11 Thu ++1w>
+SCHEDULED: <2024-01-18 Thu ++1w>
 :PROPERTIES:
-:LAST_REPEAT: [2024-01-04 Thu 15:11]
+:LAST_REPEAT: [2024-01-11 Thu 16:09]
 :END:
+- State "DONE"       from "ACTIVE"     [2024-01-11 Thu 16:09]
 - State "DONE"       from "ACTIVE"     [2024-01-04 Thu 15:11]
 - State "DONE"       from "ACTIVE"     [2023-12-22 Fri 16:44]
 - State "DONE"       from "ACTIVE"     [2023-12-15 Fri 16:22]
@@ -193,10 +196,11 @@ workspace:
   * x to execute kill
     
 * RAW Workspace clean-up
-SCHEDULED: <2024-01-11 Thu ++1w>
+SCHEDULED: <2024-01-18 Thu ++1w>
 :PROPERTIES:
-:LAST_REPEAT: [2024-01-04 Thu 15:11]
+:LAST_REPEAT: [2024-01-11 Thu 16:09]
 :END:
+- State "DONE"       from "ACTIVE"     [2024-01-11 Thu 16:09]
 - State "DONE"       from "ACTIVE"     [2024-01-04 Thu 15:11]
 - State "DONE"       from "ACTIVE"     [2023-12-27 Wed 15:46]
 - State "DONE"       from "ACTIVE"     [2023-12-20 Wed 18:46]
@@ -234,10 +238,11 @@ workspace:
   At the bottom left, select: Advanced - About ChromeOS - Select Check for updates.
 
 * RAW [#C] Evening meet-up
-SCHEDULED: <2024-01-11 Thu ++1d>
+SCHEDULED: <2024-01-12 Fri ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-01-10 Wed 15:19]
+:LAST_REPEAT: [2024-01-11 Thu 16:10]
 :END:
+- State "DONE"       from "ACTIVE"     [2024-01-11 Thu 16:10]
 - State "DONE"       from "ACTIVE"     [2024-01-10 Wed 15:19]
 - State "DONE"       from "ACTIVE"     [2024-01-09 Tue 15:44]
 - State "DONE"       from "ACTIVE"     [2023-12-27 Wed 15:47]
@@ -303,10 +308,11 @@ SCHEDULED: <2024-01-11 Thu ++1d>
 - State "DONE"       from "ACTIVE"     [2023-10-13 Fri 13:01]
 To discuss actual questions and find answers.
 * RAW Daily taskset schedulling
-SCHEDULED: <2024-01-11 Thu ++1d>
+SCHEDULED: <2024-01-12 Fri ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-01-10 Wed 15:18]
+:LAST_REPEAT: [2024-01-11 Thu 16:09]
 :END:
+- State "DONE"       from "ACTIVE"     [2024-01-11 Thu 16:09]
 - State "DONE"       from "ACTIVE"     [2024-01-10 Wed 15:18]
 - State "DONE"       from "ACTIVE"     [2024-01-09 Tue 15:43]
 - State "DONE"       from "ACTIVE"     [2024-01-04 Thu 15:11]
@@ -376,10 +382,11 @@ SCHEDULED: <2024-01-11 Thu ++1d>
 It might be required several times a day, but first time in the early
 morning.
 * RAW Tomorrow's agenda brush-up
-SCHEDULED: <2024-01-11 Thu ++1d>
+SCHEDULED: <2024-01-12 Fri ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-01-10 Wed 15:18]
+:LAST_REPEAT: [2024-01-11 Thu 16:09]
 :END:
+- State "DONE"       from "ACTIVE"     [2024-01-11 Thu 16:09]
 - State "DONE"       from "ACTIVE"     [2024-01-10 Wed 15:18]
 - State "DONE"       from "ACTIVE"     [2024-01-09 Tue 15:43]
 - State "DONE"       from "ACTIVE"     [2024-01-04 Thu 15:11]
@@ -484,5 +491,5 @@ https://www.youtube.com/watch?v=lcyHC9HLTzc&list=PLdGzcof2XV5oRreuRZByoN1oG8q_f_
 SCHEDULED: <2024-01-07 Sun>
 * DONE Fix all headers in articles
 SCHEDULED: <2023-12-19 Tue>
-* TODO Article's spell checking 
-SCHEDULED: <2024-01-11 Thu>
+* DONE Article's spell checking 
+SCHEDULED: <2024-01-12 Fri>
