@@ -241,3 +241,33 @@ executed.
 
 Defines "HOW" something can be tested. It is describes test strategy
 or test plan.
+
+** The Secure Shell Protocol (SSH)
+is a cryptographic network protocol for operating network services
+securely (in a way that avoids someone or something being harmed by
+any risk, danger) over an unsecured network.  *ssh (SSH client)* is a
+program for logging into a remote machine and for executing commands
+on a remote machine. It is intended to provide secure encrypted
+communications between two untrusted hosts over an insecure network.
+
+** htop
+is an interactive system-monitor process-viewer and
+process-manager. It shows a frequently updated list of the processes
+running on a computer, normally ordered by the amount of CPU usage.
+
+** Emacs package
+Is a collection of one or more ELisp files that Emacs searches in the
+folder specified by load-path.
+
+** LISP
+An abbreviation of ("list processing") is a high-level programming
+language created by John McCarthy in 1958. Lisp is the third-oldest
+high-level programming language still in common use, after Fortran and
+COBOL. It is a machine-independent language that supports dynamic
+programming, object-oriented programming, and data types.
+
+** Package management
+is a system that allows users to easily install, manage, and update
+packages.
+
+
