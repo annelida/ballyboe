@@ -271,7 +271,7 @@ re.search(): Searches for a pattern anywhere in a string.
 
 * Lists
 
-** A Python List is a built-in, ordered, mutable collection of elements
+A Python List is a built-in, ordered, mutable collection of elements
 or items. Each item in a list can be of any data type, including
 numbers, strings, or other objects like tuples, dictionaries, or even
 other lists.
