@@ -406,7 +406,7 @@ Describe what you ought to do and in what manner it might be
 implemented.
 
 * RAW Tasks actualization
-SCHEDULED: <2024-01-11 Thu>
+SCHEDULED: <2024-01-12 Fri>
 [[info:org#TODO Extensions][org#TODO Extensions]]
 
 Over time, a large number of tasks can accumulate in the personal
@@ -427,7 +427,9 @@ them. It can be one of the states:
 #+TODO: RAW Init DP0 Todo DP1 Active | DONE
 #+end_example
 
-Or maybe you will decide to archive any tasks or come back to them
-later.
+Or maybe you will decide to archive any tasks, postpone or come back
+to them later.
+It may be possible to supplement the Agenda with new
+tasks. To do this, you can analyze the history in your browser.
 
 * Conclusion

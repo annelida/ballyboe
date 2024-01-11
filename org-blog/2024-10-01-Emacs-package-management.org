@@ -16,7 +16,8 @@ tags: [Emacs, packages]
 #+TODO: RAW INIT TODO ACTIVE | DONE
 [[info:emacs#Packages][emacs#Packages]]
 
-* Intro
+* RAW Intro
+SCHEDULED: <2024-01-12 Fri>
 
 #+begin_quote
 For Emacs users, optimizing their configuration is fun and a sure way
@@ -28,7 +29,8 @@ continuing to have fun with Emacs without refactoring your previously
 disorganized configuration
 #+end_quote
 
-* Several definitions
+* RAW Several definitions
+SCHEDULED: <2024-01-12 Fri>
 
 *A package* is a collection of one or more ELisp files that Emacs
 searches in the folder specified by load-path.

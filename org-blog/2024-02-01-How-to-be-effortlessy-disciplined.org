@@ -17,7 +17,6 @@ tags: [experience, attention]
 #+TODO: RAW INIT TODO ACTIVE | DONE
 
 * ACTIVE Intro
-SCHEDULED: <2024-01-11 Thu>
 
 I'm able to begin a task and complete it regardless of boredom or
 distractions. On a scale from 1 to 10 how much do you agree with that
@@ -43,7 +42,6 @@ till the end of the video we're going to talk about why actually
 focusing too much on discipline might actually be the wrong.
 
 * ACTIVE Mental contrasting
-SCHEDULED: <2024-01-11 Thu>
 
 So method number one is something called *mental contrasting*. And
 it's based on a really cool study by a psychologist called Gabrielle
@@ -122,7 +120,7 @@ disciplin. So thank you so much *Rise* for sponsoring this video.
 
 * Implementetion intentions
 
-All right method number two is something really powerful as well and
+All right, method number two is something really powerful as well and
 that's something I use every day in my life. And that is called
 *implementation intentions*. Now here is a cool study by psychologist
 Angela Duckworth who actually wrote the really good book "Grit". And
@@ -206,9 +204,10 @@ one or two things that you can do to design your environment in a way
 that that makes it way easier for you to do the thing that you
 actually want to do.
 
-* Monitoring and tracing
+* RAW Monitoring and tracing
+SCHEDULED: <2024-01-12 Fri>
 
-All right strategy number four is *monitoring and tracking*. And
+All right, strategy number four is *monitoring and tracking*. And
 basically the idea here is something from management literature which
 is what gets measured gets managed and what gets measured gets
 improved and there have been a bunch of studies that have shown this.

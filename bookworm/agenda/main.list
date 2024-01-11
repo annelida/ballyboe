@@ -94,10 +94,10 @@ CLOCK: [2023-10-14 Sat 13:30]--[2023-10-14 Sat 14:03] =>  0:33
 :CATEGORY: Linux
 :END:
 
-*** Init MAN ssh
-SCHEDULED: <2024-01-11 Thu ++1w>
+*** DELAY MAN ssh
+SCHEDULED: <2024-02-12 Mon ++1w>
 :PROPERTIES:
-:LAST_REPEAT: [2023-12-20 Wed 18:41]
+:LAST_REPEAT: [2024-01-11 Thu 16:02]
 :END:
 - State "DONE"       from "Active"     [2023-12-20 Wed 18:41]
 - Note taken on [2023-12-19 Tue 09:15] \\
@@ -115,11 +115,13 @@ SCHEDULED: <2024-01-11 Thu ++1w>
 CLOCK: [2023-12-20 Wed 09:55]--[2023-12-20 Wed 10:45] =>  0:50
 CLOCK: [2023-12-19 Tue 09:15]--[2023-12-19 Tue 09:18] =>  0:03
 :END:
-*** Init MAN df
-SCHEDULED: <2024-01-11 Thu ++1w>
+*** DELAY MAN df
+SCHEDULED: <2024-01-25 Thu ++1w>
 :PROPERTIES:
-:LAST_REPEAT: [2023-12-20 Wed 18:42]
+:LAST_REPEAT: [2024-01-11 Thu 16:03]
 :END:
+- State "AMPLE"      from "RAW"        [2024-01-11 Thu 16:03]
+- State "AMPLE"      from "Init"       [2024-01-11 Thu 16:03]
 - State "DONE"       from "Active"     [2023-12-20 Wed 18:42]
 - Note taken on [2023-12-19 Tue 09:20] \\
   df - report file system disk space usage
@@ -128,11 +130,12 @@ SCHEDULED: <2024-01-11 Thu ++1w>
 :LOGBOOK:
 CLOCK: [2023-12-19 Tue 09:18]--[2023-12-19 Tue 09:22] =>  0:04
 :END:
-*** Init MAN free
-SCHEDULED: <2024-01-11 Thu ++1w>
+*** RAW MAN free
+SCHEDULED: <2024-02-08 Thu ++1w>
 :PROPERTIES:
-:LAST_REPEAT: [2023-12-20 Wed 18:42]
+:LAST_REPEAT: [2024-01-11 Thu 16:04]
 :END:
+- State "AMPLE"      from "RAW"        [2024-01-11 Thu 16:04]
 - State "DONE"       from "Active"     [2023-12-20 Wed 18:42]
 - Note taken on [2023-12-19 Tue 09:31] \\
   =free= displays the total amount of free and used physical and swap
@@ -155,21 +158,23 @@ SCHEDULED: <2024-01-11 Thu ++1w>
 :LOGBOOK:
 CLOCK: [2023-12-19 Tue 09:22]--[2023-12-19 Tue 09:34] =>  0:12
 :END:
-*** Init MAN htop
-SCHEDULED: <2024-01-11 Thu ++1w>
+*** RAW MAN htop
+SCHEDULED: <2024-01-18 Thu ++1w>
 :PROPERTIES:
-:LAST_REPEAT: [2023-12-20 Wed 18:43]
+:LAST_REPEAT: [2024-01-11 Thu 16:06]
 :END:
 
+- State "AMPLE"      from "Init"       [2024-01-11 Thu 16:06]
 - State "DONE"       from "Active"     [2023-12-20 Wed 18:43]
 *htop* is an interactive system-monitor process-viewer and
 process-manager. It shows a frequently updated list of the processes
 running on a computer, normally ordered by the amount of CPU usage.
-*** Init MAN ps
-SCHEDULED: <2024-01-11 Thu ++1w>
+*** RAW MAN ps
+SCHEDULED: <2024-01-18 Thu ++1w>
 :PROPERTIES:
-:LAST_REPEAT: [2023-12-20 Wed 18:44]
+:LAST_REPEAT: [2024-01-11 Thu 16:08]
 :END:
+- State "AMPLE"      from "Init"       [2024-01-11 Thu 16:08]
 - State "DONE"       from "Active"     [2023-12-20 Wed 18:44]
 - Note taken on [2023-12-19 Tue 10:19] \\
   ps -ef displays all processes running on the system, while htop
@@ -352,6 +357,12 @@ if __name__ == '__main__':
     unittest.main()
 
 #+end_example    
+
+**** RAW Tuples and Sequences
+SCHEDULED: <2024-01-12 Fri>
+:PROPERTIES:
+:CATEGORY: Python
+:END:
 ** Emacs
 
 **** Interface
@@ -377,7 +388,7 @@ SCHEDULED: <2024-01-19 Fri ++2w>
 **** Window Registers 
 
 **** DP0 [#A] Bookmarks+ usage
-SCHEDULED: <2024-01-11 Thu ++2w>
+SCHEDULED: <2024-01-12 Fri ++2w>
 :PROPERTIES:
 :CATEGORY: Emacs
 :END:
@@ -390,7 +401,7 @@ CLOCK: [2023-12-14 Thu 09:30]--[2023-12-14 Thu 10:08] =>  0:38
 :END:
 
 **** Init [#A] Help about *eww*
-SCHEDULED: <2024-01-11 Thu>
+SCHEDULED: <2024-01-12 Fri>
 :PROPERTIES:
 :CATEGORY: Emacs
 :END:
@@ -455,8 +466,8 @@ SCHEDULED: <2024-01-12 Fri>
 
   (or /method:user@remotehost:filename)
   C-x C-f /ssh:root@example.com:~/
-**** Init Search file by the name or content in file system
-SCHEDULED: <2024-01-11 Thu>
+**** DELAY Search file by the name or content in file system
+SCHEDULED: <2024-02-11 Sun>
 :PROPERTIES:
 :CATEGORY: Emacs
 :END:
@@ -499,8 +510,11 @@ SCHEDULED: <2024-01-11 Thu>
 CLOCK: [2024-01-10 Wed 08:31]--[2024-01-10 Wed 10:03] =>  1:32
 :END:
 
-**** RAW File searching in different Git branches 
-SCHEDULED: <2024-01-11 Thu>
+**** DELAY File searching in different Git branches 
+SCHEDULED: <2024-02-15 Thu>
+:LOGBOOK:
+CLOCK: [2024-01-11 Thu 09:48]--[2024-01-11 Thu 10:19] =>  0:31
+:END:
 **** Alioth config (.emacs)
 :PROPERTIES:
 :CATEGORY: Emacs
@@ -1120,11 +1134,12 @@ SCHEDULED: <2024-01-16 Tue>
 :END:
 [[file:~/git/ballyboe/bookworm/drills.org::*Definitions][Definitions]]
 **** RAW Speed-typing
-SCHEDULED: <2024-01-11 Thu ++1d>
+SCHEDULED: <2024-01-12 Fri ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-01-10 Wed 15:17]
+:LAST_REPEAT: [2024-01-11 Thu 16:09]
 :CATEGORY: Chore
 :END:
+- State "DONE"       from "Active"     [2024-01-11 Thu 16:09]
 - State "DONE"       from "Active"     [2024-01-10 Wed 15:17]
 - State "DONE"       from "Active"     [2024-01-09 Tue 15:42]
 - State "DONE"       from "Active"     [2023-12-25 Mon 13:22]
