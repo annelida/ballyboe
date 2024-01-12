@@ -31,9 +31,16 @@ disorganized configuration
 
 * RAW Several definitions
 SCHEDULED: <2024-01-12 Fri>
+:LOGBOOK:
+CLOCK: [2024-01-12 Fri 08:39]
+:END:
 
 *A package* is a collection of one or more ELisp files that Emacs
-searches in the folder specified by load-path.
+searches in the folder specified by =load-path=.
+Packages can be anything from major modes and minor modes to custom
+themes and external tools integration. By leveraging these packages,
+developers can tailor Emacs to their specific needs and streamline their
+workflow. 
 
 Packages installed through the distro package manager are installed to
 /usr/local/share/emacs/site-lisp/ which is a default in the load-path.
@@ -47,6 +54,27 @@ data types.
 
 *Package management system* allows users to easily install, manage,
 and update packages.
+
+* Package Archives
+
+=Emacs package management= relies on package archives, which act as online
+repositories that host packages. These archives contain a vast collection
+of packages in various categories. Users can browse, search, and
+install packages from these archives easily.
+
+** RAW Package.el
+Package.el is the built-in package manager in Emacs, introduced in version
+24. It simplifies the process of package installation, updates, and
+removal. Package.el provides a unified interface to interact with
+package archives, making it convenient for users to discover, install,
+and manage packages without leaving Emacs.
+
+** Closure packages
+For Clojure development, Emacs offers several packages that enhance
+the editing experience and provide specialized features. These
+packages assist with syntax highlighting, indentation, code
+navigation, project management, and interaction with the Clojure
+ecosystem.
 
 * Package menu buffer
 The command ‘M-x list-packages’ brings up the “package menu”. Press
