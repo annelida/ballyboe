@@ -69,7 +69,7 @@ removal. Package.el provides a unified interface to interact with
 package archives, making it convenient for users to discover, install,
 and manage packages without leaving Emacs.
 
-** Closure packages
+** Clojure packages
 For Clojure development, Emacs offers several packages that enhance
 the editing experience and provide specialized features. These
 packages assist with syntax highlighting, indentation, code

@@ -5,8 +5,13 @@
 #+LANGUAGE: en
 #+STARTUP: showall indent
 #+PROPERTY: header-args :comments org
+#+CATEGORY: Python
+#+TODO: | AMPLE
+#+TODO: RAW Init DP0 Todo DP1 Active | DONE
+#+TODO: DELAY LAG RETARD | BARE
 
-* Numeric operations
+* Init Numeric operations
+SCHEDULED: <2024-01-15 Mon>
 #+begin_src python :results output
 print(123 + 222)   #Integer addition
 #+end_src
@@ -52,7 +57,8 @@ module contains more advanced numeric tools as functions, while the
 : 0.7773632006937559
 : 1
 
-* String operations
+* Init String operations
+SCHEDULED: <2024-01-16 Tue>
 
 ** Lenght and slice
 
@@ -269,7 +275,8 @@ re.search(): Searches for a pattern anywhere in a string.
 #+RESULTS:
 : <re.Match object; span=(7, 12), match='Regex'>
 
-* Lists
+* Init TODO Lists
+SCHEDULED: <2024-01-19 Fri>
 
 A Python List is a built-in, ordered, mutable collection of elements
 or items. Each item in a list can be of any data type, including
@@ -341,7 +348,8 @@ Lists are mutable
 : ['a', 'b', 'c']
 : b
 
-* Dictionaries
+* Init TODO Dictionaries
+SCHEDULED: <2024-01-19 Fri>
 
 Is a data structure, used to to store values in key:value format. It
 is ordered, mutable and do not allow duplicates.
@@ -388,7 +396,8 @@ print({x: x**2 for x in (2, 4, 6)})
 #+RESULTS:
 : {2: 4, 4: 16, 6: 36}
 
-* Tuples
+* Init TODO Tuples
+SCHEDULED: <2024-01-23 Tue>
 
 A tuple is a built-in data type that allows you to create immutable
 sequences of values. The values or items in a tuple can be of any
