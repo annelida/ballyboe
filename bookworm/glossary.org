@@ -268,6 +268,32 @@ programming, object-oriented programming, and data types.
 
 ** Package management
 is a system that allows users to easily install, manage, and update
-packages.
+packages. =Emacs package management= relies on package archives,
+which act as online repositories that host packages.
+
+** Selenium
+Selenium is a free (open-source) automated testing framework used to
+validate web applications across different browsers and platforms. You
+can use multiple programming languages like Java, C#, Python, etc to
+create Selenium Test Scripts.
+
+** API
+An application programming interface is a way for two or more computer
+programs to communicate with each other. It is a type of software
+interface to exchange data across applications.
+
+** Application
+Application software (App) is a kind of software that performs
+specific functions for the end user by interacting directly with it.
+
+** Framework
+A framework is a structure that you can build software on. It serves
+as a foundation, so you're not starting entirely from scratch.
+
+** Selenium WebDriver
+Is an open-source collection of APIs that automates web application
+testing across different browsers using different programming
+languages.
+
 
 
