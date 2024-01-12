@@ -17,7 +17,7 @@ tags: [Emacs, packages]
 [[info:emacs#Packages][emacs#Packages]]
 
 * RAW Intro
-SCHEDULED: <2024-01-12 Fri>
+SCHEDULED: <2024-01-15 Mon>
 
 #+begin_quote
 For Emacs users, optimizing their configuration is fun and a sure way
@@ -30,9 +30,9 @@ disorganized configuration
 #+end_quote
 
 * RAW Several definitions
-SCHEDULED: <2024-01-12 Fri>
+SCHEDULED: <2024-01-15 Mon>
 :LOGBOOK:
-CLOCK: [2024-01-12 Fri 08:39]
+CLOCK: [2024-01-12 Fri 08:39]--[2024-01-12 Fri 09:40] =>  1:01
 :END:
 
 *A package* is a collection of one or more ELisp files that Emacs
@@ -76,20 +76,45 @@ packages assist with syntax highlighting, indentation, code
 navigation, project management, and interaction with the Clojure
 ecosystem.
 
-* Package menu buffer
+* RAW Manual
+SCHEDULED: <2024-01-15 Mon>
+** Creation
+** Initialization
+To install packages in Emacs, users can use the following steps: 
+
+- Enable package management by adding the following code to your Emacs
+  configuration file, typically located at ~/.emacs or
+  ~/.emacs.d/init.el:
+
+  #+begin_example
+  ;; Enable package management
+  (require 'package)
+  (add-to-list 'package-archives '("melpa" . "https://melpa.org/packages/") t)
+  (package-initialize)
+  #+end_example
+
+- Refresh the package list by running the command `M-x
+ package-refresh-contents`.
+
+- Install packages using the `M-x package-install` command followed by
+  the package name.
+
+- Once installed, packages can be loaded upon startup by adding the
+ following code to your Emacs configuration file:
+
+  #+begin_example
+  ;; Load installed packages
+  (package-initialize)
+  #+end_example
+
+** Package menu buffer
 The command ‘M-x list-packages’ brings up the “package menu”. Press
 ‘i’ to mark for installation, ‘u’ to unmark, and ‘x’ to perform the
 installation. Press ‘RET’ to read more about installing and using each
 package.
 
-* RAW Manual
-SCHEDULED: <2024-01-12 Fri>
-** Creation
-** Initialization
-Packages are most conveniently installed using the package menu but
-you can also use the command ‘M-x package-install’.
-
 ** Upload
+
 * Automatic
 * Package's sources: Elpa, Melpa
 By default, Emacs 24 or later is set up with the GnuELPA package
