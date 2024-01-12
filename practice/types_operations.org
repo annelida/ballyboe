@@ -388,3 +388,40 @@ print({x: x**2 for x in (2, 4, 6)})
 #+RESULTS:
 : {2: 4, 4: 16, 6: 36}
 
+* Tuples
+
+A tuple is a built-in data type that allows you to create immutable
+sequences of values. The values or items in a tuple can be of any
+type. Values separated by commas.
+
+#+begin_src python :results output
+  t = 12345, 54321, 'hello!'
+  print(t)
+  u = t, (1, 2, 3, 4, 5) # tuples may be nested
+  print(u)
+#+end_src
+
+#+RESULTS:
+: (12345, 54321, 'hello!')
+: ((12345, 54321, 'hello!'), (1, 2, 3, 4, 5))
+
+Tuples are immutable:
+
+#+begin_src python :results output
+  t = 12345, 54321, 'hello!'
+  t[0] = 88888
+  print(t)
+#+end_src
+
+#+RESULTS:
+ : TypeError: 'tuple' object does not support item assignment
+
+ but they can contain mutable objects:
+
+ #+begin_src python :results output
+   v = ([1, 2, 3], [3, 2, 1])
+   print(v)
+ #+end_src
+
+ #+RESULTS:
+ : ([1, 2, 3], [3, 2, 1])
