@@ -18,6 +18,13 @@ tags: [html export, mark-up]
 
 [[https://orgmode.org/manual/Markup-for-Rich-Contents.html][Official documentation]]
 
+* Header's attributes
+
+- Categories would be *C*\apitalised to /easily discern them/ from the
+  ~tags~;
+- Tag should be a *single-word*;
+
+
 * Emphasis
 
 ** Bold
