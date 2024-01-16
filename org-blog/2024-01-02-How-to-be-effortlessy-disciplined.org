@@ -3,9 +3,9 @@
 layout: page
 title: How to be effortlessy disciplined.
 tagline: "How improve your efficiency in learning"
-permalink: /meta-learning/how-be-effirtlessy-desciplined.html
+permalink: /meta-learning/how-be-effortlessy-disciplined.html
 categories: [focus, distraction, attention]
-tags: [experience, attention]
+tags: [focus, learning, attention]
 ---
 #+END_EXPORT
 
