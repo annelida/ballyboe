@@ -15,8 +15,9 @@ tags: [experience, attention]
 #+PROPERTY:header-args :results output :exports both :eval no-export
 #+CATEGORY: Meta
 #+TODO: RAW INIT TODO ACTIVE | DONE
+[[https://www.youtube.com/watch?v=Zz59q8wHECk&t=57s][Source]]
 
-* ACTIVE Intro
+* Intro
 
 I'm able to begin a task and complete it regardless of boredom or
 distractions. On a scale from 1 to 10 how much do you agree with that
@@ -33,15 +34,15 @@ you're like a sharpened sword man like a well-tempered blade because
 discipline equals Freedom.
 
 if you're new here my name is Ali. I'm a doctor turned entrepreneur
-and the author of Feelgood productivity. Which is a book about how to
-do more of what matters to you in a way that's enjoyable and
+and the author of *Feelgood productivity*. Which is a book about how
+to do more of what matters to you in a way that's enjoyable and
 meaningful and sustainable. And so in this video I want to talk
 through five science-backed evidence based methods that you can use to
 become more effortlessly disciplined. But then if you stick around
 till the end of the video we're going to talk about why actually
 focusing too much on discipline might actually be the wrong.
 
-* ACTIVE Mental contrasting
+* Mental contrasting
 
 So method number one is something called *mental contrasting*. And
 it's based on a really cool study by a psychologist called Gabrielle
@@ -81,8 +82,7 @@ the fantasy that I'm kind of aiming towards in theory that is mental
 contrasting. And that should according to the evidence improve our
 levels of discipline.
 
-** DONE Rise
-SCHEDULED: <2024-01-05 Fri>
+** Rise
 
 Now one of my favorite tools that I use everyday for tracking to
 improve my discipline is something called *rise*. And they are very
@@ -123,7 +123,7 @@ disciplin. So thank you so much *Rise* for sponsoring this video.
 All right, method number two is something really powerful as well and
 that's something I use every day in my life. And that is called
 *implementation intentions*. Now here is a cool study by psychologist
-Angela Duckworth who actually wrote the really good book "Grit". And
+Angela Duckworth, who actually wrote the really good book "Grit". And
 in the study they got a group of high school students who were going
 to take a particular exam. And first they asked everyone to visualize
 the outcome of succeeding in that exam. But then they split up the
@@ -167,7 +167,7 @@ implementation intentions I have a whole section about them in my book
 * Designing environment
 
 But let's now talk about method number three which is to reduce
-environmental friction. And the key idea here is that if you really
+/environmental/ friction. And the key idea here is that if you really
 want to effortlessly increase your discipline you've got to design
 your environment. In a way that makes it really easy. So if for
 example, you are trying to be more disciplined to go to the gym, then
@@ -179,33 +179,35 @@ buying junk food when you go to the supermarket and shoving in your
 fridge. Is a way of designing your environment in a way that makes it
 easy for you to be disciplined in that context. And I can't remember
 where this quote is from, but there's a really nice quote which is
-that /"it doesn't take much discipline to not eat a chocolate bar ff
-there are no chocolate bars in the house./ And whenever I do talks and
-speak to students and you know any any of this kind of stuff people
-always ask me like: "Oh you know I I'm I'm not I'm not disciplined
-enough" or like "how do I get more discipline in my life and I usually
-start I don't usually start with mental contrastic or implementation
-intentions it's a bit of a mouthful to explain". I usually start with
-what does your environment look like have you actually designed your
-environment in a way that makes it way easier for you to do the thing
-that you think you want to do. You know back when I was in medical
-school I would have my medical text books literally next to my desk
-rather than across the room because there's no excuse for me not to
-just pick them up if they're right next to me. But if they're all the
-way across the room and I have to walk like five steps to get there
-and take them off the bookshelf and open. That's too much friction
-whatever I can do to reduce the environmental friction of making
-something happen is going to make it way more likely that the thing
-will actually happen. And that is a way to become more effortlessly
-disciplined by not actually needing to rely on discipline and
-willpower. So if you want an action point ask yourself right now what
-is something that you are struggling with discipline in and what are
-one or two things that you can do to design your environment in a way
-that that makes it way easier for you to do the thing that you
-actually want to do.
+that
+#+begin_quote
+"it doesn't take much discipline to not eat a chocolate bar if
+there are no chocolate bars in the house".
+#+end_quote
+And whenever I do talks and speak to students and you know any any of
+this kind of stuff people always ask me like: "Oh you know I I'm I'm
+not I'm not disciplined enough" or like "how do I get more discipline
+in my life and I usually start I don't usually start with mental
+contrastic or implementation intentions it's a bit of a mouthful to
+explain". I usually start with what does your environment look like
+have you actually designed your environment in a way that makes it way
+easier for you to do the thing that you think you want to do. You know
+back when I was in medical school I would have my medical text books
+literally next to my desk rather than across the room because there's
+no excuse for me not to just pick them up if they're right next to
+me. But if they're all the way across the room and I have to walk like
+five steps to get there and take them off the bookshelf and
+open. That's too much friction whatever I can do to reduce the
+environmental friction of making something happen is going to make it
+way more likely that the thing will actually happen. And that is a way
+to become more effortlessly disciplined by not actually needing to
+rely on discipline and willpower. So if you want an action point ask
+yourself right now what is something that you are struggling with
+discipline in and what are one or two things that you can do to design
+your environment in a way that that makes it way easier for you to do
+the thing that you actually want to do.
 
-* RAW Monitoring and tracing
-SCHEDULED: <2024-01-15 Mon>
+* Monitoring and tracing
 
 All right, strategy number four is *monitoring and tracking*. And
 basically the idea here is something from management literature which
@@ -246,52 +248,50 @@ a reminder and it's also monitoring and tracking and stuff and seeing
 that streak build up for several days in a row is also profoundly
 motivating.
 
-* RAW Finding ways to enjoyable by the process or energizing
-SCHEDULED: <2024-01-15 Mon>
+* Finding ways to enjoyable by the process
 
 And now the final strategy that I want to talk about as a way of
 effortlessly increasing your discipline is to find a way to make
-whatever you're doing a little bit more enjoyable or energizing. And
-this is the core thesis of my book "Feelgood productivity". Why it's
-called "Feelgood productivity" because when we feel good we are more
-likely to be productive and this really applies to discipline as
-well. Like when was the last time you felt you needed discipline to I
-don't know watch Netflix we tend not to need discipline for those
-things because those things are inherently enjoyable. The things we
-need discipline for are the things that we don't enjoy. So you only
-need discipline to go to the gym. If you don't enjoy going to the gym,
-you only need discipline to study for your exams if you do not enjoy
-the process of studying for your exams. Now at this point a lot of
-people think well I've got to do hard stuff and we we we all have to
-do things we don't enjoy and yes it's true that we all have to do
-things that we don't enjoy at times. But there is normally an enormous
-list of things that we can do to make whatever we're doing a little
-bit more enjoyable and a little bit more energizing. The first three
-chapters of my book are play power and people so incorporating play
-and power and people into anything that you're doing. However boring
-and Grim the thing is will just automatically make it more enjoyable
-and more energizing which reduces the amount of discipline that you
-actually need to Marshall in order to do the thing. For example let's
-say you are struggling with discipline when it comes to studying for
-your exams. Ask yourself "what would this look like if it were fun,
-how can I make studying for my exams a little bit more
-enjoyable?". Could you have some Lord of the Rings instrumental music
-in the background while you're studying? Could you go to a different
-library or a coffee shop each day of the the week so it feels like
-you're going on this adventure? Could you find a way to make your
-notes aesthetically pretty and color code your timetables and stuff
-just as a way of making the process of studying a little bit more
-pleasant. Now I'm using students as an example here because we have
-all probably been students at some point in our life if we aren't
-already. But this really applies to absolutely everything in our life.
-Because when you're having fun with what you're doing productivity and
-discipline and motivation and all of that kind of stuff. Just
-automatically takes care of itself and once you've done that you
-broadly won't have to worry about discipline ever again. But one thing
-you might run into is still worrying about time management. Because
-managing our time is something we all struggle with. And you can check
-out my video over here which is about the "Trident method" which is a
-specific method that I've been using to manage my time that I've got
-an enormous value out of. So check that out over there. Thank you so
-much for watching I hope you enjoyed this video and I'll see you later
-bye-bye.
+whatever you're doing a little bit more /enjoyable/ or
+/energizing/. And this is the core thesis of my book "Feelgood
+productivity". Why it's called "Feelgood productivity" because when we
+feel good we are more likely to be productive and this really applies
+to discipline as well. Like when was the last time you felt you needed
+discipline to I don't know watch Netflix we tend not to need
+discipline for those things because those things are inherently
+enjoyable. The things we need discipline for are the things that we
+don't enjoy. So you only need discipline to go to the gym. If you
+don't enjoy going to the gym, you only need discipline to study for
+your exams if you do not enjoy the process of studying for your
+exams. Now at this point a lot of people think well I've got to do
+hard stuff and we we we all have to do things we don't enjoy and yes
+it's true that we all have to do things that we don't enjoy at
+times. But there is normally an enormous list of things that we can do
+to make whatever we're doing a little bit more enjoyable and a little
+bit more energizing. The first three chapters of my book are play
+power and people so incorporating play and power and people into
+anything that you're doing. However boring and Grim the thing is will
+just automatically make it more enjoyable and more energizing which
+reduces the amount of discipline that you actually need to Marshall in
+order to do the thing. For example let's say you are struggling with
+discipline when it comes to studying for your exams. Ask yourself
+"what would this look like if it were fun, how can I make studying for
+my exams a little bit more enjoyable?". Could you have some Lord of
+the Rings instrumental music in the background while you're studying?
+Could you go to a different library or a coffee shop each day of the
+the week so it feels like you're going on this adventure? Could you
+find a way to make your notes aesthetically pretty and color code your
+timetables and stuff just as a way of making the process of studying a
+little bit more pleasant. Now I'm using students as an example here
+because we have all probably been students at some point in our life
+if we aren't already. But this really applies to absolutely everything
+in our life.  Because when you're having fun with what you're doing
+productivity and discipline and motivation and all of that kind of
+stuff. Just automatically takes care of itself and once you've done
+that you broadly won't have to worry about discipline ever again. But
+one thing you might run into is still worrying about time
+management. Because managing our time is something we all struggle
+with. And you can check out my video over here which is about the
+"Trident method" which is a specific method that I've been using to
+manage my time that I've got an enormous value out of. So check that
+out over there.
