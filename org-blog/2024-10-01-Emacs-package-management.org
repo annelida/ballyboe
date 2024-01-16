@@ -17,7 +17,7 @@ tags: [Emacs, packages]
 [[info:emacs#Packages][emacs#Packages]]
 
 * RAW Intro
-SCHEDULED: <2024-01-15 Mon>
+SCHEDULED: <2024-01-16 Tue>
 
 #+begin_quote
 For Emacs users, optimizing their configuration is fun and a sure way
@@ -30,17 +30,22 @@ disorganized configuration
 #+end_quote
 
 * RAW Several definitions
-SCHEDULED: <2024-01-15 Mon>
+SCHEDULED: <2024-01-16 Tue>
 :LOGBOOK:
 CLOCK: [2024-01-12 Fri 08:39]--[2024-01-12 Fri 09:40] =>  1:01
 :END:
 
-*A package* is a collection of one or more ELisp files that Emacs
-searches in the folder specified by =load-path=.
-Packages can be anything from major modes and minor modes to custom
-themes and external tools integration. By leveraging these packages,
-developers can tailor Emacs to their specific needs and streamline their
-workflow. 
+*A package* A package is a collection of one or more files, formatted
+and bundled in such a way that users can easily download, install,
+uninstall, and upgrade it. Emacs searches pckages in the folder
+specified by =load-path=. Packages can be anything from major modes
+and minor modes to custom themes and external tools integration. By
+leveraging these packages, developers can tailor Emacs to their
+specific needs and streamline their workflow.
+
+A package is either a simple package or a multi-file package. A simple
+package is stored in a package archive as a single Emacs Lisp file,
+while a multi-file package is stored as a tar file.
 
 Packages installed through the distro package manager are installed to
 /usr/local/share/emacs/site-lisp/ which is a default in the load-path.
@@ -77,7 +82,7 @@ navigation, project management, and interaction with the Clojure
 ecosystem.
 
 * RAW Manual
-SCHEDULED: <2024-01-15 Mon>
+SCHEDULED: <2024-01-16 Tue>
 ** Creation
 ** Initialization
 To install packages in Emacs, users can use the following steps: 
