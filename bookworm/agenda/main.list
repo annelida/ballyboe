@@ -184,8 +184,8 @@ SCHEDULED: <2024-01-18 Thu ++1w>
    ps -ef provides a detailed listing of all processes running on the
    system, including their process ID (PID), parent process ID (PPID),
    CPU usage, memory usage, and more. 
-*** Init Process management
-SCHEDULED: <2024-01-17 Wed>
+*** Init [#B] Process management
+SCHEDULED: <2024-01-26 Fri>
 - Note taken on [2023-12-20 Wed 11:33] \\
 
   Is the technique used by organizations to analyze, optimize, monitor,
@@ -202,7 +202,7 @@ SCHEDULED: <2024-01-17 Wed>
   to control how programs interact with each other.
   
 *** Init Software management
-SCHEDULED: <2024-01-17 Wed>
+SCHEDULED: <2024-01-23 Tue>
 
 Is a science of planning and leading software projects.
 
@@ -255,7 +255,7 @@ types_operations.org
 ** Python
 
 **** Init Python: modules, relative import. 
-SCHEDULED: <2024-01-17 Wed>
+SCHEDULED: <2024-01-18 Thu>
 :PROPERTIES:
 :CATEGORY: Python
 :END:
@@ -326,10 +326,11 @@ Object's methods are functions that belong to the object.
 : The student's name is Tony Black
 
 
-**** RAW [#A] Python Unit test module description and structure.
-SCHEDULED: <2024-01-17 Wed ++2w>
+**** RAW [#A] Python Unit test module
+SCHEDULED: <2024-01-18 Thu ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-16 Thu 09:23]
+:CATEGORY: Python
 :END:
 - State "DONE"       from "ACTIVE"     [2023-11-16 Thu 09:23]
 - Note taken on [2023-10-24 Tue 09:35] \\
@@ -399,12 +400,12 @@ if __name__ == '__main__':
 #+end_example
 
 **** RAW Dictionaries
-SCHEDULED: <2024-01-17 Wed>
+SCHEDULED: <2024-01-18 Thu>
 :PROPERTIES:
 :CATEGORY: Python
 :END:
 **** RAW Tuples and Sequences
-SCHEDULED: <2024-01-17 Wed ++2w>
+SCHEDULED: <2024-01-18 Thu ++2w>
 :PROPERTIES:
 :CATEGORY: Python
 :LAST_REPEAT: [2024-01-12 Fri 11:02]
@@ -438,7 +439,7 @@ SCHEDULED: <2024-01-19 Fri ++2w>
 **** Window Registers 
 
 **** DP0 [#A] Bookmarks+ usage
-SCHEDULED: <2024-01-17 Wed ++2w>
+SCHEDULED: <2024-01-18 Thu ++2w>
 :PROPERTIES:
 :CATEGORY: Emacs
 :END:
@@ -451,7 +452,7 @@ CLOCK: [2023-12-14 Thu 09:30]--[2023-12-14 Thu 10:08] =>  0:38
 :END:
 
 **** Init [#A] Help about *eww*
-SCHEDULED: <2024-01-17 Wed>
+SCHEDULED: <2024-01-18 Thu>
 :PROPERTIES:
 :CATEGORY: Emacs
 :END:
@@ -632,7 +633,7 @@ CLOCK: [2023-10-26 Thu 07:54]--[2023-10-26 Thu 08:52] =>  0:58
 [[https://orgmode.org/manual/Structure-Templates.html][org templates structure]]
 
 **** DP1 Org-drill concept
-SCHEDULED: <2024-01-17 Wed ++2w>
+SCHEDULED: <2024-01-18 Thu ++2w>
 :PROPERTIES:
 :CATEGORY: Drill
 :END:
@@ -1178,17 +1179,18 @@ CLOCK: [2024-01-04 Thu 12:11]
   tag
   version
 **** Init "Definitions" 
-SCHEDULED: <2024-01-17 Wed>
+SCHEDULED: <2024-01-18 Thu>
 :PROPERTIES:
 :CATEGORY: Drill
 :END:
 [[file:~/git/ballyboe/bookworm/drills.org::*Definitions][Definitions]]
 **** RAW Speed-typing
-SCHEDULED: <2024-01-17 Wed ++1d>
+SCHEDULED: <2024-01-18 Thu ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-01-16 Tue 15:23]
+:LAST_REPEAT: [2024-01-17 Wed 17:20]
 :CATEGORY: Chore
 :END:
+- State "DONE"       from "Active"     [2024-01-17 Wed 17:20]
 - State "DONE"       from "Active"     [2024-01-16 Tue 15:23]
 - State "DONE"       from "Active"     [2024-01-14 Sun 12:40]
 - State "DONE"       from "Active"     [2024-01-11 Thu 16:09]
@@ -1427,14 +1429,14 @@ CLOCK: [2023-12-19 Tue 14:10]--[2023-12-19 Tue 14:10] =>  0:00
 :END:
 
 ***** RAW Mathematical models
-SCHEDULED: <2024-01-17 Wed ++2w>
+SCHEDULED: <2024-01-23 Tue ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-12-13 Wed 11:24]
 :END:
 
 - State "DONE"       from "Active"     [2023-12-13 Wed 11:24]
 ***** DP0 [#C] Logic
-SCHEDULED: <2024-01-17 Wed>
+SCHEDULED: <2024-01-27 Sat>
 :PROPERTIES:
 :CATEGORY: CS
 :END:
@@ -1443,7 +1445,7 @@ CLOCK: [2023-12-14 Thu 10:45]--[2023-12-14 Thu 11:09] =>  0:24
 :END:
 
 ****** Init Operators
-SCHEDULED: <2024-01-17 Wed>
+SCHEDULED: <2024-01-23 Tue>
 
 - Note taken on [2023-12-14 Thu 10:58] \\
   Conditional operator:
