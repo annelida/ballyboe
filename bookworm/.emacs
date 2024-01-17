@@ -100,9 +100,9 @@
  ;; Your init file should contain only one such instance.
  ;; If there is more than one, they won't work right.
  '(org-agenda-files
-   '("~/git/ballyboe/org-blog/2024-10-01-Emacs-package-management.org" "/home/vikky/git/ballyboe/org-blog/2024-02-01-How-to-be-effortlessy-disciplined.org" "/home/vikky/git/ballyboe/org-blog/2023-11-09-mark-up-with-jekyll.org" "/home/vikky/git/ballyboe/org-blog/2023-12-07-deliberate-practice.org" "/home/vikky/git/ballyboe/bookworm/agenda/lead-tasks.list" "/home/vikky/git/ballyboe/org-blog/2023-11-10-studying-methodology.org" "/home/vikky/git/ballyboe/bookworm/agenda/selenium.list" "/home/vikky/git/ballyboe/bookworm/agenda/main.list" "/home/vikky/git/ballyboe/bookworm/agenda/chores-tasks.list" "/home/vikky/git/ballyboe/bookworm/agenda/personal.list"))
+   '("/home/vikky/git/ballyboe/org-blog/2024-10-01-Emacs-package-management.org" "/home/vikky/git/ballyboe/org-blog/2023-11-09-mark-up-with-jekyll.org" "/home/vikky/git/ballyboe/org-blog/2023-12-07-deliberate-practice.org" "/home/vikky/git/ballyboe/bookworm/agenda/lead-tasks.list" "/home/vikky/git/ballyboe/org-blog/2023-11-10-studying-methodology.org" "/home/vikky/git/ballyboe/bookworm/agenda/selenium.list" "/home/vikky/git/ballyboe/bookworm/agenda/main.list" "/home/vikky/git/ballyboe/bookworm/agenda/chores-tasks.list" "/home/vikky/git/ballyboe/bookworm/agenda/personal.list"))
  '(package-selected-packages
-   '(find-file-in-project elpy org-drill pyvenv-auto exec-path-from-shell pyvenv pdf-tools org ordinal magit speed-type dictionary mw-thesaurus voca-builder go-translate key-chord ereader google-translate)))
+   '(helpful find-file-in-project elpy org-drill pyvenv-auto exec-path-from-shell pyvenv pdf-tools org ordinal magit speed-type dictionary mw-thesaurus voca-builder go-translate key-chord ereader google-translate)))
 '(browse-url-browser-function 'eww-browse-url)
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
