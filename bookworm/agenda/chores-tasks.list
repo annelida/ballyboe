@@ -13,10 +13,11 @@ CLOSED: [2023-10-26 Thu 17:32] SCHEDULED: <2023-10-29 Sun>
 Naturally, by its definition they are the routine, usual and regular
 tasks.
 * RAW [#C] Git commits purification
-SCHEDULED: <2024-01-17 Wed ++1d>
+SCHEDULED: <2024-01-18 Thu ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-01-16 Tue 15:24]
+:LAST_REPEAT: [2024-01-17 Wed 17:21]
 :END:
+- State "DONE"       from "ACTIVE"     [2024-01-17 Wed 17:21]
 - State "DONE"       from "ACTIVE"     [2024-01-16 Tue 15:24]
 - State "DONE"       from "ACTIVE"     [2024-01-14 Sun 12:41]
 - State "DONE"       from "ACTIVE"     [2024-01-12 Fri 11:09]
@@ -88,10 +89,11 @@ SCHEDULED: <2024-01-17 Wed ++1d>
 ** DONE Test
 CLOSED: [2023-11-29 Wed 18:16] SCHEDULED: <2023-11-28 Tue>
 * RAW *PUSH*
-SCHEDULED: <2024-01-17 Wed ++1d>
+SCHEDULED: <2024-01-18 Thu ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-01-16 Tue 15:23]
+:LAST_REPEAT: [2024-01-17 Wed 17:20]
 :END:
+- State "DONE"       from "ACTIVE"     [2024-01-17 Wed 17:20]
 - State "DONE"       from "ACTIVE"     [2024-01-16 Tue 15:23]
 - State "DONE"       from "ACTIVE"     [2024-01-14 Sun 12:40]
 - State "DONE"       from "ACTIVE"     [2024-01-11 Thu 16:09]
@@ -243,10 +245,11 @@ workspace:
   At the bottom left, select: Advanced - About ChromeOS - Select Check for updates.
 
 * RAW [#C] Evening meet-up
-SCHEDULED: <2024-01-17 Wed ++1d>
+SCHEDULED: <2024-01-18 Thu ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-01-16 Tue 15:24]
+:LAST_REPEAT: [2024-01-17 Wed 17:21]
 :END:
+- State "DONE"       from "ACTIVE"     [2024-01-17 Wed 17:21]
 - State "DONE"       from "ACTIVE"     [2024-01-16 Tue 15:24]
 - State "DONE"       from "ACTIVE"     [2024-01-14 Sun 12:41]
 - State "DONE"       from "ACTIVE"     [2024-01-12 Fri 10:16]
@@ -316,10 +319,11 @@ SCHEDULED: <2024-01-17 Wed ++1d>
 - State "DONE"       from "ACTIVE"     [2023-10-13 Fri 13:01]
 To discuss actual questions and find answers.
 * RAW Daily taskset schedulling
-SCHEDULED: <2024-01-17 Wed ++1d>
+SCHEDULED: <2024-01-18 Thu ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-01-16 Tue 15:23]
+:LAST_REPEAT: [2024-01-17 Wed 17:20]
 :END:
+- State "DONE"       from "ACTIVE"     [2024-01-17 Wed 17:20]
 - State "DONE"       from "ACTIVE"     [2024-01-16 Tue 15:23]
 - State "DONE"       from "ACTIVE"     [2024-01-14 Sun 12:40]
 - State "DONE"       from "ACTIVE"     [2024-01-11 Thu 16:09]
@@ -392,10 +396,11 @@ SCHEDULED: <2024-01-17 Wed ++1d>
 It might be required several times a day, but first time in the early
 morning.
 * RAW Tomorrow's agenda brush-up
-SCHEDULED: <2024-01-17 Wed ++1d>
+SCHEDULED: <2024-01-18 Thu ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-01-16 Tue 15:23]
+:LAST_REPEAT: [2024-01-17 Wed 17:20]
 :END:
+- State "DONE"       from "ACTIVE"     [2024-01-17 Wed 17:20]
 - State "DONE"       from "ACTIVE"     [2024-01-16 Tue 15:23]
 - State "DONE"       from "ACTIVE"     [2024-01-14 Sun 12:40]
 - State "DONE"       from "ACTIVE"     [2024-01-11 Thu 16:09]
@@ -476,7 +481,7 @@ Are able to alleviate the pain in your wrists and facilitate the whole
 process by significant cut of ~command typing~ time. In the another
 hand you need to foster and stimulate their usage on the regular basics.
 ** RAW Key-cord extension
-SCHEDULED: <2024-01-17 Wed ++2w>
+SCHEDULED: <2024-02-13 Tue ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-12-07 Thu 19:33]
 :END:
@@ -493,7 +498,7 @@ CLOCK: [2023-12-08 Fri 09:29]--[2023-12-08 Fri 10:22] =>  0:53
 :END:
 Re-order and get rid of any littern (sweep it out)
 * RAW YouTube into articles
-SCHEDULED: <2024-01-17 Wed ++2d/3d>
+SCHEDULED: <2024-01-18 Thu ++2d/3d>
 :PROPERTIES:
 :CATEGORY: Blogging
 :END:
