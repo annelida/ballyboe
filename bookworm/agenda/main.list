@@ -215,6 +215,43 @@ Choosing a Software Development Approach
 Avoiding Standard Software Risks
 Using Open Source Software
 
+*** Piping in Linux
+
+A =pipe= is a form of redirection (transfer of standard output to some
+other destination) that is used in Linux and other Unix-like operating
+systems to send the output of one command/program/process to another
+command/program/process for further processing.
+
+#+begin_src sh :results output
+  cd ~/git/ballyboe/practice
+  ls
+#+end_src
+
+#+RESULTS:
+#+begin_example
+brian
+myfile.py
+practice.org
+__pycache__
+script1.py
+test_projects
+tests.org
+test_str.py
+test_sum.py
+threenames.py
+types_operations.org
+#+end_example
+
+#+begin_src sh :results output
+  cd ~/git/ballyboe/practice
+  ls | grep org
+#+end_src
+
+#+RESULTS:
+: practice.org
+: tests.org
+: types_operations.org
+
 ** Python
 
 **** Init Python: modules, relative import. 
