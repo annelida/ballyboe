@@ -252,6 +252,47 @@ types_operations.org
 : tests.org
 : types_operations.org
 
+*** Init How ho check which Debian distro are you using
+SCHEDULED: <2024-01-18 Thu>
+
+#+begin_src sh :results output
+hostnamectl
+#+end_src
+
+#+RESULTS:
+:    Static hostname: penguin
+:          Icon name: computer-container
+:            Chassis: container
+:         Machine ID: 73e4ab908d9b42d3a769e1c78c811520
+:            Boot ID: c4f0569988134547bf2cfa9ad7d4983b
+:     Virtualization: lxc
+:   Operating System: Debian GNU/Linux 11 (bullseye)
+:             Kernel: Linux 6.1.55-06877-gc83437f2949f
+:       Architecture: x86-64
+
+#+begin_src sh :results output
+cat /etc/issue
+#+end_src
+
+#+RESULTS:
+: Debian GNU/Linux 11 \n \l
+: 
+
+#+begin_src sh :results output
+cat /etc/os-release
+#+end_src
+
+#+RESULTS:
+: PRETTY_NAME="Debian GNU/Linux 11 (bullseye)"
+: NAME="Debian GNU/Linux"
+: VERSION_ID="11"
+: VERSION="11 (bullseye)"
+: VERSION_CODENAME=bullseye
+: ID=debian
+: HOME_URL="https://www.debian.org/"
+: SUPPORT_URL="https://www.debian.org/support"
+: BUG_REPORT_URL="https://bugs.debian.org/"
+
 ** Python
 
 **** Init Python: modules, relative import. 
