@@ -1,5 +1,13 @@
 ;; KeyChords are below
-;; General commants
+;; General commands
+(key-chord-define-global "uu" 'null)
+(define-key key-translation-map (kbd "<key-chord> uu")  (kbd "C-x"))
+(key-chord-define-global "yy" 'null)
+(define-key key-translation-map (kbd "<key-chord> yy")  (kbd "M-x"))
+(key-chord-define-global "hh" 'null)
+(define-key key-translation-map (kbd "<key-chord> hh")  (kbd "C-h"))
+(key-chord-define-global "vv" 'null)
+(define-key key-translation-map (kbd "<key-chord> vv")  (kbd "C-c"))
 
 ;; Cursor Movement:
 (key-chord-define-global "j;"     'move-end-of-line)
