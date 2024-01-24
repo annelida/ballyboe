@@ -17,7 +17,7 @@ tags: [emacs, org-mode, org-agenda, double-loop-learning]
 #+TODO: RAW INIT TODO ACTIVE | DONE
 
 * INIT Intro
-SCHEDULED: <2024-01-22 Mon ++4d>
+SCHEDULED: <2024-01-31 Wed ++4d>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-21 Tue 18:11]
 :END:
@@ -86,7 +86,7 @@ Method. See synonyms, origin, and examples of method in sentences.
  how you receive information to best learn.
 
 * INIT Applied methodology
-SCHEDULED: <2024-01-22 Mon ++4d>
+SCHEDULED: <2024-01-30 Tue ++4d>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-20 Mon 16:13]
 :END:

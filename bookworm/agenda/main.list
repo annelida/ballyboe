@@ -159,7 +159,7 @@ SCHEDULED: <2024-02-08 Thu ++1w>
 CLOCK: [2023-12-19 Tue 09:22]--[2023-12-19 Tue 09:34] =>  0:12
 :END:
 *** RAW MAN htop
-SCHEDULED: <2024-01-18 Thu ++1w>
+SCHEDULED: <2024-01-24 Wed ++1w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-01-11 Thu 16:06]
 :END:
@@ -170,7 +170,7 @@ SCHEDULED: <2024-01-18 Thu ++1w>
 process-manager. It shows a frequently updated list of the processes
 running on a computer, normally ordered by the amount of CPU usage.
 *** RAW MAN ps
-SCHEDULED: <2024-01-18 Thu ++1w>
+SCHEDULED: <2024-01-24 Wed ++1w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-01-11 Thu 16:08]
 :END:
@@ -202,7 +202,7 @@ SCHEDULED: <2024-01-26 Fri>
   to control how programs interact with each other.
   
 *** Init Software management
-SCHEDULED: <2024-01-23 Tue>
+SCHEDULED: <2024-02-03 Sat>
 
 Is a science of planning and leading software projects.
 
@@ -253,7 +253,7 @@ types_operations.org
 : types_operations.org
 
 *** Init How ho check which Debian distro are you using
-SCHEDULED: <2024-01-18 Thu>
+SCHEDULED: <2024-01-24 Wed>
 
 #+begin_src sh :results output
 hostnamectl
@@ -296,7 +296,7 @@ cat /etc/os-release
 ** Python
 
 **** Init Python: modules, relative import. 
-SCHEDULED: <2024-01-18 Thu>
+SCHEDULED: <2024-01-24 Wed>
 :PROPERTIES:
 :CATEGORY: Python
 :END:
@@ -317,7 +317,7 @@ CLOCK: [2023-10-24 Tue 08:07]--[2023-10-24 Tue 09:32] =>  1:25
 
 
 **** RAW Python classes
-SCHEDULED: <2024-01-22 Mon>
+SCHEDULED: <2024-02-06 Tue>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-22 Wed 14:25]
 :END:
@@ -368,7 +368,7 @@ Object's methods are functions that belong to the object.
 
 
 **** RAW [#A] Python Unit test module
-SCHEDULED: <2024-01-18 Thu ++2w>
+SCHEDULED: <2024-01-24 Wed ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-16 Thu 09:23]
 :CATEGORY: Python
@@ -441,12 +441,12 @@ if __name__ == '__main__':
 #+end_example
 
 **** RAW Dictionaries
-SCHEDULED: <2024-01-18 Thu>
+SCHEDULED: <2024-01-24 Wed>
 :PROPERTIES:
 :CATEGORY: Python
 :END:
 **** RAW Tuples and Sequences
-SCHEDULED: <2024-01-18 Thu ++2w>
+SCHEDULED: <2024-01-24 Wed ++2w>
 :PROPERTIES:
 :CATEGORY: Python
 :LAST_REPEAT: [2024-01-12 Fri 11:02]
@@ -462,8 +462,8 @@ CLOCK: [2024-01-12 Fri 10:28]--[2024-01-12 Fri 11:01] =>  0:33
 **** Keys
 
 **** Embedded Help System
-**** RAW Emacs server
-SCHEDULED: <2024-01-19 Fri ++2w>
+**** DELAY Emacs server
+SCHEDULED: <2024-02-23 Fri ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-12-21 Thu 17:41]
 :END:
@@ -480,7 +480,7 @@ SCHEDULED: <2024-01-19 Fri ++2w>
 **** Window Registers 
 
 **** DP0 [#A] Bookmarks+ usage
-SCHEDULED: <2024-01-18 Thu ++2w>
+SCHEDULED: <2024-01-24 Wed ++2w>
 :PROPERTIES:
 :CATEGORY: Emacs
 :END:
@@ -493,12 +493,12 @@ CLOCK: [2023-12-14 Thu 09:30]--[2023-12-14 Thu 10:08] =>  0:38
 :END:
 
 **** Init [#A] Help about *eww*
-SCHEDULED: <2024-01-18 Thu>
+SCHEDULED: <2024-01-24 Wed>
 :PROPERTIES:
 :CATEGORY: Emacs
 :END:
 **** RAW Emacs + venv
-SCHEDULED: <2024-01-19 Fri ++3w>
+SCHEDULED: <2024-01-30 Tue ++3w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-12-04 Mon 11:10]
 :END:
@@ -544,8 +544,8 @@ CLOCK: [2023-12-19 Tue 10:56]--[2023-12-19 Tue 11:45] =>  0:49
 ***** DELAY Regular expressions syntax
 SCHEDULED: <2024-02-09 Fri>
 [[info:emacs#Regexps][emacs#Regexps]]
-**** DELAY Emacs Tramp mode
-SCHEDULED: <2024-01-18 Thu>
+**** RAW Emacs Tramp mode
+SCHEDULED: <2024-01-24 Wed>
 :PROPERTIES:
 :CATEGORY: Emacs
 :END:
@@ -613,8 +613,8 @@ CLOCK: [2024-01-11 Thu 09:48]--[2024-01-11 Thu 10:19] =>  0:31
 :END:
 ** Org-mode
 
-**** RAW [#B] Org-mode, org-babel markup rules
-SCHEDULED: <2024-01-23 Tue ++2w>
+**** DELAY [#B] Org-mode, org-babel markup rules
+SCHEDULED: <2024-01-30 Tue ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-16 Thu 15:33]
 :END:
@@ -674,7 +674,7 @@ CLOCK: [2023-10-26 Thu 07:54]--[2023-10-26 Thu 08:52] =>  0:58
 [[https://orgmode.org/manual/Structure-Templates.html][org templates structure]]
 
 **** DP1 Org-drill concept
-SCHEDULED: <2024-01-18 Thu ++2w>
+SCHEDULED: <2024-01-24 Wed ++2w>
 :PROPERTIES:
 :CATEGORY: Drill
 :END:
@@ -702,7 +702,7 @@ CLOCK: [2023-12-03 Sun 13:04]--[2023-12-03 Sun 13:32] =>  0:28
 **** Jekyll
 
 ****** TODO [#B] Org-Jekyll - configuration options
-SCHEDULED: <2024-01-20 Sat ++1m>
+SCHEDULED: <2024-01-24 Wed ++1m>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-13 Mon 14:41]
 :END:
@@ -1182,7 +1182,7 @@ SCHEDULED: <2024-02-01 Thu ++2w>
   ~git reset --hard~ it will automatically discard all the changes made
    between HEAD and the specified commit.
 :LOGBOOK:
-CLOCK: [2024-01-04 Thu 12:11]
+CLOCK: [2024-01-04 Thu 12:11]--[2024-01-04 Thu 12:13] =>  0:02
 :END:
 - Note taken on [2023-10-23 Mon 08:47] \\
   If you want to redo that commit, make the additional
@@ -1219,18 +1219,25 @@ CLOCK: [2024-01-04 Thu 12:11]
   rebase
   tag
   version
-**** Init "Definitions" 
-SCHEDULED: <2024-01-18 Thu>
+**** RAW Drill the Definitions 
+SCHEDULED: <2024-01-25 Thu ++1d>
 :PROPERTIES:
 :CATEGORY: Drill
+:LAST_REPEAT: [2024-01-24 Wed 13:25]
 :END:
-[[file:~/git/ballyboe/bookworm/drills.org::*Definitions][Definitions]]
+- State "AMPLE"      from "RAW"        [2024-01-24 Wed 13:25]
+:LOGBOOK:
+CLOCK: [2024-01-24 Wed 13:22]--[2024-01-24 Wed 13:25] =>  0:03
+:END:
+- State "AMPLE"      from ""           [2024-01-24 Wed 13:19]
+  [[file:~/git/ballyboe/bookworm/drills.org::*Definitions][Definitions]]
 **** RAW Speed-typing
-SCHEDULED: <2024-01-18 Thu ++1d>
+SCHEDULED: <2024-01-24 Wed ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-01-17 Wed 17:20]
+:LAST_REPEAT: [2024-01-23 Tue 18:39]
 :CATEGORY: Chore
 :END:
+- State "DONE"       from "Active"     [2024-01-23 Tue 18:39]
 - State "DONE"       from "Active"     [2024-01-17 Wed 17:20]
 - State "DONE"       from "Active"     [2024-01-16 Tue 15:23]
 - State "DONE"       from "Active"     [2024-01-14 Sun 12:40]
@@ -1443,7 +1450,7 @@ SCHEDULED: <2024-02-20 Tue ++2w>
 CLOCK: [2023-12-14 Thu 10:09]--[2023-12-14 Thu 10:34] =>  0:25
 :END:
 ***** RAW Python Lists
-SCHEDULED: <2024-01-23 Tue ++2w>
+SCHEDULED: <2024-01-24 Wed ++2w>
 :PROPERTIES:
 :CATEGORY: Python
 :LAST_REPEAT: [2024-01-09 Tue 15:43]
@@ -1470,7 +1477,7 @@ CLOCK: [2023-12-19 Tue 14:10]--[2023-12-19 Tue 14:10] =>  0:00
 :END:
 
 ***** RAW Mathematical models
-SCHEDULED: <2024-01-23 Tue ++2w>
+SCHEDULED: <2024-02-20 Tue ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-12-13 Wed 11:24]
 :END:
@@ -1486,7 +1493,7 @@ CLOCK: [2023-12-14 Thu 10:45]--[2023-12-14 Thu 11:09] =>  0:24
 :END:
 
 ****** Init Operators
-SCHEDULED: <2024-01-23 Tue>
+SCHEDULED: <2024-02-20 Tue>
 
 - Note taken on [2023-12-14 Thu 10:58] \\
   Conditional operator:

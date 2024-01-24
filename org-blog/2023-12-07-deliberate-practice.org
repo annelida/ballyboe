@@ -17,7 +17,7 @@ tags: [practice, double-loop-learning]
 #+TODO: RAW INIT TODO ACTIVE | DONE
 
 * TODO [#C] Preface
-SCHEDULED: <2024-01-22 Mon>
+SCHEDULED: <2024-01-24 Wed>
 :PROPERTIES:
 :END:
 
