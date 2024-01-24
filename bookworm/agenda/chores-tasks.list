@@ -13,10 +13,22 @@ CLOSED: [2023-10-26 Thu 17:32] SCHEDULED: <2023-10-29 Sun>
 Naturally, by its definition they are the routine, usual and regular
 tasks.
 * RAW [#C] Git commits purification
-SCHEDULED: <2024-01-18 Thu ++1d>
+SCHEDULED: <2024-01-24 Wed ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-01-17 Wed 17:21]
+:LAST_REPEAT: [2024-01-23 Tue 18:43]
 :END:
+:LOGBOOK:
+CLOCK: [2024-01-24 Wed 18:07]
+:END:
+- Note taken on [2024-01-24 Wed 18:00] \\
+  When you have in your unstage area more than 100 chunks to commit it
+  is difficult to cope with pile of work.
+
+  Premise: *You can only control what you see.*
+
+  So it is vital important to organize work space in some particular
+  way. So, use split window vertically and follow mode for this purpose.
+- State "DONE"       from "ACTIVE"     [2024-01-23 Tue 18:43]
 - State "DONE"       from "ACTIVE"     [2024-01-17 Wed 17:21]
 - State "DONE"       from "ACTIVE"     [2024-01-16 Tue 15:24]
 - State "DONE"       from "ACTIVE"     [2024-01-14 Sun 12:41]
