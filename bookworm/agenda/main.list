@@ -73,7 +73,11 @@ SCHEDULED: <2024-01-25 Thu>
 SCHEDULED: <2024-01-25 Thu>
 
 *** Reading aloud&record audio
-SCHEDULED: <2024-01-24 Wed>
+SCHEDULED: <2024-01-25 Thu ++1d>
+:PROPERTIES:
+:LAST_REPEAT: [2024-01-24 Wed 19:11]
+:END:
+- State "AMPLE"      from ""           [2024-01-24 Wed 19:11]
 :LOGBOOK:
 CLOCK: [2024-01-24 Wed 14:25]--[2024-01-24 Wed 15:26] =>  1:01
 :END:
@@ -85,7 +89,7 @@ CLOCK: [2024-01-24 Wed 14:25]--[2024-01-24 Wed 15:26] =>  1:01
 *** Working with transcripts
 
 **** Init [#C] "How to Learn Anything Fast: Teach Your Brain to Focus"
-SCHEDULED: <2024-01-24 Wed ++2w>
+SCHEDULED: <2024-01-25 Thu ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-29 Wed 18:19]
 :END:
@@ -143,7 +147,7 @@ CLOCK: [2023-12-20 Wed 09:55]--[2023-12-20 Wed 10:45] =>  0:50
 CLOCK: [2023-12-19 Tue 09:15]--[2023-12-19 Tue 09:18] =>  0:03
 :END:
 *** DELAY MAN df
-SCHEDULED: <2024-01-25 Thu ++1w>
+SCHEDULED: <2024-02-15 Thu ++1w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-01-11 Thu 16:03]
 :END:
@@ -185,8 +189,8 @@ SCHEDULED: <2024-02-08 Thu ++1w>
 :LOGBOOK:
 CLOCK: [2023-12-19 Tue 09:22]--[2023-12-19 Tue 09:34] =>  0:12
 :END:
-*** RAW MAN htop
-SCHEDULED: <2024-01-24 Wed ++1w>
+*** DELAY MAN htop
+SCHEDULED: <2024-02-28 Wed ++1w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-01-11 Thu 16:06]
 :END:
@@ -196,8 +200,8 @@ SCHEDULED: <2024-01-24 Wed ++1w>
 *htop* is an interactive system-monitor process-viewer and
 process-manager. It shows a frequently updated list of the processes
 running on a computer, normally ordered by the amount of CPU usage.
-*** RAW MAN ps
-SCHEDULED: <2024-01-24 Wed ++1w>
+*** DELAY MAN ps
+SCHEDULED: <2024-02-28 Wed ++1w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-01-11 Thu 16:08]
 :END:
@@ -279,8 +283,8 @@ types_operations.org
 : tests.org
 : types_operations.org
 
-*** Init How ho check which Debian distro are you using
-SCHEDULED: <2024-01-24 Wed>
+*** DELAY How ho check which Debian distro are you using
+SCHEDULED: <2024-02-28 Wed>
 
 #+begin_src sh :results output
 hostnamectl
@@ -323,7 +327,7 @@ cat /etc/os-release
 ** Python
 
 **** Init Python: modules, relative import. 
-SCHEDULED: <2024-01-24 Wed>
+SCHEDULED: <2024-02-19 Mon>
 :PROPERTIES:
 :CATEGORY: Python
 :END:
@@ -395,7 +399,7 @@ Object's methods are functions that belong to the object.
 
 
 **** RAW [#A] Python Unit test module
-SCHEDULED: <2024-01-24 Wed ++2w>
+SCHEDULED: <2024-02-19 Mon ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-16 Thu 09:23]
 :CATEGORY: Python
@@ -468,12 +472,12 @@ if __name__ == '__main__':
 #+end_example
 
 **** RAW Dictionaries
-SCHEDULED: <2024-01-24 Wed>
+SCHEDULED: <2024-02-19 Mon>
 :PROPERTIES:
 :CATEGORY: Python
 :END:
 **** RAW Tuples and Sequences
-SCHEDULED: <2024-01-24 Wed ++2w>
+SCHEDULED: <2024-02-19 Mon ++2w>
 :PROPERTIES:
 :CATEGORY: Python
 :LAST_REPEAT: [2024-01-12 Fri 11:02]
@@ -483,6 +487,9 @@ SCHEDULED: <2024-01-24 Wed ++2w>
 CLOCK: [2024-01-12 Fri 10:28]--[2024-01-12 Fri 11:01] =>  0:33
 :END:
 ** Emacs
+SCHEDULED: <2024-01-26 Fri>
+
+Fix the unneccessary indentation above VVV
 
 **** Interface
 
@@ -507,7 +514,7 @@ SCHEDULED: <2024-02-23 Fri ++2w>
 **** Window Registers 
 
 **** DP0 [#A] Bookmarks+ usage
-SCHEDULED: <2024-01-24 Wed ++2w>
+SCHEDULED: <2024-01-25 Thu ++2w>
 :PROPERTIES:
 :CATEGORY: Emacs
 :END:
@@ -575,7 +582,7 @@ CLOCK: [2023-12-19 Tue 10:56]--[2023-12-19 Tue 11:45] =>  0:49
 SCHEDULED: <2024-02-09 Fri>
 [[info:emacs#Regexps][emacs#Regexps]]
 **** RAW Emacs Tramp mode
-SCHEDULED: <2024-01-24 Wed>
+SCHEDULED: <2024-01-25 Thu>
 :PROPERTIES:
 :CATEGORY: Emacs
 :END:
@@ -661,7 +668,7 @@ SCHEDULED: <2024-01-30 Tue ++2w>
 CLOCK: [2023-11-14 Tue 15:06]--[2023-11-14 Tue 15:48] =>  0:42
 :END:
 
-**** DELAY Org-Babel configuration.
+***** DELAY Org-Babel configuration.
 SCHEDULED: <2024-02-16 Fri ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-22 Wed 08:46]
@@ -706,8 +713,8 @@ CLOCK: [2023-10-26 Thu 07:54]--[2023-10-26 Thu 08:52] =>  0:58
 [[https://www.youtube.com/watch?v=kkqVTDbfYp4][org-babel configuration]]
 [[https://orgmode.org/manual/Structure-Templates.html][org templates structure]]
 
-**** DP1 Org-drill concept
-SCHEDULED: <2024-01-24 Wed ++2w>
+***** DP1 Org-drill concept
+SCHEDULED: <2024-01-25 Thu ++2w>
 :PROPERTIES:
 :CATEGORY: Drill
 :END:
@@ -720,7 +727,7 @@ CLOCK: [2023-11-28 Tue 08:00]--[2023-11-28 Tue 08:58] =>  0:58
 https://orgmode.org/worg/org-contrib/org-drill.html
 https://orgmode.org/worg/org-contrib/org-drill.html#org51fd4f9
 
-**** DELAY Org-capture templates concept and usage
+***** DELAY Org-capture templates concept and usage
 SCHEDULED: <2024-02-07 Wed ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-12-13 Wed 17:47]
@@ -732,10 +739,10 @@ CLOCK: [2023-12-08 Fri 10:26]--[2023-12-09 Sat 10:19] => 23:53
 CLOCK: [2023-12-03 Sun 13:04]--[2023-12-03 Sun 13:32] =>  0:28
 :END:
 [[info:org#Capture templates][org#Capture templates]]
-**** Jekyll
+***** Jekyll
 
-****** TODO [#B] Org-Jekyll - configuration options
-SCHEDULED: <2024-01-24 Wed ++1m>
+******* TODO [#B] Org-Jekyll - article about initial config
+SCHEDULED: <2024-01-25 Thu ++1m>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-13 Mon 14:41]
 :END:
@@ -896,7 +903,7 @@ to the corresponding files from /_layouts folder.
 Result you can see on [[https://annelida.github.io/]]
 
 
-****** DELAY [#A] Explorations in details page's structure in Jekyll.
+******* DELAY [#A] Explorations in details page's structure in Jekyll.
 SCHEDULED: <2024-02-06 Tue>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-20 Mon 16:18]
@@ -913,7 +920,7 @@ SCHEDULED: <2024-02-06 Tue>
 CLOCK: [2023-10-22 Sun 08:21]--[2023-10-22 Sun 08:34] =>  0:13
 :END:
 
-****** What is Jekyll's Gemfile.lock (full clarification).
+******* What is Jekyll's Gemfile.lock (full clarification).
 SCHEDULED: <2024-07-18 Thu ++4w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-01-04 Thu 12:49]
@@ -925,9 +932,9 @@ SCHEDULED: <2024-07-18 Thu ++4w>
   is loaded on another machine, running bundle install will look at the
   Gemfile.lock and install the exact same versions, rather than just using
   the Gemfile and installing the most recent version.
-**** Linux
+***** Linux
 
-****** RAW Comparing files and folders in Linux/Emacs
+******* RAW Comparing files and folders in Linux/Emacs
 - Note taken on [2023-10-15 Sun 08:13] \\
 
   In Emacs:
@@ -1072,7 +1079,7 @@ You can see full result in diff buffer.
 In the Linux terminal it is possible at the same time to compare folder with files:
 $ diff -a -y dir1 dir2
 
-****** DELAY Linux symbolic links
+******* DELAY Linux symbolic links
 SCHEDULED: <2024-02-04 Sun>
 - Note taken on [2023-10-10 Tue 19:27] \\
   M-x man <enter> ln
@@ -1080,9 +1087,9 @@ SCHEDULED: <2024-02-04 Sun>
   * It allows to move the original file in safe place.
   * On the place original file it possible to leave the shortcut with
   * link to original file. For create soft link use command ln -s
-**** Git/Magit
+***** Git/Magit
 
-****** DELAY Git/Magit merge and rebase concept.
+******* DELAY Git/Magit merge and rebase concept.
 SCHEDULED: <2024-02-07 Wed>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-16 Thu 15:34]
@@ -1177,7 +1184,7 @@ CLOCK: [2023-10-25 Wed 10:36]--[2023-10-25 Wed 11:16] =>  0:40
   (ie. never rebase master). You should never rebase master onto
   a feature branch.
 
-****** RAW TODO [#A] Git/Magit undo options.
+******* RAW TODO [#A] Git/Magit undo options.
 SCHEDULED: <2024-02-01 Thu ++2w>
 :PROPERTIES:
 :CATEGORY: Git
@@ -1252,7 +1259,7 @@ CLOCK: [2024-01-04 Thu 12:11]--[2024-01-04 Thu 12:13] =>  0:02
   rebase
   tag
   version
-**** RAW Drill the Definitions 
+***** RAW Drill the Definitions 
 SCHEDULED: <2024-01-25 Thu ++1d>
 :PROPERTIES:
 :CATEGORY: Drill
@@ -1264,8 +1271,8 @@ CLOCK: [2024-01-24 Wed 13:22]--[2024-01-24 Wed 13:25] =>  0:03
 :END:
 - State "AMPLE"      from ""           [2024-01-24 Wed 13:19]
   [[file:~/git/ballyboe/bookworm/drills.org::*Definitions][Definitions]]
-**** RAW Speed-typing
-SCHEDULED: <2024-01-24 Wed ++1d>
+***** RAW Speed-typing
+SCHEDULED: <2024-01-25 Thu ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-01-23 Tue 18:39]
 :CATEGORY: Chore
@@ -1483,7 +1490,7 @@ SCHEDULED: <2024-02-20 Tue ++2w>
 CLOCK: [2023-12-14 Thu 10:09]--[2023-12-14 Thu 10:34] =>  0:25
 :END:
 ***** RAW Python Lists
-SCHEDULED: <2024-01-24 Wed ++2w>
+SCHEDULED: <2024-02-19 Mon ++2w>
 :PROPERTIES:
 :CATEGORY: Python
 :LAST_REPEAT: [2024-01-09 Tue 15:43]
