@@ -334,6 +334,12 @@ SCHEDULED: <2024-01-24 Wed ++1d>
 - State "DONE"       from "ACTIVE"     [2023-10-14 Sat 14:24]
 - State "DONE"       from "ACTIVE"     [2023-10-13 Fri 13:01]
 To discuss actual questions and find answers.
+
+* RAW Task management
+SCHEDULED: <2024-01-24 Wed>
+:LOGBOOK:
+CLOCK: [2024-01-24 Wed 08:48]--[2024-01-24 Wed 09:56] =>  1:08
+:END:
 * RAW Daily taskset schedulling
 SCHEDULED: <2024-01-24 Wed ++1d>
 :PROPERTIES:
