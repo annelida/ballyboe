@@ -89,10 +89,12 @@ SCHEDULED: <2024-01-18 Thu ++1d>
 ** DONE Test
 CLOSED: [2023-11-29 Wed 18:16] SCHEDULED: <2023-11-28 Tue>
 * RAW *PUSH*
-SCHEDULED: <2024-01-18 Thu ++1d>
+SCHEDULED: <2024-01-25 Thu ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-01-17 Wed 17:20]
+:LAST_REPEAT: [2024-01-23 Tue 18:39]
 :END:
+- State "DONE"       from "ACTIVE"     [2024-01-23 Tue 18:39]
+- State "DONE"       from "ACTIVE"     [2024-01-23 Tue 18:39]
 - State "DONE"       from "ACTIVE"     [2024-01-17 Wed 17:20]
 - State "DONE"       from "ACTIVE"     [2024-01-16 Tue 15:23]
 - State "DONE"       from "ACTIVE"     [2024-01-14 Sun 12:40]
@@ -169,7 +171,7 @@ necessary to do after some changes need to be shared with me
 urgently. Before push I can't see any changes, because all them are on
 your localhost.
 * RAW Workspace clean-up
-SCHEDULED: <2024-01-18 Thu ++1w>
+SCHEDULED: <2024-01-24 Wed ++1w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-01-11 Thu 16:09]
 :END:
@@ -203,10 +205,11 @@ workspace:
   * x to execute kill
     
 * RAW Workspace clean-up
-SCHEDULED: <2024-01-18 Thu ++1w>
+SCHEDULED: <2024-01-30 Tue ++1w>
 :PROPERTIES:
-:LAST_REPEAT: [2024-01-11 Thu 16:09]
+:LAST_REPEAT: [2024-01-23 Tue 18:43]
 :END:
+- State "DONE"       from "ACTIVE"     [2024-01-23 Tue 18:43]
 - State "DONE"       from "ACTIVE"     [2024-01-11 Thu 16:09]
 - State "DONE"       from "ACTIVE"     [2024-01-04 Thu 15:11]
 - State "DONE"       from "ACTIVE"     [2023-12-27 Wed 15:46]
@@ -245,10 +248,11 @@ workspace:
   At the bottom left, select: Advanced - About ChromeOS - Select Check for updates.
 
 * RAW [#C] Evening meet-up
-SCHEDULED: <2024-01-18 Thu ++1d>
+SCHEDULED: <2024-01-24 Wed ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-01-17 Wed 17:21]
+:LAST_REPEAT: [2024-01-23 Tue 18:43]
 :END:
+- State "DONE"       from "ACTIVE"     [2024-01-23 Tue 18:43]
 - State "DONE"       from "ACTIVE"     [2024-01-17 Wed 17:21]
 - State "DONE"       from "ACTIVE"     [2024-01-16 Tue 15:24]
 - State "DONE"       from "ACTIVE"     [2024-01-14 Sun 12:41]
@@ -319,10 +323,11 @@ SCHEDULED: <2024-01-18 Thu ++1d>
 - State "DONE"       from "ACTIVE"     [2023-10-13 Fri 13:01]
 To discuss actual questions and find answers.
 * RAW Daily taskset schedulling
-SCHEDULED: <2024-01-18 Thu ++1d>
+SCHEDULED: <2024-01-24 Wed ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-01-17 Wed 17:20]
+:LAST_REPEAT: [2024-01-23 Tue 18:39]
 :END:
+- State "DONE"       from "ACTIVE"     [2024-01-23 Tue 18:39]
 - State "DONE"       from "ACTIVE"     [2024-01-17 Wed 17:20]
 - State "DONE"       from "ACTIVE"     [2024-01-16 Tue 15:23]
 - State "DONE"       from "ACTIVE"     [2024-01-14 Sun 12:40]
@@ -396,10 +401,11 @@ SCHEDULED: <2024-01-18 Thu ++1d>
 It might be required several times a day, but first time in the early
 morning.
 * RAW Tomorrow's agenda brush-up
-SCHEDULED: <2024-01-18 Thu ++1d>
+SCHEDULED: <2024-01-24 Wed ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-01-17 Wed 17:20]
+:LAST_REPEAT: [2024-01-23 Tue 18:39]
 :END:
+- State "DONE"       from "ACTIVE"     [2024-01-23 Tue 18:39]
 - State "DONE"       from "ACTIVE"     [2024-01-17 Wed 17:20]
 - State "DONE"       from "ACTIVE"     [2024-01-16 Tue 15:23]
 - State "DONE"       from "ACTIVE"     [2024-01-14 Sun 12:40]
@@ -498,7 +504,7 @@ CLOCK: [2023-12-08 Fri 09:29]--[2023-12-08 Fri 10:22] =>  0:53
 :END:
 Re-order and get rid of any littern (sweep it out)
 * RAW YouTube into articles
-SCHEDULED: <2024-01-18 Thu ++2d/3d>
+SCHEDULED: <2024-01-29 Mon ++2d/3d>
 :PROPERTIES:
 :CATEGORY: Blogging
 :END:

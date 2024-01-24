@@ -99,6 +99,7 @@
  ;; If you edit it by hand, you could mess it up, so be careful.
  ;; Your init file should contain only one such instance.
  ;; If there is more than one, they won't work right.
+ '(bmkp-last-as-first-bookmark-file "~/.emacs.d/bookmarks")
  '(org-agenda-files
    '("/home/vikky/git/ballyboe/org-blog/2024-10-01-Emacs-package-management.org" "/home/vikky/git/ballyboe/org-blog/2023-11-09-mark-up-with-jekyll.org" "/home/vikky/git/ballyboe/org-blog/2023-12-07-deliberate-practice.org" "/home/vikky/git/ballyboe/bookworm/agenda/lead-tasks.list" "/home/vikky/git/ballyboe/org-blog/2023-11-10-studying-methodology.org" "/home/vikky/git/ballyboe/bookworm/agenda/selenium.list" "/home/vikky/git/ballyboe/bookworm/agenda/main.list" "/home/vikky/git/ballyboe/bookworm/agenda/chores-tasks.list" "/home/vikky/git/ballyboe/bookworm/agenda/personal.list"))
  '(package-selected-packages
