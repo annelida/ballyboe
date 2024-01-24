@@ -17,7 +17,7 @@ tags: [Emacs, packages]
 [[info:emacs#Packages][emacs#Packages]]
 
 * RAW Intro
-SCHEDULED: <2024-01-24 Wed>
+SCHEDULED: <2024-01-25 Thu>
 
 #+begin_quote
 For Emacs users, optimizing their configuration is fun and a sure way
@@ -30,7 +30,7 @@ disorganized configuration
 #+end_quote
 
 * RAW Several definitions
-SCHEDULED: <2024-01-24 Wed>
+SCHEDULED: <2024-01-25 Thu>
 :LOGBOOK:
 CLOCK: [2024-01-12 Fri 08:39]--[2024-01-12 Fri 09:40] =>  1:01
 :END:
@@ -82,7 +82,7 @@ navigation, project management, and interaction with the Clojure
 ecosystem.
 
 * RAW Manual
-SCHEDULED: <2024-01-24 Wed>
+SCHEDULED: <2024-01-25 Thu>
 ** Creation
 ** Initialization
 To install packages in Emacs, users can use the following steps: 
