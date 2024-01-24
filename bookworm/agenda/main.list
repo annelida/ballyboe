@@ -638,9 +638,12 @@ CLOCK: [2024-01-11 Thu 09:48]--[2024-01-11 Thu 10:19] =>  0:31
 :PROPERTIES:
 :CATEGORY: Emacs
 :END:
-** Org-mode
+*** Customizing
+SCHEDULED: <2024-01-30 Tue>
+[[info:emacs#Keyboard Macros][emacs#Keyboard Macros]]
+*** Org-mode
 
-**** DELAY [#B] Org-mode, org-babel markup rules
+***** DELAY [#B] Org-mode, org-babel markup rules
 SCHEDULED: <2024-01-30 Tue ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-16 Thu 15:33]

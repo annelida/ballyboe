@@ -182,6 +182,18 @@ Initially it should be accomplished daily. Sometimes it would be
 necessary to do after some changes need to be shared with me
 urgently. Before push I can't see any changes, because all them are on
 your localhost.
+* Tomorrow begins today
+SCHEDULED: <2024-01-25 Thu ++1d>
+:LOGBOOK:
+CLOCK: [2024-01-24 Wed 19:04]--[2024-01-24 Wed 19:28] =>  0:24
+:END:
+Preparation for a new day. It would be clear and fun to make-up you
+and your workspace for tomorrow:
+
+- A minor cleansing;
+  figure out what are unnecessary and get rid of it.
+- Re-arrange tasks;
+
 * RAW Workspace clean-up
 SCHEDULED: <2024-01-24 Wed ++1w>
 :PROPERTIES:
