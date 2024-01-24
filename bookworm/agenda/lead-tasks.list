@@ -11,7 +11,7 @@
 #+TODO: RAW Init DP0 Todo DP1 Active | DONE
 
 * Init [#A] Genuine source of knowledge
-SCHEDULED: <2024-01-24 Wed ++1d>
+SCHEDULED: <2024-01-25 Thu ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-01-23 Tue 18:38]
 :END:
@@ -71,7 +71,7 @@ about how the program works are:
 
 --* INIT Conclusion*: the wisest decision is just to use it properly!
 * Init [#A] Deliberate practice
-SCHEDULED: <2024-01-24 Wed ++1d>
+SCHEDULED: <2024-01-25 Thu ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-01-23 Tue 18:38]
 :END:
@@ -204,7 +204,7 @@ Stack-Overflow suggestions and notes. Bear this fact in mind do your
 job as it would be done in a sure and fire manner.
 
 ** RAW [#A] *Python* embedded help system
-SCHEDULED: <2024-01-25 Thu ++2d/3d>
+SCHEDULED: <2024-02-15 Thu ++2d/3d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-01-23 Tue 18:38]
 :CATEGORY: Python
@@ -286,7 +286,7 @@ CLOCK: [2023-10-14 Sat 07:30]--[2023-10-14 Sat 08:27] =>  0:57
 Very straighforward system out from 10 initial keys to use in embedded
 *Help* browser.OA To use several *Help* buffers use =M-x raname uniquely=
 * Init [#A] Help about *info*
-SCHEDULED: <2024-01-24 Wed ++1d>
+SCHEDULED: <2024-01-25 Thu ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-01-23 Tue 18:38]
 :CATEGORY: Emacs

@@ -7,18 +7,20 @@
 #+STARTUP: showall indent
 #+PROPERTY: header-args :comments org
 #+CATEGORY: Chore
+#+TODO: | AMPLE
 #+TODO: RAW INIT TODO ACTIVE | DONE
+#+TODO: DELAY LAG RETARD | BARE
 * DONE What is chores
 CLOSED: [2023-10-26 Thu 17:32] SCHEDULED: <2023-10-29 Sun>
 Naturally, by its definition they are the routine, usual and regular
 tasks.
 * RAW [#C] Git commits purification
-SCHEDULED: <2024-01-24 Wed ++1d>
+SCHEDULED: <2024-01-25 Thu ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-01-23 Tue 18:43]
 :END:
 :LOGBOOK:
-CLOCK: [2024-01-24 Wed 18:07]
+CLOCK: [2024-01-24 Wed 18:07]--[2024-01-24 Wed 18:57] =>  0:50
 :END:
 - Note taken on [2024-01-24 Wed 18:00] \\
   When you have in your unstage area more than 100 chunks to commit it
@@ -195,9 +197,12 @@ and your workspace for tomorrow:
 - Re-arrange tasks;
 
 * RAW Workspace clean-up
-SCHEDULED: <2024-01-24 Wed ++1w>
+SCHEDULED: <2024-01-25 Thu ++1w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-01-11 Thu 16:09]
+:END:
+:LOGBOOK:
+CLOCK: [2024-01-24 Wed 18:57]--[2024-01-24 Wed 19:04] =>  0:07
 :END:
 - State "DONE"       from "ACTIVE"     [2024-01-11 Thu 16:09]
 - State "DONE"       from "ACTIVE"     [2024-01-04 Thu 15:11]
@@ -272,9 +277,12 @@ workspace:
   At the bottom left, select: Advanced - About ChromeOS - Select Check for updates.
 
 * RAW [#C] Evening meet-up
-SCHEDULED: <2024-01-24 Wed ++1d>
+SCHEDULED: <2024-01-25 Thu ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-01-23 Tue 18:43]
+:END:
+:LOGBOOK:
+CLOCK: [2024-01-24 Wed 18:57]--[2024-01-24 Wed 18:57] =>  0:00
 :END:
 - State "DONE"       from "ACTIVE"     [2024-01-23 Tue 18:43]
 - State "DONE"       from "ACTIVE"     [2024-01-17 Wed 17:21]
@@ -348,12 +356,12 @@ SCHEDULED: <2024-01-24 Wed ++1d>
 To discuss actual questions and find answers.
 
 * RAW Task management
-SCHEDULED: <2024-01-24 Wed>
+SCHEDULED: <2024-01-25 Thu>
 :LOGBOOK:
 CLOCK: [2024-01-24 Wed 08:48]--[2024-01-24 Wed 09:56] =>  1:08
 :END:
 * RAW Daily taskset schedulling
-SCHEDULED: <2024-01-24 Wed ++1d>
+SCHEDULED: <2024-01-25 Thu ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-01-23 Tue 18:39]
 :END:
@@ -430,10 +438,13 @@ SCHEDULED: <2024-01-24 Wed ++1d>
 - State "DONE"       from "ACTIVE"     [2023-10-13 Fri 13:03]
 It might be required several times a day, but first time in the early
 morning.
-* RAW Tomorrow's agenda brush-up
+* Tomorrow's agenda brush-up
 SCHEDULED: <2024-01-24 Wed ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-01-23 Tue 18:39]
+:END:
+:LOGBOOK:
+CLOCK: [2024-01-24 Wed 19:29]--[2024-01-24 Wed 19:33] =>  0:04
 :END:
 - State "DONE"       from "ACTIVE"     [2024-01-23 Tue 18:39]
 - State "DONE"       from "ACTIVE"     [2024-01-17 Wed 17:20]
