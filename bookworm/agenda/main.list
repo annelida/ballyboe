@@ -246,6 +246,12 @@ Choosing a Software Development Approach
 Avoiding Standard Software Risks
 Using Open Source Software
 
+*** RAW =helpful= package usage
+SCHEDULED: <2024-01-26 Fri>
+
+*** RAW =ivy= package usage
+SCHEDULED: <2024-01-26 Fri>
+
 *** Piping in Linux
 
 A =pipe= is a form of redirection (transfer of standard output to some
@@ -639,6 +645,13 @@ SCHEDULED: <2024-02-11 Sun>
 CLOCK: [2024-01-10 Wed 08:31]--[2024-01-10 Wed 10:03] =>  1:32
 :END:
 
+**** RAW Emacs marks
+SCHEDULED: <2024-01-25 Thu>
+**** RAW Help about *Dired mode*
+SCHEDULED: <2024-01-26 Fri>
+**** RAW Multi-frame workplace
+SCHEDULED: <2024-01-25 Thu>
+
 **** DELAY File searching in different Git branches 
 SCHEDULED: <2024-02-15 Thu>
 :LOGBOOK:
@@ -727,18 +740,23 @@ CLOCK: [2023-11-28 Tue 08:00]--[2023-11-28 Tue 08:58] =>  0:58
 https://orgmode.org/worg/org-contrib/org-drill.html
 https://orgmode.org/worg/org-contrib/org-drill.html#org51fd4f9
 
-***** DELAY Org-capture templates concept and usage
-SCHEDULED: <2024-02-07 Wed ++2w>
+***** Init Org-capture templates usage
+SCHEDULED: <2024-01-25 Thu ++2w>
 :PROPERTIES:
-:LAST_REPEAT: [2023-12-13 Wed 17:47]
+:LAST_REPEAT: [2024-01-25 Thu 11:48]
 :END:
+- State "AMPLE"      from "DELAY"      [2024-01-25 Thu 11:48]
+- State "AMPLE"      from "DELAY"      [2024-01-25 Thu 11:48]
 - State "DONE"       from "Active"     [2023-12-13 Wed 17:47]
 - State "DONE"       from "Active"     [2023-12-04 Mon 11:20]
 :LOGBOOK:
+CLOCK: [2024-01-25 Thu 14:40]--[2024-01-25 Thu 15:02] =>  0:22
+CLOCK: [2024-01-25 Thu 11:49]--[2024-01-25 Thu 11:51] =>  0:02
 CLOCK: [2023-12-08 Fri 10:26]--[2023-12-09 Sat 10:19] => 23:53
 CLOCK: [2023-12-03 Sun 13:04]--[2023-12-03 Sun 13:32] =>  0:28
 :END:
 [[info:org#Capture templates][org#Capture templates]]
+
 ***** Jekyll
 
 ******* TODO [#B] Org-Jekyll - article about initial config
