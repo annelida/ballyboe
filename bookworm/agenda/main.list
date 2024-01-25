@@ -54,6 +54,9 @@ SCHEDULED: <2024-02-14 Wed>
 **** New article
 ***** Header
 SCHEDULED: <2024-01-25 Thu>
+:LOGBOOK:
+CLOCK: [2024-01-25 Thu 11:51]--[2024-01-25 Thu 12:13] =>  0:22
+:END:
 ***** Preface
 SCHEDULED: <2024-01-25 Thu>
 ***** Raw TOC
@@ -71,17 +74,24 @@ SCHEDULED: <2024-01-25 Thu>
 :END:
 **** Task Management
 SCHEDULED: <2024-01-25 Thu>
+:LOGBOOK:
+CLOCK: [2024-01-25 Thu 13:59]--[2024-01-25 Thu 14:39] =>  0:40
+CLOCK: [2024-01-25 Thu 12:24]--[2024-01-25 Thu 12:48] =>  0:24
+:END:
 
 *** Reading aloud&record audio
 SCHEDULED: <2024-01-25 Thu ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-01-24 Wed 19:11]
+:CATEGORY: English
 :END:
 - State "AMPLE"      from ""           [2024-01-24 Wed 19:11]
 :LOGBOOK:
 CLOCK: [2024-01-24 Wed 14:25]--[2024-01-24 Wed 15:26] =>  1:01
 :END:
 
+*** Work with vocabulary
+SCHEDULED: <2024-01-25 Thu>
 **** Matilda
 
 **** Philosophy of Software Design
@@ -329,7 +339,6 @@ cat /etc/os-release
 : HOME_URL="https://www.debian.org/"
 : SUPPORT_URL="https://www.debian.org/support"
 : BUG_REPORT_URL="https://bugs.debian.org/"
-
 ** Python
 
 **** Init Python: modules, relative import. 
@@ -518,8 +527,7 @@ SCHEDULED: <2024-02-23 Fri ++2w>
 **** Registers
 
 **** Window Registers 
-
-**** DP0 [#A] Bookmarks+ usage
+**** DP0 [#B] Bookmarks+ usage
 SCHEDULED: <2024-01-25 Thu ++2w>
 :PROPERTIES:
 :CATEGORY: Emacs
@@ -535,7 +543,7 @@ Bookmark all available places on ~localhost~ and in the ~WWW~
 
 #DP requires preparation with definition goals and approaches
 
-**** Init [#A] Help about *eww*
+**** Init [#B] Help about *eww*
 SCHEDULED: <2024-01-25 Thu>
 :PROPERTIES:
 :CATEGORY: Emacs
@@ -601,6 +609,7 @@ SCHEDULED: <2024-01-25 Thu>
 
   (or /method:user@remotehost:filename)
   C-x C-f /ssh:root@example.com:~/
+
 **** DELAY Search file by the name or content in file system
 SCHEDULED: <2024-02-11 Sun>
 :PROPERTIES:
@@ -1296,11 +1305,14 @@ SCHEDULED: <2024-01-25 Thu>
 :CATEGORY: Learning Python
 :END:
 
-**** RAW A Python Q&A Session
-SCHEDULED: <2024-01-26 Fri ++2w>
+**** DELAY A Python Q&A Session
+SCHEDULED: <2024-03-08 Fri ++2w>
 :PROPERTIES:
-:LAST_REPEAT: [2023-11-27 Mon 17:35]
+:LAST_REPEAT: [2024-01-25 Thu 11:34]
 :END:
+- State "AMPLE"      from "RAW"        [2024-01-25 Thu 11:34]
+- State "AMPLE"      from "RAW"        [2024-01-25 Thu 11:34]
+- State "DONE"       from "Active"     [2024-01-25 Thu 11:34]
 - State "DONE"       from "Active"     [2023-11-27 Mon 17:35]
 - State "DONE"       from "Active"     [2023-11-27 Mon 17:35]
 - State "DONE"       from "ACTIVE"     [2023-11-13 Mon 13:24]
