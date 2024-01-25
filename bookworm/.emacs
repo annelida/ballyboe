@@ -101,7 +101,7 @@
  ;; If there is more than one, they won't work right.
  '(bmkp-last-as-first-bookmark-file "~/.emacs.d/bookmarks")
  '(org-agenda-files
-   '("/home/vikky/git/ballyboe/org-blog/2024-10-01-Emacs-package-management.org" "/home/vikky/git/ballyboe/org-blog/2023-11-09-mark-up-with-jekyll.org" "/home/vikky/git/ballyboe/org-blog/2023-12-07-deliberate-practice.org" "/home/vikky/git/ballyboe/bookworm/agenda/lead-tasks.list" "/home/vikky/git/ballyboe/org-blog/2023-11-10-studying-methodology.org" "/home/vikky/git/ballyboe/bookworm/agenda/selenium.list" "/home/vikky/git/ballyboe/bookworm/agenda/main.list" "/home/vikky/git/ballyboe/bookworm/agenda/chores-tasks.list" "/home/vikky/git/ballyboe/bookworm/agenda/personal.list"))
+   '("~/git/ballyboe/org-blog/2024-01-25-Task-management.org" "/home/vikky/git/ballyboe/org-blog/2024-10-01-Emacs-package-management.org" "/home/vikky/git/ballyboe/org-blog/2023-11-09-mark-up-with-jekyll.org" "/home/vikky/git/ballyboe/org-blog/2023-12-07-deliberate-practice.org" "/home/vikky/git/ballyboe/bookworm/agenda/lead-tasks.list" "/home/vikky/git/ballyboe/org-blog/2023-11-10-studying-methodology.org" "/home/vikky/git/ballyboe/bookworm/agenda/selenium.list" "/home/vikky/git/ballyboe/bookworm/agenda/main.list" "/home/vikky/git/ballyboe/bookworm/agenda/chores-tasks.list" "/home/vikky/git/ballyboe/bookworm/agenda/personal.list"))
  '(package-selected-packages
    '(helpful find-file-in-project elpy org-drill pyvenv-auto exec-path-from-shell pyvenv pdf-tools org ordinal magit speed-type dictionary mw-thesaurus voca-builder go-translate key-chord ereader google-translate)))
 '(browse-url-browser-function 'eww-browse-url)
