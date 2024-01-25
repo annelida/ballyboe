@@ -20,6 +20,7 @@ SCHEDULED: <2024-01-25 Thu ++1d>
 :LAST_REPEAT: [2024-01-23 Tue 18:43]
 :END:
 :LOGBOOK:
+CLOCK: [2024-01-25 Thu 15:09]
 CLOCK: [2024-01-24 Wed 18:07]--[2024-01-24 Wed 18:57] =>  0:50
 :END:
 - Note taken on [2024-01-24 Wed 18:00] \\
@@ -360,10 +361,13 @@ SCHEDULED: <2024-01-25 Thu>
 :LOGBOOK:
 CLOCK: [2024-01-24 Wed 08:48]--[2024-01-24 Wed 09:56] =>  1:08
 :END:
-* RAW Daily taskset schedulling
+* RAW [#A] Daily taskset schedulling
 SCHEDULED: <2024-01-25 Thu ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-01-23 Tue 18:39]
+:END:
+:LOGBOOK:
+CLOCK: [2024-01-25 Thu 10:36]--[2024-01-25 Thu 10:45] =>  0:09
 :END:
 - State "DONE"       from "ACTIVE"     [2024-01-23 Tue 18:39]
 - State "DONE"       from "ACTIVE"     [2024-01-17 Wed 17:20]
