@@ -14,13 +14,14 @@
 CLOSED: [2023-10-26 Thu 17:32] SCHEDULED: <2023-10-29 Sun>
 Naturally, by its definition they are the routine, usual and regular
 tasks.
-* RAW [#C] Git commits purification
-SCHEDULED: <2024-01-25 Thu ++1d>
+* Git commits purification
+SCHEDULED: <2024-01-26 Fri ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-01-23 Tue 18:43]
+:LAST_REPEAT: [2024-01-25 Thu 18:40]
 :END:
+- State "AMPLE"      from "DELAY"      [2024-01-25 Thu 18:40]
 :LOGBOOK:
-CLOCK: [2024-01-25 Thu 15:09]
+CLOCK: [2024-01-25 Thu 15:09]--[2024-01-25 Thu 15:34] =>  0:25
 CLOCK: [2024-01-24 Wed 18:07]--[2024-01-24 Wed 18:57] =>  0:50
 :END:
 - Note taken on [2024-01-24 Wed 18:00] \\
@@ -103,11 +104,12 @@ CLOCK: [2024-01-24 Wed 18:07]--[2024-01-24 Wed 18:57] =>  0:50
 - State "DONE"       from "ACTIVE"     [2023-10-13 Fri 13:02]
 ** DONE Test
 CLOSED: [2023-11-29 Wed 18:16] SCHEDULED: <2023-11-28 Tue>
-* RAW *PUSH*
-SCHEDULED: <2024-01-25 Thu ++1d>
+* *PUSH*
+SCHEDULED: <2024-01-26 Fri ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-01-23 Tue 18:39]
+:LAST_REPEAT: [2024-01-25 Thu 18:37]
 :END:
+- State "AMPLE"      from "DELAY"      [2024-01-25 Thu 18:37]
 - State "DONE"       from "ACTIVE"     [2024-01-23 Tue 18:39]
 - State "DONE"       from "ACTIVE"     [2024-01-23 Tue 18:39]
 - State "DONE"       from "ACTIVE"     [2024-01-17 Wed 17:20]
@@ -186,8 +188,13 @@ necessary to do after some changes need to be shared with me
 urgently. Before push I can't see any changes, because all them are on
 your localhost.
 * Tomorrow begins today
-SCHEDULED: <2024-01-25 Thu ++1d>
+SCHEDULED: <2024-01-26 Fri ++1d>
+:PROPERTIES:
+:LAST_REPEAT: [2024-01-25 Thu 18:37]
+:END:
+- State "AMPLE"      from ""           [2024-01-25 Thu 18:37]
 :LOGBOOK:
+CLOCK: [2024-01-25 Thu 18:20]--[2024-01-25 Thu 18:34] =>  0:14
 CLOCK: [2024-01-24 Wed 19:04]--[2024-01-24 Wed 19:28] =>  0:24
 :END:
 Preparation for a new day. It would be clear and fun to make-up you
@@ -197,11 +204,12 @@ and your workspace for tomorrow:
   figure out what are unnecessary and get rid of it.
 - Re-arrange tasks;
 
-* RAW Workspace clean-up
-SCHEDULED: <2024-01-25 Thu ++1w>
+* Workspace clean-up
+SCHEDULED: <2024-01-26 Fri ++1w>
 :PROPERTIES:
-:LAST_REPEAT: [2024-01-11 Thu 16:09]
+:LAST_REPEAT: [2024-01-25 Thu 18:37]
 :END:
+- State "AMPLE"      from "DELAY"      [2024-01-25 Thu 18:37]
 :LOGBOOK:
 CLOCK: [2024-01-24 Wed 18:57]--[2024-01-24 Wed 19:04] =>  0:07
 :END:
@@ -277,11 +285,12 @@ workspace:
   At the bottom right, select the time - Settings
   At the bottom left, select: Advanced - About ChromeOS - Select Check for updates.
 
-* RAW [#C] Evening meet-up
-SCHEDULED: <2024-01-25 Thu ++1d>
+* Evening meet-up
+SCHEDULED: <2024-01-26 Fri ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-01-23 Tue 18:43]
+:LAST_REPEAT: [2024-01-25 Thu 18:40]
 :END:
+- State "AMPLE"      from "DELAY"      [2024-01-25 Thu 18:40]
 :LOGBOOK:
 CLOCK: [2024-01-24 Wed 18:57]--[2024-01-24 Wed 18:57] =>  0:00
 :END:
@@ -356,16 +365,17 @@ CLOCK: [2024-01-24 Wed 18:57]--[2024-01-24 Wed 18:57] =>  0:00
 - State "DONE"       from "ACTIVE"     [2023-10-13 Fri 13:01]
 To discuss actual questions and find answers.
 
-* RAW Task management
+* AMPLE Task management
 SCHEDULED: <2024-01-25 Thu>
 :LOGBOOK:
 CLOCK: [2024-01-24 Wed 08:48]--[2024-01-24 Wed 09:56] =>  1:08
 :END:
-* RAW [#A] Daily taskset schedulling
-SCHEDULED: <2024-01-25 Thu ++1d>
+* Daily taskset schedulling
+SCHEDULED: <2024-01-26 Fri ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-01-23 Tue 18:39]
+:LAST_REPEAT: [2024-01-25 Thu 18:22]
 :END:
+- State "AMPLE"      from ""           [2024-01-25 Thu 18:22]
 :LOGBOOK:
 CLOCK: [2024-01-25 Thu 10:36]--[2024-01-25 Thu 10:45] =>  0:09
 :END:
@@ -443,10 +453,11 @@ CLOCK: [2024-01-25 Thu 10:36]--[2024-01-25 Thu 10:45] =>  0:09
 It might be required several times a day, but first time in the early
 morning.
 * Tomorrow's agenda brush-up
-SCHEDULED: <2024-01-24 Wed ++1d>
+SCHEDULED: <2024-01-26 Fri ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-01-23 Tue 18:39]
+:LAST_REPEAT: [2024-01-25 Thu 18:22]
 :END:
+- State "AMPLE"      from "RAW"        [2024-01-25 Thu 18:22]
 :LOGBOOK:
 CLOCK: [2024-01-24 Wed 19:29]--[2024-01-24 Wed 19:33] =>  0:04
 :END:
@@ -558,12 +569,13 @@ https://www.youtube.com/watch?v=lcyHC9HLTzc&list=PLdGzcof2XV5oRreuRZByoN1oG8q_f_
 * DONE Google credentials add to blog
 SCHEDULED: <2024-01-07 Sun>
 * DONE Fix all headers in articles
-* RAW Speed-typing
-SCHEDULED: <2024-01-25 Thu ++1d>
+* Speed-typing
+SCHEDULED: <2024-01-26 Fri ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-01-23 Tue 18:39]
+:LAST_REPEAT: [2024-01-25 Thu 18:32]
 :CATEGORY: Chore
 :END:
+- State "AMPLE"      from ""           [2024-01-25 Thu 18:32]
 - State "DONE"       from "Active"     [2024-01-23 Tue 18:39]
 - State "DONE"       from "Active"     [2024-01-17 Wed 17:20]
 - State "DONE"       from "Active"     [2024-01-16 Tue 15:23]
@@ -618,7 +630,7 @@ SCHEDULED: <2023-12-19 Tue>
 SCHEDULED: <2024-01-15 Mon>
 
 * Drill the Definitions 
-SCHEDULED: <2024-01-25 Thu ++1d>
+SCHEDULED: <2024-01-26 Fri ++1d>
 :PROPERTIES:
 :CATEGORY: Drill
 :LAST_REPEAT: [2024-01-24 Wed 13:25]
@@ -647,7 +659,10 @@ SCHEDULED: <2024-01-28 Sun ++3d/4d>
 :LOGBOOK:
 CLOCK: [2024-01-25 Thu 10:45]--[2024-01-25 Thu 10:58] =>  0:13
 :END:
-* Delete TODO states for all Chores
+* AMPLE Delete TODO states for all Chores
 SCHEDULED: <2024-01-25 Thu>
-* Add in all agenda files chain of TODOs states with AMPLE
+:LOGBOOK:
+CLOCK: [2024-01-25 Thu 18:34]--[2024-01-25 Thu 18:45] =>  0:11
+:END:
+* AMPLE Add in all agenda files chain of TODOs states with AMPLE
 SCHEDULED: <2024-01-25 Thu>
