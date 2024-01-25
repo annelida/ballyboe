@@ -554,6 +554,96 @@ https://www.youtube.com/watch?v=lcyHC9HLTzc&list=PLdGzcof2XV5oRreuRZByoN1oG8q_f_
 * DONE Google credentials add to blog
 SCHEDULED: <2024-01-07 Sun>
 * DONE Fix all headers in articles
+* RAW Speed-typing
+SCHEDULED: <2024-01-25 Thu ++1d>
+:PROPERTIES:
+:LAST_REPEAT: [2024-01-23 Tue 18:39]
+:CATEGORY: Chore
+:END:
+- State "DONE"       from "Active"     [2024-01-23 Tue 18:39]
+- State "DONE"       from "Active"     [2024-01-17 Wed 17:20]
+- State "DONE"       from "Active"     [2024-01-16 Tue 15:23]
+- State "DONE"       from "Active"     [2024-01-14 Sun 12:40]
+- State "DONE"       from "Active"     [2024-01-11 Thu 16:09]
+- State "DONE"       from "Active"     [2024-01-10 Wed 15:17]
+- State "DONE"       from "Active"     [2024-01-09 Tue 15:42]
+- State "DONE"       from "Active"     [2023-12-25 Mon 13:22]
+- State "DONE"       from "Active"     [2023-12-22 Fri 14:50]
+- State "DONE"       from "Active"     [2023-12-21 Thu 17:39]
+- State "DONE"       from "Active"     [2023-12-20 Wed 18:45]
+- State "DONE"       from "Active"     [2023-12-19 Tue 17:58]
+- State "DONE"       from "Active"     [2023-12-18 Mon 19:56]
+- State "DONE"       from "Active"     [2023-12-17 Sun 18:15]
+- State "DONE"       from "Active"     [2023-12-16 Sat 16:38]
+- State "DONE"       from "Active"     [2023-12-15 Fri 16:21]
+- State "DONE"       from "Active"     [2023-12-14 Thu 18:20]
+- State "DONE"       from "Active"     [2023-12-13 Wed 17:48]
+- State "DONE"       from "Active"     [2023-12-12 Tue 19:19]
+- State "DONE"       from "Active"     [2023-12-11 Mon 18:23]
+- State "DONE"       from "Active"     [2023-12-10 Sun 18:53]
+- State "DONE"       from "Active"     [2023-12-09 Sat 17:51]
+- State "DONE"       from "Active"     [2023-12-07 Thu 19:32]
+- State "DONE"       from "Active"     [2023-12-06 Wed 16:12]
+- State "DONE"       from "Active"     [2023-12-05 Tue 14:59]
+- State "DONE"       from "Active"     [2023-12-04 Mon 11:11]
+- State "DONE"       from "Active"     [2023-11-29 Wed 18:16]
+- State "DONE"       from "Active"     [2023-11-29 Wed 18:15]
+- State "DONE"       from "Active"     [2023-11-29 Wed 18:15]
+- State "DONE"       from "Active"     [2023-11-27 Mon 17:35]
+- State "DONE"       from "Active"     [2023-11-25 Sat 17:47]
+- State "DONE"       from "Active"     [2023-11-23 Thu 15:54]
+- State "DONE"       from "Active"     [2023-11-22 Wed 14:18]
+- State "DONE"       from "Active"     [2023-11-21 Tue 18:12]
+- State "DONE"       from "Active"     [2023-11-20 Mon 16:20]
+- State "DONE"       from "ACTIVE"     [2023-11-19 Sun 12:38]
+- State "DONE"       from "ACTIVE"     [2023-11-18 Sat 13:18]
+- State "DONE"       from "ACTIVE"     [2023-11-17 Fri 15:22]
+- State "DONE"       from "ACTIVE"     [2023-11-16 Thu 15:35]
+- State "DONE"       from "ACTIVE"     [2023-11-15 Wed 15:56]
+- State "DONE"       from "ACTIVE"     [2023-11-14 Tue 15:48]
+- State "DONE"       from "ACTIVE"     [2023-11-14 Tue 15:48]
+- State "DONE"       from "ACTIVE"     [2023-11-13 Mon 15:42]
+- State "DONE"       from "ACTIVE"     [2023-11-13 Mon 15:41]
+- State "DONE"       from "ACTIVE"     [2023-11-11 Sat 17:14]
+- State "DONE"       from "ACTIVE"     [2023-11-11 Sat 17:14]
+- State "DONE"       from "ACTIVE"     [2023-11-10 Fri 17:13]
+- State "DONE"       from "ACTIVE"     [2023-11-09 Thu 18:42]
+
 SCHEDULED: <2023-12-19 Tue>
 * DONE Article's spell checking 
 SCHEDULED: <2024-01-15 Mon>
+
+* Drill the Definitions 
+SCHEDULED: <2024-01-25 Thu ++1d>
+:PROPERTIES:
+:CATEGORY: Drill
+:LAST_REPEAT: [2024-01-24 Wed 13:25]
+:END:
+- State "AMPLE"      from "RAW"        [2024-01-24 Wed 13:25]
+:LOGBOOK:
+CLOCK: [2024-01-24 Wed 13:22]--[2024-01-24 Wed 13:25] =>  0:03
+:END:
+- State "AMPLE"      from ""           [2024-01-24 Wed 13:19]
+  [[file:~/git/ballyboe/bookworm/drills.org::*Definitions][Definitions]]
+* [#A] Add all tasks from the paper to agenda
+SCHEDULED: <2024-01-27 Sat ++2d/3d>
+:PROPERTIES:
+:LAST_REPEAT: [2024-01-25 Thu 12:23]
+:END:
+- State "AMPLE"      from ""           [2024-01-25 Thu 12:23]
+:LOGBOOK:
+CLOCK: [2024-01-25 Thu 11:05]--[2024-01-25 Thu 11:33] =>  0:28
+:END:
+* [#A] Add all tasks from the scratch buffer into agenda
+SCHEDULED: <2024-01-28 Sun ++3d/4d>
+:PROPERTIES:
+:LAST_REPEAT: [2024-01-25 Thu 12:23]
+:END:
+- State "AMPLE"      from ""           [2024-01-25 Thu 12:23]
+:LOGBOOK:
+CLOCK: [2024-01-25 Thu 10:45]--[2024-01-25 Thu 10:58] =>  0:13
+:END:
+* Delete TODO states for all Chores
+SCHEDULED: <2024-01-25 Thu>
+* Add in all agenda files chain of TODOs states with AMPLE
+SCHEDULED: <2024-01-25 Thu>
