@@ -1,0 +1,27 @@
+#+BEGIN_EXPORT html
+---
+layout: page
+title: Tasks management
+tagline: "How use your time more effectevily"
+permalink: /meta-learning/tasks-management.html
+categories: [Learning Methodology, Org-mode]
+tags: [agenda, tasks-management]
+---
+#+END_EXPORT
+
+#+STARTUP: showall indent
+#+OPTIONS: tags:nil num:nil \n:nil @:t ::t |:t ^:{} _:{} *:t
+#+TOC: headlines 2
+#+PROPERTY:header-args :results output :exports both :eval no-export
+#+CATEGORY: TM
+#+TODO: | AMPLE
+#+TODO: RAW INIT TODO ACTIVE | DONE
+
+* Preface
+SCHEDULED: <2024-01-26 Fri>
+* Tasks classification
+SCHEDULED: <2024-01-26 Fri>
+* Org-Agenda as the main tool of capabilities
+* Group your tasks into bundles
+* Assign your tasks to a particular date/time
+* Final preparation
