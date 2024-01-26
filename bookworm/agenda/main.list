@@ -52,19 +52,19 @@ SCHEDULED: <2024-02-14 Wed>
 :CATEGORY: TM
 :END:
 **** New article
-***** Header
-SCHEDULED: <2024-01-26 Fri>
+***** AMPLE Header
+SCHEDULED: <2024-01-28 Sun>
 :LOGBOOK:
 CLOCK: [2024-01-25 Thu 11:51]--[2024-01-25 Thu 12:13] =>  0:22
 :END:
 ***** Preface
-SCHEDULED: <2024-01-26 Fri>
+SCHEDULED: <2024-01-28 Sun>
 ***** Raw TOC
 ***** Org-Agenda as the Maain Tool
-SCHEDULED: <2024-01-26 Fri>
+SCHEDULED: <2024-01-28 Sun>
 features description
 ***** Task classification
-SCHEDULED: <2024-01-26 Fri>
+SCHEDULED: <2024-01-28 Sun>
 - Main classes;
 - Classes definition (purpose, distinction features);
 ** English
@@ -72,9 +72,10 @@ SCHEDULED: <2024-01-26 Fri>
 :PROPERTIES:
 :CATEGORY: WordCloud
 :END:
-**** Task Management
-SCHEDULED: <2024-01-26 Fri>
+**** [#A] Task Management
+SCHEDULED: <2024-01-29 Mon>
 :LOGBOOK:
+CLOCK: [2024-01-26 Fri 11:47]--[2024-01-26 Fri 12:18] =>  0:31
 CLOCK: [2024-01-25 Thu 13:59]--[2024-01-25 Thu 14:39] =>  0:40
 CLOCK: [2024-01-25 Thu 12:24]--[2024-01-25 Thu 12:48] =>  0:24
 :END:
@@ -214,8 +215,8 @@ SCHEDULED: <2024-02-28 Wed ++1w>
    ps -ef provides a detailed listing of all processes running on the
    system, including their process ID (PID), parent process ID (PPID),
    CPU usage, memory usage, and more. 
-*** Init [#B] Process management
-SCHEDULED: <2024-01-26 Fri>
+*** DELAY [#B] Process management
+SCHEDULED: <2024-03-04 Mon>
 - Note taken on [2023-12-20 Wed 11:33] \\
 
   Is the technique used by organizations to analyze, optimize, monitor,
@@ -246,10 +247,10 @@ Avoiding Standard Software Risks
 Using Open Source Software
 
 *** RAW =helpful= package usage
-SCHEDULED: <2024-01-26 Fri>
+SCHEDULED: <2024-01-29 Mon>
 
 *** RAW =ivy= package usage
-SCHEDULED: <2024-01-26 Fri>
+SCHEDULED: <2024-01-29 Mon>
 
 *** Piping in Linux
 
@@ -491,7 +492,7 @@ SCHEDULED: <2024-02-19 Mon ++2w>
 CLOCK: [2024-01-12 Fri 10:28]--[2024-01-12 Fri 11:01] =>  0:33
 :END:
 ** Emacs
-SCHEDULED: <2024-01-26 Fri>
+SCHEDULED: <2024-01-29 Mon>
 
 Fix the unneccessary indentation above VVV
 
@@ -517,7 +518,7 @@ SCHEDULED: <2024-02-23 Fri ++2w>
 
 **** Window Registers 
 **** DP0 [#B] Bookmarks+ usage
-SCHEDULED: <2024-01-26 Fri ++2w>
+SCHEDULED: <2024-01-29 Mon ++2w>
 :PROPERTIES:
 :CATEGORY: Emacs
 :END:
@@ -533,7 +534,7 @@ Bookmark all available places on ~localhost~ and in the ~WWW~
 #DP requires preparation with definition goals and approaches
 
 **** Init [#B] Help about *eww*
-SCHEDULED: <2024-01-26 Fri>
+SCHEDULED: <2024-01-29 Mon>
 :PROPERTIES:
 :CATEGORY: Emacs
 :END:
@@ -585,7 +586,7 @@ CLOCK: [2023-12-19 Tue 10:56]--[2023-12-19 Tue 11:45] =>  0:49
 SCHEDULED: <2024-02-09 Fri>
 [[info:emacs#Regexps][emacs#Regexps]]
 **** RAW Emacs Tramp mode
-SCHEDULED: <2024-01-26 Fri>
+SCHEDULED: <2024-01-29 Mon>
 :PROPERTIES:
 :CATEGORY: Emacs
 :END:
@@ -646,12 +647,12 @@ CLOCK: [2024-01-10 Wed 08:31]--[2024-01-10 Wed 10:03] =>  1:32
 **** RAW Emacs marks
 SCHEDULED: <2024-01-31 Wed>
 **** RAW Help about *Dired mode*
-SCHEDULED: <2024-01-26 Fri>
+SCHEDULED: <2024-01-29 Mon>
 :PROPERTIES:
 :CATEGORY: Emacs
 :END:
 **** RAW Multi-frame workplace
-SCHEDULED: <2024-01-26 Fri>
+SCHEDULED: <2024-01-29 Mon>
 :PROPERTIES:
 :CATEGORY: Emacs
 :END:
@@ -731,7 +732,7 @@ CLOCK: [2023-10-26 Thu 07:54]--[2023-10-26 Thu 08:52] =>  0:58
 [[https://orgmode.org/manual/Structure-Templates.html][org templates structure]]
 
 ***** DP1 Org-drill concept
-SCHEDULED: <2024-01-26 Fri ++2w>
+SCHEDULED: <2024-01-29 Mon ++2w>
 :PROPERTIES:
 :CATEGORY: Drill
 :END:
@@ -745,7 +746,7 @@ https://orgmode.org/worg/org-contrib/org-drill.html
 https://orgmode.org/worg/org-contrib/org-drill.html#org51fd4f9
 
 ***** Init Org-capture templates usage
-SCHEDULED: <2024-01-26 Fri ++2w>
+SCHEDULED: <2024-01-29 Mon ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-01-25 Thu 11:48]
 :CATEGORY: Emacs
@@ -1482,8 +1483,8 @@ SCHEDULED: <2024-02-20 Tue ++2w>
 :END:
 
 - State "DONE"       from "Active"     [2023-12-13 Wed 11:24]
-***** DP0 [#C] Logic
-SCHEDULED: <2024-01-27 Sat>
+***** DELAY [#C] Logic
+SCHEDULED: <2024-03-30 Sat>
 :PROPERTIES:
 :CATEGORY: CS
 :END:
