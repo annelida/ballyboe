@@ -18,7 +18,7 @@ tags: [agenda, tasks-management]
 #+TODO: RAW INIT TODO ACTIVE | DONE
 
 * [#A] Preface
-SCHEDULED: <2024-01-26 Fri>
+SCHEDULED: <2024-01-29 Mon>
 :LOGBOOK:
 CLOCK: [2024-01-26 Fri 12:19]--[2024-01-26 Fri 12:38] =>  0:19
 :END:
@@ -57,7 +57,7 @@ Failed
 #+end_quote
 
 * [#A] Tasks classification
-SCHEDULED: <2024-01-26 Fri>
+SCHEDULED: <2024-01-29 Mon>
 * Org-Agenda as the main tool of capabilities
 * Group your tasks into bundles
 * Assign your tasks to a particular date/time
