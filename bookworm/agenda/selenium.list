@@ -91,7 +91,7 @@ SCHEDULED: <2024-02-09 Fri ++2w>
   Selenium is Open source test automation tool that provides API/Libraries
   to automate the tests; in turn, it simulates the actions on the browser.
 * Components of Selenium
-* RAW [#A] What is Selenium WebDriver?
+* RAW What is Selenium WebDriver?
 SCHEDULED: <2024-01-26 Fri ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-01-12 Fri 10:16]
