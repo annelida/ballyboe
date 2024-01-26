@@ -21,6 +21,7 @@ SCHEDULED: <2024-01-26 Fri ++1d>
 :END:
 - State "AMPLE"      from "DELAY"      [2024-01-25 Thu 18:40]
 :LOGBOOK:
+CLOCK: [2024-01-26 Fri 09:39]
 CLOCK: [2024-01-25 Thu 15:09]--[2024-01-25 Thu 15:34] =>  0:25
 CLOCK: [2024-01-24 Wed 18:07]--[2024-01-24 Wed 18:57] =>  0:50
 :END:
@@ -370,13 +371,14 @@ SCHEDULED: <2024-01-25 Thu>
 :LOGBOOK:
 CLOCK: [2024-01-24 Wed 08:48]--[2024-01-24 Wed 09:56] =>  1:08
 :END:
-* Daily taskset schedulling
+* [#A] Daily taskset schedulling
 SCHEDULED: <2024-01-26 Fri ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-01-25 Thu 18:22]
 :END:
 - State "AMPLE"      from ""           [2024-01-25 Thu 18:22]
 :LOGBOOK:
+CLOCK: [2024-01-26 Fri 08:20]--[2024-01-26 Fri 09:15] =>  0:55
 CLOCK: [2024-01-25 Thu 10:36]--[2024-01-25 Thu 10:45] =>  0:09
 :END:
 - State "DONE"       from "ACTIVE"     [2024-01-23 Tue 18:39]
@@ -452,6 +454,11 @@ CLOCK: [2024-01-25 Thu 10:36]--[2024-01-25 Thu 10:45] =>  0:09
 - State "DONE"       from "ACTIVE"     [2023-10-13 Fri 13:03]
 It might be required several times a day, but first time in the early
 morning.
+* Daily taskset rectification
+SCHEDULED: <2024-01-26 Fri ++1d>
+:LOGBOOK:
+CLOCK: [2024-01-26 Fri 09:17]--[2024-01-26 Fri 09:39] =>  0:22
+:END:
 * Tomorrow's agenda brush-up
 SCHEDULED: <2024-01-26 Fri ++1d>
 :PROPERTIES:
@@ -666,3 +673,31 @@ CLOCK: [2024-01-25 Thu 18:34]--[2024-01-25 Thu 18:45] =>  0:11
 :END:
 * AMPLE Add in all agenda files chain of TODOs states with AMPLE
 SCHEDULED: <2024-01-25 Thu>
+* Reading aloud&record audio
+SCHEDULED: <2024-01-26 Fri ++1d>
+:PROPERTIES:
+:LAST_REPEAT: [2024-01-25 Thu 18:24]
+:END:
+- State "AMPLE"      from ""           [2024-01-25 Thu 18:24]
+- State "AMPLE"      from ""           [2024-01-24 Wed 19:11]
+:LOGBOOK:
+CLOCK: [2024-01-25 Thu 16:04]--[2024-01-25 Thu 16:22] =>  0:18
+CLOCK: [2024-01-24 Wed 14:25]--[2024-01-24 Wed 15:26] =>  1:01
+:END:
+
+* Work with vocabulary
+SCHEDULED: <2024-01-26 Fri ++1d>
+:PROPERTIES:
+:LAST_REPEAT: [2024-01-25 Thu 18:25]
+:END:
+- State "AMPLE"      from ""           [2024-01-25 Thu 18:25]
+:LOGBOOK:
+CLOCK: [2024-01-25 Thu 15:55]--[2024-01-25 Thu 16:04] =>  0:09
+:END:
+* Definitions extension
+SCHEDULED: <2024-01-26 Fri>
+:PROPERTIES:
+:CATEGORY: Drill
+:END:
+To add definitions from glossary to drill.org utilizing org-capture
+templates
