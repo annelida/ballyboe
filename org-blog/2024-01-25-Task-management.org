@@ -17,9 +17,46 @@ tags: [agenda, tasks-management]
 #+TODO: | AMPLE
 #+TODO: RAW INIT TODO ACTIVE | DONE
 
-* Preface
+* [#A] Preface
 SCHEDULED: <2024-01-26 Fri>
-* Tasks classification
+:LOGBOOK:
+CLOCK: [2024-01-26 Fri 12:19]--[2024-01-26 Fri 12:38] =>  0:19
+:END:
+#+begin_quote
+Task management skills are the abilities that help you work
+efficiently and take full advantage of your time.
+#+end_quote
+
+#+begin_quote
+Task management is the process of managing a task through its
+lifecycle. It involves planning, testing, tracking, and
+reporting. Task management can help either individual achieve goals,
+or groups of individuals collaborate and share knowledge for the
+accomplishment of collective goals. Tasks are also differentiated by
+complexity, from low to high.  Effective task management requires
+overseeing all aspects of a task, including its status, priority,
+time, human and financial resource assignments, recurrence,
+dependencies, notifications, etc.
+
+Task management embraces several key activities.
+
+The status of tasks can be described by these states: 
+
+Task lifecycle
+
+Ready
+Assigned
+Terminated
+Expired
+Forwarded
+Started
+Finished
+Verified
+Paused
+Failed
+#+end_quote
+
+* [#A] Tasks classification
 SCHEDULED: <2024-01-26 Fri>
 * Org-Agenda as the main tool of capabilities
 * Group your tasks into bundles
