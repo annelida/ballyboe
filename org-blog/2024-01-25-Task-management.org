@@ -57,7 +57,52 @@ Failed
 #+end_quote
 
 * [#A] Tasks classification
-SCHEDULED: <2024-01-29 Mon>
+SCHEDULED: <2024-01-30 Tue>
+
+- Main classes;
+- Classes definition (purpose, distinction features);
+
+The main tasks classes are:
+
+Class I - by urgency and importancy:
+
+Urgent and important - demand your attention and action right now;
+
+Important, but not urgent - they are essential issues, but they’re
+not urgent and  don’t require your immediate action. So these
+are the items you’ll want to schedule work for a later time;
+
+Not important, but urgent - these are urgent items that pop up and
+demand immediate attention;
+
+Not important, not urgent - they are not essential or urgent, so you
+can, in most cases, delay them or delete from your list.
+
+Class II - Chores:
+It is regular, trivial, banal routine tasks that
+important to do everyday or in particular day.
+
+Class III - by dependency:
+Related or Not related
+
+Tasks whose execution depends on each other are considered *related*.
+Сompleting one of these tasks is the key to completing the other task.
+
+Class lV:
+By complexity:
+Complex or simple
+
+Complex task can have many different and connected parts, and is
+therefore often difficult to understand;
+
+Simple is a task that easily understandd or done and presenting no
+difficulty.
+
+Class V:
+By gestation stages:
+
+RAW Init DP0 Todo DP1 Active DONE
+
 * Org-Agenda as the main tool of capabilities
 * Group your tasks into bundles
 * Assign your tasks to a particular date/time
