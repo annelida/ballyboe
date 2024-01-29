@@ -203,9 +203,14 @@ CLOCK: [2024-01-24 Wed 19:04]--[2024-01-24 Wed 19:28] =>  0:24
 :END:
 Preparation for a new day. It would be clear and fun to make-up you
 and your workspace for tomorrow:
+- Work with list of tasks for tomorrow:
+ - Define actual tasks;
+ - Prioritizing tasks (complete tasks - into top, new - into top);
+ - Rectification tasks;
 
+
+- Classification;
 - A minor cleansing;
-  figure out what are unnecessary and get rid of it.
 - Re-arrange tasks;
 
 * [#C] Workspace clean-up
@@ -719,6 +724,15 @@ CLOCK: [2024-01-25 Thu 15:55]--[2024-01-25 Thu 16:04] =>  0:09
 :END:
 * RAW [#C] Definitions extension
 SCHEDULED: <2024-01-27 Sat ++1d>
+*Need to be decomposed into the set of related tasks:*
+
+Gathering new words
+Creation word cloud with new words
+Translation new words
+Transcription new words
+Composing sentences with new words
+Creation short essay
+~vocabulary.org~ extension
 :PROPERTIES:
 :CATEGORY: Drill
 :LAST_REPEAT: [2024-01-26 Fri 17:51]
@@ -726,3 +740,30 @@ SCHEDULED: <2024-01-27 Sat ++1d>
 - State "DONE"       from "ACTIVE"     [2024-01-26 Fri 17:51]
 To add definitions from glossary to drill.org utilizing org-capture
 templates
+* [#C] Appending new tasks
+SCHEDULED: <2024-01-30 Tue ++1d>
+:PROPERTIES:
+:LAST_REPEAT: [2024-01-29 Mon 18:47]
+:END:
+- State "AMPLE"      from ""           [2024-01-29 Mon 18:47]
+- State "AMPLE"      from ""           [2024-01-28 Sun 17:16]
+- State "AMPLE"      from ""           [2024-01-28 Sun 17:16]
+- State "AMPLE"      from ""           [2024-01-27 Sat 12:23]
+:LOGBOOK:
+CLOCK: [2024-01-27 Sat 12:01]--[2024-01-27 Sat 12:17] =>  0:16
+:END:
+like Chores to Agenda on a daily basics
+* AMPLE [#C] Work with transcript
+SCHEDULED: <2024-02-03 Sat>
+:LOGBOOK:
+CLOCK: [2024-01-27 Sat 13:22]--[2024-01-27 Sat 15:20] =>  1:58
+:END:
+Read the text from movie's transcript aloud
+Pich up and write down the set of new words
+Find translation and write it down as well
+Find transcription for the new words (optionally)
+* AMPLE [#C] Own sentences forming
+SCHEDULED: <2024-02-03 Sat>
+with new words gathered earlier from the transcripts
+* [#C] Hang writing
+SCHEDULED: <2024-01-31 Wed>
