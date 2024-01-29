@@ -14,10 +14,12 @@ tags: [Emacs, packages]
 #+PROPERTY:header-args :results output :exports both :eval no-export
 #+CATEGORY: Emacs
 #+TODO: RAW INIT TODO ACTIVE | DONE
+#+TODO: DELAY LAG RETARD | BARE
+
 [[info:emacs#Packages][emacs#Packages]]
 
-* RAW Intro
-SCHEDULED: <2024-01-30 Tue>
+* DELAY Intro
+SCHEDULED: <2024-03-15 Fri>
 
 #+begin_quote
 For Emacs users, optimizing their configuration is fun and a sure way
@@ -29,8 +31,8 @@ continuing to have fun with Emacs without refactoring your previously
 disorganized configuration
 #+end_quote
 
-* RAW Several definitions
-SCHEDULED: <2024-01-30 Tue>
+* DELAY Several definitions
+SCHEDULED: <2024-03-15 Fri>
 :LOGBOOK:
 CLOCK: [2024-01-12 Fri 08:39]--[2024-01-12 Fri 09:40] =>  1:01
 :END:
@@ -81,8 +83,8 @@ packages assist with syntax highlighting, indentation, code
 navigation, project management, and interaction with the Clojure
 ecosystem.
 
-* RAW Manual
-SCHEDULED: <2024-01-30 Tue>
+* DELAY Manual
+SCHEDULED: <2024-03-15 Fri>
 ** Creation
 ** Initialization
 To install packages in Emacs, users can use the following steps: 

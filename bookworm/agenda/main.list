@@ -52,35 +52,17 @@ SCHEDULED: <2024-02-14 Wed>
 :CATEGORY: TM
 :END:
 **** New article
-***** AMPLE Header
-SCHEDULED: <2024-01-28 Sun>
-:LOGBOOK:
-CLOCK: [2024-01-25 Thu 11:51]--[2024-01-25 Thu 12:13] =>  0:22
-:END:
+***** RAW Header
 ***** Preface
-SCHEDULED: <2024-01-28 Sun>
 ***** Raw TOC
 ***** Org-Agenda as the Maain Tool
-SCHEDULED: <2024-01-28 Sun>
 features description
 ***** Task classification
-SCHEDULED: <2024-01-28 Sun>
-- Main classes;
-- Classes definition (purpose, distinction features);
 ** English
 *** Word Cloud elabouraton
 :PROPERTIES:
 :CATEGORY: WordCloud
 :END:
-**** [#A] Task Management
-SCHEDULED: <2024-01-29 Mon>
-:LOGBOOK:
-CLOCK: [2024-01-26 Fri 11:47]--[2024-01-26 Fri 12:18] =>  0:31
-CLOCK: [2024-01-25 Thu 13:59]--[2024-01-25 Thu 14:39] =>  0:40
-CLOCK: [2024-01-25 Thu 12:24]--[2024-01-25 Thu 12:48] =>  0:24
-:END:
-
-
 **** Matilda
 
 **** Philosophy of Software Design
@@ -246,11 +228,11 @@ Choosing a Software Development Approach
 Avoiding Standard Software Risks
 Using Open Source Software
 
-*** RAW =helpful= package usage
-SCHEDULED: <2024-01-29 Mon>
+*** DELAY =helpful= package usage
+SCHEDULED: <2024-03-07 Thu>
 
-*** RAW =ivy= package usage
-SCHEDULED: <2024-01-29 Mon>
+*** DELAY =ivy= package usage
+SCHEDULED: <2024-03-07 Thu>
 
 *** Piping in Linux
 
@@ -492,7 +474,7 @@ SCHEDULED: <2024-02-19 Mon ++2w>
 CLOCK: [2024-01-12 Fri 10:28]--[2024-01-12 Fri 11:01] =>  0:33
 :END:
 ** Emacs
-SCHEDULED: <2024-01-29 Mon>
+SCHEDULED: <2024-01-30 Tue>
 
 Fix the unneccessary indentation above VVV
 
@@ -517,11 +499,13 @@ SCHEDULED: <2024-02-23 Fri ++2w>
 **** Registers
 
 **** Window Registers 
-**** DP0 [#B] Bookmarks+ usage
-SCHEDULED: <2024-01-29 Mon ++2w>
+**** RAW [#B] Bookmarks+ usage
+SCHEDULED: <2024-02-12 Mon ++2w>
 :PROPERTIES:
 :CATEGORY: Emacs
+:LAST_REPEAT: [2024-01-29 Mon 15:54]
 :END:
+- State "DONE"       from "Active"     [2024-01-29 Mon 15:54]
 - Note taken on [2024-01-10 Wed 10:17] \\
   [[https://www.emacswiki.org/emacs/BookmarkPlus#h5o-3]]
 :LOGBOOK:
@@ -534,15 +518,17 @@ Bookmark all available places on ~localhost~ and in the ~WWW~
 #DP requires preparation with definition goals and approaches
 
 **** Init [#B] Help about *eww*
-SCHEDULED: <2024-01-29 Mon>
+SCHEDULED: <2024-01-30 Tue>
 :PROPERTIES:
 :CATEGORY: Emacs
 :END:
-**** RAW Emacs + venv
-SCHEDULED: <2024-01-30 Tue ++3w>
+**** DELAY Emacs + venv
+SCHEDULED: <2024-03-15 Fri ++3w>
 :PROPERTIES:
-:LAST_REPEAT: [2023-12-04 Mon 11:10]
+:LAST_REPEAT: [2024-01-29 Mon 16:01]
 :END:
+- State "AMPLE"      from "DELAY"      [2024-01-29 Mon 16:01]
+- State "AMPLE"      from "DELAY"      [2024-01-29 Mon 16:00]
 - State "DONE"       from "Active"     [2023-12-04 Mon 11:10]
 **** DELAY Elpy concepts
 SCHEDULED: <2024-02-05 Mon>
@@ -585,8 +571,8 @@ CLOCK: [2023-12-19 Tue 10:56]--[2023-12-19 Tue 11:45] =>  0:49
 ***** DELAY Regular expressions syntax
 SCHEDULED: <2024-02-09 Fri>
 [[info:emacs#Regexps][emacs#Regexps]]
-**** RAW Emacs Tramp mode
-SCHEDULED: <2024-01-29 Mon>
+**** DELAY Emacs Tramp mode
+SCHEDULED: <2024-03-07 Thu>
 :PROPERTIES:
 :CATEGORY: Emacs
 :END:
@@ -647,12 +633,12 @@ CLOCK: [2024-01-10 Wed 08:31]--[2024-01-10 Wed 10:03] =>  1:32
 **** RAW Emacs marks
 SCHEDULED: <2024-01-31 Wed>
 **** RAW Help about *Dired mode*
-SCHEDULED: <2024-01-29 Mon>
+SCHEDULED: <2024-01-30 Tue>
 :PROPERTIES:
 :CATEGORY: Emacs
 :END:
 **** RAW Multi-frame workplace
-SCHEDULED: <2024-01-29 Mon>
+SCHEDULED: <2024-01-30 Tue>
 :PROPERTIES:
 :CATEGORY: Emacs
 :END:
@@ -666,16 +652,17 @@ CLOCK: [2024-01-11 Thu 09:48]--[2024-01-11 Thu 10:19] =>  0:31
 :PROPERTIES:
 :CATEGORY: Emacs
 :END:
-*** Customizing
-SCHEDULED: <2024-01-30 Tue>
+*** AMPLE Customizing
+SCHEDULED: <2024-03-26 Tue>
 [[info:emacs#Keyboard Macros][emacs#Keyboard Macros]]
 *** Org-mode
 
 ***** DELAY [#B] Org-mode, org-babel markup rules
-SCHEDULED: <2024-01-30 Tue ++2w>
+SCHEDULED: <2024-02-13 Tue ++2w>
 :PROPERTIES:
-:LAST_REPEAT: [2023-11-16 Thu 15:33]
+:LAST_REPEAT: [2024-01-29 Mon 15:59]
 :END:
+- State "AMPLE"      from "DELAY"      [2024-01-29 Mon 15:59]
 - State "DONE"       from "ACTIVE"     [2023-11-16 Thu 15:33]
 - Note taken on [2023-11-14 Tue 15:13] \\
   [[info:org#Markup for Rich Contents][org#Markup for Rich Contents]]
@@ -731,8 +718,8 @@ CLOCK: [2023-10-26 Thu 07:54]--[2023-10-26 Thu 08:52] =>  0:58
 [[https://www.youtube.com/watch?v=kkqVTDbfYp4][org-babel configuration]]
 [[https://orgmode.org/manual/Structure-Templates.html][org templates structure]]
 
-***** DP1 Org-drill concept
-SCHEDULED: <2024-01-29 Mon ++2w>
+***** DELAY Org-drill concept
+SCHEDULED: <2024-02-23 Fri ++2w>
 :PROPERTIES:
 :CATEGORY: Drill
 :END:
@@ -746,7 +733,7 @@ https://orgmode.org/worg/org-contrib/org-drill.html
 https://orgmode.org/worg/org-contrib/org-drill.html#org51fd4f9
 
 ***** Init Org-capture templates usage
-SCHEDULED: <2024-01-29 Mon ++2w>
+SCHEDULED: <2024-02-02 Fri ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-01-25 Thu 11:48]
 :CATEGORY: Emacs

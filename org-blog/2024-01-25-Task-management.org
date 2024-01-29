@@ -18,7 +18,7 @@ tags: [agenda, tasks-management]
 #+TODO: RAW INIT TODO ACTIVE | DONE
 
 * [#A] Preface
-SCHEDULED: <2024-01-29 Mon>
+SCHEDULED: <2024-01-30 Tue>
 :LOGBOOK:
 CLOCK: [2024-01-26 Fri 12:19]--[2024-01-26 Fri 12:38] =>  0:19
 :END:
