@@ -18,46 +18,60 @@ tags: [agenda, tasks-management]
 #+TODO: RAW INIT TODO ACTIVE | DONE
 
 * [#A] Preface
-SCHEDULED: <2024-01-30 Tue>
+SCHEDULED: <2024-01-31 Wed>
 :LOGBOOK:
+CLOCK: [2024-01-30 Tue 08:33]--[2024-01-30 Tue 09:20] =>  0:47
 CLOCK: [2024-01-26 Fri 12:19]--[2024-01-26 Fri 12:38] =>  0:19
 :END:
-#+begin_quote
+
 Task management skills are the abilities that help you work
-efficiently and take full advantage of your time.
-#+end_quote
+efficiently and take full advantage of your time. Task management is
+the process of managing a task or many tasks through its lifecycle
+from inception to execution. Task management embraces several key
+activities like planning, workflow customization, tracking, managing
+and reporting. Task management can help either individual achieve
+goals, or groups of individuals collaborate and share knowledge for
+the accomplishment of collective goals. Effective task management
+requires overseeing all aspects of a task, including its status,
+priority, time, human and financial resource assignments, dependencies
+etc.
+
+The lifecycle or status of tasks can be described by these states: 
+
+#+begin_example
+RAW Init DP0 Todo DP1 Active | DONE
+#+end_example
+
+** Notes
 
 #+begin_quote
-Task management is the process of managing a task through its
-lifecycle. It involves planning, testing, tracking, and
-reporting. Task management can help either individual achieve goals,
-or groups of individuals collaborate and share knowledge for the
-accomplishment of collective goals. Tasks are also differentiated by
-complexity, from low to high.  Effective task management requires
-overseeing all aspects of a task, including its status, priority,
-time, human and financial resource assignments, recurrence,
-dependencies, notifications, etc.
+It's just a fancy way of planning how tasks are handled from the
+moment you put them into a schedule until they're completed or
+accomplish.
 
-Task management embraces several key activities.
+Each task is a single unit of work that individual team
+members are responsible for completing.
 
-The status of tasks can be described by these states: 
+Task management is defined as a strategic and dynamic system designed for
+efficient planning and execution of tasks, ensuring a streamlined path to
+successful completion. Whether tackling individual to-do lists or contributing to
+collaborative projects, effective task management is the cornerstone of
+productivity.
 
-Task lifecycle
-
-Ready
-Assigned
-Terminated
-Expired
-Forwarded
-Started
-Finished
-Verified
-Paused
-Failed
+Managing tasks at work requires certain task management skills and an
+understanding of task management techniques. Here are some techniques
+that can help in managing tasks at work:-Prioritize tasks-Breakdown
+tasks into smaller chunks-Timebox tasks - To-do lists - Monitor
+performance - Visualize progress - Make changes.
 #+end_quote
+
+
 
 * [#A] Tasks classification
-SCHEDULED: <2024-01-30 Tue>
+SCHEDULED: <2024-01-31 Wed>
+:LOGBOOK:
+CLOCK: [2024-01-30 Tue 09:20]--[2024-01-30 Tue 09:39] =>  0:19
+:END:
 
 - Main classes;
 - Classes definition (purpose, distinction features);
@@ -66,30 +80,36 @@ The main tasks classes are:
 
 Class I - by urgency and importancy:
 
-Urgent and important - demand your attention and action right now;
+*Urgent and important* - they are demand your attention and action /right
+now/;
 
-Important, but not urgent - they are essential issues, but they’re
+*Important, but not urgent* - they are essential issues, but they’re
 not urgent and  don’t require your immediate action. So these
-are the items you’ll want to schedule work for a later time;
+are the items you’ll want /to schedule work for a later time/;
 
-Not important, but urgent - these are urgent items that pop up and
-demand immediate attention;
+*Not important, but urgent* - these are urgent items /that pop up/ and
+/demand immediate attention/;
 
-Not important, not urgent - they are not essential or urgent, so you
-can, in most cases, delay them or delete from your list.
+*Not important, not urgent* - they are not essential or urgent, so you
+can, in most cases, /delay them or delete from your list/.
 
 Class II - Chores:
-It is regular, trivial, banal routine tasks that
-important to do everyday or in particular day.
+
+It is regular, trivial, banal, routine tasks that important to do
+everyday or in particular day.
 
 Class III - by dependency:
+
 Related or Not related
 
 Tasks whose execution depends on each other are considered *related*.
-Сompleting one of these tasks is the key to completing the other task.
+Сompleting one of these tasks in most cases is the key to completing
+the other task.
 
 Class lV:
-By complexity:
+Tasks are also differentiated by complexity, from low to
+high:
+
 Complex or simple
 
 Complex task can have many different and connected parts, and is
