@@ -313,7 +313,7 @@ cat /etc/os-release
 : BUG_REPORT_URL="https://bugs.debian.org/"
 ** Python
 
-**** Init Python: modules, relative import. 
+*** Init Python: modules, relative import. 
 SCHEDULED: <2024-02-19 Mon>
 :PROPERTIES:
 :CATEGORY: Python
@@ -334,7 +334,7 @@ CLOCK: [2023-10-24 Tue 08:07]--[2023-10-24 Tue 09:32] =>  1:25
 :END:
 
 
-**** RAW Python classes
+*** RAW Python classes
 SCHEDULED: <2024-02-06 Tue>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-22 Wed 14:25]
@@ -385,7 +385,7 @@ Object's methods are functions that belong to the object.
 : The student's name is Tony Black
 
 
-**** RAW [#A] Python Unit test module
+*** RAW [#A] Python Unit test module
 SCHEDULED: <2024-02-19 Mon ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-16 Thu 09:23]
@@ -458,12 +458,12 @@ if __name__ == '__main__':
 
 #+end_example
 
-**** RAW Dictionaries
+*** RAW Dictionaries
 SCHEDULED: <2024-02-19 Mon>
 :PROPERTIES:
 :CATEGORY: Python
 :END:
-**** RAW Tuples and Sequences
+*** RAW Tuples and Sequences
 SCHEDULED: <2024-02-19 Mon ++2w>
 :PROPERTIES:
 :CATEGORY: Python
@@ -473,17 +473,20 @@ SCHEDULED: <2024-02-19 Mon ++2w>
 :LOGBOOK:
 CLOCK: [2024-01-12 Fri 10:28]--[2024-01-12 Fri 11:01] =>  0:33
 :END:
-** Emacs
+** AMPLE Emacs
 SCHEDULED: <2024-01-30 Tue>
+:LOGBOOK:
+CLOCK: [2024-01-30 Tue 15:00]--[2024-01-30 Tue 15:05] =>  0:05
+:END:
 
 Fix the unneccessary indentation above VVV
 
-**** Interface
+*** Interface
 
-**** Keys
+*** Keys
 
-**** Embedded Help System
-**** DELAY Emacs server
+*** Embedded Help System
+*** DELAY Emacs server
 SCHEDULED: <2024-02-23 Fri ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-12-21 Thu 17:41]
@@ -496,10 +499,10 @@ SCHEDULED: <2024-02-23 Fri ++2w>
   * Launch the graphical version;
   * Start the server: =M-x server-start=
   * Launch the client version by =emacsclient -t=
-**** Registers
+*** Registers
 
-**** Window Registers 
-**** RAW [#B] Bookmarks+ usage
+*** Window Registers 
+*** RAW [#B] Bookmarks+ usage
 SCHEDULED: <2024-02-12 Mon ++2w>
 :PROPERTIES:
 :CATEGORY: Emacs
@@ -517,12 +520,12 @@ Bookmark all available places on ~localhost~ and in the ~WWW~
 
 #DP requires preparation with definition goals and approaches
 
-**** Init [#B] Help about *eww*
-SCHEDULED: <2024-01-30 Tue>
+*** Init [#B] Help about *eww*
+SCHEDULED: <2024-01-31 Wed>
 :PROPERTIES:
 :CATEGORY: Emacs
 :END:
-**** DELAY Emacs + venv
+*** DELAY Emacs + venv
 SCHEDULED: <2024-03-15 Fri ++3w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-01-29 Mon 16:01]
@@ -530,7 +533,7 @@ SCHEDULED: <2024-03-15 Fri ++3w>
 - State "AMPLE"      from "DELAY"      [2024-01-29 Mon 16:01]
 - State "AMPLE"      from "DELAY"      [2024-01-29 Mon 16:00]
 - State "DONE"       from "Active"     [2023-12-04 Mon 11:10]
-**** DELAY Elpy concepts
+*** DELAY Elpy concepts
 SCHEDULED: <2024-02-05 Mon>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-23 Thu 15:54]
@@ -630,10 +633,8 @@ SCHEDULED: <2024-02-11 Sun>
 CLOCK: [2024-01-10 Wed 08:31]--[2024-01-10 Wed 10:03] =>  1:32
 :END:
 
-**** RAW Emacs marks
+*** RAW Help about *Dired mode*
 SCHEDULED: <2024-01-31 Wed>
-**** RAW Help about *Dired mode*
-SCHEDULED: <2024-01-30 Tue>
 :PROPERTIES:
 :CATEGORY: Emacs
 :END:
@@ -656,7 +657,7 @@ SCHEDULED: <2024-02-01 Thu>
 CLOCK: [2024-01-30 Tue 10:30]--[2024-01-30 Tue 10:57] =>  0:27
 :END:
 
-**** DELAY File searching in different Git branches 
+*** DELAY File searching in different Git branches 
 SCHEDULED: <2024-02-15 Thu>
 :LOGBOOK:
 CLOCK: [2024-01-11 Thu 09:48]--[2024-01-11 Thu 10:19] =>  0:31
@@ -668,7 +669,12 @@ CLOCK: [2024-01-11 Thu 09:48]--[2024-01-11 Thu 10:19] =>  0:31
 *** AMPLE Customizing
 SCHEDULED: <2024-03-26 Tue>
 [[info:emacs#Keyboard Macros][emacs#Keyboard Macros]]
-*** Org-mode
+*** RAW Emacs marks
+SCHEDULED: <2024-01-31 Wed>
+:PROPERTIES:
+:CATEGORY: Emacs
+:END:
+** Org-mode
 
 ***** DELAY [#B] Org-mode, org-babel markup rules
 SCHEDULED: <2024-02-13 Tue ++2w>
@@ -1540,7 +1546,6 @@ SCHEDULED: <2024-02-22 Thu>
 :CATEGORY: Linux
 :END:
 * Notes
-
 * Personal
 
 

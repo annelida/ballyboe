@@ -16,8 +16,8 @@ tags: [practice, double-loop-learning]
 #+CATEGORY: Meta
 #+TODO: RAW INIT TODO ACTIVE | DONE
 
-* TODO [#C] Preface
-SCHEDULED: <2024-01-31 Wed>
+* TODO [#B] Preface
+SCHEDULED: <2024-02-01 Thu>
 :PROPERTIES:
 :END:
 
