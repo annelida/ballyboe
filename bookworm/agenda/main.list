@@ -637,10 +637,23 @@ SCHEDULED: <2024-01-30 Tue>
 :PROPERTIES:
 :CATEGORY: Emacs
 :END:
-**** RAW Multi-frame workplace
-SCHEDULED: <2024-01-30 Tue>
+*** RAW Multi-frame workplace
+SCHEDULED: <2024-02-01 Thu>
 :PROPERTIES:
 :CATEGORY: Emacs
+:END:
+- Note taken on [2024-01-30 Tue 12:01] \\
+  [[info:emacs#Configuration Registers][emacs#Configuration Registers]]
+- Note taken on [2024-01-30 Tue 10:34] \\
+  A frame is a screen object that contains one or more Emacs windows.
+  A window is an area of the screen that can be used to display a buffer.
+  [[info:emacs#Creating Frames][emacs#Creating Frames]]
+  [[info:emacs#Frame Commands][emacs#Frame Commands]]
+  (key-chord-define-global "'\\"     'other-frame)
+  (key-chord-define-global "]\\"     'other-frame)
+  (key-chord-define-global "';"     'other-frame)
+:LOGBOOK:
+CLOCK: [2024-01-30 Tue 10:30]--[2024-01-30 Tue 10:57] =>  0:27
 :END:
 
 **** DELAY File searching in different Git branches 
