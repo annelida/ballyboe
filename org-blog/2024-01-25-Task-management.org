@@ -17,24 +17,25 @@ tags: [agenda, tasks-management]
 #+TODO: | AMPLE
 #+TODO: RAW INIT TODO ACTIVE | DONE
 
-* [#A] Preface
-SCHEDULED: <2024-01-31 Wed>
+* AMPLE Preface
+SCHEDULED: <2024-02-01 Thu>
 :LOGBOOK:
+CLOCK: [2024-01-31 Wed 13:01]--[2024-01-31 Wed 13:14] =>  0:13
 CLOCK: [2024-01-30 Tue 08:33]--[2024-01-30 Tue 09:20] =>  0:47
 CLOCK: [2024-01-26 Fri 12:19]--[2024-01-26 Fri 12:38] =>  0:19
 :END:
 
-Task management skills are the abilities that help you work
-efficiently and take full advantage of your time. Task management is
-the process of managing a task or many tasks through its lifecycle
-from inception to execution. Task management embraces several key
-activities like planning, workflow customization, tracking, managing
-and reporting. Task management can help either individual achieve
-goals, or groups of individuals collaborate and share knowledge for
-the accomplishment of collective goals. Effective task management
-requires overseeing all aspects of a task, including its status,
-priority, time, human and financial resource assignments, dependencies
-etc.
+Task management is defined as a system for efficient planning and
+execution of tasks, ensuring a streamlined path to successful
+completion. Is the process of managing a task or many tasks through
+its lifecycle from inception to execution. Task management skills are
+the abilities that help you achieve goals, work efficiently and take
+full advantage of your time. It is embraces several key activities
+like planning, workflow customization, tracking, managing and
+reporting. Effective task management is the cornerstone of
+productivity and requires overseeing all aspects of a task, including
+its status, priority, time, human and financial resource assignments,
+dependencies etc.
 
 The lifecycle or status of tasks can be described by these states: 
 
@@ -52,11 +53,10 @@ accomplish.
 Each task is a single unit of work that individual team
 members are responsible for completing.
 
-Task management is defined as a strategic and dynamic system designed for
-efficient planning and execution of tasks, ensuring a streamlined path to
-successful completion. Whether tackling individual to-do lists or contributing to
-collaborative projects, effective task management is the cornerstone of
-productivity.
+Task management is defined as a strategic and dynamic system designed
+for efficient planning and execution of tasks, ensuring a streamlined
+path to successful completion. Whether tackling individual to-do lists
+or contributing to collaborative projects.
 
 Managing tasks at work requires certain task management skills and an
 understanding of task management techniques. Here are some techniques
@@ -67,8 +67,8 @@ performance - Visualize progress - Make changes.
 
 
 
-* [#A] Tasks classification
-SCHEDULED: <2024-01-31 Wed>
+* AMPLE Tasks classification
+SCHEDULED: <2024-02-01 Thu>
 :LOGBOOK:
 CLOCK: [2024-01-30 Tue 09:20]--[2024-01-30 Tue 09:39] =>  0:19
 :END:
@@ -124,6 +124,7 @@ By gestation stages:
 RAW Init DP0 Todo DP1 Active DONE
 
 * Org-Agenda as the main tool of capabilities
+SCHEDULED: <2024-02-01 Thu>
 * Group your tasks into bundles
 * Assign your tasks to a particular date/time
 * Final preparation
