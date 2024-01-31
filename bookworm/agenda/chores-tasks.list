@@ -815,3 +815,17 @@ SCHEDULED: <2024-01-31 Wed ++1d>
 :LOGBOOK:
 CLOCK: [2024-01-30 Tue 10:57]--[2024-01-30 Tue 11:27] =>  0:30
 :END:
+* DELAY All =Chores= tasks move to the Agenda bottom
+SCHEDULED: <2024-03-06 Wed>
+- Note taken on [2024-01-31 Wed 11:52] \\
+  [[info:org#Sorting of agenda items][org#Sorting of agenda items]]
+  [[https://emacs.stackexchange.com/questions/53814/custom-sorting-of-agenda-by-tag]]
+  M-x customize-variable org-agenda-sorting-strategy
+
+  C-c [ (org-agenda-file-to-front) Add current file to the list of
+  agenda files. The file is added to the front of the list. If it was
+  already in the list, it is moved to the front. *With a prefix
+  argument, file is added/moved to the end*.
+:LOGBOOK:
+CLOCK: [2024-01-31 Wed 11:21]--[2024-01-31 Wed 11:54] =>  0:33
+:END:
