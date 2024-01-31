@@ -16,13 +16,20 @@ tags: [practice, double-loop-learning]
 #+CATEGORY: Meta
 #+TODO: RAW INIT TODO ACTIVE | DONE
 
-* TODO [#B] Preface
+* Preface
 SCHEDULED: <2024-02-01 Thu>
 :PROPERTIES:
 :END:
 
 #+begin_quote
 /"Practice makes perfect."/
+
+/“The master has failed more times than the beginner has even tried.”/
+— Stephen McCranie
+
+/“I hated every minute of training, but I said, “Don’t quit. Suffer now and
+live the rest of your life as a champion.”/
+— Muhammad Ali
 #+end_quote
 
 Practice makes proficient employees, and proficient employees make for
