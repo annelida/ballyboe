@@ -520,8 +520,8 @@ Bookmark all available places on ~localhost~ and in the ~WWW~
 
 #DP requires preparation with definition goals and approaches
 
-*** Init [#B] Help about *eww*
-SCHEDULED: <2024-01-31 Wed>
+*** Init Help about *eww*
+SCHEDULED: <2024-02-01 Thu>
 :PROPERTIES:
 :CATEGORY: Emacs
 :END:
@@ -634,7 +634,7 @@ CLOCK: [2024-01-10 Wed 08:31]--[2024-01-10 Wed 10:03] =>  1:32
 :END:
 
 *** RAW Help about *Dired mode*
-SCHEDULED: <2024-01-31 Wed>
+SCHEDULED: <2024-02-01 Thu>
 :PROPERTIES:
 :CATEGORY: Emacs
 :END:
@@ -670,7 +670,7 @@ CLOCK: [2024-01-11 Thu 09:48]--[2024-01-11 Thu 10:19] =>  0:31
 SCHEDULED: <2024-03-26 Tue>
 [[info:emacs#Keyboard Macros][emacs#Keyboard Macros]]
 *** RAW Emacs marks
-SCHEDULED: <2024-01-31 Wed>
+SCHEDULED: <2024-02-01 Thu>
 :PROPERTIES:
 :CATEGORY: Emacs
 :END:
@@ -1214,7 +1214,7 @@ CLOCK: [2023-10-25 Wed 10:36]--[2023-10-25 Wed 11:16] =>  0:40
   (ie. never rebase master). You should never rebase master onto
   a feature branch.
 
-******* RAW TODO [#A] Git/Magit undo options.
+******* Init Git/Magit undo options.
 SCHEDULED: <2024-02-01 Thu ++2w>
 :PROPERTIES:
 :CATEGORY: Git

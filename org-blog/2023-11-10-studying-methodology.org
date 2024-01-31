@@ -16,10 +16,13 @@ tags: [emacs, org-mode, org-agenda, double-loop-learning]
 #+CATEGORY: Meta
 #+TODO: RAW INIT TODO ACTIVE | DONE
 
-* INIT [#A] Intro
-SCHEDULED: <2024-01-31 Wed ++4d>
+* INIT Intro
+SCHEDULED: <2024-02-01 Thu ++4d>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-21 Tue 18:11]
+:END:
+:LOGBOOK:
+CLOCK: [2024-01-31 Wed 13:14]--[2024-01-31 Wed 13:15] =>  0:01
 :END:
 - State "DONE"       from "ACTIVE"     [2023-11-21 Tue 18:11]
 - State "DONE"       from "ACTIVE"     [2023-11-17 Fri 08:56]
@@ -405,8 +408,8 @@ implemented.
 Describe what you ought to do and in what manner it might be
 implemented.
 
-* RAW [#A] Tasks actualization
-SCHEDULED: <2024-01-31 Wed>
+* RAW Tasks actualization
+SCHEDULED: <2024-02-01 Thu>
 [[info:org#TODO Extensions][org#TODO Extensions]]
 
 Over time, a large number of tasks can accumulate in the personal

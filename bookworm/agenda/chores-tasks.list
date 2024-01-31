@@ -14,18 +14,20 @@
 CLOSED: [2023-10-26 Thu 17:32] SCHEDULED: <2023-10-29 Sun>
 Naturally, by its definition they are the routine, usual and regular
 tasks.
-* [#C] Git commits purification
-SCHEDULED: <2024-01-30 Tue ++1d>
+* Git commits purification
+SCHEDULED: <2024-02-01 Thu ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-01-29 Mon 19:05]
+:LAST_REPEAT: [2024-01-31 Wed 19:06]
 :END:
+- State "AMPLE"      from ""           [2024-01-31 Wed 19:06]
+- State "AMPLE"      from ""           [2024-01-30 Tue 15:35]
 - State "AMPLE"      from ""           [2024-01-29 Mon 19:05]
 - State "AMPLE"      from ""           [2024-01-28 Sun 17:13]
 - State "AMPLE"      from ""           [2024-01-27 Sat 18:52]
 - State "AMPLE"      from ""           [2024-01-26 Fri 18:55]
 - State "AMPLE"      from "DELAY"      [2024-01-25 Thu 18:40]
 :LOGBOOK:
-CLOCK: [2024-01-30 Tue 15:25]
+CLOCK: [2024-01-30 Tue 15:25]--[2024-01-30 Tue 15:35] =>  0:10
 CLOCK: [2024-01-29 Mon 18:50]--[2024-01-29 Mon 19:04] =>  0:14
 CLOCK: [2024-01-26 Fri 09:39]--[2024-01-26 Fri 09:59] =>  0:20
 CLOCK: [2024-01-25 Thu 15:09]--[2024-01-25 Thu 15:34] =>  0:25
@@ -111,11 +113,13 @@ CLOCK: [2024-01-24 Wed 18:07]--[2024-01-24 Wed 18:57] =>  0:50
 - State "DONE"       from "ACTIVE"     [2023-10-13 Fri 13:02]
 ** DONE Test
 CLOSED: [2023-11-29 Wed 18:16] SCHEDULED: <2023-11-28 Tue>
-* [#C] *PUSH*
-SCHEDULED: <2024-01-30 Tue ++1d>
+* *PUSH*
+SCHEDULED: <2024-02-01 Thu ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-01-29 Mon 19:05]
+:LAST_REPEAT: [2024-01-31 Wed 19:07]
 :END:
+- State "AMPLE"      from ""           [2024-01-31 Wed 19:07]
+- State "AMPLE"      from ""           [2024-01-30 Tue 15:35]
 - State "AMPLE"      from ""           [2024-01-29 Mon 19:05]
 - State "AMPLE"      from ""           [2024-01-28 Sun 17:13]
 - State "AMPLE"      from ""           [2024-01-27 Sat 18:52]
@@ -198,11 +202,12 @@ Initially it should be accomplished daily. Sometimes it would be
 necessary to do after some changes need to be shared with me
 urgently. Before push I can't see any changes, because all them are on
 your localhost.
-* [#C] Tomorrow begins today
-SCHEDULED: <2024-01-31 Wed ++1d>
+* Tomorrow begins today
+SCHEDULED: <2024-02-01 Thu ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-01-29 Mon 19:04]
+:LAST_REPEAT: [2024-01-31 Wed 19:06]
 :END:
+- State "AMPLE"      from ""           [2024-01-31 Wed 19:06]
 - State "AMPLE"      from ""           [2024-01-29 Mon 19:04]
 - State "AMPLE"      from ""           [2024-01-29 Mon 18:50]
 - State "AMPLE"      from ""           [2024-01-28 Sun 17:13]
@@ -210,6 +215,7 @@ SCHEDULED: <2024-01-31 Wed ++1d>
 - State "AMPLE"      from "DELAY"      [2024-01-26 Fri 18:56]
 - State "AMPLE"      from ""           [2024-01-25 Thu 18:37]
 :LOGBOOK:
+CLOCK: [2024-01-31 Wed 19:03]--[2024-01-31 Wed 19:06] =>  0:03
 CLOCK: [2024-01-25 Thu 18:20]--[2024-01-25 Thu 18:34] =>  0:14
 CLOCK: [2024-01-24 Wed 19:04]--[2024-01-24 Wed 19:28] =>  0:24
 :END:
@@ -225,7 +231,7 @@ and your workspace for tomorrow:
 - A minor cleansing;
 - Re-arrange tasks;
 
-* [#C] Workspace clean-up
+* Workspace clean-up
 SCHEDULED: <2024-02-02 Fri ++1w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-01-26 Fri 18:56]
@@ -264,11 +270,12 @@ workspace:
   * k to mark buffers for kill (D appears next to buffer)
   * x to execute kill
     
-* [#C] Workspace clean-up
-SCHEDULED: <2024-01-30 Tue ++1w>
+* Workspace clean-up
+SCHEDULED: <2024-02-06 Tue ++1w>
 :PROPERTIES:
-:LAST_REPEAT: [2024-01-23 Tue 18:43]
+:LAST_REPEAT: [2024-01-30 Tue 15:35]
 :END:
+- State "AMPLE"      from ""           [2024-01-30 Tue 15:35]
 - State "DONE"       from "ACTIVE"     [2024-01-23 Tue 18:43]
 - State "DONE"       from "ACTIVE"     [2024-01-11 Thu 16:09]
 - State "DONE"       from "ACTIVE"     [2024-01-04 Thu 15:11]
@@ -308,11 +315,13 @@ workspace:
   At the bottom right, select the time - Settings
   At the bottom left, select: Advanced - About ChromeOS - Select Check for updates.
 
-* [#C] Evening meet-up
-SCHEDULED: <2024-01-30 Tue ++1d>
+* Evening meet-up
+SCHEDULED: <2024-02-01 Thu ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-01-29 Mon 18:48]
+:LAST_REPEAT: [2024-01-31 Wed 19:05]
 :END:
+- State "AMPLE"      from ""           [2024-01-31 Wed 19:05]
+- State "AMPLE"      from ""           [2024-01-30 Tue 15:35]
 - State "AMPLE"      from ""           [2024-01-29 Mon 18:48]
 - State "AMPLE"      from ""           [2024-01-28 Sun 17:13]
 - State "AMPLE"      from ""           [2024-01-27 Sat 15:22]
@@ -397,11 +406,13 @@ SCHEDULED: <2024-01-25 Thu>
 :LOGBOOK:
 CLOCK: [2024-01-24 Wed 08:48]--[2024-01-24 Wed 09:56] =>  1:08
 :END:
-* [#C] Daily taskset schedulling
-SCHEDULED: <2024-01-30 Tue ++1d>
+* Daily taskset schedulling
+SCHEDULED: <2024-02-01 Thu ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-01-29 Mon 18:49]
+:LAST_REPEAT: [2024-01-31 Wed 19:05]
 :END:
+- State "AMPLE"      from ""           [2024-01-31 Wed 19:05]
+- State "AMPLE"      from ""           [2024-01-30 Tue 15:35]
 - State "AMPLE"      from ""           [2024-01-29 Mon 18:49]
 - State "AMPLE"      from ""           [2024-01-28 Sun 17:13]
 - State "AMPLE"      from ""           [2024-01-27 Sat 15:22]
@@ -486,11 +497,14 @@ CLOCK: [2024-01-25 Thu 10:36]--[2024-01-25 Thu 10:45] =>  0:09
 - State "DONE"       from "ACTIVE"     [2023-10-13 Fri 13:03]
 It might be required several times a day, but first time in the early
 morning.
-* [#C] Daily taskset rectification
-SCHEDULED: <2024-01-30 Tue ++1d>
+* Daily taskset rectification
+SCHEDULED: <2024-02-02 Fri ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-01-29 Mon 18:49]
+:LAST_REPEAT: [2024-01-31 Wed 19:05]
 :END:
+- State "AMPLE"      from ""           [2024-01-31 Wed 19:05]
+- State "AMPLE"      from ""           [2024-01-31 Wed 19:04]
+- State "AMPLE"      from ""           [2024-01-30 Tue 15:35]
 - State "AMPLE"      from ""           [2024-01-29 Mon 18:49]
 - State "AMPLE"      from ""           [2024-01-28 Sun 17:13]
 - State "AMPLE"      from ""           [2024-01-27 Sat 15:22]
@@ -500,11 +514,13 @@ CLOCK: [2024-01-30 Tue 14:59]--[2024-01-30 Tue 15:00] =>  0:01
 CLOCK: [2024-01-26 Fri 10:00]--[2024-01-26 Fri 10:32] =>  0:32
 CLOCK: [2024-01-26 Fri 09:17]--[2024-01-26 Fri 09:39] =>  0:22
 :END:
-* [#C] Tomorrow's agenda brush-up
-SCHEDULED: <2024-01-30 Tue ++1d>
+* Tomorrow's agenda brush-up
+SCHEDULED: <2024-02-01 Thu ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-01-29 Mon 18:49]
+:LAST_REPEAT: [2024-01-31 Wed 19:05]
 :END:
+- State "AMPLE"      from ""           [2024-01-31 Wed 19:05]
+- State "AMPLE"      from "LAG"        [2024-01-30 Tue 15:36]
 - State "AMPLE"      from ""           [2024-01-29 Mon 18:49]
 - State "AMPLE"      from ""           [2024-01-28 Sun 17:13]
 - State "AMPLE"      from "DELAY"      [2024-01-27 Sat 18:52]
@@ -611,7 +627,7 @@ SCHEDULED: <2024-03-13 Wed ++3w>
 CLOCK: [2023-12-08 Fri 09:29]--[2023-12-08 Fri 10:22] =>  0:53
 :END:
 Re-order and get rid of any littern (sweep it out)
-* DELAY YouTube into articles
+* YouTube into articles
 SCHEDULED: <2024-02-29 Thu ++2d/3d>
 :PROPERTIES:
 :CATEGORY: Blogging
@@ -621,12 +637,13 @@ https://www.youtube.com/watch?v=lcyHC9HLTzc&list=PLdGzcof2XV5oRreuRZByoN1oG8q_f_
 * DONE Google credentials add to blog
 SCHEDULED: <2024-01-07 Sun>
 * DONE Fix all headers in articles
-* [#C] Speed-typing
-SCHEDULED: <2024-01-31 Wed ++1d>
+* Speed-typing
+SCHEDULED: <2024-02-01 Thu ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-01-30 Tue 14:59]
+:LAST_REPEAT: [2024-01-31 Wed 19:05]
 :CATEGORY: Chore
 :END:
+- State "AMPLE"      from ""           [2024-01-31 Wed 19:05]
 - State "AMPLE"      from ""           [2024-01-30 Tue 14:59]
 - State "AMPLE"      from ""           [2024-01-29 Mon 18:49]
 - State "AMPLE"      from "DELAY"      [2024-01-26 Fri 18:44]
@@ -689,12 +706,12 @@ SCHEDULED: <2023-12-19 Tue>
 * DONE Article's spell checking 
 SCHEDULED: <2024-01-15 Mon>
 
-* DELAY [#C] Drill the Definitions 
-SCHEDULED: <2024-01-31 Wed ++1d>
+* Drill the Definitions 
+SCHEDULED: <2024-02-01 Thu ++1d>
 :PROPERTIES:
-:CATEGORY: Drill
-:LAST_REPEAT: [2024-01-30 Tue 15:29]
+:LAST_REPEAT: [2024-01-31 Wed 19:05]
 :END:
+- State "AMPLE"      from ""           [2024-01-31 Wed 19:05]
 - State "AMPLE"      from "DELAY"      [2024-01-30 Tue 15:29]
 - State "DONE"       from "ACTIVE"     [2024-01-26 Fri 17:50]
 - State "AMPLE"      from "RAW"        [2024-01-24 Wed 13:25]
@@ -703,7 +720,7 @@ CLOCK: [2024-01-24 Wed 13:22]--[2024-01-24 Wed 13:25] =>  0:03
 :END:
 - State "AMPLE"      from ""           [2024-01-24 Wed 13:19]
   [[file:~/git/ballyboe/bookworm/drills.org::*Definitions][Definitions]]
-* [#C] Add all tasks from the paper to agenda
+* Add all tasks from the paper to agenda
 SCHEDULED: <2024-02-01 Thu ++2d/3d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-01-29 Mon 18:46]
@@ -716,8 +733,8 @@ SCHEDULED: <2024-02-01 Thu ++2d/3d>
 CLOCK: [2024-01-26 Fri 11:38]--[2024-01-26 Fri 11:47] =>  0:09
 CLOCK: [2024-01-25 Thu 11:05]--[2024-01-25 Thu 11:33] =>  0:28
 :END:
-* [#C] Add all tasks from the scratch buffer into agenda
-SCHEDULED: <2024-01-31 Wed ++3d/4d>
+* Add all tasks from the scratch buffer into agenda
+SCHEDULED: <2024-02-01 Thu ++3d/4d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-01-28 Sun 17:17]
 :END:
@@ -733,27 +750,33 @@ CLOCK: [2024-01-25 Thu 18:34]--[2024-01-25 Thu 18:45] =>  0:11
 :END:
 * AMPLE Add in all agenda files chain of TODOs states with AMPLE
 SCHEDULED: <2024-01-25 Thu>
-* [#C] Reading aloud&record audio
-SCHEDULED: <2024-01-30 Tue ++1d>
+* Reading aloud&record audio
+SCHEDULED: <2024-02-01 Thu ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-01-29 Mon 15:56]
+:LAST_REPEAT: [2024-01-31 Wed 19:05]
 :END:
+- State "AMPLE"      from ""           [2024-01-31 Wed 19:05]
+- State "AMPLE"      from "DELAY"      [2024-01-30 Tue 16:33]
 - State "AMPLE"      from ""           [2024-01-29 Mon 15:56]
 - State "AMPLE"      from ""           [2024-01-26 Fri 19:09]
 - State "AMPLE"      from ""           [2024-01-25 Thu 18:24]
 - State "AMPLE"      from ""           [2024-01-24 Wed 19:11]
 :LOGBOOK:
+CLOCK: [2024-01-31 Wed 14:55]--[2024-01-31 Wed 15:07] =>  0:12
+CLOCK: [2024-01-30 Tue 15:52]--[2024-01-30 Tue 16:31] =>  0:39
 CLOCK: [2024-01-29 Mon 15:11]--[2024-01-29 Mon 15:34] =>  0:23
 CLOCK: [2024-01-26 Fri 18:45]--[2024-01-26 Fri 19:09] =>  0:24
 CLOCK: [2024-01-25 Thu 16:04]--[2024-01-25 Thu 16:22] =>  0:18
 CLOCK: [2024-01-24 Wed 14:25]--[2024-01-24 Wed 15:26] =>  1:01
 :END:
 
-* [#C] Work with vocabulary
-SCHEDULED: <2024-01-30 Tue ++1d>
+* Work with vocabulary
+SCHEDULED: <2024-02-01 Thu ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-01-29 Mon 15:56]
+:LAST_REPEAT: [2024-01-31 Wed 19:05]
 :END:
+- State "AMPLE"      from ""           [2024-01-31 Wed 19:05]
+- State "AMPLE"      from "DELAY"      [2024-01-30 Tue 16:33]
 - State "AMPLE"      from ""           [2024-01-29 Mon 15:56]
 - State "AMPLE"      from ""           [2024-01-26 Fri 18:45]
 - State "AMPLE"      from ""           [2024-01-25 Thu 18:25]
@@ -770,21 +793,22 @@ Composing sentences with new words
 Creation short essay
 ~vocabulary.org~ extension
 
-* DELAY [#C] Definitions extension
-SCHEDULED: <2024-01-31 Wed ++1d>
+* Definitions extension
+SCHEDULED: <2024-02-01 Thu ++1d>
 :PROPERTIES:
-:CATEGORY: Drill
-:LAST_REPEAT: [2024-01-30 Tue 15:28]
+:LAST_REPEAT: [2024-01-31 Wed 19:05]
 :END:
+- State "AMPLE"      from ""           [2024-01-31 Wed 19:05]
 - State "AMPLE"      from "DELAY"      [2024-01-30 Tue 15:28]
 - State "DONE"       from "ACTIVE"     [2024-01-26 Fri 17:51]
 To add definitions from glossary to drill.org utilizing org-capture
 templates
-* [#C] Appending new tasks
-SCHEDULED: <2024-01-31 Wed ++1d>
+* Appending new tasks
+SCHEDULED: <2024-02-01 Thu ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-01-30 Tue 14:59]
+:LAST_REPEAT: [2024-01-31 Wed 19:05]
 :END:
+- State "AMPLE"      from ""           [2024-01-31 Wed 19:05]
 - State "AMPLE"      from ""           [2024-01-30 Tue 14:59]
 - State "AMPLE"      from ""           [2024-01-29 Mon 18:47]
 - State "AMPLE"      from ""           [2024-01-28 Sun 17:16]
@@ -794,7 +818,7 @@ SCHEDULED: <2024-01-31 Wed ++1d>
 CLOCK: [2024-01-27 Sat 12:01]--[2024-01-27 Sat 12:17] =>  0:16
 :END:
 like Chores to Agenda on a daily basics
-* AMPLE [#C] Work with transcript
+* AMPLE Work with transcript
 SCHEDULED: <2024-02-03 Sat>
 :LOGBOOK:
 CLOCK: [2024-01-27 Sat 13:22]--[2024-01-27 Sat 15:20] =>  1:58
@@ -803,16 +827,18 @@ Read the text from movie's transcript aloud
 Pich up and write down the set of new words
 Find translation and write it down as well
 Find transcription for the new words (optionally)
-* AMPLE [#C] Own sentences forming
+* AMPLE Own sentences forming
 SCHEDULED: <2024-02-03 Sat>
 with new words gathered earlier from the transcripts
-* [#C] Hang writing
-SCHEDULED: <2024-01-31 Wed ++1d>
+* Hang writing
+SCHEDULED: <2024-02-01 Thu ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-01-30 Tue 14:59]
+:LAST_REPEAT: [2024-01-31 Wed 19:05]
 :END:
+- State "AMPLE"      from ""           [2024-01-31 Wed 19:05]
 - State "AMPLE"      from ""           [2024-01-30 Tue 14:59]
 :LOGBOOK:
+CLOCK: [2024-01-31 Wed 13:46]--[2024-01-31 Wed 14:42] =>  0:56
 CLOCK: [2024-01-30 Tue 10:57]--[2024-01-30 Tue 11:27] =>  0:30
 :END:
 * DELAY All =Chores= tasks move to the Agenda bottom
