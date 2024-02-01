@@ -17,8 +17,8 @@ tags: [agenda, tasks-management]
 #+TODO: | AMPLE
 #+TODO: RAW INIT TODO ACTIVE | DONE
 
-* AMPLE Preface
-SCHEDULED: <2024-02-01 Thu>
+* Preface
+SCHEDULED: <2024-02-02 Fri>
 :LOGBOOK:
 CLOCK: [2024-01-31 Wed 13:01]--[2024-01-31 Wed 13:14] =>  0:13
 CLOCK: [2024-01-30 Tue 08:33]--[2024-01-30 Tue 09:20] =>  0:47
@@ -67,8 +67,8 @@ performance - Visualize progress - Make changes.
 
 
 
-* AMPLE Tasks classification
-SCHEDULED: <2024-02-01 Thu>
+* Tasks classification
+SCHEDULED: <2024-02-02 Fri>
 :LOGBOOK:
 CLOCK: [2024-01-30 Tue 09:20]--[2024-01-30 Tue 09:39] =>  0:19
 :END:
@@ -124,7 +124,157 @@ By gestation stages:
 RAW Init DP0 Todo DP1 Active DONE
 
 * Org-Agenda as the main tool of capabilities
-SCHEDULED: <2024-02-01 Thu>
+SCHEDULED: <2024-02-02 Fri>
+:LOGBOOK:
+CLOCK: [2024-02-01 Thu 08:45]
+:END:
+
+#+begin_quote
+[[https://cachestocaches.com/2016/9/my-workflow-org-agenda/]]
+[[https://blog.aaronbieber.com/2016/09/24/an-agenda-for-life-with-org-mode.html]]
+
+I’m sure we’ve all had the same experience with “fully-featured”
+todo-list and project management programs: each had their own
+niceties, but none quite delivered on their promise. I’ve been using
+the built-in org-mode within Emacs for quite some time now, so I
+figured it was high time that I really made it my own.
+
+Org-mode's built-in agenda commands are powerful tools for searching
+your notes and for gathering, sorting, filtering, and displaying your
+tasks.
+
+I want to share how to get started using org-mode's agenda with
+scheduled items and basic TODO because it wasn't obvious to me and
+find org-mode's Agenda to be incredibly powerful in my day to day.
+
+[[https://doc.norang.ca/org-mode.html][Guide be Bernt Hansen ]]
+
+However, the guide contains an overwhelming
+amount of useful information.
+
+I’m writing this short guide in an effort to introduce the features in
+org-mode which I’ve found I can’t live without. I’ll go over how I use
+org-mode, and it’s powerful built-in summary/calendar view known as
+org-agenda, in both my work and in my hobby projects.
+
+I use org-mode (or simply “Org”) for pretty much everything. I rely on
+it to keep track of my notes for work and hobby projects. I keep track
+of my upcoming tasks. It serves me with reminders for things like
+upcoming meetings and people I need to send emails to. It allows me to
+effectively log my time and provides an easy plain-text interface to
+quickly jot down notes and organize my thoughts. And it acts as a nice
+medium in which to implement many of the principles by the well-known
+productivity book "Getting Things Done".
+
+TODO Keywords
+
+At its core, my workflow with Org is build around the idea of working
+through projects, which are set up as a series of “todo”
+items. Without any customization, Org allows you to assign a “TODO” or
+a “DONE” status to any heading.
+
+TODO Used to indicate tasks and projects which need to get done (a
+ “project” is any “TODO” heading with other “TODO/NEXT/DONE” headings
+ underneath it).
+ 
+NEXT This is for tasks which are to be done “next” within a particular
+ project. Following the Getting Things Done principles, a project
+ without a task marked as “NEXT” is considered “stuck” (but more on
+ that in the next section).
+ 
+WAITING Whenever I have a task that is waiting on someone else, I’ll
+ assign it this keyword.
+ 
+INACTIVE As an academic, I will occasionally have ideas or projects
+ that I’ll want to get done eventually, but won’t have time to work on
+ them at the moment. I typically use the INACTIVE keyword to signify
+ that I’d like to come back to it eventually and I’ll occasionally
+ search my files for “INACTIVE” projects when I have time.
+ 
+CANCELLED This is self-explanatory. If I’m working on something for a
+ while, but it fizzles, it’s sometimes useful to mark it as cancelled.
+ 
+MEETING Used to indicate that I was meeting with someone. I’ll put
+ meeting notes in headings with this keyword.
+ 
+DONE Again, this is self-explanatory.
+
+
+The Agenda
+
+My favorite thing by far about using Org to collect my thoughts and
+keep track of my active projects is the agenda view:
+
+A demo agenda view with some sample content. As you can imagine (if
+you’re even half as busy as I am), my full agenda view contains tasks
+from a host of different projects and files and my clock-view (at the
+top of the agenda) will often fill my screen by the end of the
+day. The agenda makes it easy to see what tasks or meetings I have
+coming up for the rest of the day and provides an easy interface for
+choosing what task to tackle next.  Scrolling down to the item of
+interest and pressing return will automatically take you to it, adding
+to the convenience.
+
+The agenda view scans your .org files (set by customizing the
+org-agenda-files variable) and collects all of the headings with a
+TODO (or related) keyword. Without the agenda view, keeping track of
+projects, which I ensure are top-level TODO items, is difficult. The
+agenda provides a convenient way of tracking your projects and
+managing your calendar.
+
+I’ve put quite a bit of work into getting the agenda to behave the way
+I want. At the top of the agenda is my “Today” view, which shows all
+of my appointments and deadlines for the day, as well as all of my
+clocked tasks (which I’ll talk more about in the next section.  Then,
+I include all tasks marked as “NEXT”, which, once I’ve worked through
+all my items with deadlines, gives me other high priority tasks to
+chose from. I also have additional views for seeing my different
+active projects and other tasks associated with those projects.
+
+I mentioned in the previous section that tags were useful, but its
+really in the agenda that this feature shines through. Pressing / in
+the agenda enables “filtering by tag”, so that only certain tags are
+shown (or excluded using -). Furthermore, there are ways (see Bernt’s
+guide for more info) to ensure that your “personal” tags are
+automatically filtered out during the work day, so that you don’t have
+to worry about pruning them yourself.
+
+A similar sort of search of the text using regular expressions can be
+performed by pressing =.
+
+A similar sort of search of the text using regular expressions can be
+performed by pressing =.
+
+Automatic Clocking
+
+Certainly having a way of viewing one’s appointments is nice, but
+what’s an agenda without some way of logging one’s time? Fortunately,
+Org has you covered once again, which has some extremely useful
+clocking functionality built-in. Using it is relatively
+straightforward, with only a couple of key bindings to remember for
+clocking in (C-c C-x C-i) and clocking out (C-c C-x C-o).
+
+There are a few additional niceties which make this all worth
+doing. First, changing the state of the currently clocked task will
+clock out the time, which saves you from having to worry about it when
+you close out a task. As you might expect, the clocked entries will
+appear in your agenda view (as in the image above). The agenda view
+will also include the currently clocked task in the time-grid,
+allowing you to quickly change its state or clock out.
+
+During a typical day at work, I rely on all of these tools for project
+management. After spending some time in the morning reviewing my
+agenda and re-organizing my projects (if necessary), I start by
+tackling my upcoming deadlines and tasks which are marked for today.
+Once those are taken care of, I’ll chose a NEXT task (typically one
+with a :WORK: tag) and try to eliminate as many as possible before
+going home. When I’m interrupted by meetings, I start a MEETING with
+“Capture”. Whenever I have thoughts about something else I need to
+accomplish, whether work-related or not, I use “Capture” again. Though
+I’m far from proficient at this, I always try to clock my time and, at
+the end of each day, I’ll review how effectively I’m focusing my
+effort.
+#+end_quote
 * Group your tasks into bundles
 * Assign your tasks to a particular date/time
 * Final preparation
