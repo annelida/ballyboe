@@ -521,7 +521,7 @@ Bookmark all available places on ~localhost~ and in the ~WWW~
 #DP requires preparation with definition goals and approaches
 
 *** Init Help about *eww*
-SCHEDULED: <2024-02-01 Thu>
+SCHEDULED: <2024-02-02 Fri>
 :PROPERTIES:
 :CATEGORY: Emacs
 :END:
@@ -634,12 +634,12 @@ CLOCK: [2024-01-10 Wed 08:31]--[2024-01-10 Wed 10:03] =>  1:32
 :END:
 
 *** RAW Help about *Dired mode*
-SCHEDULED: <2024-02-01 Thu>
+SCHEDULED: <2024-02-02 Fri>
 :PROPERTIES:
 :CATEGORY: Emacs
 :END:
 *** RAW Multi-frame workplace
-SCHEDULED: <2024-02-01 Thu>
+SCHEDULED: <2024-02-02 Fri>
 :PROPERTIES:
 :CATEGORY: Emacs
 :END:
@@ -669,10 +669,13 @@ CLOCK: [2024-01-11 Thu 09:48]--[2024-01-11 Thu 10:19] =>  0:31
 *** AMPLE Customizing
 SCHEDULED: <2024-03-26 Tue>
 [[info:emacs#Keyboard Macros][emacs#Keyboard Macros]]
-*** RAW Emacs marks
-SCHEDULED: <2024-02-01 Thu>
+*** RAW Emacs markers
+SCHEDULED: <2024-02-02 Fri>
 :PROPERTIES:
 :CATEGORY: Emacs
+:END:
+:LOGBOOK:
+CLOCK: [2024-02-01 Thu 10:37]
 :END:
 ** Org-mode
 
@@ -1215,7 +1218,7 @@ CLOCK: [2023-10-25 Wed 10:36]--[2023-10-25 Wed 11:16] =>  0:40
   a feature branch.
 
 ******* Init Git/Magit undo options.
-SCHEDULED: <2024-02-01 Thu ++2w>
+SCHEDULED: <2024-02-23 Fri ++2w>
 :PROPERTIES:
 :CATEGORY: Git
 :LAST_REPEAT: [2024-01-04 Thu 12:46]
