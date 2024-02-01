@@ -285,6 +285,173 @@ specification or contract [are met.]
 Is a computer program [designed to carry out a specific task] other
 than one relating to the operation of the computer itself [typically
 to be used by end-users.]
+** Test                                                              :drill:
+   :PROPERTIES:
+   :DRILL_CARD_TYPE: hide1cloze
+   :END:
+Is a [procedure intended to establish] the quality, performance or
+reliability of something, [especially before it is taken into
+widespread use.]
+** Validation                                                        :drill:
+   :PROPERTIES:
+   :DRILL_CARD_TYPE: hide1cloze
+   :END:
+The act of confirming something [as true or correct.] Checks that the
+software product satisfies or fits intended use, i.e., the software
+[meets the user requirements.]  "Are we building the right product?"
+** Varification                                                      :drill:
+   :PROPERTIES:
+   :DRILL_CARD_TYPE: hide1cloze
+   :END:
+[Checks that the specifications] are correctly [implemented.]  "Are we
+building the product right?"
+** Assembly language                                                 :drill:
+   :PROPERTIES:
+   :DRILL_CARD_TYPE: hide1cloze
+   :END:
+Is any [low-level programming language with a very strong
+correspondence between the instructions in the language [and the
+arcitecture's machine.]
+** A compiler                                                        :drill:
+   :PROPERTIES:
+   :DRILL_CARD_TYPE: hide1cloze
+   :END:
+[Is a computer program] that translates computer code written in one
+of programming language (the source language) into [another language
+(the target language).]
+** Programming language                                              :drill:
+   :PROPERTIES:
+   :DRILL_CARD_TYPE: hide1cloze
+   :END:
+[Is a system of notation] for writing [computer programs.]
+** Function                                                          :drill:
+   :PROPERTIES:
+   :DRILL_CARD_TYPE: hide1cloze
+   :END:
+[Is a sequence] of program instruction that [performs a specific
+task.]
+** Module                                                            :drill:
+   :PROPERTIES:
+   :DRILL_CARD_TYPE: hide1cloze
+   :END:
+Is a [discrete piece of code] that can be independently created and
+maintained to be [used in different systems.]
+** Central Processing Unit (CPU)                                     :drill:
+   :PROPERTIES:
+   :DRILL_CARD_TYPE: hide1cloze
+   :END:
+Is the brain of a computer, containing [all the circuitry needed to
+process input, store data, and output results.] The CPU is constantly
+following instructions of computer programs that [tell it which data
+to process and how to process it.]
+** Debugging                                                         :drill:
+   :PROPERTIES:
+   :DRILL_CARD_TYPE: hide1cloze
+   :END:
+Is a [process of finding and resolving] bugs within computer programs,
+[software or system.]
+** Debugger or debugging tool                                        :drill:
+   :PROPERTIES:
+   :DRILL_CARD_TYPE: hide1cloze
+   :END:
+[Is a computer program] used to test and debug [other program.]
+** Passive testing                                                   :drill:
+   :PROPERTIES:
+   :DRILL_CARD_TYPE: hide1cloze
+   :END:
+[Verifying the system behavior] without any interaction with the
+software product. Testers only [look at system log and traces.]
+** Dynamic testing                                                   :drill:
+   :PROPERTIES:
+   :DRILL_CARD_TYPE: hide1cloze
+   :END:
+[Executing programmed code] with a given set of [test cases.]
+** Test case                                                         :drill:
+   :PROPERTIES:
+   :DRILL_CARD_TYPE: hide1cloze
+   :END:
+Is a [specification of the inputs, execution conditions,] testing
+procedure and expected results that [define a single test] to be
+executed.
+** Test design                                                       :drill:
+   :PROPERTIES:
+   :DRILL_CARD_TYPE: hide1cloze
+   :END:
+Defines ["HOW" something can be tested.] It is describes test strategy
+[or test plan.]
+** The Secure Shell Protocol (SSH)                                   :drill:
+   :PROPERTIES:
+   :DRILL_CARD_TYPE: hide1cloze
+   :END:
+Is a cryptographic [network protocol for operating network services]
+securely (in a way that avoids someone or something being harmed by
+any risk, danger) over an unsecured network.  *ssh (SSH client)* is a
+program for logging into a remote machine and for executing commands
+on a remote machine. It is intended to provide secure encrypted
+communications between two untrusted [hosts over an insecure network.]
+** htop                                                              :drill:
+   :PROPERTIES:
+   :DRILL_CARD_TYPE: hide1cloze
+   :END:
+Is an interactive [system-monitor] process-viewer and
+process-manager. It shows a frequently updated list of the processes
+running on a computer, normally ordered by the [amount of CPU usage.]
+** Emacs package                                                     :drill:
+   :PROPERTIES:
+   :DRILL_CARD_TYPE: hide1cloze
+   :END:
+Is a [collection of one or more ELisp files] that Emacs searches in
+the folder specified [by load-path.]
+** LISP                                                              :drill:
+   :PROPERTIES:
+   :DRILL_CARD_TYPE: hide1cloze
+   :END:
+An abbreviation of [("list processing")] is a high-level programming
+language created by John McCarthy in 1958. Lisp is the third-oldest
+high-level programming language still in common use, after Fortran and
+COBOL. It is a machine-independent language that supports [dynamic
+programming, object-oriented programming,] and data types.
+** Package management                                                :drill:
+   :PROPERTIES:
+   :DRILL_CARD_TYPE: hide1cloze
+   :END:
+Is a system that allows users to [easily install, manage, and update
+packages.] =Emacs package management= relies on package archives,
+which act as [online repositories that host packages.]
+** Selenium                                                          :drill:
+   :PROPERTIES:
+   :DRILL_CARD_TYPE: hide1cloze
+   :END:
+Selenium is a free (open-source) automated testing framework used [to
+validate web applications across different browsers and platforms.]
+You can use multiple programming languages like Java, C#, Python, etc
+to create [Selenium Test Scripts.]
+** API                                                               :drill:
+   :PROPERTIES:
+   :DRILL_CARD_TYPE: hide1cloze
+   :END:
+[An application programming] interface is a way for two or more
+computer programs to communicate with each other. It is a type of
+software interface [to exchange data across applications.]
+** Application                                                       :drill:
+   :PROPERTIES:
+   :DRILL_CARD_TYPE: hide1cloze
+   :END:
+Application software (App) is a [kind of software] that performs
+specific functions for the end user [by interacting directly with it.]
+** Framework                                                         :drill:
+   :PROPERTIES:
+   :DRILL_CARD_TYPE: hide1cloze
+   :END:
+A framework is a [structure that you can build software on.] It serves
+as a foundation, so you're not starting entirely [from scratch.]
+** Selenium WebDriver                                                :drill:
+   :PROPERTIES:
+   :DRILL_CARD_TYPE: hide1cloze
+   :END:
+Is an [open-source collection of APIs] that automates web application
+testing across different browsers using [different programming
+languages.]
 * Idioms
 * Quotes
 ** ==>                                                               :drill:
