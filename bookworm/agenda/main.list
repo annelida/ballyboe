@@ -754,17 +754,30 @@ CLOCK: [2023-11-28 Tue 08:00]--[2023-11-28 Tue 08:58] =>  0:58
 https://orgmode.org/worg/org-contrib/org-drill.html
 https://orgmode.org/worg/org-contrib/org-drill.html#org51fd4f9
 
-***** Init Org-capture templates usage
-SCHEDULED: <2024-02-02 Fri ++2w>
+***** Init [#A] Org-capture templates usage
+SCHEDULED: <2024-02-05 Mon ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-01-25 Thu 11:48]
 :CATEGORY: Emacs
 :END:
+- Note taken on [2024-02-02 Fri 10:29] \\
+  Template elements
+
+  ‘(file "path/to/file")’ Text will be placed at the beginning or end of
+  that file.
+
+  ‘entry’ An Org mode node, with a headline. Will be filed as the child
+  of the target entry or as a top-level entry.The target file should be
+  an Org file.
+
+  ‘plain’
+  Text to be inserted as it is.
 - State "AMPLE"      from "DELAY"      [2024-01-25 Thu 11:48]
 - State "AMPLE"      from "DELAY"      [2024-01-25 Thu 11:48]
 - State "DONE"       from "Active"     [2023-12-13 Wed 17:47]
 - State "DONE"       from "Active"     [2023-12-04 Mon 11:20]
 :LOGBOOK:
+CLOCK: [2024-02-02 Fri 08:55]--[2024-02-02 Fri 09:59] =>  1:04
 CLOCK: [2024-01-25 Thu 14:40]--[2024-01-25 Thu 15:02] =>  0:22
 CLOCK: [2024-01-25 Thu 11:49]--[2024-01-25 Thu 11:51] =>  0:02
 CLOCK: [2023-12-08 Fri 10:26]--[2023-12-09 Sat 10:19] => 23:53
