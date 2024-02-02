@@ -17,8 +17,8 @@ tags: [agenda, tasks-management]
 #+TODO: | AMPLE
 #+TODO: RAW INIT TODO ACTIVE | DONE
 
-* Preface
-SCHEDULED: <2024-02-02 Fri>
+* INIT Preface
+SCHEDULED: <2024-02-05 Mon>
 :LOGBOOK:
 CLOCK: [2024-01-31 Wed 13:01]--[2024-01-31 Wed 13:14] =>  0:13
 CLOCK: [2024-01-30 Tue 08:33]--[2024-01-30 Tue 09:20] =>  0:47
@@ -67,8 +67,8 @@ performance - Visualize progress - Make changes.
 
 
 
-* Tasks classification
-SCHEDULED: <2024-02-02 Fri>
+* INIT Tasks classification
+SCHEDULED: <2024-02-05 Mon>
 :LOGBOOK:
 CLOCK: [2024-01-30 Tue 09:20]--[2024-01-30 Tue 09:39] =>  0:19
 :END:
@@ -76,9 +76,35 @@ CLOCK: [2024-01-30 Tue 09:20]--[2024-01-30 Tue 09:39] =>  0:19
 - Main classes;
 - Classes definition (purpose, distinction features);
 
+  #+begin_quote
+  "I have two kinds of problems: the urgent and the important.  The
+  urgent are not important, and the important are never urgent."
+           Dr. J. Roscoe Miller, president of Northwestern University
+  #+end_quote
+
 The main tasks classes are:
 
 Class I - by urgency and importancy:
+
+#+begin_quote
+What Is the Difference Between "Urgent" and "Important" in the Eisenhower Matrix?
+In a 1954 speech to the Second Assembly of the World Council of Churches, former U.S. President Dwight D. Eisenhower, who was quoting Dr J. Roscoe Miller, president of Northwestern University, said: "I have two kinds of problems: the urgent and the important. The urgent are not important, and the important are never urgent." This "Eisenhower Principle" is said to be how he organized his workload and priorities.
+
+He recognized that great time management means being effective as well as efficient. In other words, we must spend our time on things that are important and not just the ones that are urgent. To do this, and to minimize the stress of having too many tight deadlines, we need to understand this distinction:
+
+Important activities have an outcome that leads to us achieving our
+goals, whether these are professional or personal. Urgent activities
+demand immediate attention, and are usually associated with achieving
+someone else's goals. They are often the ones we concentrate on and
+they demand attention because the consequences of not dealing with
+them are immediate.
+
+When we know which activities are important and which are urgent, we
+can overcome the natural tendency to focus on unimportant urgent
+activities, so that we can clear enough time to do what's essential
+for our success. This is the way we move from "firefighting" into a
+position where we can grow our businesses and our careers.
+#+end_quote
 
 *Urgent and important* - they are demand your attention and action /right
 now/;
@@ -123,9 +149,10 @@ By gestation stages:
 
 RAW Init DP0 Todo DP1 Active DONE
 
-* Org-Agenda as the main tool of capabilities
-SCHEDULED: <2024-02-02 Fri>
+* INIT Org-Agenda as the main tool of capabilities
+SCHEDULED: <2024-02-05 Mon>
 :LOGBOOK:
+CLOCK: [2024-02-02 Fri 10:35]--[2024-02-02 Fri 11:22] =>  0:47
 CLOCK: [2024-02-01 Thu 08:45]
 :END:
 
@@ -133,19 +160,16 @@ CLOCK: [2024-02-01 Thu 08:45]
 [[https://cachestocaches.com/2016/9/my-workflow-org-agenda/]]
 [[https://blog.aaronbieber.com/2016/09/24/an-agenda-for-life-with-org-mode.html]]
 
-I’m sure we’ve all had the same experience with “fully-featured”
-todo-list and project management programs: each had their own
-niceties, but none quite delivered on their promise. I’ve been using
-the built-in org-mode within Emacs for quite some time now, so I
-figured it was high time that I really made it my own.
+We’ve all had the same experience with different project management
+programs: each had their own niceties, but unfortunately doesn't
+always meet out expectation. Org-mode's built-in summary view known as
+org-agenda are powerful tools for for planning, sorting, filtering,
+and displaying your tasks, for searching and gathering your notes and
+ideas.
 
-Org-mode's built-in agenda commands are powerful tools for searching
-your notes and for gathering, sorting, filtering, and displaying your
-tasks.
-
-I want to share how to get started using org-mode's agenda with
-scheduled items and basic TODO because it wasn't obvious to me and
-find org-mode's Agenda to be incredibly powerful in my day to day.
+I want to describe how to use org-mode's agenda with scheduled items
+and basic TODO because I find org-mode's Agenda the incredibly
+powerful tool for everyday task managing.
 
 [[https://doc.norang.ca/org-mode.html][Guide be Bernt Hansen ]]
 
