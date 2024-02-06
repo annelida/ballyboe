@@ -16,9 +16,10 @@ tags: [agenda, tasks-management]
 #+CATEGORY: TM
 #+TODO: | AMPLE
 #+TODO: RAW INIT TODO ACTIVE | DONE
+#+TODO: DELAY LAG RETARD | BARE
 
-* INIT Preface
-SCHEDULED: <2024-02-06 Tue>
+* DELAY Preface
+SCHEDULED: <2024-03-10 Sun>
 :LOGBOOK:
 CLOCK: [2024-01-31 Wed 13:01]--[2024-01-31 Wed 13:14] =>  0:13
 CLOCK: [2024-01-30 Tue 08:33]--[2024-01-30 Tue 09:20] =>  0:47
@@ -62,8 +63,8 @@ tasks into smaller chunks-Timebox tasks - To-do lists - Monitor
 performance - Visualize progress - Make changes.
 #+end_quote
 
-* INIT Tasks classification
-SCHEDULED: <2024-02-06 Tue>
+* DELAY Tasks classification
+SCHEDULED: <2024-03-10 Sun>
 :LOGBOOK:
 CLOCK: [2024-01-30 Tue 09:20]--[2024-01-30 Tue 09:39] =>  0:19
 :END:
@@ -164,8 +165,8 @@ By gestation stages:
 
 RAW Init DP0 Todo DP1 Active DONE
 
-* INIT Org-Agenda as the main tool of capabilities
-SCHEDULED: <2024-02-06 Tue>
+* DELAY Org-Agenda as the main tool of capabilities
+SCHEDULED: <2024-03-10 Sun>
 :LOGBOOK:
 CLOCK: [2024-02-06 Tue 11:20]--[2024-02-06 Tue 11:56] =>  0:36
 CLOCK: [2024-02-02 Fri 10:35]--[2024-02-02 Fri 11:22] =>  0:47

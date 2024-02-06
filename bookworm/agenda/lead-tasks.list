@@ -11,8 +11,8 @@
 #+TODO: RAW Init DP0 Todo DP1 Active | DONE
 #+TODO: DELAY LAG RETARD | BARE
 
-* Genuine source of knowledge
-SCHEDULED: <2024-02-06 Tue ++1d>
+* DELAY Genuine source of knowledge
+SCHEDULED: <2024-03-10 Sun ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-02-03 Sat 17:19]
 :END:
@@ -147,8 +147,8 @@ CLOCK: [2023-11-24 Fri 08:31]--[2023-11-24 Fri 09:02] =>  0:31
 - State "DONE"       from "ACTIVE"     [2023-11-07 Tue 18:20]
 - State "DONE"       from "ACTIVE"     [2023-11-07 Tue 18:19]
 when you do challenging but indispensable tasks by yourself
-* DP0 Help about *Help*
-SCHEDULED: <2024-02-06 Tue ++1d>
+* DELAY Help about *Help*
+SCHEDULED: <2024-03-10 Sun ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-01-30 Tue 14:56]
 :CATEGORY: Emacs
@@ -306,8 +306,8 @@ CLOCK: [2023-10-14 Sat 07:30]--[2023-10-14 Sat 08:27] =>  0:57
 :END:
 Very straighforward system out from 10 initial keys to use in embedded
 *Help* browser.OA To use several *Help* buffers use =M-x raname uniquely=
-* DP0 Help about *info*
-SCHEDULED: <2024-02-06 Tue ++1d>
+* DELAY Help about *info*
+SCHEDULED: <2024-03-10 Sun ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-01-30 Tue 14:56]
 :CATEGORY: Emacs
