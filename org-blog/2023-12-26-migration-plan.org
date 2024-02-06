@@ -17,6 +17,30 @@ tags: [linux, git,  emacs, python, remotes]
 #+TODO: RAW INIT TODO ACTIVE | DONE
 
 * Migration sequence
+
+1. Prepare *all* data to migration:
+- Make Bookmarks file accessible through Git:
++ Put ~bookmarks~ file under the Git;
++ Make a soft-ling on its place in the file system;
++ Test it up!
+- Commit and push all date into the Git;
+
+2. Therefore all configs are stored at GitHub, the first and foremost step to migrate is ~GitHub~ config:
+
+- Keys (credentials);
+
+- Your local folders:
++ ~/git
++ ~/git/annelida
++ ~/git/0--key
++ ~/git/misc
+
+- Access test;
+- Clone test;
+- Pull test;
+- Sample changes;
+- Push test
+
 ** Login on remotely computer
 #+begin_example
 ssh vikky@192.168.43.200
