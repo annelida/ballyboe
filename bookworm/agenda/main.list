@@ -214,8 +214,8 @@ SCHEDULED: <2024-03-04 Mon>
   stable. In addition, process management allows the operating system
   to control how programs interact with each other.
   
-*** Init Software management
-SCHEDULED: <2024-02-03 Sat>
+*** DELAY Software management
+SCHEDULED: <2024-03-30 Sat>
 
 Is a science of planning and leading software projects.
 
@@ -334,8 +334,8 @@ CLOCK: [2023-10-24 Tue 08:07]--[2023-10-24 Tue 09:32] =>  1:25
 :END:
 
 
-*** RAW Python classes
-SCHEDULED: <2024-02-06 Tue>
+*** DELAY Python classes
+SCHEDULED: <2024-03-26 Tue>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-22 Wed 14:25]
 :END:
@@ -521,7 +521,7 @@ Bookmark all available places on ~localhost~ and in the ~WWW~
 #DP requires preparation with definition goals and approaches
 
 *** Init Help about *eww*
-SCHEDULED: <2024-02-05 Mon>
+SCHEDULED: <2024-02-06 Tue>
 :PROPERTIES:
 :CATEGORY: Emacs
 :END:
@@ -534,7 +534,7 @@ SCHEDULED: <2024-03-15 Fri ++3w>
 - State "AMPLE"      from "DELAY"      [2024-01-29 Mon 16:00]
 - State "DONE"       from "Active"     [2023-12-04 Mon 11:10]
 *** DELAY Elpy concepts
-SCHEDULED: <2024-02-05 Mon>
+SCHEDULED: <2024-02-08 Thu>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-23 Thu 15:54]
 :CATEGORY: Elpy
@@ -634,12 +634,12 @@ CLOCK: [2024-01-10 Wed 08:31]--[2024-01-10 Wed 10:03] =>  1:32
 :END:
 
 *** RAW Help about *Dired mode*
-SCHEDULED: <2024-02-05 Mon>
+SCHEDULED: <2024-02-06 Tue>
 :PROPERTIES:
 :CATEGORY: Emacs
 :END:
 *** RAW Multi-frame workplace
-SCHEDULED: <2024-02-05 Mon>
+SCHEDULED: <2024-02-06 Tue>
 :PROPERTIES:
 :CATEGORY: Emacs
 :END:
@@ -670,7 +670,7 @@ CLOCK: [2024-01-11 Thu 09:48]--[2024-01-11 Thu 10:19] =>  0:31
 SCHEDULED: <2024-03-26 Tue>
 [[info:emacs#Keyboard Macros][emacs#Keyboard Macros]]
 *** RAW Emacs markers
-SCHEDULED: <2024-02-05 Mon>
+SCHEDULED: <2024-02-06 Tue>
 :PROPERTIES:
 :CATEGORY: Emacs
 :END:
@@ -760,7 +760,7 @@ https://orgmode.org/worg/org-contrib/org-drill.html
 https://orgmode.org/worg/org-contrib/org-drill.html#org51fd4f9
 
 ***** Init [#A] Org-capture templates usage
-SCHEDULED: <2024-02-05 Mon ++2w>
+SCHEDULED: <2024-02-06 Tue ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-01-25 Thu 11:48]
 :CATEGORY: Emacs
@@ -962,8 +962,8 @@ to the corresponding files from /_layouts folder.
 Result you can see on [[https://annelida.github.io/]]
 
 
-******* DELAY [#A] Explorations in details page's structure in Jekyll.
-SCHEDULED: <2024-02-06 Tue>
+******* DELAY Explorations in details page's structure in Jekyll.
+SCHEDULED: <2024-02-28 Wed>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-20 Mon 16:18]
 :END:
@@ -1139,7 +1139,7 @@ In the Linux terminal it is possible at the same time to compare folder with fil
 $ diff -a -y dir1 dir2
 
 ******* DELAY Linux symbolic links
-SCHEDULED: <2024-02-04 Sun>
+SCHEDULED: <2024-03-01 Fri>
 - Note taken on [2023-10-10 Tue 19:27] \\
   M-x man <enter> ln
 - Note taken on [2023-10-10 Tue 15:30]
