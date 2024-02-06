@@ -777,11 +777,19 @@ SCHEDULED: <2024-02-05 Mon ++2w>
 
   ‘plain’
   Text to be inserted as it is.
+
+  #+begin_example
+  	;;
+	("n" "Notes" entry (file+headline
+        "~/git/ballyboe/org-blog/2024-01-25-Task-management.org"
+         "Preface"))
+  #+end_example
 - State "AMPLE"      from "DELAY"      [2024-01-25 Thu 11:48]
 - State "AMPLE"      from "DELAY"      [2024-01-25 Thu 11:48]
 - State "DONE"       from "Active"     [2023-12-13 Wed 17:47]
 - State "DONE"       from "Active"     [2023-12-04 Mon 11:20]
 :LOGBOOK:
+CLOCK: [2024-02-06 Tue 10:08]--[2024-02-06 Tue 11:11] =>  1:03
 CLOCK: [2024-02-02 Fri 08:55]--[2024-02-02 Fri 09:59] =>  1:04
 CLOCK: [2024-01-25 Thu 14:40]--[2024-01-25 Thu 15:02] =>  0:22
 CLOCK: [2024-01-25 Thu 11:49]--[2024-01-25 Thu 11:51] =>  0:02
