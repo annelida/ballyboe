@@ -12,10 +12,12 @@
 #+TODO: DELAY LAG RETARD | BARE
 
 * Genuine source of knowledge
-SCHEDULED: <2024-02-03 Sat ++1d>
+SCHEDULED: <2024-02-06 Tue ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-02-02 Fri 17:45]
+:LAST_REPEAT: [2024-02-03 Sat 17:19]
 :END:
+- State "AMPLE"      from ""           [2024-02-03 Sat 17:19]
+- State "AMPLE"      from ""           [2024-02-03 Sat 17:19]
 - State "AMPLE"      from ""           [2024-02-02 Fri 17:45]
 - State "AMPLE"      from ""           [2024-02-01 Thu 16:48]
 - State "AMPLE"      from ""           [2024-01-31 Wed 19:02]
@@ -146,7 +148,7 @@ CLOCK: [2023-11-24 Fri 08:31]--[2023-11-24 Fri 09:02] =>  0:31
 - State "DONE"       from "ACTIVE"     [2023-11-07 Tue 18:19]
 when you do challenging but indispensable tasks by yourself
 * DP0 Help about *Help*
-SCHEDULED: <2024-02-05 Mon ++1d>
+SCHEDULED: <2024-02-06 Tue ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-01-30 Tue 14:56]
 :CATEGORY: Emacs
@@ -305,7 +307,7 @@ CLOCK: [2023-10-14 Sat 07:30]--[2023-10-14 Sat 08:27] =>  0:57
 Very straighforward system out from 10 initial keys to use in embedded
 *Help* browser.OA To use several *Help* buffers use =M-x raname uniquely=
 * DP0 Help about *info*
-SCHEDULED: <2024-02-05 Mon ++1d>
+SCHEDULED: <2024-02-06 Tue ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-01-30 Tue 14:56]
 :CATEGORY: Emacs
