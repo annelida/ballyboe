@@ -46,22 +46,26 @@ tags: [linux, git,  emacs, python, remotes]
 ssh vikky@192.168.43.200
 #+end_example
 
-** Check the ssh keys
+** Check if the ssh keys already exists
 #+begin_example
 cd ~/.ssh
 ls -la
 #+end_example
 
-** If where are no any keys, copy next ssh-keys
+** Generating a new SSH key
+Open Terminal, paste the text below, replacing the email used in the
+example with your GitHub email address.
 #+begin_example
-id_ed25519
-id_ed25519.pub
+ssh-keygen -t ed25519 -C "your_email@example.com"
 #+end_example
 
 ** Add keys to ssh-agent
 #+begin_example
-ssh-add ~/.ssh.id25519
+ssh-add ~/.ssh.id_ed25519
 #+end_example
+
+** Add the SSH public key to your account on GitHub
+[[https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account][Adding a new SSH key to your GitHub account]]
 
 ** Install Git
 #+begin_example
