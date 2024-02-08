@@ -29,42 +29,24 @@ CLOCK: [2024-01-26 Fri 12:19]--[2024-01-26 Fri 12:38] =>  0:19
 Task management is defined as a system for efficient planning and
 execution of tasks, ensuring a streamlined path to successful
 completion. Is the process of managing a task or many tasks through
-its lifecycle from inception to execution. Task management skills are
-the abilities that help you achieve goals, work efficiently and take
-full advantage of your time. It is embraces several key activities
-like planning, workflow customization, tracking, managing and
+its lifecycle from inception to execution. It is a way of planning and
+handling tasks from the moment you put them into a schedule until
+they're completed or accomplish. Task management skills are the
+abilities that help you achieve goals, work efficiently and take full
+advantage of your time. It is embraces several key activities like
+planning, workflow customization, tracking, managing and
 reporting. Effective task management is the cornerstone of
 productivity and requires overseeing all aspects of a task, including
 its status, priority, time, human and financial resource assignments,
 dependencies etc.
 
-The lifecycle or status of tasks can be described by these states: 
+Managing tasks at work requires understanding of task management
+techniques like Tasks scheduling, To-do lists, Prioritize tasks,
+Breakdown tasks into smaller chunks, Working log performance, Make
+changes.
 
-#+begin_example
-RAW Init DP0 Todo DP1 Active | DONE
-#+end_example
-#+begin_quote
-It's just a fancy way of planning how tasks are handled from the
-moment you put them into a schedule until they're completed or
-accomplish.
-
-Each task is a single unit of work that individual team
-members are responsible for completing.
-
-Task management is defined as a strategic and dynamic system designed
-for efficient planning and execution of tasks, ensuring a streamlined
-path to successful completion. Whether tackling individual to-do lists
-or contributing to collaborative projects.
-
-Managing tasks at work requires certain task management skills and an
-understanding of task management techniques. Here are some techniques
-that can help in managing tasks at work:-Prioritize tasks-Breakdown
-tasks into smaller chunks-Timebox tasks - To-do lists - Monitor
-performance - Visualize progress - Make changes.
-#+end_quote
-
-* DELAY Tasks classification
-SCHEDULED: <2024-03-10 Sun>
+* RAW Tasks classification
+SCHEDULED: <2024-02-09 Fri>
 :LOGBOOK:
 CLOCK: [2024-01-30 Tue 09:20]--[2024-01-30 Tue 09:39] =>  0:19
 :END:
@@ -83,44 +65,28 @@ The main tasks classes are:
 Class I - by urgency and importancy:
 
 *Important activities* have an outcome that leads to us achieving our
-goals, whether these are professional or personal. *Urgent activities*
-demand immediate attention, and are usually associated with achieving
-someone else's goals. When we know which activities are important and
-which are urgent, we can overcome the natural tendency to focus on
-unimportant urgent activities, so that we can clear enough time to do
-what's essential for our success. This is the way we move from
-"firefighting" into a position where we can grow our businesses and
-our careers.
+goals, whether these are professional or personal.
 
-#+begin_quote
-What Is the Difference Between "Urgent" and "Important" in the
-Eisenhower Matrix?  In a 1954 speech to the Second Assembly of the
-World Council of Churches, former U.S. President Dwight D. Eisenhower,
-who was quoting Dr J. Roscoe Miller, president of Northwestern
-University, said: "I have two kinds of problems: the urgent and the
-important. The urgent are not important, and the important are never
-urgent." This "Eisenhower Principle" is said to be how he organized
-his workload and priorities.
-
-He recognized that great time management means being effective as well
-as efficient. In other words, we must spend our time on things that
-are important and not just the ones that are urgent. To do this, and
-to minimize the stress of having too many tight deadlines, we need to
-understand this distinction:
-
-Important activities have an outcome that leads to us achieving our
-goals, whether these are professional or personal. Urgent activities
-demand immediate attention, and are usually associated with achieving
-someone else's goals. They are often the ones we concentrate on and
-they demand attention because the consequences of not dealing with
-them are immediate.
+*Urgent activities* demand immediate attention, and are usually
+associated with achieving someone else's goals.
 
 When we know which activities are important and which are urgent, we
 can overcome the natural tendency to focus on unimportant urgent
 activities, so that we can clear enough time to do what's essential
 for our success. This is the way we move from "firefighting" into a
 position where we can grow our businesses and our careers.
+
+
+#+begin_quote
+He recognized that great time management means being effective as well
+as efficient. In other words, we must spend our time on things that
+are important and not just the ones that are urgent. To do this, and
+to minimize the stress of having too many tight deadlines, we need to
+understand this distinction:
 #+end_quote
+
+
+
 
 *Urgent and important* - they are demand your attention and action /right
 now/;
@@ -165,8 +131,8 @@ By gestation stages:
 
 RAW Init DP0 Todo DP1 Active DONE
 
-* DELAY Org-Agenda as the main tool of capabilities
-SCHEDULED: <2024-03-10 Sun>
+* RAW Org-Agenda as the main tool of capabilities
+SCHEDULED: <2024-02-09 Fri>
 :LOGBOOK:
 CLOCK: [2024-02-06 Tue 11:20]--[2024-02-06 Tue 11:56] =>  0:36
 CLOCK: [2024-02-02 Fri 10:35]--[2024-02-02 Fri 11:22] =>  0:47
@@ -186,10 +152,11 @@ The guide contains an overwhelming amount of useful information.
 TODO Keywords
 
 At its core, the workflow with Org is build around the idea of working
-through projects, which are set up as a series of “TODO”
-items. Without any customization, Org allows you to assign a “TODO” or
-a “DONE” status to any heading. TODO Used to indicate tasks and
-projects which need to get done and describe task's work phase.
+through projects, which are set up as a series of “TODO” items which
+describe the task's lyfecycle. Without any customization, Org allows
+you to assign a “TODO” or a “DONE” status to any heading. TODO Used to
+indicate tasks and projects which need to get done and describe task's
+work phase.
 
 In my everyday work I use the next TODO's chains:
 #+begin_example
@@ -197,6 +164,7 @@ In my everyday work I use the next TODO's chains:
 #+TODO: RAW Init DP0 Todo DP1 Active | DONE
 #+TODO: DELAY LAG RETARD | BARE
 #+end_example
+
 
 #+begin_quote
 [[https://cachestocaches.com/2016/9/my-workflow-org-agenda/]]
