@@ -784,6 +784,12 @@ SCHEDULED: <2024-03-10 Sun ++2w>
   ‘plain’
   Text to be inserted as it is.
 
+  ‘%c’ Current kill ring head.
+
+  ‘%x’ Content of the X clipboard.
+
+   ‘%?’  After completing the template, position point here.
+
   #+begin_example
   	;;
 	("n" "Notes" entry (file+headline
