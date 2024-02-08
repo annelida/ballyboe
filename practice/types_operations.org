@@ -251,6 +251,17 @@ None
 #+RESULTS:
 : aaaaaaaaaaabbbb'''bbbbbbbb""bbbbb'cccccccc
 
+**  String split() Method
+
+#+begin_src python :results output
+  txt = "welcome to the jungle"
+  x = txt.split()
+  print(x)
+#+end_src
+
+#+RESULTS:
+: ['welcome', 'to', 'the', 'jungle']
+
 **  The ~re~ module
 
 re.match(): Checks if a pattern matches the beginning of a string.
@@ -434,3 +445,31 @@ Tuples are immutable:
 
  #+RESULTS:
  : ([1, 2, 3], [3, 2, 1])
+* Python slice() Function
+The slice() function returns a slice object.
+
+A slice object is used to specify how to slice a sequence. You can
+specify where to start the slicing, and where to end. You can also
+specify the step, which allows you to e.g. slice only every other
+item.
+
+slice(start, end, step)
+
+start Optional. An integer number specifying at which position to
+start the slicing. Default is 0.
+
+end An integer number specifying at which position to end the slicing.
+
+step Optional. An integer number specifying the step of the
+slicing. Default is 1.
+
+
+#+begin_src python :results output
+a = ("a", "b", "c", "d", "e", "f", "g", "h")
+x = slice(2)
+print(a[x])
+#+end_src
+
+#+RESULTS:
+: ('a', 'b')
+
