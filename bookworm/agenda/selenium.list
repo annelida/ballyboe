@@ -77,8 +77,8 @@ CLOCK: [2023-11-04 Sat 10:45]--[2023-11-04 Sat 11:04] =>  0:19
 ** Advantages of automation testing
 ** Conclusion
 
-* RAW [#A] What is Selenium?
-SCHEDULED: <2024-02-09 Fri ++2w>
+* RAW What is Selenium?
+SCHEDULED: <2024-02-12 Mon ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-01-12 Fri 10:15]
 :END:
@@ -125,7 +125,7 @@ CLOSED: [2023-11-06 Mon 15:57]
   beginners and manual testers to learn more efficiently.
  
 * DELAY Features of Selenium IDE
-SCHEDULED: <2024-02-08 Thu>
+SCHEDULED: <2024-03-15 Fri>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-06 Mon 16:07]
 :END:
@@ -156,7 +156,7 @@ CLOSED: [2023-11-06 Mon 15:57]
   review and share detailed testing outcomes.
 
 * DELAY Selenium IDE Features in Detail
-SCHEDULED: <2024-02-08 Thu>
+SCHEDULED: <2024-03-14 Thu>
 - Note taken on [2023-11-06 Mon 09:43] \\
   Selenium Projects are always saved with .side extension.
 
