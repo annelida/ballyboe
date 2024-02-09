@@ -295,5 +295,10 @@ Is an open-source collection of APIs that automates web application
 testing across different browsers using different programming
 languages.
 
+** IDE
+An integrated development environment (IDE) is a software application
+that helps programmers develop software code efficiently and provides
+comprehensive facilities for software development.
+
 
 
