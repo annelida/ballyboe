@@ -46,8 +46,9 @@ Breakdown tasks into smaller chunks, Working log performance, Make
 changes.
 
 * RAW Tasks classification
-SCHEDULED: <2024-02-09 Fri>
+SCHEDULED: <2024-02-12 Mon>
 :LOGBOOK:
+CLOCK: [2024-02-09 Fri 06:29]--[2024-02-09 Fri 07:14] =>  0:45
 CLOCK: [2024-01-30 Tue 09:20]--[2024-01-30 Tue 09:39] =>  0:19
 :END:
 
@@ -57,46 +58,50 @@ CLOCK: [2024-01-30 Tue 09:20]--[2024-01-30 Tue 09:39] =>  0:19
   #+begin_quote
   "I have two kinds of problems: the urgent and the important.  The
   urgent are not important, and the important are never urgent."
-           Dr. J. Roscoe Miller, president of Northwestern University
+  ------ Dr. J. Roscoe Miller, president of Northwestern University
   #+end_quote
 
 The main tasks classes are:
 
 Class I - by urgency and importancy:
 
-*Important activities* have an outcome that leads to us achieving our
+The great time management means being effective as well as
+efficient. In other words, we must spend our time on things that are
+important and not just the ones that are urgent. To do this, and to
+minimize the stress of having too many tight deadlines, we need to
+understand this distinction:
+
+*Important* activities have an outcome that leads to us achieving our
 goals, whether these are professional or personal.
 
-*Urgent activities* demand immediate attention, and are usually
+*Urgent* activities demand immediate attention, and are usually
 associated with achieving someone else's goals.
 
 When we know which activities are important and which are urgent, we
 can overcome the natural tendency to focus on unimportant urgent
 activities, so that we can clear enough time to do what's essential
 for our success. This is the way we move from "firefighting" into a
-position where we can grow our businesses and our careers.
+position where we can grow our goals.
 
-
-#+begin_quote
-He recognized that great time management means being effective as well
-as efficient. In other words, we must spend our time on things that
-are important and not just the ones that are urgent. To do this, and
-to minimize the stress of having too many tight deadlines, we need to
-understand this distinction:
-#+end_quote
-
-
-
-
-*Urgent and important* - they are demand your attention and action /right
-now/;
+*Urgent and important* - they are demand your attention and action
+/right now/. There are two distinct types of urgent and important
+activities: ones that you could not have foreseen, and others that
+you've left until the last minute. You can eliminate last-minute
+activities /by planning ahead and avoiding procrastination/;
 
 *Important, but not urgent* - they are essential issues, but they’re
-not urgent and  don’t require your immediate action. So these
-are the items you’ll want /to schedule work for a later time/;
+not urgent and don’t require your immediate action. These are the
+activities that help you achieve your personal and professional goals,
+and complete important work. So these are the items you’ll want /to
+schedule for a future work/. But /make sure/ that you /have plenty of
+time to do these things properly/, so that they do not become urgent;
 
 *Not important, but urgent* - these are urgent items /that pop up/ and
-/demand immediate attention/;
+/demand immediate attention/. Urgent but not important tasks are
+things that prevent you from achieving your goals. A common source of
+such activities is other people. Sometimes it's appropriate to say
+"no" to people politely, or to encourage them to solve the problem
+themselves;
 
 *Not important, not urgent* - they are not essential or urgent, so you
 can, in most cases, /delay them or delete from your list/.
@@ -120,10 +125,10 @@ high:
 
 Complex or simple
 
-Complex task can have many different and connected parts, and is
+*Complex* task can have many different and connected parts, and is
 therefore often difficult to understand;
 
-Simple is a task that easily understandd or done and presenting no
+*Simple* is a task that easily understand or done and presenting no
 difficulty.
 
 Class V:
@@ -132,8 +137,9 @@ By gestation stages:
 RAW Init DP0 Todo DP1 Active DONE
 
 * RAW Org-Agenda as the main tool of capabilities
-SCHEDULED: <2024-02-09 Fri>
+SCHEDULED: <2024-02-12 Mon>
 :LOGBOOK:
+CLOCK: [2024-02-09 Fri 07:18]--[2024-02-09 Fri 10:06] =>  2:48
 CLOCK: [2024-02-06 Tue 11:20]--[2024-02-06 Tue 11:56] =>  0:36
 CLOCK: [2024-02-02 Fri 10:35]--[2024-02-02 Fri 11:22] =>  0:47
 CLOCK: [2024-02-01 Thu 08:45]
@@ -144,12 +150,12 @@ application. Each have their own advantages, but unfortunately doesn't
 always meet out expectation. Org-mode's built-in summary view known as
 org-agenda is the incredible powerful tool for everyday task managing.
 It allows to effectively log your time and provides an easy plain-text
-interface to quickly jot down notes and organize your thoughts.
+interface to quickly gathering notes and organize your thoughts.
 
 The guide contains an overwhelming amount of useful information.
 [[https://doc.norang.ca/org-mode.html][Guide be Bernt Hansen ]]
 
-TODO Keywords
+** =TODO= Keywords
 
 At its core, the workflow with Org is build around the idea of working
 through projects, which are set up as a series of “TODO” items which
@@ -164,6 +170,16 @@ In my everyday work I use the next TODO's chains:
 #+TODO: RAW Init DP0 Todo DP1 Active | DONE
 #+TODO: DELAY LAG RETARD | BARE
 #+end_example
+
+** The Agenda
+
+The Agenda view scans your .org files (set by customizing the
+org-agenda-files variable) and collects all of the headings with a
+TODO (or related) keyword. The agenda provides a convenient way of
+tracking your projects and managing your calendar.
+
+
+
 
 
 #+begin_quote
@@ -235,12 +251,7 @@ choosing what task to tackle next.  Scrolling down to the item of
 interest and pressing return will automatically take you to it, adding
 to the convenience.
 
-The agenda view scans your .org files (set by customizing the
-org-agenda-files variable) and collects all of the headings with a
-TODO (or related) keyword. Without the agenda view, keeping track of
-projects, which I ensure are top-level TODO items, is difficult. The
-agenda provides a convenient way of tracking your projects and
-managing your calendar.
+
 
 I’ve put quite a bit of work into getting the agenda to behave the way
 I want. At the top of the agenda is my “Today” view, which shows all
@@ -295,6 +306,7 @@ I’m far from proficient at this, I always try to clock my time and, at
 the end of each day, I’ll review how effectively I’m focusing my
 effort.
 #+end_quote
+
 * Group your tasks into bundles
 * Assign your tasks to a particular date/time
 * Final preparation
