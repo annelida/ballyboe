@@ -20,7 +20,7 @@ MY PROJECTS    -*- mode: org; -*-
 
 *** Deliberate Practice
 *** DELAY Eisenhower Matrix
-SCHEDULED: <2024-02-14 Wed>
+SCHEDULED: <2024-03-02 Sat>
 :PROPERTIES:
 :CATEGORY: Meta
 :END:
@@ -73,7 +73,7 @@ features description
 *** Working with transcripts
 
 **** "How to Learn Anything Fast: Teach Your Brain to Focus"
-SCHEDULED: <2024-02-22 Thu ++2w>
+SCHEDULED: <2024-04-07 Sun ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-02-08 Thu 19:03]
 :END:
@@ -100,7 +100,7 @@ SCHEDULED: <2024-02-22 Thu ++2w>
 :LOGBOOK:
 CLOCK: [2023-10-14 Sat 13:30]--[2023-10-14 Sat 14:03] =>  0:33
 :END:
-**** Transcript "Sex and the city"
+**** AMPLE Transcript "Sex and the city"
 SCHEDULED: <2024-02-10 Sat>
 *** Grammar
 **** BBC Learning English
@@ -141,7 +141,7 @@ https://www.bbc.co.uk/learningenglish/english/course/lower-intermediate/unit-1/s
 :END:
 
 *** DELAY MAN ssh
-SCHEDULED: <2024-02-12 Mon ++1w>
+SCHEDULED: <2024-03-30 Sat ++1w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-01-11 Thu 16:02]
 :END:
@@ -162,7 +162,7 @@ CLOCK: [2023-12-20 Wed 09:55]--[2023-12-20 Wed 10:45] =>  0:50
 CLOCK: [2023-12-19 Tue 09:15]--[2023-12-19 Tue 09:18] =>  0:03
 :END:
 *** DELAY MAN df
-SCHEDULED: <2024-02-15 Thu ++1w>
+SCHEDULED: <2024-03-30 Sat ++1w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-01-11 Thu 16:03]
 :END:
@@ -177,7 +177,7 @@ SCHEDULED: <2024-02-15 Thu ++1w>
 CLOCK: [2023-12-19 Tue 09:18]--[2023-12-19 Tue 09:22] =>  0:04
 :END:
 *** RAW MAN free
-SCHEDULED: <2024-02-13 Tue ++1w>
+SCHEDULED: <2024-03-12 Tue ++1w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-01-11 Thu 16:04]
 :END:
@@ -385,7 +385,6 @@ SCHEDULED: <2024-03-30 Sat>
 CLOCK: [2023-10-24 Tue 08:07]--[2023-10-24 Tue 09:32] =>  1:25
 :END:
 
-
 *** DELAY Python classes
 SCHEDULED: <2024-03-26 Tue>
 :PROPERTIES:
@@ -436,9 +435,8 @@ Object's methods are functions that belong to the object.
 #+RESULTS:
 : The student's name is Tony Black
 
-
-*** RAW [#A] Python Unit test module
-SCHEDULED: <2024-02-19 Mon ++2w>
+*** RAW [#A] Python Unit test module and Selenium
+SCHEDULED: <2024-02-22 Thu ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-16 Thu 09:23]
 :CATEGORY: Python
@@ -466,6 +464,7 @@ SCHEDULED: <2024-02-19 Mon ++2w>
   in the unittest.TestCase class instead of the
   built-in assert statement
 :LOGBOOK:
+CLOCK: [2024-02-21 Wed 09:19]--[2024-02-21 Wed 09:38] =>  0:19
 CLOCK: [2023-11-16 Thu 08:30]--[2023-11-16 Thu 09:23] =>  0:53
 CLOCK: [2023-10-25 Wed 09:13]--[2023-10-25 Wed 10:35] =>  1:22
 CLOCK: [2023-10-24 Tue 09:35]--[2023-10-24 Tue 09:50] =>  0:15
@@ -511,12 +510,12 @@ if __name__ == '__main__':
 #+end_example
 
 *** RAW Dictionaries
-SCHEDULED: <2024-02-19 Mon>
+SCHEDULED: <2024-03-30 Sat>
 :PROPERTIES:
 :CATEGORY: Python
 :END:
 *** RAW Tuples and Sequences
-SCHEDULED: <2024-02-19 Mon ++2w>
+SCHEDULED: <2024-03-30 Sat ++2w>
 :PROPERTIES:
 :CATEGORY: Python
 :LAST_REPEAT: [2024-01-12 Fri 11:02]
@@ -526,7 +525,7 @@ SCHEDULED: <2024-02-19 Mon ++2w>
 CLOCK: [2024-01-12 Fri 10:28]--[2024-01-12 Fri 11:01] =>  0:33
 :END:
 ** Emacs
-SCHEDULED: <2024-02-12 Mon>
+SCHEDULED: <2024-03-30 Sat>
 :LOGBOOK:
 CLOCK: [2024-01-30 Tue 15:00]--[2024-01-30 Tue 15:05] =>  0:05
 :END:
@@ -554,7 +553,7 @@ SCHEDULED: <2024-02-23 Fri ++2w>
 
 *** Window Registers 
 *** RAW [#B] Bookmarks+ usage
-SCHEDULED: <2024-02-12 Mon ++2w>
+SCHEDULED: <2024-03-30 Sat ++2w>
 :PROPERTIES:
 :CATEGORY: Emacs
 :LAST_REPEAT: [2024-01-29 Mon 15:54]
@@ -623,7 +622,7 @@ CLOCK: [2023-11-30 Thu 14:50]--[2023-11-30 Thu 15:33] =>  0:43
 CLOCK: [2023-12-19 Tue 10:56]--[2023-12-19 Tue 11:45] =>  0:49
 :END:
 ***** RAW Regular expressions syntax
-SCHEDULED: <2024-02-13 Tue>
+SCHEDULED: <2024-03-04 Mon>
 :LOGBOOK:
 CLOCK: [2024-02-09 Fri 10:59]--[2024-02-09 Fri 11:46] =>  0:47
 :END:
@@ -644,7 +643,7 @@ SCHEDULED: <2024-03-07 Thu>
   C-x C-f /ssh:root@example.com:~/
 
 **** DELAY Search file by the name or content in file system
-SCHEDULED: <2024-02-11 Sun>
+SCHEDULED: <2024-03-13 Wed>
 :PROPERTIES:
 :CATEGORY: Emacs
 :END:
@@ -712,7 +711,7 @@ CLOCK: [2024-01-30 Tue 10:30]--[2024-01-30 Tue 10:57] =>  0:27
 :END:
 
 *** DELAY File searching in different Git branches 
-SCHEDULED: <2024-02-15 Thu>
+SCHEDULED: <2024-03-30 Sat>
 :LOGBOOK:
 CLOCK: [2024-01-11 Thu 09:48]--[2024-01-11 Thu 10:19] =>  0:31
 :END:
@@ -737,7 +736,7 @@ CLOCK: [2024-02-02 Fri 08:46]--[2024-02-02 Fri 08:46] =>  0:00
 CLOCK: [2024-02-01 Thu 10:37]o
 :END:
 *** DP0 [#A] Python mode
-SCHEDULED: <2024-02-10 Sat>
+SCHEDULED: <2024-02-22 Thu>
 :PROPERTIES:
 :CATEGORY: Emacs
 :END:
@@ -760,7 +759,7 @@ CLOCK: [2024-02-09 Fri 10:15]--[2024-02-09 Fri 10:46] =>  0:31
 ** Org-mode
 
 ***** DELAY [#B] Org-mode, org-babel markup rules
-SCHEDULED: <2024-02-13 Tue ++2w>
+SCHEDULED: <2024-03-13 Wed ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-01-29 Mon 15:59]
 :END:
@@ -776,7 +775,7 @@ CLOCK: [2023-11-14 Tue 15:06]--[2023-11-14 Tue 15:48] =>  0:42
 :END:
 
 ***** DELAY Org-Babel configuration.
-SCHEDULED: <2024-02-16 Fri ++2w>
+SCHEDULED: <2024-03-30 Sat ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-22 Wed 08:46]
 :END:
@@ -1400,7 +1399,6 @@ CLOCK: [2024-01-04 Thu 12:11]--[2024-01-04 Thu 12:13] =>  0:02
   tag
   version
 * Work
-
 ** Interview Preparation
 ** Portfolio creation
 
@@ -1501,7 +1499,7 @@ CLOCK: [2023-11-28 Tue 08:59]--[2023-11-28 Tue 09:23] =>  0:24
 :END:
 
 ***** DELAY Python run the file with executable privileges.
-SCHEDULED: <2024-02-12 Mon ++1w>
+SCHEDULED: <2024-03-03 Sun ++1w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-12-12 Tue 14:31]
 :CATEGORY: Python
@@ -1556,7 +1554,7 @@ CLOCK: [2023-11-28 Tue 10:40]--[2023-11-28 Tue 11:14] =>  0:34
 CLOCK: [2023-11-24 Fri 14:29]--[2023-11-24 Fri 14:52] =>  0:23
 :END:
 ******* DELAY Python how to code strings
-SCHEDULED: <2024-02-20 Tue ++2w>
+SCHEDULED: <2024-03-02 Sat ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-12-13 Wed 11:24]
 :END:
@@ -1566,7 +1564,7 @@ SCHEDULED: <2024-02-20 Tue ++2w>
 CLOCK: [2023-12-14 Thu 10:09]--[2023-12-14 Thu 10:34] =>  0:25
 :END:
 ***** RAW Python Lists
-SCHEDULED: <2024-02-19 Mon ++2w>
+SCHEDULED: <2024-03-01 Fri ++2w>
 :PROPERTIES:
 :CATEGORY: Python
 :LAST_REPEAT: [2024-01-09 Tue 15:43]
@@ -1593,7 +1591,7 @@ CLOCK: [2023-12-19 Tue 14:10]--[2023-12-19 Tue 14:10] =>  0:00
 :END:
 
 ***** RAW Mathematical models
-SCHEDULED: <2024-02-20 Tue ++2w>
+SCHEDULED: <2024-03-08 Fri ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-12-13 Wed 11:24]
 :END:
@@ -1609,7 +1607,7 @@ CLOCK: [2023-12-14 Thu 10:45]--[2023-12-14 Thu 11:09] =>  0:24
 :END:
 
 ****** Init Operators
-SCHEDULED: <2024-02-20 Tue>
+SCHEDULED: <2024-03-05 Tue>
 
 - Note taken on [2023-12-14 Thu 10:58] \\
   Conditional operator:
