@@ -17,23 +17,27 @@ tags: [git, python, testing]
 #+TODO: RAW INIT TODO ACTIVE | DONE
 #+TODO: DELAY LAG RETARD | BARE
 
+[[https://www.youtube.com/watch?v=42UP1fxi2SY][Source]]
 
-* What is CI/CD?
+* Preamble
 
 What is CI/CD? How does it help us ship faster? Is it worth the
-hassle?  Let’s take a look. CI/CD, or Continuous Integration and
+hassle? Let’s take a look. CI/CD, or Continuous Integration and
 Continuous Delivery, automates the software development process from
 the initial code commit all the way through to deployment. It
 eliminates much of the manual human intervention traditionally
-required to get new code to production.
-
-The CI/CD process takes care of building, testing, and deploying new
-code to production. The promise is that it enables software teams to
-deploy better-quality software faster. This all sounds very good, but
-does it work in real life?
+required to get new code to production. The CI/CD process takes care
+of building, testing, and deploying new code to production. The
+promise is that it enables software teams to deploy better-quality
+software faster. This all sounds very good, but does it work in real
+life?
 
 The answer is - it depends. Let’s break up CI/CD into their own parts
-and discuss them separately. CI is less controversial and more common.
+and discuss them separately.
+
+* CI definition and tools
+
+*CI*  is less controversial and more common.
 
 In a nutshell, it is the practice of using automation to enable teams
 to merge code changes into the shared repository early and often. Each
@@ -49,13 +53,13 @@ It is a tough balancing act, but it is worth the effort to get it
 right. What are some common tools used in CI? A good source code
 management system is the foundation.
 
-Github is a very popular example. It should hold everything needed to
+*Github* is a very popular example. It should hold everything needed to
 build the software. This includes source code, test scripts, and
 scripts to build the software applications.
 
-There are many tools to manage the CI process itself. Github Actions
-and Buildkite are some modern examples. Jenkins, CircleCI, and
-TravisCI are also common.
+There are many tools to manage the CI process itself. *Github Actions*
+and *Buildkite* are some modern examples. *Jenkins, CircleCI*, and
+*TravisCI* are also common.
 
 These tools manage the build and test tasks in CI. There are many test
 tools for writing and running tests. These tools are usually language
@@ -70,6 +74,8 @@ The Javascript build ecosystem is fragmented and hard to keep track
 of. Webpack is the standard, but many new build tools claim to be much
 faster, but they are not yet as extensible as webpack. Now let’s
 examine the CD part of CI/CD.
+
+* CD definition and tools
 
 CD is continuous deployment. If we are being truthful, real continuous
 deployment is hard. They do exist, but the practice is not as common
@@ -106,16 +112,15 @@ require the care of a dedicated platform team. It is rare to see these
 systems deploy fully continuously and automatically.
 
 What are some tools that are used for CD? The tools we mentioned
-earlier like Github Actions, Buildkite, and Jenkins are commonly used
+earlier like *Github Actions, Buildkite* and *Jenkins* are commonly used
 to handle CD tasks. There are also infrastructure-specific tools that
 make CD easier to maintain.
 
-For example, on Kubernetes, ArgoCD is popular. In conclusion, CI/CD is
-a powerful software development practice that can help teams ship
-better-quality software faster. However, it's not a one-size-fits-all
-solution and its implementation may vary depending on the complexity
-of the system.
+For example, on Kubernetes, ArgoCD is popular.
 
-If you'd like to learn more about system design, check out our books
-and weekly newsletter. Please subscribe if you learned something
-new. Thank you so much and we'll see you next time.
+* Conclusion
+
+In conclusion, CI/CD is a powerful software development practice that
+can help teams ship better-quality software faster. However, it's not
+a one-size-fits-all solution and its implementation may vary depending
+on the complexity of the system.
