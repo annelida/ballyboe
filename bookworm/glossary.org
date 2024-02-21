@@ -237,6 +237,12 @@ Is a specification of the inputs, execution conditions, testing
 procedure and expected results that define a single test to be
 executed.
 
+** Test suit
+
+Is a collection of test cases that are grouped for test execution
+purposes. It is used to aggregate tests that should be executed
+together.
+
 ** Test design
 
 Defines "HOW" something can be tested. It is describes test strategy
@@ -301,4 +307,14 @@ that helps programmers develop software code efficiently and provides
 comprehensive facilities for software development.
 
 
+** Continuous Integration (CI)
+It is the practice of using automation to enable teams to merge code
+changes into the shared repository early and often. Each commit
+triggers an automated workflow on a CI server that runs a series of
+tasks to make sure the commit is safe to merge into the main branch. A
+good CI process relies on a set of good tests.
+
+** Continuous deployment (CD)
+
+It is a process system deployment with minimal risks.
 
