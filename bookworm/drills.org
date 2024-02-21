@@ -195,77 +195,93 @@ A new [broom] [sweeps clean]
 
 * Definitions
 ** Software testing                                                  :drill:
-SCHEDULED: <2023-12-09 Sat>
+SCHEDULED: <2024-02-16 Fri>
    :PROPERTIES:
    :DRILL_CARD_TYPE: hide1cloze
    :ID:       85dbdec6-eece-4783-a022-eacca85a0a89
-   :DRILL_LAST_INTERVAL: 3.86
+   :DRILL_LAST_INTERVAL: 3.725
    :DRILL_REPEATS_SINCE_FAIL: 2
-   :DRILL_TOTAL_REPEATS: 1
-   :DRILL_FAILURE_COUNT: 0
-   :DRILL_AVERAGE_QUALITY: 3.0
-   :DRILL_EASE: 2.36
+   :DRILL_TOTAL_REPEATS: 3
+   :DRILL_FAILURE_COUNT: 1
+   :DRILL_AVERAGE_QUALITY: 2.667
+   :DRILL_EASE: 2.22
    :DRILL_LAST_QUALITY: 3
-   :DRILL_LAST_REVIEWED: [Y-12-05 Tue 14:%]
+   :DRILL_LAST_REVIEWED: [Y-02-12 Mon 14:%]
    :END:
 Is a method to check [whether the actual softwate product matches
 expected requirements] and [to ensure that software product is
 Defect free.]
 ** Unit testing                                                      :drill:
-SCHEDULED: <2023-12-09 Sat>
+SCHEDULED: <2024-02-21 Wed>
    :PROPERTIES:
    :DRILL_CARD_TYPE: hide1cloze
    :ID:       87daaff3-9b0b-4790-baaa-4e4c9e120b74
-   :DRILL_LAST_INTERVAL: 3.86
-   :DRILL_REPEATS_SINCE_FAIL: 2
-   :DRILL_TOTAL_REPEATS: 1
+   :DRILL_LAST_INTERVAL: 8.7892
+   :DRILL_REPEATS_SINCE_FAIL: 3
+   :DRILL_TOTAL_REPEATS: 2
    :DRILL_FAILURE_COUNT: 0
    :DRILL_AVERAGE_QUALITY: 3.0
-   :DRILL_EASE: 2.36
+   :DRILL_EASE: 2.22
    :DRILL_LAST_QUALITY: 3
-   :DRILL_LAST_REVIEWED: [Y-12-05 Tue 12:%]
+   :DRILL_LAST_REVIEWED: [Y-02-12 Mon 14:%]
    :END:
 Refers to tests that verify the functionality [of a specific section
 of code] to ensure that [the specific function is working as
 expected.]
 ** Integration testing                                               :drill:
-SCHEDULED: <2023-12-09 Sat>
+SCHEDULED: <2024-02-21 Wed>
    :PROPERTIES:
    :DRILL_CARD_TYPE: hide1cloze
    :ID:       27d62225-7c53-45ff-97c5-01aa570b6964
-   :DRILL_LAST_INTERVAL: 3.86
-   :DRILL_REPEATS_SINCE_FAIL: 2
-   :DRILL_TOTAL_REPEATS: 1
+   :DRILL_LAST_INTERVAL: 8.7892
+   :DRILL_REPEATS_SINCE_FAIL: 3
+   :DRILL_TOTAL_REPEATS: 2
    :DRILL_FAILURE_COUNT: 0
    :DRILL_AVERAGE_QUALITY: 3.0
-   :DRILL_EASE: 2.36
+   :DRILL_EASE: 2.22
    :DRILL_LAST_QUALITY: 3
-   :DRILL_LAST_REVIEWED: [Y-12-05 Tue 12:%]
+   :DRILL_LAST_REVIEWED: [Y-02-12 Mon 14:%]
    :END:
 [Is the phase in software testing] in which individual software
 modules [are combined and test as group with goal to check their
 compatibility.]
 ** System testing                                                    :drill:
-SCHEDULED: <2023-12-09 Sat>
+SCHEDULED: <2024-02-16 Fri>
    :PROPERTIES:
    :DRILL_CARD_TYPE: hide1cloze
    :ID:       aa0607ee-fc3b-4961-b42e-3caf2a999e3b
-   :DRILL_LAST_INTERVAL: 3.86
+   :DRILL_LAST_INTERVAL: 3.725
    :DRILL_REPEATS_SINCE_FAIL: 2
-   :DRILL_TOTAL_REPEATS: 1
-   :DRILL_FAILURE_COUNT: 0
-   :DRILL_AVERAGE_QUALITY: 3.0
-   :DRILL_EASE: 2.36
+   :DRILL_TOTAL_REPEATS: 3
+   :DRILL_FAILURE_COUNT: 1
+   :DRILL_AVERAGE_QUALITY: 2.667
+   :DRILL_EASE: 2.22
    :DRILL_LAST_QUALITY: 3
-   :DRILL_LAST_REVIEWED: [Y-12-05 Tue 12:%]
+   :DRILL_LAST_REVIEWED: [Y-02-12 Mon 14:%]
    :END:
 Tests a [completely integrated system] to verify that [the system
 meets its requirements.]
 ** Acceptance testing                                                :drill:
-SCHEDULED: <2023-12-09 Sat>
+SCHEDULED: <2024-02-16 Fri>
    :PROPERTIES:
    :DRILL_CARD_TYPE: hide1cloze
    :ID:       98afc7b8-af06-4bb6-bdd2-e4e5edcece18
+   :DRILL_LAST_INTERVAL: 3.725
+   :DRILL_REPEATS_SINCE_FAIL: 2
+   :DRILL_TOTAL_REPEATS: 3
+   :DRILL_FAILURE_COUNT: 1
+   :DRILL_AVERAGE_QUALITY: 2.667
+   :DRILL_EASE: 2.22
+   :DRILL_LAST_QUALITY: 3
+   :DRILL_LAST_REVIEWED: [Y-02-12 Mon 14:%]
+   :END:
+Is a test [conducted to determine] if the requirements of a
+specification or contract [are met.]
+** An application                                                    :drill:
+SCHEDULED: <2024-02-16 Fri>
+   :PROPERTIES:
+   :DRILL_CARD_TYPE: hide1cloze
+   :ID:       c98d7c00-66cb-4aeb-810c-2870e1af3c33
    :DRILL_LAST_INTERVAL: 3.86
    :DRILL_REPEATS_SINCE_FAIL: 2
    :DRILL_TOTAL_REPEATS: 1
@@ -273,115 +289,250 @@ SCHEDULED: <2023-12-09 Sat>
    :DRILL_AVERAGE_QUALITY: 3.0
    :DRILL_EASE: 2.36
    :DRILL_LAST_QUALITY: 3
-   :DRILL_LAST_REVIEWED: [Y-12-05 Tue 12:%]
-   :END:
-Is a test [conducted to determine] if the requirements of a
-specification or contract [are met.]
-** An application                                                    :drill:
-   :PROPERTIES:
-   :DRILL_CARD_TYPE: hide1cloze
-   :ID:       c98d7c00-66cb-4aeb-810c-2870e1af3c33
+   :DRILL_LAST_REVIEWED: [Y-02-12 Mon 14:%]
    :END:
 Is a computer program [designed to carry out a specific task] other
 than one relating to the operation of the computer itself [typically
 to be used by end-users.]
 ** Test                                                              :drill:
+SCHEDULED: <2024-02-16 Fri>
    :PROPERTIES:
    :DRILL_CARD_TYPE: hide1cloze
+   :ID:       a2972b42-6bf9-4fb5-8c47-fe09261df697
+   :DRILL_LAST_INTERVAL: 3.86
+   :DRILL_REPEATS_SINCE_FAIL: 2
+   :DRILL_TOTAL_REPEATS: 1
+   :DRILL_FAILURE_COUNT: 0
+   :DRILL_AVERAGE_QUALITY: 3.0
+   :DRILL_EASE: 2.36
+   :DRILL_LAST_QUALITY: 3
+   :DRILL_LAST_REVIEWED: [Y-02-12 Mon 14:%]
    :END:
 Is a [procedure intended to establish] the quality, performance or
 reliability of something, [especially before it is taken into
 widespread use.]
 ** Validation                                                        :drill:
+SCHEDULED: <2024-02-16 Fri>
    :PROPERTIES:
    :DRILL_CARD_TYPE: hide1cloze
+   :ID:       766eb3f3-1870-4753-b0a2-686b4e152d03
+   :DRILL_LAST_INTERVAL: 3.86
+   :DRILL_REPEATS_SINCE_FAIL: 2
+   :DRILL_TOTAL_REPEATS: 1
+   :DRILL_FAILURE_COUNT: 0
+   :DRILL_AVERAGE_QUALITY: 3.0
+   :DRILL_EASE: 2.36
+   :DRILL_LAST_QUALITY: 3
+   :DRILL_LAST_REVIEWED: [Y-02-12 Mon 14:%]
    :END:
 The act of confirming something [as true or correct.] Checks that the
 software product satisfies or fits intended use, i.e., the software
 [meets the user requirements.]  "Are we building the right product?"
 ** Varification                                                      :drill:
+SCHEDULED: <2024-02-16 Fri>
    :PROPERTIES:
    :DRILL_CARD_TYPE: hide1cloze
+   :ID:       3c2c9e5a-cdc4-48ef-88eb-0ca2dab8e30e
+   :DRILL_LAST_INTERVAL: 3.86
+   :DRILL_REPEATS_SINCE_FAIL: 2
+   :DRILL_TOTAL_REPEATS: 1
+   :DRILL_FAILURE_COUNT: 0
+   :DRILL_AVERAGE_QUALITY: 3.0
+   :DRILL_EASE: 2.36
+   :DRILL_LAST_QUALITY: 3
+   :DRILL_LAST_REVIEWED: [Y-02-12 Mon 14:%]
    :END:
 [Checks that the specifications] are correctly [implemented.]  "Are we
 building the product right?"
 ** Assembly language                                                 :drill:
+SCHEDULED: <2024-02-16 Fri>
    :PROPERTIES:
    :DRILL_CARD_TYPE: hide1cloze
+   :ID:       c091b2a3-8c16-440d-b50b-7f78e47f25b0
+   :DRILL_LAST_INTERVAL: 3.86
+   :DRILL_REPEATS_SINCE_FAIL: 2
+   :DRILL_TOTAL_REPEATS: 1
+   :DRILL_FAILURE_COUNT: 0
+   :DRILL_AVERAGE_QUALITY: 3.0
+   :DRILL_EASE: 2.36
+   :DRILL_LAST_QUALITY: 3
+   :DRILL_LAST_REVIEWED: [Y-02-12 Mon 14:%]
    :END:
 Is any [low-level programming language with a very strong
 correspondence between the instructions in the language [and the
 arcitecture's machine.]
 ** A compiler                                                        :drill:
+SCHEDULED: <2024-02-16 Fri>
    :PROPERTIES:
    :DRILL_CARD_TYPE: hide1cloze
+   :ID:       a6661c95-4948-4db3-a23d-c105b3987315
+   :DRILL_LAST_INTERVAL: 3.86
+   :DRILL_REPEATS_SINCE_FAIL: 2
+   :DRILL_TOTAL_REPEATS: 1
+   :DRILL_FAILURE_COUNT: 0
+   :DRILL_AVERAGE_QUALITY: 3.0
+   :DRILL_EASE: 2.36
+   :DRILL_LAST_QUALITY: 3
+   :DRILL_LAST_REVIEWED: [Y-02-12 Mon 14:%]
    :END:
 [Is a computer program] that translates computer code written in one
 of programming language (the source language) into [another language
 (the target language).]
 ** Programming language                                              :drill:
+SCHEDULED: <2024-02-16 Fri>
    :PROPERTIES:
    :DRILL_CARD_TYPE: hide1cloze
+   :ID:       af760f3b-89e2-48f5-9fc2-27d6fb9eb21f
+   :DRILL_LAST_INTERVAL: 3.86
+   :DRILL_REPEATS_SINCE_FAIL: 2
+   :DRILL_TOTAL_REPEATS: 1
+   :DRILL_FAILURE_COUNT: 0
+   :DRILL_AVERAGE_QUALITY: 3.0
+   :DRILL_EASE: 2.36
+   :DRILL_LAST_QUALITY: 3
+   :DRILL_LAST_REVIEWED: [Y-02-12 Mon 14:%]
    :END:
 [Is a system of notation] for writing [computer programs.]
 ** Function                                                          :drill:
+SCHEDULED: <2024-02-16 Fri>
    :PROPERTIES:
    :DRILL_CARD_TYPE: hide1cloze
+   :ID:       b044ca51-9f7f-4df6-9328-ed71dc55a851
+   :DRILL_LAST_INTERVAL: 3.86
+   :DRILL_REPEATS_SINCE_FAIL: 2
+   :DRILL_TOTAL_REPEATS: 1
+   :DRILL_FAILURE_COUNT: 0
+   :DRILL_AVERAGE_QUALITY: 3.0
+   :DRILL_EASE: 2.36
+   :DRILL_LAST_QUALITY: 3
+   :DRILL_LAST_REVIEWED: [Y-02-12 Mon 14:%]
    :END:
 [Is a sequence] of program instruction that [performs a specific
 task.]
 ** Module                                                            :drill:
+SCHEDULED: <2024-02-16 Fri>
    :PROPERTIES:
    :DRILL_CARD_TYPE: hide1cloze
+   :ID:       3f513778-cc2c-402d-801b-474d8e1d46b3
+   :DRILL_LAST_INTERVAL: 3.86
+   :DRILL_REPEATS_SINCE_FAIL: 2
+   :DRILL_TOTAL_REPEATS: 1
+   :DRILL_FAILURE_COUNT: 0
+   :DRILL_AVERAGE_QUALITY: 3.0
+   :DRILL_EASE: 2.36
+   :DRILL_LAST_QUALITY: 3
+   :DRILL_LAST_REVIEWED: [Y-02-12 Mon 14:%]
    :END:
 Is a [discrete piece of code] that can be independently created and
 maintained to be [used in different systems.]
 ** Central Processing Unit (CPU)                                     :drill:
+SCHEDULED: <2024-02-16 Fri>
    :PROPERTIES:
    :DRILL_CARD_TYPE: hide1cloze
+   :ID:       903d886c-e06f-49b5-acbe-c3a31887a623
+   :DRILL_LAST_INTERVAL: 3.86
+   :DRILL_REPEATS_SINCE_FAIL: 2
+   :DRILL_TOTAL_REPEATS: 1
+   :DRILL_FAILURE_COUNT: 0
+   :DRILL_AVERAGE_QUALITY: 3.0
+   :DRILL_EASE: 2.36
+   :DRILL_LAST_QUALITY: 3
+   :DRILL_LAST_REVIEWED: [Y-02-12 Mon 14:%]
    :END:
 Is the brain of a computer, containing [all the circuitry needed to
 process input, store data, and output results.] The CPU is constantly
 following instructions of computer programs that [tell it which data
 to process and how to process it.]
 ** Debugging                                                         :drill:
+SCHEDULED: <2024-02-16 Fri>
    :PROPERTIES:
    :DRILL_CARD_TYPE: hide1cloze
+   :ID:       277f9ca6-2ab9-40c8-9592-c5f320b2488a
+   :DRILL_LAST_INTERVAL: 3.86
+   :DRILL_REPEATS_SINCE_FAIL: 2
+   :DRILL_TOTAL_REPEATS: 1
+   :DRILL_FAILURE_COUNT: 0
+   :DRILL_AVERAGE_QUALITY: 3.0
+   :DRILL_EASE: 2.36
+   :DRILL_LAST_QUALITY: 3
+   :DRILL_LAST_REVIEWED: [Y-02-12 Mon 14:%]
    :END:
 Is a [process of finding and resolving] bugs within computer programs,
 [software or system.]
 ** Debugger or debugging tool                                        :drill:
    :PROPERTIES:
    :DRILL_CARD_TYPE: hide1cloze
+   :ID:       c336a654-dd24-40b3-ab64-3f1db8f8bca8
    :END:
 [Is a computer program] used to test and debug [other program.]
 ** Passive testing                                                   :drill:
+SCHEDULED: <2024-02-16 Fri>
    :PROPERTIES:
    :DRILL_CARD_TYPE: hide1cloze
+   :ID:       0cde62d0-4464-4102-93a7-5ae0aec035d9
+   :DRILL_LAST_INTERVAL: 3.86
+   :DRILL_REPEATS_SINCE_FAIL: 2
+   :DRILL_TOTAL_REPEATS: 1
+   :DRILL_FAILURE_COUNT: 0
+   :DRILL_AVERAGE_QUALITY: 3.0
+   :DRILL_EASE: 2.36
+   :DRILL_LAST_QUALITY: 3
+   :DRILL_LAST_REVIEWED: [Y-02-12 Mon 14:%]
    :END:
 [Verifying the system behavior] without any interaction with the
 software product. Testers only [look at system log and traces.]
 ** Dynamic testing                                                   :drill:
    :PROPERTIES:
    :DRILL_CARD_TYPE: hide1cloze
+   :ID:       ed14a03b-6bb1-43cb-9692-dc2310cd2208
    :END:
 [Executing programmed code] with a given set of [test cases.]
 ** Test case                                                         :drill:
+SCHEDULED: <2024-02-16 Fri>
    :PROPERTIES:
    :DRILL_CARD_TYPE: hide1cloze
+   :ID:       85836d99-8928-4f60-a85c-a7bb6368fda7
+   :DRILL_LAST_INTERVAL: 3.86
+   :DRILL_REPEATS_SINCE_FAIL: 2
+   :DRILL_TOTAL_REPEATS: 1
+   :DRILL_FAILURE_COUNT: 0
+   :DRILL_AVERAGE_QUALITY: 3.0
+   :DRILL_EASE: 2.36
+   :DRILL_LAST_QUALITY: 3
+   :DRILL_LAST_REVIEWED: [Y-02-12 Mon 14:%]
    :END:
 Is a [specification of the inputs, execution conditions,] testing
 procedure and expected results that [define a single test] to be
 executed.
 ** Test design                                                       :drill:
+SCHEDULED: <2024-02-16 Fri>
    :PROPERTIES:
    :DRILL_CARD_TYPE: hide1cloze
+   :ID:       fcea740e-5f2f-4a83-8dcb-68fc8d079138
+   :DRILL_LAST_INTERVAL: 3.86
+   :DRILL_REPEATS_SINCE_FAIL: 2
+   :DRILL_TOTAL_REPEATS: 1
+   :DRILL_FAILURE_COUNT: 0
+   :DRILL_AVERAGE_QUALITY: 3.0
+   :DRILL_EASE: 2.36
+   :DRILL_LAST_QUALITY: 3
+   :DRILL_LAST_REVIEWED: [Y-02-12 Mon 14:%]
    :END:
 Defines ["HOW" something can be tested.] It is describes test strategy
 [or test plan.]
 ** The Secure Shell Protocol (SSH)                                   :drill:
+SCHEDULED: <2024-02-16 Fri>
    :PROPERTIES:
    :DRILL_CARD_TYPE: hide1cloze
+   :ID:       58e2908d-302f-467e-8fc3-1ec4ddd40421
+   :DRILL_LAST_INTERVAL: 3.86
+   :DRILL_REPEATS_SINCE_FAIL: 2
+   :DRILL_TOTAL_REPEATS: 1
+   :DRILL_FAILURE_COUNT: 0
+   :DRILL_AVERAGE_QUALITY: 3.0
+   :DRILL_EASE: 2.36
+   :DRILL_LAST_QUALITY: 3
+   :DRILL_LAST_REVIEWED: [Y-02-12 Mon 14:%]
    :END:
 Is a cryptographic [network protocol for operating network services]
 securely (in a way that avoids someone or something being harmed by
@@ -390,21 +541,51 @@ program for logging into a remote machine and for executing commands
 on a remote machine. It is intended to provide secure encrypted
 communications between two untrusted [hosts over an insecure network.]
 ** htop                                                              :drill:
+SCHEDULED: <2024-02-16 Fri>
    :PROPERTIES:
    :DRILL_CARD_TYPE: hide1cloze
+   :ID:       b28b8550-e474-4335-bccd-b452eced7fe3
+   :DRILL_LAST_INTERVAL: 3.86
+   :DRILL_REPEATS_SINCE_FAIL: 2
+   :DRILL_TOTAL_REPEATS: 1
+   :DRILL_FAILURE_COUNT: 0
+   :DRILL_AVERAGE_QUALITY: 3.0
+   :DRILL_EASE: 2.36
+   :DRILL_LAST_QUALITY: 3
+   :DRILL_LAST_REVIEWED: [Y-02-12 Mon 14:%]
    :END:
 Is an interactive [system-monitor] process-viewer and
 process-manager. It shows a frequently updated list of the processes
 running on a computer, normally ordered by the [amount of CPU usage.]
 ** Emacs package                                                     :drill:
+SCHEDULED: <2024-02-16 Fri>
    :PROPERTIES:
    :DRILL_CARD_TYPE: hide1cloze
+   :ID:       e25d880a-4b50-4308-b8f8-42ea73aa6e5e
+   :DRILL_LAST_INTERVAL: 3.86
+   :DRILL_REPEATS_SINCE_FAIL: 2
+   :DRILL_TOTAL_REPEATS: 1
+   :DRILL_FAILURE_COUNT: 0
+   :DRILL_AVERAGE_QUALITY: 3.0
+   :DRILL_EASE: 2.36
+   :DRILL_LAST_QUALITY: 3
+   :DRILL_LAST_REVIEWED: [Y-02-12 Mon 14:%]
    :END:
 Is a [collection of one or more ELisp files] that Emacs searches in
 the folder specified [by load-path.]
 ** LISP                                                              :drill:
+SCHEDULED: <2024-02-16 Fri>
    :PROPERTIES:
    :DRILL_CARD_TYPE: hide1cloze
+   :ID:       323f72ab-ee54-4aac-8077-7dad671d627f
+   :DRILL_LAST_INTERVAL: 3.86
+   :DRILL_REPEATS_SINCE_FAIL: 2
+   :DRILL_TOTAL_REPEATS: 1
+   :DRILL_FAILURE_COUNT: 0
+   :DRILL_AVERAGE_QUALITY: 3.0
+   :DRILL_EASE: 2.36
+   :DRILL_LAST_QUALITY: 3
+   :DRILL_LAST_REVIEWED: [Y-02-12 Mon 14:%]
    :END:
 An abbreviation of [("list processing")] is a high-level programming
 language created by John McCarthy in 1958. Lisp is the third-oldest
@@ -414,40 +595,82 @@ programming, object-oriented programming,] and data types.
 ** Package management                                                :drill:
    :PROPERTIES:
    :DRILL_CARD_TYPE: hide1cloze
+   :ID:       8c992e08-6429-489b-b4ea-7aa942f0615e
    :END:
 Is a system that allows users to [easily install, manage, and update
 packages.] =Emacs package management= relies on package archives,
 which act as [online repositories that host packages.]
 ** Selenium                                                          :drill:
+SCHEDULED: <2024-02-16 Fri>
    :PROPERTIES:
    :DRILL_CARD_TYPE: hide1cloze
+   :ID:       7d09b99b-93b7-4d77-b96e-e93d418791a3
+   :DRILL_LAST_INTERVAL: 3.86
+   :DRILL_REPEATS_SINCE_FAIL: 2
+   :DRILL_TOTAL_REPEATS: 1
+   :DRILL_FAILURE_COUNT: 0
+   :DRILL_AVERAGE_QUALITY: 3.0
+   :DRILL_EASE: 2.36
+   :DRILL_LAST_QUALITY: 3
+   :DRILL_LAST_REVIEWED: [Y-02-12 Mon 14:%]
    :END:
 Selenium is a free (open-source) automated testing framework used [to
 validate web applications across different browsers and platforms.]
 You can use multiple programming languages like Java, C#, Python, etc
 to create [Selenium Test Scripts.]
 ** API                                                               :drill:
+SCHEDULED: <2024-02-16 Fri>
    :PROPERTIES:
    :DRILL_CARD_TYPE: hide1cloze
+   :ID:       7c5cb3d8-624a-4872-bf26-614c81e48209
+   :DRILL_LAST_INTERVAL: 3.86
+   :DRILL_REPEATS_SINCE_FAIL: 2
+   :DRILL_TOTAL_REPEATS: 1
+   :DRILL_FAILURE_COUNT: 0
+   :DRILL_AVERAGE_QUALITY: 3.0
+   :DRILL_EASE: 2.36
+   :DRILL_LAST_QUALITY: 3
+   :DRILL_LAST_REVIEWED: [Y-02-12 Mon 14:%]
    :END:
 [An application programming] interface is a way for two or more
 computer programs to communicate with each other. It is a type of
 software interface [to exchange data across applications.]
 ** Application                                                       :drill:
+SCHEDULED: <2024-02-16 Fri>
    :PROPERTIES:
    :DRILL_CARD_TYPE: hide1cloze
+   :ID:       18f2968d-74a4-4a11-b356-d0bfc2f5de35
+   :DRILL_LAST_INTERVAL: 3.86
+   :DRILL_REPEATS_SINCE_FAIL: 2
+   :DRILL_TOTAL_REPEATS: 1
+   :DRILL_FAILURE_COUNT: 0
+   :DRILL_AVERAGE_QUALITY: 3.0
+   :DRILL_EASE: 2.36
+   :DRILL_LAST_QUALITY: 3
+   :DRILL_LAST_REVIEWED: [Y-02-12 Mon 14:%]
    :END:
 Application software (App) is a [kind of software] that performs
 specific functions for the end user [by interacting directly with it.]
 ** Framework                                                         :drill:
    :PROPERTIES:
    :DRILL_CARD_TYPE: hide1cloze
+   :ID:       0ee0d432-bf3d-4f04-951f-3827442a64ac
    :END:
 A framework is a [structure that you can build software on.] It serves
 as a foundation, so you're not starting entirely [from scratch.]
 ** Selenium WebDriver                                                :drill:
+SCHEDULED: <2024-02-16 Fri>
    :PROPERTIES:
    :DRILL_CARD_TYPE: hide1cloze
+   :ID:       baefcec2-40cf-4288-908d-267eeb59ffe7
+   :DRILL_LAST_INTERVAL: 3.86
+   :DRILL_REPEATS_SINCE_FAIL: 2
+   :DRILL_TOTAL_REPEATS: 1
+   :DRILL_FAILURE_COUNT: 0
+   :DRILL_AVERAGE_QUALITY: 3.0
+   :DRILL_EASE: 2.36
+   :DRILL_LAST_QUALITY: 3
+   :DRILL_LAST_REVIEWED: [Y-02-12 Mon 14:%]
    :END:
 Is an [open-source collection of APIs] that automates web application
 testing across different browsers using [different programming
