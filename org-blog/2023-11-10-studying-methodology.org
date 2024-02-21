@@ -17,7 +17,7 @@ tags: [emacs, org-mode, org-agenda, double-loop-learning]
 #+TODO: RAW INIT TODO ACTIVE | DONE
 
 * INIT Intro
-SCHEDULED: <2024-02-12 Mon ++4d>
+SCHEDULED: <2024-03-30 Sat ++4d>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-21 Tue 18:11]
 :END:
@@ -63,7 +63,7 @@ Method. See synonyms, origin, and examples of method in sentences.
   outcome and your solid base of personal knowledge.
     
 * INIT [#C] What is methodology
- SCHEDULED: <2024-02-14 Wed ++4d>
+ SCHEDULED: <2024-02-29 Thu ++4d>
  :PROPERTIES:
  :LAST_REPEAT: [2023-11-23 Thu 11:38]
  :END:
@@ -176,7 +176,7 @@ crammed into a single session.
 #+end_quote
 
 * INIT [#C] Unavoidable necessities
-SCHEDULED: <2024-02-14 Wed ++4d>
+SCHEDULED: <2024-02-29 Thu ++4d>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-23 Thu 11:38]
 :END:
@@ -196,7 +196,7 @@ Before you start your learning, answer yourself the questions:
 - What do I need to do to reach those goals?
 
 ** RAW [#C] Decompose the Whole Task
-SCHEDULED: <2024-02-14 Wed>
+SCHEDULED: <2024-02-29 Thu>
 :PROPERTIES:
 :CATEGORY: Meta
 :END:
@@ -224,7 +224,7 @@ to focus on the task.
 
 
 * RAW Daily ToDo List
-SCHEDULED: <2024-02-16 Fri>
+SCHEDULED: <2024-03-30 Sat>
 
 Naturally it should be composed from initially ~complex~ tasks for
 decomposition and already prepared ~atomic~ tasks for elaboration.
@@ -234,7 +234,7 @@ The great tool to use in your day-to-day life is a simple and dense
 
 <<<<<<< HEAD
 * TODO [#C] How to create the best weekly agenda?
-SCHEDULED: <2024-02-14 Wed>
+SCHEDULED: <2024-02-29 Thu>
 =======
 ** ToDo States
 
@@ -262,7 +262,7 @@ day-to-day professional tasks.
 ** Shift It Out
 
 * TODO How to create the raw weekly todo list?
-SCHEDULED: <2024-02-14 Wed>
+SCHEDULED: <2024-03-30 Sat>
 >>>>>>> ebffc2e5bfbfe35a16018a8e301e2317cbc978b7
 :PROPERTIES:
 :CATEGORY: Compilation
@@ -305,7 +305,7 @@ How to improve a weekly agenda?
 * RAW [#C] What is the average time you should spend on each session
 =======
 * RAW [#C] What is the average amount of time you should spend on each session
-SCHEDULED: <2024-02-14 Wed ++4d>
+SCHEDULED: <2024-02-29 Thu ++4d>
 :PROPERTIES:
 :LAST_REPEAT: [2023-12-16 Sat 16:39]
 :END:
@@ -344,7 +344,7 @@ All relevant questions should be questioned while task resolving.
  they a little bit later.
 
 * INIT [#C] Raw state
-SCHEDULED: <2024-02-14 Wed>
+SCHEDULED: <2024-02-29 Thu>
 :PROPERTIES:
 :END:
 
@@ -356,7 +356,7 @@ makes sense the task's state changes to *INIT* and it is scheduled.
 
 
 * INIT [#C] Initial chapter dissection
-SCHEDULED: <2024-02-14 Wed ++4d>
+SCHEDULED: <2024-02-29 Thu ++4d>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-21 Tue 18:12]
 :END:
@@ -377,7 +377,7 @@ After the initial analysis task it's status switches (++1d/2d) on
 to *Deliberate practice 0 session*.
    
 * INIT [#C] Deliberate practice 0 session
-SCHEDULED: <2024-02-14 Wed ++4d>
+SCHEDULED: <2024-02-29 Thu ++4d>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-21 Tue 18:12]
 :CATEGORY: Meta
@@ -409,7 +409,7 @@ Describe what you ought to do and in what manner it might be
 implemented.
 
 * RAW Tasks actualization
-SCHEDULED: <2024-02-12 Mon>
+SCHEDULED: <2024-03-30 Sat>
 [[info:org#TODO Extensions][org#TODO Extensions]]
 
 Over time, a large number of tasks can accumulate in the personal
