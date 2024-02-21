@@ -125,6 +125,12 @@ CLOCK: [2024-02-09 Fri 13:12]--[2024-02-09 Fri 13:29] =>  0:17
 CLOCK: [2024-02-09 Fri 12:42]--[2024-02-09 Fri 12:58] =>  0:16
 :END:
 [[https://www.bbc.co.uk/learningenglish/english/course/lower-intermediate/unit-20/session-2/activity-3]]
+***** RAW Questions forms
+SCHEDULED: <2024-02-22 Thu>
+:LOGBOOK:
+CLOCK: [2024-02-21 Wed 09:38]--[2024-02-21 Wed 09:54] =>  0:16
+:END:
+https://www.bbc.co.uk/learningenglish/english/course/lower-intermediate/unit-1/session-2/activity-4
 **** Present simple
 
 **** Present perfect
@@ -339,9 +345,28 @@ cat /etc/os-release
 : SUPPORT_URL="https://www.debian.org/support"
 : BUG_REPORT_URL="https://bugs.debian.org/"
 ** Python
-
+*** [#A] Venvs decluttering and reorder
+SCHEDULED: <2024-02-22 Thu>
+:PROPERTIES:
+:CATEGORY: Python
+:END:
+*** [#A] Interactive Python
+SCHEDULED: <2024-02-22 Thu>
+:PROPERTIES:
+:CATEGORY: Python
+:END:
+*** [#A] Python REPL
+SCHEDULED: <2024-02-22 Thu>
+:PROPERTIES:
+:CATEGORY: Python
+:END:
+*** [#A] Python script
+SCHEDULED: <2024-02-22 Thu>
+:PROPERTIES:
+:CATEGORY: Python
+:END:
 *** Init Python: modules, relative import. 
-SCHEDULED: <2024-02-19 Mon>
+SCHEDULED: <2024-03-30 Sat>
 :PROPERTIES:
 :CATEGORY: Python
 :END:
@@ -1625,12 +1650,13 @@ CLOCK: [2023-11-28 Tue 18:27]--[2023-11-28 Tue 18:33] =>  0:06
 :END:
 - State "DONE"       from "Active"     [2023-11-23 Thu 15:54]
 * Events
-** DELAY Migration plan from one host to another
-SCHEDULED: <2024-02-22 Thu>
-:PROPERTIES:
-:CATEGORY: Linux
-:END:
 * Notes
+** Init What is CI/CD
+SCHEDULED: <2024-02-22 Thu>
+:LOGBOOK:
+CLOCK: [2024-02-21 Wed 07:45]--[2024-02-21 Wed 08:48] =>  1:03
+:END:
+[[file:~/git/ballyboe/org-blog/2024-02-12-What-is-CI-CD.org::*What is CI/CD?][What is CI/CD?]]
 * Personal
 
 
