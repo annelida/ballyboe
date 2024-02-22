@@ -345,26 +345,47 @@ cat /etc/os-release
 : SUPPORT_URL="https://www.debian.org/support"
 : BUG_REPORT_URL="https://bugs.debian.org/"
 ** Python
-*** [#A] Venvs decluttering and reorder
+*** AMPLE Venvs decluttering and reorder
 SCHEDULED: <2024-02-22 Thu>
 :PROPERTIES:
 :CATEGORY: Python
 :END:
-*** [#A] Interactive Python
+:LOGBOOK:
+CLOCK: [2024-02-22 Thu 07:22]--[2024-02-22 Thu 08:25] =>  1:03
+:END:
+*** AMPLE Interactive Python
 SCHEDULED: <2024-02-22 Thu>
 :PROPERTIES:
 :CATEGORY: Python
 :END:
-*** [#A] Python REPL
+:LOGBOOK:
+CLOCK: [2024-02-22 Thu 09:45]--[2024-02-22 Thu 09:56] =>  0:11
+CLOCK: [2024-02-22 Thu 08:25]--[2024-02-22 Thu 08:28] =>  0:03
+:END:
+Interactive mode is when you launch the interpreter and use it as a
+platform to run code that you type in directly.
+*** AMPLE Python REPL
 SCHEDULED: <2024-02-22 Thu>
 :PROPERTIES:
 :CATEGORY: Python
 :END:
-*** [#A] Python script
-SCHEDULED: <2024-02-22 Thu>
+[[https://realpython.com/python-repl/ ]]
+
+The Python standard shell, or REPL (Read-Eval-Print Loop), which reads
+a piece of code, evaluates it, and then prints the result to the
+console in a loop. It is allows you to run Python code interactively
+while working on a project or learning the language. This tool is
+available in every Python installation.
+
+*** Python script
+SCHEDULED: <2024-02-23 Fri>
 :PROPERTIES:
 :CATEGORY: Python
 :END:
+In script mode, you use the interpreter to run a source file as an
+executable program. In this case, Python loads the file content and
+runs the code line by line, following the script or program’s
+execution flow.
 *** Init Python: modules, relative import. 
 SCHEDULED: <2024-03-30 Sat>
 :PROPERTIES:
