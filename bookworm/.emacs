@@ -34,7 +34,7 @@
 (require 'dictionary)
 (require 'mw-thesaurus)
 (require 'elpy)
-(elpy-enable)
+;;(elpy-enable)
 
 (setq org-confirm-babel-evaluate nil)
 

@@ -7,7 +7,6 @@ categories: [Software-development, Software testing]
 tags: [git, python, testing]
 ---
 #+END_EXPORT
-
 #+STARTUP: showall indent
 #+OPTIONS: tags:nil num:nil \n:nil @:t ::t |:t ^:{} _:{} *:t
 #+TOC: headlines 2
@@ -37,7 +36,7 @@ and discuss them separately.
 
 * CI definition and tools
 
-*CI*  is less controversial and more common.
+*CI* is less controversial and more common.
 
 In a nutshell, it is the practice of using automation to enable teams
 to merge code changes into the shared repository early and often. Each
@@ -53,8 +52,8 @@ It is a tough balancing act, but it is worth the effort to get it
 right. What are some common tools used in CI? A good source code
 management system is the foundation.
 
-*Github* is a very popular example. It should hold everything needed to
-build the software. This includes source code, test scripts, and
+*Github* is a very popular example. It should hold everything needed
+to build the software. This includes source code, test scripts, and
 scripts to build the software applications.
 
 There are many tools to manage the CI process itself. *Github Actions*
@@ -65,21 +64,23 @@ These tools manage the build and test tasks in CI. There are many test
 tools for writing and running tests. These tools are usually language
 and ecosystem specific.
 
-For example, for JS, Jest is an example of the unit testing framework,
-while playwright and cypress are some common integration testing
-frameworks for web applications. The build tools are even more diverse
-and ecosystem specific.  Gradle is a powerful build tool for Java.
+For example, for JS, *Jest* is an example of the unit testing
+framework, while playwright and cypress are some common integration
+testing frameworks for web applications. The build tools are even more
+diverse and ecosystem specific. *Gradle* is a powerful build tool for
+Java.
 
 The Javascript build ecosystem is fragmented and hard to keep track
-of. Webpack is the standard, but many new build tools claim to be much
-faster, but they are not yet as extensible as webpack. Now let’s
-examine the CD part of CI/CD.
+of. *Webpack* is the standard, but many new build tools claim to be
+much faster, but they are not yet as extensible as webpack.
+
+Now let’s examine the CD part of CI/CD.
 
 * CD definition and tools
 
-CD is continuous deployment. If we are being truthful, real continuous
-deployment is hard. They do exist, but the practice is not as common
-as CI.
+*CD* is continuous deployment. If we are being truthful, real
+continuous deployment is hard. They do exist, but the practice is not
+as common as CI.
 
 Many teams only practice CD on the most basic types of systems. These
 systems are usually stateless, like the API or web server tiers. With
@@ -112,11 +113,10 @@ require the care of a dedicated platform team. It is rare to see these
 systems deploy fully continuously and automatically.
 
 What are some tools that are used for CD? The tools we mentioned
-earlier like *Github Actions, Buildkite* and *Jenkins* are commonly used
-to handle CD tasks. There are also infrastructure-specific tools that
-make CD easier to maintain.
-
-For example, on Kubernetes, ArgoCD is popular.
+earlier like *Github Actions, Buildkite* and *Jenkins* are commonly
+used to handle CD tasks. There are also infrastructure-specific tools
+that make CD easier to maintain. For example, on *Kubernetes, ArgoCD*
+is popular.
 
 * Conclusion
 
