@@ -129,7 +129,7 @@ CLOCK: [2024-02-09 Fri 12:42]--[2024-02-09 Fri 12:58] =>  0:16
 :END:
 [[https://www.bbc.co.uk/learningenglish/english/course/lower-intermediate/unit-20/session-2/activity-3]]
 ***** RAW Questions forms
-SCHEDULED: <2024-02-23 Fri>
+SCHEDULED: <2024-02-24 Sat>
 :LOGBOOK:
 CLOCK: [2024-02-21 Wed 09:38]--[2024-02-21 Wed 09:54] =>  0:16
 :END:
@@ -381,7 +381,7 @@ while working on a project or learning the language. This tool is
 available in every Python installation.
 
 *** Python script
-SCHEDULED: <2024-02-23 Fri>
+SCHEDULED: <2024-02-26 Mon>
 :PROPERTIES:
 :CATEGORY: Python
 :END:
@@ -460,7 +460,7 @@ Object's methods are functions that belong to the object.
 : The student's name is Tony Black
 
 *** RAW [#A] Python Unit test module and Selenium
-SCHEDULED: <2024-02-23 Fri ++2w>
+SCHEDULED: <2024-02-24 Sat ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-16 Thu 09:23]
 :CATEGORY: Python
@@ -760,7 +760,7 @@ CLOCK: [2024-02-02 Fri 08:46]--[2024-02-02 Fri 08:46] =>  0:00
 CLOCK: [2024-02-01 Thu 10:37]o
 :END:
 *** DP0 [#A] Python mode
-SCHEDULED: <2024-02-23 Fri>
+SCHEDULED: <2024-02-24 Sat>
 :PROPERTIES:
 :CATEGORY: Emacs
 :END:
@@ -949,6 +949,7 @@ SCHEDULED: <2024-02-24 Sat ++1m>
   ~/git/annelida.github.io/_posts/core-samples/2011-12-29-jekyll-introduction.md
  ]]
 :LOGBOOK:
+CLOCK: [2024-02-23 Fri 09:10]--[2024-02-23 Fri 09:30] =>  0:20
 CLOCK: [2023-10-21 Sat 07:28]--[2023-10-21 Sat 09:25] =>  1:57
 CLOCK: [2023-10-18 Wed 09:04]--[2023-10-18 Wed 10:26] =>  1:22
 CLOCK: [2023-10-17 Tue 09:18]--[2023-10-17 Tue 10:13] =>  0:55
@@ -1352,7 +1353,7 @@ CLOCK: [2023-10-25 Wed 10:36]--[2023-10-25 Wed 11:16] =>  0:40
   a feature branch.
 
 ******* Init Git/Magit undo options.
-SCHEDULED: <2024-02-23 Fri ++2w>
+SCHEDULED: <2024-03-06 Wed ++2w>
 :PROPERTIES:
 :CATEGORY: Git
 :LAST_REPEAT: [2024-01-04 Thu 12:46]
