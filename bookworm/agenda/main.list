@@ -905,12 +905,16 @@ CLOCK: [2023-12-03 Sun 13:04]--[2023-12-03 Sun 13:32] =>  0:28
 ***** Jekyll
 
 ******* DELAY Org-Jekyll - article about initial config
-SCHEDULED: <2024-02-23 Fri ++1m>
+SCHEDULED: <2024-02-24 Sat ++1m>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-13 Mon 14:41]
 :END:
 - State "DONE"       from "ACTIVE"     [2023-11-13 Mon 14:41]
 - State "DONE"       from "ACTIVE"     [2023-11-13 Mon 14:41]
+  [[file:~/git/ballyboe/org-blog/2023-10-09-init.org::*Overview][Blogging with Org-mode and Jekyll]]
+  [[info:org#Publishing][org#Publishing]]
+  https://orgmode.org/worg/org-tutorials/org-publish-html-tutorial.html
+  
 - Note taken on [2023-10-12 Thu 15:01] \\
   Reverse approach: use the working sample with minimum modifications
   (personal data).
@@ -1674,12 +1678,14 @@ CLOCK: [2023-11-28 Tue 18:27]--[2023-11-28 Tue 18:33] =>  0:06
 * Events
 * Notes
 ** Init What is CI/CD
-SCHEDULED: <2024-02-23 Fri>
+SCHEDULED: <2024-02-24 Sat>
 :LOGBOOK:
+CLOCK: [2024-02-23 Fri 07:59]--[2024-02-23 Fri 08:37] =>  0:38
 CLOCK: [2024-02-22 Thu 06:36]--[2024-02-22 Thu 07:21] =>  0:45
 CLOCK: [2024-02-21 Wed 07:45]--[2024-02-21 Wed 08:48] =>  1:03
 :END:
 [[file:~/git/ballyboe/org-blog/2024-02-12-What-is-CI-CD.org::*What is CI/CD?][What is CI/CD?]]
+[[https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions?learn=getting_started&learnProduct=actions]]
 * Personal
 
 
