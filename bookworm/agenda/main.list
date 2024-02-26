@@ -129,7 +129,7 @@ CLOCK: [2024-02-09 Fri 12:42]--[2024-02-09 Fri 12:58] =>  0:16
 :END:
 [[https://www.bbc.co.uk/learningenglish/english/course/lower-intermediate/unit-20/session-2/activity-3]]
 ***** RAW Questions forms
-SCHEDULED: <2024-02-24 Sat>
+SCHEDULED: <2024-02-27 Tue>
 :LOGBOOK:
 CLOCK: [2024-02-21 Wed 09:38]--[2024-02-21 Wed 09:54] =>  0:16
 :END:
@@ -381,7 +381,7 @@ while working on a project or learning the language. This tool is
 available in every Python installation.
 
 *** Python script
-SCHEDULED: <2024-02-26 Mon>
+SCHEDULED: <2024-03-05 Tue>
 :PROPERTIES:
 :CATEGORY: Python
 :END:
@@ -460,7 +460,7 @@ Object's methods are functions that belong to the object.
 : The student's name is Tony Black
 
 *** RAW [#A] Python Unit test module and Selenium
-SCHEDULED: <2024-02-24 Sat ++2w>
+SCHEDULED: <2024-02-27 Tue ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-16 Thu 09:23]
 :CATEGORY: Python
@@ -760,7 +760,7 @@ CLOCK: [2024-02-02 Fri 08:46]--[2024-02-02 Fri 08:46] =>  0:00
 CLOCK: [2024-02-01 Thu 10:37]o
 :END:
 *** DP0 [#A] Python mode
-SCHEDULED: <2024-02-24 Sat>
+SCHEDULED: <2024-02-27 Tue>
 :PROPERTIES:
 :CATEGORY: Emacs
 :END:
@@ -905,13 +905,14 @@ CLOCK: [2023-12-03 Sun 13:04]--[2023-12-03 Sun 13:32] =>  0:28
 ***** Jekyll
 
 ******* DELAY Org-Jekyll - article about initial config
-SCHEDULED: <2024-02-24 Sat ++1m>
+SCHEDULED: <2024-02-27 Tue ++1m>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-13 Mon 14:41]
 :END:
 - State "DONE"       from "ACTIVE"     [2023-11-13 Mon 14:41]
 - State "DONE"       from "ACTIVE"     [2023-11-13 Mon 14:41]
   [[file:~/git/ballyboe/org-blog/2023-10-09-init.org::*Overview][Blogging with Org-mode and Jekyll]]
+  [[https://orgmode.org/worg/org-tutorials/org-jekyll.html]]
   [[info:org#Publishing][org#Publishing]]
   https://orgmode.org/worg/org-tutorials/org-publish-html-tutorial.html
   
@@ -949,6 +950,7 @@ SCHEDULED: <2024-02-24 Sat ++1m>
   ~/git/annelida.github.io/_posts/core-samples/2011-12-29-jekyll-introduction.md
  ]]
 :LOGBOOK:
+CLOCK: [2024-02-26 Mon 06:49]--[2024-02-26 Mon 07:39] =>  0:50
 CLOCK: [2024-02-23 Fri 09:10]--[2024-02-23 Fri 09:30] =>  0:20
 CLOCK: [2023-10-21 Sat 07:28]--[2023-10-21 Sat 09:25] =>  1:57
 CLOCK: [2023-10-18 Wed 09:04]--[2023-10-18 Wed 10:26] =>  1:22
@@ -1679,7 +1681,7 @@ CLOCK: [2023-11-28 Tue 18:27]--[2023-11-28 Tue 18:33] =>  0:06
 * Events
 * Notes
 ** Init What is CI/CD
-SCHEDULED: <2024-02-24 Sat>
+SCHEDULED: <2024-02-27 Tue>
 :LOGBOOK:
 CLOCK: [2024-02-23 Fri 07:59]--[2024-02-23 Fri 08:37] =>  0:38
 CLOCK: [2024-02-22 Thu 06:36]--[2024-02-22 Thu 07:21] =>  0:45
