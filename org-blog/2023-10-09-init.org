@@ -17,6 +17,47 @@ tags: [init, manual, how-to]
 #+TODO: RAW INIT TODO ACTIVE | DONE
 
 * Overview
+
+#+begin_quote
+Jekyll is a simple, blog-aware, static site generator perfect for
+personal, project, or organization sites.
+
+Jekyll takes your content, renders Markdown and Liquid templates, and
+spits out a complete, static website ready to be served by Apache,
+Nginx or another web server.
+
+Jekyll is the engine behind [[https://pages.github.com/][Github Pages]], which you can use to host
+sites right from your GitHub repositories.
+
+Put simply, Jekyll gets out of your way and allows you to concentrate
+on what truly matters: your content.
+
+Jekyll is a static web site generator written in Ruby. It can
+transform various text markups, using a templating language, into
+static html. The resulting site can be served by almost any web server
+without requiring additional components such as php. Jekyll is the
+tool used to produce Github's pages.
+
+Publishing your site with org and Jekyll involves three steps: write
+your page content using org. use org to export your pages to html in
+the Jekyll project directory. run Jekyll to convert your html pages
+exported from org into your final site.
+
+This article discusses how to produce both a static site and a blog
+using Jekyll and org.
+
+Essentially, I am using org to produce everything between the <body>
+tags on the page and Jekyll to produce the rest. Note that you can
+easily embed html content in your org pages using the +BEGIN_EXPORT
+html tag.
+#+end_quote
 * Installation
+
+Install Jekyll
+
+Installation is described at the [[https://jekyllrb.com/][Jekyll]] web site.
+
 * Settings
+
+
 * Usage Samples
