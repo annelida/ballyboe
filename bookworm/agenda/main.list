@@ -129,7 +129,7 @@ CLOCK: [2024-02-09 Fri 12:42]--[2024-02-09 Fri 12:58] =>  0:16
 :END:
 [[https://www.bbc.co.uk/learningenglish/english/course/lower-intermediate/unit-20/session-2/activity-3]]
 ***** RAW Questions forms
-SCHEDULED: <2024-02-27 Tue>
+SCHEDULED: <2024-02-28 Wed>
 :LOGBOOK:
 CLOCK: [2024-02-21 Wed 09:38]--[2024-02-21 Wed 09:54] =>  0:16
 :END:
@@ -208,7 +208,7 @@ SCHEDULED: <2024-03-12 Tue ++1w>
 CLOCK: [2023-12-19 Tue 09:22]--[2023-12-19 Tue 09:34] =>  0:12
 :END:
 *** DELAY MAN htop
-SCHEDULED: <2024-02-28 Wed ++1w>
+SCHEDULED: <2024-03-13 Wed ++1w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-01-11 Thu 16:06]
 :END:
@@ -219,7 +219,7 @@ SCHEDULED: <2024-02-28 Wed ++1w>
 process-manager. It shows a frequently updated list of the processes
 running on a computer, normally ordered by the amount of CPU usage.
 *** DELAY MAN ps
-SCHEDULED: <2024-02-28 Wed ++1w>
+SCHEDULED: <2024-03-13 Wed ++1w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-01-11 Thu 16:08]
 :END:
@@ -308,7 +308,7 @@ types_operations.org
 : types_operations.org
 
 *** DELAY How ho check which Debian distro are you using
-SCHEDULED: <2024-02-28 Wed>
+SCHEDULED: <2024-03-14 Thu>
 
 #+begin_src sh :results output
 hostnamectl
@@ -492,6 +492,7 @@ SCHEDULED: <2024-02-28 Wed ++2w>
   in the unittest.TestCase class instead of the
   built-in assert statement
 :LOGBOOK:
+CLOCK: [2024-02-27 Tue 09:07]--[2024-02-27 Tue 09:27] =>  0:20
 CLOCK: [2024-02-21 Wed 09:19]--[2024-02-21 Wed 09:38] =>  0:19
 CLOCK: [2023-11-16 Thu 08:30]--[2023-11-16 Thu 09:23] =>  0:53
 CLOCK: [2023-10-25 Wed 09:13]--[2023-10-25 Wed 10:35] =>  1:22
@@ -728,12 +729,17 @@ SCHEDULED: <2024-03-10 Sun>
   [[info:emacs#Configuration Registers][emacs#Configuration Registers]]
 - Note taken on [2024-01-30 Tue 10:34] \\
   A frame is a screen object that contains one or more Emacs windows.
-  A window is an area of the screen that can be used to display a buffer.
+  A window is an area of the screen that can be used to display a
+  buffer.
+
+  To create a new frame, call the function make-frame
+  
   [[info:emacs#Creating Frames][emacs#Creating Frames]]
   [[info:emacs#Frame Commands][emacs#Frame Commands]]
-  (key-chord-define-global "'\\"     'other-frame)
-  (key-chord-define-global "]\\"     'other-frame)
-  (key-chord-define-global "';"     'other-frame)
+  
+  (key-chord-define-global "'\\" 'other-frame)
+  (key-chord-define-global "]\\" 'other-frame)
+  (key-chord-define-global "';" 'other-frame)
 :LOGBOOK:
 CLOCK: [2024-01-30 Tue 10:30]--[2024-01-30 Tue 10:57] =>  0:27
 :END:
@@ -764,7 +770,7 @@ CLOCK: [2024-02-02 Fri 08:46]--[2024-02-02 Fri 08:46] =>  0:00
 CLOCK: [2024-02-01 Thu 10:37]o
 :END:
 *** DP0 [#A] Python mode
-SCHEDULED: <2024-02-27 Tue>
+SCHEDULED: <2024-03-01 Fri>
 :PROPERTIES:
 :CATEGORY: Emacs
 :END:
@@ -908,8 +914,8 @@ CLOCK: [2023-12-03 Sun 13:04]--[2023-12-03 Sun 13:32] =>  0:28
 
 ***** Jekyll
 
-******* DELAY Org-Jekyll - article about initial config
-SCHEDULED: <2024-02-27 Tue ++1m>
+******* Org-Jekyll - article about initial config
+SCHEDULED: <2024-02-28 Wed ++1m>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-13 Mon 14:41]
 :END:
@@ -1078,7 +1084,7 @@ Result you can see on [[https://annelida.github.io/]]
 
 
 ******* DELAY Explorations in details page's structure in Jekyll.
-SCHEDULED: <2024-02-28 Wed>
+SCHEDULED: <2024-03-19 Tue>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-20 Mon 16:18]
 :END:
@@ -1685,7 +1691,7 @@ CLOCK: [2023-11-28 Tue 18:27]--[2023-11-28 Tue 18:33] =>  0:06
 * Events
 * Notes
 ** Init What is CI/CD
-SCHEDULED: <2024-02-27 Tue>
+SCHEDULED: <2024-03-06 Wed>
 :LOGBOOK:
 CLOCK: [2024-02-23 Fri 07:59]--[2024-02-23 Fri 08:37] =>  0:38
 CLOCK: [2024-02-22 Thu 06:36]--[2024-02-22 Thu 07:21] =>  0:45

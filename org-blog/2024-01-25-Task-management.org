@@ -137,7 +137,7 @@ By gestation stages:
 RAW Init DP0 Todo DP1 Active DONE
 
 * RAW Org-Agenda as the main tool of capabilities
-SCHEDULED: <2024-02-27 Tue>
+SCHEDULED: <2024-02-28 Wed>
 :LOGBOOK:
 CLOCK: [2024-02-09 Fri 07:18]--[2024-02-09 Fri 10:06] =>  2:48
 CLOCK: [2024-02-06 Tue 11:20]--[2024-02-06 Tue 11:56] =>  0:36
