@@ -57,7 +57,6 @@ Install Jekyll
 
 Installation is described at the [[https://jekyllrb.com/][Jekyll]] web site.
 
+
 * Settings
-
-
 * Usage Samples
