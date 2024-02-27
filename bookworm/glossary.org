@@ -6,7 +6,7 @@
 #+STARTUP: showall indent
 #+PROPERTY: header-args :comments org
 
-* Glossary:
+* Glossary
 
 #+begin_quote
 an alphabetical list of /terms or words found in _or relating_ to a
@@ -36,9 +36,11 @@ software or hardware program.
 
 ** Software
 
-Software is a set of computer programs, instructions, associated
-documentation and data used operate computers and execute specific
-tasks.
+#+begin_quote
+Software is a set of computer programs, instructions, and data,
+associated documentation and data used operate computers and execute
+specific tasks.
+#+end_quote
 
 ** Hardware
 
@@ -52,7 +54,6 @@ A computer program is a sequence or set of instructions in a
 programming language for a computer to execute. It is one component of
 software, which also includes documentation and other *intangible*
 components.
-
 
 ** Source code
 
@@ -75,7 +76,6 @@ Is a way to describe the speed or complexity of a given algorithm. If
 your current project demands a predefined algorithm, it's important to
 understand how fast or slow it is compared to other options.
 
-
 ** Systems programming
 
 System is “a set of things working together as parts of a mechanism or
@@ -92,12 +92,10 @@ menus. In a GUI, the visuals displayed in the user interface convey
 information relevant to the user, as well as actions that they can
 take.
 
-
 ** Pseudocode
 
 Pseudocode is human-friendly code that cannot be understood by a
 machine. Pseudocode expresses computational process.
-
 
 ** Model
 
@@ -114,7 +112,6 @@ A principle is a basic rule, belief or idea that guides you.
 The thought processes that have been established as leading to valid
 solutions to problems.
 
-
 ** Deliberate practice
 
 Is a system of repetitive consciouos activities that are conducted for
@@ -123,9 +120,11 @@ mind efforts, maximum focus, patience and have no immediate effect.
 
 ** Software testing
 
+#+begin_quote
 Is a method to check whether the actual software product matches
 expected requirement and to ensure that software product is Defect
 free.
+#+end_quote
 
 ** Unit testing
 
@@ -154,13 +153,6 @@ Is a form of software peer review in which a designer or programmer
 leads members of the development team and other interested parties
 thrpugh a software product. And the participant ask questions and make
 comments about possible errors and other possible problems.
-
-
-** An application
-
-Is a computer program designed to carry out a specific task other than
-one relating to the operation of the computer itself typically to be
-used by end-users.
 
 ** Test
 
@@ -204,7 +196,6 @@ Is a sequence of program instuction that performs a specific task.
 
 Is a discrete piece of code that can be independently created and
 maintained to be used in different systems.
-
 
 ** Central Processing Unit (CPU)
 
@@ -289,8 +280,78 @@ programs to communicate with each other. It is a type of software
 interface to exchange data across applications.
 
 ** Application
+
+#+begin_quote
+Is a computer program designed to carry out a specific task
+#+end_quote
+
 Application software (App) is a kind of software that performs
 specific functions for the end user by interacting directly with it.
+
+** Web application
+
+#+begin_quote
+Is application software that is accessed using a web browser.
+#+end_quote
+
+** Web browser
+
+#+begin_quote
+Is an application for accessing websites
+#+end_quote
+
+** Web site
+
+#+begin_quote
+Is a collection of many web pages that are written using HTML that are
+identified by a common domain name
+#+end_quote
+
+** Domain name
+
+#+begin_quote
+Is unique name of a website. 
+#+end_quote
+
+** Defect
+
+#+begin_quote
+Is any deviation between an actual and expected result.
+#+end_quote
+
+** Bug
+
+#+begin_quote
+Is a problem that causes a program to produce invalid output.
+#+end_quote
+
+** Error
+
+#+begin_quote
+Is a mistake a coder makes during the software development.
+#+end_quote
+
+** Functional testing
+
+#+begin_quote
+Tests functional requirements like functions and its components.
+Makes ensurance that everything works properly, how expected and
+desirable in functionality requirements.
+#+end_quote
+
+** Non-functional testing
+
+#+begin_quote
+Used to evaluate a software non-functional characteristic such as
+performance, usability and dependability.
+#+end_quote
+
+** Software performance
+
+#+begin_quote
+Is how well a software or application it's intended tasks such as
+speed, responsiveness, scalability and resource utilization. 
+#+end_quote
 
 ** Framework
 A framework is a structure that you can build software on. It serves
@@ -305,7 +366,6 @@ languages.
 An integrated development environment (IDE) is a software application
 that helps programmers develop software code efficiently and provides
 comprehensive facilities for software development.
-
 
 ** Continuous Integration (CI)
 It is the practice of using automation to enable teams to merge code
@@ -323,3 +383,10 @@ Is a methodology in the software development and IT industry. Used as
 a set of practices and tools, DevOps integrates and automates the work
 of software development (Dev) and IT operations (Ops) as a means for
 improving and shortening the systems development life cycle.
+
+** Program
+
+#+begin_quote
+Is a sequence of instructions in a programming language for a computer
+to execute.
+#+end_quote
