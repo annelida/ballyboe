@@ -459,12 +459,16 @@ Object's methods are functions that belong to the object.
 #+RESULTS:
 : The student's name is Tony Black
 
-*** RAW [#A] Python Unit test module and Selenium
-SCHEDULED: <2024-02-27 Tue ++2w>
+*** RAW [#A] Software testing with Python and Selenium
+SCHEDULED: <2024-02-28 Wed ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-16 Thu 09:23]
 :CATEGORY: Python
 :END:
+- Note taken on [2024-02-27 Tue 09:22] \\
+  [[https://realpython.com/]]
+  https://www.browserstack.com/guide/python-selenium-to-run-web-automation-test
+  https://www.techbeamers.com/selenium-python-test-suite-unittest/
 - State "DONE"       from "ACTIVE"     [2023-11-16 Thu 09:23]
 - Note taken on [2023-10-24 Tue 09:35] \\
   A unit test is a smaller test, that checks
