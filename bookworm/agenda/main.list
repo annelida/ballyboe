@@ -500,6 +500,7 @@ SCHEDULED: <2024-02-29 Thu ++2w>
   in the unittest.TestCase class instead of the
   built-in assert statement
 :LOGBOOK:
+CLOCK: [2024-02-28 Wed 09:03]--[2024-02-28 Wed 09:48] =>  0:45
 CLOCK: [2024-02-27 Tue 09:07]--[2024-02-27 Tue 09:27] =>  0:20
 CLOCK: [2024-02-21 Wed 09:19]--[2024-02-21 Wed 09:38] =>  0:19
 CLOCK: [2023-11-16 Thu 08:30]--[2023-11-16 Thu 09:23] =>  0:53
@@ -923,7 +924,7 @@ CLOCK: [2023-12-03 Sun 13:04]--[2023-12-03 Sun 13:32] =>  0:28
 ***** Jekyll
 
 ******* Org-Jekyll - article about initial config
-SCHEDULED: <2024-02-28 Wed ++1m>
+SCHEDULED: <2024-02-29 Thu ++1m>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-13 Mon 14:41]
 :END:

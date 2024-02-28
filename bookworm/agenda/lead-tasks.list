@@ -83,7 +83,7 @@ about how the program works are:
 
 --* INIT Conclusion*: the wisest decision is just to use it properly!
 * DELAY Deliberate practice
-SCHEDULED: <2024-02-29 Thu ++1d>
+SCHEDULED: <2024-03-13 Wed ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-01-28 Sun 17:20]
 :END:
@@ -249,11 +249,12 @@ SCHEDULED: <2024-02-29 Thu ++2d/3d>
 - State "DONE"       from "ACTIVE"     [2023-11-11 Sat 17:14]
 - State "DONE"       from "ACTIVE"     [2023-11-09 Thu 18:41]
 - State "DONE"       from "ACTIVE"     [2023-11-07 Tue 18:21]
-** DP0 [#A] *Selenium* package review
-SCHEDULED: <2024-02-28 Wed ++1d>
+** Init [#A] *Selenium* package review
+SCHEDULED: <2024-02-29 Thu ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-02-26 Mon 17:57]
+:LAST_REPEAT: [2024-02-28 Wed 18:57]
 :END:
+- State "AMPLE"      from "DELAY"      [2024-02-28 Wed 18:57]
 - State "AMPLE"      from "DELAY"      [2024-02-26 Mon 17:57]
 - State "AMPLE"      from ""           [2024-02-26 Mon 17:56]
 :LOGBOOK:
