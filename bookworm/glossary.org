@@ -126,6 +126,10 @@ expected requirement and to ensure that software product is Defect
 free.
 #+end_quote
 
+Is a approach to examination whether the certain software product
+matches expected requirement and to ensure that the software product
+is Defect free.
+
 ** Unit testing
 
 Refers to tests that verify the functionlity of a specific section of
@@ -285,8 +289,7 @@ interface to exchange data across applications.
 Is a computer program designed to carry out a specific task
 #+end_quote
 
-Application software (App) is a kind of software that performs
-specific functions for the end user by interacting directly with it.
+Is a computer program intended to perform a concrete task.
 
 ** Web application
 
@@ -294,18 +297,23 @@ specific functions for the end user by interacting directly with it.
 Is application software that is accessed using a web browser.
 #+end_quote
 
+Is a application that is accessed using a web browser.
+
 ** Web browser
 
 #+begin_quote
-Is an application for accessing websites
+Is an application for accessing websites.
 #+end_quote
 
 ** Web site
 
 #+begin_quote
 Is a collection of many web pages that are written using HTML that are
-identified by a common domain name
+identified by a common domain name.
 #+end_quote
+
+Is a collection of several web pages that are created using HTML and
+that are linked by a common domain name.
 
 ** Domain name
 
@@ -325,6 +333,9 @@ Is any deviation between an actual and expected result.
 Is a problem that causes a program to produce invalid output.
 #+end_quote
 
+Is a error in software program that can invoke a program to produce
+invalid output, misbehavior or crash.
+
 ** Error
 
 #+begin_quote
@@ -337,6 +348,15 @@ Is a mistake a coder makes during the software development.
 Tests functional requirements like functions and its components.
 Makes ensurance that everything works properly, how expected and
 desirable in functionality requirements.
+
+
+Is a quality assurance process and a type of black-box testing that
+bases its test cases on the specifications of the software component
+under test. Functions are tested by feeding them input and examining
+the output, and internal program structure is rarely
+considered. Functional software testing is conducted to evaluate the
+compliance of a system or component with specified functional
+requirements.
 #+end_quote
 
 ** Non-functional testing
@@ -390,3 +410,9 @@ improving and shortening the systems development life cycle.
 Is a sequence of instructions in a programming language for a computer
 to execute.
 #+end_quote
+
+** Test runner
+ Is a special application designed for running tests, checking the
+ output, and giving you tools for debugging and diagnosing tests and
+ applications.
+
