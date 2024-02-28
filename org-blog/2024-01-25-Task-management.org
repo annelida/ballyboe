@@ -52,18 +52,13 @@ CLOCK: [2024-02-09 Fri 06:29]--[2024-02-09 Fri 07:14] =>  0:45
 CLOCK: [2024-01-30 Tue 09:20]--[2024-01-30 Tue 09:39] =>  0:19
 :END:
 
-- Main classes;
-- Classes definition (purpose, distinction features);
-
   #+begin_quote
   "I have two kinds of problems: the urgent and the important.  The
   urgent are not important, and the important are never urgent."
   ------ Dr. J. Roscoe Miller, president of Northwestern University
   #+end_quote
 
-The main tasks classes are:
-
-Class I - by urgency and importancy:
+** Tasks by urgency and importancy
 
 The great time management means being effective as well as
 efficient. In other words, we must spend our time on things that are
@@ -106,24 +101,21 @@ themselves;
 *Not important, not urgent* - they are not essential or urgent, so you
 can, in most cases, /delay them or delete from your list/.
 
-Class II - Chores:
+** Chores
 
 It is regular, trivial, banal, routine tasks that important to do
 everyday or in particular day.
 
-Class III - by dependency:
-
-Related or Not related
+** Tasks classifiction by dependency
 
 Tasks whose execution depends on each other are considered *related*.
 Сompleting one of these tasks in most cases is the key to completing
 the other task.
 
-Class lV:
-Tasks are also differentiated by complexity, from low to
-high:
+** Classification by complexity
 
-Complex or simple
+Tasks are also differentiated by complexity, from low to
+high: omplex or simple.
 
 *Complex* task can have many different and connected parts, and is
 therefore often difficult to understand;
@@ -131,14 +123,14 @@ therefore often difficult to understand;
 *Simple* is a task that easily understand or done and presenting no
 difficulty.
 
-Class V:
-By gestation stages:
+** Tasks Gestation stages
 
 RAW Init DP0 Todo DP1 Active DONE
 
 * RAW Org-Agenda as the main tool of capabilities
-SCHEDULED: <2024-02-28 Wed>
+SCHEDULED: <2024-02-29 Thu>
 :LOGBOOK:
+CLOCK: [2024-02-28 Wed 11:01]--[2024-02-28 Wed 11:44] =>  0:43
 CLOCK: [2024-02-09 Fri 07:18]--[2024-02-09 Fri 10:06] =>  2:48
 CLOCK: [2024-02-06 Tue 11:20]--[2024-02-06 Tue 11:56] =>  0:36
 CLOCK: [2024-02-02 Fri 10:35]--[2024-02-02 Fri 11:22] =>  0:47
