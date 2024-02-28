@@ -45,6 +45,7 @@ SCHEDULED: <2024-02-28 Wed ++1d>
 - State "AMPLE"      from ""           [2024-01-26 Fri 18:55]
 - State "AMPLE"      from "DELAY"      [2024-01-25 Thu 18:40]
 :LOGBOOK:
+CLOCK: [2024-02-28 Wed 19:05]
 CLOCK: [2024-02-02 Fri 17:47]--[2024-02-02 Fri 17:52] =>  0:05
 CLOCK: [2024-02-01 Thu 17:36]--[2024-02-01 Thu 17:41] =>  0:05
 CLOCK: [2024-01-30 Tue 15:25]--[2024-01-30 Tue 15:35] =>  0:10
@@ -767,7 +768,7 @@ CLOCK: [2023-12-08 Fri 09:29]--[2023-12-08 Fri 10:22] =>  0:53
 :END:
 Re-order and get rid of any littern (sweep it out)
 * YouTube into articles
-SCHEDULED: <2024-02-29 Thu ++2d/3d>
+SCHEDULED: <2024-03-29 Fri ++2d/3d>
 :PROPERTIES:
 :CATEGORY: Blogging
 :END:
@@ -1032,6 +1033,7 @@ SCHEDULED: <2024-02-28 Wed ++1d>
 :END:
 - State "AMPLE"      from ""           [2024-02-27 Tue 19:17]
 :LOGBOOK:
+CLOCK: [2024-02-28 Wed 07:51]--[2024-02-28 Wed 09:02] =>  1:11
 CLOCK: [2024-02-27 Tue 15:12]--[2024-02-27 Tue 18:21] =>  3:09
 :END:
 - State "AMPLE"      from ""           [2024-02-26 Mon 18:27]

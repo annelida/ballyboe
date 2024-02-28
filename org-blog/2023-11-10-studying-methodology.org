@@ -62,8 +62,8 @@ Method. See synonyms, origin, and examples of method in sentences.
   it is utter importance find it if you want achieve the best learning
   outcome and your solid base of personal knowledge.
     
-* INIT [#C] What is methodology
- SCHEDULED: <2024-02-29 Thu ++4d>
+* RAW [#C] What is methodology
+ SCHEDULED: <2024-03-26 Tue ++4d>
  :PROPERTIES:
  :LAST_REPEAT: [2023-11-23 Thu 11:38]
  :END:
@@ -175,8 +175,8 @@ information in your memory better than the same amount of study
 crammed into a single session.
 #+end_quote
 
-* INIT [#C] Unavoidable necessities
-SCHEDULED: <2024-02-29 Thu ++4d>
+* RAW [#C] Unavoidable necessities
+SCHEDULED: <2024-03-26 Tue ++4d>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-23 Thu 11:38]
 :END:
@@ -196,7 +196,7 @@ Before you start your learning, answer yourself the questions:
 - What do I need to do to reach those goals?
 
 ** RAW [#C] Decompose the Whole Task
-SCHEDULED: <2024-02-29 Thu>
+SCHEDULED: <2024-03-26 Tue>
 :PROPERTIES:
 :CATEGORY: Meta
 :END:
@@ -233,8 +233,8 @@ The great tool to use in your day-to-day life is a simple and dense
 ~todo~ list with all tasks written down.
 
 <<<<<<< HEAD
-* TODO [#C] How to create the best weekly agenda?
-SCHEDULED: <2024-02-29 Thu>
+* RAW [#C] How to create the best weekly agenda?
+SCHEDULED: <2024-03-26 Tue>
 =======
 ** ToDo States
 
@@ -305,7 +305,7 @@ How to improve a weekly agenda?
 * RAW [#C] What is the average time you should spend on each session
 =======
 * RAW [#C] What is the average amount of time you should spend on each session
-SCHEDULED: <2024-02-29 Thu ++4d>
+SCHEDULED: <2024-03-26 Tue ++4d>
 :PROPERTIES:
 :LAST_REPEAT: [2023-12-16 Sat 16:39]
 :END:
@@ -343,8 +343,8 @@ All relevant questions should be questioned while task resolving.
  So, you *must* write these questions down during session and answer
  they a little bit later.
 
-* INIT [#C] Raw state
-SCHEDULED: <2024-02-29 Thu>
+* RAW [#C] Raw state
+SCHEDULED: <2024-03-26 Tue>
 :PROPERTIES:
 :END:
 
@@ -355,8 +355,8 @@ is it necessary to study itt in depth in future? If further learning
 makes sense the task's state changes to *INIT* and it is scheduled.
 
 
-* INIT [#C] Initial chapter dissection
-SCHEDULED: <2024-02-29 Thu ++4d>
+* RAW [#C] Initial chapter dissection
+SCHEDULED: <2024-03-26 Tue ++4d>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-21 Tue 18:12]
 :END:
@@ -376,13 +376,15 @@ study of the material:
 After the initial analysis task it's status switches (++1d/2d) on
 to *Deliberate practice 0 session*.
    
-* INIT [#C] Deliberate practice 0 session
-SCHEDULED: <2024-02-29 Thu ++4d>
+* RAW [#C] Deliberate practice 0 session
+SCHEDULED: <2024-03-26 Tue ++4d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-11-21 Tue 18:12]
+:LAST_REPEAT: [2024-02-28 Wed 17:46]
 :CATEGORY: Meta
 :END:
 
+- State "DONE"       from "ACTIVE"     [2024-02-28 Wed 17:46]
+- State "DONE"       from "ACTIVE"     [2024-02-28 Wed 17:46]
 - State "DONE"       from "ACTIVE"     [2023-11-21 Tue 18:12]
 - State "DONE"       from "ACTIVE"     [2023-11-17 Fri 08:55]
 
