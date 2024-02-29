@@ -26,7 +26,7 @@ CLOCK: [2024-01-30 Tue 08:33]--[2024-01-30 Tue 09:20] =>  0:47
 CLOCK: [2024-01-26 Fri 12:19]--[2024-01-26 Fri 12:38] =>  0:19
 :END:
 
-Task management is defined as a system for efficient planning and
+*Task management* is defined as a system for efficient planning and
 execution of tasks, ensuring a streamlined path to successful
 completion. Is the process of managing a task or many tasks through
 its lifecycle from inception to execution. It is a way of planning and
@@ -46,8 +46,9 @@ Breakdown tasks into smaller chunks, Working log performance, Make
 changes.
 
 * RAW Tasks classification
-SCHEDULED: <2024-02-29 Thu>
+SCHEDULED: <2024-03-01 Fri>
 :LOGBOOK:
+CLOCK: [2024-02-29 Thu 10:47]--[2024-02-29 Thu 11:18] =>  0:31
 CLOCK: [2024-02-09 Fri 06:29]--[2024-02-09 Fri 07:14] =>  0:45
 CLOCK: [2024-01-30 Tue 09:20]--[2024-01-30 Tue 09:39] =>  0:19
 :END:
@@ -60,11 +61,9 @@ CLOCK: [2024-01-30 Tue 09:20]--[2024-01-30 Tue 09:39] =>  0:19
 
 ** Tasks by urgency and importancy
 
-The great time management means being effective as well as
-efficient. In other words, we must spend our time on things that are
-important and not just the ones that are urgent. To do this, and to
-minimize the stress of having too many tight deadlines, we need to
-understand this distinction:
+The great time management means being /effective/. In other words, we
+must spend our time on things that are /important/ and not just the
+ones that are /urgent/. So, we need to understand this distinction:
 
 *Important* activities have an outcome that leads to us achieving our
 goals, whether these are professional or personal.
@@ -75,8 +74,7 @@ associated with achieving someone else's goals.
 When we know which activities are important and which are urgent, we
 can overcome the natural tendency to focus on unimportant urgent
 activities, so that we can clear enough time to do what's essential
-for our success. This is the way we move from "firefighting" into a
-position where we can grow our goals.
+for our success and for achieving our goals.
 
 *Urgent and important* - they are demand your attention and action
 /right now/. There are two distinct types of urgent and important
@@ -84,12 +82,11 @@ activities: ones that you could not have foreseen, and others that
 you've left until the last minute. You can eliminate last-minute
 activities /by planning ahead and avoiding procrastination/;
 
-*Important, but not urgent* - they are essential issues, but they’re
-not urgent and don’t require your immediate action. These are the
-activities that help you achieve your personal and professional goals,
-and complete important work. So these are the items you’ll want /to
-schedule for a future work/. But /make sure/ that you /have plenty of
-time to do these things properly/, so that they do not become urgent;
+*Important, but not urgent* - These are the activities that help you
+achieve your personal and professional goals, and complete important
+work. So these are the items you’ll want /to schedule for a future
+work/. But /make sure/ that you /have plenty of time to do these
+things properly/, so that they do not become urgent;
 
 *Not important, but urgent* - these are urgent items /that pop up/ and
 /demand immediate attention/. Urgent but not important tasks are
@@ -99,7 +96,7 @@ such activities is other people. Sometimes it's appropriate to say
 themselves;
 
 *Not important, not urgent* - they are not essential or urgent, so you
-can, in most cases, /delay them or delete from your list/.
+can, in most cases, /delay them or delete from your tasks list/.
 
 ** Chores
 
@@ -128,7 +125,7 @@ difficulty.
 RAW Init DP0 Todo DP1 Active DONE
 
 * RAW Org-Agenda as the main tool of capabilities
-SCHEDULED: <2024-02-29 Thu>
+SCHEDULED: <2024-03-01 Fri>
 :LOGBOOK:
 CLOCK: [2024-02-28 Wed 11:01]--[2024-02-28 Wed 11:44] =>  0:43
 CLOCK: [2024-02-09 Fri 07:18]--[2024-02-09 Fri 10:06] =>  2:48
@@ -144,7 +141,8 @@ org-agenda is the incredible powerful tool for everyday task managing.
 It allows to effectively log your time and provides an easy plain-text
 interface to quickly gathering notes and organize your thoughts.
 
-The guide contains an overwhelming amount of useful information.
+The guides contains an overwhelming amount of useful information.
+[[https://orgmode.org/manual/Agenda-Views.html][Official documentation]] 
 [[https://doc.norang.ca/org-mode.html][Guide be Bernt Hansen ]]
 
 ** =TODO= Keywords
@@ -169,9 +167,6 @@ The Agenda view scans your .org files (set by customizing the
 org-agenda-files variable) and collects all of the headings with a
 TODO (or related) keyword. The agenda provides a convenient way of
 tracking your projects and managing your calendar.
-
-
-
 
 
 #+begin_quote
