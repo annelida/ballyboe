@@ -129,7 +129,14 @@ CLOCK: [2024-02-09 Fri 12:42]--[2024-02-09 Fri 12:58] =>  0:16
 :END:
 [[https://www.bbc.co.uk/learningenglish/english/course/lower-intermediate/unit-20/session-2/activity-3]]
 ***** Present Simple and Present Continuous
-SCHEDULED: <2024-02-29 Thu>
+SCHEDULED: <2024-03-14 Thu ++2w>
+:PROPERTIES:
+:LAST_REPEAT: [2024-02-29 Thu 17:21]
+:END:
+- State "AMPLE"      from ""           [2024-02-29 Thu 17:21]
+:LOGBOOK:
+CLOCK: [2024-02-29 Thu 11:20]--[2024-02-29 Thu 11:52] =>  0:32
+:END:
 [https://www.bbc.co.uk/learningenglish/english/course/lower-intermediate/unit-2/session-2/activity-3]
 ***** DONE Questions forms
 SCHEDULED: <2024-02-28 Wed ++2w>
@@ -143,7 +150,7 @@ https://www.bbc.co.uk/learningenglish/english/course/lower-intermediate/unit-1/s
 **** Present perfect
 *** English We Speak
 **** Rinse repeat
-SCHEDULED: <2024-02-29 Thu>
+SCHEDULED: <2024-03-01 Fri>
 [https://www.bbc.co.uk/sounds/play/p0hf8wg1]
 ** Linux
 :PROPERTIES:
@@ -416,12 +423,12 @@ SCHEDULED: <2024-03-30 Sat>
 CLOCK: [2023-10-24 Tue 08:07]--[2023-10-24 Tue 09:32] =>  1:25
 :END:
 
-*** DELAY Python classes
-SCHEDULED: <2024-03-26 Tue>
+*** RAW [#A] Python classes
+SCHEDULED: <2024-03-01 Fri>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-22 Wed 14:25]
+:CATEGORY: Python
 :END:
-
 - State "DONE"       from "Active"     [2023-11-22 Wed 14:25]
 - Note taken on [2023-11-01 Wed 16:02] \\
   Stock portfolio class clarification.
@@ -501,6 +508,7 @@ SCHEDULED: <2024-03-01 Fri ++2w>
   in the unittest.TestCase class instead of the
   built-in assert statement
 :LOGBOOK:
+CLOCK: [2024-02-29 Thu 09:20]--[2024-02-29 Thu 10:46] =>  1:26
 CLOCK: [2024-02-28 Wed 09:03]--[2024-02-28 Wed 09:48] =>  0:45
 CLOCK: [2024-02-27 Tue 09:07]--[2024-02-27 Tue 09:27] =>  0:20
 CLOCK: [2024-02-21 Wed 09:19]--[2024-02-21 Wed 09:38] =>  0:19
@@ -925,7 +933,7 @@ CLOCK: [2023-12-03 Sun 13:04]--[2023-12-03 Sun 13:32] =>  0:28
 ***** Jekyll
 
 ******* Org-Jekyll - article about initial config
-SCHEDULED: <2024-02-29 Thu ++1m>
+SCHEDULED: <2024-03-01 Fri ++1m>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-13 Mon 14:41]
 :END:
@@ -1270,7 +1278,7 @@ In the Linux terminal it is possible at the same time to compare folder with fil
 $ diff -a -y dir1 dir2
 
 ******* DELAY Linux symbolic links
-SCHEDULED: <2024-03-01 Fri>
+SCHEDULED: <2024-03-13 Wed>
 - Note taken on [2023-10-10 Tue 19:27] \\
   M-x man <enter> ln
 - Note taken on [2023-10-10 Tue 15:30]
@@ -1454,7 +1462,7 @@ CLOCK: [2024-01-04 Thu 12:11]--[2024-01-04 Thu 12:13] =>  0:02
 ** Portfolio creation
 ** CV elaboration
 ** New profession detail elaboration
-SCHEDULED: <2024-02-29 Thu>
+SCHEDULED: <2024-03-04 Mon>
 * Leasure
 
 * Books
@@ -1615,7 +1623,7 @@ SCHEDULED: <2024-03-02 Sat ++2w>
 CLOCK: [2023-12-14 Thu 10:09]--[2023-12-14 Thu 10:34] =>  0:25
 :END:
 ***** RAW Python Lists
-SCHEDULED: <2024-03-01 Fri ++2w>
+SCHEDULED: <2024-03-07 Thu ++2w>
 :PROPERTIES:
 :CATEGORY: Python
 :LAST_REPEAT: [2024-01-09 Tue 15:43]
