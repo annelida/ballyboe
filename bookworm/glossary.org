@@ -33,7 +33,6 @@ A computer is a machine or device that performs processes,
 calculations and operations based on instructions provided by a
 software or hardware program.
 
-
 ** Software
 
 #+begin_quote
@@ -232,6 +231,9 @@ Is a specification of the inputs, execution conditions, testing
 procedure and expected results that define a single test to be
 executed.
 
+A test case is the individual unit of testing. It checks for a
+specific response to a particular set of inputs.
+
 ** Test suit
 
 Is a collection of test cases that are grouped for test execution
@@ -371,6 +373,36 @@ performance, usability and dependability.
 #+begin_quote
 Is how well a software or application it's intended tasks such as
 speed, responsiveness, scalability and resource utilization. 
+#+end_quote
+
+** Quality assurance
+
+#+begin_quote
+Is the outermost layer of testing which prevents the possibility of
+errors. This method provides assurance, that all the business
+requirements will be achieved or delivered as per the expectations of
+the consumer of the product. Is process oriented, where testing and
+analysis are prevent error in the system before it happens. Quality
+assurance comes under of Verification (static analysis technique,
+where testing is dare without execution the code).
+#+end_quote
+
+** Quality control
+
+#+begin_quote
+Is a product oriented approach. It is ensures that standards are
+followed, and is performed after the software feature is developed,
+during the testing phase of sortware developmemt life cycle. It is
+considered under Validation, which is dynamic analisys technique -
+testing is done by execution the code.
+#+end_quote
+
+** SDLC
+
+#+begin_quote
+Is a methodology with clearly defined processes for creating
+high-quality software. It involves six phases: requirement analysis,
+planning, design, development, testing, and deployment.
 #+end_quote
 
 ** Framework
