@@ -453,9 +453,32 @@ SCHEDULED: <2024-03-01 Fri>
 - Note taken on [2023-11-01 Wed 16:02] \\
   Stock portfolio class clarification.
 :LOGBOOK:
+CLOCK: [2024-03-01 Fri 08:18]--[2024-03-01 Fri 08:59] =>  0:41
 CLOCK: [2023-10-27 Fri 08:53]--[2023-10-27 Fri 09:33] =>  0:40
 CLOCK: [2023-10-26 Thu 09:51]--[2023-10-26 Thu 17:30] =>  7:39
 :END:
+
+[[https://realpython.com/python-classes/]]
+[[https://realpython.com/python3-object-oriented-programming/]]
+
+#+begin_quote
+A common analogy is that a class is like the blueprint for a
+house. You can use the blueprint to create several houses and even a
+complete neighborhood. Each concrete house is an *object* or
+*instance* that’s derived from the blueprint.
+
+In OOP, you commonly use the term *attributes* to refer to the
+properties or data associated with a specific object of a given
+class. In Python, attributes are variables defined inside a class with
+the purpose of storing all the required data for the class to work.
+
+You’ll use the term *methods* to refer to the different behaviors that
+objects will show. Methods are functions that you define within a
+class. These functions typically operate on or with the attributes of
+the underlying instance or class. Attributes and methods are
+collectively referred to as members of a class or object.
+#+end_quote
+
 #+begin_src python :results output
 class Student:
   def __init__(self, name, age):
