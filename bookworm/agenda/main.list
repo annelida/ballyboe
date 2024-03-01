@@ -145,13 +145,33 @@ CLOCK: [2024-02-28 Wed 09:48]--[2024-02-28 Wed 10:29] =>  0:41
 CLOCK: [2024-02-21 Wed 09:38]--[2024-02-21 Wed 09:54] =>  0:16
 :END:
 https://www.bbc.co.uk/learningenglish/english/course/lower-intermediate/unit-1/session-2/activity-4
+***** "Like" for preference and description
+SCHEDULED: <2024-03-15 Fri ++2w>
+:PROPERTIES:
+:LAST_REPEAT: [2024-03-01 Fri 18:36]
+:END:
+- State "AMPLE"      from ""           [2024-03-01 Fri 18:36]
+:LOGBOOK:
+CLOCK: [2024-03-01 Fri 10:32]--[2024-03-01 Fri 11:03] =>  0:31
+:END:
+[[https://www.bbc.co.uk/learningenglish/english/course/lower-intermediate/unit-3/session-2/activity-4]]
 **** Present simple
 
 **** Present perfect
-*** English We Speak
+*** The English We Speak
 **** Rinse repeat
-SCHEDULED: <2024-03-01 Fri>
+SCHEDULED: <2024-03-15 Fri ++2w>
+:PROPERTIES:
+:LAST_REPEAT: [2024-03-01 Fri 18:36]
+:END:
+- State "AMPLE"      from ""           [2024-03-01 Fri 18:36]
+:LOGBOOK:
+CLOCK: [2024-03-01 Fri 11:03]--[2024-03-01 Fri 11:14] =>  0:11
+:END:
 [https://www.bbc.co.uk/sounds/play/p0hf8wg1]
+**** A million to one
+SCHEDULED: <2024-03-04 Mon>
+[https://www.bbc.co.uk/sounds/play/p0hcy06f]
 ** Linux
 :PROPERTIES:
 :CATEGORY: Linux
