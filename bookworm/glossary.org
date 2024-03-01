@@ -448,3 +448,8 @@ to execute.
  output, and giving you tools for debugging and diagnosing tests and
  applications.
 
+** Object-oriented programming (OOP)
+
+Is a method of structuring a program by bundling related properties
+and behaviors into individual objects
+
