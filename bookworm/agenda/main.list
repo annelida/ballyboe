@@ -155,6 +155,9 @@ SCHEDULED: <2024-03-15 Fri ++2w>
 CLOCK: [2024-03-01 Fri 10:32]--[2024-03-01 Fri 11:03] =>  0:31
 :END:
 [[https://www.bbc.co.uk/learningenglish/english/course/lower-intermediate/unit-3/session-2/activity-4]]
+***** Adverbs of frequency
+SCHEDULED: <2024-03-05 Tue ++2w>
+[https://www.bbc.co.uk/learningenglish/english/course/lower-intermediate/unit-4/session-2/activity-4]
 **** Present simple
 
 **** Present perfect
@@ -170,7 +173,7 @@ CLOCK: [2024-03-01 Fri 11:03]--[2024-03-01 Fri 11:14] =>  0:11
 :END:
 [https://www.bbc.co.uk/sounds/play/p0hf8wg1]
 **** A million to one
-SCHEDULED: <2024-03-04 Mon>
+SCHEDULED: <2024-03-05 Tue>
 [https://www.bbc.co.uk/sounds/play/p0hcy06f]
 ** Linux
 :PROPERTIES:
@@ -268,7 +271,7 @@ SCHEDULED: <2024-03-13 Wed ++1w>
    system, including their process ID (PID), parent process ID (PPID),
    CPU usage, memory usage, and more. 
 *** DELAY [#B] Process management
-SCHEDULED: <2024-03-04 Mon>
+SCHEDULED: <2024-03-15 Fri>
 - Note taken on [2023-12-20 Wed 11:33] \\
 
   Is the technique used by organizations to analyze, optimize, monitor,
@@ -444,7 +447,7 @@ CLOCK: [2023-10-24 Tue 08:07]--[2023-10-24 Tue 09:32] =>  1:25
 :END:
 
 *** RAW [#A] Python classes
-SCHEDULED: <2024-03-04 Mon>
+SCHEDULED: <2024-03-05 Tue>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-22 Wed 14:25]
 :CATEGORY: Python
@@ -518,8 +521,8 @@ Object's methods are functions that belong to the object.
 #+RESULTS:
 : The student's name is Tony Black
 
-*** RAW [#A] Software testing with Python and Selenium
-SCHEDULED: <2024-03-04 Mon ++2w>
+*** RAW [#A]Software testing with Python and Selenium
+SCHEDULED: <2024-03-05 Tue ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-16 Thu 09:23]
 :CATEGORY: Python
@@ -554,6 +557,7 @@ SCHEDULED: <2024-03-04 Mon ++2w>
   in the unittest.TestCase class instead of the
   built-in assert statement
 :LOGBOOK:
+CLOCK: [2024-03-04 Mon 10:09]--[2024-03-04 Mon 11:53] =>  1:44
 CLOCK: [2024-03-01 Fri 08:59]--[2024-03-01 Fri 10:32] =>  1:33
 CLOCK: [2024-02-29 Thu 09:20]--[2024-02-29 Thu 10:46] =>  1:26
 CLOCK: [2024-02-28 Wed 09:03]--[2024-02-28 Wed 09:48] =>  0:45
@@ -716,7 +720,7 @@ CLOCK: [2023-11-30 Thu 14:50]--[2023-11-30 Thu 15:33] =>  0:43
 CLOCK: [2023-12-19 Tue 10:56]--[2023-12-19 Tue 11:45] =>  0:49
 :END:
 ***** RAW Regular expressions syntax
-SCHEDULED: <2024-03-04 Mon>
+SCHEDULED: <2024-03-15 Fri>
 :LOGBOOK:
 CLOCK: [2024-02-09 Fri 10:59]--[2024-02-09 Fri 11:46] =>  0:47
 :END:
@@ -835,7 +839,7 @@ CLOCK: [2024-02-02 Fri 08:46]--[2024-02-02 Fri 08:46] =>  0:00
 CLOCK: [2024-02-01 Thu 10:37]o
 :END:
 *** DP0 [#A] Python mode
-SCHEDULED: <2024-03-04 Mon>
+SCHEDULED: <2024-03-05 Tue>
 :PROPERTIES:
 :CATEGORY: Emacs
 :END:
@@ -980,7 +984,7 @@ CLOCK: [2023-12-03 Sun 13:04]--[2023-12-03 Sun 13:32] =>  0:28
 ***** Jekyll
 
 ******* Org-Jekyll - article about initial config
-SCHEDULED: <2024-03-04 Mon ++1m>
+SCHEDULED: <2024-03-06 Wed ++1m>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-13 Mon 14:41]
 :END:
@@ -1509,7 +1513,7 @@ CLOCK: [2024-01-04 Thu 12:11]--[2024-01-04 Thu 12:13] =>  0:02
 ** Portfolio creation
 ** CV elaboration
 ** New profession detail elaboration
-SCHEDULED: <2024-03-04 Mon>
+SCHEDULED: <2024-03-06 Wed>
 * Leasure
 
 * Books
@@ -1605,7 +1609,7 @@ CLOCK: [2023-11-28 Tue 08:59]--[2023-11-28 Tue 09:23] =>  0:24
 :END:
 
 ***** DELAY Python run the file with executable privileges.
-SCHEDULED: <2024-03-03 Sun ++1w>
+SCHEDULED: <2024-05-13 Mon ++1w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-12-12 Tue 14:31]
 :CATEGORY: Python
@@ -1660,7 +1664,7 @@ CLOCK: [2023-11-28 Tue 10:40]--[2023-11-28 Tue 11:14] =>  0:34
 CLOCK: [2023-11-24 Fri 14:29]--[2023-11-24 Fri 14:52] =>  0:23
 :END:
 ******* DELAY Python how to code strings
-SCHEDULED: <2024-03-05 Tue ++2w>
+SCHEDULED: <2024-03-13 Wed ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-12-13 Wed 11:24]
 :END:
@@ -1713,7 +1717,7 @@ CLOCK: [2023-12-14 Thu 10:45]--[2023-12-14 Thu 11:09] =>  0:24
 :END:
 
 ****** Init Operators
-SCHEDULED: <2024-03-05 Tue>
+SCHEDULED: <2024-03-23 Sat>
 
 - Note taken on [2023-12-14 Thu 10:58] \\
   Conditional operator:
