@@ -35,28 +35,31 @@ software or hardware program.
 
 ** Software
 
-#+begin_quote
-Software is a set of computer programs, instructions, and data,
-associated documentation and data used operate computers and execute
-specific tasks.
-#+end_quote
+Is a collection of computer programs, instructions and data used to
+operate computers and execute specific tasks.
 
 ** Hardware
 
-Hardware (H/W), in the context of technology, refers to the physical
-elements that make up a computer or electronic system and everything
-else involved that is physically tangible.
+Is a computer's physical elements including its internal and external
+devices.
 
 ** Computer program
 
 A computer program is a sequence or set of instructions in a
-programming language for a computer to execute. It is one component of
-software, which also includes documentation and other *intangible*
-components.
+programming language for a computer to execute.
+
+It is one component of software, which also includes documentation and
+other *intangible* components.
 
 ** Source code
 
-A computer program in its *human-readable* form is called source code.
+Is a computer program in its *human-readable* form written in a
+specific programming language that sets exact rules and specifications
+for the computer.
+
+The "program" is the set of instructions that the computer executes,
+and the "source code" is the human-readable version of those
+instructions.
 
 ** Science
 
@@ -275,15 +278,19 @@ packages. =Emacs package management= relies on package archives,
 which act as online repositories that host packages.
 
 ** Selenium
-Selenium is a free (open-source) automated testing framework used to
-validate web applications across different browsers and platforms. You
-can use multiple programming languages like Java, C#, Python, etc to
-create Selenium Test Scripts.
+
+Selenium is a free and open source library for automated testing web
+application across different browsers and platforms, that implemented
+on multiple programming languages. 
 
 ** API
 An application programming interface is a way for two or more computer
 programs to communicate with each other. It is a type of software
 interface to exchange data across applications.
+
+** WebDriver
+
+Is a framework for automated testing web applications.
 
 ** Application
 
