@@ -222,7 +222,7 @@ Initially all software was used by the ancient (true) users by its
 Stack-Overflow suggestions and notes. Bear this fact in mind do your
 job as it would be done in a sure and fire manner.
 
-** RAW [#A] *Python* embedded help system
+** Init [#A] *Python* embedded help system
 SCHEDULED: <2024-03-06 Wed ++2d/3d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-01-23 Tue 18:38]
@@ -250,7 +250,7 @@ SCHEDULED: <2024-03-06 Wed ++2d/3d>
 - State "DONE"       from "ACTIVE"     [2023-11-09 Thu 18:41]
 - State "DONE"       from "ACTIVE"     [2023-11-07 Tue 18:21]
 ** Init [#A] *Selenium* package review
-SCHEDULED: <2024-03-05 Tue ++1d>
+SCHEDULED: <2024-03-06 Wed ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-02-28 Wed 18:57]
 :END:
