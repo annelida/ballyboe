@@ -3,11 +3,11 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 
 driver = webdriver.Chrome()
-driver.get("http://www.google.com")
+driver.get("http://www.python.org")
+assert "Python" in driver.title
 elem = driver.find_element(By.NAME, "q")
-elem.send_keys("Hello WebDriver!")
+elem.clear()
+elem.send_keys("pycon")
 elem.send_keys(Keys.RETURN)
-
-print(driver.title)
-
-
+assert "No results found." not in driver.page_source
+driver.close()
