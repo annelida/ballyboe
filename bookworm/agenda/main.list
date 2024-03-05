@@ -531,12 +531,14 @@ Object's methods are functions that belong to the object.
 : The student's name is Tony Black
 
 *** RAW [#A]Software testing with Python and Selenium
-SCHEDULED: <2024-03-05 Tue ++2w>
+SCHEDULED: <2024-03-06 Wed ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-16 Thu 09:23]
 :CATEGORY: Python
 :END:
 - Note taken on [2024-02-27 Tue 09:22] \\
+
+  [[https://copyprogramming.com/howto/how-do-i-add-chromedriver-to-path][Adding Chromedriver to PATH]]
   https://docs.python.org/3/library/unittest.html
   https://realpython.com/python-testing/
   [https://testsigma.com/blog/python-selenium-example/]
