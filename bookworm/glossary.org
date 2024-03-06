@@ -292,6 +292,14 @@ interface to exchange data across applications.
 
 Is a framework for automated testing web applications.
 
+The way Selenium works is it uses the web driver protocol to
+communicate with browsers. Webdriver as a protocol is a W3C standard.
+
+** Chromedriver
+
+Is a separate executable that Selenium WebDriver uses to control
+Chrome.
+
 ** Application
 
 #+begin_quote
