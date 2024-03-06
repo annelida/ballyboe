@@ -182,7 +182,7 @@ CLOCK: [2024-03-01 Fri 11:03]--[2024-03-01 Fri 11:14] =>  0:11
 :END:
 [https://www.bbc.co.uk/sounds/play/p0hf8wg1]
 **** A million to one
-SCHEDULED: <2024-03-06 Wed>
+SCHEDULED: <2024-03-07 Thu>
 [https://www.bbc.co.uk/sounds/play/p0hcy06f]
 ** Linux
 :PROPERTIES:
@@ -311,10 +311,10 @@ Avoiding Standard Software Risks
 Using Open Source Software
 
 *** DELAY =helpful= package usage
-SCHEDULED: <2024-03-07 Thu>
+SCHEDULED: <2024-03-11 Mon>
 
 *** DELAY =ivy= package usage
-SCHEDULED: <2024-03-07 Thu>
+SCHEDULED: <2024-03-11 Mon>
 
 *** Piping in Linux
 
@@ -461,7 +461,7 @@ CLOCK: [2023-10-24 Tue 08:07]--[2023-10-24 Tue 09:32] =>  1:25
 :END:
 
 *** RAW [#A] Python classes
-SCHEDULED: <2024-03-06 Wed>
+SCHEDULED: <2024-03-07 Thu>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-22 Wed 14:25]
 :CATEGORY: Python
@@ -611,6 +611,7 @@ SCHEDULED: <2024-03-07 Thu ++2w>
   in the unittest.TestCase class instead of the
   built-in assert statement
 :LOGBOOK:
+CLOCK: [2024-03-06 Wed 08:25]--[2024-03-06 Wed 09:07] =>  0:42
 CLOCK: [2024-03-05 Tue 08:16]--[2024-03-05 Tue 09:42] =>  1:26
 CLOCK: [2024-03-04 Mon 10:09]--[2024-03-04 Mon 11:53] =>  1:44
 CLOCK: [2024-03-01 Fri 08:59]--[2024-03-01 Fri 10:32] =>  1:33
@@ -781,7 +782,7 @@ CLOCK: [2024-02-09 Fri 10:59]--[2024-02-09 Fri 11:46] =>  0:47
 :END:
 [[info:emacs#Regexps][emacs#Regexps]]
 **** DELAY Emacs Tramp mode
-SCHEDULED: <2024-03-07 Thu>
+SCHEDULED: <2024-03-11 Mon>
 :PROPERTIES:
 :CATEGORY: Emacs
 :END:
@@ -894,7 +895,7 @@ CLOCK: [2024-02-02 Fri 08:46]--[2024-02-02 Fri 08:46] =>  0:00
 CLOCK: [2024-02-01 Thu 10:37]o
 :END:
 *** DP0 [#A] Python mode
-SCHEDULED: <2024-03-06 Wed>
+SCHEDULED: <2024-03-07 Thu>
 :PROPERTIES:
 :CATEGORY: Emacs
 :END:
@@ -1039,7 +1040,7 @@ CLOCK: [2023-12-03 Sun 13:04]--[2023-12-03 Sun 13:32] =>  0:28
 ***** Jekyll
 
 ******* Org-Jekyll - article about initial config
-SCHEDULED: <2024-03-06 Wed ++1m>
+SCHEDULED: <2024-03-07 Thu ++1m>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-13 Mon 14:41]
 :END:
@@ -1489,7 +1490,7 @@ CLOCK: [2023-10-25 Wed 10:36]--[2023-10-25 Wed 11:16] =>  0:40
   a feature branch.
 
 ******* Init Git/Magit undo options.
-SCHEDULED: <2024-03-06 Wed ++2w>
+SCHEDULED: <2024-03-07 Thu ++2w>
 :PROPERTIES:
 :CATEGORY: Git
 :LAST_REPEAT: [2024-01-04 Thu 12:46]
@@ -1568,7 +1569,7 @@ CLOCK: [2024-01-04 Thu 12:11]--[2024-01-04 Thu 12:13] =>  0:02
 ** Portfolio creation
 ** CV elaboration
 ** New profession detail elaboration
-SCHEDULED: <2024-03-06 Wed>
+SCHEDULED: <2024-03-07 Thu>
 * Leasure
 
 * Books
