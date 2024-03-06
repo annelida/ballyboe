@@ -536,11 +536,49 @@ Object's methods are functions that belong to the object.
 : The student's name is Tony Black
 
 *** RAW [#A]Software testing with Python and Selenium
-SCHEDULED: <2024-03-06 Wed ++2w>
+SCHEDULED: <2024-03-07 Thu ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-16 Thu 09:23]
 :CATEGORY: Python
 :END:
+- Note taken on [2024-03-06 Wed 08:30] \\
+  To run Selenium tests in Google Chrome, besides the Chrome browser
+  itself, ChromeDriver needs to be installed.
+
+  ChromeDriver is a separate executable that Selenium WebDriver uses
+  to control Chrome.
+
+  Installing ChromeDriver is easy: go to ChromeDriver site
+  [https://sites.google.com/a/chromium.org/chromedriver/downloads]
+
+  Download the one for your target platform, unzip it and put
+  chromedriver executable in your PATH.
+
+  You can specify the absolute path to your chrome driver in your script as such:
+
+  #+begin_example
+  from selenium import webdriver
+  driver = webdriver.Chrome(executable_path='/path/to/driver/chromedriver'
+  #+end_example
+
+  Or you can add the path to your webdriver in the PATH system variable
+  as so:
+
+  #+begin_example
+  export PATH=$PATH:/path/to/driver/chrome-driver
+  #+end_example
+
+  You may add the above line to your /home/<user>/.profile file to make
+  it permanent.
+  To verify the installation execute command
+  #+begin_example
+  chromedriver
+  #+end_example
+  You shall see:
+
+  Starting ChromeDriver 80.0.3987.16 (....) on port 9515 Only local
+  connections are allowed.  Please protect ports used by ChromeDriver
+  and related test frameworks to prevent access by malicious code.
 - Note taken on [2024-02-27 Tue 09:22] \\
 
   [[https://copyprogramming.com/howto/how-do-i-add-chromedriver-to-path][Adding Chromedriver to PATH]]
