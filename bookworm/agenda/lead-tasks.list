@@ -223,10 +223,13 @@ Stack-Overflow suggestions and notes. Bear this fact in mind do your
 job as it would be done in a sure and fire manner.
 
 ** Init [#A] *Python* embedded help system
-SCHEDULED: <2024-03-07 Thu ++2d/3d>
+SCHEDULED: <2024-03-08 Fri ++2d/3d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-01-23 Tue 18:38]
 :CATEGORY: Python
+:END:
+:LOGBOOK:
+CLOCK: [2024-03-07 Thu 10:40]--[2024-03-07 Thu 10:57] =>  0:17
 :END:
 - State "DONE"       from "Active"     [2024-01-23 Tue 18:38]
 - State "DONE"       from "Active"     [2024-01-16 Tue 15:22]
@@ -250,7 +253,7 @@ SCHEDULED: <2024-03-07 Thu ++2d/3d>
 - State "DONE"       from "ACTIVE"     [2023-11-09 Thu 18:41]
 - State "DONE"       from "ACTIVE"     [2023-11-07 Tue 18:21]
 ** Init [#A] *Selenium* package review
-SCHEDULED: <2024-03-07 Thu ++1d>
+SCHEDULED: <2024-03-08 Fri ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-02-28 Wed 18:57]
 :END:
