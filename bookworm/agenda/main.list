@@ -579,8 +579,21 @@ SCHEDULED: <2024-03-07 Thu ++2w>
   Starting ChromeDriver 80.0.3987.16 (....) on port 9515 Only local
   connections are allowed.  Please protect ports used by ChromeDriver
   and related test frameworks to prevent access by malicious code.
+
+  #+begin_src python :results output
+     from selenium import webdriver
+     import time
+     driver = webdriver.Chrome()
+     driver.get("https://annelida.github.io/")
+     time.sleep(1) # wait 1 second
+     driver.quit()
+  #+end_src
+
+  #+RESULTS:
+
 - Note taken on [2024-02-27 Tue 09:22] \\
 
+  [[https://selenium-python.readthedocs.io/locating-elements.html][Locating elements]]
   [[https://copyprogramming.com/howto/how-do-i-add-chromedriver-to-path][Adding Chromedriver to PATH]]
   https://docs.python.org/3/library/unittest.html
   https://realpython.com/python-testing/
