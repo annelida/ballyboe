@@ -599,6 +599,65 @@ SCHEDULED: <2024-03-08 Fri ++2w>
 
   #+RESULTS:
 
+The =By class= is used to locate elements within a document.
+Selenium provides the following method to locate elements in a page: 
+ =find_element=
+To find multiple elements (these methods will return a list):
+ =find_elements=
+ The attributes available for the =By class= are used to locate
+ elements on a page. These are the attributes available for =By
+ class=:
+ #+begin_example
+ ID = "id"
+ NAME = "name"
+ XPATH = "xpath"
+ LINK_TEXT = "link text"
+ PARTIAL_LINK_TEXT = "partial link text"
+ TAG_NAME = "tag name"
+ CLASS_NAME = "class name"
+ CSS_SELECTOR = "css selector"
+ #+end_example
+
+ #+begin_example
+ find_element(By.ID, "id")
+ find_element(By.NAME, "name")
+ find_element(By.XPATH, "xpath")
+ find_element(By.LINK_TEXT, "link text")
+ find_element(By.PARTIAL_LINK_TEXT, "partial link text")
+ find_element(By.TAG_NAME, "tag name")
+ find_element(By.CLASS_NAME, "class name")
+ find_element(By.CSS_SELECTOR, "css selector")
+ #+end_example
+
+ The =Keys class= provide keys in the keyboard like RETURN, F1, ALT
+ etc.
+
+ #+begin_example
+ from selenium import webdriver
+ from selenium.webdriver.common.keys import Keys
+ from selenium.webdriver.common.by import By
+ #+end_example
+
+ Find element by ID
+
+ #+begin_src python :results output
+   from selenium import webdriver
+   from selenium.webdriver.common.keys import Keys
+   from selenium.webdriver.common.by import By
+   import time
+
+   driver = webdriver.Chrome()
+   driver.get("https://annelida.github.io/")
+   elem = driver.find_element(By.ID, "text-table-of-contents").text 
+   time.sleep(1) # wait 1 second
+   print(elem)
+   driver.quit()
+ #+end_src
+
+ #+RESULTS:
+ : Short intro
+ : What is Literate Programming?
+
 - Note taken on [2024-02-27 Tue 09:22] \\
 
   [[https://selenium-python.readthedocs.io/locating-elements.html][Locating elements]]
