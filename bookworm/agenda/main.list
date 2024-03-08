@@ -117,7 +117,7 @@ CLOCK: [2024-02-09 Fri 12:23]--[2024-02-09 Fri 12:42] =>  0:19
 :END:
 [[https://www.bbc.co.uk/learningenglish/english/course/lower-intermediate/unit-21/session-2/activity-3]]
 ***** DELAY Tense tour
-SCHEDULED: <2024-03-08 Fri ++2w>
+SCHEDULED: <2024-03-11 Mon ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-02-22 Thu 17:56]
 :END:
@@ -190,7 +190,7 @@ CLOCK: [2024-03-01 Fri 11:03]--[2024-03-01 Fri 11:14] =>  0:11
 :END:
 [https://www.bbc.co.uk/sounds/play/p0hf8wg1]
 **** A million to one
-SCHEDULED: <2024-03-08 Fri>
+SCHEDULED: <2024-03-11 Mon>
 [https://www.bbc.co.uk/sounds/play/p0hcy06f]
 ** Linux
 :PROPERTIES:
@@ -469,7 +469,7 @@ CLOCK: [2023-10-24 Tue 08:07]--[2023-10-24 Tue 09:32] =>  1:25
 :END:
 
 *** RAW [#A] Python classes
-SCHEDULED: <2024-03-08 Fri>
+SCHEDULED: <2024-03-11 Mon>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-22 Wed 14:25]
 :CATEGORY: Python
@@ -544,7 +544,7 @@ Object's methods are functions that belong to the object.
 : The student's name is Tony Black
 
 *** RAW [#A]Software testing with Python and Selenium
-SCHEDULED: <2024-03-08 Fri ++2w>
+SCHEDULED: <2024-03-11 Mon ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-16 Thu 09:23]
 :CATEGORY: Python
@@ -691,6 +691,7 @@ To find multiple elements (these methods will return a list):
   in the unittest.TestCase class instead of the
   built-in assert statement
 :LOGBOOK:
+CLOCK: [2024-03-08 Fri 08:15]--[2024-03-08 Fri 10:35] =>  2:20
 CLOCK: [2024-03-07 Thu 08:21]--[2024-03-07 Thu 09:39] =>  1:18
 CLOCK: [2024-03-06 Wed 08:25]--[2024-03-06 Wed 09:07] =>  0:42
 CLOCK: [2024-03-05 Tue 08:16]--[2024-03-05 Tue 09:42] =>  1:26
@@ -976,7 +977,7 @@ CLOCK: [2024-02-02 Fri 08:46]--[2024-02-02 Fri 08:46] =>  0:00
 CLOCK: [2024-02-01 Thu 10:37]o
 :END:
 *** DP0 [#A] Python mode
-SCHEDULED: <2024-03-08 Fri>
+SCHEDULED: <2024-03-11 Mon>
 :PROPERTIES:
 :CATEGORY: Emacs
 :END:
@@ -1121,7 +1122,7 @@ CLOCK: [2023-12-03 Sun 13:04]--[2023-12-03 Sun 13:32] =>  0:28
 ***** Jekyll
 
 ******* Org-Jekyll - article about initial config
-SCHEDULED: <2024-03-08 Fri ++1m>
+SCHEDULED: <2024-03-11 Mon ++1m>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-13 Mon 14:41]
 :END:
@@ -1811,7 +1812,7 @@ SCHEDULED: <2024-03-13 Wed ++2w>
 CLOCK: [2023-12-14 Thu 10:09]--[2023-12-14 Thu 10:34] =>  0:25
 :END:
 ***** RAW Python Lists
-SCHEDULED: <2024-03-08 Fri ++2w>
+SCHEDULED: <2024-03-11 Mon ++2w>
 :PROPERTIES:
 :CATEGORY: Python
 :LAST_REPEAT: [2024-01-09 Tue 15:43]
@@ -1838,7 +1839,7 @@ CLOCK: [2023-12-19 Tue 14:10]--[2023-12-19 Tue 14:10] =>  0:00
 :END:
 
 ***** RAW Mathematical models
-SCHEDULED: <2024-03-08 Fri ++2w>
+SCHEDULED: <2024-05-09 Thu ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-12-13 Wed 11:24]
 :END:
