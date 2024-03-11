@@ -116,14 +116,16 @@ SCHEDULED: <2024-03-22 Fri ++2w>
 CLOCK: [2024-02-09 Fri 12:23]--[2024-02-09 Fri 12:42] =>  0:19
 :END:
 [[https://www.bbc.co.uk/learningenglish/english/course/lower-intermediate/unit-21/session-2/activity-3]]
-***** DELAY Tense tour
-SCHEDULED: <2024-03-11 Mon ++2w>
+***** Tense tour
+SCHEDULED: <2024-03-25 Mon ++2w>
 :PROPERTIES:
-:LAST_REPEAT: [2024-02-22 Thu 17:56]
+:LAST_REPEAT: [2024-03-11 Mon 17:34]
 :END:
+- State "AMPLE"      from ""           [2024-03-11 Mon 17:34]
 - State "AMPLE"      from "DELAY"      [2024-02-22 Thu 17:56]
 - State "AMPLE"      from "DELAY"      [2024-02-09 Fri 18:49]
 :LOGBOOK:
+CLOCK: [2024-03-11 Mon 12:31]--[2024-03-11 Mon 12:41] =>  0:10
 CLOCK: [2024-02-09 Fri 13:12]--[2024-02-09 Fri 13:29] =>  0:17
 CLOCK: [2024-02-09 Fri 12:42]--[2024-02-09 Fri 12:58] =>  0:16
 :END:
@@ -190,7 +192,7 @@ CLOCK: [2024-03-01 Fri 11:03]--[2024-03-01 Fri 11:14] =>  0:11
 :END:
 [https://www.bbc.co.uk/sounds/play/p0hf8wg1]
 **** A million to one
-SCHEDULED: <2024-03-11 Mon>
+SCHEDULED: <2024-03-12 Tue>
 [https://www.bbc.co.uk/sounds/play/p0hcy06f]
 ** Linux
 :PROPERTIES:
@@ -318,11 +320,11 @@ Choosing a Software Development Approach
 Avoiding Standard Software Risks
 Using Open Source Software
 
-*** DELAY =helpful= package usage
-SCHEDULED: <2024-03-11 Mon>
+*** RAW =helpful= package usage
+SCHEDULED: <2024-03-12 Tue>
 
-*** DELAY =ivy= package usage
-SCHEDULED: <2024-03-11 Mon>
+*** RAW =ivy= package usage
+SCHEDULED: <2024-03-15 Fri>
 
 *** Piping in Linux
 
@@ -469,7 +471,7 @@ CLOCK: [2023-10-24 Tue 08:07]--[2023-10-24 Tue 09:32] =>  1:25
 :END:
 
 *** RAW [#A] Python classes
-SCHEDULED: <2024-03-11 Mon>
+SCHEDULED: <2024-03-12 Tue>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-22 Wed 14:25]
 :CATEGORY: Python
@@ -544,7 +546,7 @@ Object's methods are functions that belong to the object.
 : The student's name is Tony Black
 
 *** RAW [#A]Software testing with Python and Selenium
-SCHEDULED: <2024-03-11 Mon ++2w>
+SCHEDULED: <2024-03-12 Tue ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-16 Thu 09:23]
 :CATEGORY: Python
@@ -711,6 +713,7 @@ To find multiple elements (these methods will return a list):
   in the unittest.TestCase class instead of the
   built-in assert statement
 :LOGBOOK:
+CLOCK: [2024-03-11 Mon 10:32]--[2024-03-11 Mon 12:18] =>  1:46
 CLOCK: [2024-03-08 Fri 08:15]--[2024-03-08 Fri 10:35] =>  2:20
 CLOCK: [2024-03-07 Thu 08:21]--[2024-03-07 Thu 09:39] =>  1:18
 CLOCK: [2024-03-06 Wed 08:25]--[2024-03-06 Wed 09:07] =>  0:42
@@ -827,7 +830,7 @@ Bookmark all available places on ~localhost~ and in the ~WWW~
 #DP requires preparation with definition goals and approaches
 
 *** DELAY Help about *eww*
-SCHEDULED: <2024-03-10 Sun>
+SCHEDULED: <2024-05-20 Mon>
 :PROPERTIES:
 :CATEGORY: Emacs
 :END:
@@ -840,7 +843,7 @@ SCHEDULED: <2024-03-15 Fri ++3w>
 - State "AMPLE"      from "DELAY"      [2024-01-29 Mon 16:00]
 - State "DONE"       from "Active"     [2023-12-04 Mon 11:10]
 *** DELAY Elpy concepts
-SCHEDULED: <2024-03-10 Sun>
+SCHEDULED: <2024-05-20 Mon>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-23 Thu 15:54]
 :CATEGORY: Elpy
@@ -884,7 +887,7 @@ CLOCK: [2024-02-09 Fri 10:59]--[2024-02-09 Fri 11:46] =>  0:47
 :END:
 [[info:emacs#Regexps][emacs#Regexps]]
 **** DELAY Emacs Tramp mode
-SCHEDULED: <2024-03-11 Mon>
+SCHEDULED: <2024-03-19 Tue>
 :PROPERTIES:
 :CATEGORY: Emacs
 :END:
@@ -942,13 +945,16 @@ SCHEDULED: <2024-03-13 Wed>
 CLOCK: [2024-01-10 Wed 08:31]--[2024-01-10 Wed 10:03] =>  1:32
 :END:
 
-*** DELAY Help about *Dired mode*
-SCHEDULED: <2024-03-10 Sun>
+*** RAW Help about *Dired mode*
+SCHEDULED: <2024-03-14 Thu>
 :PROPERTIES:
 :CATEGORY: Emacs
 :END:
+:LOGBOOK:
+CLOCK: [2024-03-11 Mon 08:21]--[2024-03-11 Mon 08:32] =>  0:11
+:END:
 *** DELAY Multi-frame workplace
-SCHEDULED: <2024-03-10 Sun>
+SCHEDULED: <2024-05-20 Mon>
 :PROPERTIES:
 :CATEGORY: Emacs
 :END:
@@ -984,7 +990,7 @@ CLOCK: [2024-01-11 Thu 09:48]--[2024-01-11 Thu 10:19] =>  0:31
 SCHEDULED: <2024-03-26 Tue>
 [[info:emacs#Keyboard Macros][emacs#Keyboard Macros]]
 *** DELAY Emacs markers
-SCHEDULED: <2024-03-10 Sun>
+SCHEDULED: <2024-06-20 Thu>
 :PROPERTIES:
 :CATEGORY: Emacs
 :END:
@@ -997,7 +1003,7 @@ CLOCK: [2024-02-02 Fri 08:46]--[2024-02-02 Fri 08:46] =>  0:00
 CLOCK: [2024-02-01 Thu 10:37]o
 :END:
 *** DP0 [#A] Python mode
-SCHEDULED: <2024-03-11 Mon>
+SCHEDULED: <2024-03-12 Tue>
 :PROPERTIES:
 :CATEGORY: Emacs
 :END:
@@ -1095,7 +1101,7 @@ https://orgmode.org/worg/org-contrib/org-drill.html
 https://orgmode.org/worg/org-contrib/org-drill.html#org51fd4f9
 
 ***** DELAY [#A] Org-capture templates usage
-SCHEDULED: <2024-03-10 Sun ++2w>
+SCHEDULED: <2024-05-20 Mon ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-01-25 Thu 11:48]
 :CATEGORY: Emacs
@@ -1142,7 +1148,7 @@ CLOCK: [2023-12-03 Sun 13:04]--[2023-12-03 Sun 13:32] =>  0:28
 ***** Jekyll
 
 ******* Org-Jekyll - article about initial config
-SCHEDULED: <2024-03-11 Mon ++1m>
+SCHEDULED: <2024-03-12 Tue ++1m>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-13 Mon 14:41]
 :END:
@@ -1832,7 +1838,7 @@ SCHEDULED: <2024-03-13 Wed ++2w>
 CLOCK: [2023-12-14 Thu 10:09]--[2023-12-14 Thu 10:34] =>  0:25
 :END:
 ***** RAW Python Lists
-SCHEDULED: <2024-03-11 Mon ++2w>
+SCHEDULED: <2024-03-20 Wed ++2w>
 :PROPERTIES:
 :CATEGORY: Python
 :LAST_REPEAT: [2024-01-09 Tue 15:43]
@@ -1917,7 +1923,7 @@ CLOCK: [2023-11-28 Tue 18:27]--[2023-11-28 Tue 18:33] =>  0:06
 - State "DONE"       from "Active"     [2023-11-23 Thu 15:54]
 * Events
 * Notes
-** Init What is CI/CD
+** AMPLE What is CI/CD
 SCHEDULED: <2024-03-09 Sat>
 :LOGBOOK:
 CLOCK: [2024-02-23 Fri 07:59]--[2024-02-23 Fri 08:37] =>  0:38
