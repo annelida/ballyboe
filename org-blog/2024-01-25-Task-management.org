@@ -19,7 +19,7 @@ tags: [agenda, tasks-management]
 #+TODO: DELAY LAG RETARD | BARE
 
 * DELAY Preface
-SCHEDULED: <2024-03-10 Sun>
+SCHEDULED: <2024-05-20 Mon>
 :LOGBOOK:
 CLOCK: [2024-01-31 Wed 13:01]--[2024-01-31 Wed 13:14] =>  0:13
 CLOCK: [2024-01-30 Tue 08:33]--[2024-01-30 Tue 09:20] =>  0:47
@@ -46,7 +46,7 @@ Breakdown tasks into smaller chunks, Working log performance, Make
 changes.
 
 * RAW Tasks classification
-SCHEDULED: <2024-03-11 Mon>
+SCHEDULED: <2024-03-18 Mon>
 :LOGBOOK:
 CLOCK: [2024-02-29 Thu 10:47]--[2024-02-29 Thu 11:18] =>  0:31
 CLOCK: [2024-02-09 Fri 06:29]--[2024-02-09 Fri 07:14] =>  0:45
@@ -125,7 +125,7 @@ difficulty.
 RAW Init DP0 Todo DP1 Active DONE
 
 * RAW Org-Agenda as the main tool of capabilities
-SCHEDULED: <2024-03-11 Mon>
+SCHEDULED: <2024-03-12 Tue>
 :LOGBOOK:
 CLOCK: [2024-02-28 Wed 11:01]--[2024-02-28 Wed 11:44] =>  0:43
 CLOCK: [2024-02-09 Fri 07:18]--[2024-02-09 Fri 10:06] =>  2:48

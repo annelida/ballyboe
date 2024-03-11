@@ -12,7 +12,7 @@
 #+TODO: DELAY LAG RETARD | BARE
 
 * DELAY Genuine source of knowledge
-SCHEDULED: <2024-03-10 Sun ++1d>
+SCHEDULED: <2024-05-20 Mon ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-02-03 Sat 17:19]
 :END:
@@ -148,7 +148,7 @@ CLOCK: [2023-11-24 Fri 08:31]--[2023-11-24 Fri 09:02] =>  0:31
 - State "DONE"       from "ACTIVE"     [2023-11-07 Tue 18:19]
 when you do challenging but indispensable tasks by yourself
 * DELAY Help about *Help*
-SCHEDULED: <2024-03-10 Sun ++1d>
+SCHEDULED: <2024-05-20 Mon ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-01-30 Tue 14:56]
 :CATEGORY: Emacs
@@ -223,7 +223,7 @@ Stack-Overflow suggestions and notes. Bear this fact in mind do your
 job as it would be done in a sure and fire manner.
 
 ** Init [#A] *Python* embedded help system
-SCHEDULED: <2024-03-11 Mon ++2d/3d>
+SCHEDULED: <2024-03-12 Tue ++2d/3d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-01-23 Tue 18:38]
 :CATEGORY: Python
@@ -253,7 +253,7 @@ CLOCK: [2024-03-07 Thu 10:40]--[2024-03-07 Thu 10:57] =>  0:17
 - State "DONE"       from "ACTIVE"     [2023-11-09 Thu 18:41]
 - State "DONE"       from "ACTIVE"     [2023-11-07 Tue 18:21]
 ** Init [#A] *Selenium* package review
-SCHEDULED: <2024-03-11 Mon ++1d>
+SCHEDULED: <2024-03-12 Tue ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-02-28 Wed 18:57]
 :END:
@@ -318,7 +318,7 @@ CLOCK: [2023-10-14 Sat 07:30]--[2023-10-14 Sat 08:27] =>  0:57
 Very straighforward system out from 10 initial keys to use in embedded
 *Help* browser.OA To use several *Help* buffers use =M-x raname uniquely=
 * DELAY Help about *info*
-SCHEDULED: <2024-03-10 Sun ++1d>
+SCHEDULED: <2024-05-20 Mon ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-01-30 Tue 14:56]
 :CATEGORY: Emacs
