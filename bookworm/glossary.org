@@ -468,3 +468,8 @@ to execute.
 Is a method of structuring a program by bundling related properties
 and behaviors into individual objects
 
+** XPATH
+
+The XML Path Language, is a query language for selecting nodes from an
+XML document.
+
