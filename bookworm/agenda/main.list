@@ -682,6 +682,30 @@ To find multiple elements (these methods will return a list):
 
  #+RESULTS:
 
+ =is_displayed()= check applies to most of the web controls, such as
+ HyperLinks, Text Fields, Buttons.
+
+ #+begin_src python :results output
+   from selenium import webdriver
+   from selenium.webdriver.common.keys import Keys
+   from selenium.webdriver.common.by import By
+   import time
+
+   driver = webdriver.Chrome()
+   driver.get("http://travel.agileway.net")
+   driver.find_element(By.ID, "username").send_keys("agileway") # Textfield
+   driver.find_element(By.ID, "password").send_keys("testwise") # Textfield
+   assert(driver.find_element(By.CSS_SELECTOR, "input[value='Sign in']").is_displayed())
+   print("The button is displyed!")
+   driver.find_element(By.CSS_SELECTOR, "input[value='Sign in']").click() #Button
+   time.sleep(1) # wait 1 second
+   driver.quit()
+ #+end_src
+
+ #+RESULTS:
+ : The button is displyed!
+ 
+
 
 - Note taken on [2024-02-27 Tue 09:22] \\
 
