@@ -20,10 +20,11 @@ MY PROJECTS    -*- mode: org; -*-
     - State "DONE"       from "ACTIVE"     [2023-10-15 Sun 07:54]
     - State "DONE"       from "TODO"       [2023-06-23 Fri 15:12]
 *** RAW Check the waste !!!!
-    SCHEDULED: <2024-03-12 Tue ++1w>
+    SCHEDULED: <2024-03-19 Tue ++1w>
     :PROPERTIES:
-    :LAST_REPEAT: [2024-03-05 Tue 18:43]
+    :LAST_REPEAT: [2024-03-12 Tue 18:01]
     :END:
+    - State "DONE"       from "ACTIVE"     [2024-03-12 Tue 18:01]
     - State "DONE"       from "ACTIVE"     [2024-03-05 Tue 18:43]
     - State "DONE"       from "ACTIVE"     [2024-02-26 Mon 17:58]
     - State "DONE"       from "ACTIVE"     [2024-02-19 Mon 18:39]
