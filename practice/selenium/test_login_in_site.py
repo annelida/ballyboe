@@ -16,6 +16,7 @@ class LoginScenario(unittest.TestCase):
         driver.find_element(By.ID, "username").send_keys("agileway") # Textfield
         driver.find_element(By.ID, "password").send_keys("testwise") # Textfield
         self.assertTrue(driver.find_element(By.CSS_SELECTOR, "input[value='Sign in']").is_displayed())
+        self.assertTrue(driver.find_element(By.CSS_SELECTOR, "input[value='Sign in']").is_enabled())
         driver.find_element(By.CSS_SELECTOR, "input[value='Sign in']").click() #Button
         time.sleep(1) # wait 1 second
 
