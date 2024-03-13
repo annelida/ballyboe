@@ -177,9 +177,12 @@ SCHEDULED: <2024-03-21 Thu ++2w>
 CLOCK: [2024-03-07 Thu 10:57]--[2024-03-07 Thu 11:33] =>  0:36
 :END:
 [https://www.bbc.co.uk/learningenglish/english/course/lower-intermediate/unit-5/session-2/activity-5]
-***** Past simple
+***** AMPLE Past simple
 SCHEDULED: <2024-03-13 Wed>
 [https://www.bbc.co.uk/learningenglish/english/course/lower-intermediate/unit-6/session-2/activity-5]
+***** Past simple and Past continuous
+SCHEDULED: <2024-03-14 Thu>
+[https://www.bbc.co.uk/learningenglish/english/course/lower-intermediate/unit-7/session-2/activity-4]
 **** Present simple
 
 **** Present perfect
@@ -717,7 +720,14 @@ To find multiple elements (these methods will return a list):
   https://stackoverflow.com/questions/50821312/what-is-the-effect-of-using-python-m-pip-instead-of-just-pip
   https://www.browserstack.com/guide/python-selenium-to-run-web-automation-test
   https://www.techbeamers.com/selenium-python-test-suite-unittest/
+
 - State "DONE"       from "ACTIVE"     [2023-11-16 Thu 09:23]
+
+*** RAW Testing in Python
+SCHEDULED: <2024-03-14 Thu>
+[https://realpython.com/python-testing/]
+https://talkpython.fm/episodes/transcript/368/end-to-end-web-testing-with-playwright
+  
 - Note taken on [2023-10-24 Tue 09:35] \\
   A unit test is a smaller test, that checks
   that a single component operates in the right way.
