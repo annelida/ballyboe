@@ -19,8 +19,8 @@ class LoginScenario(unittest.TestCase):
         driver.find_element(By.CSS_SELECTOR, "input[value='Sign in']").click() #Button
         time.sleep(1) # wait 1 second
 
-        def tearDown(self):
-            self.driver.quit()
+    def tearDown(self):
+        self.driver.quit()
 
 if __name__== '__main__':
     unittest.main()      
