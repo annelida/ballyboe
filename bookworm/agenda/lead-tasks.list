@@ -253,7 +253,7 @@ CLOCK: [2024-03-07 Thu 10:40]--[2024-03-07 Thu 10:57] =>  0:17
 - State "DONE"       from "ACTIVE"     [2023-11-09 Thu 18:41]
 - State "DONE"       from "ACTIVE"     [2023-11-07 Tue 18:21]
 ** Init [#A] *Selenium* package review
-SCHEDULED: <2024-03-13 Wed ++1d>
+SCHEDULED: <2024-03-14 Thu ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-02-28 Wed 18:57]
 :END:

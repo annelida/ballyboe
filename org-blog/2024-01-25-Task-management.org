@@ -124,8 +124,8 @@ difficulty.
 
 RAW Init DP0 Todo DP1 Active DONE
 
-* RAW Org-Agenda as the main tool of capabilities
-SCHEDULED: <2024-03-13 Wed>
+* DELAY Org-Agenda as the main tool of capabilities
+SCHEDULED: <2024-04-18 Thu>
 :LOGBOOK:
 CLOCK: [2024-02-28 Wed 11:01]--[2024-02-28 Wed 11:44] =>  0:43
 CLOCK: [2024-02-09 Fri 07:18]--[2024-02-09 Fri 10:06] =>  2:48
