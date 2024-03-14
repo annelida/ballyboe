@@ -826,7 +826,23 @@ CLOCK: [2023-10-25 Wed 09:13]--[2023-10-25 Wed 10:35] =>  1:22
 CLOCK: [2023-10-24 Tue 09:35]--[2023-10-24 Tue 09:50] =>  0:15
 :END:
 
-#+begin_example
+#+begin_src python :results output
+def test_sum():
+   assert sum([1, 2, 3]) == 6, "Should be 6"
+
+def test_sum_tuple():
+   assert sum((1, 2, 3)) == 6, "Should be 6"
+
+if __name__ == "__main__":
+    test_sum()
+    test_sum_tuple()
+    print("Everything passed")
+#+end_src
+
+#+RESULTS:
+: Everything passed
+
+#+begin_src python :results output
 def test_sum():
    assert sum([1, 2, 3]) == 6, "Should be 6"
 
@@ -837,7 +853,15 @@ if __name__ == "__main__":
     test_sum()
     test_sum_tuple()
     print("Everything passed")
-#+end_example
+#+end_src
+
+#+RESULTS:
+
+: Traceback (most recent call last):
+  : File "<stdin>", line 9, in <module>
+  : File "<stdin>", line 5, in test_sum_tuple
+: AssertionError: Should be 6
+
 To convert the example to a unittest test case:
 
 Import unittest from the standard library
@@ -848,6 +872,35 @@ as the first argument;
 Change the assertions to use the self.assertEqual() method on
 the TestCase class;
 Change the command-line entry point to call unittest.main()
+
+#+begin_src python :results output
+  import unittest
+
+  class TestSum(unittest.TestCase):
+
+      def test_sum(self):
+          self.assertEqual(sum(([1, 2, 3])), 6, "Should be 6")
+
+      def test_sum_tuple(self):
+          self.assertEqual(sum((1, 2, 2)), 6, "Should be 6")
+
+  if __name__ == '__main__':
+      unittest.main()
+#+end_src
+
+#+RESULTS:
+.F
+: =====================================================================
+: FAIL: test_sum_tuple (__main__.TestSum)
+: ---------------------------------------------------------------------
+: Traceback (most recent call last):
+  : File "<stdin>", line 9, in test_sum_tuple
+: AssertionError: 5 != 6 : Should be 6
+
+: ---------------------------------------------------------------------
+: Ran 2 tests in 0.001s
+
+: FAILED (failures=1)
 
 #+begin_example
 import unittest
