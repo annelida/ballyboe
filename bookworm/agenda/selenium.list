@@ -125,7 +125,7 @@ CLOSED: [2023-11-06 Mon 15:57]
   beginners and manual testers to learn more efficiently.
  
 * DELAY Features of Selenium IDE
-SCHEDULED: <2024-03-15 Fri>
+SCHEDULED: <2024-04-04 Thu>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-06 Mon 16:07]
 :END:
@@ -180,4 +180,4 @@ SCHEDULED: <2024-04-26 Fri>
 * Convert Selenium IDE command to Any Programming Language Automation Test
 * Wrapping Up
 * DELAY Reading Real Python articles about =Selenium=
-SCHEDULED: <2024-03-15 Fri>
+SCHEDULED: <2024-04-01 Mon>

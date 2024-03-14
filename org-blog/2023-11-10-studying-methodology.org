@@ -89,7 +89,7 @@ Method. See synonyms, origin, and examples of method in sentences.
  how you receive information to best learn.
 
 * RAW Applied methodology
-SCHEDULED: <2024-03-15 Fri ++4d>
+SCHEDULED: <2024-03-25 Mon ++4d>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-20 Mon 16:13]
 :END:
