@@ -562,10 +562,14 @@ SCHEDULED: <2024-03-15 Fri ++2w>
 :CATEGORY: Python
 :END:
 :LOGBOOK:
+CLOCK: [2024-03-15 Fri 08:38]
 CLOCK: [2024-03-14 Thu 09:16]--[2024-03-14 Thu 09:50] =>  0:34
 CLOCK: [2024-03-14 Thu 08:33]
 :END:
 - Note taken on [2024-03-06 Wed 08:30] \\
+
+**** Chromedriver installation
+
   To run Selenium tests in Google Chrome, besides the Chrome browser
   itself, ChromeDriver needs to be installed.
 
@@ -615,6 +619,8 @@ CLOCK: [2024-03-14 Thu 08:33]
 
   #+RESULTS:
 
+**** Elements locating
+
 The =By class= is used to locate elements within a document.
 Selenium provides the following method to locate elements in a page: 
  =find_element=
@@ -654,7 +660,7 @@ To find multiple elements (these methods will return a list):
  from selenium.webdriver.common.by import By
  #+end_example
 
- Find element by ID
+***** Locating element by =ID=
 
  #+begin_src python :results output
    from selenium import webdriver
@@ -674,7 +680,7 @@ To find multiple elements (these methods will return a list):
  : Short intro
  : What is Literate Programming?
 
- Find element By more examples
+***** Locating  element =By= more example
 
  #+begin_src python :results output
    from selenium import webdriver
@@ -716,7 +722,7 @@ To find multiple elements (these methods will return a list):
  #+RESULTS:
  : The button is displayed!
 
- Assert a button enabled or disabled?
+***** Assert a button enabled or disabled?
 
  #+begin_src python :results output
    from selenium import webdriver
@@ -741,7 +747,7 @@ To find multiple elements (these methods will return a list):
  : The button is displayed!
  : The button is enabled!
 
- Clear a text field
+***** Clear a text field
 
  #+begin_src python :results output
    from selenium import webdriver
