@@ -473,3 +473,15 @@ and behaviors into individual objects
 The XML Path Language, is a query language for selecting nodes from an
 XML document.
 
+** Headless browser
+
+Is a web browser without a graphical user interface. Headless browsers
+provide automated control of a web page in an environment similar to
+popular web browsers, but they are executed via a command-line
+interface or using network communication.
+
+** Playwright
+
+Is a framework for Web Testing and Automation. It allows testing
+Chromium, Firefox and WebKit with a single API.
+
