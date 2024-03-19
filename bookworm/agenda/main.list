@@ -1024,6 +1024,24 @@ if __name__ == '__main__':
 
 #+end_example
 
+*** Python =assert= statement
+SCHEDULED: <2024-03-20 Wed>
+:PROPERTIES:
+:CATEGORY: Python
+:END:
+[https://realpython.com/python-assert-statement/]
+
+*** RAW [#A] Playwright Python overview
+SCHEDULED: <2024-03-20 Wed>
+:PROPERTIES:
+:CATEGORY: Testing
+:END:
+:LOGBOOK:
+CLOCK: [2024-03-19 Tue 10:37]--[2024-03-19 Tue 12:02] =>  1:25
+:END:
+
+[https://playwright.dev/python/docs/intro]
+
 *** RAW Dictionaries
 SCHEDULED: <2024-03-30 Sat>
 :PROPERTIES:
