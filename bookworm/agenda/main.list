@@ -837,6 +837,39 @@ To find multiple elements (these methods will return a list):
 
 #+RESULTS:
 
+***** Assert a checkbox is checked (or not)
+
+#+begin_src python :results output
+  from selenium import webdriver
+  from selenium.webdriver.common.keys import Keys
+  from selenium.webdriver.common.by import By
+  import time
+
+  driver = webdriver.Chrome()
+  driver.get("http://travel.agileway.net")
+  driver.find_element(By.ID, "username").send_keys("test") # Textfield
+  driver.find_element(By.ID, "username").send_keys(" wise")
+  time.sleep(1) # wait 1 second
+  driver.find_element(By.ID, "username").clear() # clear a text field
+  driver.find_element(By.ID, "username").send_keys("agileway") 
+  driver.find_element(By.ID, "password").send_keys("testwise")
+  the_checkbox = driver.find_element(By.NAME, "remember_me").click() # Checkbox
+  if the_checkbox.is_selected():
+        print("Checkbox is selected!")
+  assert(the_checkbox.is_selected())
+  assert(driver.find_element(By.CSS_SELECTOR, "input[value='Sign in']").is_displayed())
+  print("The button is displayed!")
+  assert(driver.find_element(By.CSS_SELECTOR, "input[value='Sign in']").is_enabled())
+  print("The button is enabled!")
+  driver.find_element(By.CSS_SELECTOR, "input[value='Sign in']").click() #Button
+  time.sleep(1) 
+  driver.quit()
+#+end_src
+
+#+RESULTS:
+
+
+
 - Note taken on [2024-02-27 Tue 09:22] \\
 
   [[https://selenium-python.readthedocs.io/locating-elements.html][Locating elements]]
