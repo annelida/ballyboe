@@ -485,3 +485,17 @@ interface or using network communication.
 Is a framework for Web Testing and Automation. It allows testing
 Chromium, Firefox and WebKit with a single API.
 
+** Sanity check
+
+Is a basic test to quickly evaluate whether a claim or the result of a
+calculation can possibly be true.
+
+These checks are known as =assertions=, and you can use them to test
+if certain assumptions remain true while you’re developing your code.
+
+** Statement
+
+Is part of a suite (a “block” of code). A statement is
+either an expression or one of several constructs with a keyword, such
+as if, while or for.
+
