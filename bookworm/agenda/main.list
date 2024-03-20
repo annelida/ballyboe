@@ -131,7 +131,7 @@ CLOCK: [2024-02-09 Fri 12:42]--[2024-02-09 Fri 12:58] =>  0:16
 :END:
 [[https://www.bbc.co.uk/learningenglish/english/course/lower-intermediate/unit-20/session-2/activity-3]]
 ***** Present Simple and Present Continuous
-SCHEDULED: <2024-03-20 Wed ++2w>
+SCHEDULED: <2024-03-21 Thu ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-02-29 Thu 17:21]
 :END:
@@ -148,7 +148,7 @@ CLOCK: [2024-02-21 Wed 09:38]--[2024-02-21 Wed 09:54] =>  0:16
 :END:
 https://www.bbc.co.uk/learningenglish/english/course/lower-intermediate/unit-1/session-2/activity-4
 ***** "Like" for preference and description
-SCHEDULED: <2024-03-20 Wed ++2w>
+SCHEDULED: <2024-03-21 Thu ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-03-01 Fri 18:36]
 :END:
@@ -158,7 +158,7 @@ CLOCK: [2024-03-01 Fri 10:32]--[2024-03-01 Fri 11:03] =>  0:31
 :END:
 [[https://www.bbc.co.uk/learningenglish/english/course/lower-intermediate/unit-3/session-2/activity-4]]
 ***** Adverbs of frequency
-SCHEDULED: <2024-03-20 Wed ++2w>
+SCHEDULED: <2024-03-21 Thu ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-03-05 Tue 18:43]
 :END:
@@ -339,7 +339,10 @@ Avoiding Standard Software Risks
 Using Open Source Software
 
 *** RAW =helpful= package usage
-SCHEDULED: <2024-03-20 Wed ++2w>
+SCHEDULED: <2024-03-21 Thu ++2w>
+:LOGBOOK:
+CLOCK: [2024-03-20 Wed 18:24]--[2024-03-20 Wed 18:24] =>  0:00
+:END:
 
 *** RAW =ivy= package usage
 SCHEDULED: <2024-05-21 Tue>
@@ -564,7 +567,7 @@ Object's methods are functions that belong to the object.
 : The student's name is Tony Black
 
 *** RAW [#A]Python and Selenium WebDriver
-SCHEDULED: <2024-03-20 Wed ++2w>
+SCHEDULED: <2024-03-21 Thu ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-16 Thu 09:23]
 :CATEGORY: Python
@@ -893,7 +896,7 @@ To find multiple elements (these methods will return a list):
 - State "DONE"       from "ACTIVE"     [2023-11-16 Thu 09:23]
 
 *** RAW [#A] Testing in Python
-SCHEDULED: <2024-03-20 Wed>
+SCHEDULED: <2024-03-21 Thu>
 :PROPERTIES:
 :CATEGORY: Python
 :END:
@@ -1459,7 +1462,7 @@ CLOCK: [2023-12-03 Sun 13:04]--[2023-12-03 Sun 13:32] =>  0:28
 ***** Jekyll
 
 ******* Org-Jekyll - article about initial config
-SCHEDULED: <2024-03-20 Wed ++1m>
+SCHEDULED: <2024-03-21 Thu ++1m>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-13 Mon 14:41]
 :CATEGORY: Org-Jekyll
@@ -1989,7 +1992,7 @@ CLOCK: [2024-01-04 Thu 12:11]--[2024-01-04 Thu 12:13] =>  0:02
 ** Portfolio creation
 ** CV elaboration
 ** [#A] Upwork's profile detail elaboration
-SCHEDULED: <2024-03-20 Wed>
+SCHEDULED: <2024-03-21 Thu>
 * Leasure
 
 * Books
