@@ -581,7 +581,9 @@ CLOCK: [2024-03-14 Thu 09:16]--[2024-03-14 Thu 09:50] =>  0:34
 CLOCK: [2024-03-14 Thu 08:33]
 :END:
 - Note taken on [2024-03-06 Wed 08:30] \\
-
+  
+[https://techbeamers.com/selenium-python-test-suite-unittest/]
+  
 **** Chromedriver installation
 
   To run Selenium tests in Google Chrome, besides the Chrome browser
@@ -1075,8 +1077,38 @@ CLOCK: [2024-03-21 Thu 10:10]--[2024-03-21 Thu 10:50] =>  0:40
   #+RESULTS:
 [https://realpython.com/python-assert-statement/]
 
+#+begin_src python :results output
+
+def test_sum():
+    assert sum([1, 2, 3]) == 6
+
+def test_len():
+    assert len([1, 2, 3]) > 0
+
+def test_reversed():
+    assert list(reversed([1, 2, 3])) == [3, 2, 1]
+
+def test_membership():
+    assert 3 in [1, 2, 3]
+
+def test_isinstance():
+    assert isinstance([1, 2, 3], list)
+
+def test_all():
+    assert all([True, True, True])
+
+def test_any():
+    assert any([False, True, False])
+
+def test_always_fail():
+    assert pow(10, 2) == 42
+
+#+end_src
+
+#+RESULTS:
+
 *** RAW [#A] Playwright Python overview
-SCHEDULED: <2024-03-22 Fri>
+SCHEDULED: <2024-03-25 Mon>
 :PROPERTIES:
 :CATEGORY: Testing
 :END:
