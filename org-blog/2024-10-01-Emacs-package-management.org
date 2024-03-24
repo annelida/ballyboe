@@ -19,7 +19,7 @@ tags: [Emacs, packages]
 [[info:emacs#Packages][emacs#Packages]]
 
 * DELAY Intro
-SCHEDULED: <2024-03-25 Mon>
+SCHEDULED: <2024-04-25 Thu>
 
 #+begin_quote
 For Emacs users, optimizing their configuration is fun and a sure way
@@ -32,7 +32,7 @@ disorganized configuration
 #+end_quote
 
 * DELAY Several definitions
-SCHEDULED: <2024-03-25 Mon>
+SCHEDULED: <2024-04-25 Thu>
 :LOGBOOK:
 CLOCK: [2024-01-12 Fri 08:39]--[2024-01-12 Fri 09:40] =>  1:01
 :END:
@@ -84,7 +84,7 @@ navigation, project management, and interaction with the Clojure
 ecosystem.
 
 * DELAY Manual
-SCHEDULED: <2024-03-25 Mon>
+SCHEDULED: <2024-04-25 Thu>
 ** Creation
 ** Initialization
 To install packages in Emacs, users can use the following steps: 
