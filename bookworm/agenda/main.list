@@ -105,7 +105,7 @@ SCHEDULED: <2024-02-10 Sat>
 *** Grammar
 **** BBC Learning English
 ***** RAW Inderect questions
-SCHEDULED: <2024-03-25 Mon ++2w>
+SCHEDULED: <2024-03-26 Tue ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-02-22 Thu 17:56]
 :END:
@@ -117,7 +117,7 @@ CLOCK: [2024-02-09 Fri 12:23]--[2024-02-09 Fri 12:42] =>  0:19
 :END:
 [[https://www.bbc.co.uk/learningenglish/english/course/lower-intermediate/unit-21/session-2/activity-3]]
 ***** Tense tour
-SCHEDULED: <2024-03-25 Mon ++2w>
+SCHEDULED: <2024-03-26 Tue ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-03-11 Mon 17:34]
 :END:
@@ -131,7 +131,7 @@ CLOCK: [2024-02-09 Fri 12:42]--[2024-02-09 Fri 12:58] =>  0:16
 :END:
 [[https://www.bbc.co.uk/learningenglish/english/course/lower-intermediate/unit-20/session-2/activity-3]]
 ***** Present Simple and Present Continuous
-SCHEDULED: <2024-03-25 Mon ++2w>
+SCHEDULED: <2024-03-27 Wed ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-02-29 Thu 17:21]
 :END:
@@ -148,7 +148,7 @@ CLOCK: [2024-02-21 Wed 09:38]--[2024-02-21 Wed 09:54] =>  0:16
 :END:
 https://www.bbc.co.uk/learningenglish/english/course/lower-intermediate/unit-1/session-2/activity-4
 ***** "Like" for preference and description
-SCHEDULED: <2024-03-25 Mon ++2w>
+SCHEDULED: <2024-03-28 Thu ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-03-01 Fri 18:36]
 :END:
@@ -158,7 +158,7 @@ CLOCK: [2024-03-01 Fri 10:32]--[2024-03-01 Fri 11:03] =>  0:31
 :END:
 [[https://www.bbc.co.uk/learningenglish/english/course/lower-intermediate/unit-3/session-2/activity-4]]
 ***** Adverbs of frequency
-SCHEDULED: <2024-03-25 Mon ++2w>
+SCHEDULED: <2024-03-29 Fri ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-03-05 Tue 18:43]
 :END:
@@ -168,7 +168,7 @@ CLOCK: [2024-03-05 Tue 10:30]--[2024-03-05 Tue 13:41] =>  3:11
 :END:
 [https://www.bbc.co.uk/learningenglish/english/course/lower-intermediate/unit-4/session-2/activity-4]
 ***** 'Have to' and 'must'
-SCHEDULED: <2024-03-25 Mon ++2w>
+SCHEDULED: <2024-03-26 Tue ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-03-07 Thu 18:31]
 :END:
@@ -308,7 +308,7 @@ SCHEDULED: <2024-04-02 Tue ++1w>
    system, including their process ID (PID), parent process ID (PPID),
    CPU usage, memory usage, and more. 
 *** DELAY [#B] Process management
-SCHEDULED: <2024-03-26 Tue>
+SCHEDULED: <2024-04-15 Mon>
 - Note taken on [2023-12-20 Wed 11:33] \\
 
   Is the technique used by organizations to analyze, optimize, monitor,
@@ -339,7 +339,7 @@ Avoiding Standard Software Risks
 Using Open Source Software
 
 *** RAW =helpful= package usage
-SCHEDULED: <2024-03-25 Mon ++2w>
+SCHEDULED: <2024-03-27 Wed ++2w>
 :LOGBOOK:
 CLOCK: [2024-03-20 Wed 18:24]--[2024-03-20 Wed 18:24] =>  0:00
 :END:
@@ -567,12 +567,13 @@ Object's methods are functions that belong to the object.
 : The student's name is Tony Black
 
 *** RAW [#A]Python and Selenium WebDriver
-SCHEDULED: <2024-03-25 Mon ++2w>
+SCHEDULED: <2024-03-26 Tue ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-16 Thu 09:23]
 :CATEGORY: Python
 :END:
 :LOGBOOK:
+CLOCK: [2024-03-25 Mon 09:56]--[2024-03-25 Mon 11:27] =>  1:31
 CLOCK: [2024-03-22 Fri 08:02]--[2024-03-22 Fri 08:34] =>  0:32
 CLOCK: [2024-03-21 Thu 08:45]--[2024-03-21 Thu 10:09] =>  1:24
 CLOCK: [2024-03-21 Thu 08:19]
@@ -901,7 +902,7 @@ To find multiple elements (these methods will return a list):
 - State "DONE"       from "ACTIVE"     [2023-11-16 Thu 09:23]
 
 *** RAW [#A] Testing in Python
-SCHEDULED: <2024-03-25 Mon>
+SCHEDULED: <2024-03-26 Tue>
 :PROPERTIES:
 :CATEGORY: Python
 :END:
@@ -930,6 +931,7 @@ https://talkpython.fm/episodes/transcript/368/end-to-end-web-testing-with-playwr
   in the unittest.TestCase class instead of the
   built-in assert statement
 :LOGBOOK:
+CLOCK: [2024-03-25 Mon 11:27]--[2024-03-25 Mon 17:29] =>  6:02
 CLOCK: [2024-03-14 Thu 09:52]--[2024-03-14 Thu 10:45] =>  0:53
 CLOCK: [2024-03-13 Wed 08:25]--[2024-03-13 Wed 10:20] =>  1:55
 CLOCK: [2024-03-12 Tue 08:16]--[2024-03-12 Tue 11:06] =>  2:50
@@ -1042,7 +1044,7 @@ if __name__ == '__main__':
 #+end_example
 
 *** Python =assert= statement
-SCHEDULED: <2024-03-25 Mon>
+SCHEDULED: <2024-03-28 Thu>
 :PROPERTIES:
 :CATEGORY: Python
 :END:
@@ -1110,7 +1112,7 @@ def test_always_fail():
 #+RESULTS:
 
 *** RAW [#A] Playwright Python overview
-SCHEDULED: <2024-03-25 Mon>
+SCHEDULED: <2024-03-26 Tue>
 :PROPERTIES:
 :CATEGORY: Testing
 :END:
@@ -1340,7 +1342,7 @@ CLOCK: [2024-01-11 Thu 09:48]--[2024-01-11 Thu 10:19] =>  0:31
 :CATEGORY: Emacs
 :END:
 *** AMPLE Customizing
-SCHEDULED: <2024-03-26 Tue>
+SCHEDULED: <2024-05-01 Wed>
 [[info:emacs#Keyboard Macros][emacs#Keyboard Macros]]
 *** DELAY Emacs markers
 SCHEDULED: <2024-06-20 Thu>
@@ -1501,7 +1503,7 @@ CLOCK: [2023-12-03 Sun 13:04]--[2023-12-03 Sun 13:32] =>  0:28
 ***** Jekyll
 
 ******* Org-Jekyll - article about initial config
-SCHEDULED: <2024-03-25 Mon ++1m>
+SCHEDULED: <2024-03-26 Tue ++1m>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-13 Mon 14:41]
 :CATEGORY: Org-Jekyll
@@ -2031,7 +2033,7 @@ CLOCK: [2024-01-04 Thu 12:11]--[2024-01-04 Thu 12:13] =>  0:02
 ** Portfolio creation
 ** CV elaboration
 ** [#A] Upwork's profile detail elaboration
-SCHEDULED: <2024-03-25 Mon>
+SCHEDULED: <2024-03-26 Tue>
 * Leasure
 
 * Books
