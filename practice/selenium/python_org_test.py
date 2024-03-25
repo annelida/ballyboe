@@ -11,11 +11,13 @@ class ChromeSearch(unittest.TestCase):
     def test_search_in_site(self):
         driver = self.driver
         driver.get("https://www.python.org")
-        assert "Python" in driver.title
+        self.assertTrue("Python" in driver.title)
         elem = driver.find_element(By.NAME, "q")
+        elem.clear()
         elem.send_keys("getting started with python")
         elem.send_keys(Keys.RETURN)
-        assert "https://www.python.org/search/?q=getting+started+with+pythn&submit=" == driver.current_url
+        self.assertEqual("https://www.python.org/search/?q=getting+started+with+python&submit=", driver.current_url)
+
 
     def tearDown(self):
         self.driver.close()
