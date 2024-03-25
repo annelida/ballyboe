@@ -63,7 +63,7 @@ Method. See synonyms, origin, and examples of method in sentences.
   outcome and your solid base of personal knowledge.
     
 * RAW [#C] What is methodology
- SCHEDULED: <2024-03-26 Tue ++4d>
+ SCHEDULED: <2024-05-09 Thu ++4d>
  :PROPERTIES:
  :LAST_REPEAT: [2023-11-23 Thu 11:38]
  :END:
@@ -176,7 +176,7 @@ crammed into a single session.
 #+end_quote
 
 * RAW [#C] Unavoidable necessities
-SCHEDULED: <2024-03-26 Tue ++4d>
+SCHEDULED: <2024-05-09 Thu ++4d>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-23 Thu 11:38]
 :END:
@@ -196,7 +196,7 @@ Before you start your learning, answer yourself the questions:
 - What do I need to do to reach those goals?
 
 ** RAW [#C] Decompose the Whole Task
-SCHEDULED: <2024-03-26 Tue>
+SCHEDULED: <2024-05-09 Thu>
 :PROPERTIES:
 :CATEGORY: Meta
 :END:
@@ -234,7 +234,7 @@ The great tool to use in your day-to-day life is a simple and dense
 
 <<<<<<< HEAD
 * RAW [#C] How to create the best weekly agenda?
-SCHEDULED: <2024-03-26 Tue>
+SCHEDULED: <2024-05-09 Thu>
 =======
 ** ToDo States
 
@@ -305,7 +305,7 @@ How to improve a weekly agenda?
 * RAW [#C] What is the average time you should spend on each session
 =======
 * RAW [#C] What is the average amount of time you should spend on each session
-SCHEDULED: <2024-03-26 Tue ++4d>
+SCHEDULED: <2024-05-09 Thu ++4d>
 :PROPERTIES:
 :LAST_REPEAT: [2023-12-16 Sat 16:39]
 :END:
@@ -344,7 +344,7 @@ All relevant questions should be questioned while task resolving.
  they a little bit later.
 
 * RAW [#C] Raw state
-SCHEDULED: <2024-03-26 Tue>
+SCHEDULED: <2024-05-09 Thu>
 :PROPERTIES:
 :END:
 
@@ -356,7 +356,7 @@ makes sense the task's state changes to *INIT* and it is scheduled.
 
 
 * RAW [#C] Initial chapter dissection
-SCHEDULED: <2024-03-26 Tue ++4d>
+SCHEDULED: <2024-05-09 Thu ++4d>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-21 Tue 18:12]
 :END:
@@ -377,7 +377,7 @@ After the initial analysis task it's status switches (++1d/2d) on
 to *Deliberate practice 0 session*.
    
 * RAW [#C] Deliberate practice 0 session
-SCHEDULED: <2024-03-26 Tue ++4d>
+SCHEDULED: <2024-05-09 Thu ++4d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-02-28 Wed 17:46]
 :CATEGORY: Meta
