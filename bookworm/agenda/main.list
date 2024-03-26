@@ -637,6 +637,26 @@ CLOCK: [2024-03-14 Thu 08:33]
 
   #+RESULTS:
 
+  How to tell Google that I accept cookies
+
+  #+begin_src python :results output
+      from selenium import webdriver
+      from selenium.webdriver.common.keys import Keys
+      from selenium.webdriver.common.by import By
+
+      driver = webdriver.Chrome()
+      driver.get("http://www.google.com")
+      driver.find_element(By.ID, "L2AGLb").click()
+      elem = driver.find_element(By.NAME, "q")
+      elem.send_keys("Hello WebDriver!")
+      elem.send_keys(Keys.RETURN)
+      print(driver.title)
+      driver.quit()
+  #+end_src
+
+  #+RESULTS:
+  : Hello WebDriver! - Google Search
+
 **** Elements locating
 
 The =By class= is used to locate elements within a document.
