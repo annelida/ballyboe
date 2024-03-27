@@ -13,6 +13,7 @@ class HomePageTest(unittest.TestCase):
 
         # go to the app home page """
         inst.driver.get("http://www.google.com/")
+        driver.find_element(By.ID, "L2AGLb").click() 
 
     def test_search_box(self):
         # check search box exists on Home page
@@ -24,11 +25,11 @@ class HomePageTest(unittest.TestCase):
 
     def test_images_link(self):
         # check images link on Home page
-        images_link = self.driver.find_element_by_link_text("Images")
+        images_link = self.driver.find_element(By.LINK_TEXT, "Images")
         images_link.click()
         # check search field exists on Images page
-        self.assertTrue(self.is_element_present(By.NAME,"q"))
-        self.search_field = self.driver.find_element_by_name("q")
+        self.assertTrue(self.is_element_present(By.NAME, "q"))
+        self.search_field = self.driver.find_element(By.NAme, "q")
         # enter the search term and submit
         self.search_field.send_keys("Selenium Webdriver framework architecture diagram")
         self.search_field.submit()
