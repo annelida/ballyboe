@@ -1144,11 +1144,41 @@ def test_always_fail():
 #+RESULTS:
 
 *** RAW [#A] Playwright Python overview
-SCHEDULED: <2024-03-28 Thu>
+SCHEDULED: <2024-03-29 Fri>
 :PROPERTIES:
 :CATEGORY: Testing
 :END:
+- Note taken on [2024-03-28 Thu 09:08] \\
+  page.get_by_role() to locate by explicit and implicit accessibility
+  attributes.
+
+  page.get_by_text() to locate by text content. It is the closest way
+  to how users and assistive technology perceive the page.
+
+  page.get_by_label() to locate a form control by associated label's
+  text. Use this locator when locating form fields.
+
+  page.get_by_placeholder() to locate an input by placeholder. Use
+  this locator when locating form elements that do not have labels but
+  do have placeholder texts.
+
+  page.get_by_text() recommend using to find non interactive elements
+  like =div, span, p=, etc. For interactive elements like =button, a,
+  input=, etc. use role locators.
+
+  page.get_by_alt_text() to locate an element, usually image, by its
+  text alternative. Use this locator when your element supports alt
+  text such as =img= and =area= elements.
+
+  page.get_by_title() to locate an element by its title attribute. Use
+  this locator when your element has the =title= attribute.
+
+  page.get_by_test_id() to locate an element based on its data-testid
+  attribute (other attributes can be configured). When you choose to
+  use the test id methodology or when you can't locate by role or
+  text.
 :LOGBOOK:
+CLOCK: [2024-03-28 Thu 08:56]--[2024-03-28 Thu 11:09] =>  2:13
 CLOCK: [2024-03-26 Tue 07:58]--[2024-03-26 Tue 08:36] =>  0:38
 CLOCK: [2024-03-20 Wed 07:39]--[2024-03-20 Wed 08:37] =>  0:58
 CLOCK: [2024-03-19 Tue 10:37]--[2024-03-19 Tue 12:02] =>  1:25
