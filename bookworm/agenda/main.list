@@ -152,7 +152,7 @@ CLOCK: [2024-02-21 Wed 09:38]--[2024-02-21 Wed 09:54] =>  0:16
 :END:
 https://www.bbc.co.uk/learningenglish/english/course/lower-intermediate/unit-1/session-2/activity-4
 ***** "Like" for preference and description
-SCHEDULED: <2024-03-28 Thu ++2w>
+SCHEDULED: <2024-03-29 Fri ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-03-01 Fri 18:36]
 :END:
@@ -396,7 +396,7 @@ types_operations.org
 : types_operations.org
 
 *** DELAY How ho check which Debian distro are you using
-SCHEDULED: <2024-03-29 Fri>
+SCHEDULED: <2024-05-28 Tue>
 
 #+begin_src sh :results output
 hostnamectl
@@ -503,7 +503,7 @@ CLOCK: [2023-10-24 Tue 08:07]--[2023-10-24 Tue 09:32] =>  1:25
 :END:
 
 *** RAW [#A] Python classes
-SCHEDULED: <2024-03-28 Thu>
+SCHEDULED: <2024-04-02 Tue>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-22 Wed 14:25]
 :CATEGORY: Python
@@ -577,8 +577,8 @@ Object's methods are functions that belong to the object.
 #+RESULTS:
 : The student's name is Tony Black
 
-*** RAW [#A]Python and Selenium WebDriver
-SCHEDULED: <2024-03-28 Thu ++2w>
+*** Init [#A]Python and Selenium WebDriver
+SCHEDULED: <2024-03-29 Fri ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-16 Thu 09:23]
 :CATEGORY: Python
@@ -760,6 +760,7 @@ To find multiple elements (these methods will return a list):
 
    driver = webdriver.Chrome()
    driver.get("http://travel.agileway.net")
+   print(driver.title)
    driver.find_element(By.ID, "username").send_keys("agileway") # Textfield
    driver.find_element(By.ID, "password").send_keys("testwise") # Textfield
    assert(driver.find_element(By.CSS_SELECTOR, "input[value='Sign in']").is_displayed())
@@ -770,6 +771,7 @@ To find multiple elements (these methods will return a list):
  #+end_src
 
  #+RESULTS:
+ : Agile Travel
  : The button is displayed!
 
 ***** Assert a button enabled or disabled?
@@ -934,7 +936,7 @@ To find multiple elements (these methods will return a list):
 - State "DONE"       from "ACTIVE"     [2023-11-16 Thu 09:23]
 
 *** RAW [#A] Testing in Python
-SCHEDULED: <2024-03-28 Thu>
+SCHEDULED: <2024-03-29 Fri>
 :PROPERTIES:
 :CATEGORY: Python
 :END:
@@ -1076,7 +1078,7 @@ if __name__ == '__main__':
 #+end_example
 
 *** Python =assert= statement
-SCHEDULED: <2024-03-28 Thu>
+SCHEDULED: <2024-03-29 Fri>
 :PROPERTIES:
 :CATEGORY: Python
 :END:
@@ -1218,7 +1220,7 @@ Fix the unneccessary indentation above VVV
 
 *** Embedded Help System
 *** DELAY Emacs server
-SCHEDULED: <2024-03-29 Fri ++2w>
+SCHEDULED: <2024-05-15 Wed ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-12-21 Thu 17:41]
 :END:
@@ -1570,7 +1572,7 @@ CLOCK: [2023-12-03 Sun 13:04]--[2023-12-03 Sun 13:32] =>  0:28
 ***** Jekyll
 
 ******* Org-Jekyll - article about initial config
-SCHEDULED: <2024-03-28 Thu ++1m>
+SCHEDULED: <2024-03-29 Fri ++1m>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-13 Mon 14:41]
 :CATEGORY: Org-Jekyll
@@ -2100,7 +2102,7 @@ CLOCK: [2024-01-04 Thu 12:11]--[2024-01-04 Thu 12:13] =>  0:02
 ** Portfolio creation
 ** CV elaboration
 ** [#A] Upwork's profile detail elaboration
-SCHEDULED: <2024-03-28 Thu>
+SCHEDULED: <2024-03-29 Fri>
 * Leasure
 
 * Books
@@ -2261,7 +2263,7 @@ SCHEDULED: <2024-04-08 Mon ++2w>
 CLOCK: [2023-12-14 Thu 10:09]--[2023-12-14 Thu 10:34] =>  0:25
 :END:
 ***** RAW Python Lists
-SCHEDULED: <2024-03-28 Thu ++2w>
+SCHEDULED: <2024-05-08 Wed ++2w>
 :PROPERTIES:
 :CATEGORY: Python
 :LAST_REPEAT: [2024-01-09 Tue 15:43]
