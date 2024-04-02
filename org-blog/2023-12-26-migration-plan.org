@@ -13,33 +13,54 @@ tags: [linux, git,  emacs, python, remotes]
 #+OPTIONS: tags:nil num:nil \n:nil @:t ::t |:t ^:{} _:{} *:t
 #+TOC: headlines 2
 #+PROPERTY:header-args :results output :exports both :eval no-export
-#+CATEGORY: Meta
+#+CATEGORY: Migration
 #+TODO: RAW INIT TODO ACTIVE | DONE
 
-* Migration sequence
+* Commit and push on Chrome OS
+* Git configuration on Dell
 
-1. Prepare *all* data to migration:
-- Make Bookmarks file accessible through Git:
-+ Put ~bookmarks~ file under the Git;
-+ Make a soft-ling on its place in the file system;
-+ Test it up!
-- Commit and push all date into the Git;
+Therefore all configs are stored at GitHub, the first and foremost
+step to migrate is ~GitHub~ config:
 
-2. Therefore all configs are stored at GitHub, the first and foremost step to migrate is ~GitHub~ config:
+Repositories store in folder ~/git. For the separating repositories by
+owners it might be reasonable to create local folders:
 
-- Keys (credentials);
-
-- Your local folders:
 + ~/git
 + ~/git/annelida
 + ~/git/0--key
 + ~/git/misc
 
+  #+begin_src sh
+    mkdir ~/git
+    cd ~/git/
+    mkdir annelida 0--key  misc
+    ls
+  #+end_src
+
+  After the folders were created it is very mmoment to fill it to
+  content by clonning data into them.
+
+  #+begin_src sh
+   
+    cd ~/git/annelida/
+    git clone git@github.com:annelida/ballyboe.git
+    git clone git@github.com:annelida/annelida.github.io.git
+  #+end_src
+
+  Keys (credentials). The keys were generated, exchange accomplish,
+  but tests are not implemented yet;
+
+
 - Access test;
 - Clone test;
-- Pull test;
 - Sample changes;
+- Commit;
 - Push test
+- Pull test;
+
+
+
+
 
 ** Login on remotely computer
 #+begin_example
@@ -77,6 +98,54 @@ git --version
 ** Install Magit
 ** Edit one particular file from repository, commit and push it
 ** Create list packages that need to be installed in Emacs
+
+* RAW [#A] Migration sequence description
+SCHEDULED: <2024-04-03 Wed>
+:LOGBOOK:
+CLOCK: [2024-04-02 Tue 10:29]--[2024-04-02 Tue 11:45] =>  1:16
+:END:
+
+* Existed environment check up
+
+#+begin_src sh
+  python --version
+  # pip list
+  # virtualenv --version
+  emacs --version
+#+end_src
+
+#+RESULTS:
+: Python 3.9.2
+: GNU Emacs 27.1
+: Copyright (C) 2020 Free Software Foundation, Inc.
+: GNU Emacs comes with ABSOLUTELY NO WARRANTY.
+: You may redistribute copies of GNU Emacs
+: under the terms of the GNU General Public License.
+: For more information about these matters, see the file named COPYING.
+
+* Create separated virtual environments for Selenium and Playwright.
+
+#+begin_src sh
+  cd ~/.local/
+  ls
+  # mkdir venvs
+  # python -m venv selvenv
+  # python -m venv playvenv
+  # or through virtualenv
+#+end_src
+
+#+RESULTS:
+: bin
+: lib
+: share
+: state
+
+* Install Selenium.
+
+* Install Playwright.
+
+* Emacs configuration
+
 
 
 
