@@ -17,7 +17,7 @@ tags: [emacs, org-mode, org-agenda, double-loop-learning]
 #+TODO: RAW INIT TODO ACTIVE | DONE
 
 * INIT Intro
-SCHEDULED: <2024-03-30 Sat ++4d>
+SCHEDULED: <2024-04-23 Tue ++4d>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-21 Tue 18:11]
 :END:
@@ -224,7 +224,7 @@ to focus on the task.
 
 
 * RAW Daily ToDo List
-SCHEDULED: <2024-03-30 Sat>
+SCHEDULED: <2024-04-23 Tue>
 
 Naturally it should be composed from initially ~complex~ tasks for
 decomposition and already prepared ~atomic~ tasks for elaboration.
@@ -262,7 +262,7 @@ day-to-day professional tasks.
 ** Shift It Out
 
 * TODO How to create the raw weekly todo list?
-SCHEDULED: <2024-03-30 Sat>
+SCHEDULED: <2024-04-23 Tue>
 >>>>>>> ebffc2e5bfbfe35a16018a8e301e2317cbc978b7
 :PROPERTIES:
 :CATEGORY: Compilation
@@ -411,7 +411,7 @@ Describe what you ought to do and in what manner it might be
 implemented.
 
 * RAW Tasks actualization
-SCHEDULED: <2024-03-30 Sat>
+SCHEDULED: <2024-04-23 Tue>
 [[info:org#TODO Extensions][org#TODO Extensions]]
 
 Over time, a large number of tasks can accumulate in the personal
