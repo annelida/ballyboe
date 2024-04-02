@@ -152,7 +152,7 @@ CLOCK: [2024-02-21 Wed 09:38]--[2024-02-21 Wed 09:54] =>  0:16
 :END:
 https://www.bbc.co.uk/learningenglish/english/course/lower-intermediate/unit-1/session-2/activity-4
 ***** "Like" for preference and description
-SCHEDULED: <2024-03-29 Fri ++2w>
+SCHEDULED: <2024-04-03 Wed ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-03-01 Fri 18:36]
 :END:
@@ -162,7 +162,7 @@ CLOCK: [2024-03-01 Fri 10:32]--[2024-03-01 Fri 11:03] =>  0:31
 :END:
 [[https://www.bbc.co.uk/learningenglish/english/course/lower-intermediate/unit-3/session-2/activity-4]]
 ***** Adverbs of frequency
-SCHEDULED: <2024-03-29 Fri ++2w>
+SCHEDULED: <2024-04-04 Thu ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-03-05 Tue 18:43]
 :END:
@@ -187,7 +187,7 @@ CLOCK: [2024-03-07 Thu 10:57]--[2024-03-07 Thu 11:33] =>  0:36
 SCHEDULED: <2024-03-13 Wed ++2w>
 [https://www.bbc.co.uk/learningenglish/english/course/lower-intermediate/unit-6/session-2/activity-5]
 ***** Past simple and Past continuous
-SCHEDULED: <2024-04-02 Tue ++2w>
+SCHEDULED: <2024-04-04 Thu ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-03-19 Tue 17:31]
 :END:
@@ -197,13 +197,13 @@ CLOCK: [2024-03-19 Tue 12:02]--[2024-03-19 Tue 17:30] =>  5:28
 :END:
 [https://www.bbc.co.uk/learningnglish/english/course/lower-intermediate/unit-7/session-2/activity-4]
 ***** Articles
-SCHEDULED: <2024-03-29 Fri>
+SCHEDULED: <2024-04-03 Wed>
 [https://www.bbc.co.uk/learningenglish/english/course/lower-intermediate/unit-8/session-2/activity-3]
 **** Present simple
 **** Present perfect
 *** The English We Speak
 **** Rinse repeat
-SCHEDULED: <2024-04-02 Tue ++2w>
+SCHEDULED: <2024-04-10 Wed ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-03-19 Tue 17:31]
 :END:
@@ -214,14 +214,14 @@ CLOCK: [2024-03-01 Fri 11:03]--[2024-03-01 Fri 11:14] =>  0:11
 :END:
 [https://www.bbc.co.uk/sounds/play/p0hf8wg1]
 **** A million to one
-SCHEDULED: <2024-03-29 Fri ++2w>
+SCHEDULED: <2024-04-10 Wed ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-03-13 Wed 17:48]
 :END:
 - State "AMPLE"      from ""           [2024-03-13 Wed 17:48]
 [https://www.bbc.co.uk/sounds/play/p0hcy06f]
 **** Come up with an idea carefully
-SCHEDULED: <2024-03-29 Fri>
+SCHEDULED: <2024-04-03 Wed>
 [https://www.bbc.co.uk/sounds/play/p0hj2w1w]
 ** Linux
 :PROPERTIES:
@@ -229,7 +229,7 @@ SCHEDULED: <2024-03-29 Fri>
 :END:
 
 *** DELAY MAN ssh
-SCHEDULED: <2024-03-30 Sat ++1w>
+SCHEDULED: <2024-04-23 Tue ++1w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-01-11 Thu 16:02]
 :END:
@@ -250,7 +250,7 @@ CLOCK: [2023-12-20 Wed 09:55]--[2023-12-20 Wed 10:45] =>  0:50
 CLOCK: [2023-12-19 Tue 09:15]--[2023-12-19 Tue 09:18] =>  0:03
 :END:
 *** DELAY MAN df
-SCHEDULED: <2024-03-30 Sat ++1w>
+SCHEDULED: <2024-04-23 Tue ++1w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-01-11 Thu 16:03]
 :END:
@@ -265,7 +265,7 @@ SCHEDULED: <2024-03-30 Sat ++1w>
 CLOCK: [2023-12-19 Tue 09:18]--[2023-12-19 Tue 09:22] =>  0:04
 :END:
 *** RAW MAN free
-SCHEDULED: <2024-04-02 Tue ++1w>
+SCHEDULED: <2024-04-15 Mon ++1w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-01-11 Thu 16:04]
 :END:
@@ -293,7 +293,7 @@ SCHEDULED: <2024-04-02 Tue ++1w>
 CLOCK: [2023-12-19 Tue 09:22]--[2023-12-19 Tue 09:34] =>  0:12
 :END:
 *** DELAY MAN htop
-SCHEDULED: <2024-04-02 Tue ++1w>
+SCHEDULED: <2024-04-10 Wed ++1w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-01-11 Thu 16:06]
 :END:
@@ -304,7 +304,7 @@ SCHEDULED: <2024-04-02 Tue ++1w>
 process-manager. It shows a frequently updated list of the processes
 running on a computer, normally ordered by the amount of CPU usage.
 *** DELAY MAN ps
-SCHEDULED: <2024-04-02 Tue ++1w>
+SCHEDULED: <2024-04-04 Thu ++1w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-01-11 Thu 16:08]
 :END:
@@ -336,7 +336,7 @@ SCHEDULED: <2024-04-15 Mon>
   to control how programs interact with each other.
   
 *** DELAY Software management
-SCHEDULED: <2024-03-30 Sat>
+SCHEDULED: <2024-04-23 Tue>
 
 Is a science of planning and leading software projects.
 
@@ -435,6 +435,29 @@ cat /etc/os-release
 : HOME_URL="https://www.debian.org/"
 : SUPPORT_URL="https://www.debian.org/support"
 : BUG_REPORT_URL="https://bugs.debian.org/"
+
+*** [#A] Windows and Workspaces 
+SCHEDULED: <2024-04-03 Wed>
+:PROPERTIES:
+:CATEGORY: GNOME
+:END:
+:LOGBOOK:
+CLOCK: [2024-04-02 Tue 11:58]--[2024-04-02 Tue 13:16] =>  1:18
+CLOCK: [2024-04-02 Tue 10:27]--[2024-04-02 Tue 10:29] =>  0:02
+:END:
+
+*** [#A] Controls
+SCHEDULED: <2024-04-03 Wed>
+:PROPERTIES:
+:CATEGORY: GNOME
+:END:
+:LOGBOOK:
+CLOCK: [2024-04-02 Tue 13:16]--[2024-04-02 Tue 14:10] =>  0:54
+:END:
+
+*** [#A] Linux virtual terminals overview
+SCHEDULED: <2024-04-03 Wed>
+F1-F7
 ** Python
 *** AMPLE Venvs decluttering and reorder
 SCHEDULED: <2024-02-22 Thu>
@@ -483,7 +506,7 @@ executable program. In this case, Python loads the file content and
 runs the code line by line, following the script or program’s
 execution flow.
 *** Init Python: modules, relative import. 
-SCHEDULED: <2024-03-30 Sat>
+SCHEDULED: <2024-04-23 Tue>
 :PROPERTIES:
 :CATEGORY: Python
 :END:
@@ -503,7 +526,7 @@ CLOCK: [2023-10-24 Tue 08:07]--[2023-10-24 Tue 09:32] =>  1:25
 :END:
 
 *** RAW [#A] Python classes
-SCHEDULED: <2024-04-02 Tue>
+SCHEDULED: <2024-05-15 Wed>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-22 Wed 14:25]
 :CATEGORY: Python
@@ -578,7 +601,7 @@ Object's methods are functions that belong to the object.
 : The student's name is Tony Black
 
 *** Init [#A]Python and Selenium WebDriver
-SCHEDULED: <2024-03-29 Fri ++2w>
+SCHEDULED: <2024-04-03 Wed ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-16 Thu 09:23]
 :CATEGORY: Python
@@ -936,7 +959,7 @@ To find multiple elements (these methods will return a list):
 - State "DONE"       from "ACTIVE"     [2023-11-16 Thu 09:23]
 
 *** RAW [#A] Testing in Python
-SCHEDULED: <2024-03-29 Fri>
+SCHEDULED: <2024-04-03 Wed>
 :PROPERTIES:
 :CATEGORY: Python
 :END:
@@ -1078,7 +1101,7 @@ if __name__ == '__main__':
 #+end_example
 
 *** Python =assert= statement
-SCHEDULED: <2024-03-29 Fri>
+SCHEDULED: <2024-04-05 Fri>
 :PROPERTIES:
 :CATEGORY: Python
 :END:
@@ -1146,7 +1169,7 @@ def test_always_fail():
 #+RESULTS:
 
 *** RAW [#A] Playwright Python overview
-SCHEDULED: <2024-03-29 Fri>
+SCHEDULED: <2024-04-03 Wed>
 :PROPERTIES:
 :CATEGORY: Testing
 :END:
@@ -1193,12 +1216,12 @@ Locating elements
 [https://playwright.dev/python/docs/locators]
 
 *** RAW Dictionaries
-SCHEDULED: <2024-03-30 Sat>
+SCHEDULED: <2024-04-23 Tue>
 :PROPERTIES:
 :CATEGORY: Python
 :END:
 *** RAW Tuples and Sequences
-SCHEDULED: <2024-03-30 Sat ++2w>
+SCHEDULED: <2024-04-23 Tue ++2w>
 :PROPERTIES:
 :CATEGORY: Python
 :LAST_REPEAT: [2024-01-12 Fri 11:02]
@@ -1208,7 +1231,7 @@ SCHEDULED: <2024-03-30 Sat ++2w>
 CLOCK: [2024-01-12 Fri 10:28]--[2024-01-12 Fri 11:01] =>  0:33
 :END:
 ** Emacs
-SCHEDULED: <2024-03-30 Sat>
+SCHEDULED: <2024-04-23 Tue>
 :LOGBOOK:
 CLOCK: [2024-01-30 Tue 15:00]--[2024-01-30 Tue 15:05] =>  0:05
 :END:
@@ -1236,7 +1259,7 @@ SCHEDULED: <2024-05-15 Wed ++2w>
 
 *** Window Registers 
 *** RAW [#B] Bookmarks+ usage
-SCHEDULED: <2024-03-30 Sat ++2w>
+SCHEDULED: <2024-04-23 Tue ++2w>
 :PROPERTIES:
 :CATEGORY: Emacs
 :LAST_REPEAT: [2024-01-29 Mon 15:54]
@@ -1402,7 +1425,7 @@ CLOCK: [2024-01-30 Tue 10:30]--[2024-01-30 Tue 10:57] =>  0:27
 :END:
 
 *** DELAY File searching in different Git branches 
-SCHEDULED: <2024-03-30 Sat>
+SCHEDULED: <2024-04-23 Tue>
 :LOGBOOK:
 CLOCK: [2024-01-11 Thu 09:48]--[2024-01-11 Thu 10:19] =>  0:31
 :END:
@@ -1466,7 +1489,7 @@ CLOCK: [2023-11-14 Tue 15:06]--[2023-11-14 Tue 15:48] =>  0:42
 :END:
 
 ***** DELAY Org-Babel configuration.
-SCHEDULED: <2024-03-30 Sat ++2w>
+SCHEDULED: <2024-04-23 Tue ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-22 Wed 08:46]
 :END:
@@ -1511,7 +1534,7 @@ CLOCK: [2023-10-26 Thu 07:54]--[2023-10-26 Thu 08:52] =>  0:58
 [[https://orgmode.org/manual/Structure-Templates.html][org templates structure]]
 
 ***** DELAY Org-drill concept
-SCHEDULED: <2024-03-29 Fri ++2w>
+SCHEDULED: <2024-05-24 Fri ++2w>
 :PROPERTIES:
 :CATEGORY: Drill
 :END:
@@ -1572,7 +1595,7 @@ CLOCK: [2023-12-03 Sun 13:04]--[2023-12-03 Sun 13:32] =>  0:28
 ***** Jekyll
 
 ******* Org-Jekyll - article about initial config
-SCHEDULED: <2024-03-29 Fri ++1m>
+SCHEDULED: <2024-04-08 Mon ++1m>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-13 Mon 14:41]
 :CATEGORY: Org-Jekyll
@@ -2101,8 +2124,10 @@ CLOCK: [2024-01-04 Thu 12:11]--[2024-01-04 Thu 12:13] =>  0:02
 ** Interview Preparation
 ** Portfolio creation
 ** CV elaboration
-** [#A] Upwork's profile detail elaboration
-SCHEDULED: <2024-03-29 Fri>
+** [#A] Upwork profile creation manual studying
+SCHEDULED: <2024-04-03 Wed>
+** [#A] Linkedin profile creation manual studying
+SCHEDULED: <2024-04-03 Wed>
 * Leasure
 
 * Books
@@ -2297,7 +2322,7 @@ SCHEDULED: <2024-05-09 Thu ++2w>
 
 - State "DONE"       from "Active"     [2023-12-13 Wed 11:24]
 ***** DELAY [#C] Logic
-SCHEDULED: <2024-03-30 Sat>
+SCHEDULED: <2024-05-04 Sat>
 :PROPERTIES:
 :CATEGORY: CS
 :END:
@@ -2347,7 +2372,7 @@ CLOCK: [2023-11-28 Tue 18:27]--[2023-11-28 Tue 18:33] =>  0:06
 :END:
 - State "DONE"       from "Active"     [2023-11-23 Thu 15:54]
 * Events
-** Preparation to meeting with Roisin
+** [#B] Preparation to meeting with Roisin
 SCHEDULED: <2024-04-03 Wed ++1w>
 :PROPERTIES:
 :CATEGORY: Speacking
