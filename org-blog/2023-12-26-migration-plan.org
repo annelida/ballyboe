@@ -58,14 +58,7 @@ owners it might be reasonable to create local folders:
 - Push test
 - Pull test;
 
-
-
-
-
-** Login on remotely computer
-#+begin_example
-ssh vikky@192.168.43.200
-#+end_example
+* Keys and credentials
 
 ** Check if the ssh keys already exists
 #+begin_example
@@ -88,20 +81,47 @@ ssh-add ~/.ssh.id_ed25519
 ** Add the SSH public key to your account on GitHub
 [[https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account][Adding a new SSH key to your GitHub account]]
 
-** Install Git
-#+begin_example
-sudo apt-get install git
-git --version
-#+end_example
-** Clone repositories
-** Create soft link to Emacs configuration files
-** Install Magit
-** Edit one particular file from repository, commit and push it
-** Create list packages that need to be installed in Emacs
+* Git functional testing
+
+Create folder ~/ballyboe/Dell and init.el file inside for separation
+Emacs configuration files for different distributives Linux.
+
+#+begin_src sh
+  cd ~/git/ballyboe
+  mkdir Dell
+  touch Dell/init.el
+  ls Dell
+#+end_src
+
+ Edit Dell/init.el file from repository
+
+ #+begin_src elisp
+   (load-theme 'wombat);;manoj-dark)
+ #+end_src
+
+ Create a symbolic link from ~/.emacs.d/init.el to repository
+ ~/git/ballyboe/Dell/init.el
+
+To ensure that Emacs works correctly relaunch it.  If colour theme is
+visiobly different form the default one - Emacs successfully see and
+execute the initialization file. It is time to extend it functionality
+by adding Magit package
+
+#+begin_src elisp
+(require 'magit)
+#+end_src
+
+Directive ='require= works only after relaunch Emacs, so you need to
+restart it.
+
+After that you can commit the changes and try to push it using Magit.
+
+* Create list packages that need to be installed in Emacs
 
 * RAW [#A] Migration sequence description
 SCHEDULED: <2024-04-03 Wed>
 :LOGBOOK:
+CLOCK: [2024-04-03 Wed 09:17]--[2024-04-03 Wed 10:13] =>  0:56
 CLOCK: [2024-04-02 Tue 10:29]--[2024-04-02 Tue 11:45] =>  1:16
 :END:
 
