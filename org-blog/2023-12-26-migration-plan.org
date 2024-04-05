@@ -165,7 +165,35 @@ CLOCK: [2024-04-02 Tue 10:29]--[2024-04-02 Tue 11:45] =>  1:16
 * Install Playwright.
 
 * Emacs configuration
+Copy content alioth's =.emacs=, except org-capture, key-chords,
+voca-builder, Org-Jekyll's settings and org-agenda files to my
+=init.el= file.
 
+Evaluate the elisp code for add all subdirs from the host's
+=site-lisp= to ~load-path~
+
+Restart Emacs and check up content *Warnings* and *Messages* buffers.
+
+Create a symbolic link from ~/.emacs.d/key-chords.el to repository
+ ~/git/annelida/ballyboe/bookworm/key-chords.el
+
+#+begin_src sh
+  cd ~/.emacs.d
+  ln -s ~/git/annelida/ballyboe/bookworm/key-chords.el
+  ls -la
+#+end_src
+
+Add the =key-chord= load path to =init.el=
+
+#+begin_src elisp
+;;======================================================
+;; Additional config section:
+(load "~/.emacs.d/key-chords.el")
+;;
+;;======================================================
+#+end_src
+
+Testing how key-chords working.
 
 
 
