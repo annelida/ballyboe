@@ -8,11 +8,51 @@ tags: [tutorial, virtualenv, methodology]
 ---
 #+END_HTML
 #+OPTIONS: tags:nil num:nil \n:nil @:t ::t |:t ^:{} _:{} *:t
-
 #+TOC: headlines 2
 
-#+begin_src 
 
+* Creating a Python virtual environment on a Debian-based system
+
+On Debian distributives you first need to ensure which the
+Python standard venv library is available.
+
+#+begin_src sh
+  apt-cache search venv
+#+end_src
+
+To check which virtual environment already installed
+
+#+begin_src sh
+  pip list
+#+end_src
+
+
+
+You can install virtualenv library if it is not installed yet
+
+#+begin_src sh
+  sudo apt-get install virtualenv
+#+end_src
+
+To confirm what virtual environment already installed
+
+#+begin_src sh
+  virtualenv --version
+#+end_src
+
+To create a separete =MyEnv= virtual environment
+
+#+begin_src sh
+  virtualenv MyEnv
+#+end_src
+
+
+To activate this virtual environment in the current shell
+
+#+begin_src sh
+  cd ~/MyEnv/
+  source bin/activate
+  pip list
 #+end_src
 
 A virtual environment in Python is a separeted directory that contains
