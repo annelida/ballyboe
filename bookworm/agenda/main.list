@@ -460,17 +460,19 @@ CLOCK: [2024-04-02 Tue 13:16]--[2024-04-02 Tue 14:10] =>  0:54
 *** AMPLE [#A] Linux virtual terminals overview
 SCHEDULED: <2024-04-03 Wed>
 F1-F7
-*** Creating a Python virtual evironment on Debian
+*** [#C] Creating Python virtual evironment on Debian
 SCHEDULED: <2024-04-09 Tue>
 :LOGBOOK:
 CLOCK: [2024-04-08 Mon 09:46]--[2024-04-08 Mon 11:38] =>  1:52
 :END:
-[[file:~/git/annelida/ballyboe/org-blog/2023-11-07-Python-venv.org::*Creating a Python virtual environment on a Debian-based system][Creating a Python virtual environment on a Debian-based system]]
-*** Man SSH
+[[file:~/git/annelida/ballyboe/org-blog/2023-11-07-Python-venv.org::*Creating a Python virtual environment on a Debian-based system][Creating a Python virtual environment on a Debian-based system]] Venv
+===> pip list in 4 strting only (total isolation from the main OS)
+
+*** [#A] Man SSH
 SCHEDULED: <2024-04-09 Tue>
-*** Man SSHd
+*** [#A] Man SSHd
 SCHEDULED: <2024-04-09 Tue>
-*** Process management on Linux 
+*** [#A] Process management on Linux 
 SCHEDULED: <2024-04-09 Tue>
 *** Linux file system
 SCHEDULED: <2024-04-09 Tue>
@@ -1247,6 +1249,11 @@ SCHEDULED: <2024-04-23 Tue ++2w>
 :LOGBOOK:
 CLOCK: [2024-01-12 Fri 10:28]--[2024-01-12 Fri 11:01] =>  0:33
 :END:
+*** [#A] UnitTesting *info* and snippets
+SCHEDULED: <2024-04-09 Tue>
+:PROPERTIES:
+:CATEGORY: Python
+:END:
 ** Emacs
 SCHEDULED: <2024-04-23 Tue>
 :LOGBOOK:
@@ -1306,8 +1313,8 @@ SCHEDULED: <2024-04-25 Thu ++3w>
 - State "AMPLE"      from "DELAY"      [2024-01-29 Mon 16:01]
 - State "AMPLE"      from "DELAY"      [2024-01-29 Mon 16:00]
 - State "DONE"       from "Active"     [2023-12-04 Mon 11:10]
-*** DELAY Elpy concepts
-SCHEDULED: <2024-05-20 Mon>
+*** Elpy
+SCHEDULED: 
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-23 Thu 15:54]
 :CATEGORY: Elpy
@@ -1318,11 +1325,13 @@ CLOCK: [2023-11-28 Tue 14:37]--[2023-11-28 Tue 15:11] =>  0:34
 CLOCK: [2023-11-23 Thu 14:58]--[2023-11-23 Thu 15:53] =>  0:55
 :END:
 [[https://elpy.readthedocs.io/en/latest/concepts.html#:~:text=Concepts-,The%20RPC%20Process,going%20on%20in%20the%20background.]]
-***** DELAY Elpy the RPC Process                                   
-SCHEDULED: <2024-05-23 Thu ++2w>:
+*****  [#B] Elpy the RPC Process                                   
+SCHEDULED: <2024-04-09 Tue>
 :PROPERTIES:
 :LAST_REPEAT: [2024-01-04 Thu 15:07]
 :END:
+- Note taken on [2024-04-08 Mon 22:04] \\
+  Launch and debug it on Dell
 - Note taken on [2023-11-30 Thu 15:31] \\
   RPC processes are used to provide code completion, documentation and
   other features. To do so, they use python packages (jedi, yapf, …)
@@ -2141,10 +2150,16 @@ CLOCK: [2024-01-04 Thu 12:11]--[2024-01-04 Thu 12:13] =>  0:02
 ** Interview Preparation
 ** Portfolio creation
 ** CV elaboration
-** [#A] Upwork profile creation manual studying
+** Upwork profile creation
 SCHEDULED: <2024-04-09 Tue>
-** [#A] Linkedin profile creation manual studying
+
+Manual's  studying
+
+
+** Linkedin profile creation
 SCHEDULED: <2024-04-09 Tue>
+Manual's studying
+
 * Leasure
 
 * Books
@@ -2389,7 +2404,7 @@ CLOCK: [2023-11-28 Tue 18:27]--[2023-11-28 Tue 18:33] =>  0:06
 :END:
 - State "DONE"       from "Active"     [2023-11-23 Thu 15:54]
 * Events
-** [#B] Preparation to meeting with Roisin
+** Preparation to meeting with Roisin
 SCHEDULED: <2024-04-09 Tue ++1w>
 :PROPERTIES:
 :CATEGORY: Speacking
