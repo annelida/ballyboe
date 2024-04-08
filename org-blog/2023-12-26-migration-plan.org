@@ -218,8 +218,15 @@ path.
 Evaluate the region. Try to create weekly agenda by completing =M-x
 org-agenda= command.
 
-** Org-babel customization
+** [#A] Org-babel variable's customization
 SCHEDULED: <2024-04-09 Tue>
+
+Customize:
+
+Python3 variable
+indent-tabs-mode
+
+
 
 Addiing Org-babel languages list to =init.el= and confirmation to
 evaluate the code.
