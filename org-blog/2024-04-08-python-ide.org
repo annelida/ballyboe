@@ -1,0 +1,52 @@
+#+BEGIN_EXPORT html
+---
+layout: page
+title: Cook Python
+tagline: " easy&peasy"
+permalink: /python/ide.html
+categories: [Python, IDE, Emacs, Eglot, Elpy]
+tags: [efficiency, software development]
+---
+#+END_EXPORT
+
+#+STARTUP: showall indent
+#+OPTIONS: tags:nil num:nil \n:nil @:t ::t |:t ^:{} _:{} *:t eval:no-export
+#+TOC: headlines 2
+
+#+begin_src sh
+  python3 --version
+#+end_src
+
+#+RESULTS:
+: Python 3.11.2
+
+#+begin_src python :results output :exports both
+  first_constant_value = 1
+  # just comment
+  print("Hi!")
+#+end_src
+
+#+RESULTS:
+: Hi!
+
+#+begin_src python :results output :exports both
+  import unittest
+
+  class TestStringMethods(unittest.TestCase):
+
+      def test_upper(self):
+          self.assertEqual('foo'.upper(), 'FOO')
+
+      def test_isupper(self):
+          self.assertTrue('FOO'.isupper())
+          self.assertFalse('Foo'.isupper())
+
+      def test_split(self):
+          s = 'hello world'
+          self.assertEqual(s.split(), ['hello', 'world'])
+          # check that s.split fails when the separator is not a string
+          with self.assertRaises(TypeError):
+              s.split(2)
+#+end_src
+
+#+RESULTS:
