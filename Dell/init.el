@@ -58,3 +58,23 @@
 (load "~/.emacs.d/key-chords.el")
 ;;
 ;;======================================================
+
+(setq org-confirm-babel-evaluate nil)
+
+;; Programming languages for Babel
+(org-babel-do-load-languages
+'org-babel-load-languages '((python . t) (emacs-lisp . t) (shell . t) (sqlite . t)))
+
+(custom-set-variables
+ ;; custom-set-variables was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
+ '(org-agenda-files
+   '("~/git/annelida/ballyboe/org-blog/2023-12-26-migration-plan.org" "~/git/annelida/ballyboe/bookworm/agenda/main.list" "~/git/annelida/ballyboe/bookworm/agenda/lead-tasks.list" "~/git/annelida/ballyboe/bookworm/agenda/personal.list" "~/git/annelida/ballyboe/bookworm/agenda/chores-tasks.list")))
+(custom-set-faces
+ ;; custom-set-faces was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
+ )
