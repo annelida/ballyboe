@@ -119,7 +119,7 @@ After that you can commit the changes and try to push it using Magit.
 * Create list packages that need to be installed in Emacs
 
 * RAW [#A] Migration sequence description
-SCHEDULED: <2024-04-03 Wed>
+SCHEDULED: <2024-04-12 Fri>
 :LOGBOOK:
 CLOCK: [2024-04-03 Wed 09:17]--[2024-04-03 Wed 10:13] =>  0:56
 CLOCK: [2024-04-02 Tue 10:29]--[2024-04-02 Tue 11:45] =>  1:16
@@ -166,13 +166,25 @@ CLOCK: [2024-04-02 Tue 10:29]--[2024-04-02 Tue 11:45] =>  1:16
 
 * Emacs configuration
 Copy content alioth's =.emacs=, except org-capture, key-chords,
-voca-builder, Org-Jekyll's settings and org-agenda files to my
+voca-builder, Org-Jekyll's settings and =org-agenda files= to my
 =init.el= file.
 
 Evaluate the elisp code for add all subdirs from the host's
 =site-lisp= to ~load-path~
 
+#+begin_src elisp
+;; add all subdirs from the host's =site-lisp= to ~load-path~
+(let* ((my-lisp-dir "/usr/local/share/emacs/site-lisp/")
+       (default-directory my-lisp-dir)
+       (orig-load-path load-path))
+  (setq load-path (cons my-lisp-dir nil))
+  (normal-top-level-add-subdirs-to-load-path)
+  (nconc load-path orig-load-path))
+#+end_src
+
 Restart Emacs and check up content *Warnings* and *Messages* buffers.
+
+** Key-chords customization
 
 Create a symbolic link from ~/.emacs.d/key-chords.el to repository
  ~/git/annelida/ballyboe/bookworm/key-chords.el
@@ -194,6 +206,34 @@ Add the =key-chord= load path to =init.el=
 #+end_src
 
 Testing how key-chords working.
+
+** RAW Org-agenda customization
+SCHEDULED: <2024-04-08 Mon>
+
+Copy list =org-agenda-files= from
+~/git/annelida/ballyboe/bookworm/.emacs to =custom-set-variables=
+section inside ~/git/annelida/ballyboe/Dell/init.el. Correct each file
+path.
+
+Evaluate the region. Try to create weekly agenda by completing =M-x
+org-agenda= command.
+
+** Org-babel customization
+SCHEDULED: <2024-04-09 Tue>
+
+Addiing Org-babel languages list to =init.el= and confirmation to
+evaluate the code.
+
+#+begin_src elisp
+
+  (setq org-confirm-babel-evaluate nil)
+
+  ;; Programming languages for Babel
+  (org-babel-do-load-languages
+  'org-babel-load-languages '((python . t) (emacs-lisp . t) (shell . t) (sqlite . t)))
+#+end_src
+
+
 
 
 
