@@ -14,6 +14,7 @@ tags: [linux, git,  emacs, python, remotes]
 #+TOC: headlines 2
 #+PROPERTY:header-args :results output :exports both :eval no-export
 #+CATEGORY: Migration
+#+TODO: | AMPLE
 #+TODO: RAW INIT TODO ACTIVE | DONE
 
 * Commit and push on Chrome OS
@@ -207,8 +208,8 @@ Add the =key-chord= load path to =init.el=
 
 Testing how key-chords working.
 
-** RAW Org-agenda customization
-SCHEDULED: <2024-04-08 Mon>
+** AMPLE Org-agenda customization
+SCHEDULED: <2024-04-15 Mon>
 
 Copy list =org-agenda-files= from
 ~/git/annelida/ballyboe/bookworm/.emacs to =custom-set-variables=
@@ -218,12 +219,22 @@ path.
 Evaluate the region. Try to create weekly agenda by completing =M-x
 org-agenda= command.
 
-** [#A] Org-babel variable's customization
-SCHEDULED: <2024-04-09 Tue>
+** ACTIVE [#A] Org-babel variables customization 
+SCHEDULED: <2024-04-12 Fri ++1d>
+:PROPERTIES:
+:LAST_REPEAT: [2024-04-09 Tue 15:11]
+:END:
+- State "AMPLE"      from "RAW"        [2024-04-09 Tue 15:11]
+- State "DONE"       from "ACTIVE"     [2024-04-09 Tue 15:11]
+- State "AMPLE"      from "TODO"       [2024-04-09 Tue 15:07]
+:LOGBOOK:
+CLOCK: [2024-04-09 Tue 09:36]--[2024-04-09 Tue 09:59] =>  0:23
+CLOCK: [2024-04-09 Tue 07:58]--[2024-04-09 Tue 08:33] =>  0:35
+:END:
 
-Customize:
+Customize variables:
 
-Python3 variable
+org-babel-python-command
 indent-tabs-mode
 
 
