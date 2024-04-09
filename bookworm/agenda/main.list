@@ -469,13 +469,59 @@ CLOCK: [2024-04-08 Mon 09:46]--[2024-04-08 Mon 11:38] =>  1:52
 ===> pip list in 4 strting only (total isolation from the main OS)
 
 *** [#A] Man SSH
-SCHEDULED: <2024-04-09 Tue>
+SCHEDULED: <2024-04-10 Wed>
+- Note taken on [2024-04-09 Tue 10:11] \\
+  The most common way of connecting to a remote Linux server is through
+  SSH. The SSH connection is implemented using a client-server
+  model. This means that for an SSH connection to be established, the
+  remote machine must be running a piece of software called an SSH
+  daemon. This software listens for connections on a specific network
+  port, authenticates connection requests, and spawns the appropriate
+  environment if the user provides the correct credentials. To connect
+  through SSH I must to know:
+
+ - IP address or server name;
+ - User's name and password;
+ - Is the SSHd program is running;  
+  Connecting to a Remote Server
+  #+begin_src sh
+    ssh remote_host
+  #+end_src
+  or
+  #+begin_src sh 
+      ssh username@remote_host
+  #+end_src
+  You can verify that the SSH server is running by running “ssh
+  localhost” on the Linux side. If it asks for the key/password, the
+  server is active: If the server is not running, you can manually start
+  it by running “sudo service sshd start” or “sudo systemctl start
+  sshd”.
+  #+begin_src sh
+    ps -aux | grep ssh
+  #+end_src
+  By default the SSH daemon on a server runs on port 22.
+- Note taken on [2024-04-09 Tue 09:05] \\
+  ssh (SSH client) is a program for logging into a remote machine and
+  for executing commands on a remote machine.  It is intended to
+  provide se‐ cure encrypted communications between two untrusted
+  hosts over an inse‐ cure network.
+:LOGBOOK:
+CLOCK: [2024-04-09 Tue 08:33]--[2024-04-09 Tue 09:03] =>  0:30
+:END:
 *** [#A] Man SSHd
-SCHEDULED: <2024-04-09 Tue>
+SCHEDULED: <2024-04-10 Wed>
+- Note taken on [2024-04-09 Tue 10:05] \\
+  sshd listens for connections from clients. It is normally started at
+  boot from /etc/init.d/ssh. sshd can be configured using command-line
+  options or a configuration file (by default sshd_config
+:LOGBOOK:
+CLOCK: [2024-04-09 Tue 10:00]--[2024-04-09 Tue 10:42] =>  0:42
+CLOCK: [2024-04-09 Tue 09:03]--[2024-04-09 Tue 09:36] =>  0:33
+:END:
 *** [#A] Process management on Linux 
-SCHEDULED: <2024-04-09 Tue>
-*** Linux file system
-SCHEDULED: <2024-04-09 Tue>
+SCHEDULED: <2024-04-10 Wed>
+*** [#A] Linux file system
+SCHEDULED: <2024-04-10 Wed>
 ** Python
 *** AMPLE Venvs decluttering and reorder
 SCHEDULED: <2024-02-22 Thu>
