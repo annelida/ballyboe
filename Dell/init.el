@@ -70,8 +70,10 @@
  ;; If you edit it by hand, you could mess it up, so be careful.
  ;; Your init file should contain only one such instance.
  ;; If there is more than one, they won't work right.
+ '(indent-tabs-mode nil)
  '(org-agenda-files
-   '("~/git/annelida/ballyboe/org-blog/2023-12-26-migration-plan.org" "~/git/annelida/ballyboe/bookworm/agenda/main.list" "~/git/annelida/ballyboe/bookworm/agenda/lead-tasks.list" "~/git/annelida/ballyboe/bookworm/agenda/personal.list" "~/git/annelida/ballyboe/bookworm/agenda/chores-tasks.list")))
+   '("~/git/annelida/ballyboe/org-blog/2023-12-26-migration-plan.org" "~/git/annelida/ballyboe/bookworm/agenda/main.list" "~/git/annelida/ballyboe/bookworm/agenda/lead-tasks.list" "~/git/annelida/ballyboe/bookworm/agenda/personal.list" "~/git/annelida/ballyboe/bookworm/agenda/chores-tasks.list"))
+ '(org-babel-python-command "python3"))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
