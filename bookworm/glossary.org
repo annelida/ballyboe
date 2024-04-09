@@ -499,3 +499,20 @@ Is part of a suite (a “block” of code). A statement is
 either an expression or one of several constructs with a keyword, such
 as if, while or for.
 
+** Authentication
+
+Is the act of proving an assertion, such as the identity of a computer
+system user.
+
+The process or action of proving or showing something to be true,
+genuine, or valid.
+
+** Daemon
+
+Is a computer program that runs as a background process, rather than
+being under the direct control of an interactive use.
+
+** SSHd
+
+Is the daemon program for ssh.
+
