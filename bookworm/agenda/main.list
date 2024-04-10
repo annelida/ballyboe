@@ -95,9 +95,9 @@ SCHEDULED: <2024-04-21 Sun ++2w>
   thinking.
   Instead of traditional searching rewards in our learning process,
   just try to seek novelty.
- 
+
   And think about the novelty, new knowledge as your rewards.
-  
+
 :LOGBOOK:
 CLOCK: [2023-10-14 Sat 13:30]--[2023-10-14 Sat 14:03] =>  0:33
 :END:
@@ -176,7 +176,7 @@ CLOCK: [2024-03-05 Tue 10:30]--[2024-03-05 Tue 13:41] =>  3:11
 :END:
 [https://www.bbc.co.uk/learningenglish/english/course/lower-intermediate/unit-4/session-2/activity-4]
 ***** 'Have to' and 'must'
-SCHEDULED: <2024-04-10 Wed ++2w>
+SCHEDULED: <2024-04-11 Thu ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-03-27 Wed 18:26]
 :END:
@@ -191,7 +191,7 @@ CLOCK: [2024-03-07 Thu 10:57]--[2024-03-07 Thu 11:33] =>  0:36
 SCHEDULED: <2024-03-13 Wed ++2w>
 [https://www.bbc.co.uk/learningenglish/english/course/lower-intermediate/unit-6/session-2/activity-5]
 ***** Past simple and Past continuous
-SCHEDULED: <2024-04-10 Wed ++2w>
+SCHEDULED: <2024-04-11 Thu ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-03-19 Tue 17:31]
 :END:
@@ -326,7 +326,7 @@ SCHEDULED: <2024-04-24 Wed ++1w>
 
    ps -ef provides a detailed listing of all processes running on the
    system, including their process ID (PID), parent process ID (PPID),
-   CPU usage, memory usage, and more. 
+   CPU usage, memory usage, and more.
 *** DELAY [#B] Process management
 SCHEDULED: <2024-04-15 Mon>
 - Note taken on [2023-12-20 Wed 11:33] \\
@@ -343,7 +343,7 @@ SCHEDULED: <2024-04-15 Mon>
   resources are used efficiently and that the system remains
   stable. In addition, process management allows the operating system
   to control how programs interact with each other.
-  
+
 *** DELAY Software management
 SCHEDULED: <2024-04-23 Tue>
 
@@ -428,7 +428,7 @@ cat /etc/issue
 
 #+RESULTS:
 : Debian GNU/Linux 11 \n \l
-: 
+:
 
 #+begin_src sh :results output
 cat /etc/os-release
@@ -445,7 +445,7 @@ cat /etc/os-release
 : SUPPORT_URL="https://www.debian.org/support"
 : BUG_REPORT_URL="https://bugs.debian.org/"
 
-*** [#B] Windows and Workspaces 
+*** [#B] Windows and Workspaces
 SCHEDULED: <2024-04-12 Fri>
 :PROPERTIES:
 :CATEGORY: GNOME
@@ -468,19 +468,19 @@ CLOCK: [2024-04-02 Tue 13:16]--[2024-04-02 Tue 14:10] =>  0:54
 *** AMPLE [#A] Linux virtual terminals overview
 SCHEDULED: <2024-04-03 Wed>
 F1-F7
-*** [#A] Creating Python virtual evironment on Debian
-SCHEDULED: <2024-04-10 Wed>
+*** [#B] Creating Python virtual evironment on Debian
+SCHEDULED: <2024-04-11 Thu>
 :LOGBOOK:
 CLOCK: [2024-04-08 Mon 09:46]--[2024-04-08 Mon 11:38] =>  1:52
 :END:
 [[file:~/git/annelida/ballyboe/org-blog/2023-11-07-Python-venv.org::*Creating a Python virtual environment on a Debian-based system][Creating a Python virtual environment on a Debian-based system]] Venv
 ===> pip list in 4 strting only (total isolation from the main OS)
 
-*** [#A] Man SSH
+*** AMPLE Man SSH
 SCHEDULED: <2024-04-10 Wed>
 - Note taken on [2024-04-09 Tue 10:11] \\
-  The most common way of connecting to a remote Linux server is through
-  SSH. The SSH connection is implemented using a client-server
+  The most common way of connecting to a remote Linux server is
+  through SSH. The SSH connection is implemented using a client-server
   model. This means that for an SSH connection to be established, the
   remote machine must be running a piece of software called an SSH
   daemon. This software listens for connections on a specific network
@@ -490,20 +490,20 @@ SCHEDULED: <2024-04-10 Wed>
 
  - IP address or server name;
  - User's name and password;
- - Is the SSHd program is running;  
+ - Is the SSHd program is running;
   Connecting to a Remote Server
   #+begin_src sh
     ssh remote_host
   #+end_src
   or
-  #+begin_src sh 
+  #+begin_src sh
       ssh username@remote_host
   #+end_src
   You can verify that the SSH server is running by running “ssh
-  localhost” on the Linux side. If it asks for the key/password, the
-  server is active: If the server is not running, you can manually start
-  it by running “sudo service sshd start” or “sudo systemctl start
-  sshd”.
+   localhost” on the Linux side. If it asks for the key/password, the
+   server is active: If the server is not running, you can manually
+   start it by running “sudo service sshd start” or “sudo systemctl
+   start sshd”.
   #+begin_src sh
     ps -aux | grep ssh
   #+end_src
@@ -514,9 +514,10 @@ SCHEDULED: <2024-04-10 Wed>
   provide se‐ cure encrypted communications between two untrusted
   hosts over an inse‐ cure network.
 :LOGBOOK:
+CLOCK: [2024-04-10 Wed 09:36]--[2024-04-10 Wed 10:35] =>  0:59
 CLOCK: [2024-04-09 Tue 08:33]--[2024-04-09 Tue 09:03] =>  0:30
 :END:
-*** [#A] Man SSHd
+*** AMPLE Man SSHd
 SCHEDULED: <2024-04-10 Wed>
 - Note taken on [2024-04-09 Tue 10:05] \\
   sshd listens for connections from clients. It is normally started at
@@ -526,10 +527,10 @@ SCHEDULED: <2024-04-10 Wed>
 CLOCK: [2024-04-09 Tue 10:00]--[2024-04-09 Tue 10:42] =>  0:42
 CLOCK: [2024-04-09 Tue 09:03]--[2024-04-09 Tue 09:36] =>  0:33
 :END:
-*** [#A] Process management on Linux 
-SCHEDULED: <2024-04-10 Wed>
+*** [#A] Process management on Linux
+SCHEDULED: <2024-04-11 Thu>
 *** [#A] Linux file system
-SCHEDULED: <2024-04-10 Wed>
+SCHEDULED: <2024-04-11 Thu>
 - Note taken on [2024-04-10 Wed 08:04] \\
   #+begin_src sh
     cd
@@ -617,6 +618,7 @@ are files that register events that happen on the system.
 
 
 :LOGBOOK:
+CLOCK: [2024-04-10 Wed 09:13]--[2024-04-10 Wed 09:20] =>  0:07
 CLOCK: [2024-04-10 Wed 07:49]--[2024-04-10 Wed 09:00] =>  1:11
 :END:
 ** Python
@@ -667,7 +669,7 @@ executable program. In this case, Python loads the file content and
 runs the code line by line, following the script or program’s
 execution flow.
 
-*** Init Python: modules, relative import. 
+*** Init Python: modules, relative import.
 SCHEDULED: <2024-04-23 Tue>
 :PROPERTIES:
 :CATEGORY: Python
@@ -780,9 +782,9 @@ CLOCK: [2024-03-14 Thu 09:16]--[2024-03-14 Thu 09:50] =>  0:34
 CLOCK: [2024-03-14 Thu 08:33]--[2024-03-14 Thu 08:48] =>  0:15
 :END:
 - Note taken on [2024-03-06 Wed 08:30] \\
-  
+
 [https://techbeamers.com/selenium-python-test-suite-unittest/]
-  
+
 **** Chromedriver installation
 
   To run Selenium tests in Google Chrome, besides the Chrome browser
@@ -857,7 +859,7 @@ CLOCK: [2024-03-14 Thu 08:33]--[2024-03-14 Thu 08:48] =>  0:15
 **** Elements locating
 
 The =By class= is used to locate elements within a document.
-Selenium provides the following method to locate elements in a page: 
+Selenium provides the following method to locate elements in a page:
  =find_element=
 To find multiple elements (these methods will return a list):
  =find_elements=
@@ -905,7 +907,7 @@ To find multiple elements (these methods will return a list):
 
    driver = webdriver.Chrome()
    driver.get("https://annelida.github.io/")
-   elem = driver.find_element(By.ID, "text-table-of-contents").text 
+   elem = driver.find_element(By.ID, "text-table-of-contents").text
    time.sleep(1) # wait 1 second
    print(elem)
    driver.quit()
@@ -998,14 +1000,14 @@ To find multiple elements (these methods will return a list):
    driver.find_element(By.ID, "username").send_keys(" wise")
    time.sleep(1) # wait 1 second
    driver.find_element(By.ID, "username").clear() # clear a text field
-   driver.find_element(By.ID, "username").send_keys("agileway") 
+   driver.find_element(By.ID, "username").send_keys("agileway")
    driver.find_element(By.ID, "password").send_keys("testwise")
    assert(driver.find_element(By.CSS_SELECTOR, "input[value='Sign in']").is_displayed())
    print("The button is displayed!")
    assert(driver.find_element(By.CSS_SELECTOR, "input[value='Sign in']").is_enabled())
    print("The button is enabled!")
    driver.find_element(By.CSS_SELECTOR, "input[value='Sign in']").click() #Button
-   time.sleep(1) 
+   time.sleep(1)
    driver.quit()
 
  #+end_src
@@ -1028,7 +1030,7 @@ To find multiple elements (these methods will return a list):
   driver.find_element(By.ID, "username").send_keys(" wise")
   time.sleep(1) # wait 1 second
   driver.find_element(By.ID, "username").clear() # clear a text field
-  driver.find_element(By.ID, "username").send_keys("agileway") 
+  driver.find_element(By.ID, "username").send_keys("agileway")
   driver.find_element(By.ID, "password").send_keys("testwise")
   driver.find_element(By.NAME, "remember_me").click() # Checkbox
   assert(driver.find_element(By.CSS_SELECTOR, "input[value='Sign in']").is_displayed())
@@ -1036,7 +1038,7 @@ To find multiple elements (these methods will return a list):
   assert(driver.find_element(By.CSS_SELECTOR, "input[value='Sign in']").is_enabled())
   print("The button is enabled!")
   driver.find_element(By.CSS_SELECTOR, "input[value='Sign in']").click() #Button
-  time.sleep(1) 
+  time.sleep(1)
   driver.quit()
 #+end_src
 
@@ -1058,7 +1060,7 @@ To find multiple elements (these methods will return a list):
   driver.find_element(By.ID, "username").send_keys(" wise")
   time.sleep(1) # wait 1 second
   driver.find_element(By.ID, "username").clear() # clear a text field
-  driver.find_element(By.ID, "username").send_keys("agileway") 
+  driver.find_element(By.ID, "username").send_keys("agileway")
   driver.find_element(By.ID, "password").send_keys("testwise")
   driver.find_element(By.NAME, "remember_me").click() # Checkbox
   if the_checkbox.is_selected():
@@ -1068,7 +1070,7 @@ To find multiple elements (these methods will return a list):
   assert(driver.find_element(By.CSS_SELECTOR, "input[value='Sign in']").is_enabled())
   print("The button is enabled!")
   driver.find_element(By.CSS_SELECTOR, "input[value='Sign in']").click() #Button
-  time.sleep(1) 
+  time.sleep(1)
   driver.quit()
 #+end_src
 
@@ -1088,7 +1090,7 @@ To find multiple elements (these methods will return a list):
   driver.find_element(By.ID, "username").send_keys(" wise")
   time.sleep(1) # wait 1 second
   driver.find_element(By.ID, "username").clear() # clear a text field
-  driver.find_element(By.ID, "username").send_keys("agileway") 
+  driver.find_element(By.ID, "username").send_keys("agileway")
   driver.find_element(By.ID, "password").send_keys("testwise")
   the_checkbox = driver.find_element(By.NAME, "remember_me").click() # Checkbox
   if the_checkbox.is_selected():
@@ -1099,7 +1101,7 @@ To find multiple elements (these methods will return a list):
   assert(driver.find_element(By.CSS_SELECTOR, "input[value='Sign in']").is_enabled())
   print("The button is enabled!")
   driver.find_element(By.CSS_SELECTOR, "input[value='Sign in']").click() #Button
-  time.sleep(1) 
+  time.sleep(1)
   driver.quit()
 #+end_src
 
@@ -1127,7 +1129,7 @@ SCHEDULED: <2024-04-16 Tue>
 :END:
 [https://realpython.com/python-testing/]
 https://talkpython.fm/episodes/transcript/368/end-to-end-web-testing-with-playwright
-  
+
 - Note taken on [2023-10-24 Tue 09:35] \\
   A unit test is a smaller test, that checks
   that a single component operates in the right way.
@@ -1294,7 +1296,7 @@ CLOCK: [2024-03-21 Thu 10:10]--[2024-03-21 Thu 10:50] =>  0:40
   #+begin_src python :results output
     number = -32
     assert number > 0, f"number greater than 0 expected, got: {number}"
-  
+
   #+end_src
 
   #+RESULTS:
@@ -1393,7 +1395,7 @@ SCHEDULED: <2024-04-23 Tue ++2w>
 CLOCK: [2024-01-12 Fri 10:28]--[2024-01-12 Fri 11:01] =>  0:33
 :END:
 *** [#A] UnitTesting *info* and snippets
-SCHEDULED: <2024-04-10 Wed>
+SCHEDULED: <2024-04-11 Thu>
 :PROPERTIES:
 :CATEGORY: Python
 :END:
@@ -1427,9 +1429,9 @@ SCHEDULED: <2024-05-15 Wed ++2w>
   * Launch the client version by =emacsclient -t=
 *** Registers
 
-*** Window Registers 
-*** RAW [#B] Bookmarks+ usage
-SCHEDULED: <2024-04-23 Tue ++2w>
+*** Window Registers
+*** [#A] Bookmarks+ customization
+SCHEDULED: <2024-04-11 Thu>
 :PROPERTIES:
 :CATEGORY: Emacs
 :LAST_REPEAT: [2024-01-29 Mon 15:54]
@@ -1438,6 +1440,7 @@ SCHEDULED: <2024-04-23 Tue ++2w>
 - Note taken on [2024-01-10 Wed 10:17] \\
   [[https://www.emacswiki.org/emacs/BookmarkPlus#h5o-3]]
 :LOGBOOK:
+CLOCK: [2024-04-10 Wed 10:42]--[2024-04-10 Wed 12:03] =>  1:21
 CLOCK: [2024-01-10 Wed 10:03]--[2024-01-10 Wed 10:17] =>  0:14
 CLOCK: [2024-01-05 Fri 13:49]--[2024-01-05 Fri 15:23] =>  1:34
 CLOCK: [2023-12-14 Thu 09:30]--[2023-12-14 Thu 10:08] =>  0:38
@@ -1460,7 +1463,7 @@ SCHEDULED: <2024-04-25 Thu ++3w>
 - State "AMPLE"      from "DELAY"      [2024-01-29 Mon 16:00]
 - State "DONE"       from "Active"     [2023-12-04 Mon 11:10]
 *** Elpy
-SCHEDULED: 
+SCHEDULED:
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-23 Thu 15:54]
 :CATEGORY: Elpy
@@ -1471,8 +1474,8 @@ CLOCK: [2023-11-28 Tue 14:37]--[2023-11-28 Tue 15:11] =>  0:34
 CLOCK: [2023-11-23 Thu 14:58]--[2023-11-23 Thu 15:53] =>  0:55
 :END:
 [[https://elpy.readthedocs.io/en/latest/concepts.html#:~:text=Concepts-,The%20RPC%20Process,going%20on%20in%20the%20background.]]
-*****  [#B] Elpy the RPC Process                                   
-SCHEDULED: <2024-04-10 Wed>
+*****  [#B] Elpy the RPC Process
+SCHEDULED: <2024-04-11 Thu>
 :PROPERTIES:
 :LAST_REPEAT: [2024-01-04 Thu 15:07]
 :END:
@@ -1509,7 +1512,7 @@ CLOCK: [2024-02-09 Fri 10:59]--[2024-02-09 Fri 11:46] =>  0:47
 :END:
 [[info:emacs#Regexps][emacs#Regexps]]
 **** DELAY Emacs Tramp mode
-SCHEDULED: <2024-04-11 Thu>
+SCHEDULED: <2024-04-18 Thu>
 :PROPERTIES:
 :CATEGORY: Emacs
 :END:
@@ -1554,7 +1557,7 @@ SCHEDULED: <2024-07-22 Mon>
  files, rather than their names, use
   =M-x find-grep-dired=
   #+begin_example
-  M-x find-grep-dired RET catch 
+  M-x find-grep-dired RET catch
   #+end_example
   =‘A REGEXP <RET>’= Search all the specified files for the regular
   expression REGEXP (‘dired-do-find-regexp’).
@@ -1588,10 +1591,10 @@ SCHEDULED: <2024-05-20 Mon>
   buffer.
 
   To create a new frame, call the function make-frame
-  
+
   [[info:emacs#Creating Frames][emacs#Creating Frames]]
   [[info:emacs#Frame Commands][emacs#Frame Commands]]
-  
+
   (key-chord-define-global "'\\" 'other-frame)
   (key-chord-define-global "]\\" 'other-frame)
   (key-chord-define-global "';" 'other-frame)
@@ -1599,7 +1602,7 @@ SCHEDULED: <2024-05-20 Mon>
 CLOCK: [2024-01-30 Tue 10:30]--[2024-01-30 Tue 10:57] =>  0:27
 :END:
 
-*** DELAY File searching in different Git branches 
+*** DELAY File searching in different Git branches
 SCHEDULED: <2024-04-23 Tue>
 :LOGBOOK:
 CLOCK: [2024-01-11 Thu 09:48]--[2024-01-11 Thu 10:19] =>  0:31
@@ -1781,7 +1784,7 @@ SCHEDULED: <2024-05-07 Tue ++1m>
   [[https://orgmode.org/worg/org-tutorials/org-jekyll.html]]
   [[info:org#Publishing][org#Publishing]]
   https://orgmode.org/worg/org-tutorials/org-publish-html-tutorial.html
-  
+
 - Note taken on [2023-10-12 Thu 15:01] \\
   Reverse approach: use the working sample with minimum modifications
   (personal data).
@@ -1840,7 +1843,7 @@ index.md (from annelida.github.io)
 old_index.md (from 0--key.github.io)
 
 Result:
-diff -u /home/vikky/git/annelida.github.io/index.md /home/vikky/git/0--key.github.io/old_index.md                                                                                                                                          1. I compared the content of two repositories: 
+diff -u /home/vikky/git/annelida.github.io/index.md /home/vikky/git/0--key.github.io/old_index.md                                                                                                                                          1. I compared the content of two repositories:
 0--key.github.io with annelida.github.io
 
 Only annelida.github.io has:
@@ -1893,7 +1896,7 @@ Gemfile.lock
 
 3. Comparing two repositories folder by folder:
 Differences only in content of /_includes/themes folder and /assets/themes folder.
-Differences in each file in _/layouts folder 
+Differences in each file in _/layouts folder
 
 diff 0--key.github.io/_includes/themes/ annelida.github.io/_includes/themes/
 Common subdirectories: 0--key.github.io/_includes/themes/bootstrap-3 and annelida.github.io/_includes/themes/bootstrap-3
@@ -1912,7 +1915,7 @@ Folder /layouts for both repositories contains the same files:
 default.html
 page.html
 post.html
- 
+
 The difference is one and common for this files:
 
  ---
@@ -2005,7 +2008,7 @@ SCHEDULED: <2024-07-18 Thu ++4w>
   Create two files with some difference and compare them using
   each possible approach.
   Put the files in folders with the same name and compare again.
-  
+
 :LOGBOOK:
 CLOCK: [2023-10-17 Tue 08:04]--[2023-10-17 Tue 09:17] =>  1:13
 CLOCK: [2023-10-16 Mon 08:00]--[2023-10-16 Mon 09:57] =>  1:57
@@ -2040,7 +2043,7 @@ Test 2.
 I added three lines with changes to file2.txt and ran
 M-x diff again.
 The changes were shown in a separate  buffer (it's name diff)
-with highlights. 
+with highlights.
 
 Emac's ediff function works the same way. But I prefer diff function
 result presentations.
@@ -2108,7 +2111,7 @@ vikky@penguin:~/tests$ diff -a -y dir1 dir2
 
 As a result I saw  not only the difference between the two files, but the difference between the two folders also:
 Only in dir2: file2.txt
- 
+
 Conclusions for 17/10/2023:
 In Emacs using M-x diff function it not necessary to separately compare folders and whe files.
 You can see full result in diff buffer.
@@ -2237,12 +2240,12 @@ SCHEDULED: <2024-04-26 Fri ++2w>
   If you want the branch to appear like the commit never took place
   you can reset head of current branch to previous commit with
   #+begin_example
-  $ git reset --hard HEAD^ 
+  $ git reset --hard HEAD^
   #+end_example
 
   And then send it to Github with
   #+begin_example
-  $ git push --force 
+  $ git push --force
   #+end_example
 
   ~git reset --soft~ this option moves HEAD back to the specified
@@ -2369,7 +2372,7 @@ CLOCK: [2023-11-13 Mon 12:10]--[2023-11-13 Mon 12:21] =>  0:11
 CLOCK: [2023-11-10 Fri 07:49]--[2023-11-10 Fri 09:32] =>  1:43
 :END:
 
- 
+
 **** Todo How Python Runs Programs
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-13 Mon 13:24]
@@ -2382,7 +2385,7 @@ CLOCK: [2023-11-10 Fri 07:49]--[2023-11-10 Fri 09:32] =>  1:43
   something called “byte code” and then routed to something called a “virtual machine.
   if you’re ever in doubt about how a piece of Python code works, fire up the
   interactive command line and try it out to see what happens.
-  You can import your module files interactively and run tests 
+  You can import your module files interactively and run tests
  on the tools they define by typing calls at the interactive prompt.
 
 :LOGBOOK:
@@ -2457,7 +2460,7 @@ This is known as 'stream redirection'.
 - State "DONE"       from "Active"     [2023-12-11 Mon 18:27]
 - State "DONE"       from "Active"     [2023-12-04 Mon 11:23]
 - State "DONE"       from "Active"     [2023-11-28 Tue 11:14]
-:LOGBOOK: 
+:LOGBOOK:
 CLOCK: [2023-11-28 Tue 10:40]--[2023-11-28 Tue 11:14] =>  0:34
 CLOCK: [2023-11-24 Fri 14:29]--[2023-11-24 Fri 14:52] =>  0:23
 :END:
@@ -2467,7 +2470,7 @@ SCHEDULED: <2024-05-30 Thu ++2w>
 :LAST_REPEAT: [2023-12-13 Wed 11:24]
 :END:
 - State "DONE"       from "Active"     [2023-12-13 Wed 11:24]
-******* RAW Pattern Matching  
+******* RAW Pattern Matching
 :LOGBOOK:
 CLOCK: [2023-12-14 Thu 10:09]--[2023-12-14 Thu 10:34] =>  0:25
 :END:
@@ -2582,6 +2585,3 @@ CLOCK: [2024-02-21 Wed 07:45]--[2024-02-21 Wed 08:48] =>  1:03
 [[file:~/git/ballyboe/org-blog/2024-02-12-What-is-CI-CD.org::*What is CI/CD?][What is CI/CD?]]
 [[https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions?learn=getting_started&learnProduct=actions]]
 * Personal
-
-
-
