@@ -530,6 +530,95 @@ CLOCK: [2024-04-09 Tue 09:03]--[2024-04-09 Tue 09:36] =>  0:33
 SCHEDULED: <2024-04-10 Wed>
 *** [#A] Linux file system
 SCHEDULED: <2024-04-10 Wed>
+- Note taken on [2024-04-10 Wed 08:04] \\
+  #+begin_src sh
+    cd
+    tree -L 1 /
+  #+end_src
+
+  #+RESULTS:
+  | ├── | bin            | -> | usr/bin                        |
+  | ├── | boot           |    |                                |
+  | ├── | dev            |    |                                |
+  | ├── | etc            |    |                                |
+  | ├── | home           |    |                                |
+  | ├── | initrd.img     | -> | boot/initrd.img-6.1.0-18-amd64 |
+  | ├── | initrd.img.old | -> | boot/initrd.img-6.1.0-17-amd64 |
+  | ├── | lib            | -> | usr/lib                        |
+  | ├── | lib64          | -> | usr/lib64                      |
+  | ├── | lost+found     |    |                                |
+  | ├── | media          |    |                                |
+  | ├── | mnt            |    |                                |
+  | ├── | opt            |    |                                |
+  | ├── | proc           |    |                                |
+  | ├── | root           |    |                                |
+  | ├── | run            |    |                                |
+  | ├── | sbin           | -> | usr/sbin                       |
+  | ├── | srv            |    |                                |
+  | ├── | sys            |    |                                |
+  | ├── | tmp            |    |                                |
+  | ├── | usr            |    |                                |
+  | ├── | var            |    |                                |
+  | ├── | vmlinuz        | -> | boot/vmlinuz-6.1.0-18-amd64    |
+  | └── | vmlinuz.old    | -> | boot/vmlinuz-6.1.0-17-amd64    |
+  |     |                |    |                                |
+  | 21  | directories,   | 4  | files                          |
+
+
+/bin is the directory that contains binaries, that is, some of the
+applications and programs you can run;
+
+The /boot directory contains files required for starting your system;
+
+/dev contains device files;
+
+/etc gets its name from the earliest Unixes and it was literally “et
+cetera”. is a folder which contain all your system configuration files
+in it;
+
+/home is where you will find your users’ personal directories.
+
+/lib is where libraries live. Libraries are files containing code that
+your applications can use.
+
+The /media directory is where external storage will be automatically
+mounted when you plug it in and try to access it;
+
+/mnt directory is where you would manually mount storage devices or
+partitions;
+
+The /opt directory is often where software you compile;
+
+/proc is contains information about your computer, such as information
+about your CPU and the kernel your Linux system is running;
+
+/root is the home directory of the superuser (also known as the
+“Administrator”) of the system;
+
+/run - system processes use it to store temporary data;
+
+/sbin is consists essential system binaries. Ss similar to /bin, but
+it contains applications that only the superuser will need;
+
+/home is where users kept their stuff;
+
+The /srv directory contains data for servers;
+
+/sys is another virtual directory like /proc and /dev and also contains
+information from devices connected to your computer.
+
+/tmp contains temporary files, usually placed there by applications
+that you are running;
+
+/usr user's applications, data and binaries;
+
+/var contains things like logs in the /var/log subdirectories. Logs
+are files that register events that happen on the system.
+
+
+:LOGBOOK:
+CLOCK: [2024-04-10 Wed 07:49]--[2024-04-10 Wed 09:00] =>  1:11
+:END:
 ** Python
 *** AMPLE Venvs decluttering and reorder
 SCHEDULED: <2024-02-22 Thu>
