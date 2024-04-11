@@ -531,6 +531,123 @@ CLOCK: [2024-04-09 Tue 09:03]--[2024-04-09 Tue 09:36] =>  0:33
 SCHEDULED: <2024-04-11 Thu>
 *** [#A] Linux file system
 SCHEDULED: <2024-04-11 Thu>
+- Note taken on [2024-04-11 Thu 07:57] \\
+  /home folder content
+
+  These folder is a kind of personal place(Working space) for
+  all the users other than root. There will be a separate folder for
+  each user in /home directory.
+
+  #+begin_src sh
+    cd
+    tree -a -L 1 /home
+  #+end_src
+
+  #+RESULTS:
+  | /home |              |   |       |
+  | ├──   | alioth       |   |       |
+  | └──   | vikky        |   |       |
+  |       |              |   |       |
+  | 3     | directories, | 0 | files |
+
+  /home/vikky folder content
+
+  #+begin_src sh
+    cd
+    tree -a -L 1 ~/
+  #+end_src
+
+  #+RESULTS:
+  | /home/vikky/ |                 |    |       |
+  | ├──          | .bash_history   |    |       |
+  | ├──          | .bash_logout    |    |       |
+  | ├──          | .bashrc         |    |       |
+  | ├──          | .cache          |    |       |
+  | ├──          | .config         |    |       |
+  | ├──          | Desktop         |    |       |
+  | ├──          | Documents       |    |       |
+  | ├──          | Downloads       |    |       |
+  | ├──          | .emacs.d        |    |       |
+  | ├──          | .face           |    |       |
+  | ├──          | .face.icon      | -> | .face |
+  | ├──          | git             |    |       |
+  | ├──          | .gnupg          |    |       |
+  | ├──          | .lesshst        |    |       |
+  | ├──          | .local          |    |       |
+  | ├──          | .mozilla        |    |       |
+  | ├──          | Music           |    |       |
+  | ├──          | Pictures        |    |       |
+  | ├──          | #primitive.py#  |    |       |
+  | ├──          | .profile        |    |       |
+  | ├──          | Public          |    |       |
+  | ├──          | .python_history |    |       |
+  | ├──          | raw.txt         |    |       |
+  | ├──          | .ssh            |    |       |
+  | ├──          | Templates       |    |       |
+  | └──          | Videos          |    |       |
+  |              |                 |    |       |
+  | 17           | directories,    | 10 | files |
+
+
+    - a single directory where configuration is stored, defaulting to ~/.config;
+    - a single directory which holds non-essential data files,
+      defaulting to ~/.cache.
+
+  ~/.local content
+
+  #+begin_src sh
+    cd
+    tree -a -L 1 ~/.local
+  #+end_src
+
+  #+RESULTS:
+  | /home/vikky/.local |              |   |       |
+  | ├──                | share        |   |       |
+  | └──                | state        |   |       |
+  |                    |              |   |       |
+  | 3                  | directories, | 0 | files |
+
+   - a single directory where user data is stored, defaulting to
+     ~/.local/share;
+
+#+begin_src sh
+  cd
+  tree -a -L 1 ~/.local/share
+#+end_src
+
+#+RESULTS:
+| /home/vikky/.local/share |                                   |   |       |
+| ├──                      | applications                      |   |       |
+| ├──                      | backgrounds                       |   |       |
+| ├──                      | evolution                         |   |       |
+| ├──                      | flatpak                           |   |       |
+| ├──                      | folks                             |   |       |
+| ├──                      | gnome-initial-setup-goa-helper    |   |       |
+| ├──                      | gnome-settings-daemon             |   |       |
+| ├──                      | gnome-shell                       |   |       |
+| ├──                      | gvfs-metadata                     |   |       |
+| ├──                      | ibus-mozc-gnome-initial-setup.log |   |       |
+| ├──                      | icc                               |   |       |
+| ├──                      | keyrings                          |   |       |
+| ├──                      | nautilus                          |   |       |
+| ├──                      | recently-used.xbel                |   |       |
+| ├──                      | sounds                            |   |       |
+| ├──                      | Trash                             |   |       |
+| ├──                      | virtualenv                        |   |       |
+| └──                      | yelp                              |   |       |
+|                          |                                   |   |       |
+| 17                       | directories,                      | 2 | files |
+
+#+begin_src sh
+tree -a -L 1 ~/.local/state
+#+end_src
+
+#+RESULTS:
+| /home/vikky/.local/state |              |   |       |
+| └──                      | wireplumber  |   |       |
+|                          |              |   |       |
+| 2                        | directories, | 0 | files |
+
 - Note taken on [2024-04-10 Wed 08:04] \\
   #+begin_src sh
     cd
