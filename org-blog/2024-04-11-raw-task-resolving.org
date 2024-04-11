@@ -1,0 +1,30 @@
+#+BEGIN_EXPORT html
+---
+layout: page
+title: Fleeting notes elaboration
+tagline: " how to cope with disorder
+permalink: /org-agenda/niceties.html
+categories: [Org-agenda, Task Management]
+tags: []
+---
+#+END_EXPORT
+
+#+STARTUP: showall indent
+#+OPTIONS: tags:nil num:nil \n:nil @:t ::t |:t ^:{} _:{} *:t
+#+TOC: headlines 2
+#+PROPERTY:header-args :results output :exports both :eval no-export
+* Preabmle
+
+What is fleeting notes:
+
+* Raw source for elaboration
+
+** Sense
+
+ in the name of each task
+
+ Semantically menaningful
+
+** Task decomposition
+
+** Check up the sense
