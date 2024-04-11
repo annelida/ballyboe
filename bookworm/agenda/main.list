@@ -735,6 +735,7 @@ are files that register events that happen on the system.
 
 
 :LOGBOOK:
+CLOCK: [2024-04-11 Thu 07:50]--[2024-04-11 Thu 08:59] =>  1:09
 CLOCK: [2024-04-10 Wed 09:13]--[2024-04-10 Wed 09:20] =>  0:07
 CLOCK: [2024-04-10 Wed 07:49]--[2024-04-10 Wed 09:00] =>  1:11
 :END:
@@ -1553,10 +1554,54 @@ SCHEDULED: <2024-04-11 Thu>
 :CATEGORY: Emacs
 :LAST_REPEAT: [2024-01-29 Mon 15:54]
 :END:
+- Note taken on [2024-04-11 Thu 08:59] \\
+  Copy file =bookmark+= from git/annelida/ballyboe/bookworm to
+  git/annelida/ballyboe/Dell
+
+  #+begin_src sh
+    cd ~/git/annelida/ballyboe/bookworm
+    cp bookmarks ~/git/ballyboe/Dell
+    cd ~/git/ballyboe/Dell
+    ls
+  #+end_src
+
+  #+RESULTS:
+  | agenda        |
+  | bookmarks     |
+  | drills.org    |
+  | glossary.org  |
+  | index.org     |
+  | key-chords.el |
+
+  Make soft link from ~/.emacs.d foler to =bookmark+= file.
+
+  #+begin_src sh
+    cd ~/.emacs.d
+    ln -s ~/git/annelida/ballyboe/Dell/bookmarks
+    ls -la
+  #+end_src
+
+  #+RESULTS:
+  | total      | 28 |       |       |      |     |    |       |                                                          |    |                                                          |
+  | drwx------ |  7 | vikky | vikky | 4096 | Apr | 11 | 09:26 | .                                                        |    |                                                          |
+  | drwx------ | 18 | vikky | vikky | 4096 | Apr |  9 | 15:05 | ..                                                       |    |                                                          |
+  | drwx------ |  2 | vikky | vikky | 4096 | Apr |  8 | 11:39 | auto-save-list                                           |    |                                                          |
+  | lrwxrwxrwx |  1 | vikky | vikky |   48 | Apr | 11 | 09:26 | bookmarks                                                | -> | /home/vikky/git/annelida/ballyboe/Dell/bookmarks         |
+  | drwxr-xr-x |  4 | vikky | vikky | 4096 | Dec | 18 | 12:22 | eln-cache                                                |    |                                                          |
+  | drwxr-xr-x |  4 | vikky | vikky | 4096 | Apr |  9 | 16:03 | elpa                                                     |    |                                                          |
+  | lrwxrwxrwx |  1 | vikky | vikky |   46 | Apr |  3 | 11:44 | init.el                                                  | -> | /home/vikky/git/annelida/ballyboe/Dell/init.el           |
+  | lrwxrwxrwx |  1 | vikky | vikky |   56 | Apr |  5 | 09:53 | key-chords.el                                            | -> | /home/vikky/git/annelida/ballyboe/bookworm/key-chords.el |
+  | drwxr-xr-x |  2 | vikky | vikky | 4096 | Apr |  9 | 07:38 | request                                                  |    |                                                          |
+  | -rw-r--r-- |  1 | vikky | vikky |    0 | Dec |  8 | 13:55 | session.10e18d78e5f9d79e92170204330881657300001006640073 |    |                                                          |
+  | drwxr-xr-x |  2 | vikky | vikky | 4096 | Apr |  8 | 11:38 | transient                                                |    |                                                          |
+
+  Test how Bookmarks+ works in Emacs
+
 - State "DONE"       from "Active"     [2024-01-29 Mon 15:54]
 - Note taken on [2024-01-10 Wed 10:17] \\
   [[https://www.emacswiki.org/emacs/BookmarkPlus#h5o-3]]
 :LOGBOOK:
+CLOCK: [2024-04-11 Thu 08:59]--[2024-04-11 Thu 09:13] =>  0:14
 CLOCK: [2024-04-10 Wed 10:42]--[2024-04-10 Wed 12:03] =>  1:21
 CLOCK: [2024-01-10 Wed 10:03]--[2024-01-10 Wed 10:17] =>  0:14
 CLOCK: [2024-01-05 Fri 13:49]--[2024-01-05 Fri 15:23] =>  1:34
