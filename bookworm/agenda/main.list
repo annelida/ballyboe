@@ -179,7 +179,7 @@ CLOCK: [2024-03-05 Tue 10:30]--[2024-03-05 Tue 13:41] =>  3:11
 :END:
 [https://www.bbc.co.uk/learningenglish/english/course/lower-intermediate/unit-4/session-2/activity-4]
 ***** 'Have to' and 'must'
-SCHEDULED: <2024-04-11 Thu ++2w>
+SCHEDULED: <2024-04-12 Fri ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-03-27 Wed 18:26]
 :END:
@@ -194,7 +194,7 @@ CLOCK: [2024-03-07 Thu 10:57]--[2024-03-07 Thu 11:33] =>  0:36
 SCHEDULED: <2024-03-13 Wed ++2w>
 [https://www.bbc.co.uk/learningenglish/english/course/lower-intermediate/unit-6/session-2/activity-5]
 ***** Past simple and Past continuous
-SCHEDULED: <2024-04-11 Thu ++2w>
+SCHEDULED: <2024-04-12 Fri ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-03-19 Tue 17:31]
 :END:
@@ -304,8 +304,8 @@ SCHEDULED: <2024-04-15 Mon ++1w>
 :LOGBOOK:
 CLOCK: [2023-12-19 Tue 09:22]--[2023-12-19 Tue 09:34] =>  0:12
 :END:
-*** DELAY MAN htop
-SCHEDULED: <2024-04-11 Thu ++1w>
+*** MAN htop
+SCHEDULED: <2024-04-12 Fri ++1w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-01-11 Thu 16:06]
 :END:
@@ -448,7 +448,7 @@ cat /etc/os-release
 : SUPPORT_URL="https://www.debian.org/support"
 : BUG_REPORT_URL="https://bugs.debian.org/"
 
-*** [#B] Windows and Workspaces
+*** AMPLE [#B] Windows and Workspaces
 SCHEDULED: <2024-04-12 Fri>
 :PROPERTIES:
 :CATEGORY: GNOME
@@ -459,7 +459,7 @@ CLOCK: [2024-04-02 Tue 10:27]--[2024-04-02 Tue 10:29] =>  0:02
 :END:
 
 *** [#A] Controls
-SCHEDULED: <2024-04-12 Fri>
+SCHEDULED: <2024-04-13 Sat>
 :PROPERTIES:
 :CATEGORY: GNOME
 :END:
@@ -472,7 +472,7 @@ CLOCK: [2024-04-02 Tue 13:16]--[2024-04-02 Tue 14:10] =>  0:54
 SCHEDULED: <2024-04-03 Wed>
 F1-F7
 *** [#B] Creating Python virtual evironment on Debian
-SCHEDULED: <2024-04-11 Thu>
+SCHEDULED: <2024-04-12 Fri>
 :LOGBOOK:
 CLOCK: [2024-04-08 Mon 09:46]--[2024-04-08 Mon 11:38] =>  1:52
 :END:
@@ -531,9 +531,9 @@ CLOCK: [2024-04-09 Tue 10:00]--[2024-04-09 Tue 10:42] =>  0:42
 CLOCK: [2024-04-09 Tue 09:03]--[2024-04-09 Tue 09:36] =>  0:33
 :END:
 *** [#A] Process management on Linux
-SCHEDULED: <2024-04-11 Thu>
-*** [#A] Linux file system
-SCHEDULED: <2024-04-11 Thu>
+SCHEDULED: <2024-04-12 Fri>
+*** [#A] Linux file system each folders structure
+SCHEDULED: <2024-04-12 Fri>
 - Note taken on [2024-04-11 Thu 07:57] \\
   /home folder content
 
@@ -1454,7 +1454,7 @@ def test_always_fail():
 #+RESULTS:
 
 *** RAW [#A] Playwright Python overview
-SCHEDULED: <2024-04-12 Fri>
+SCHEDULED: <2024-04-16 Tue>
 :PROPERTIES:
 :CATEGORY: Testing
 :END:
@@ -1516,7 +1516,7 @@ SCHEDULED: <2024-04-23 Tue ++2w>
 CLOCK: [2024-01-12 Fri 10:28]--[2024-01-12 Fri 11:01] =>  0:33
 :END:
 *** [#A] UnitTesting *info* and snippets
-SCHEDULED: <2024-04-11 Thu>
+SCHEDULED: <2024-04-12 Fri>
 :PROPERTIES:
 :CATEGORY: Python
 :END:
@@ -1551,7 +1551,7 @@ SCHEDULED: <2024-05-15 Wed ++2w>
 *** Registers
 
 *** Window Registers
-*** [#A] Bookmarks+ customization
+*** AMPLE [#A] Bookmarks+ customization
 SCHEDULED: <2024-04-11 Thu>
 :PROPERTIES:
 :CATEGORY: Emacs
@@ -1640,7 +1640,7 @@ CLOCK: [2023-11-23 Thu 14:58]--[2023-11-23 Thu 15:53] =>  0:55
 :END:
 [[https://elpy.readthedocs.io/en/latest/concepts.html#:~:text=Concepts-,The%20RPC%20Process,going%20on%20in%20the%20background.]]
 *****  [#B] Elpy the RPC Process
-SCHEDULED: <2024-04-11 Thu>
+SCHEDULED: <2024-04-12 Fri>
 :PROPERTIES:
 :LAST_REPEAT: [2024-01-04 Thu 15:07]
 :END:
@@ -2481,7 +2481,7 @@ CLOCK: [2024-01-04 Thu 12:11]--[2024-01-04 Thu 12:13] =>  0:02
 ** Portfolio creation
 ** CV elaboration
 ** AMPLE Upwork profile elaboration
-SCHEDULED: <2024-04-12 Fri>
+SCHEDULED: <2024-04-15 Mon>
 :LOGBOOK:
 CLOCK: [2024-04-09 Tue 17:37]--[2024-04-09 Tue 18:41] =>  1:04
 :END:
@@ -2490,7 +2490,7 @@ Manual's  studying
 
 
 ** AMPLE Linkedin profile elaboration
-SCHEDULED: <2024-04-12 Fri>
+SCHEDULED: <2024-04-15 Mon>
 Manual's studying
 
 * Leasure

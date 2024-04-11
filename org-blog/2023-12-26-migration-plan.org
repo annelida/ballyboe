@@ -120,7 +120,7 @@ After that you can commit the changes and try to push it using Magit.
 * Create list packages that need to be installed in Emacs
 
 * RAW [#A] Migration sequence description
-SCHEDULED: <2024-04-12 Fri>
+SCHEDULED: <2024-04-15 Mon>
 :LOGBOOK:
 CLOCK: [2024-04-03 Wed 09:17]--[2024-04-03 Wed 10:13] =>  0:56
 CLOCK: [2024-04-02 Tue 10:29]--[2024-04-02 Tue 11:45] =>  1:16
@@ -219,11 +219,17 @@ path.
 Evaluate the region. Try to create weekly agenda by completing =M-x
 org-agenda= command.
 
-** ACTIVE [#A] Org-babel variables customization 
-SCHEDULED: <2024-04-12 Fri ++1d>
+** RAW [#A] Org-babel variables customization 
+SCHEDULED: <2024-04-18 Thu ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-04-09 Tue 15:11]
+:LAST_REPEAT: [2024-04-11 Thu 18:50]
 :END:
+- State "AMPLE"      from "RAW"        [2024-04-11 Thu 18:50]
+- State "AMPLE"      from "INIT"       [2024-04-11 Thu 18:50]
+- State "AMPLE"      from "RAW"        [2024-04-11 Thu 18:50]
+- State "DONE"       from "ACTIVE"     [2024-04-11 Thu 18:50]
+- State "AMPLE"      from "RAW"        [2024-04-11 Thu 18:50]
+- State "DONE"       from "ACTIVE"     [2024-04-11 Thu 18:49]
 - State "AMPLE"      from "RAW"        [2024-04-09 Tue 15:11]
 - State "DONE"       from "ACTIVE"     [2024-04-09 Tue 15:11]
 - State "AMPLE"      from "TODO"       [2024-04-09 Tue 15:07]
