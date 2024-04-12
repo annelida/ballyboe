@@ -1,0 +1,83 @@
+#+BEGIN_EXPORT html
+---
+layout: page
+title: Process management on Linux
+tagline: " how it organized"
+permalink: /linux/debian12/process-management-on-linux.html
+categories: [Debian12, Process Management]
+tags: [linux, process-management]
+---
+#+END_EXPORT
+
+#+STARTUP: showall indent
+#+OPTIONS: tags:nil num:nil \n:nil @:t ::t |:t ^:{} _:{} *:t
+#+TOC: headlines 2
+#+PROPERTY:header-args :results output :exports both :eval no-export
+
+* Introduction 
+
+#+begin_quote
+A process in Linux is nothing but a program in execution. It’s a
+running instance of a program. Any command that you execute starts a
+process.
+
+** Types of processes in Linux
+
+Foreground Processes:
+depend on the user for input
+also referred to as interactive processes;
+
+Background Processes:
+run independently of the user
+referred to as non-interactive or automatic processes.
+
+** Process states in Linux
+
+Running:
+A process in running state means that it is running or it’s
+ready to run.
+
+Sleeping (interruptible sleep, uninterruptible sleep): When it is
+waiting for a resource to be available. A process in Interruptible
+sleep will wakeup to handle signals, whereas a process in
+Uninterruptible sleep will not.
+ 
+Stopped:
+When it receives a stop signal.
+
+Zombie
+When a process is dead but the entry for the process is
+still present in the table.
+
+** Commands for Process Management in Linux
+
+There are two commands available in Linux to track running
+processes. These two commands are =Top= and =Ps=.
+
+** The =top= command for mananging Linux processes
+#+begin_src sh
+  top
+#+end_src
+
+PID: Unique Process ID given to each process;
+User: Username of the process owner;
+PR: Priority given to a process while scheduling;
+NI: ‘nice’ value of a process;
+VIRT: Amount of virtual memory used by a process;
+RES: Amount of physical memory used by a process;
+SHR: Amount of memory shared with other processes;
+S: state of the process;
+
+  - ‘D’ = uninterruptible sleep
+  - 'I' = Idle
+ - ‘R’ = running
+ - ‘S’ = sleeping
+ - ‘T’ = traced or stopped
+ - ‘Z’ = zombie
+   
+%CPU: Percentage of CPU used by the process;
+%MEM; Percentage of RAM used by the process;
+TIME+: Total CPU time consumed by the process;
+Command: Command used to activate the process;
+
+#+end_quote
