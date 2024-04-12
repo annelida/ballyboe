@@ -40,7 +40,7 @@ tags: [Linux, Debian12, ssh]
 - You must to know user's name and password for logging.
 
 * [#A] How to Connect via SSH
-SCHEDULED: <2024-04-13 Sat>
+SCHEDULED: <2024-04-17 Wed>
 :PROPERTIES:
 :CATEGORY: Linux
 :END:
