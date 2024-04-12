@@ -1,0 +1,30 @@
+#+BEGIN_EXPORT html
+---
+layout: page
+title: Process management on Linux
+tagline: " how it organized"
+permalink: /linux/debian12/process-management-on-linux.html
+categories: [Debian12, Process Management]
+tags: [linux, process-management]
+---
+#+END_EXPORT
+
+#+STARTUP: showall indent
+#+OPTIONS: tags:nil num:nil \n:nil @:t ::t |:t ^:{} _:{} *:t
+#+TOC: headlines 2
+#+PROPERTY:header-args :results output :exports both :eval no-export
+
+* Overview
+
+It makes sense to explore the Linux filesystem from a terminal
+window. A terminal, has better tools to show the map of Linux’s
+directory tree.
+
+* Folders structure and description
+
+* /home/vikky folders structure and description
+
+
+* Useful commands
+
+* Conclusion
