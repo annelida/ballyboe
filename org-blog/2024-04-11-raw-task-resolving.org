@@ -13,11 +13,32 @@ tags: []
 #+OPTIONS: tags:nil num:nil \n:nil @:t ::t |:t ^:{} _:{} *:t
 #+TOC: headlines 2
 #+PROPERTY:header-args :results output :exports both :eval no-export
-* Preabmle
+* Preamble
 
 What is fleeting notes:
 
+Some informal notes on any thought or idea that pops into your mind
+when you are reading something, browsing the web, thinking about
+something.
+
+These notes are fleeting, and for that reason, must be captured
+quickly, or they will fleet away.
+
 * Raw source for elaboration
+
+Лучший и быстрейший способ освоить незнакомую тему заключается в
+копировании и улучшении уже существующих подходов, взглядов,
+концептов. Находишь, копируешь, улучшаешь.
+
+The notes are only reminders of information. Quickly write down what
+you are thinking in any kind of way.
+
+In Emacs the best approach is Org-capture templates usage. But at the
+initial stage you can collect them into *scratch* buffer.
+
+You must to come back to these notes when planning you Agenda for the
+current or the next day. Most of them will be converted into your new
+tasks. And you must to organize and manage them.
 
 ** Sense
 
@@ -26,5 +47,9 @@ What is fleeting notes:
  Semantically menaningful
 
 ** Task decomposition
+
+Complex task can have many different and connected parts, and is
+therefore often difficult to understand or unimpossible to resolve it
+in с первого раза Break-down
 
 ** Check up the sense
