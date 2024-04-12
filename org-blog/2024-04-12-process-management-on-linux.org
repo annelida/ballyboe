@@ -62,7 +62,12 @@ processes. These two commands are =Top= and =Ps=.
 PID: Unique Process ID given to each process;
 User: Username of the process owner;
 PR: Priority given to a process while scheduling;
-NI: ‘nice’ value of a process;
+
+NI: ‘nice’ value of a process: a negative nice value means higher
+priority, whereas a positive nice value means lower priority.Zero in
+this field simply means priority will not be adjusted in determining a
+task's dispatch-ability
+
 VIRT: Amount of virtual memory used by a process;
 RES: Amount of physical memory used by a process;
 SHR: Amount of memory shared with other processes;
