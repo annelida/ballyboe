@@ -541,55 +541,57 @@ SCHEDULED: <2024-04-12 Fri>
   all the users other than root. There will be a separate folder for
   each user in /home directory.
 
-  #+begin_src sh
+  #+begin_src sh :results verbatim
     cd
     tree -a -L 1 /home
   #+end_src
 
   #+RESULTS:
-  | /home |              |   |       |
-  | ├──   | alioth       |   |       |
-  | └──   | vikky        |   |       |
-  |       |              |   |       |
-  | 3     | directories, | 0 | files |
+  : /home
+  : ├── alioth
+  : └── vikky
+  :
+  : 3 directories, 0 files
 
   /home/vikky folder content
 
-  #+begin_src sh
+  #+begin_src sh :results verbatim
     cd
     tree -a -L 1 ~/
   #+end_src
 
   #+RESULTS:
-  | /home/vikky/ |                 |    |       |
-  | ├──          | .bash_history   |    |       |
-  | ├──          | .bash_logout    |    |       |
-  | ├──          | .bashrc         |    |       |
-  | ├──          | .cache          |    |       |
-  | ├──          | .config         |    |       |
-  | ├──          | Desktop         |    |       |
-  | ├──          | Documents       |    |       |
-  | ├──          | Downloads       |    |       |
-  | ├──          | .emacs.d        |    |       |
-  | ├──          | .face           |    |       |
-  | ├──          | .face.icon      | -> | .face |
-  | ├──          | git             |    |       |
-  | ├──          | .gnupg          |    |       |
-  | ├──          | .lesshst        |    |       |
-  | ├──          | .local          |    |       |
-  | ├──          | .mozilla        |    |       |
-  | ├──          | Music           |    |       |
-  | ├──          | Pictures        |    |       |
-  | ├──          | #primitive.py#  |    |       |
-  | ├──          | .profile        |    |       |
-  | ├──          | Public          |    |       |
-  | ├──          | .python_history |    |       |
-  | ├──          | raw.txt         |    |       |
-  | ├──          | .ssh            |    |       |
-  | ├──          | Templates       |    |       |
-  | └──          | Videos          |    |       |
-  |              |                 |    |       |
-  | 17           | directories,    | 10 | files |
+  #+begin_example
+  /home/vikky/
+  ├── .bash_history
+  ├── .bash_logout
+  ├── .bashrc
+  ├── .cache
+  ├── .config
+  ├── Desktop
+  ├── Documents
+  ├── Downloads
+  ├── .emacs.d
+  ├── .face
+  ├── .face.icon -> .face
+  ├── git
+  ├── .gnupg
+  ├── .lesshst
+  ├── .local
+  ├── .mozilla
+  ├── Music
+  ├── Pictures
+  ├── #primitive.py#
+  ├── .profile
+  ├── Public
+  ├── .python_history
+  ├── raw.txt
+  ├── .ssh
+  ├── Templates
+  └── Videos
+
+  17 directories, 10 files
+  #+end_example
 
 
     - a single directory where configuration is stored, defaulting to ~/.config;
