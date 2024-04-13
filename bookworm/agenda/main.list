@@ -534,14 +534,17 @@ CLOCK: [2024-04-09 Tue 10:00]--[2024-04-09 Tue 10:42] =>  0:42
 CLOCK: [2024-04-09 Tue 09:03]--[2024-04-09 Tue 09:36] =>  0:33
 :END:
 *** [#A] Article about process management on Linux
-SCHEDULED: <2024-04-13 Sat>
+SCHEDULED: <2024-04-14 Sun>
+- Note taken on [2024-04-13 Sat 17:26] \\
+  How to check is the SSHd process running?
+  Which protocol it is listening if running?
 :LOGBOOK:
 CLOCK: [2024-04-13 Sat 07:07]--[2024-04-13 Sat 08:12] =>  1:05
 CLOCK: [2024-04-12 Fri 09:30]--[2024-04-12 Fri 10:42] =>  1:12
 :END:
 [[file:~/git/annelida/ballyboe/org-blog/2024-04-12-process-management-on-linux.org::*Introduction][Introduction]]
 *** [#A] Article about Linux file system structure
-SCHEDULED: <2024-04-13 Sat>
+SCHEDULED: <2024-04-14 Sun>
 
 [[file:~/git/annelida/ballyboe/org-blog/2024-04-12-linux-file-system-structure.org::*Overview][Overview]]
 
