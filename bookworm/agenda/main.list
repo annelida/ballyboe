@@ -1917,12 +1917,23 @@ CLOCK: [2023-11-28 Tue 08:00]--[2023-11-28 Tue 08:58] =>  0:58
 https://orgmode.org/worg/org-contrib/org-drill.html
 https://orgmode.org/worg/org-contrib/org-drill.html#org51fd4f9
 
-***** DELAY [#A] Org-capture templates usage
-SCHEDULED: <2024-05-20 Mon ++2w>
+***** [#A] Org-capture templates usage
+SCHEDULED: <2024-04-13 Sat>
 :PROPERTIES:
 :LAST_REPEAT: [2024-01-25 Thu 11:48]
 :CATEGORY: Emacs
 :END:
+- Note taken on [2024-04-13 Sat 10:30] \\
+  During the working process usually I must to gathering text from
+  different sources for futher elaboration. One from existing
+  approaches for automation this task is org-capture template usage.
+
+  To create org-capture templete I will use Emacs built-in Help system:
+  [[info:org#Template expansion][org#Template expansion]]
+
+  and working org-capture templates from 0--key repository:
+
+  org-capture-templates.el
 - Note taken on [2024-02-02 Fri 10:29] \\
   Template elements
 
