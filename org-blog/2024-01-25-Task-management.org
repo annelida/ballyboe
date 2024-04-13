@@ -131,7 +131,7 @@ CLOCK: [2024-02-28 Wed 11:01]--[2024-02-28 Wed 11:44] =>  0:43
 CLOCK: [2024-02-09 Fri 07:18]--[2024-02-09 Fri 10:06] =>  2:48
 CLOCK: [2024-02-06 Tue 11:20]--[2024-02-06 Tue 11:56] =>  0:36
 CLOCK: [2024-02-02 Fri 10:35]--[2024-02-02 Fri 11:22] =>  0:47
-CLOCK: [2024-02-01 Thu 08:45]
+CLOCK: [2024-02-01 Thu 08:45]--[2024-02-01 Thu 08:55] =>  0:10
 :END:
 
 We all have the some experience with different project management
