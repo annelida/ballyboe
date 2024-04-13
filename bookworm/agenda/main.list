@@ -58,7 +58,7 @@ SCHEDULED: <2024-05-14 Tue>
 ***** Org-Agenda as the Maain Tool
 features description
 ***** Task classification
-**** [#A] Article about brand-new task resolving
+**** Article about brand-new task resolving
 SCHEDULED: <2024-04-13 Sat>
 :LOGBOOK:
 CLOCK: [2024-04-12 Fri 07:12]--[2024-04-12 Fri 08:12] =>  1:00
@@ -536,6 +536,7 @@ CLOCK: [2024-04-09 Tue 09:03]--[2024-04-09 Tue 09:36] =>  0:33
 *** [#A] Article about process management on Linux
 SCHEDULED: <2024-04-13 Sat>
 :LOGBOOK:
+CLOCK: [2024-04-13 Sat 07:07]--[2024-04-13 Sat 08:12] =>  1:05
 CLOCK: [2024-04-12 Fri 09:30]--[2024-04-12 Fri 10:42] =>  1:12
 :END:
 [[file:~/git/annelida/ballyboe/org-blog/2024-04-12-process-management-on-linux.org::*Introduction][Introduction]]
@@ -1964,6 +1965,7 @@ SCHEDULED: <2024-04-13 Sat>
 - State "DONE"       from "Active"     [2023-12-13 Wed 17:47]
 - State "DONE"       from "Active"     [2023-12-04 Mon 11:20]
 :LOGBOOK:
+CLOCK: [2024-04-13 Sat 08:46]
 CLOCK: [2024-02-06 Tue 10:08]--[2024-02-06 Tue 11:11] =>  1:03
 CLOCK: [2024-02-02 Fri 08:55]--[2024-02-02 Fri 09:59] =>  1:04
 CLOCK: [2024-01-25 Thu 14:40]--[2024-01-25 Thu 15:02] =>  0:22
