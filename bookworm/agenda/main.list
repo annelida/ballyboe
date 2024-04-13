@@ -59,7 +59,7 @@ SCHEDULED: <2024-05-14 Tue>
 features description
 ***** Task classification
 **** Article about brand-new task resolving
-SCHEDULED: <2024-04-13 Sat>
+SCHEDULED: <2024-04-15 Mon>
 :LOGBOOK:
 CLOCK: [2024-04-12 Fri 07:12]--[2024-04-12 Fri 08:12] =>  1:00
 :END:
@@ -182,7 +182,7 @@ CLOCK: [2024-03-05 Tue 10:30]--[2024-03-05 Tue 13:41] =>  3:11
 :END:
 [https://www.bbc.co.uk/learningenglish/english/course/lower-intermediate/unit-4/session-2/activity-4]
 ***** 'Have to' and 'must'
-SCHEDULED: <2024-04-13 Sat ++2w>
+SCHEDULED: <2024-04-14 Sun ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-03-27 Wed 18:26]
 :END:
@@ -197,7 +197,7 @@ CLOCK: [2024-03-07 Thu 10:57]--[2024-03-07 Thu 11:33] =>  0:36
 SCHEDULED: <2024-03-13 Wed ++2w>
 [https://www.bbc.co.uk/learningenglish/english/course/lower-intermediate/unit-6/session-2/activity-5]
 ***** Past simple and Past continuous
-SCHEDULED: <2024-04-13 Sat ++2w>
+SCHEDULED: <2024-04-14 Sun ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-03-19 Tue 17:31]
 :END:
@@ -308,7 +308,7 @@ SCHEDULED: <2024-04-15 Mon ++1w>
 CLOCK: [2023-12-19 Tue 09:22]--[2023-12-19 Tue 09:34] =>  0:12
 :END:
 *** [#B] MAN htop
-SCHEDULED: <2024-04-13 Sat ++1w>
+SCHEDULED: <2024-04-14 Sun ++1w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-01-11 Thu 16:06]
 :END:
@@ -1922,7 +1922,7 @@ https://orgmode.org/worg/org-contrib/org-drill.html
 https://orgmode.org/worg/org-contrib/org-drill.html#org51fd4f9
 
 ***** [#A] Org-capture templates usage
-SCHEDULED: <2024-04-13 Sat>
+SCHEDULED: <2024-04-14 Sun>
 :PROPERTIES:
 :LAST_REPEAT: [2024-01-25 Thu 11:48]
 :CATEGORY: Emacs
