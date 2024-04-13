@@ -14,7 +14,7 @@ tags: [linux, process-management]
 #+TOC: headlines 2
 #+PROPERTY:header-args :results output :exports both :eval no-export
 
-* Introduction 
+* Introduction
 
 #+begin_quote
 A process in Linux is nothing but a program in execution. It’s a
@@ -41,7 +41,7 @@ Sleeping (interruptible sleep, uninterruptible sleep): When it is
 waiting for a resource to be available. A process in Interruptible
 sleep will wakeup to handle signals, whereas a process in
 Uninterruptible sleep will not.
- 
+
 Stopped:
 When it receives a stop signal.
 
@@ -79,10 +79,68 @@ S: state of the process;
  - ‘S’ = sleeping
  - ‘T’ = traced or stopped
  - ‘Z’ = zombie
-   
+
 %CPU: Percentage of CPU used by the process;
 %MEM; Percentage of RAM used by the process;
 TIME+: Total CPU time consumed by the process;
 Command: Command used to activate the process;
+
+** The =htop=
+It is similar to top, but allows you to scroll vertically and
+horizontally and use functional keys.
+
+** ps (Process Status) command
+
+It displays the currently-running processes. However, unlike the top
+command, the output generated is not in realtime.
+
+#+begin_src sh
+  ps
+#+end_src
+
+#+RESULTS:
+#+begin_example
+    PID TTY          TIME CMD
+ 904296 ?        00:00:01 systemd
+ 904299 ?        00:00:00 (sd-pam)
+ 904327 ?        00:22:33 pipewire
+ 904329 ?        00:00:33 wireplumber
+ 904330 ?        00:37:35 pipewire-pulse
+ 904336 ?        00:00:00 gnome-keyring-d
+ 904339 ?        00:00:05 dbus-daemon
+ +end_example
+
+ PID  process ID
+ TTY  terminal type
+ TIME  total time the process has been running
+ CMD  name of the command that launches the process
+
+ To get more information using ps command use:
+
+#+begin_src sh
+ps -u
+#+end_src
+
+#+RESULTS:
+: USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+: vikky     904412  0.0  0.0 159448  5492 tty7     Ssl+ Mar29   0:00 /usr/libexec/gdm-wayland-session /usr/bin/gnome-session
+: vikky     904419  0.0  0.0 298124  8996 tty7     Sl+  Mar29   0:00 /usr/libexec/gnome-session-binary
+: vikky    1040034  0.0  0.0   8256  3016 tty5     S    Apr02   0:00 -bash
+: vikky    1040081  4.1  0.0  13888  9624 tty5     S+   Apr02 650:28 htop
+: vikky    1078991  0.0  0.0   8260  3096 pts/8    Ss   Apr03   0:00 bash
+: vikky    1145414  0.0  0.0   8388  4176 pts/10   Ss+  Apr05   0:00 bash
+: vikky    1245913  0.0  1.2 782744 196792 pts/8   S+   Apr08   5:01 emacs -nw
+: vikky    1264653  0.0  0.0   8152  2960 pts/12   Ss+  Apr08   0:00 /bin/bash --noediting -i
+
+%CPU represents the amount of computing power the process is taking.
+%MEM represents the amount of memory the process is taking up.
+STAT represents process state
+
+While ps command only displays the processes that are currently
+running, you can also use it to list all the processes.
+
+#+begin_src sh
+ps -A
+#+end_src
 
 #+end_quote
