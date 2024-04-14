@@ -182,7 +182,7 @@ CLOCK: [2024-03-05 Tue 10:30]--[2024-03-05 Tue 13:41] =>  3:11
 :END:
 [https://www.bbc.co.uk/learningenglish/english/course/lower-intermediate/unit-4/session-2/activity-4]
 ***** 'Have to' and 'must'
-SCHEDULED: <2024-04-14 Sun ++2w>
+SCHEDULED: <2024-04-15 Mon ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-03-27 Wed 18:26]
 :END:
@@ -197,7 +197,7 @@ CLOCK: [2024-03-07 Thu 10:57]--[2024-03-07 Thu 11:33] =>  0:36
 SCHEDULED: <2024-03-13 Wed ++2w>
 [https://www.bbc.co.uk/learningenglish/english/course/lower-intermediate/unit-6/session-2/activity-5]
 ***** Past simple and Past continuous
-SCHEDULED: <2024-04-14 Sun ++2w>
+SCHEDULED: <2024-04-15 Mon ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-03-19 Tue 17:31]
 :END:
@@ -206,7 +206,7 @@ SCHEDULED: <2024-04-14 Sun ++2w>
 CLOCK: [2024-03-19 Tue 12:02]--[2024-03-19 Tue 17:30] =>  5:28
 :END:
 [https://www.bbc.co.uk/learningnglish/english/course/lower-intermediate/unit-7/session-2/activity-4]
-***** AMPLE Articles
+***** Articles
 SCHEDULED: <2024-04-15 Mon ++2w>
 :LOGBOOK:
 CLOCK: [2024-04-09 Tue 06:12]--[2024-04-09 Tue 06:33] =>  0:21
@@ -279,7 +279,7 @@ SCHEDULED: <2024-04-23 Tue ++1w>
 :LOGBOOK:
 CLOCK: [2023-12-19 Tue 09:18]--[2023-12-19 Tue 09:22] =>  0:04
 :END:
-*** RAW MAN free
+*** MAN free
 SCHEDULED: <2024-04-15 Mon ++1w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-01-11 Thu 16:04]
@@ -308,7 +308,7 @@ SCHEDULED: <2024-04-15 Mon ++1w>
 CLOCK: [2023-12-19 Tue 09:22]--[2023-12-19 Tue 09:34] =>  0:12
 :END:
 *** [#B] MAN htop
-SCHEDULED: <2024-04-14 Sun ++1w>
+SCHEDULED: <2024-04-17 Wed ++1w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-01-11 Thu 16:06]
 :END:
@@ -334,7 +334,7 @@ SCHEDULED: <2024-04-24 Wed ++1w>
    system, including their process ID (PID), parent process ID (PPID),
    CPU usage, memory usage, and more.
 *** DELAY [#B] Process management
-SCHEDULED: <2024-04-15 Mon>
+SCHEDULED: <2024-04-23 Tue>
 - Note taken on [2023-12-20 Wed 11:33] \\
 
   Is the technique used by organizations to analyze, optimize, monitor,
@@ -534,17 +534,18 @@ CLOCK: [2024-04-09 Tue 10:00]--[2024-04-09 Tue 10:42] =>  0:42
 CLOCK: [2024-04-09 Tue 09:03]--[2024-04-09 Tue 09:36] =>  0:33
 :END:
 *** [#A] Article about process management on Linux
-SCHEDULED: <2024-04-14 Sun>
+SCHEDULED: <2024-04-15 Mon>
 - Note taken on [2024-04-13 Sat 17:26] \\
   How to check is the SSHd process running?
   Which protocol it is listening if running?
 :LOGBOOK:
+CLOCK: [2024-04-14 Sun 07:12]--[2024-04-14 Sun 08:17] =>  1:05
 CLOCK: [2024-04-13 Sat 07:07]--[2024-04-13 Sat 08:12] =>  1:05
 CLOCK: [2024-04-12 Fri 09:30]--[2024-04-12 Fri 10:42] =>  1:12
 :END:
 [[file:~/git/annelida/ballyboe/org-blog/2024-04-12-process-management-on-linux.org::*Introduction][Introduction]]
 *** [#A] Article about Linux file system structure
-SCHEDULED: <2024-04-14 Sun>
+SCHEDULED: <2024-04-15 Mon>
 
 [[file:~/git/annelida/ballyboe/org-blog/2024-04-12-linux-file-system-structure.org::*Overview][Overview]]
 
@@ -1569,7 +1570,7 @@ SCHEDULED: <2024-05-15 Wed ++2w>
 *** Registers
 
 *** Window Registers
-*** AMPLE [#A] Bookmarks+ customization
+*** [#A] Bookmarks+ customization
 SCHEDULED: <2024-04-15 Mon>
 :PROPERTIES:
 :CATEGORY: Emacs
@@ -1922,7 +1923,9 @@ https://orgmode.org/worg/org-contrib/org-drill.html
 https://orgmode.org/worg/org-contrib/org-drill.html#org51fd4f9
 
 ***** [#A] Org-capture templates usage
-SCHEDULED: <2024-04-14 Sun>
+SCHEDULED: <2024-04-15 Mon>
+[[file:~/git/annelida/ballyboe/org-blog/2024-04-14-emacs-org-capture-creation-and-expansion.org::*Preamble][Org-capture creation and expansion]]
+
 :PROPERTIES:
 :LAST_REPEAT: [2024-01-25 Thu 11:48]
 :CATEGORY: Emacs
@@ -1968,7 +1971,8 @@ SCHEDULED: <2024-04-14 Sun>
 - State "DONE"       from "Active"     [2023-12-13 Wed 17:47]
 - State "DONE"       from "Active"     [2023-12-04 Mon 11:20]
 :LOGBOOK:
-CLOCK: [2024-04-13 Sat 08:46]
+CLOCK: [2024-04-14 Sun 08:55]--[2024-04-14 Sun 10:11] =>  1:16
+CLOCK: [2024-04-13 Sat 08:46]--[2024-04-13 Sat 09:01] =>  0:15
 CLOCK: [2024-02-06 Tue 10:08]--[2024-02-06 Tue 11:11] =>  1:03
 CLOCK: [2024-02-02 Fri 08:55]--[2024-02-02 Fri 09:59] =>  1:04
 CLOCK: [2024-01-25 Thu 14:40]--[2024-01-25 Thu 15:02] =>  0:22
@@ -2511,7 +2515,7 @@ CLOCK: [2024-01-04 Thu 12:11]--[2024-01-04 Thu 12:13] =>  0:02
 ** Portfolio creation
 ** CV elaboration
 ** AMPLE Upwork profile elaboration
-SCHEDULED: <2024-04-15 Mon>
+SCHEDULED: <2024-04-16 Tue>
 :LOGBOOK:
 CLOCK: [2024-04-09 Tue 17:37]--[2024-04-09 Tue 18:41] =>  1:04
 :END:
@@ -2520,7 +2524,7 @@ Manual's  studying
 
 
 ** AMPLE Linkedin profile elaboration
-SCHEDULED: <2024-04-15 Mon>
+SCHEDULED: <2024-04-16 Tue>
 Manual's studying
 
 * Leasure
