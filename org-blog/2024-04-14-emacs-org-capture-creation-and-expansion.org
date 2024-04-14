@@ -1,0 +1,23 @@
+#+BEGIN_EXPORT html
+---
+layout: page
+title: Org-capture creation and expansion in Emacs
+tagline: " how to take notes quickly and efficiently"
+permalink: /emacs/org-mode/org-capture-creation-and-expansion.html
+categories: [emacs, org-mode, org-capture]
+tags: [emacs, org-mode, org-capture]
+---
+#+END_EXPORT
+
+#+STARTUP: showall indent
+#+OPTIONS: tags:nil num:nil \n:nil @:t ::t |:t ^:{} _:{} *:t
+#+TOC: headlines 2
+#+PROPERTY:header-args :results output :exports both :eval no-export
+
+* Preamble
+
+* Org-capture how the main tool for gathering your ideas and notes
+
+* Org-capture templates
+
+* Move org-capture templates in a separate file
