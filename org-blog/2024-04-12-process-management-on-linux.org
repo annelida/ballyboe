@@ -87,7 +87,20 @@ Command: Command used to activate the process;
 
 ** The =htop=
 It is similar to top, but allows you to scroll vertically and
-horizontally and use functional keys.
+horizontally and use the functional keys.
+
+#+begin_example
+F3, /
+Incrementally search the command lines of all the displayed processes.
+The currently selected (highlighted) command will update as you type.
+While in search mode, pressing F3 will cycle through matching
+occurrences.
+
+F4, \
+Incremental process filtering: type in part of a process command line
+and only processes whose names match will be shown. To cancel filtering,
+enter the Filter option again and press Esc.
+#+end_example
 
 ** ps (Process Status) command
 
@@ -142,5 +155,39 @@ running, you can also use it to list all the processes.
 #+begin_src sh
 ps -A
 #+end_src
+
+You can use =ps aux= to get more in-depth information about your
+running processes.
+
+- a option outputs all running processes of all users in the system;
+- u option provides additional information like memory and CPU usage
+  percentage, the process state code, and the owner of the processes;
+- x option lists all processes not executed from the terminal. A
+  perfect example of this are daemons, which are system-related
+  processes that run in the background when the system is booted up.
+
+  #+begin_src sh
+    ps -aux | grep ssh
+  #+end_src
+
+  #+RESULTS:
+  : alioth      1793  0.0  0.0  88372  4408 ?        Ssl  Mar05   0:00 /usr/libexec/gcr-ssh-agent /run/user/1000/gcr
+  : alioth      1795  0.0  0.0   7800  1876 ?        Ss   Mar05   0:00 ssh-agent -D -a /run/user/1000/openssh_agent
+  : vikky     904481  0.0  0.0  88372  4700 ?        Ssl  Mar29   0:00 /usr/libexec/gcr-ssh-agent /run/user/1001/gcr
+  : vikky     904485  0.0  0.0   7800  2636 ?        Ss   Mar29   0:00 ssh-agent -D -a /run/user/1001/openssh_agent
+  : vikky    1079495  0.0  0.0   7800  2928 ?        S    Apr03   0:00 /usr/bin/ssh-agent -D -a /run/user/1001/keyring/.ssh
+  : root     1399815  0.0  0.0  15412  7160 ?        Ss   Apr13   0:00 sshd: /usr/sbin/sshd -D [listener] 0 of 10-100 startups
+  : vikky    1437823  0.0  0.0   6472  2080 ?        S    07:33   0:00 grep ssh
+
+  #+begin_src sh
+    ps -aux | grep sshd
+  #+end_src
+
+  #+RESULTS:
+  : root     1399815  0.0  0.0  15412  7160 ?        Ss   Apr13   0:00 sshd: /usr/sbin/sshd -D [listener] 0 of 10-100 startups
+  : vikky    1442624  0.0  0.0   6472  2132 ?        S    08:44   0:00 grep sshd
+
+
+** SSH port
 
 #+end_quote
