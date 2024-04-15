@@ -59,6 +59,11 @@ processes. These two commands are =Top= and =Ps=.
   top
 #+end_src
 
+#+CAPTION: The =top= command presentation
+#+ATTR_HTML: :title The =top= command execution :align right :width 300px
+[[https://github.com/annelida/annelida.github.io/blob/main/assets/img/top_command.png]]
+
+
 PID: Unique Process ID given to each process;
 User: Username of the process owner;
 PR: Priority given to a process while scheduling;
