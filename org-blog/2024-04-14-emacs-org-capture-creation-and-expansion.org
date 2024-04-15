@@ -16,8 +16,79 @@ tags: [emacs, org-mode, org-capture]
 
 * Preamble
 
+While working on articles, I often need to collect material from many
+different sources. To perform this task efficiently I use org-capture.
+
 * Org-capture how the main tool for gathering your ideas and notes
 
 * Org-capture templates
 
+#+begin_src elisp
+(setq org-capture-templates
+      '(
+	("n" "Notes");; <-- prefix key for notes
+	;; For the crude notes only:
+	("nf" "Fleeting" entry (file+headline
+			"~/git/annelida/ballyboe/bookworm/agenda/main.list" "Notes")
+	 "* RAW %?%i"
+	 :immediate-finish 1
+	 :empty-lines-after 1)
+	;;
+        ))
+#+end_src
+
 * Move org-capture templates in a separate file
+
+At first, I must to create the file for org-capture templates
+
+#+begin_src sh
+  cd ~/git/annelida/ballyboe/Dell
+  touch org-capture-templates.el
+  ls
+#+end_src
+
+#+RESULTS:
+: init.el
+: init.el~
+: key-chords.el~
+: org-capture-templates.el
+
+When, create a soft link to these file
+
+#+begin_src sh
+  cd ~/.emacs.d
+  ln -s ~/git/annelida/ballyboe/Dell/org-capture-templates.el
+  ls -la
+#+end_src
+
+#+RESULTS:
+#+begin_example
+total 40
+drwx------  8 vikky vikky 4096 Apr 15 08:56 .
+drwx------ 18 vikky vikky 4096 Apr 14 08:47 ..
+drwx------  2 vikky vikky 4096 Apr  8 11:39 auto-save-list
+lrwxrwxrwx  1 vikky vikky   48 Apr 11 09:26 bookmarks -> /home/vikky/git/annelida/ballyboe/Dell/bookmarks
+drwxr-xr-x  4 vikky vikky 4096 Dec 18 12:22 eln-cache
+drwxr-xr-x  4 vikky vikky 4096 Apr  9 16:03 elpa
+lrwxrwxrwx  1 vikky vikky   46 Apr  3 11:44 init.el -> /home/vikky/git/annelida/ballyboe/Dell/init.el
+lrwxrwxrwx  1 vikky vikky   56 Apr  5 09:53 key-chords.el -> /home/vikky/git/annelida/ballyboe/bookworm/key-chords.el
+lrwxrwxrwx  1 vikky vikky   63 Apr 15 08:56 org-capture-templates.el -> /home/vikky/git/annelida/ballyboe/Dell/org-capture-templates.el
+-rw-r--r--  1 vikky vikky  324 Apr 15 08:41 .org-id-locations
+drwxr-xr-x  2 vikky vikky 4096 Apr 15 07:18 request
+-rw-r--r--  1 vikky vikky    0 Dec  8 13:55 session.10e18d78e5f9d79e92170204330881657300001006640073
+drwxr-xr-x  2 vikky vikky 4096 Apr  8 11:38 transient
+drwxr-xr-x  3 vikky vikky 4096 Apr 15 07:37 url
+#+end_example
+
+Add to =init.el= the load path to org-capture-templates.el
+
+#+begin_src elisp
+;; Org-capture templates in a separate file:
+(load "/home/vikky/.emacs.d/org-capture-templates.el")
+#+end_src
+
+
+
+
+
+

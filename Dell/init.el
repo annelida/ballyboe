@@ -59,6 +59,10 @@
 ;;
 ;;======================================================
 
+;; Org-capture templates in a separate file:
+(load "/home/vikky/.emacs.d/org-capture-templates.el")
+;;
+
 (setq org-confirm-babel-evaluate nil)
 
 ;; Programming languages for Babel
