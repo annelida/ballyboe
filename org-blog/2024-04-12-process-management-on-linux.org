@@ -21,15 +21,19 @@ A process in Linux is nothing but a program in execution. It’s a
 running instance of a program. Any command that you execute starts a
 process.
 
+Occasionally processes may consume a lot of resources and need to be
+killed. Alternatively, times when you may want to change the priority
+level of a process, so the system will allocate more resources to it.
+All these tasks require you to do the same thing: listing the running
+processes on Linux.
+
 ** Types of processes in Linux
 
-Foreground Processes:
-depend on the user for input
-also referred to as interactive processes;
+Foreground Processes - depend on the user for input also referred to
+as interactive processes;
 
-Background Processes:
-run independently of the user
-referred to as non-interactive or automatic processes.
+Background Processes - run independently of the user referred to as
+non-interactive or automatic processes.
 
 ** Process states in Linux
 
@@ -51,8 +55,8 @@ still present in the table.
 
 ** Commands for Process Management in Linux
 
-There are two commands available in Linux to track running
-processes. These two commands are =Top= and =Ps=.
+There are several commands available in Linux to track running
+processes. These commands are =Top=, =htop= and =ps=.
 
 ** The =top= command for mananging Linux processes
 #+begin_src sh
