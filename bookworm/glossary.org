@@ -516,3 +516,75 @@ being under the direct control of an interactive use.
 
 Is the daemon program for ssh.
 
+** Python
+
+Is an interpreted, object-oriented, high-level programming language
+with dynamic semantics.
+
+** Interpreted PL
+
+Is a type of programming language is executed line by line, rather
+than being compiled into machine code before execution. In an
+interpreted language, the source code is read and executed by an
+interpreter, which translates each line of code into machine code on
+the fly.
+
+** Object-oriented PL
+
+Is a programming paradigm based on the concept of "objects", which may
+contain data, in the form of fields, often known as attributes; and
+code, in the form of procedures, often known as methods. For example,
+a person is an object which has certain properties such as height,
+gender, age, etc
+
+** High-level PL
+
+Is a programming language with strong abstraction from the details of
+the computer. In contrast to low-level programming languages, it may
+use natural language elements, be easier to use, or may automate
+significant areas of computing systems, making the process of
+developing a program simpler and more understandable than when using a
+lower-level language.
+
+** General-purpose PL
+
+Is a programming language for building software in a wide variety of
+application domains.
+
+Python is a general-purpose language. It means that you can use Python
+in various domains including: Web applications, Big data applications,
+Testing, Automation, Data science, machine learning, and AI, Desktop
+software, Mobile apps.
+
+** Dynamically typed PL
+
+Is a general technique for solving optimization, search and counting
+problems that can be decomposed into subproblems which are then each
+solved individually.
+
+** Garbage-collected PL
+
+A GC-enabled programming language includes one or more garbage
+collectors (GC engines) that automatically free up memory space that
+has been allocated to objects no longer needed by the program.
+
+** Programming paradigm
+
+Is an approach to solve a problem using some programming language or
+tools and techniques.
+
+** Structured programming
+
+Is a programming paradigm aimed at improving the clarity, quality, and
+development time of a computer program by making extensive use of the
+structured control flow constructs of selection (if/then/else) and
+repetition (while and for), block structures, and subroutines.
+
+
+** Functional programming
+
+Is a programming paradigm where programs are constructed by applying
+and composing functions.
+
+** Dynamic semantics
+
