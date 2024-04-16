@@ -1,9 +1,9 @@
 #+BEGIN_EXPORT html
 ---
 layout: page
-title: Process management on Linux
-tagline: " how it organized"
-permalink: /linux/debian12/process-management-on-linux.html
+title: Linux Process Management
+tagline: " how it works"
+permalink: /linux/debian12/process-management-in-linux.html
 categories: [Debian12, Process Management]
 tags: [linux, process-management]
 ---
@@ -35,7 +35,7 @@ as interactive processes;
 Background Processes - run independently of the user referred to as
 non-interactive or automatic processes.
 
-** Process states in Linux
+** Process' states in Linux
 
 Running:
 A process in running state means that it is running or it’s
