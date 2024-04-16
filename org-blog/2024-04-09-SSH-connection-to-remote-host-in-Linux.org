@@ -1,7 +1,7 @@
 #+BEGIN_EXPORT html
 ---
 layout: page
-title: SSH connection into a remote host in Linux
+title: SSH connection to a remote host in Linux
 tagline: " how it works"
 permalink: /linux/debian/SSH-connection.html
 categories: [Linux, Debian12, SSH]
@@ -18,14 +18,22 @@ tags: [Linux, Debian12, ssh]
 
 * Introduction
 
- ssh (SSH client) is a program for logging into a remote machine and
- for executing commands on a remote machine. It is intended to
- provide secure encrypted communications between two untrusted
- hosts over an insecure network.
+ *ssh (SSH client)* is a program for logging into a remote machine and
+ for executing commands on a remote machine. It is intended to provide
+ secure encrypted communications between two untrusted hosts over an
+ insecure network.
+
+ SSH works by connecting a client program to an ssh server, called
+ sshd.
+
+ *sshd (OpenSSH Daemon)* is the daemon program for ssh. It provides
+ secure encrypted communications between two untrusted hosts over an
+ insecure network.
 
  When a secure SSH connection is established, a shell session
  starts. It enables manipulating the remote machine (server) by typing
  commands within the client on your local computer.
+
 
 * Prerequisites
 
@@ -44,19 +52,44 @@ SCHEDULED: <2024-04-16 Tue>
 :PROPERTIES:
 :CATEGORY: Linux
 :END:
+:LOGBOOK:
+CLOCK: [2024-04-16 Tue 09:16]--[2024-04-16 Tue 10:08] =>  0:52
+:END:
 
 #+begin_src sh
-  ssh [username]@[host_ip_address]
+  ssh UserName@IPAddressOrHostname
 #+end_src
 
 * How to verify that SSH server is running
 
 #+begin_src sh
-  ps -aux | grep ssh
+  ps -aux | grep sshd
 #+end_src
 
-You can manually start it by running
+or
 
 #+begin_src sh
-  sudo service sshd start
+  systemctl status ssh
 #+end_src
+
+
+The process needed to start an ssh server depends on the distribution
+of Linux that you are using. In Debian12 you can manually start it by
+running:
+
+#+begin_src sh
+  sudo service ssh start
+#+end_src
+
+To stop the SSH host server, enter the following:
+
+#+begin_src 
+  sudo service ssh stop
+#+end_src
+
+* SSH port
+
+SSH, by default, is configured to use port 22 for remote
+communication. Note that it’s possible to configure a different port
+for SSH.
+
