@@ -120,7 +120,7 @@ After that you can commit the changes and try to push it using Magit.
 * Create list packages that need to be installed in Emacs
 
 * [#C] Migration sequence description
-SCHEDULED: <2024-04-17 Wed>
+SCHEDULED: <2024-04-18 Thu>
 :LOGBOOK:
 CLOCK: [2024-04-03 Wed 09:17]--[2024-04-03 Wed 10:13] =>  0:56
 CLOCK: [2024-04-02 Tue 10:29]--[2024-04-02 Tue 11:45] =>  1:16
@@ -220,10 +220,13 @@ Evaluate the region. Try to create weekly agenda by completing =M-x
 org-agenda= command.
 
 ** RAW [#A] Org-babel variables customization 
-SCHEDULED: <2024-04-18 Thu ++1d>
+SCHEDULED: <2024-04-21 Sun ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-04-11 Thu 18:50]
+:LAST_REPEAT: [2024-04-17 Wed 19:24]
 :END:
+- State "AMPLE"      from "RAW"        [2024-04-17 Wed 19:24]
+- State "AMPLE"      from "TODO"       [2024-04-17 Wed 19:24]
+- State "AMPLE"      from "TODO"       [2024-04-17 Wed 19:22]
 - State "AMPLE"      from "RAW"        [2024-04-11 Thu 18:50]
 - State "AMPLE"      from "INIT"       [2024-04-11 Thu 18:50]
 - State "AMPLE"      from "RAW"        [2024-04-11 Thu 18:50]
@@ -256,6 +259,51 @@ evaluate the code.
   (org-babel-do-load-languages
   'org-babel-load-languages '((python . t) (emacs-lisp . t) (shell . t) (sqlite . t)))
 #+end_src
+
+** Bookmarks+ customization
+
+  Copy file =bookmark+= from git/annelida/ballyboe/bookworm to
+  git/annelida/ballyboe/Dell
+
+  #+begin_src sh
+    cd ~/git/annelida/ballyboe/bookworm
+    cp bookmarks ~/git/ballyboe/Dell
+    cd ~/git/ballyboe/Dell
+    ls
+  #+end_src
+
+  #+RESULTS:
+  | agenda        |
+  | bookmarks     |
+  | drills.org    |
+  | glossary.org  |
+  | index.org     |
+  | key-chords.el |
+
+  Make soft link from ~/.emacs.d foler to =bookmark+= file.
+
+  #+begin_src sh
+    cd ~/.emacs.d
+    ln -s ~/git/annelida/ballyboe/Dell/bookmarks
+    ls -la
+  #+end_src
+
+  #+RESULTS:
+  | total      | 28 |       |       |      |     |    |       |                                                          |    |                                                          |
+  | drwx------ |  7 | vikky | vikky | 4096 | Apr | 11 | 09:26 | .                                                        |    |                                                          |
+  | drwx------ | 18 | vikky | vikky | 4096 | Apr |  9 | 15:05 | ..                                                       |    |                                                          |
+  | drwx------ |  2 | vikky | vikky | 4096 | Apr |  8 | 11:39 | auto-save-list                                           |    |                                                          |
+  | lrwxrwxrwx |  1 | vikky | vikky |   48 | Apr | 11 | 09:26 | bookmarks                                                | -> | /home/vikky/git/annelida/ballyboe/Dell/bookmarks         |
+  | drwxr-xr-x |  4 | vikky | vikky | 4096 | Dec | 18 | 12:22 | eln-cache                                                |    |                                                          |
+  | drwxr-xr-x |  4 | vikky | vikky | 4096 | Apr |  9 | 16:03 | elpa                                                     |    |                                                          |
+  | lrwxrwxrwx |  1 | vikky | vikky |   46 | Apr |  3 | 11:44 | init.el                                                  | -> | /home/vikky/git/annelida/ballyboe/Dell/init.el           |
+  | lrwxrwxrwx |  1 | vikky | vikky |   56 | Apr |  5 | 09:53 | key-chords.el                                            | -> | /home/vikky/git/annelida/ballyboe/bookworm/key-chords.el |
+  | drwxr-xr-x |  2 | vikky | vikky | 4096 | Apr |  9 | 07:38 | request                                                  |    |                                                          |
+  | -rw-r--r-- |  1 | vikky | vikky |    0 | Dec |  8 | 13:55 | session.10e18d78e5f9d79e92170204330881657300001006640073 |    |                                                          |
+  | drwxr-xr-x |  2 | vikky | vikky | 4096 | Apr |  8 | 11:38 | transient                                                |    |                                                          |
+
+  Test how Bookmarks+ works in Emacs
+
 
 
 
