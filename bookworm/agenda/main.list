@@ -182,7 +182,7 @@ CLOCK: [2024-03-05 Tue 10:30]--[2024-03-05 Tue 13:41] =>  3:11
 :END:
 [https://www.bbc.co.uk/learningenglish/english/course/lower-intermediate/unit-4/session-2/activity-4]
 ***** 'Have to' and 'must'
-SCHEDULED: <2024-04-17 Wed ++2w>
+SCHEDULED: <2024-04-18 Thu ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-03-27 Wed 18:26]
 :END:
@@ -197,7 +197,7 @@ CLOCK: [2024-03-07 Thu 10:57]--[2024-03-07 Thu 11:33] =>  0:36
 SCHEDULED: <2024-03-13 Wed ++2w>
 [https://www.bbc.co.uk/learningenglish/english/course/lower-intermediate/unit-6/session-2/activity-5]
 ***** Past simple and Past continuous
-SCHEDULED: <2024-04-17 Wed ++2w>
+SCHEDULED: <2024-04-18 Thu ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-03-19 Tue 17:31]
 :END:
@@ -207,7 +207,7 @@ CLOCK: [2024-03-19 Tue 12:02]--[2024-03-19 Tue 17:30] =>  5:28
 :END:
 [https://www.bbc.co.uk/learningnglish/english/course/lower-intermediate/unit-7/session-2/activity-4]
 ***** Articles
-SCHEDULED: <2024-04-17 Wed ++2w>
+SCHEDULED: <2024-04-18 Thu ++2w>
 :LOGBOOK:
 CLOCK: [2024-04-09 Tue 06:12]--[2024-04-09 Tue 06:33] =>  0:21
 :END:
@@ -280,7 +280,7 @@ SCHEDULED: <2024-04-23 Tue ++1w>
 CLOCK: [2023-12-19 Tue 09:18]--[2023-12-19 Tue 09:22] =>  0:04
 :END:
 *** MAN free
-SCHEDULED: <2024-04-18 Thu ++1w>
+SCHEDULED: <2024-04-22 Mon ++1w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-01-11 Thu 16:04]
 :END:
@@ -451,7 +451,7 @@ cat /etc/os-release
 : SUPPORT_URL="https://www.debian.org/support"
 : BUG_REPORT_URL="https://bugs.debian.org/"
 
-*** AMPLE [#B] Windows and Workspaces
+*** [#B] Windows and Workspaces
 SCHEDULED: <2024-04-18 Thu>
 :PROPERTIES:
 :CATEGORY: GNOME
@@ -533,8 +533,8 @@ SCHEDULED: <2024-04-10 Wed>
 CLOCK: [2024-04-09 Tue 10:00]--[2024-04-09 Tue 10:42] =>  0:42
 CLOCK: [2024-04-09 Tue 09:03]--[2024-04-09 Tue 09:36] =>  0:33
 :END:
-*** [#A] Article about process management on Linux
-SCHEDULED: <2024-04-17 Wed>
+*** [#B] Article about process management on Linux
+SCHEDULED: <2024-04-18 Thu>
 - Note taken on [2024-04-13 Sat 17:26] \\
   How to check is the SSHd process running?
   Which protocol it is listening if running?
@@ -546,7 +546,7 @@ CLOCK: [2024-04-12 Fri 09:30]--[2024-04-12 Fri 10:42] =>  1:12
 :END:
 [[file:~/git/annelida/ballyboe/org-blog/2024-04-12-process-management-on-linux.org::*Introduction][Introduction]]
 *** [#A] Article about Linux file system structure
-SCHEDULED: <2024-04-17 Wed>
+SCHEDULED: <2024-04-18 Thu>
 
 [[file:~/git/annelida/ballyboe/org-blog/2024-04-12-linux-file-system-structure.org::*Overview][Overview]]
 
@@ -764,13 +764,15 @@ CLOCK: [2024-04-10 Wed 07:49]--[2024-04-10 Wed 09:00] =>  1:11
 :END:
 ** Python
 *** [#A] Python documentation studying
-SCHEDULED: <2024-04-17 Wed ++1d>
+SCHEDULED: <2024-04-18 Thu ++1d>
 :PROPERTIES:
 :CATEGORY: Python
-:LAST_REPEAT: [2024-04-16 Tue 08:49]
+:LAST_REPEAT: [2024-04-17 Wed 19:20]
 :END:
+- State "AMPLE"      from ""           [2024-04-17 Wed 19:20]
 - State "AMPLE"      from ""           [2024-04-16 Tue 08:49]
 :LOGBOOK:
+CLOCK: [2024-04-17 Wed 07:01]--[2024-04-17 Wed 08:19] =>  1:18
 CLOCK: [2024-04-16 Tue 07:23]--[2024-04-16 Tue 08:38] =>  1:15
 :END:
 *** AMPLE Venvs decluttering and reorder
@@ -1274,7 +1276,7 @@ To find multiple elements (these methods will return a list):
 - State "DONE"       from "ACTIVE"     [2023-11-16 Thu 09:23]
 
 *** RAW [#A] Testing in Python
-SCHEDULED: <2024-04-18 Thu>
+SCHEDULED: <2024-04-24 Wed>
 :PROPERTIES:
 :CATEGORY: Python
 :END:
@@ -1546,7 +1548,7 @@ SCHEDULED: <2024-04-23 Tue ++2w>
 CLOCK: [2024-01-12 Fri 10:28]--[2024-01-12 Fri 11:01] =>  0:33
 :END:
 *** [#A] UnitTest *info* studying
-SCHEDULED: <2024-04-18 Thu>
+SCHEDULED: <2024-04-23 Tue>
 :PROPERTIES:
 :CATEGORY: Python
 :END:
@@ -1582,7 +1584,7 @@ SCHEDULED: <2024-05-15 Wed ++2w>
 
 *** Window Registers
 *** [#C] Bookmarks+ customization
-SCHEDULED: <2024-04-17 Wed>
+SCHEDULED: <2024-04-18 Thu>
 :PROPERTIES:
 :CATEGORY: Emacs
 :LAST_REPEAT: [2024-01-29 Mon 15:54]
@@ -1634,6 +1636,7 @@ SCHEDULED: <2024-04-17 Wed>
 - Note taken on [2024-01-10 Wed 10:17] \\
   [[https://www.emacswiki.org/emacs/BookmarkPlus#h5o-3]]
 :LOGBOOK:
+CLOCK: [2024-04-17 Wed 10:06]--[2024-04-17 Wed 10:32] =>  0:26
 CLOCK: [2024-04-11 Thu 08:59]--[2024-04-11 Thu 09:13] =>  0:14
 CLOCK: [2024-04-10 Wed 10:42]--[2024-04-10 Wed 12:03] =>  1:21
 CLOCK: [2024-01-10 Wed 10:03]--[2024-01-10 Wed 10:17] =>  0:14
@@ -1707,7 +1710,7 @@ CLOCK: [2024-02-09 Fri 10:59]--[2024-02-09 Fri 11:46] =>  0:47
 :END:
 [[info:emacs#Regexps][emacs#Regexps]]
 **** DELAY Emacs Tramp mode
-SCHEDULED: <2024-04-18 Thu>
+SCHEDULED: <2024-04-25 Thu>
 :PROPERTIES:
 :CATEGORY: Emacs
 :END:
@@ -1859,7 +1862,7 @@ CLOCK: [2024-04-11 Thu 12:41]--[2024-04-11 Thu 12:51] =>  0:10
 ** Org-mode
 
 ***** DELAY [#B] Org-mode, org-babel markup rules
-SCHEDULED: <2024-04-18 Thu ++2w>
+SCHEDULED: <2024-04-26 Fri ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-01-29 Mon 15:59]
 :END:
@@ -1933,8 +1936,8 @@ CLOCK: [2023-11-28 Tue 08:00]--[2023-11-28 Tue 08:58] =>  0:58
 https://orgmode.org/worg/org-contrib/org-drill.html
 https://orgmode.org/worg/org-contrib/org-drill.html#org51fd4f9
 
-***** [#A] Org-capture templates usage
-SCHEDULED: <2024-04-17 Wed>
+***** [#B] Org-capture templates usage
+SCHEDULED: <2024-04-18 Thu>
 [[file:~/git/annelida/ballyboe/org-blog/2024-04-14-emacs-org-capture-creation-and-expansion.org::*Preamble][Org-capture creation and expansion]]
 
 :PROPERTIES:
@@ -1982,7 +1985,8 @@ SCHEDULED: <2024-04-17 Wed>
 - State "DONE"       from "Active"     [2023-12-13 Wed 17:47]
 - State "DONE"       from "Active"     [2023-12-04 Mon 11:20]
 :LOGBOOK:
-CLOCK: [2024-04-16 Tue 10:08]
+CLOCK: [2024-04-17 Wed 08:49]--[2024-04-17 Wed 10:06] =>  1:17
+CLOCK: [2024-04-16 Tue 10:08]--[2024-04-16 Tue 10:28] =>  0:20
 CLOCK: [2024-04-15 Mon 10:25]--[2024-04-15 Mon 11:10] =>  0:45
 CLOCK: [2024-04-15 Mon 08:43]--[2024-04-15 Mon 10:24] =>  1:41
 CLOCK: [2024-04-14 Sun 08:55]--[2024-04-14 Sun 10:11] =>  1:16
