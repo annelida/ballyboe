@@ -48,7 +48,7 @@ tags: [Linux, Debian12, ssh]
 - You must to know user's name and password for logging.
 
 * [#B] How to Connect via SSH
-SCHEDULED: <2024-04-17 Wed>
+SCHEDULED: <2024-04-18 Thu>
 :PROPERTIES:
 :CATEGORY: Linux
 :END:
@@ -92,4 +92,6 @@ To stop the SSH host server, enter the following:
 SSH, by default, is configured to use port 22 for remote
 communication. Note that it’s possible to configure a different port
 for SSH.
+
+* Notes
 
