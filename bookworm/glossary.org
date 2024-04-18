@@ -586,5 +586,19 @@ repetition (while and for), block structures, and subroutines.
 Is a programming paradigm where programs are constructed by applying
 and composing functions.
 
+** Semantic
+
+Is the study of linguistic meaning. It examines what meaning is, how
+words get their meaning, and how the meaning of complex expression
+depends on its parts. It treats the meaning of sentence as its
+potential to update a context.
+
 ** Dynamic semantics
+
+The type of variable is determined only during run time.
+
+** Binary
+
+Describes a numbering scheme in which there are onle two possibble
+values for each digit - 0 or 1.
 
