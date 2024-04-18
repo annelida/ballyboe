@@ -23,19 +23,57 @@ different sources. To perform this task efficiently I use org-capture.
 
 * Org-capture templates
 
+You can use templates for different types of capture items, and for
+different target locations.
+
+The template bellow takes selected note, places it under the "Notes"
+heading in my agenda-file with name =main.list= and converts it into a
+task with status "RAW".
+
 #+begin_src elisp
-(setq org-capture-templates
-      '(
-	("n" "Notes");; <-- prefix key for notes
-	;; For the crude notes only:
-	("nf" "Fleeting" entry (file+headline
-			"~/git/annelida/ballyboe/bookworm/agenda/main.list" "Notes")
-	 "* RAW %?%i"
-	 :immediate-finish 1
-	 :empty-lines-after 1)
-	;;
-        ))
+  (setq org-capture-templates
+        '(
+          ("n" "Notes");; <-- prefix key for notes
+          ;; For the crude notes only:
+          ("nf" "Fleeting" entry (file+headline
+                          "~/git/annelida/ballyboe/bookworm/agenda/main.list"
+                          "Notes")
+           "* RAW %?%i"
+           :immediate-finish 1
+           :empty-lines-after 1)
+          ;;
+          ))
 #+end_src
+
+#+begin_example
+("n" "Notes")
+#+end_example
+
+key - the keys that selects the template, as a string, characters
+only. ="n"= to be selected with a single key or ="nf"= for selection
+with two keys.
+
+Description - a short string describing the template, shown during
+selection.
+
+type - the type of entry. ~‘entry’~ - an Org mode node, with a
+headline. Will be filed as the child of the target entry or as a
+top-level entry. The target file should be an Org file.
+
+target - specification of where the captured item should be placed.
+~‘(file+headline "filename" "node headline")’~
+
+~‘:immediate-finish’~ when set, do not offer to edit the information,
+just file it away immediately.
+
+~‘:empty-lines-after’~ set this to the number of lines that should be
+inserted after he new item.
+
+~‘%i’~ initial content, the region when capture is called while the
+region is active.
+
+~‘%?’~ after completing the template, position point here.
+
 
 * Move org-capture templates in a separate file
 
