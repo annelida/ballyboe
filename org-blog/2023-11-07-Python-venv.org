@@ -17,122 +17,149 @@ tags: [tutorial, virtualenv, methodology]
 
 ** Purpose and intention
 
+#+begin_quote
+A Python Virtual Environment is an isolated space where you can work
+on your Python projects, separately from your system-installed
+Python. You can set up your own libraries and dependencies without
+affecting the system Python.
+#+end_quote
+
+#+begin_quote
+Software portability is a design objective for source code to be
+easily made to run on different platforms. An aid to portability is
+the generalized abstraction between the application logic and system
+interfaces.
+#+end_quote
+
+#+begin_quote
+Software reproducibility here means the ability for someone to
+replicate a computational experiment that was done by someone else,
+using the same software and data.
+#+end_quote
+
 For which purpose used =venv= whatsoever???
 
-* Existing Python environment
+The purpose of the Virtual environment is creation an isolated from
+the main operating system set of libraries that allow reproduce itself
+on other workstations and execute Python code in the same environment.
 
-#+begin_src sh
+
+* Pre-installed Python environment
+
+#+begin_src sh :results verbatim
   pip list
 #+end_src
 
 #+RESULTS:
-| Package               |        Version |
-| --------------------- | -------------- |
-| appdirs               |          1.4.4 |
-| asttokens             |          2.2.1 |
-| attrs                 |         22.2.0 |
-| backcall              |          0.2.0 |
-| beautifulsoup4        |         4.11.2 |
-| beniget               |          0.4.1 |
-| blinker               |            1.5 |
-| Brlapi                |          0.8.4 |
-| Brotli                |          1.0.9 |
-| certifi               |      2022.9.24 |
-| chardet               |          5.1.0 |
-| charset-normalizer    |          3.0.1 |
-| contourpy             |          1.0.7 |
-| cryptography          |         38.0.4 |
-| cupshelpers           |            1.0 |
-| cycler                |         0.11.0 |
-| dbus-python           |          1.3.2 |
-| decorator             |          5.1.1 |
-| devscripts            | 2.23.4+deb12u1 |
-| distlib               |          0.3.6 |
-| distro                |          1.8.0 |
-| distro-info           |    1.5+deb12u1 |
-| docstring-to-markdown |           0.11 |
-| executing             |          1.2.0 |
-| filelock              |          3.9.0 |
-| flake8                |          5.0.4 |
-| fonttools             |         4.38.0 |
-| fs                    |         2.4.16 |
-| gast                  |          0.5.2 |
-| gbp                   |         0.9.30 |
-| gpg                   |         1.18.0 |
-| html5lib              |            1.1 |
-| httplib2              |         0.20.4 |
-| idna                  |            3.3 |
-| ipython               |          8.5.0 |
-| jedi                  |         0.18.2 |
-| kiwisolver            |          0.0.0 |
-| lazr.restfulclient    |         0.14.5 |
-| lazr.uri              |          1.0.6 |
-| louis                 |         3.24.0 |
-| lxml                  |          4.9.2 |
-| lz4                   |     4.0.2+dfsg |
-| Mako                  |     1.2.4.dev0 |
-| Markdown              |          3.4.1 |
-| MarkupSafe            |          2.1.2 |
-| matplotlib            |          3.6.3 |
-| matplotlib-inline     |          0.1.6 |
-| mccabe                |          0.7.0 |
-| mpmath                |          0.0.0 |
-| numpy                 |         1.24.2 |
-| oauthlib              |          3.2.2 |
-| olefile               |           0.46 |
-| packaging             |           23.0 |
-| parso                 |          0.8.3 |
-| pbr                   |         5.10.0 |
-| pexpect               |          4.8.0 |
-| pickleshare           |          0.7.5 |
-| Pillow                |          9.4.0 |
-| pip                   |         23.0.1 |
-| platformdirs          |          2.6.0 |
-| pluggy                |   1.0.0+repack |
-| ply                   |           3.11 |
-| prompt-toolkit        |         3.0.36 |
-| ptyprocess            |          0.7.0 |
-| pure-eval             |          0.0.0 |
-| pycairo               |         1.20.1 |
-| pycodestyle           |         2.10.0 |
-| pycups                |          2.0.1 |
-| pyflakes              |          2.5.0 |
-| Pygments              |         2.14.0 |
-| PyGObject             |         3.42.2 |
-| PyJWT                 |          2.6.0 |
-| pyparsing             |          3.0.9 |
-| pysmbc                |         1.0.23 |
-| python-apt            |          2.6.0 |
-| python-dateutil       |          2.8.2 |
-| python-debian         |         0.1.49 |
-| python-lsp-jsonrpc    |          1.0.0 |
-| python-lsp-server     |          1.7.1 |
-| python-magic          |         0.4.26 |
-| pythran               |         0.11.0 |
-| pytz                  |       2022.7.1 |
-| pyxdg                 |           0.28 |
-| PyYAML                |            6.0 |
-| requests              |         2.28.1 |
-| scipy                 |         1.10.1 |
-| setuptools            |         66.1.1 |
-| six                   |         1.16.0 |
-| soupsieve             |          2.3.2 |
-| stack-data            |          0.6.2 |
-| stevedore             |          4.0.2 |
-| sympy                 |         1.11.1 |
-| traitlets             |          5.5.0 |
-| ufoLib2               |         0.14.0 |
-| ujson                 |          5.7.0 |
-| unidiff               |          0.7.3 |
-| urllib3               |        1.26.12 |
-| virtualenv            |     20.17.1+ds |
-| virtualenv-clone      |          0.3.0 |
-| virtualenvwrapper     |          4.8.4 |
-| wadllib               |          1.3.6 |
-| wcwidth               |          0.2.5 |
-| webencodings          |          0.5.1 |
-| wheel                 |         0.38.4 |
-| xdg                   |              5 |
+#+begin_example
+Package               Version
+--------------------- --------------
+appdirs               1.4.4
+asttokens             2.2.1
+attrs                 22.2.0
+backcall              0.2.0
+beautifulsoup4        4.11.2
+beniget               0.4.1
+blinker               1.5
+Brlapi                0.8.4
+Brotli                1.0.9
+certifi               2022.9.24
+chardet               5.1.0
+charset-normalizer    3.0.1
+contourpy             1.0.7
+cryptography          38.0.4
+cupshelpers           1.0
+cycler                0.11.0
+dbus-python           1.3.2
+decorator             5.1.1
+devscripts            2.23.4+deb12u1
+distlib               0.3.6
+distro                1.8.0
+distro-info           1.5+deb12u1
+docstring-to-markdown 0.11
+executing             1.2.0
+filelock              3.9.0
+flake8                5.0.4
+fonttools             4.38.0
+fs                    2.4.16
+gast                  0.5.2
+gbp                   0.9.30
+gpg                   1.18.0
+html5lib              1.1
+httplib2              0.20.4
+idna                  3.3
+ipython               8.5.0
+jedi                  0.18.2
+kiwisolver            0.0.0
+lazr.restfulclient    0.14.5
+lazr.uri              1.0.6
+louis                 3.24.0
+lxml                  4.9.2
+lz4                   4.0.2+dfsg
+Mako                  1.2.4.dev0
+Markdown              3.4.1
+MarkupSafe            2.1.2
+matplotlib            3.6.3
+matplotlib-inline     0.1.6
+mccabe                0.7.0
+mpmath                0.0.0
+numpy                 1.24.2
+oauthlib              3.2.2
+olefile               0.46
+packaging             23.0
+parso                 0.8.3
+pbr                   5.10.0
+pexpect               4.8.0
+pickleshare           0.7.5
+Pillow                9.4.0
+pip                   23.0.1
+platformdirs          2.6.0
+pluggy                1.0.0+repack
+ply                   3.11
+prompt-toolkit        3.0.36
+ptyprocess            0.7.0
+pure-eval             0.0.0
+pycairo               1.20.1
+pycodestyle           2.10.0
+pycups                2.0.1
+pyflakes              2.5.0
+Pygments              2.14.0
+PyGObject             3.42.2
+PyJWT                 2.6.0
+pyparsing             3.0.9
+pysmbc                1.0.23
+python-apt            2.6.0
+python-dateutil       2.8.2
+python-debian         0.1.49
+python-lsp-jsonrpc    1.0.0
+python-lsp-server     1.7.1
+python-magic          0.4.26
+pythran               0.11.0
+pytz                  2022.7.1
+pyxdg                 0.28
+PyYAML                6.0
+requests              2.28.1
+scipy                 1.10.1
+setuptools            66.1.1
+six                   1.16.0
+soupsieve             2.3.2
+stack-data            0.6.2
+stevedore             4.0.2
+sympy                 1.11.1
+traitlets             5.5.0
+ufoLib2               0.14.0
+ujson                 5.7.0
+unidiff               0.7.3
+urllib3               1.26.12
+virtualenv            20.17.1+ds
+virtualenv-clone      0.3.0
+virtualenvwrapper     4.8.4
+wadllib               1.3.6
+wcwidth               0.2.5
+webencodings          0.5.1
+wheel                 0.38.4
+xdg                   5
+#+end_example
 
 
 
