@@ -784,6 +784,19 @@ CLOCK: [2024-04-18 Thu 07:06]--[2024-04-18 Thu 08:45] =>  1:39
 CLOCK: [2024-04-17 Wed 07:01]--[2024-04-17 Wed 08:19] =>  1:18
 CLOCK: [2024-04-16 Tue 07:23]--[2024-04-16 Tue 08:38] =>  1:15
 :END:
+[[info:python3.11#The Python Tutorial][python3.11#The Python Tutorial]]
+[[info:python3.11#Whetting Your Appetite][python3.11#Whetting Your Appetite]]
+[[info:python3.11#Using the Python Interpreter][python3.11#Using the Python Interpreter]]
+[[info:python3.11#An Informal Introduction to Python][python3.11#An Informal Introduction to Python]]
+
+**** Python Setup and Usage
+SCHEDULED: <2024-04-21 Sun>
+[[info:python3.11#Python Setup and Usage][python3.11#Python Setup and Usage]]
+
+**** Python Language Reference
+SCHEDULED: <2024-04-22 Mon>
+[[info:python3.11#The Python Language Reference][python3.11#The Python Language Reference]]
+
 *** AMPLE Venvs decluttering and reorder
 SCHEDULED: <2024-02-22 Thu>
 :PROPERTIES:
