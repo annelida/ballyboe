@@ -191,9 +191,278 @@ wheel                 0.38.4
 xdg                   5
 #+end_example
 
+Without using VENV all packages that PIP installed are located in the
+folder /usr/lib/python3/dist-packages/
 
+#+begin_src sh :results verbatim
+tree -L 1 /usr/lib/python3/dist-packages/
+#+end_src
 
-* The main utility
+#+RESULTS:
+#+begin_example
+/usr/lib/python3/dist-packages/
+├── appdirs-1.4.4.egg-info
+├── appdirs.py
+├── apt
+├── apt_inst.cpython-311-x86_64-linux-gnu.so
+├── apt_inst-stubs
+├── apt_pkg.cpython-311-x86_64-linux-gnu.so
+├── apt_pkg-stubs
+├── aptsources
+├── asttokens
+├── asttokens-2.2.1.egg-info
+├── attr
+├── attrs
+├── attrs-22.2.0.dist-info
+├── backcall
+├── backcall-0.2.0.dist-info
+├── beautifulsoup4-4.11.2.egg-info
+├── beniget
+├── beniget-0.4.1.egg-info
+├── blinker
+├── blinker-1.5.dist-info
+├── Brlapi-0.8.4.egg-info
+├── brlapi.cpython-311-x86_64-linux-gnu.so
+├── Brotli-1.0.9.egg-info
+├── _brotli.cpython-311-x86_64-linux-gnu.so
+├── brotli.py
+├── bs4
+├── cairo
+├── certifi
+├── certifi-2022.9.24.egg-info
+├── _cffi_backend.cpython-311-x86_64-linux-gnu.so
+├── chardet
+├── chardet-5.1.0.dist-info
+├── charset_normalizer
+├── charset_normalizer-3.0.1.dist-info
+├── clonevirtualenv.py
+├── contourpy
+├── contourpy-1.0.7.dist-info
+├── cryptography
+├── cryptography-38.0.4.dist-info
+├── cryptography.egg-info
+├── cups.cpython-311-x86_64-linux-gnu.so
+├── cupshelpers
+├── cupshelpers-1.0-py3.10.egg-info
+├── cycler-0.11.0.egg-info
+├── cycler.py
+├── dateutil
+├── dbus
+├── _dbus_bindings.cpython-311-x86_64-linux-gnu.so
+├── _dbus_glib_bindings.cpython-311-x86_64-linux-gnu.so
+├── dbus_python-1.3.2.egg-info
+├── deb822.py
+├── debian
+├── debian_bundle
+├── decorator-5.1.1.egg-info
+├── decorator.py
+├── devscripts
+├── devscripts-2.23.4+deb12u1.egg-info
+├── distlib
+├── distlib-0.3.6.egg-info
+├── distro
+├── distro-1.8.0.dist-info
+├── distro_info-1.5+deb12u1.egg-info
+├── distro_info.py
+├── _distutils_hack
+├── distutils-precedence.pth
+├── docstring_to_markdown
+├── docstring_to_markdown-0.11.egg-info
+├── executing
+├── executing-1.2.0.dist-info
+├── filelock
+├── filelock-3.9.0.dist-info
+├── flake8
+├── flake8-5.0.4.egg-info
+├── fontTools
+├── fonttools-4.38.0.egg-info
+├── fs
+├── fs-2.4.16.egg-info
+├── gast
+├── gast-0.5.2.egg-info
+├── gbp
+├── gbp-0.9.30.egg-info
+├── gi
+├── gnome_browser_connector
+├── gnomemusic
+├── gpg
+├── gpg-1.18.0-py3.11.egg-info
+├── gtweak
+├── html5lib
+├── html5lib-1.1.egg-info
+├── httplib2
+├── httplib2-0.20.4.dist-info
+├── idna
+├── idna-3.3.egg-info
+├── IPython
+├── ipython-8.5.0.dist-info
+├── isympy.py
+├── jedi
+├── jedi-0.18.2.egg-info
+├── jwt
+├── kiwisolver
+├── kiwisolver-0.0.0.dist-info
+├── lazr
+├── lazr.restfulclient-0.14.5.egg-info
+├── lazr.uri-1.0.6.egg-info
+├── libvoikko.py
+├── louis
+├── louis-3.24.0.egg-info
+├── lxml
+├── lxml-4.9.2.egg-info
+├── lz4
+├── lz4-4.0.2+dfsg.egg-info
+├── magic
+├── mako
+├── Mako-1.2.4.dev0.egg-info
+├── markdown
+├── Markdown-3.4.1.egg-info
+├── markupsafe
+├── MarkupSafe-2.1.2.egg-info
+├── matplotlib
+├── matplotlib-3.6.3.egg-info
+├── matplotlib-3.6.3-nspkg.pth
+├── matplotlib_inline
+├── matplotlib_inline-0.1.6.egg-info
+├── mccabe-0.7.0.egg-info
+├── mccabe.py
+├── mpl_toolkits
+├── mpmath
+├── mpmath-0.0.0.egg-info
+├── numpy
+├── numpy-1.24.2.egg-info
+├── oauthlib
+├── oauthlib-3.2.2.egg-info
+├── olefile
+├── olefile-0.46.egg-info
+├── omp
+├── orca
+├── packaging
+├── packaging-23.0.dist-info
+├── parso
+├── parso-0.8.3.egg-info
+├── pbr
+├── pbr-5.10.0.egg-info
+├── pexpect
+├── pexpect-4.8.0.egg-info
+├── pickleshare-0.7.5.egg-info
+├── pickleshare.py
+├── PIL
+├── Pillow-9.4.0.egg-info
+├── pip
+├── pip-23.0.1.dist-info
+├── pkg_resources
+├── platformdirs
+├── platformdirs-2.6.0.dist-info
+├── pluggy
+├── pluggy-1.0.0+repack.egg-info
+├── ply
+├── ply-3.11.egg-info
+├── prompt_toolkit
+├── prompt_toolkit-3.0.36.egg-info
+├── ptyprocess
+├── ptyprocess-0.7.0.dist-info
+├── pure_eval
+├── pure_eval-0.0.0.dist-info
+├── pyatspi
+├── __pycache__
+├── pycairo-1.20.1.egg-info
+├── pycodestyle-2.10.0.egg-info
+├── pycodestyle.py
+├── pycups-2.0.1.egg-info
+├── pyflakes
+├── pyflakes-2.5.0.egg-info
+├── pygments
+├── Pygments-2.14.0.egg-info
+├── PyGObject-3.42.2.egg-info
+├── pygtkcompat
+├── PyJWT-2.6.0.egg-info
+├── pylab.py
+├── pylsp
+├── pylsp_jsonrpc
+├── pyparsing
+├── pyparsing-3.0.9.dist-info
+├── pysmbc-1.0.23.egg-info
+├── python_apt-2.6.0.egg-info
+├── python_dateutil-2.8.2.egg-info
+├── python_debian-0.1.49.egg-info
+├── python_lsp_jsonrpc-1.0.0.egg-info
+├── python_lsp_server-1.7.1.dist-info
+├── python_magic-0.4.26.egg-info
+├── pythran
+├── pythran-0.11.0.egg-info
+├── pytz
+├── pytz-2022.7.1.egg-info
+├── pyxdg-0.28.dist-info
+├── PyYAML-6.0.dist-info
+├── requests
+├── requests-2.28.1.egg-info
+├── scipy
+├── scipy-1.10.1.dist-info
+├── setuptools
+├── setuptools-66.1.1.egg-info
+├── six-1.16.0.egg-info
+├── six.py
+├── smbc
+├── _smbc.cpython-311-x86_64-linux-gnu.so
+├── softwareproperties
+├── soupsieve
+├── soupsieve-2.3.2.dist-info
+├── speechd
+├── speechd_config
+├── stack_data
+├── stack_data-0.6.2.dist-info
+├── stevedore
+├── stevedore-4.0.2.egg-info
+├── sympy
+├── sympy-1.11.1.egg-info
+├── traitlets
+├── traitlets-5.5.0.dist-info
+├── ufoLib2
+├── ufoLib2-0.14.0.dist-info
+├── ujson-5.7.0.egg-info
+├── ujson.cpython-311-x86_64-linux-gnu.so
+├── unidiff
+├── unidiff-0.7.3.egg-info
+├── unohelper.py
+├── uno.py
+├── urllib3
+├── urllib3-1.26.12.egg-info
+├── virtualenv
+├── virtualenv-20.17.1+ds.dist-info
+├── virtualenv_clone-0.3.0.egg-info
+├── virtualenvwrapper
+├── virtualenvwrapper-4.8.4.egg-info
+├── virtualenvwrapper-4.8.4-nspkg.pth
+├── wadllib
+├── wadllib-1.3.6.egg-info
+├── wcwidth
+├── wcwidth-0.2.5.egg-info
+├── webencodings
+├── webencodings-0.5.1.egg-info
+├── wheel
+├── wheel-0.38.4.egg-info
+├── xdg
+├── xdg-5.egg-info
+├── _yaml
+└── yaml
+
+209 directories, 37 files
+#+end_example
+
+** SYS.PATH != $PYTHONPATH
+
+Check up pristine =sys.path=:
+
+#+begin_src python :results output
+  import sys
+  print(sys.path)
+#+end_src
+
+#+RESULTS:
+: ['', '/usr/lib/python311.zip', '/usr/lib/python3.11', '/usr/lib/python3.11/lib-dynload', '/usr/local/lib/python3.11/dist-packages', '/usr/lib/python3/dist-packages', '/usr/lib/python3.11/dist-packages']
+
+** The main utility is
 
 Yes, it's possible to do it via python3 -m venv, but:
 #+begin_src sh
