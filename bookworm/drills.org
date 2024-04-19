@@ -675,6 +675,34 @@ SCHEDULED: <2024-02-16 Fri>
 Is an [open-source collection of APIs] that automates web application
 testing across different browsers using [different programming
 languages.]
+** Python Virtual Environment                                        :drill:
+   :PROPERTIES:
+   :DRILL_CARD_TYPE: hide2cloze
+   :END:
+[is an isolated space] where you can work on your Python projects,
+separately from your [system-installed Python]. You can [set up] your
+own [libraries and dependencies] without [affecting the system Python].
+** Software portability                                              :drill:
+   :PROPERTIES:
+   :DRILL_CARD_TYPE: hide2cloze
+   :END:
+is a [design objective] for source code to be [easily made] to run on
+[different platforms]. An aid to portability is the [generalized
+abstraction] between the [application logic] and [system interfaces].
+** Software reproducibility                                          :drill:
+   :PROPERTIES:
+   :DRILL_CARD_TYPE: hide2cloze
+   :END:
+here means the [ability] for someone to [replicate a computational
+experiment] that was done by someone else, using the [same software]
+and [data].
+** The purpose of the Virtual environment                            :drill:
+   :PROPERTIES:
+   :DRILL_CARD_TYPE: hide2cloze
+   :END:
+is creation an [isolated] from the main operating system [set of
+libraries] that allow [reproduce itself] on other workstations and
+[execute Python code] in the same environment.
 * Idioms
 * Quotes
 ** ==>                                                               :drill:
