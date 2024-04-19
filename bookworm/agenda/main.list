@@ -763,10 +763,18 @@ CLOCK: [2024-04-10 Wed 09:13]--[2024-04-10 Wed 09:20] =>  0:07
 CLOCK: [2024-04-10 Wed 07:49]--[2024-04-10 Wed 09:00] =>  1:11
 :END:
 ** Python
-*** [#A] Python documentation studying
-SCHEDULED: <2024-04-19 Fri ++1d>
 :PROPERTIES:
 :CATEGORY: Python
+:END:
+*** Documentation
+:PROPERTIES:
+:CATEGORY: Docs
+:LAST_REPEAT: [2024-04-17 Wed 19:20]
+:END:
+
+**** [#A] Tutorial
+SCHEDULED: <2024-04-20 Sat ++1d>
+:PROPERTIES:
 :LAST_REPEAT: [2024-04-17 Wed 19:20]
 :END:
 - State "AMPLE"      from ""           [2024-04-17 Wed 19:20]
@@ -786,9 +794,6 @@ CLOCK: [2024-02-22 Thu 07:22]--[2024-02-22 Thu 08:25] =>  1:03
 :END:
 *** AMPLE Interactive Python
 SCHEDULED: <2024-02-22 Thu>
-:PROPERTIES:
-:CATEGORY: Python
-:END:
 :LOGBOOK:
 CLOCK: [2024-02-22 Thu 09:45]--[2024-02-22 Thu 09:56] =>  0:11
 CLOCK: [2024-02-22 Thu 08:25]--[2024-02-22 Thu 08:28] =>  0:03
@@ -811,7 +816,6 @@ available in every Python installation.
 *** Python script
 SCHEDULED: <2024-04-24 Wed ++2w>
 :PROPERTIES:
-:CATEGORY: Python
 :LAST_REPEAT: [2024-03-05 Tue 18:42]
 :END:
 - State "AMPLE"      from ""           [2024-03-05 Tue 18:42]
@@ -2537,40 +2541,40 @@ CLOCK: [2024-01-04 Thu 12:11]--[2024-01-04 Thu 12:13] =>  0:02
   tag
   version
 * Work
+:PROPERTIES:
+:CATEGORY: Job
+:END:
+
 ** Interview Preparation
+SCHEDULED: <2024-04-20 Sat>
 ** Portfolio creation
+SCHEDULED: <2024-04-20 Sat>
 ** CV elaboration
-** AMPLE Upwork profile elaboration
-SCHEDULED: <2024-04-22 Mon>
+SCHEDULED: <2024-04-20 Sat>
+** RAW Upwork profile elaboration
+SCHEDULED: <2024-04-20 Sat>
 :LOGBOOK:
 CLOCK: [2024-04-09 Tue 17:37]--[2024-04-09 Tue 18:41] =>  1:04
 :END:
-
 Manual's  studying
-** [#A] Studying the requirement for testers on Upwork
-SCHEDULED: <2024-04-19 Fri>
-:PROPERTIES:
-:CATEGORY: WORK
-:END:
+** [#A] The requirements for testers at Upwork
+SCHEDULED: <2024-04-20 Sat>
 
-** AMPLE Linkedin profile elaboration
-SCHEDULED: <2024-04-22 Mon>
+** RAW Linkedin profile elaboration
+SCHEDULED: <2024-04-23 Tue>
 Manual's studying
 
-** [#A] Studying the requirement for testers on Linkedin
-SCHEDULED: <2024-04-19 Fri>
-:PROPERTIES:
-:CATEGORY: WORK
-:END:
+** LinkedIn member's manual
+SCHEDULED: <2024-04-20 Sat>
+
+** [#A] The requirements for testers at Linkedin
+SCHEDULED: <2024-04-20 Sat>
 :LOGBOOK:
 CLOCK: [2024-04-19 Fri 09:47]--[2024-04-19 Fri 10:03] =>  0:16
 :END:
 
-** [#A] View available job on Indeed
-SCHEDULED: <2024-04-19 Fri>
-:PROPERTIES:
-:CATEGORY: WORK
-:END:
+** Available jobs on Indeed
+SCHEDULED: <2024-04-20 Sat>
 :LOGBOOK:
 CLOCK: [2024-04-19 Fri 09:10]--[2024-04-19 Fri 09:47] =>  0:37
 :END:
@@ -2845,5 +2849,13 @@ CLOCK: [2024-02-21 Wed 07:45]--[2024-02-21 Wed 08:48] =>  1:03
 :END:
 [[file:~/git/ballyboe/org-blog/2024-02-12-What-is-CI-CD.org::*What is CI/CD?][What is CI/CD?]]
 [[https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions?learn=getting_started&learnProduct=actions]] 
+** RAW Tasks clarification
+** RAW [#C] Tasks clarification
+SCHEDULED: <2024-04-20 Sat>
+:LOGBOOK:
+CLOCK: [2024-04-19 Fri 16:21]--[2024-04-19 Fri 17:16] =>  0:55
+:END:
+** RAW [#C] Key-chord with y!!!
+SCHEDULED: <2024-04-20 Sat>
 
 * Personal
