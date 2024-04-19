@@ -1556,6 +1556,12 @@ SCHEDULED: <2024-04-23 Tue>
 :LOGBOOK:
 CLOCK: [2024-04-09 Tue 15:12]--[2024-04-09 Tue 15:41] =>  0:29
 :END:
+*** Trinity: PIP, PYTHONPATH, VENV
+SCHEDULED: <2024-04-19 Fri>
+:LOGBOOK:
+CLOCK: [2024-04-19 Fri 11:13]--[2024-04-19 Fri 11:53] =>  0:40
+:END:
+[[file:~/git/annelida/ballyboe/org-blog/2023-11-07-Python-venv.org::*Pre-installed Python environment][Python virtual environment]]
 ** Emacs
 SCHEDULED: <2024-04-23 Tue>
 :LOGBOOK:
@@ -2540,11 +2546,33 @@ CLOCK: [2024-04-09 Tue 17:37]--[2024-04-09 Tue 18:41] =>  1:04
 :END:
 
 Manual's  studying
-
+** [#A] Studying the requirement for testers on Upwork
+SCHEDULED: <2024-04-19 Fri>
+:PROPERTIES:
+:CATEGORY: WORK
+:END:
 
 ** AMPLE Linkedin profile elaboration
 SCHEDULED: <2024-04-22 Mon>
 Manual's studying
+
+** [#A] Studying the requirement for testers on Linkedin
+SCHEDULED: <2024-04-19 Fri>
+:PROPERTIES:
+:CATEGORY: WORK
+:END:
+:LOGBOOK:
+CLOCK: [2024-04-19 Fri 09:47]--[2024-04-19 Fri 10:03] =>  0:16
+:END:
+
+** [#A] View available job on Indeed
+SCHEDULED: <2024-04-19 Fri>
+:PROPERTIES:
+:CATEGORY: WORK
+:END:
+:LOGBOOK:
+CLOCK: [2024-04-19 Fri 09:10]--[2024-04-19 Fri 09:47] =>  0:37
+:END:
 
 * Leasure
 
