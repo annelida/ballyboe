@@ -58,8 +58,8 @@ SCHEDULED: <2024-05-14 Tue>
 ***** Org-Agenda as the Maain Tool
 features description
 ***** Task classification
-**** Article about brand-new task resolving
-SCHEDULED: <2024-04-19 Fri>
+**** [#A] Article about brand-new task resolving
+SCHEDULED: <2024-04-20 Sat>
 :LOGBOOK:
 CLOCK: [2024-04-12 Fri 07:12]--[2024-04-12 Fri 08:12] =>  1:00
 :END:
@@ -182,7 +182,7 @@ CLOCK: [2024-03-05 Tue 10:30]--[2024-03-05 Tue 13:41] =>  3:11
 :END:
 [https://www.bbc.co.uk/learningenglish/english/course/lower-intermediate/unit-4/session-2/activity-4]
 ***** 'Have to' and 'must'
-SCHEDULED: <2024-04-19 Fri ++2w>
+SCHEDULED: <2024-04-22 Mon ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-03-27 Wed 18:26]
 :END:
@@ -197,7 +197,7 @@ CLOCK: [2024-03-07 Thu 10:57]--[2024-03-07 Thu 11:33] =>  0:36
 SCHEDULED: <2024-03-13 Wed ++2w>
 [https://www.bbc.co.uk/learningenglish/english/course/lower-intermediate/unit-6/session-2/activity-5]
 ***** Past simple and Past continuous
-SCHEDULED: <2024-04-19 Fri ++2w>
+SCHEDULED: <2024-04-22 Mon ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-03-19 Tue 17:31]
 :END:
@@ -207,7 +207,7 @@ CLOCK: [2024-03-19 Tue 12:02]--[2024-03-19 Tue 17:30] =>  5:28
 :END:
 [https://www.bbc.co.uk/learningnglish/english/course/lower-intermediate/unit-7/session-2/activity-4]
 ***** Articles
-SCHEDULED: <2024-04-19 Fri ++2w>
+SCHEDULED: <2024-04-21 Sun ++2w>
 :LOGBOOK:
 CLOCK: [2024-04-09 Tue 06:12]--[2024-04-09 Tue 06:33] =>  0:21
 :END:
@@ -451,8 +451,8 @@ cat /etc/os-release
 : SUPPORT_URL="https://www.debian.org/support"
 : BUG_REPORT_URL="https://bugs.debian.org/"
 
-*** [#B] Windows and Workspaces
-SCHEDULED: <2024-04-19 Fri>
+*** Windows and Workspaces
+SCHEDULED: <2024-04-26 Fri>
 :PROPERTIES:
 :CATEGORY: GNOME
 :END:
@@ -534,7 +534,7 @@ CLOCK: [2024-04-09 Tue 10:00]--[2024-04-09 Tue 10:42] =>  0:42
 CLOCK: [2024-04-09 Tue 09:03]--[2024-04-09 Tue 09:36] =>  0:33
 :END:
 *** [#B] Article about process management on Linux
-SCHEDULED: <2024-04-19 Fri>
+SCHEDULED: <2024-04-20 Sat>
 - Note taken on [2024-04-13 Sat 17:26] \\
   How to check is the SSHd process running?
   Which protocol it is listening if running?
@@ -545,8 +545,8 @@ CLOCK: [2024-04-13 Sat 07:07]--[2024-04-13 Sat 08:12] =>  1:05
 CLOCK: [2024-04-12 Fri 09:30]--[2024-04-12 Fri 10:42] =>  1:12
 :END:
 [[file:~/git/annelida/ballyboe/org-blog/2024-04-12-process-management-on-linux.org::*Introduction][Introduction]]
-*** [#A] Article about Linux file system structure
-SCHEDULED: <2024-04-19 Fri>
+*** [#B] Article about Linux file system structure
+SCHEDULED: <2024-04-20 Sat>
 
 [[file:~/git/annelida/ballyboe/org-blog/2024-04-12-linux-file-system-structure.org::*Overview][Overview]]
 
@@ -1573,9 +1573,10 @@ SCHEDULED: <2024-04-23 Tue>
 :LOGBOOK:
 CLOCK: [2024-04-09 Tue 15:12]--[2024-04-09 Tue 15:41] =>  0:29
 :END:
-*** Trinity: PIP, PYTHONPATH, VENV
-SCHEDULED: <2024-04-19 Fri>
+*** [#B] Trinity: PIP, PYTHONPATH, VENV
+SCHEDULED: <2024-04-20 Sat>
 :LOGBOOK:
+CLOCK: [2024-04-19 Fri 12:43]--[2024-04-19 Fri 13:34] =>  0:51
 CLOCK: [2024-04-19 Fri 11:13]--[2024-04-19 Fri 11:53] =>  0:40
 :END:
 [[file:~/git/annelida/ballyboe/org-blog/2023-11-07-Python-venv.org::*Pre-installed Python environment][Python virtual environment]]
@@ -1696,8 +1697,8 @@ CLOCK: [2023-11-28 Tue 14:37]--[2023-11-28 Tue 15:11] =>  0:34
 CLOCK: [2023-11-23 Thu 14:58]--[2023-11-23 Thu 15:53] =>  0:55
 :END:
 [[https://elpy.readthedocs.io/en/latest/concepts.html#:~:text=Concepts-,The%20RPC%20Process,going%20on%20in%20the%20background.]]
-*****  [#B] Elpy the RPC Process
-SCHEDULED: <2024-04-19 Fri>
+*****  [#A] Elpy the RPC Process
+SCHEDULED: <2024-04-20 Sat>
 :PROPERTIES:
 :LAST_REPEAT: [2024-01-04 Thu 15:07]
 :END:
