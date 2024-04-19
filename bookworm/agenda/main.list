@@ -381,7 +381,7 @@ systems to send the output of one command/program/process to another
 command/program/process for further processing.
 
 #+begin_src sh :results output
-  cd ~/git/ballyboe/practice
+  cd ~/git/annelida/ballyboe/practice
   ls
 #+end_src
 
@@ -401,7 +401,7 @@ types_operations.org
 #+end_example
 
 #+begin_src sh :results output
-  cd ~/git/ballyboe/practice
+  cd ~/git/annelida/ballyboe/practice
   ls | grep org
 #+end_src
 
@@ -1620,8 +1620,8 @@ SCHEDULED: <2024-04-23 Tue>
 
   #+begin_src sh
     cd ~/git/annelida/ballyboe/bookworm
-    cp bookmarks ~/git/ballyboe/Dell
-    cd ~/git/ballyboe/Dell
+    cp bookmarks ~/git/annelida/ballyboe/Dell
+    cd ~/git/annelida/ballyboe/Dell
     ls
   #+end_src
 
@@ -2003,7 +2003,7 @@ SCHEDULED: <2024-04-22 Mon>
   #+begin_example
   	;;
 	("n" "Notes" entry (file+headline
-        "~/git/ballyboe/org-blog/2024-01-25-Task-management.org"
+        "~/git/annelida/ballyboe/org-blog/2024-01-25-Task-management.org"
          "Preface"))
   #+end_example
 - State "AMPLE"      from "DELAY"      [2024-01-25 Thu 11:48]
@@ -2676,7 +2676,7 @@ CLOCK: [2023-11-13 Mon 12:21]--[2023-11-13 Mon 13:06] =>  0:45
 #+end_src
 
 #+RESULTS:
-: /home/vikky/git/ballyboe/bookworm/agenda
+: /home/vikky/git/annelida/ballyboe/bookworm/agenda
 
 ***** DP1 Python Import variations
 :PROPERTIES:
