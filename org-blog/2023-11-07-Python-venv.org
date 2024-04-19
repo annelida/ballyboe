@@ -15,7 +15,7 @@ tags: [tutorial, virtualenv, methodology]
 
 * Preamble
 
-** Purpose and intention
+** Virtual Environment: Purpose and Intention
 
 #+begin_quote
 A Python Virtual Environment is an isolated space where you can work
@@ -474,10 +474,106 @@ virtualenv --version
 
 It's already installed into the system.
 
+* Create the first one =venv=:
 
-* Inside Emacs
+For sake of convenience lets create the folder for all =user=
+/virtualenvironments/:
 
-~pyvenv~
+
+#+begin_src sh :results verbatim
+  mkdir ~/.local/venvs
+  ls -la ~/.local/
+#+end_src
+
+#+RESULTS:
+: total 20
+: drwx------  5 vikky vikky 4096 Apr 19 13:20 .
+: drwx------ 18 vikky vikky 4096 Apr 19 07:57 ..
+: drwx------ 18 vikky vikky 4096 Apr 15 19:12 share
+: drwx------  3 vikky vikky 4096 Dec  8 13:38 state
+: drwxr-xr-x  2 vikky vikky 4096 Apr 19 13:20 venvs
+
+Now it's time to create our first =venv= inside this folder using
+Debian-native =virtualenv= :
+
+#+begin_src sh :results verbatim
+    virtualenv ~/.local/venvs/ViEnv0.1
+    ls ~/.local/venvs
+#+end_src
+
+#+RESULTS:
+: created virtual environment CPython3.11.2.final.0-64 in 205ms
+:   creator CPython3Posix(dest=/home/vikky/.local/venvs/ViEnv0.1, clear=False, no_vcs_ignore=False, global=False)
+:   seeder FromAppData(download=False, pip=bundle, setuptools=bundle, wheel=bundle, via=copy, app_data_dir=/home/vikky/.local/share/virtualenv)
+:     added seed packages: pip==23.0.1, setuptools==66.1.1, wheel==0.38.4
+:   activators BashActivator,CShellActivator,FishActivator,NushellActivator,PowerShellActivator,PythonActivator
+: ViEnv0.1
+
+* Activate =venv= Inside Emacs:
+
+#+begin_src elisp
+ (pyvenv-activate "~/.local/venvs/ViEnv0.1")
+#+end_src
+
+#+RESULTS:
+
+* Check-up List of Packages:
+#+begin_src sh :results verbatim
+pip list
+#+end_src
+
+#+RESULTS:
+: Package    Version
+: ---------- -------
+: pip        23.0.1
+: setuptools 66.1.1
+: wheel      0.38.4
+
+* Check-up Theirs Folders:
+
+#+begin_src sh :results verbatim
+tree -L 1 ~/.local/venvs/ViEnv0.1/bin/
+#+end_src
+
+#+RESULTS:
+#+begin_example
+/home/vikky/.local/venvs/ViEnv0.1/bin/
+├── activate
+├── activate.csh
+├── activate.fish
+├── activate.nu
+├── activate.ps1
+├── activate_this.py
+├── pip
+├── pip3
+├── pip-3.11
+├── pip3.11
+├── python -> /usr/bin/python3
+├── python3 -> python
+├── python3.11 -> python
+├── wheel
+├── wheel3
+├── wheel-3.11
+└── wheel3.11
+
+1 directory, 17 files
+#+end_example
+
+* Deactivate =venv= Inside Emacs:
+
+#+begin_src elisp
+  (pyvenv-deactivate)
+#+end_src
+
+#+RESULTS:
+
+
+* How will bee looks PYTHONPATH when =venv= activated
+
+
+
+* Conclusion:
+
 
 * Creating a Python virtual environment on a Debian-based system
 
