@@ -921,22 +921,22 @@ Object's methods are functions that belong to the object.
 
 #+begin_src python :results output
   class Student:
-    def __init__(self, name, age):
-      self.name = name
-      self.age = age
+    def __init__(self, input_name, input_age):
+      self.name = input_name
+      self.age = input_age
 
-    def stfunc(self):
+    def student_name_print(self):
       print("The student's name is " + self.name)
 
   s1 = Student("Tony Black", 16)
-  s1.stfunc()
+  s1.student_name_print()
 #+end_src
 
 #+RESULTS:
 : The student's name is Tony Black
 
 *** Init [#A]Python and Selenium WebDriver
-SCHEDULED: <2024-04-19 Fri ++2w>
+SCHEDULED: <2024-04-29 Mon ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-16 Thu 09:23]
 :CATEGORY: Python
@@ -1344,16 +1344,16 @@ CLOCK: [2023-10-24 Tue 09:35]--[2023-10-24 Tue 09:50] =>  0:15
 :END:
 
 #+begin_src python :results output
-def test_sum():
-   assert sum([1, 2, 3]) == 6, "Should be 6"
+  def test_sum():
+     assert sum([1, 2, 3]) == 6, "Should be 6"
 
-def test_sum_tuple():
-   assert sum((1, 2, 3)) == 6, "Should be 6"
+  def test_sum_tuple():
+     assert sum((1, 2, 3)) == 6, "Should be 6"
 
-if __name__ == "__main__":
-    test_sum()
-    test_sum_tuple()
-    print("Everything passed")
+  if __name__ == "__main__":
+      test_sum()
+      test_sum_tuple()
+      print("Everything passed")
 #+end_src
 
 #+RESULTS:
