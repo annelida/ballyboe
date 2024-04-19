@@ -10,7 +10,7 @@ tags: [Linux, Debian12, ssh]
 #+END_EXPORT
 
 #+STARTUP: showall indent
-#+OPTIONS: tags:nil num:nil \n:nil @:t ::t |:t ^:{} _:{} *:t
+#+OPTIONS: tags:nil num:nil \n:nil @:t ::t |:t ^:{} _:{} *:t eval:noexport
 #+TOC: headlines 2
 #+TODO: | AMPLE
 #+TODO: RAW INIT TODO ACTIVE | DONE
