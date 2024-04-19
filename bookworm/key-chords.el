@@ -73,7 +73,7 @@
 ;; Translation
 (key-chord-define-global "tr"     'google-translate-at-point)
 (key-chord-define-global "tg"     'google-translate-at-point-reverse)
-(key-chord-define-global "ty"     'voca-builder/search-popup)
+(key-chord-define-global "uh"     'voca-builder/search-popup)
 (key-chord-define-global "wt"     'dictionary-lookup-definition)
 (key-chord-define-global "wd"     'mw-thesaurus-lookup-dwim)
     ;; (global-set-key "\C-x4w" 'langtool-check)
