@@ -602,3 +602,40 @@ The type of variable is determined only during run time.
 Describes a numbering scheme in which there are onle two possibble
 values for each digit - 0 or 1.
 
+** Elpy
+
+Elpy is an extension for the Emacs text editor to work with
+Python projects.
+
+** RPC Process
+
+Elpy works by starting a Python process in the background and
+communicating with it through a basic `Remote Procedure Call' (RPC)
+interface.
+
+** Python Virtual Environment
+
+is an isolated space where you can work on your Python projects,
+separately from your system-installed Python. You can set up your own
+libraries and dependencies without affecting the system Python.
+
+** Software portability
+
+is a design objective for source code to be easily made to run on
+different platforms. An aid to portability is the generalized
+abstraction between the application logic and system interfaces.
+
+** Software reproducibility
+
+here means the ability for someone to replicate a computational
+experiment that was done by someone else, using the same software and
+data.
+
+** The purpose of the Virtual environment
+
+is creation an isolated from the main operating system set of
+libraries that allow reproduce itself on other workstations and
+execute Python code in the same environment.
+
+
+
