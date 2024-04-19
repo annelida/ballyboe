@@ -12,7 +12,7 @@
 	;; For the crude notes only:
 	("nf" "Fleeting" entry (file+headline
 			"~/git/annelida/ballyboe/bookworm/agenda/main.list" "Notes")
-	 "* RAW %?%i"
+	 "* RAW [#C] %i\nSCHEDULED: %t\n"
 	 :immediate-finish 1
 	 :empty-lines-after 1)
 	;;
