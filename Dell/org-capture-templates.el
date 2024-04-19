@@ -1,5 +1,13 @@
 (setq org-capture-templates
       '(
+        ("d" "Drills" entry (file+headline
+			    "~/git/annelida/ballyboe/bookworm/drills.org"
+			    "Definitions")
+	 "* %c :drill:
+   :PROPERTIES:
+   :DRILL_CARD_TYPE: hide1cloze
+   :END:\n%i\n")
+        ;;
 	("n" "Notes");; <-- prefix key for notes
 	;; For the crude notes only:
 	("nf" "Fleeting" entry (file+headline
