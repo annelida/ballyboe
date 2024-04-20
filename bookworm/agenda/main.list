@@ -1588,6 +1588,12 @@ CLOCK: [2024-04-09 Tue 15:12]--[2024-04-09 Tue 15:41] =>  0:29
 :END:
 *** [#B] Trinity: PIP, PYTHONPATH, VENV
 SCHEDULED: <2024-04-20 Sat>
+- Note taken on [2024-04-20 Sat 09:26] \\
+  REPL can't feel =venv= switch by default?
+  
+  Does it true for =venv= switch via =elpy=?
+- Note taken on [2024-04-20 Sat 09:26] \\
+  Show the =sys.path= mutation after activation
 :LOGBOOK:
 CLOCK: [2024-04-19 Fri 12:43]--[2024-04-19 Fri 13:34] =>  0:51
 CLOCK: [2024-04-19 Fri 11:13]--[2024-04-19 Fri 11:53] =>  0:40
