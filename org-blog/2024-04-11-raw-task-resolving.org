@@ -26,9 +26,9 @@ quickly, or they will fleet away.
 
 * Raw source for elaboration
 
-Лучший и быстрейший способ освоить незнакомую тему заключается в
-копировании и улучшении уже существующих подходов, взглядов,
-концептов. Находишь, копируешь, улучшаешь.
+The best and fastest way to master an unfamilar topic is to copying
+and improving existing approaches, views, concepts. You find it, copy
+it, improve it.
 
 The notes are only reminders of information. Quickly write down what
 you are thinking in any kind of way.
@@ -48,8 +48,25 @@ tasks. And you must to organize and manage them.
 
 ** Task decomposition
 
-Complex task can have many different and connected parts, and is
-therefore often difficult to understand or unimpossible to resolve it
-in с первого раза Break-down
+#+begin_quote
+Complex task can have many different and connected parts, components
+and is therefore often difficult to understand or unimpossible to
+resolve from the first time.
+#+end_quote
+
+
+#+begin_quote
+Breaking tasks down helps us to see large tasks as more approachable
+and doable, and reduces our propensity to procrastinate or delay
+tasks, because we simply don't know where to begin.
+#+end_quote
+
+#+begin_quote
+By breaking down complex tasks into manageable subtasks and
+prioritizing them effectively, you can approach the work with a clear
+roadmap. This approach allows for better organization, improved focus,
+and increased productivity.
+#+end_quote
+
 
 ** Check up the sense
