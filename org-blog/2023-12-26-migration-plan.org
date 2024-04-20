@@ -304,7 +304,42 @@ evaluate the code.
 
   Test how Bookmarks+ works in Emacs
 
+** Jekyll's settings
 
+Copy from .emacs to init.el file Jekyll's settings. When change all
+directories paths to correct:= ~/git/annelida/ballyboe= instead
+=~/git/ballyboe/=
+
+#+begin_src elisp
+(setq org-publish-project-alist
+'(("jekyll-org"
+   :base-directory "~/git/annelida/ballyboe/org-blog/"
+   :base-extension "org"
+   ;; Path to your Jekyll project.
+   :publishing-directory "~/git/annelida/annelida.github.io/_posts/"
+   :recursive t
+   :publishing-function org-html-publish-to-html
+   :headline-levels 4
+   :html-extension "html"
+   :section-numbers nil
+   :with-toc nil
+   :body-only t
+   ;; Only export section between <body> </body> (body-only)
+   )
+  ("jekyll-org-img"
+   :base-directory "~/git/annelida/ballyboe/org-blog/img/"
+   :base-extension "css\\|js\\|png\\|jpg\\|gif\\|pdf\\|mp3\\|ogg\\|swf\\|php"
+   :publishing-directory "~/git/annelida/annelida.github.io/assets/img/"
+   :recursive t
+   :publishing-function org-publish-attachment)
+
+  ("jekyll" :components ("jekyll-org" "jekyll-org-img"))
+  ))
+#+end_src
+
+Execute M-x eval buffer.
+
+Try to export one particular article from the =org format= to =html=.
 
 
 
