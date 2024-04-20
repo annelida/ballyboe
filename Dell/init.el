@@ -67,7 +67,34 @@
 
 ;; Programming languages for Babel
 (org-babel-do-load-languages
-'org-babel-load-languages '((python . t) (emacs-lisp . t) (shell . t) (sqlite . t)))
+ 'org-babel-load-languages '((python . t) (emacs-lisp . t) (shell . t) (sqlite . t)))
+
+;; Jekyll settings
+;;
+(setq org-publish-project-alist
+'(("jekyll-org"
+   :base-directory "~/git/annelida/ballyboe/org-blog/"
+   :base-extension "org"
+   ;; Path to your Jekyll project.
+   :publishing-directory "~/git/annelida/annelida.github.io/_posts/"
+   :recursive t
+   :publishing-function org-html-publish-to-html
+   :headline-levels 4
+   :html-extension "html"
+   :section-numbers nil
+   :with-toc nil
+   :body-only t
+   ;; Only export section between <body> </body> (body-only)
+   )
+  ("jekyll-org-img"
+   :base-directory "~/git/annelida/ballyboe/org-blog/img/"
+   :base-extension "css\\|js\\|png\\|jpg\\|gif\\|pdf\\|mp3\\|ogg\\|swf\\|php"
+   :publishing-directory "~/git/annelida/annelida.github.io/assets/img/"
+   :recursive t
+   :publishing-function org-publish-attachment)
+
+  ("jekyll" :components ("jekyll-org" "jekyll-org-img"))
+  ))
 
 (custom-set-variables
  ;; custom-set-variables was added by Custom.
