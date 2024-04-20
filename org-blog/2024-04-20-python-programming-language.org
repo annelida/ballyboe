@@ -1,0 +1,72 @@
+#+BEGIN_EXPORT html
+---
+layout: page
+title: Python programming language
+tagline: " brief overview"
+permalink: /python/python-programming-language-intro.html
+categories: [Python, Definitions]
+tags: [python, intro]
+---
+#+END_EXPORT
+
+#+STARTUP: showall indent
+#+OPTIONS: tags:nil num:nil \n:nil @:t ::t |:t ^:{} _:{} *:t eval:noexport
+#+TOC: headlines 2
+
+* Preamble
+* Definitions
+
+#+begin_quote
+*Python* is an interpreted, object-oriented, high-level programming
+language with dynamic semantics.
+#+end_quote
+
+*Interpretation*
+
+In *Interprereted Programming Language* the source code is executed by
+an interpreter which translates code into machine code on the fly.
+
+*Compilation*
+
+A *programming paradigm* is a method or style of programming that
+defines a set of principles, techniques, and patterns for structuring
+code to solve problems on a computer. Programming paradigms can be
+classified into different categories, such as: Imperative
+paradigm. Declarative paradigm. Object-oriented paradigm.
+
+
+
+But when you are execute any Python script the =.pyc= (compiled bytecode file)
+generated. If you run the script again (without making changes)
+=.pyc= file will not be regenerated. After execution modified script
+=.pyc= the file will be generated again. Compilation carried out to
+increase the speed of program execution.
+
+#+begin_quote
+In *object-oriented* programming language a programming paradigm based
+on the concept of "objects", which may contain data, in the form of
+fields, often known as attributes; and code, in the form of
+procedures, often known as methods. For example, a person is an object
+which has certain properties such as height, gender, age, etc.
+#+end_quote
+
+#+begin_quote
+In *High-Level programming language* it may use natural language
+elements, be easier to use, or may automate significant areas of
+computing systems, making the process of developing a program simpler
+and more understandable.
+#+end_quote
+
+*Natural language*
+
+#+begin_quote
+Python is *General-Purpose language*. It means that you can use Python
+in various domains including: Web applications, Big data applications,
+Testing, Automation, Data science, machine learning, and AI, Desktop
+software, Mobile apps etc.
+#+end_quote
+
+*Special programming language*
+* Questions
+** Is Python compiled language?
+** Is Python interpreted language?

@@ -2890,5 +2890,10 @@ CLOCK: [2024-04-19 Fri 16:21]--[2024-04-19 Fri 17:16] =>  0:55
 :END:
 ** RAW [#C] Key-chord with y!!!
 SCHEDULED: <2024-04-20 Sat>
-
+** RAW [#C] Article about Python Programming Language
+SCHEDULED: <2024-04-20 Sat>
+:LOGBOOK:
+CLOCK: [2024-04-20 Sat 16:10]--[2024-04-20 Sat 16:25] =>  0:15
+:END:
+[[file:~/git/annelida/ballyboe/org-blog/2024-04-20-python-programming-language.org::*Preamble][Python programming language]]
 * Personal
