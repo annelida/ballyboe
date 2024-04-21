@@ -568,9 +568,29 @@ tree -L 1 ~/.local/venvs/ViEnv0.1/bin/
 #+RESULTS:
 
 
-* How will bee looks PYTHONPATH when =venv= activated
+* How will bee looks =sys.path= when =venv= activated
 
+When =venv= is not activated 
 
+#+begin_src python :results output
+  import sys
+  print(sys.path)
+#+end_src
+
+#+RESULTS:
+: ['', '/usr/lib/python311.zip', '/usr/lib/python3.11', '/usr/lib/python3.11/lib-dynload', '/usr/local/lib/python3.11/dist-packages',
+'/usr/lib/python3/dist-packages', '/usr/lib/python3.11/dist-packages']
+
+When =venv= is activated
+
+#+begin_src python :results output
+  import sys
+  print(sys.path)
+#+end_src
+
+#+RESULTS:
+: ['', '/usr/lib/python311.zip', '/usr/lib/python3.11', '/usr/lib/python3.11/lib-dynload',
+: '/home/vikky/.local/venvs/ViEnv0.1/lib/python3.11/site-packages']
 
 * Conclusion:
 
@@ -728,4 +748,5 @@ When virtual envoronment is deactivated sys.path will search paths outside venv 
 : ['', '/usr/lib/python39.zip', '/usr/lib/python3.9', '/usr/lib/python3.9/lib-dynload', '/home/vikky/.local/lib/python3.9/site-packages', '/usr/local/lib/python3.9/dist-packages', '/usr/lib/python3/dist-packages']
  '', '/usr/lib/python39.zip', '/usr/lib/python3.9', '/usr/lib/python3.9/lib-dynload', '/home/vikky/.local/lib/python3.9/site-packages',
  '/usr/local/lib/python3.9/dist-packages', '/usr/lib/python3/dist-packages']
+
 
