@@ -10,8 +10,6 @@ MY PROJECTS    -*- mode: org; -*-
 #+TODO: | AMPLE
 #+TODO: RAW Init DP0 Todo DP1 Active | DONE
 #+TODO: DELAY LAG RETARD | BARE
-
-
 * Learning
 ** Meta
 *** Spaced Repetition
@@ -58,12 +56,13 @@ SCHEDULED: <2024-05-14 Tue>
 ***** Org-Agenda as the Maain Tool
 features description
 ***** Task classification
-**** [#A] Article about brand-new task resolving
-SCHEDULED: <2024-04-20 Sat>
+**** Article about brand-new task resolving
+SCHEDULED: <2024-04-22 Mon>
 :LOGBOOK:
+CLOCK: [2024-04-20 Sat 08:41]--[2024-04-20 Sat 09:25] =>  0:44
 CLOCK: [2024-04-12 Fri 07:12]--[2024-04-12 Fri 08:12] =>  1:00
 :END:
-[[file:~/git/annelida/ballyboe/org-blog/2024-04-11-raw-task-resolving.org::*Preabmle][Preabomle]]
+[[file:~/git/annelida/ballyboe/org-blog/2024-04-11-raw-task-resolving.org::*Preamble][Brand-new task resolving]]
 ** English
 :PROPERTIES:
 :CATEGORY: English
@@ -79,10 +78,11 @@ CLOCK: [2024-04-12 Fri 07:12]--[2024-04-12 Fri 08:12] =>  1:00
 *** Working with transcripts
 
 **** "How to Learn Anything Fast: Teach Your Brain to Focus"
-SCHEDULED: <2024-04-21 Sun ++2w>
+SCHEDULED: <2024-05-05 Sun ++2w>
 :PROPERTIES:
-:LAST_REPEAT: [2024-04-08 Mon 15:54]
+:LAST_REPEAT: [2024-04-20 Sat 16:59]
 :END:
+- State "AMPLE"      from ""           [2024-04-20 Sat 16:59]
 - State "AMPLE"      from ""           [2024-04-08 Mon 15:54]
 - State "AMPLE"      from ""           [2024-02-08 Thu 19:03]
 - State "AMPLE"      from ""           [2024-01-25 Thu 18:34]
@@ -182,7 +182,7 @@ CLOCK: [2024-03-05 Tue 10:30]--[2024-03-05 Tue 13:41] =>  3:11
 :END:
 [https://www.bbc.co.uk/learningenglish/english/course/lower-intermediate/unit-4/session-2/activity-4]
 ***** 'Have to' and 'must'
-SCHEDULED: <2024-04-22 Mon ++2w>
+SCHEDULED: <2024-04-24 Wed ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-03-27 Wed 18:26]
 :END:
@@ -197,7 +197,7 @@ CLOCK: [2024-03-07 Thu 10:57]--[2024-03-07 Thu 11:33] =>  0:36
 SCHEDULED: <2024-03-13 Wed ++2w>
 [https://www.bbc.co.uk/learningenglish/english/course/lower-intermediate/unit-6/session-2/activity-5]
 ***** Past simple and Past continuous
-SCHEDULED: <2024-04-22 Mon ++2w>
+SCHEDULED: <2024-04-24 Wed ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-03-19 Tue 17:31]
 :END:
@@ -300,7 +300,7 @@ SCHEDULED: <2024-04-23 Tue ++1w>
 CLOCK: [2023-12-19 Tue 09:18]--[2023-12-19 Tue 09:22] =>  0:04
 :END:
 *** MAN free
-SCHEDULED: <2024-04-22 Mon ++1w>
+SCHEDULED: <2024-04-24 Wed ++1w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-01-11 Thu 16:04]
 :END:
@@ -482,7 +482,7 @@ CLOCK: [2024-04-02 Tue 10:27]--[2024-04-02 Tue 10:29] =>  0:02
 :END:
 
 *** [#A] Controls
-SCHEDULED: <2024-04-22 Mon>
+SCHEDULED: <2024-04-24 Wed>
 :PROPERTIES:
 :CATEGORY: GNOME
 :END:
@@ -553,8 +553,8 @@ SCHEDULED: <2024-04-10 Wed>
 CLOCK: [2024-04-09 Tue 10:00]--[2024-04-09 Tue 10:42] =>  0:42
 CLOCK: [2024-04-09 Tue 09:03]--[2024-04-09 Tue 09:36] =>  0:33
 :END:
-*** [#B] Article about process management on Linux
-SCHEDULED: <2024-04-20 Sat>
+*** Article about process management on Linux
+SCHEDULED: <2024-04-22 Mon>
 - Note taken on [2024-04-13 Sat 17:26] \\
   How to check is the SSHd process running?
   Which protocol it is listening if running?
@@ -565,8 +565,8 @@ CLOCK: [2024-04-13 Sat 07:07]--[2024-04-13 Sat 08:12] =>  1:05
 CLOCK: [2024-04-12 Fri 09:30]--[2024-04-12 Fri 10:42] =>  1:12
 :END:
 [[file:~/git/annelida/ballyboe/org-blog/2024-04-12-process-management-on-linux.org::*Introduction][Introduction]]
-*** [#B] Article about Linux file system structure
-SCHEDULED: <2024-04-20 Sat>
+*** Article about Linux file system structure
+SCHEDULED: <2024-04-22 Mon>
 
 [[file:~/git/annelida/ballyboe/org-blog/2024-04-12-linux-file-system-structure.org::*Overview][Overview]]
 
@@ -792,14 +792,17 @@ CLOCK: [2024-04-10 Wed 07:49]--[2024-04-10 Wed 09:00] =>  1:11
 :LAST_REPEAT: [2024-04-17 Wed 19:20]
 :END:
 
-**** [#A] Tutorial
-SCHEDULED: <2024-04-20 Sat ++1d>
+**** Init Tutorial
+SCHEDULED: <2024-04-22 Mon ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-04-17 Wed 19:20]
 :END:
 - State "AMPLE"      from ""           [2024-04-17 Wed 19:20]
 - State "AMPLE"      from ""           [2024-04-16 Tue 08:49]
 :LOGBOOK:
+CLOCK: [2024-04-21 Sun 08:03]--[2024-04-21 Sun 08:58] =>  0:55
+CLOCK: [2024-04-20 Sat 10:18]--[2024-04-20 Sat 10:48] =>  0:30
+CLOCK: [2024-04-20 Sat 07:29]--[2024-04-20 Sat 08:10] =>  0:41
 CLOCK: [2024-04-18 Thu 07:06]--[2024-04-18 Thu 08:45] =>  1:39
 CLOCK: [2024-04-17 Wed 07:01]--[2024-04-17 Wed 08:19] =>  1:18
 CLOCK: [2024-04-16 Tue 07:23]--[2024-04-16 Tue 08:38] =>  1:15
@@ -809,11 +812,11 @@ CLOCK: [2024-04-16 Tue 07:23]--[2024-04-16 Tue 08:38] =>  1:15
 [[info:python3.11#Using the Python Interpreter][python3.11#Using the Python Interpreter]]
 [[info:python3.11#An Informal Introduction to Python][python3.11#An Informal Introduction to Python]]
 
-**** Python Setup and Usage
-SCHEDULED: <2024-04-21 Sun>
+**** [#A] Python Setup and Usage
+SCHEDULED: <2024-04-22 Mon>
 [[info:python3.11#Python Setup and Usage][python3.11#Python Setup and Usage]]
 
-**** Python Language Reference
+**** [#A] Python Language Reference
 SCHEDULED: <2024-04-22 Mon>
 [[info:python3.11#The Python Language Reference][python3.11#The Python Language Reference]]
 
@@ -1593,8 +1596,8 @@ SCHEDULED: <2024-04-23 Tue>
 :LOGBOOK:
 CLOCK: [2024-04-09 Tue 15:12]--[2024-04-09 Tue 15:41] =>  0:29
 :END:
-*** [#B] Trinity: PIP, PYTHONPATH, VENV
-SCHEDULED: <2024-04-20 Sat>
+*** Trinity: PIP, PYTHONPATH, VENV
+SCHEDULED: <2024-04-22 Mon>
 - Note taken on [2024-04-20 Sat 09:26] \\
   REPL can't feel =venv= switch by default?
   
@@ -1602,10 +1605,13 @@ SCHEDULED: <2024-04-20 Sat>
 - Note taken on [2024-04-20 Sat 09:26] \\
   Show the =sys.path= mutation after activation
 :LOGBOOK:
+CLOCK: [2024-04-21 Sun 10:51]--[2024-04-21 Sun 11:18] =>  0:27
 CLOCK: [2024-04-19 Fri 12:43]--[2024-04-19 Fri 13:34] =>  0:51
 CLOCK: [2024-04-19 Fri 11:13]--[2024-04-19 Fri 11:53] =>  0:40
 :END:
-[[file:~/git/annelida/ballyboe/org-blog/2023-11-07-Python-venv.org::*Pre-installed Python environment][Python virtual environment]]
+
+[[file:~/git/annelida/ballyboe/org-blog/2023-11-07-Python-venv.org::*Creating a Python virtual environment on a Debian-based system][Python virtual environment on a Debian-based system]]
+
 ** Emacs
 SCHEDULED: <2024-04-23 Tue>
 :LOGBOOK:
@@ -1723,8 +1729,8 @@ CLOCK: [2023-11-28 Tue 14:37]--[2023-11-28 Tue 15:11] =>  0:34
 CLOCK: [2023-11-23 Thu 14:58]--[2023-11-23 Thu 15:53] =>  0:55
 :END:
 [[https://elpy.readthedocs.io/en/latest/concepts.html#:~:text=Concepts-,The%20RPC%20Process,going%20on%20in%20the%20background.]]
-*****  [#A] Elpy the RPC Process
-SCHEDULED: <2024-04-20 Sat>
+*****  Elpy the RPC Process
+SCHEDULED: <2024-04-22 Mon>
 :PROPERTIES:
 :LAST_REPEAT: [2024-01-04 Thu 15:07]
 :END:
@@ -1744,6 +1750,7 @@ SCHEDULED: <2024-04-20 Sat>
 
   M-x elpy-config shows Elpy settings
 :LOGBOOK:
+CLOCK: [2024-04-20 Sat 07:14]--[2024-04-20 Sat 07:28] =>  0:14
 CLOCK: [2024-04-19 Fri 07:22]--[2024-04-19 Fri 09:09] =>  1:47
 CLOCK: [2024-04-09 Tue 15:41]--[2024-04-09 Tue 16:06] =>  0:25
 CLOCK: [2023-11-30 Thu 14:50]--[2023-11-30 Thu 15:33] =>  0:43
@@ -1989,7 +1996,7 @@ https://orgmode.org/worg/org-contrib/org-drill.html
 https://orgmode.org/worg/org-contrib/org-drill.html#org51fd4f9
 
 ***** [#B] Org-capture templates usage
-SCHEDULED: <2024-04-22 Mon>
+SCHEDULED: <2024-04-25 Thu>
 [[file:~/git/annelida/ballyboe/org-blog/2024-04-14-emacs-org-capture-creation-and-expansion.org::*Preamble][Org-capture creation and expansion]]
 
 :PROPERTIES:
@@ -2586,35 +2593,38 @@ CLOCK: [2024-01-04 Thu 12:11]--[2024-01-04 Thu 12:13] =>  0:02
 :END:
 
 ** Interview Preparation
-SCHEDULED: <2024-04-20 Sat>
-** Portfolio creation
-SCHEDULED: <2024-04-20 Sat>
-** CV elaboration
-SCHEDULED: <2024-04-20 Sat>
-** RAW Upwork profile elaboration
-SCHEDULED: <2024-04-20 Sat>
+SCHEDULED: <2024-04-22 Mon>
+** [#A] Portfolio creation
+SCHEDULED: <2024-04-22 Mon>
+** [#A] CV elaboration
+SCHEDULED: <2024-04-22 Mon>
+:LOGBOOK:
+CLOCK: [2024-04-21 Sun 17:57]--[2024-04-21 Sun 19:00] =>  1:03
+:END:
+** RAW [#A] Upwork profile elaboration
+SCHEDULED: <2024-04-22 Mon>
 :LOGBOOK:
 CLOCK: [2024-04-09 Tue 17:37]--[2024-04-09 Tue 18:41] =>  1:04
 :END:
 Manual's  studying
 ** [#A] The requirements for testers at Upwork
-SCHEDULED: <2024-04-20 Sat>
+SCHEDULED: <2024-04-22 Mon>
 
 ** RAW Linkedin profile elaboration
 SCHEDULED: <2024-04-23 Tue>
 Manual's studying
 
-** LinkedIn member's manual
-SCHEDULED: <2024-04-20 Sat>
+** [#A] LinkedIn member's manual
+SCHEDULED: <2024-04-22 Mon>
 
 ** [#A] The requirements for testers at Linkedin
-SCHEDULED: <2024-04-20 Sat>
+SCHEDULED: <2024-04-22 Mon>
 :LOGBOOK:
 CLOCK: [2024-04-19 Fri 09:47]--[2024-04-19 Fri 10:03] =>  0:16
 :END:
 
 ** Available jobs on Indeed
-SCHEDULED: <2024-04-20 Sat>
+SCHEDULED: <2024-04-23 Tue>
 :LOGBOOK:
 CLOCK: [2024-04-19 Fri 09:10]--[2024-04-19 Fri 09:47] =>  0:37
 :END:
@@ -2891,14 +2901,14 @@ CLOCK: [2024-02-21 Wed 07:45]--[2024-02-21 Wed 08:48] =>  1:03
 [[https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions?learn=getting_started&learnProduct=actions]] 
 ** RAW Tasks clarification
 ** RAW [#C] Tasks clarification
-SCHEDULED: <2024-04-20 Sat>
+SCHEDULED: <2024-04-22 Mon>
 :LOGBOOK:
 CLOCK: [2024-04-19 Fri 16:21]--[2024-04-19 Fri 17:16] =>  0:55
 :END:
 ** RAW [#C] Key-chord with y!!!
-SCHEDULED: <2024-04-20 Sat>
-** RAW [#C] Article about Python Programming Language
-SCHEDULED: <2024-04-20 Sat>
+SCHEDULED: <2024-04-22 Mon>
+** Init Article about Python Programming Language
+SCHEDULED: <2024-04-22 Mon>
 :LOGBOOK:
 CLOCK: [2024-04-20 Sat 16:10]--[2024-04-20 Sat 16:25] =>  0:15
 :END:
