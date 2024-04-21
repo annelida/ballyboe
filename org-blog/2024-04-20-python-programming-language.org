@@ -26,7 +26,15 @@ language with dynamic semantics.
 In *Interprereted Programming Language* the source code is executed by
 an interpreter which translates code into machine code on the fly.
 
-*Compilation*
+*Compilation* is the process of translating source code written in a
+high-level programming language into a lower-level language, such as
+machine code, that can be executed by a computer.
+
+But when you are execute any Python script the =.pyc= (compiled
+bytecode file) generated. If you run the script again (without making
+changes) =.pyc= file will not be regenerated. After execution modified
+script =.pyc= the file will be generated again. Compilation carried
+out to increase the speed of program execution.
 
 A *programming paradigm* is a method or style of programming that
 defines a set of principles, techniques, and patterns for structuring
@@ -36,11 +44,7 @@ paradigm. Declarative paradigm. Object-oriented paradigm.
 
 
 
-But when you are execute any Python script the =.pyc= (compiled bytecode file)
-generated. If you run the script again (without making changes)
-=.pyc= file will not be regenerated. After execution modified script
-=.pyc= the file will be generated again. Compilation carried out to
-increase the speed of program execution.
+
 
 #+begin_quote
 In *object-oriented* programming language a programming paradigm based
