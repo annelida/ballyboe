@@ -637,5 +637,63 @@ is creation an isolated from the main operating system set of
 libraries that allow reproduce itself on other workstations and
 execute Python code in the same environment.
 
+** Pronouns
+
+A word that stands in for noun, often to avoid the need to repeat the
+same noun over and over.
+
+** Subject pronouns
+
+Used as the subject of a verb, which means that it's the person or
+thing performing the action.
+
+** Object pronouns
+
+Used as grammatical objects of the verb. An object
+pronoun receives the action instead of doing the action itself.
+
+** Number
+
+It is an arithmetical value are used in counting and making
+calculation.
+
+** Integer
+
+Is a whole number without a fractional part that can be positive,
+negative or zero.
+
+** Float
+
+The number with a fractional part.
+
+** String
+
+Is a sequence of characters enclosed in single quotes or double quotes
+with the same result. In Python string are used for representing
+textual data.
+
+** Immutable
+
+Can't be changed after it is created.
+
+** List
+
+Is a data structure in Python that is a mutable, or changeable,
+ordered sequence of elements. Each element or value that is inside of
+a list is called an item.
+
+** Ordered sequence
+
+Strings, list and tuples are ordered sequences. These data structures
+guarantee the output order as they specified initially.
+
+Sets and dictionaries are unordered collections of objects.
+
+
+
+
+
+
+
 
 
