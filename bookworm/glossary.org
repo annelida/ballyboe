@@ -535,7 +535,11 @@ Is a programming paradigm based on the concept of "objects", which may
 contain data, in the form of fields, often known as attributes; and
 code, in the form of procedures, often known as methods. For example,
 a person is an object which has certain properties such as height,
-gender, age, etc
+gender, age, etc.
+
+‘Objects’ are Python’s abstraction for data.  All data in a Python
+program is represented by objects or by relations between objects.
+Every object has an identity, a type and a value.
 
 ** High-level PL
 
@@ -672,9 +676,18 @@ Is a sequence of characters enclosed in single quotes or double quotes
 with the same result. In Python string are used for representing
 textual data.
 
+** Mutable
+
+Objects whose value can change.
+
+
 ** Immutable
 
-Can't be changed after it is created.
+Object whose value is unchangeable once they are created.
+
+** Containers
+Some objects contain references to other objects. Examples of
+containers are tuples, lists and dictionaries.
 
 ** List
 
@@ -688,6 +701,41 @@ Strings, list and tuples are ordered sequences. These data structures
 guarantee the output order as they specified initially.
 
 Sets and dictionaries are unordered collections of objects.
+
+** EOF
+
+An end-of file. You can prodyce that with 'Ctrl-D'.
+
+** Statement
+
+Any instruction written in the source code and executed by the Python
+interpreter.
+
+** Script
+
+Is a file that generally contains a short self-contained set of
+instructions, i.e., lines of code, that perform a specific task.
+
+** Module
+
+Are simply files with the “. py” extension containing Python code that
+can be imported inside another Python Modules Operations Program.
+
+** Function
+
+Is a "self contained" modules of code that accomplish a specific
+task. Functions usually "take in" data, process it, and "return" a
+result. Once a function is written, it can be used over and over and
+over again.
+
+** Data model
+
+Is an abstract model that organizes elements of data and standardizes
+how they relate to one another and to the properties of real-world
+entities.
+
+
+
 
 
 
