@@ -120,7 +120,7 @@ After that you can commit the changes and try to push it using Magit.
 * Create list packages that need to be installed in Emacs
 
 * [#C] Migration sequence description
-SCHEDULED: <2024-04-22 Mon>
+SCHEDULED: <2024-04-24 Wed>
 :LOGBOOK:
 CLOCK: [2024-04-20 Sat 08:21]--[2024-04-20 Sat 08:41] =>  0:20
 CLOCK: [2024-04-03 Wed 09:17]--[2024-04-03 Wed 10:13] =>  0:56
