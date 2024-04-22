@@ -1,0 +1,126 @@
+#+BEGIN_EXPORT html
+---
+layout: page
+title: Learning English Grammar with British Council
+tagline: " improve your English skills"
+permalink: /english/english-grammar.html
+categories: [English, Grammar]
+tags: [english, grammar]
+---
+#+END_EXPORT
+
+#+STARTUP: showall indent
+#+OPTIONS: tags:nil num:nil \n:nil @:t ::t |:t ^:{} _:{} *:t eval:noexport
+#+TOC: headlines 2
+#+TODO: | AMPLE
+#+TODO: RAW Init DP0 Todo DP1 Active | DONE
+#+TODO: DELAY LAG RETARD | BARE
+
+* DP0 Pronouns
+SCHEDULED: <2024-04-23 Tue>
+
+*Pronouns* is a word that stands in for noun, often to avoid the need
+to repeat the same noun over and over.
+
+** Subject and object pronouns
+
+  Subject  Object    
+  I      me    
+  you      you    
+  he      him    
+  she      her    
+  it      it    
+  we      us    
+  you      you    
+  they     them
+
+
+*Subject pronouns* used as the subject of a verb, which means that
+it's the person or thing *performing* the *action*.
+
+I like the sunny days.
+You are waiting for the bus.
+He is a doctor.
+It is the beautiful weather today.
+She is walking with children.
+We live in Ramelton.
+They going to the shop.
+
+*Object pronouns* used as grammatical objects of the verb. An object
+pronoun receives the action instead of doing the action itself.
+
+She is waiting for me.
+I'll get it for you.
+Give it to him.
+Why are you looking at her?
+Don't take it from us.
+I'll speak to them.
+
+*** Differnces between subject and object pronouns
+
+A subject pronoun (I, we, he, she, they, or WHO) refers to the person
+or thing that *performs an action*. It normally appears at the start
+of a sentence, before the verb.
+
+An object pronoun (me, us, him, her, them, or WHOM) refers to the
+person or thing *affected by an action*. It normally comes after a
+verb or preposition.
+
+All other pronouns (e.g., “you,” “it or “WHAT”) and nouns have only
+one form, which is used for both cases.
+
+** DP0 =it= and =there= as dummy subjects
+SCHEDULED: <2024-04-24 Wed>
+
+English clauses always have a =subject=:
+
+His father has just retired. > He was a teacher. (NOT Was a teacher.)
+
+... except for the imperative:
+
+    Go away.
+    Play it again, please.
+
+    there
+
+If there is no other subject, we use there to talk about:
+
+- where or when something is:
+
+  There's an interesting book on the shelf.
+
+- a number or amount:
+
+ There is plenty of bread left.
+    There were twenty people at the meeting.
+
+
+- something existing or happening:
+
+ There's a small problem.
+    There was a nasty fight.
+
+it
+
+We use it to talk about:
+
+- times and dates:              
+
+ It's nearly one o'clock.
+ It's my birthday.
+
+- the weather:
+
+ It's raining.
+ It's a lovely day.
+    It was getting cold.
+
+We use it with the verb =be= and an =–ing= form or
+=to-infinitive= to express opinions:
+
+ It's great living here.
+ It's nice to meet you.
+
+
+
+
