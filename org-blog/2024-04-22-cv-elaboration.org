@@ -95,7 +95,7 @@ June 2003 - October 2010
   external users.
   
 
-** Notes                                                          :noexport:
+* Notes                                                            :noexport:
 
 - Managing daily operations of a high-volume store,
   achieving a consistent 20% year-over-year growth in sales.
