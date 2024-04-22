@@ -1,0 +1,188 @@
+#+BEGIN_EXPORT html
+---
+layout: post
+title: Viktoriia Kosinova
+tagline: " I do my best"
+permalink: /cv/store-manager.html
+categories: [CV, Store Manager]
+tags: [cv, info, about me]
+---
+#+END_EXPORT
+
+#+STARTUP: showall indent
+#+OPTIONS: tags:nil num:nil \n:nil @:t ::t |:t ^:{} _:{} *:t eval:noexport
+#+TOC: headlines 2
+
+* About me
+
+With over 14 years of retail management experience, I have a
+potential...
+
+* Work expirience
+
+*Fozzy-Food LLC., Ukraine — Chief Store Manager*
+/January 2008 - April 2022/
+
+#+CAPTION: A store's photo 
+#+ATTR_HTML: :title Silpo grocery store :align center
+[[https://annelida.github.io/assets/img/03.jpeg]]
+
+
+#+CAPTION: Inside
+#+ATTR_HTML: :title A Store inside presentation :align center
+[[https://annelida.github.io/assets/img/01.jpg]]
+
+My duties and achievements:
+
+- Increased sales: Achieved a 15% increase in sales over six months
+  through strategic merchandising and upselling techniques, resulting
+  in a total revenue of $600,000 over the past five years;
+  
+- Improved customer satisfaction: Implemented a customer relationship
+  management system that improved customer satisfaction by 20% and
+  increased repeat business by 15%;
+
+- Developed and executed successful marketing campaigns: Developed and
+  executed a successful marketing campaign that generated a 25%
+  increase in website traffic and a 10% increase in sales;
+
+- Managed and trained a team: Trained and managed a team of 100 sales
+  associates, resulting in a 20% increase in sales per associate;
+
+- Implemented new policies and procedures: Implemented new policies and
+  procedures that improved store operations, resulting in a 15%
+  reduction in operational costs;
+
+- Improved inventory management: Implemented a new inventory
+  management system, improving stock turnover by 25%;
+
+- Filled open positions and improved recruitment process: Filled 100%
+  of open positions within the targeted timeline over 12 months,
+  enhancing organizational efficiency. Reduced the average
+  time-to-hire by 20 days through streamlining the recruitment
+  process;
+
+- Led employee engagement programs: Led a company-wide employee
+  engagement program that resulted in a 30% increase in employee
+  satisfaction scores;
+
+- Negotiated with benefits providers: Negotiated with benefits
+  providers to enhance employee packages, achieving a 10% cost
+  reduction while improving benefits;
+
+- Developed and facilitated leadership training programs: Developed
+  and facilitated a leadership training program, contributing to a 25%
+  improvement in management effectiveness.
+
+
+** Upwork — Software developer
+October 2010 - January 2015
+
+- Builted a web scrapers to extract and collect data from websites;
+- Achieved Python certification;
+
+** Prominvestbank, Ukraine - Software engineer
+June 2003 - October 2010
+  
+- Participated in the service of mobile banking applications that
+  increased user adoption and reduced customer support call;
+
+- Enhanced software architecture and infrastructure in migrating
+  legacy systems to modern technologies, implementing cloud-based
+  infrastructures for scalability, and reducing downtime;
+
+- Provided technical support and documentation for internal and
+  external users.
+  
+
+** Notes                                                          :noexport:
+
+- Managing daily operations of a high-volume store,
+  achieving a consistent 20% year-over-year growth in sales.
+
+- Optimised store performance through continuous evaluating of
+  existing processes and identifying improvement oportunities;
+  
+- Solicited customer feedback to understand customer needs and
+  constantly improve product offering;
+    
+- Improved store ability to meet and exceed customes expectation,
+  through careful trend and stock monitoring;
+  
+- Supervised general store maintence to keep high company standards;
+  
+- Managed a team of 10 empoyees, implemented a comprehensive training
+  programs, improving product knowledge and sales skills;
+  
+- Conducted weekly analyses of sales data to optimize product
+  placement, resulting in increased average transaction value by 15%;
+
+- Executed highly successful local marketing campaigns that boosted
+  store foot traffic by 60% and enhanced community engagement;
+
+- Coordinated seas!!on promotional events, capturing customer interest
+  and improving sales by 18%
+
+
+
+Participated in all the phases of Software Development Life Cycle
+(SDLC) like Requirement Review, Test Documentation, Application
+testing, defect reporting;
+
+Perform system, unit, acceptance, regression, load and
+functional/performance testing on dozens of applications using both
+automated and manual testing methods;
+
+Created different types of test documentation: test-cases,
+check-lists;
+
+Identified, documented and reported bugs, errors, interoperability
+flaws and other issues within proprietary software applications
+developed for Rigel Lab Ltd.  global user base;
+
+Worked collaboratively with QA, development and business groups to
+complete comprehensive testing on 2 major new releases;
+
+Consistently recognized for excellent problem-solving and analytical
+skills by programmers, project managers and supervisors;
+
+Demonstrated methodical, detail-oriented and thorough approach to all
+assignments while adhering to compressed timelines. Complete all
+assignments on or ahead of sch
+
+** Rigel Lab Ltd., Ireland— Junior Software Tester
+December2023 - PRESENT
+
+- Gained knowledge about a new set of toolbox:
+  - Selenim Webdriver;
+  - Playwright
+
+** Rigel Lab Ltd., Ireland— Junior Python Developer
+August 2023 - December 2023
+
+- Studied the new approaches and techniques for material effective
+  learning:
+
+  - Pomodoro techniques;
+  - Double-loop learning;
+  - Spaced repetition;
+  - Deliberated practice;
+  - Extreme programming.
+    
+- Learned UnitTesting;
+    
+- Learned by testing new concepts, practice, approaches, paradigm.
+
+
+** Rigel Lab Ltd., Ireland — Software Engineering Internship
+May 2023 - August 2023
+    
+- Studied the core Linux OS concepts:
+
+  - Linux file system;
+  - Process management in Linux;
+  - Command language Bash;
+  
+- Introduction to Emacs, Org-mode;
+- Python IDE.
+
