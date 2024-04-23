@@ -127,7 +127,30 @@ We use it with the verb =be= and an =–ing= form or
 
  It's great living here.
  It's nice to meet you.
+ 
+** Posssesive pronouns
+
+Is a pronoun that is used to express ownership or possession. 
+
+| Subject | Object | Possessive adjective | Possesssive pronoun |
+|---------+--------+----------------------+---------------------|
+| I       | Me     | my                   | mine                |
+| you     | you    | your                 | yours               |
+| he      | him    | his                  | his                 |
+| she     | her    | her                  | hers                |
+| it      | it     | its                  | -                   |
+| we      | us     | our                  | ours                |
+| they    | them   | their                | theirs              |
 
 
+We can use a possessive pronoun instead of a full noun phrase to avoid
+repeating words:
 
+ Is that John's car?
+      No, it's mine. (INSTEAD OF No, it's [my car].)
 
+ Whose coat is this?
+      Is it yours? (INSTEAD OF Is it [your coat]?)
+
+ Her coat is grey.
+         Mine is brown. (INSTEAD OF [My coat] is brown.)
