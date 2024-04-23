@@ -734,6 +734,18 @@ Is an abstract model that organizes elements of data and standardizes
 how they relate to one another and to the properties of real-world
 entities.
 
+** Environment variable
+
+These environment variables influence Python’s behavior, they are
+processed before the command-line switches other than -E or -I.
+
+ -E
+    Ignore all PYTHON* environment variables, e.g. PYTHONPATH and
+    PYTHONHOME, that might be set.
+
+ -I
+    Run Python in isolated mode.
+
 
 
 
