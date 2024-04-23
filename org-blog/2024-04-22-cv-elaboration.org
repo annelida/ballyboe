@@ -13,37 +13,37 @@ tags: [cv, info, about me]
 #+OPTIONS: tags:nil num:nil \n:nil @:t ::t |:t ^:{} _:{} *:t eval:noexport
 #+TOC: headlines 2
 
-* About me
+* I am as a professional
 
-Chief Store Manager with over 14 years of proven success in retail
+/Chief Store Manager/ with over 14 years of proven success in retail
 management. Skilled in leading store operations, driving sales, and
-optimizing customer experience. Proficient in team management,
+optimising customer experience. Proficient in team management,
 inventory control, and implementing strategic initiatives to enhance
 store performance. Strong leadership abilities combined with a
 background in software development, bringing a unique blend of
 technical expertise and managerial skills to drive operational
 excellence and achieve business objectives effectively.
 
-* Work expirience
+* Experience
 
-** Fozzy-Food LLC., Ukraine — Chief Store Manager*
+** [[https://en.wikipedia.org/wiki/Fozzy_Group][Fozzy-Food LLC]]. — Chief Store Manager
 /January 2008 \to April 2022/
 
-#+CAPTION: A store's photo 
+#+CAPTION: The store's photo
 #+ATTR_HTML: :title Silpo grocery store :align center
 [[https://annelida.github.io/assets/img/03.jpeg]]
 
 
 #+CAPTION: Inside
-#+ATTR_HTML: :title A Store inside presentation :align center
+#+ATTR_HTML: :title The grocery store :align center
 [[https://annelida.github.io/assets/img/01.jpg]]
 
 My liable duties and achievements:
 
 - Increased sales: Achieved a 15% increase in sales over six months
-  through strategic merchandising and upselling techniques, resulting
+  through strategic merchandising and up selling techniques, resulting
   in a total revenue of $600,000 over the past five years;
-  
+
 - Improved customer satisfaction: Implemented a customer relationship
   management system that improved customer satisfaction by 20% and
   increased repeat business by 15%;
@@ -64,7 +64,7 @@ My liable duties and achievements:
 
 - Filled open positions and improved recruitment process: Filled 100%
   of open positions within the targeted timeline over 12 months,
-  enhancing organizational efficiency. Reduced the average
+  enhancing organisational efficiency. Reduced the average
   time-to-hire by 20 days through streamlining the recruitment
   process;
 
@@ -81,31 +81,33 @@ My liable duties and achievements:
   improvement in management effectiveness.
 
 
-** Prominvestbank, Ukraine - Software engineer
+** [[https://en.wikipedia.org/wiki/Prominvestbank][Prominvestbank]] — Software Engineer
 /June 2003 \to December 2008/
-  
-- Configure, set up and debug the informational system /"Client-Bank"/
-  for remote banking;
-  
-- Provided technical support for bank's clients with /"Client-Bank"/
-  installation and initial settings, continuously assisted them by
-  phone and email;
-  
-- Provided technical support for bank customers;
 
-- Developed of user's manuals for bank customers and employees;
-  
+  The list of liable duties:
+
+- Initial configure, set up, maintenance and debug the modern (at that
+  time, of course) informational system /"Client-Bank"/ (at server
+  side) for providing remote banking services for the customers;
+
+- Technical support for bank's clients with /"Client-Bank"/
+  installation and initial settings (at client side), consistently
+  assisted in theirs issue solving by phone and email;
+
+- User's manuals development for bank customers and employees;
+
 - Miscellaneous software installation, configuring and technical
-  support;
+  support at all stages of its usage by a bank's employees;
 
-- Office equipment maintance and repair. 
+- Mixed office equipment maintenance and repair.
 
 
 * Education
-/September 1998 \ to May 2004/
+/September 1998 \to May 2004/
 
-Diploma/Bachelor in Computer’s Systems and Networks
-Zaporizhzhya National Technical University, Zaporizhzhya, Ukraine.
+[[https://en.wikipedia.org/wiki/Zaporizhzhia_Polytechnic_National_University][Zaporizhzhia Polytechnic National University]]
+Graduated as: /a Bachelor in Computational Systems and Networks/
+
 
 * Skills
 
@@ -114,14 +116,14 @@ Zaporizhzhya National Technical University, Zaporizhzhya, Ukraine.
 - Problem-solving;
 
 - Decision-making;
-  
+
 - IT-skills: Windows, Linux, and I am familiar with a plethora of
   applications such as Gmail, Word, Excel, Google Docs, Google Tables
   etc., Emacs text editor;
-  
+
 - I am fluent in Ukrainian and Russian and have Intermediate level of
   English.
-  
+
 * Notes                                                            :noexport:
 
 - Managing daily operations of a high-volume store,
@@ -129,18 +131,18 @@ Zaporizhzhya National Technical University, Zaporizhzhya, Ukraine.
 
 - Optimised store performance through continuous evaluating of
   existing processes and identifying improvement oportunities;
-  
+
 - Solicited customer feedback to understand customer needs and
   constantly improve product offering;
-    
+
 - Improved store ability to meet and exceed customes expectation,
   through careful trend and stock monitoring;
-  
+
 - Supervised general store maintence to keep high company standards;
-  
+
 - Managed a team of 10 empoyees, implemented a comprehensive training
   programs, improving product knowledge and sales skills;
-  
+
 - Conducted weekly analyses of sales data to optimize product
   placement, resulting in increased average transaction value by 15%;
 
@@ -195,21 +197,21 @@ August 2023 - December 2023
   - Spaced repetition;
   - Deliberated practice;
   - Extreme programming.
-    
+
 - Learned UnitTesting;
-    
+
 - Learned by testing new concepts, practice, approaches, paradigm.
 
 
 ** Rigel Lab Ltd., Ireland — Software Engineering Internship
 May 2023 - August 2023
-    
+
 - Studied the core Linux OS concepts:
 
   - Linux file system;
   - Process management in Linux;
   - Command language Bash;
-  
+
 - Introduction to Emacs, Org-mode;
 - Python IDE.
 
@@ -220,7 +222,3 @@ October 2010 - January 2015
 
 - Builted a web scrapers to extract and collect data from websites;
 - Achieved Python certification;
-
-
-
-
