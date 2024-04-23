@@ -15,13 +15,19 @@ tags: [cv, info, about me]
 
 * About me
 
-With over 14 years of retail management experience, I have a
-potential...
+Chief Store Manager with over 14 years of proven success in retail
+management. Skilled in leading store operations, driving sales, and
+optimizing customer experience. Proficient in team management,
+inventory control, and implementing strategic initiatives to enhance
+store performance. Strong leadership abilities combined with a
+background in software development, bringing a unique blend of
+technical expertise and managerial skills to drive operational
+excellence and achieve business objectives effectively.
 
 * Work expirience
 
-*Fozzy-Food LLC., Ukraine — Chief Store Manager*
-/January 2008 - April 2022/
+** Fozzy-Food LLC., Ukraine — Chief Store Manager*
+/January 2008 \to April 2022/
 
 #+CAPTION: A store's photo 
 #+ATTR_HTML: :title Silpo grocery store :align center
@@ -32,7 +38,7 @@ potential...
 #+ATTR_HTML: :title A Store inside presentation :align center
 [[https://annelida.github.io/assets/img/01.jpg]]
 
-My duties and achievements:
+My liable duties and achievements:
 
 - Increased sales: Achieved a 15% increase in sales over six months
   through strategic merchandising and upselling techniques, resulting
@@ -75,26 +81,47 @@ My duties and achievements:
   improvement in management effectiveness.
 
 
-** Upwork — Software developer
-October 2010 - January 2015
-
-- Builted a web scrapers to extract and collect data from websites;
-- Achieved Python certification;
-
 ** Prominvestbank, Ukraine - Software engineer
-June 2003 - October 2010
+/June 2003 \to December 2008/
   
-- Participated in the service of mobile banking applications that
-  increased user adoption and reduced customer support call;
-
-- Enhanced software architecture and infrastructure in migrating
-  legacy systems to modern technologies, implementing cloud-based
-  infrastructures for scalability, and reducing downtime;
-
-- Provided technical support and documentation for internal and
-  external users.
+- Configure, set up and debug the informational system /"Client-Bank"/
+  for remote banking;
   
+- Provided technical support for bank's clients with /"Client-Bank"/
+  installation and initial settings, continuously assisted them by
+  phone and email;
+  
+- Provided technical support for bank customers;
 
+- Developed of user's manuals for bank customers and employees;
+  
+- Miscellaneous software installation, configuring and technical
+  support;
+
+- Office equipment maintance and repair. 
+
+
+* Education
+/September 1998 \ to May 2004/
+
+Diploma/Bachelor in Computer’s Systems and Networks
+Zaporizhzhya National Technical University, Zaporizhzhya, Ukraine.
+
+* Skills
+
+- Leadership;
+
+- Problem-solving;
+
+- Decision-making;
+  
+- IT-skills: Windows, Linux, and I am familiar with a plethora of
+  applications such as Gmail, Word, Excel, Google Docs, Google Tables
+  etc., Emacs text editor;
+  
+- I am fluent in Ukrainian and Russian and have Intermediate level of
+  English.
+  
 * Notes                                                            :noexport:
 
 - Managing daily operations of a high-volume store,
@@ -185,4 +212,15 @@ May 2023 - August 2023
   
 - Introduction to Emacs, Org-mode;
 - Python IDE.
+
+
+
+** Upwork — Software developer
+October 2010 - January 2015
+
+- Builted a web scrapers to extract and collect data from websites;
+- Achieved Python certification;
+
+
+
 
