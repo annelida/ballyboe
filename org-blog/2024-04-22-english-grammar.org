@@ -154,3 +154,55 @@ repeating words:
 
  Her coat is grey.
          Mine is brown. (INSTEAD OF [My coat] is brown.)
+
+** Demonstratives
+
+A *demonstrative* is a pronoun that points to a particular noun or to
+the noun it replaces.
+
+=this and these=
+
+We use =this= (singular) and =these= (plural) as pronouns:
+
+- to talk about people or things near us:
+
+  This is a nice cup of tea.
+  Whose shoes are these?
+
+- to introduce people:
+
+  This is Janet.
+  These are my friends John and Michael.
+
+- to begin a conversation on the phone:
+
+  Hello, this is David. Can I speak to Sally?
+
+ =that and those=
+
+We use that (singular) and those (plural) as pronouns to talk about
+things that are not near us:
+
+What's that?
+Those are very expensive shoes.
+This is our house, and that's Rebecca's house over there.
+
+We also use that to reply to something someone has said:
+
+'Shall we go to the cinema?'  'Yes, that’s a good idea.'
+'I've got a new job.'  'That's great.'
+'I'm very tired.'  'Why is that?'
+
+With nouns
+
+We can also use =this, these, that= and =those= with nouns.
+
+We use =this= and =these= for people or things near us:
+
+We have lived in this house for twenty years.
+Have you read all of these books?
+
+and =that= and =those= for people or things that are not near us:
+
+Who lives in that house?
+Who are those people?
