@@ -1,0 +1,94 @@
+#+BEGIN_EXPORT html
+---
+layout: post
+title: Viktoriia Kosinova
+tagline: " I do my best"
+permalink: /cv/software-tester.html
+categories: [CV, Software Tester]
+tags: [cv, info, about me]
+---
+#+END_EXPORT
+
+#+STARTUP: showall indent
+#+OPTIONS: tags:nil num:nil \n:nil @:t ::t |:t ^:{} _:{} *:t eval:noexport
+#+TOC: headlines 2
+
+* I am as a professional
+
+* Experience
+
+** Rigel Lab Ltd., Ireland— Junior Software Tester
+
+/December2023 \to PRESENT/
+
+- Gained knowledge about a new set of toolbox:
+- Selenim Webdriver;
+- Playwright
+
+** Rigel Lab Ltd., Ireland— Junior Python Developer
+
+/August 2023 \to December 2023/
+
+- Studied the new approaches and techniques for material effective
+  learning:
+
+  - Pomodoro techniques;
+  - Double-loop learning;
+  - Spaced repetition;
+  - Deliberated practice;
+  - Extreme programming.
+
+- Learned UnitTesting;
+
+- Learned by testing new concepts, practice, approaches, paradigm.
+
+
+** Rigel Lab Ltd., Ireland — Software Engineering Internship
+
+/May 2023 \to August 2023/
+
+- Studied the core Linux OS concepts:
+
+  - Linux file system;
+  - Process management in Linux;
+  - Command language Bash;
+
+- Introduction to Emacs, Org-mode;
+- Python IDE.
+
+
+** Upwork — Software developer
+
+/October 2010 \to January 2015/
+
+- Builted a web scrapers to extract and collect data from websites;
+- Achieved Python certification;
+
+
+**  [[https://en.wikipedia.org/wiki/Prominvestbank][Prominvestbank]] — Software Engineer 
+  
+/June 2003 \to December 2008/
+
+  The list of liable duties:
+
+- Initial configure, set up, maintenance and debug the modern (at that
+  time, of course) informational system /"Client-Bank"/ (at server
+  side) for providing remote banking services for the customers;
+
+- Technical support for bank's clients with /"Client-Bank"/
+  installation and initial settings (at client side), consistently
+  assisted in theirs issue solving by phone and email;
+
+- User's manuals development for bank customers and employees;
+
+- Miscellaneous software installation, configuring and technical
+  support at all stages of its usage by a bank's employees;
+
+- Mixed office equipment maintenance and repair.
+
+
+* Education
+
+* Skills
+
+* Notes                                                            :noexport:
