@@ -746,6 +746,16 @@ processed before the command-line switches other than -E or -I.
  -I
     Run Python in isolated mode.
 
+** FreeBSD and OpenBSD
+
+Is a free and open-source Unix-like operating system descended from
+the Berkeley Software Distribution.
+
+** Open source software
+
+is software with source code that anyone can inspect, modify, and
+enhance.
+
 
 
 
