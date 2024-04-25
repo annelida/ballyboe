@@ -62,7 +62,7 @@ by default.
 #+RESULTS:
 : pip 23.0.1 from /usr/lib/python3/dist-packages/pip (python 3.11)
 
-Obviosly that the system wide packages for Python located in 
+Obviosly that the system wide packages for Python located in
 in /usr/lib/python3/
 
 But Python itself in another folder
@@ -570,7 +570,7 @@ tree -L 1 ~/.local/venvs/ViEnv0.1/bin/
 
 * How will bee looks =sys.path= when =venv= activated
 
-When =venv= is not activated 
+When =venv= is not activated
 
 #+begin_src python :results output
   import sys
@@ -594,8 +594,54 @@ When =venv= is activated
 
 * Conclusion:
 
+#+begin_quote
+The benefits of using virtual environments in Python projects are
+numerous and essential for efficient and organized development
+processes. Some key advantages include:
 
-* Creating a Python virtual environment on a Debian-based system
+- Dependency Isolation: Virtual environments ensure that packages
+  installed for one project do not interfere with those installed for
+  others, preventing version conflicts and ensuring the correct
+  package versions are used;
+
+- Reproducibility: Virtual environments specify exact package versions
+  used in a project, making it easier for other developers to recreate
+  the same environment and ensure consistent behavior;
+
+- Project Portability: Virtual environments can be easily moved or
+  copied to different machines, enabling developers to work on the
+  same project in different environments without worrying about
+  package installation or dependency issues;
+
+
+
+- Testing and Development Isolation: Virtual environments are useful
+  for testing code with different package versions or experimenting
+  with new libraries without impacting the main development
+  environment;
+
+- Avoiding Global Package Installation: By isolating project-specific
+  dependencies, virtual environments keep the global Python
+  environment clean and prevent conflicts caused by system-wide
+  package installations;
+
+- Enhanced Development Environment: Virtual environments allow
+  developers to customize the Python environment for each project,
+  including Python versions and package versions, enhancing
+  flexibility and control.
+
+  In summary, virtual environments in Python offer a structured and
+  efficient way to manage dependencies, ensure reproducibility,
+  simplify collaboration, and maintain a clean and stable development
+  environment.
+
+#+end_quote
+
+
+
+* Notes                                                            :noexport:
+
+** Creating a Python virtual environment on a Debian-based system
 
 On Debian distributives you first need to ensure which the
 Python standard venv library is available.
@@ -704,16 +750,17 @@ wsproto           1.2.0
   python -m venv venv
 #+end_src
 
-To activate virtual environment, navigate to the created 
-'venv' and type: 
+To activate virtual environment, navigate to the created
+'venv' and type:
 
 #+begin_src shell :results output
   cd /home/vikky/venv/
   source bin/activate
 #+end_src
 
-When virtual environment activated sys.path is generate list of paths from venv directory only. 
-To see it let's create a simple script python_sys.py
+When virtual environment activated sys.path is generate list of paths
+from venv directory only.  To see it let's create a simple script
+python_sys.py
 
 #+begin_src python :results output
     import sys
@@ -728,7 +775,7 @@ when activate a virtual environment and run it.
 #+begin_src shell :results output
   cd /home/vikky/venv/
   source bin/activate
-  python python_sys.py 
+  python python_sys.py
 #+end_src
 
 #+RESULTS:
@@ -737,8 +784,8 @@ when activate a virtual environment and run it.
 
 To deactivate the current virtual environment use the command “deactivate”.
 
-When virtual envoronment is deactivated sys.path will search paths outside venv directory. 
-  
+When virtual envoronment is deactivated sys.path will search paths outside venv directory.
+
 #+begin_src python :results output
     import sys
     print(sys.path)
@@ -748,5 +795,3 @@ When virtual envoronment is deactivated sys.path will search paths outside venv 
 : ['', '/usr/lib/python39.zip', '/usr/lib/python3.9', '/usr/lib/python3.9/lib-dynload', '/home/vikky/.local/lib/python3.9/site-packages', '/usr/local/lib/python3.9/dist-packages', '/usr/lib/python3/dist-packages']
  '', '/usr/lib/python39.zip', '/usr/lib/python3.9', '/usr/lib/python3.9/lib-dynload', '/home/vikky/.local/lib/python3.9/site-packages',
  '/usr/local/lib/python3.9/dist-packages', '/usr/lib/python3/dist-packages']
-
-
