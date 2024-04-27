@@ -83,10 +83,12 @@ about how the program works are:
 
 --* INIT Conclusion*: the wisest decision is just to use it properly!
 * Deliberate practice
-SCHEDULED: <2024-04-23 Tue ++1d>
+SCHEDULED: <2024-05-03 Fri ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-04-22 Mon 19:30]
+:LAST_REPEAT: [2024-04-24 Wed 18:51]
 :END:
+- State "AMPLE"      from ""           [2024-04-24 Wed 18:51]
+- State "AMPLE"      from ""           [2024-04-23 Tue 19:36]
 - State "AMPLE"      from ""           [2024-04-22 Mon 19:30]
 - State "AMPLE"      from ""           [2024-04-17 Wed 19:22]
 - State "AMPLE"      from "RETARD"     [2024-01-28 Sun 17:20]
@@ -255,7 +257,7 @@ CLOCK: [2024-03-07 Thu 10:40]--[2024-03-07 Thu 10:57] =>  0:17
 - State "DONE"       from "ACTIVE"     [2023-11-09 Thu 18:41]
 - State "DONE"       from "ACTIVE"     [2023-11-07 Tue 18:21]
 ** RAW [#A] *Selenium* package review
-SCHEDULED: <2024-04-25 Thu ++1d>
+SCHEDULED: <2024-05-01 Wed ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-03-14 Thu 18:04]
 :END:
