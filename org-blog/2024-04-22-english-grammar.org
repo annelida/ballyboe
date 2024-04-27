@@ -24,15 +24,16 @@ to repeat the same noun over and over.
 
 ** Subject and object pronouns
 
-  Subject  Object    
-  I      me    
-  you      you    
-  he      him    
-  she      her    
-  it      it    
-  we      us    
-  you      you    
-  they     them
+| Subject | Object |
+|---------+--------|
+| I       | me     |
+| you     | you    |
+| he      | him    |
+| she     | her    |
+| it      | it     |
+| we      | us     |
+| you     | you    |
+| they    | them   |
 
 
 *Subject pronouns* used as the subject of a verb, which means that
@@ -59,7 +60,7 @@ I'll speak to them.
 I cooked it for you.
 I'll tell him about your visit.
 i'll be happy to see her.
-These parsel for me.
+This parsel for me.
 Please buy some ice cream for us in grocery shop.
 Please give them the letter.
 
@@ -88,7 +89,7 @@ His father has just retired. > He was a teacher. (NOT Was a teacher.)
     Go away.
     Play it again, please.
 
-    there
+    =there=
 
 If there is no other subject, we use there to talk about:
 
@@ -122,13 +123,13 @@ We use it to talk about:
  It's a lovely day.
     It was getting cold.
 
-We use it with the verb =be= and an =–ing= form or
+We use =it= with the verb =be= and an =–ing= form or
 =to-infinitive= to express opinions:
 
  It's great living here.
  It's nice to meet you.
  
-** Posssesive pronouns
+** Possessive pronouns
 
 Is a pronoun that is used to express ownership or possession. 
 
