@@ -1,13 +1,13 @@
-#+BEGIN_HTML
+#+BEGIN_EXPORT html
 ---
 layout: post
 title: Python virtual environment
 tagline: " at glance"
 permalink: /python/virtual_env.html
-categories: [python, literate programming]
+categories: [Python, Virtual_evironment, Literate programming]
 tags: [tutorial, virtualenv, methodology]
 ---
-#+END_HTML
+#+END_EXPORT
 
 #+STARTUP: showall indent
 #+OPTIONS: tags:nil num:nil \n:nil @:t ::t |:t ^:{} _:{} *:t eval:no-export
@@ -17,27 +17,10 @@ tags: [tutorial, virtualenv, methodology]
 
 ** Virtual Environment: Purpose and Intention
 
-#+begin_quote
-A Python Virtual Environment is an isolated space where you can work
+A *Python Virtual Environment* is an isolated space where you can work
 on your Python projects, separately from your system-installed
 Python. You can set up your own libraries and dependencies without
 affecting the system Python.
-#+end_quote
-
-#+begin_quote
-Software portability is a design objective for source code to be
-easily made to run on different platforms. An aid to portability is
-the generalized abstraction between the application logic and system
-interfaces.
-#+end_quote
-
-#+begin_quote
-Software reproducibility here means the ability for someone to
-replicate a computational experiment that was done by someone else,
-using the same software and data.
-#+end_quote
-
-For which purpose used =venv= whatsoever???
 
 The purpose of the Virtual environment is creation an isolated from
 the main operating system set of libraries that allow reproduce itself
@@ -45,15 +28,10 @@ on other workstations and execute Python code in the same environment.
 
 ** PIP
 
-#+begin_quote
-The name pip is [an] acronym and declaration: pip installs packages.
-#+end_quote
+The name pip is [an] acronym and declaration: /pip installs packages/.
 
-#+begin_quote
-PIP is a package manager for Python packages, or modules if you
-like. Note: If you have Python version 3.4 or later, PIP is included
-by default.
-#+end_quote
+PIP is a package-management system written in Python and is used to
+install and manage software packages.
 
 #+begin_src sh :result verbatim
   pip --version
@@ -464,7 +442,8 @@ Check up pristine =sys.path=:
 
 ** The main utility is
 
-Yes, it's possible to do it via python3 -m venv, but:
+Yes, it's possible to do it via =python3 -m venv=, but:
+
 #+begin_src sh
 virtualenv --version
 #+end_src
@@ -567,7 +546,6 @@ tree -L 1 ~/.local/venvs/ViEnv0.1/bin/
 
 #+RESULTS:
 
-
 * How will bee looks =sys.path= when =venv= activated
 
 When =venv= is not activated
@@ -594,7 +572,6 @@ When =venv= is activated
 
 * Conclusion:
 
-#+begin_quote
 The benefits of using virtual environments in Python projects are
 numerous and essential for efficient and organized development
 processes. Some key advantages include:
@@ -613,32 +590,18 @@ processes. Some key advantages include:
   same project in different environments without worrying about
   package installation or dependency issues;
 
-
-
-- Testing and Development Isolation: Virtual environments are useful
-  for testing code with different package versions or experimenting
-  with new libraries without impacting the main development
-  environment;
-
-- Avoiding Global Package Installation: By isolating project-specific
-  dependencies, virtual environments keep the global Python
-  environment clean and prevent conflicts caused by system-wide
-  package installations;
-
-- Enhanced Development Environment: Virtual environments allow
-  developers to customize the Python environment for each project,
-  including Python versions and package versions, enhancing
-  flexibility and control.
-
   In summary, virtual environments in Python offer a structured and
   efficient way to manage dependencies, ensure reproducibility,
   simplify collaboration, and maintain a clean and stable development
   environment.
 
-#+end_quote
+  The main widely using ways to install and use Python virtual
+  environments are:
 
-
-
+  - Using the =venv= module;
+  - Using =virtualenv=.
+ 
+ 
 * Notes                                                            :noexport:
 
 ** Creating a Python virtual environment on a Debian-based system
@@ -795,3 +758,20 @@ When virtual envoronment is deactivated sys.path will search paths outside venv 
 : ['', '/usr/lib/python39.zip', '/usr/lib/python3.9', '/usr/lib/python3.9/lib-dynload', '/home/vikky/.local/lib/python3.9/site-packages', '/usr/local/lib/python3.9/dist-packages', '/usr/lib/python3/dist-packages']
  '', '/usr/lib/python39.zip', '/usr/lib/python3.9', '/usr/lib/python3.9/lib-dynload', '/home/vikky/.local/lib/python3.9/site-packages',
  '/usr/local/lib/python3.9/dist-packages', '/usr/lib/python3/dist-packages']
+
+
+ - Testing and Development Isolation: Virtual environments are useful
+  for testing code with different package versions or experimenting
+  with new libraries without impacting the main development
+  environment;
+
+- Avoiding Global Package Installation: By isolating project-specific
+  dependencies, virtual environments keep the global Python
+  environment clean and prevent conflicts caused by system-wide
+  package installations;
+
+- Enhanced Development Environment: Virtual environments allow
+  developers to customize the Python environment for each project,
+  including Python versions and package versions, enhancing
+  flexibility and control.
+
