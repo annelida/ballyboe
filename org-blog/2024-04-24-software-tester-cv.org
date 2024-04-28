@@ -19,24 +19,65 @@ Detail-oriented Python Software Tester with a solid foundation in
 Python programming and software testing methodologies, proficient in
 writing and executing test cases, identifying bugs, and ensuring
 software quality. Skilled in using Python for automation testing and
-familiar with testing tools like Selenium and Playwright. Eager to
-apply my technical skills and passion for quality assurance to
-contribute effectively to software testing projects.
+familiar with open-source automation testing tools like Selenium and
+Playwright. Eager to apply my technical skills and passion for quality
+assurance to contribute effectively to software testing projects.
 
 * Experience
 
 ** Rigel Lab Ltd., Ireland — Junior Software Tester
 
-/December2023 \to PRESENT/
+/August 2023 \to PRESENT/
 
+What implemented, how, and achieve what???
+
+- Studied the main software testing levels and techniques:
+  - Unit Testing;
+  - Integration Testing;
+  - System Testing;
+  - Acceptance Testing;
+  - Regression Testing;
+  - Performance Testing;
+  - Black Box Testing;
+  - White Box Testing;
+  - Functional Testing;
+  - Non-Functional Testing;
+  - Exploratory Testing.
+
+- Learned by testing new concepts, practice, approaches, paradigms;
 - Gained knowledge about a new set of toolbox:
-- Selenim Webdriver;
-- Playwright
+  - Selenium Webdriver;
+  - Playwright.
+- Writed and executed system, unit, acceptance, regression, load and
+  functional test cases using automated testing methods;
+- Identified, documented and reported bugs, errors, and other issues
+  within software applications developed for Rigel Lab’s Ltd. users;
+- Collaborated with team members, including through version control
+  systems like Git.
 
-** Rigel Lab Ltd., Ireland— Junior Python Developer
+** Rigel Lab Ltd., Ireland — Software Engineering Internship
 
-/August 2023 \to December 2023/
+/May 2023 \to August 2023/
 
+
+Wrote my first web app with Flask framework and utilizing TDD
+methodology, initially tested it manually, made CI/CD, wrote 25 test
+suites with functional code coverage 95%.
+
+- Studied the main Linux OS concepts:
+  - Linux Distributions;
+  - Unix shell a command-line user interpreter;
+  - Linux File System;
+  - Linux Process Management;
+  - Linux Package Management.
+
+- Studied a core of Python programming:
+  - Python's syntax, data structures, control flow, exception
+    handling, and file handling;
+
+- Python IDE;
+- Introduction to Emacs, Org-mode;
+- Time management and prioritization abilities;
 - Studied the new approaches and techniques for material effective
   learning:
 
@@ -45,31 +86,6 @@ contribute effectively to software testing projects.
   - Spaced repetition;
   - Deliberated practice;
   - Extreme programming.
-
-- Learned UnitTesting;
-
-- Learned by testing new concepts, practice, approaches, paradigm.
-
-
-** Rigel Lab Ltd., Ireland — Software Engineering Internship
-
-/May 2023 \to August 2023/
-
-- Studied the main Linux OS concepts:
-  - The Linux Kernel;
-  - Linux Distributions;
-  - Linux File System;
-  - Linux Shell and Terminal;
-  - Linux Permissions;
-  - Linux Package Management;
-  - Linux Networking.
-
-
-- Studied the main Python language 
-    
-- Introduction to Emacs, Org-mode;
-- Time management and prioritization abilities.
-- Python IDE.
 
 
 ** Upwork — Software developer
@@ -80,8 +96,8 @@ contribute effectively to software testing projects.
 - Achieved Python certification;
 
 
-**  [[https://en.wikipedia.org/wiki/Prominvestbank][Prominvestbank]] — Software Engineer 
-  
+**  [[https://en.wikipedia.org/wiki/Prominvestbank][Prominvestbank]] — Software Engineer
+
 /June 2003 \to December 2008/
 
   The list of liable duties:
@@ -101,8 +117,11 @@ contribute effectively to software testing projects.
 
 - Mixed office equipment maintenance and repair.
 
-
 * Education
+/September 1998 \to May 2004/
+
+[[https://en.wikipedia.org/wiki/Zaporizhzhia_Polytechnic_National_University][Zaporizhzhia Polytechnic National University]]
+Graduated as: /a Bachelor in Computational Systems and Networks/
 
 * Skills
 
@@ -117,7 +136,6 @@ contribute effectively to software testing projects.
 - Database management (SQL, PostgreSQL, MySQL);
 - Problem-solving and critical thinking;
 - Team collaboration and communication.
-  
 
 * Notes                                                            :noexport:
 
@@ -128,3 +146,7 @@ Python-based web applications, with a strong foundation in Python's
 core concepts and proficiency in its libraries and frameworks. Eager
 to leverage my technical expertise and problem-solving abilities to
 contribute to the success of the team and the organization.
+
+* Rigel Lab Ltd., Ireland— Junior Python Developer
+
+/August 2023 \to December 2023/
