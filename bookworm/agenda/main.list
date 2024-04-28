@@ -125,7 +125,7 @@ CLOCK: [2024-02-09 Fri 12:23]--[2024-02-09 Fri 12:42] =>  0:19
 :END:
 [[https://www.bbc.co.uk/learningenglish/english/course/lower-intermediate/unit-21/session-2/activity-3]]
 ***** Tense tour
-SCHEDULED: <2024-04-29 Mon ++2w>
+SCHEDULED: <2024-04-30 Tue ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-04-09 Tue 15:08]
 :END:
@@ -143,7 +143,7 @@ CLOCK: [2024-02-09 Fri 12:42]--[2024-02-09 Fri 12:58] =>  0:16
 :END:
 [[https://www.bbc.co.uk/learningenglish/english/course/lower-intermediate/unit-20/session-2/activity-3]]
 ***** Present Simple and Present Continuous
-SCHEDULED: <2024-04-29 Mon ++2w>
+SCHEDULED: <2024-04-30 Tue ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-04-09 Tue 18:45]
 :END:
@@ -162,7 +162,7 @@ CLOCK: [2024-02-21 Wed 09:38]--[2024-02-21 Wed 09:54] =>  0:16
 :END:
 https://www.bbc.co.uk/learningenglish/english/course/lower-intermediate/unit-1/session-2/activity-4
 ***** "Like" for preference and description
-SCHEDULED: <2024-04-29 Mon ++2w>
+SCHEDULED: <2024-04-30 Tue ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-03-01 Fri 18:36]
 :END:
@@ -182,7 +182,7 @@ CLOCK: [2024-03-05 Tue 10:30]--[2024-03-05 Tue 13:41] =>  3:11
 :END:
 [https://www.bbc.co.uk/learningenglish/english/course/lower-intermediate/unit-4/session-2/activity-4]
 ***** 'Have to' and 'must'
-SCHEDULED: <2024-04-29 Mon ++2w>
+SCHEDULED: <2024-04-30 Tue ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-03-27 Wed 18:26]
 :END:
@@ -197,7 +197,7 @@ CLOCK: [2024-03-07 Thu 10:57]--[2024-03-07 Thu 11:33] =>  0:36
 SCHEDULED: <2024-03-13 Wed ++2w>
 [https://www.bbc.co.uk/learningenglish/english/course/lower-intermediate/unit-6/session-2/activity-5]
 ***** Past simple and Past continuous
-SCHEDULED: <2024-04-29 Mon ++2w>
+SCHEDULED: <2024-04-30 Tue ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-03-19 Tue 17:31]
 :END:
@@ -207,7 +207,7 @@ CLOCK: [2024-03-19 Tue 12:02]--[2024-03-19 Tue 17:30] =>  5:28
 :END:
 [https://www.bbc.co.uk/learningnglish/english/course/lower-intermediate/unit-7/session-2/activity-4]
 ***** Articles
-SCHEDULED: <2024-04-29 Mon ++2w>
+SCHEDULED: <2024-04-30 Tue ++2w>
 :LOGBOOK:
 CLOCK: [2024-04-09 Tue 06:12]--[2024-04-09 Tue 06:33] =>  0:21
 :END:
@@ -216,7 +216,7 @@ CLOCK: [2024-04-09 Tue 06:12]--[2024-04-09 Tue 06:33] =>  0:21
 
 ***** Pronouns
 ****** DP0 Object and subject pronouns
-SCHEDULED: <2024-04-29 Mon>
+SCHEDULED: <2024-04-30 Tue>
 - Note taken on [2024-04-21 Sun 19:19] \\
   Move notes from *scratch* buffer into article.
 :LOGBOOK:
@@ -224,7 +224,7 @@ CLOCK: [2024-04-23 Tue 07:27]--[2024-04-23 Tue 07:40] =>  0:13
 CLOCK: [2024-04-21 Sun 09:40]--[2024-04-21 Sun 10:13] =>  0:33
 :END:
 [[https://learnenglish.britishcouncil.org/grammar/english-grammar-reference/personal-pronouns]]
-****** [#A] 'it' and 'there' as dummy subjects
+****** [#B] 'it' and 'there' as dummy subjects
 SCHEDULED: <2024-04-29 Mon ++1w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-04-22 Mon 19:29]
@@ -235,13 +235,13 @@ CLOCK: [2024-04-22 Mon 07:08]--[2024-04-22 Mon 07:39] =>  0:31
 :END:
 [https://learnenglish.britishcouncil.org/grammar/english-grammar-reference/it-there-dummy-subjects]
 ****** DP0 Possessive pronouns
-SCHEDULED: <2024-04-29 Mon>
+SCHEDULED: <2024-04-30 Tue>
 :LOGBOOK:
 CLOCK: [2024-04-23 Tue 07:07]--[2024-04-23 Tue 07:27] =>  0:20
 :END:
 
 https://learnenglish.britishcouncil.org/grammar/english-grammar-reference/possessive-pronouns
-****** [#A] Demonstratives
+****** [#B] Demonstratives
 SCHEDULED: <2024-04-29 Mon ++2d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-04-27 Sat 18:19]
@@ -254,7 +254,9 @@ CLOCK: [2024-04-27 Sat 07:58]--[2024-04-27 Sat 08:04] =>  0:06
 CLOCK: [2024-04-25 Thu 07:11]--[2024-04-25 Thu 07:40] =>  0:29
 :END:
 [https://learnenglish.britishcouncil.org/grammar/english-grammar-reference/demonstratives]
-****** 'one' and 'ones'
+****** [#A] 'one' and 'ones'
+SCHEDULED: <2024-04-29 Mon>
+[https://learnenglish.britishcouncil.org/grammar/english-grammar-reference/one-ones]
 ****** Pronouns in questions
 ****** Reflexive pronouns
 ****** Reciprocal pronouns
@@ -263,7 +265,7 @@ CLOCK: [2024-04-25 Thu 07:11]--[2024-04-25 Thu 07:40] =>  0:29
 
 ** The English We Speak
 **** Rinse repeat
-SCHEDULED: <2024-04-29 Mon ++2w>
+SCHEDULED: <2024-04-30 Tue ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-04-09 Tue 18:45]
 :END:
@@ -275,7 +277,7 @@ CLOCK: [2024-03-01 Fri 11:03]--[2024-03-01 Fri 11:14] =>  0:11
 :END:
 [https://www.bbc.co.uk/sounds/play/p0hf8wg1]
 **** A million to one
-SCHEDULED: <2024-04-29 Mon ++2w>
+SCHEDULED: <2024-04-30 Tue ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-04-09 Tue 18:46]
 :END:
@@ -283,7 +285,7 @@ SCHEDULED: <2024-04-29 Mon ++2w>
 - State "AMPLE"      from ""           [2024-03-13 Wed 17:48]
 [https://www.bbc.co.uk/sounds/play/p0hcy06f]
 **** Come up with an idea carefully
-SCHEDULED: <2024-04-29 Mon>
+SCHEDULED: <2024-04-30 Tue>
 [https://www.bbc.co.uk/sounds/play/p0hj2w1w]
 ** Linux
 :PROPERTIES:
@@ -501,7 +503,7 @@ cat /etc/os-release
 : BUG_REPORT_URL="https://bugs.debian.org/"
 
 *** Windows and Workspaces
-SCHEDULED: <2024-04-28 Sun>
+SCHEDULED: <2024-04-29 Mon>
 :PROPERTIES:
 :CATEGORY: GNOME
 :END:
@@ -847,7 +849,7 @@ CLOCK: [2024-04-16 Tue 07:23]--[2024-04-16 Tue 08:38] =>  1:15
 [[info:python3.11#An Informal Introduction to Python][python3.11#An Informal Introduction to Python]]
 
 **** [#A] Python Setup and Usage
-SCHEDULED: <2024-04-28 Sun ++2w>
+SCHEDULED: <2024-04-29 Mon ++2w>
 :LOGBOOK:
 CLOCK: [2024-04-25 Thu 07:41]--[2024-04-25 Thu 08:30] =>  0:49
 CLOCK: [2024-04-23 Tue 08:30]--[2024-04-23 Tue 08:54] =>  0:24
@@ -856,8 +858,9 @@ CLOCK: [2024-04-23 Tue 07:44]--[2024-04-23 Tue 08:17] =>  0:33
 [[info:python3.11#Python Setup and Usage][python3.11#Python Setup and Usage]]
 
 **** [#A] Python Language Reference
-SCHEDULED: <2024-04-28 Sun>
+SCHEDULED: <2024-04-29 Mon>
 :LOGBOOK:
+CLOCK: [2024-04-28 Sun 09:58]--[2024-04-28 Sun 10:48] =>  0:50
 CLOCK: [2024-04-27 Sat 07:14]--[2024-04-27 Sat 07:53] =>  0:39
 CLOCK: [2024-04-22 Mon 08:24]--[2024-04-22 Mon 09:09] =>  0:45
 :END:
@@ -1002,7 +1005,7 @@ Object's methods are functions that belong to the object.
 : The student's name is Tony Black
 
 *** Init [#A]Python and Selenium WebDriver
-SCHEDULED: <2024-04-29 Mon ++2w>
+SCHEDULED: <2024-05-01 Wed ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-16 Thu 09:23]
 :CATEGORY: Python
@@ -1639,8 +1642,8 @@ SCHEDULED: <2024-05-01 Wed>
 :LOGBOOK:
 CLOCK: [2024-04-09 Tue 15:12]--[2024-04-09 Tue 15:41] =>  0:29
 :END:
-*** [#B] Trinity: PIP, PYTHONPATH, VENV
-SCHEDULED: <2024-04-28 Sun>
+*** [#A] Trinity: PIP, PYTHONPATH, VENV
+SCHEDULED: <2024-04-29 Mon>
 - Note taken on [2024-04-20 Sat 09:26] \\
   REPL can't feel =venv= switch by default?
   
@@ -1648,6 +1651,7 @@ SCHEDULED: <2024-04-28 Sun>
 - Note taken on [2024-04-20 Sat 09:26] \\
   Show the =sys.path= mutation after activation
 :LOGBOOK:
+CLOCK: [2024-04-28 Sun 10:52]--[2024-04-28 Sun 12:03] =>  1:11
 CLOCK: [2024-04-25 Thu 08:37]--[2024-04-25 Thu 09:13] =>  0:36
 CLOCK: [2024-04-21 Sun 10:51]--[2024-04-21 Sun 11:18] =>  0:27
 CLOCK: [2024-04-19 Fri 12:43]--[2024-04-19 Fri 13:34] =>  0:51
@@ -1754,7 +1758,7 @@ SCHEDULED: <2024-05-20 Mon>
 :CATEGORY: Emacs
 :END:
 *** DELAY Emacs + venv
-SCHEDULED: <2024-04-29 Mon ++3w>
+SCHEDULED: <2024-05-01 Wed ++3w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-01-29 Mon 16:01]
 :END:
@@ -2464,7 +2468,7 @@ SCHEDULED: <2024-05-12 Sun>
 ***** Git/Magit
 
 ******* DELAY Git/Magit merge and rebase concept.
-SCHEDULED: <2024-04-29 Mon>
+SCHEDULED: <2024-05-01 Wed>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-16 Thu 15:34]
 :CATEGORY: Git
@@ -2642,9 +2646,11 @@ CLOCK: [2024-01-04 Thu 12:11]--[2024-01-04 Thu 12:13] =>  0:02
 SCHEDULED: <2024-05-03 Fri>
 ** [#B] Portfolio creation
 SCHEDULED: <2024-05-03 Fri>
-** [#A] CV elaboration
-SCHEDULED: <2024-04-28 Sun>
+** DELAY [#A] CV elaboration
+SCHEDULED: <2024-05-08 Wed>
 :LOGBOOK:
+CLOCK: [2024-04-28 Sun 09:00]--[2024-04-28 Sun 09:35] =>  0:35
+CLOCK: [2024-04-28 Sun 07:14]--[2024-04-28 Sun 08:41] =>  1:27
 CLOCK: [2024-04-27 Sat 11:07]--[2024-04-27 Sat 12:17] =>  1:10
 CLOCK: [2024-04-25 Thu 09:42]--[2024-04-25 Thu 10:42] =>  1:00
 CLOCK: [2024-04-23 Tue 15:18]--[2024-04-23 Tue 16:49] =>  1:31
@@ -2961,7 +2967,7 @@ CLOCK: [2024-04-19 Fri 16:21]--[2024-04-19 Fri 17:16] =>  0:55
 ** AMPLE [#C] Key-chord with y!!!
 SCHEDULED: <2024-04-22 Mon>
 ** DP1 [#B] Article about Python Programming Language
-SCHEDULED: <2024-04-28 Sun>
+SCHEDULED: <2024-04-29 Mon>
 :LOGBOOK:
 CLOCK: [2024-04-20 Sat 16:10]--[2024-04-20 Sat 16:25] =>  0:15
 :END:
@@ -2974,5 +2980,7 @@ SCHEDULED: <2024-04-23 Tue>
 :LOGBOOK:
 CLOCK: [2024-04-22 Mon 09:39]--[2024-04-22 Mon 10:10] =>  0:31
 :END:
+** RAW [#C] Python programming language brief overview diagram
+SCHEDULED: <2024-04-29 Mon>
 
 * Personal
