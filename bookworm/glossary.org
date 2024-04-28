@@ -281,7 +281,7 @@ which act as online repositories that host packages.
 
 Selenium is a free and open source library for automated testing web
 application across different browsers and platforms, that implemented
-on multiple programming languages. 
+on multiple programming languages.
 
 ** API
 An application programming interface is a way for two or more computer
@@ -335,7 +335,7 @@ that are linked by a common domain name.
 ** Domain name
 
 #+begin_quote
-Is unique name of a website. 
+Is unique name of a website.
 #+end_quote
 
 ** Defect
@@ -387,7 +387,7 @@ performance, usability and dependability.
 
 #+begin_quote
 Is how well a software or application it's intended tasks such as
-speed, responsiveness, scalability and resource utilization. 
+speed, responsiveness, scalability and resource utilization.
 #+end_quote
 
 ** Quality assurance
@@ -756,14 +756,53 @@ the Berkeley Software Distribution.
 is software with source code that anyone can inspect, modify, and
 enhance.
 
+** Token
 
+Tokens or lexical units are the smallest fractions in the python
+programme. A token is a set of one or more characters having a meaning
+together.
 
+There are 5 types of tokens in python which are listed below:
 
+    Keywords
+    Identifiers
+    Literals
+    Operators
+    Punctuators
 
+** Keyword
 
+Is a reserved word in a computer language that has a specific
+meaning. Python keywords form the vocabulary of the python
+language. Keywords aren’t allowed to be used as identifiers. They are
+used to define the Python language’s “Syntax” or “Structure.
 
+There are as in all 33 keywords used in Python programming language
+version 3.7.
 
+    and, not, or: logical Operators
+    as: To create an alias
+    assert: For debugging
+    break: To break out of a loop
+    if: To create a conditional statement
+    while: To create a while loop
 
+** Identifier
 
+In Python, an identifier is a name given to a Class, Function, or
+Variable. It aids in distinguishing one entity from others.
 
+** Operators
 
+Operands are the variables and objects to which the computation is
+applied.
+
+** Literals
+
+Literals return a value for an object of the specified type.
+
+** Punctuators
+
+Punctuators are symbols that are used to structure programming
+sentences in a computer language. Some commonly used punctuators are:
+‘, ‘ ,#, \ ,( ) ,{ },[ ] ,@ ,: , =
