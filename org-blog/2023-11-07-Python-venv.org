@@ -10,8 +10,9 @@ tags: [tutorial, virtualenv, methodology]
 #+END_EXPORT
 
 #+STARTUP: showall indent
-#+OPTIONS: tags:nil num:nil \n:nil @:t ::t |:t ^:{} _:{} *:t eval:no-export
+#+OPTIONS: tags:nil num:nil \n:nil @:t ::t |:t ^:{} _:{} *:t
 #+TOC: headlines 2
+#+PROPERTY:header-args :results output :exports both :eval no-export
 
 * Preamble
 
@@ -548,7 +549,7 @@ tree -L 1 ~/.local/venvs/ViEnv0.1/bin/
 
 * How will bee looks =sys.path= when =venv= activated
 
-When =venv= is not activated
+When =venv= is not activated =sys.path= have look:
 
 #+begin_src python :results output
   import sys
@@ -556,10 +557,11 @@ When =venv= is not activated
 #+end_src
 
 #+RESULTS:
-: ['', '/usr/lib/python311.zip', '/usr/lib/python3.11', '/usr/lib/python3.11/lib-dynload', '/usr/local/lib/python3.11/dist-packages',
-'/usr/lib/python3/dist-packages', '/usr/lib/python3.11/dist-packages']
+: ['', '/usr/lib/python311.zip', '/usr/lib/python3.11', '/usr/lib/python3.11/lib-dynload',
+: '/usr/local/lib/python3.11/dist-packages', '/usr/lib/python3/dist-packages',
+: '/usr/lib/python3.11/dist-packages']
 
-When =venv= is activated
+When =venv= is activated:
 
 #+begin_src python :results output
   import sys
@@ -600,8 +602,8 @@ processes. Some key advantages include:
 
   - Using the =venv= module;
   - Using =virtualenv=.
- 
- 
+
+
 * Notes                                                            :noexport:
 
 ** Creating a Python virtual environment on a Debian-based system
@@ -774,4 +776,3 @@ When virtual envoronment is deactivated sys.path will search paths outside venv 
   developers to customize the Python environment for each project,
   including Python versions and package versions, enhancing
   flexibility and control.
-
