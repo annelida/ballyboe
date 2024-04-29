@@ -274,41 +274,50 @@ evaluate the code.
   git/annelida/ballyboe/Dell
 
   #+begin_src sh
-    cd ~/git/annelida/ballyboe/bookworm
-    cp bookmarks ~/git/ballyboe/Dell
-    cd ~/git/ballyboe/Dell
-    ls
+   cd ~/git/annelida/ballyboe/bookworm
+   cp bookmarks ~/git/ballyboe/Dell
+   cd ~/git/annelida/ballyboe/Dell
+   ls
   #+end_src
 
   #+RESULTS:
-  | agenda        |
-  | bookmarks     |
-  | drills.org    |
-  | glossary.org  |
-  | index.org     |
-  | key-chords.el |
+  : bookmarks
+  : init.el
+  : init.el~
+  : key-chords.el~
+  : org-capture-templates.el
+  : org-capture-templates.el~
 
-  Make soft link from ~/.emacs.d foler to =bookmark+= file.
+  Delete existing =bookmarks= file from ~/.emacs.d. Make soft link
+  from ~/.emacs.d folder to =bookmarks= file.
 
-  #+begin_src sh
+  #+begin_src sh :results verbatim
     cd ~/.emacs.d
     ln -s ~/git/annelida/ballyboe/Dell/bookmarks
     ls -la
   #+end_src
 
   #+RESULTS:
-  | total      | 28 |       |       |      |     |    |       |                                                          |    |                                                          |
-  | drwx------ |  7 | vikky | vikky | 4096 | Apr | 11 | 09:26 | .                                                        |    |                                                          |
-  | drwx------ | 18 | vikky | vikky | 4096 | Apr |  9 | 15:05 | ..                                                       |    |                                                          |
-  | drwx------ |  2 | vikky | vikky | 4096 | Apr |  8 | 11:39 | auto-save-list                                           |    |                                                          |
-  | lrwxrwxrwx |  1 | vikky | vikky |   48 | Apr | 11 | 09:26 | bookmarks                                                | -> | /home/vikky/git/annelida/ballyboe/Dell/bookmarks         |
-  | drwxr-xr-x |  4 | vikky | vikky | 4096 | Dec | 18 | 12:22 | eln-cache                                                |    |                                                          |
-  | drwxr-xr-x |  4 | vikky | vikky | 4096 | Apr |  9 | 16:03 | elpa                                                     |    |                                                          |
-  | lrwxrwxrwx |  1 | vikky | vikky |   46 | Apr |  3 | 11:44 | init.el                                                  | -> | /home/vikky/git/annelida/ballyboe/Dell/init.el           |
-  | lrwxrwxrwx |  1 | vikky | vikky |   56 | Apr |  5 | 09:53 | key-chords.el                                            | -> | /home/vikky/git/annelida/ballyboe/bookworm/key-chords.el |
-  | drwxr-xr-x |  2 | vikky | vikky | 4096 | Apr |  9 | 07:38 | request                                                  |    |                                                          |
-  | -rw-r--r-- |  1 | vikky | vikky |    0 | Dec |  8 | 13:55 | session.10e18d78e5f9d79e92170204330881657300001006640073 |    |                                                          |
-  | drwxr-xr-x |  2 | vikky | vikky | 4096 | Apr |  8 | 11:38 | transient                                                |    |                                                          |
+  #+begin_example
+  total 56
+  drwx------ 10 vikky vikky 4096 Apr 29 13:06 .
+  drwx------ 19 vikky vikky 4096 Apr 29 14:21 ..
+  drwx------  2 vikky vikky 4096 Apr 29 13:35 auto-save-list
+  -rw-r--r--  1 vikky vikky 7129 Apr 29 13:10 #bookmarks#
+  lrwxrwxrwx  1 vikky vikky   48 Apr 11 09:26 bookmarks -> /home/vikky/git/annelida/ballyboe/Dell/bookmarks
+  drwxr-xr-x  4 vikky vikky 4096 Dec 18 12:22 eln-cache
+  drwxr-xr-x  4 vikky vikky 4096 Apr  9 16:03 elpa
+  drwxr-xr-x  3 vikky vikky 4096 Apr 19 07:41 elpy
+  lrwxrwxrwx  1 vikky vikky   46 Apr  3 11:44 init.el -> /home/vikky/git/annelida/ballyboe/Dell/init.el
+  lrwxrwxrwx  1 vikky vikky   56 Apr  5 09:53 key-chords.el -> /home/vikky/git/annelida/ballyboe/bookworm/key-chords.el
+  lrwxrwxrwx  1 vikky vikky   63 Apr 15 08:56 org-capture-templates.el -> /home/vikky/git/annelida/ballyboe/Dell/org-capture-templates.el
+  -rw-r--r--  1 vikky vikky  324 Apr 16 19:46 .org-id-locations
+  drwxr-xr-x  2 vikky vikky 4096 Apr 23 11:05 request
+  -rw-r--r--  1 vikky vikky    0 Dec  8 13:55 session.10e18d78e5f9d79e92170204330881657300001006640073
+  drwxr-xr-x  2 vikky vikky 4096 Apr 19 07:41 snippets
+  drwxr-xr-x  2 vikky vikky 4096 Apr 29 13:32 transient
+  drwxr-xr-x  2 vikky vikky 4096 Apr 29 13:43 url
+  #+end_example
 
   Test how Bookmarks+ works in Emacs
 
