@@ -10,11 +10,9 @@ tags: [Linux, Debian12, ssh]
 #+END_EXPORT
 
 #+STARTUP: showall indent
-#+OPTIONS: tags:nil num:nil \n:nil @:t ::t |:t ^:{} _:{} *:t eval:noexport
+#+OPTIONS: tags:nil num:nil \n:nil @:t ::t |:t ^:{} _:{} *:t
 #+TOC: headlines 2
-#+TODO: | AMPLE
-#+TODO: RAW INIT TODO ACTIVE | DONE
-#+TODO: DELAY LAG RETARD | BARE
+#+PROPERTY:header-args :results output :exports both :eval no-export
 
 * Introduction
 
@@ -23,8 +21,8 @@ tags: [Linux, Debian12, ssh]
  secure encrypted communications between two untrusted hosts over an
  insecure network.
 
- SSH works by connecting a client program to an ssh server, called
- sshd.
+ SSH works by connecting a client program to an SSH server, called
+ *sshd*.
 
  *sshd (OpenSSH Daemon)* is the daemon program for ssh. It provides
  secure encrypted communications between two untrusted hosts over an
@@ -38,23 +36,22 @@ tags: [Linux, Debian12, ssh]
 * Prerequisites
 
 - The remote computer must be turned on and have a network connection;
-
 - The SSHd program must be running;
+- You must to know the IP address or the name of the remote machine:
 
-- You must to know the IP address or the name of the remote machine;
+  #+begin_src sh :results verbatim
+    hostname
+    hostname -I
+  #+end_src
+
+  #+RESULTS:
+  : Dell
+  : 192.168.43.143
 
 - You must to have permission to access the remote computer;
-
 - You must to know user's name and password for logging.
 
-* [#B] How to Connect via SSH
-SCHEDULED: <2024-04-29 Mon>
-:PROPERTIES:
-:CATEGORY: Linux
-:END:
-:LOGBOOK:
-CLOCK: [2024-04-16 Tue 09:16]--[2024-04-16 Tue 10:08] =>  0:52
-:END:
+* How to Connect via SSH
 
 #+begin_src sh
   ssh UserName@IPAddressOrHostname
@@ -94,10 +91,11 @@ or
              └─1399815 "sshd: /usr/sbin/sshd -D [listener] 0 of 10-100 startups"
 #+end_example
 
+* How to run SSH server
 
-The process needed to start an ssh server depends on the distribution
-of Linux that you are using. In Debian12 you can manually start it by
-running:
+The process needed to start an SSH server depends from the
+distribution of Linux that you are using. In Debian12 you can manually
+start it by running:
 
 #+begin_src sh
   sudo service ssh start
@@ -105,7 +103,7 @@ running:
 
 To stop the SSH host server, enter the following:
 
-#+begin_src 
+#+begin_src
   sudo service ssh stop
 #+end_src
 
@@ -115,5 +113,4 @@ SSH, by default, is configured to use port 22 for remote
 communication. Note that it’s possible to configure a different port
 for SSH.
 
-* Notes
-
+* Notes                                                            :noexport:
