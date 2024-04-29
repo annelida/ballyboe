@@ -112,7 +112,7 @@ it
 
 We use it to talk about:
 
-- times and dates:              
+- times and dates:
 
  It's nearly one o'clock.
  It's my birthday.
@@ -128,10 +128,10 @@ We use =it= with the verb =be= and an =–ing= form or
 
  It's great living here.
  It's nice to meet you.
- 
+
 ** Possessive pronouns
 
-Is a pronoun that is used to express ownership or possession. 
+Is a pronoun that is used to express ownership or possession.
 
 | Subject | Object | Possessive adjective | Possesssive pronoun |
 |---------+--------+----------------------+---------------------|
@@ -207,3 +207,23 @@ and =that= and =those= for people or things that are not near us:
 
 Who lives in that house?
 Who are those people?
+
+** ='one'= and ='ones'=
+
+We use =one= (singular) and =ones= (plural):
+
+- after an =adjective=:
+
+  - See those two girls? Helen is the tall /one/ and Jane is the short
+    /one/.
+  - Which is your car, the red /one/ or the blue /one/?
+  - My trousers are torn. I need some new /ones/.
+
+- after =the=:
+
+  - See those two girls? Helen is the /one/ on the left.
+
+- after =which= in questions:
+
+  - You can borrow a book. Which /one/ do you want?
+  - Which /ones/ are yours?
