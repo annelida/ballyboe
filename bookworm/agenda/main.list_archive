@@ -362,3 +362,317 @@ SCHEDULED: <2023-11-09 Thu>
 :ARCHIVE_CATEGORY: Thesis
 :ARCHIVE_TODO: RAW
 :END:
+
+* AMPLE Emacs
+SCHEDULED: <2024-05-01 Wed>
+:PROPERTIES:
+:ARCHIVE_TIME: 2024-04-30 Tue 18:26
+:ARCHIVE_FILE: ~/git/annelida/ballyboe/bookworm/agenda/main.list
+:ARCHIVE_OLPATH: Learning
+:ARCHIVE_CATEGORY: Thesis
+:ARCHIVE_TODO: AMPLE
+:END:
+:LOGBOOK:
+CLOCK: [2024-01-30 Tue 15:00]--[2024-01-30 Tue 15:05] =>  0:05
+:END:
+Fix the unneccessary indentation above VVV
+
+** Interface
+
+** Keys
+
+** Embedded Help System
+** DELAY Emacs server
+SCHEDULED: <2024-05-15 Wed ++2w>
+:PROPERTIES:
+:LAST_REPEAT: [2023-12-21 Thu 17:41]
+:END:
+- State "DONE"       from "Active"     [2023-12-21 Thu 17:41]
+- State "DONE"       from "Active"     [2023-12-21 Thu 17:41]
+- State "DONE"       from "Active"     [2023-11-29 Wed 18:17]
+- State "DONE"       from "ACTIVE"     [2023-11-15 Wed 15:58]
+- Note taken on [2023-10-10 Tue 15:27] \\
+  * Launch the graphical version;
+  * Start the server: =M-x server-start=
+  * Launch the client version by =emacsclient -t=
+** Registers
+
+** Window Registers
+** AMPLE [#C] Bookmarks+ customization
+SCHEDULED: <2024-05-20 Mon>
+:PROPERTIES:
+:CATEGORY: Emacs
+:LAST_REPEAT: [2024-01-29 Mon 15:54]
+:END:
+- Note taken on [2024-04-11 Thu 08:59] \\
+  Copy file =bookmark+= from git/annelida/ballyboe/bookworm to
+  git/annelida/ballyboe/Dell
+
+  #+begin_src sh
+    cd ~/git/annelida/ballyboe/bookworm
+    cp bookmarks ~/git/annelida/ballyboe/Dell
+    cd ~/git/annelida/ballyboe/Dell
+    ls
+  #+end_src
+
+  #+RESULTS:
+  | agenda        |
+  | bookmarks     |
+  | drills.org    |
+  | glossary.org  |
+  | index.org     |
+  | key-chords.el |
+
+  Make soft link from ~/.emacs.d foler to =bookmark+= file.
+
+  #+begin_src sh
+    cd ~/.emacs.d
+    ln -s ~/git/annelida/ballyboe/Dell/bookmarks
+    ls -la
+  #+end_src
+
+  #+RESULTS:
+  | total      | 28 |       |       |      |     |    |       |                                                          |    |                                                          |
+  | drwx------ |  7 | vikky | vikky | 4096 | Apr | 11 | 09:26 | .                                                        |    |                                                          |
+  | drwx------ | 18 | vikky | vikky | 4096 | Apr |  9 | 15:05 | ..                                                       |    |                                                          |
+  | drwx------ |  2 | vikky | vikky | 4096 | Apr |  8 | 11:39 | auto-save-list                                           |    |                                                          |
+  | lrwxrwxrwx |  1 | vikky | vikky |   48 | Apr | 11 | 09:26 | bookmarks                                                | -> | /home/vikky/git/annelida/ballyboe/Dell/bookmarks         |
+  | drwxr-xr-x |  4 | vikky | vikky | 4096 | Dec | 18 | 12:22 | eln-cache                                                |    |                                                          |
+  | drwxr-xr-x |  4 | vikky | vikky | 4096 | Apr |  9 | 16:03 | elpa                                                     |    |                                                          |
+  | lrwxrwxrwx |  1 | vikky | vikky |   46 | Apr |  3 | 11:44 | init.el                                                  | -> | /home/vikky/git/annelida/ballyboe/Dell/init.el           |
+  | lrwxrwxrwx |  1 | vikky | vikky |   56 | Apr |  5 | 09:53 | key-chords.el                                            | -> | /home/vikky/git/annelida/ballyboe/bookworm/key-chords.el |
+  | drwxr-xr-x |  2 | vikky | vikky | 4096 | Apr |  9 | 07:38 | request                                                  |    |                                                          |
+  | -rw-r--r-- |  1 | vikky | vikky |    0 | Dec |  8 | 13:55 | session.10e18d78e5f9d79e92170204330881657300001006640073 |    |                                                          |
+  | drwxr-xr-x |  2 | vikky | vikky | 4096 | Apr |  8 | 11:38 | transient                                                |    |                                                          |
+
+  Test how Bookmarks+ works in Emacs
+
+- State "DONE"       from "Active"     [2024-01-29 Mon 15:54]
+- Note taken on [2024-01-10 Wed 10:17] \\
+  [[https://www.emacswiki.org/emacs/BookmarkPlus#h5o-3]]
+:LOGBOOK:
+CLOCK: [2024-04-17 Wed 10:06]--[2024-04-17 Wed 10:32] =>  0:26
+CLOCK: [2024-04-11 Thu 08:59]--[2024-04-11 Thu 09:13] =>  0:14
+CLOCK: [2024-04-10 Wed 10:42]--[2024-04-10 Wed 12:03] =>  1:21
+CLOCK: [2024-01-10 Wed 10:03]--[2024-01-10 Wed 10:17] =>  0:14
+CLOCK: [2024-01-05 Fri 13:49]--[2024-01-05 Fri 15:23] =>  1:34
+CLOCK: [2023-12-14 Thu 09:30]--[2023-12-14 Thu 10:08] =>  0:38
+:END:
+Bookmark all available places on ~localhost~ and in the ~WWW~
+
+#DP requires preparation with definition goals and approaches
+
+** DELAY Help about *eww*
+SCHEDULED: <2024-05-20 Mon>
+:PROPERTIES:
+:CATEGORY: Emacs
+:END:
+** DELAY Emacs + venv
+SCHEDULED: <2024-05-01 Wed ++3w>
+:PROPERTIES:
+:LAST_REPEAT: [2024-01-29 Mon 16:01]
+:END:
+- State "AMPLE"      from "DELAY"      [2024-01-29 Mon 16:01]
+- State "AMPLE"      from "DELAY"      [2024-01-29 Mon 16:00]
+- State "DONE"       from "Active"     [2023-12-04 Mon 11:10]
+** Elpy
+SCHEDULED:
+:PROPERTIES:
+:LAST_REPEAT: [2023-11-23 Thu 15:54]
+:CATEGORY: Elpy
+:END:
+- State "DONE"       from "Active"     [2023-11-23 Thu 15:54]
+:LOGBOOK:
+CLOCK: [2023-11-28 Tue 14:37]--[2023-11-28 Tue 15:11] =>  0:34
+CLOCK: [2023-11-23 Thu 14:58]--[2023-11-23 Thu 15:53] =>  0:55
+:END:
+[[https://elpy.readthedocs.io/en/latest/concepts.html#:~:text=Concepts-,The%20RPC%20Process,going%20on%20in%20the%20background.]]
+****  Elpy the RPC Process
+SCHEDULED: <2024-05-01 Wed>
+:PROPERTIES:
+:LAST_REPEAT: [2024-01-04 Thu 15:07]
+:END:
+- Note taken on [2024-04-08 Mon 22:04] \\
+  Launch and debug it on Dell
+- Note taken on [2023-11-30 Thu 15:31] \\
+  Elpy works by starting a Python process in the background and
+  communicating with it through a basic *Remote Procedure Call (RPC)*
+  interface. RPC processes are used to provide code completion,
+  documentation and other features. To do so, they use python packages
+  (jedi, yapf, …)  that are installed in a dedicated virtualenv (
+  . emacs. d/elpy/rpc-venv by default).
+
+  Outside of RPC processes, though, it is not easy to have more than one
+  virtual env active at the same time. Elpy allows you to set a single
+  global virtual env and change it whenever you like, though.
+
+  M-x elpy-config shows Elpy settings
+:LOGBOOK:
+CLOCK: [2024-04-20 Sat 07:14]--[2024-04-20 Sat 07:28] =>  0:14
+CLOCK: [2024-04-19 Fri 07:22]--[2024-04-19 Fri 09:09] =>  1:47
+CLOCK: [2024-04-09 Tue 15:41]--[2024-04-09 Tue 16:06] =>  0:25
+CLOCK: [2023-11-30 Thu 14:50]--[2023-11-30 Thu 15:33] =>  0:43
+:END:
+*** RAW Emacs regular expressions
+:PROPERTIES:
+:CATEGORY: Emacs
+:END:
+:LOGBOOK:
+CLOCK: [2023-12-19 Tue 10:56]--[2023-12-19 Tue 11:45] =>  0:49
+:END:
+**** RAW Regular expressions syntax
+SCHEDULED: <2024-05-06 Mon>
+:LOGBOOK:
+CLOCK: [2024-02-09 Fri 10:59]--[2024-02-09 Fri 11:46] =>  0:47
+:END:
+[[info:emacs#Regexps][emacs#Regexps]]
+*** DELAY Emacs Tramp mode
+SCHEDULED: <2024-06-18 Tue>
+:PROPERTIES:
+:CATEGORY: Emacs
+:END:
+- Note taken on [2024-01-05 Fri 13:23] \\
+
+  TRAMP (Transparent Remote Access, Multiple Protocols) is a package
+  for editing remote files
+
+  C-x C-f /remotehost:filename  RET
+
+  (or /method:user@remotehost:filename)
+  C-x C-f /ssh:root@example.com:~/
+
+*** DELAY [#B] Search file by the name or content in file system
+SCHEDULED: <2024-07-22 Mon>
+:PROPERTIES:
+:CATEGORY: Emacs
+:END:
+- Note taken on [2024-01-10 Wed 08:34] \\
+  In Linux command line
+  #+begin_example
+  $ sudo find / -type f -name "*.mp4"
+  $ sudo find / -type f -iname "*.mp4"
+  #+end_example
+  -type f : Only search for files.
+  -type d : Only search for directories  or folders.
+  -name "file" : File to search. It is a base of file name
+  (the path with the leading directories removed) matches shell
+  pattern
+  -iname "file" : Same as -name except file names are not case
+  sensitive.
+ Emacs:
+  =M-x find-name-dired=
+  #+begin_example
+  Find all files with suffix "org" in directory "~/org/".
+  Enter the following:
+  M-x find-name-dired
+  ~/org
+  *org
+  #+end_example
+ If you want to test the contents of
+ files, rather than their names, use
+  =M-x find-grep-dired=
+  #+begin_example
+  M-x find-grep-dired RET catch
+  #+end_example
+  =‘A REGEXP <RET>’= Search all the specified files for the regular
+  expression REGEXP (‘dired-do-find-regexp’).
+  Dired supports wilcards in the directory part of the file name
+  argument.
+  #+begin_example
+  C-x d ~/soft/*/*.c RET
+  #+end_example
+:LOGBOOK:
+CLOCK: [2024-01-10 Wed 08:31]--[2024-01-10 Wed 10:03] =>  1:32
+:END:
+
+** RAW Help about *Dired mode*
+SCHEDULED: <2024-05-15 Wed>
+:PROPERTIES:
+:CATEGORY: Emacs
+:END:
+:LOGBOOK:
+CLOCK: [2024-03-11 Mon 08:21]--[2024-03-11 Mon 08:32] =>  0:11
+:END:
+** DELAY Multi-frame workplace
+SCHEDULED: <2024-05-20 Mon>
+:PROPERTIES:
+:CATEGORY: Emacs
+:END:
+- Note taken on [2024-01-30 Tue 12:01] \\
+  [[info:emacs#Configuration Registers][emacs#Configuration Registers]]
+- Note taken on [2024-01-30 Tue 10:34] \\
+  A frame is a screen object that contains one or more Emacs windows.
+  A window is an area of the screen that can be used to display a
+  buffer.
+
+  To create a new frame, call the function make-frame
+
+  [[info:emacs#Creating Frames][emacs#Creating Frames]]
+  [[info:emacs#Frame Commands][emacs#Frame Commands]]
+
+  (key-chord-define-global "'\\" 'other-frame)
+  (key-chord-define-global "]\\" 'other-frame)
+  (key-chord-define-global "';" 'other-frame)
+:LOGBOOK:
+CLOCK: [2024-01-30 Tue 10:30]--[2024-01-30 Tue 10:57] =>  0:27
+:END:
+
+** DELAY File searching in different Git branches
+SCHEDULED: <2024-05-24 Fri>
+:LOGBOOK:
+CLOCK: [2024-01-11 Thu 09:48]--[2024-01-11 Thu 10:19] =>  0:31
+:END:
+*** Alioth config (.emacs)
+:PROPERTIES:
+:CATEGORY: Emacs
+:END:
+** AMPLE Customizing
+SCHEDULED: <2024-05-01 Wed>
+[[info:emacs#Keyboard Macros][emacs#Keyboard Macros]]
+** DELAY Emacs markers
+SCHEDULED: <2024-06-20 Thu>
+:PROPERTIES:
+:CATEGORY: Emacs
+:END:
+- Note taken on [2024-02-02 Fri 10:33] \\
+  [[https://www.gnu.org/software/emacs/manual/html_node/elisp/Markers.html]]
+:LOGBOOK:
+CLOCK: [2024-02-02 Fri 10:33]--[2024-02-02 Fri 10:35] =>  0:02
+CLOCK: [2024-02-02 Fri 08:48]--[2024-02-02 Fri 08:48] =>  0:00
+CLOCK: [2024-02-02 Fri 08:46]--[2024-02-02 Fri 08:46] =>  0:00
+CLOCK: [2024-02-01 Thu 10:37]o
+:END:
+** DELAY [#A] Python mode
+SCHEDULED: <2024-05-14 Tue>
+:PROPERTIES:
+:CATEGORY: Emacs
+:END:
+- Note taken on [2024-02-09 Fri 10:15] \\
+  [[https://www.emacswiki.org/emacs/PythonProgrammingInEmacs#h5o-2]]
+
+Syntax highlighting, Indentation, Movement, Shell interaction, Shell
+completion, Shell virtualenv support, Shell package support, Shell
+syntax highlighting.
+
+M-x python-mode
+
+You can open an interactive Python shell with ‘run-python’ and send
+code for execution by the shell process:
+C-c C-p
+C-c C-z Elpy
+:LOGBOOK:
+CLOCK: [2024-02-09 Fri 10:15]--[2024-02-09 Fri 10:46] =>  0:31
+:END:
+** AMPLE [#A] Additional key-chord for reverse translation
+SCHEDULED: <2024-04-11 Thu>
+- Note taken on [2024-04-11 Thu 12:41] \\
+  * Define in key-chord.el =tg= as a key-chord for function =google-translate-at-point-reverse=;
+  * eval-region
+  * test it up
+  * Enjoy
+
+  назначение
+
+:LOGBOOK:
+CLOCK: [2024-04-11 Thu 12:41]--[2024-04-11 Thu 12:51] =>  0:10
+:END:
