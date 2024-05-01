@@ -100,15 +100,15 @@ If there is no other subject, we use there to talk about:
 - a number or amount:
 
  There is plenty of bread left.
-    There were twenty people at the meeting.
+ There were twenty people at the meeting.
 
 
 - something existing or happening:
 
  There's a small problem.
-    There was a nasty fight.
+ There was a nasty fight.
 
-it
+=it=
 
 We use it to talk about:
 
@@ -121,7 +121,7 @@ We use it to talk about:
 
  It's raining.
  It's a lovely day.
-    It was getting cold.
+ It was getting cold.
 
 We use =it= with the verb =be= and an =–ing= form or
 =to-infinitive= to express opinions:
@@ -148,13 +148,13 @@ We can use a possessive pronoun instead of a full noun phrase to avoid
 repeating words:
 
  Is that John's car?
-      No, it's mine. (INSTEAD OF No, it's [my car].)
+ No, it's mine. (INSTEAD OF No, it's [my car].)
 
  Whose coat is this?
-      Is it yours? (INSTEAD OF Is it [your coat]?)
+ Is it yours? (INSTEAD OF Is it [your coat]?)
 
  Her coat is grey.
-         Mine is brown. (INSTEAD OF [My coat] is brown.)
+ Mine is brown. (INSTEAD OF [My coat] is brown.)
 
 ** Demonstratives
 
