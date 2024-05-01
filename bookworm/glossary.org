@@ -806,3 +806,20 @@ Literals return a value for an object of the specified type.
 Punctuators are symbols that are used to structure programming
 sentences in a computer language. Some commonly used punctuators are:
 ‘, ‘ ,#, \ ,( ) ,{ },[ ] ,@ ,: , =
+
+** Flask
+
+Is a micro web framework written in Python. It is classified as a
+microframework because it does not require particular tools or
+libraries.
+
+** Jinja
+
+Is a template language that renders the pages of your application.
+
+** Template processor
+
+Is software designed to combine templates with data (defined by a data
+model) to produce resulting documents or programs.
+
+
