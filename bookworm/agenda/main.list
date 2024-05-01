@@ -2710,13 +2710,27 @@ SCHEDULED: <2024-04-23 Tue>
 CLOCK: [2024-04-22 Mon 09:39]--[2024-04-22 Mon 10:10] =>  0:31
 :END:
 ** RAW [#C] Python programming language brief overview diagram
-SCHEDULED: <2024-05-01 Wed>
+SCHEDULED: <2024-05-02 Thu>
 ** RAW [#A] Flask Web framework
-SCHEDULED: <2024-05-01 Wed>
+SCHEDULED: <2024-05-02 Thu>
+- Note taken on [2024-05-01 Wed 09:56] \\
+  flask --app hello run --host=0.0.0.0
 :LOGBOOK:
+CLOCK: [2024-05-01 Wed 08:10]--[2024-05-01 Wed 08:16] =>  0:06
+CLOCK: [2024-05-01 Wed 07:12]--[2024-05-01 Wed 08:08] =>  0:56
 CLOCK: [2024-04-29 Mon 13:46]--[2024-04-29 Mon 13:58] =>  0:12
 :END: 
 ** RAW [#A] Twitter Bootstrap as the Template
-SCHEDULED: <2024-05-01 Wed>
+SCHEDULED: <2024-05-02 Thu>
+:LOGBOOK:
+CLOCK: [2024-05-01 Wed 10:02]--[2024-05-01 Wed 10:27] =>  0:25
+:END:
+** RAW [#A] Jinja Templating
+SCHEDULED: <2024-05-02 Thu>
+- Note taken on [2024-05-01 Wed 11:11] \\
+  https://realpython.com/primer-on-jinja-templating/
+:LOGBOOK:
+CLOCK: [2024-05-01 Wed 11:01]--[2024-05-01 Wed 11:26] =>  0:25
+:END:
 
 * Personal
