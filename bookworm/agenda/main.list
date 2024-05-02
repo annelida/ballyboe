@@ -279,6 +279,7 @@ CLOCK: [2024-04-29 Mon 08:36]--[2024-04-29 Mon 09:37] =>  1:01
 :END:
 [https://learnenglish.britishcouncil.org/grammar/english-grammar-reference/one-ones]
 ****** Pronouns in questions
+SCHEDULED: <2024-05-03 Fri>
 [https://learnenglish.britishcouncil.org/grammar/english-grammar-reference/pronouns-questions]
 ****** Reflexive pronouns
 ****** Reciprocal pronouns
@@ -446,7 +447,7 @@ Avoiding Standard Software Risks
 Using Open Source Software
 
 *** RAW =helpful= package usage
-SCHEDULED: <2024-05-03 Fri ++2w>
+SCHEDULED: <2024-05-07 Tue ++2w>
 :LOGBOOK:
 CLOCK: [2024-03-20 Wed 18:24]--[2024-03-20 Wed 18:24] =>  0:00
 :END:
@@ -533,7 +534,7 @@ cat /etc/os-release
 : BUG_REPORT_URL="https://bugs.debian.org/"
 
 *** Windows and Workspaces
-SCHEDULED: <2024-05-02 Thu>
+SCHEDULED: <2024-05-03 Fri>
 :PROPERTIES:
 :CATEGORY: GNOME
 :END:
@@ -618,7 +619,7 @@ CLOCK: [2024-04-09 Tue 10:00]--[2024-04-09 Tue 10:42] =>  0:42
 CLOCK: [2024-04-09 Tue 09:03]--[2024-04-09 Tue 09:36] =>  0:33
 :END:
 *** Article about process management on Linux
-SCHEDULED: <2024-05-02 Thu>
+SCHEDULED: <2024-05-03 Fri>
 - Note taken on [2024-04-13 Sat 17:26] \\
   How to check is the SSHd process running?
   Which protocol it is listening if running?
@@ -630,7 +631,7 @@ CLOCK: [2024-04-12 Fri 09:30]--[2024-04-12 Fri 10:42] =>  1:12
 :END:
 [[file:~/git/annelida/ballyboe/org-blog/2024-04-12-process-management-on-linux.org::*Introduction][Introduction]]
 *** Article about Linux file system structure
-SCHEDULED: <2024-05-02 Thu>
+SCHEDULED: <2024-05-03 Fri>
 
 [[file:~/git/annelida/ballyboe/org-blog/2024-04-12-linux-file-system-structure.org::*Overview][Overview]]
 
@@ -892,7 +893,7 @@ CLOCK: [2024-04-23 Tue 07:44]--[2024-04-23 Tue 08:17] =>  0:33
 [[info:python3.11#Python Setup and Usage][python3.11#Python Setup and Usage]]
 
 **** [#A] Python Language Reference
-SCHEDULED: <2024-05-02 Thu>
+SCHEDULED: <2024-05-03 Fri>
 :LOGBOOK:
 CLOCK: [2024-04-29 Mon 07:12]--[2024-04-29 Mon 07:47] =>  0:35
 CLOCK: [2024-04-28 Sun 09:58]--[2024-04-28 Sun 10:48] =>  0:50
@@ -1671,7 +1672,7 @@ SCHEDULED: <2024-07-09 Tue ++2w>
 CLOCK: [2024-01-12 Fri 10:28]--[2024-01-12 Fri 11:01] =>  0:33
 :END:
 *** [#B] UnitTest *info* studying
-SCHEDULED: <2024-05-03 Fri>
+SCHEDULED: <2024-05-06 Mon>
 :PROPERTIES:
 :CATEGORY: Python
 :END:
@@ -1777,8 +1778,8 @@ CLOCK: [2023-11-28 Tue 08:00]--[2023-11-28 Tue 08:58] =>  0:58
 https://orgmode.org/worg/org-contrib/org-drill.html
 https://orgmode.org/worg/org-contrib/org-drill.html#org51fd4f9
 
-***** AMPLE Org-capture templates usage
-SCHEDULED: <2024-05-03 Fri>
+***** DELAY Org-capture templates usage
+SCHEDULED: <2024-06-28 Fri>
 [[file:~/git/annelida/ballyboe/org-blog/2024-04-14-emacs-org-capture-creation-and-expansion.org::*Preamble][Org-capture creation and expansion]]
 
 :PROPERTIES:
@@ -2375,9 +2376,9 @@ CLOCK: [2024-01-04 Thu 12:11]--[2024-01-04 Thu 12:13] =>  0:02
 :END:
 
 ** Interview Preparation
-SCHEDULED: <2024-05-03 Fri>
+SCHEDULED: <2024-05-06 Mon>
 ** [#B] Portfolio creation
-SCHEDULED: <2024-05-03 Fri>
+SCHEDULED: <2024-05-06 Mon>
 ** DELAY [#A] CV elaboration
 SCHEDULED: <2024-05-08 Wed>
 :LOGBOOK:
@@ -2401,7 +2402,7 @@ Manual's  studying
 SCHEDULED: <2024-05-17 Fri>
 
 ** RAW Linkedin profile elaboration
-SCHEDULED: <2024-05-03 Fri>
+SCHEDULED: <2024-05-06 Mon>
 Manual's studying
 
 ** LinkedIn member's manual
@@ -2414,7 +2415,7 @@ CLOCK: [2024-04-19 Fri 09:47]--[2024-04-19 Fri 10:03] =>  0:16
 :END:
 
 ** Available jobs on Indeed
-SCHEDULED: <2024-05-03 Fri>
+SCHEDULED: <2024-05-06 Mon>
 :LOGBOOK:
 CLOCK: [2024-04-19 Fri 09:10]--[2024-04-19 Fri 09:47] =>  0:37
 :END:
@@ -2664,11 +2665,12 @@ CLOCK: [2023-11-28 Tue 18:27]--[2023-11-28 Tue 18:33] =>  0:06
 - State "DONE"       from "Active"     [2023-11-23 Thu 15:54]
 * Events
 ** Preparation to meeting with Roisin
-SCHEDULED: <2024-05-02 Thu ++1w>
+SCHEDULED: <2024-05-09 Thu ++1w>
 :PROPERTIES:
 :CATEGORY: Speacking
-:LAST_REPEAT: [2024-04-23 Tue 19:35]
+:LAST_REPEAT: [2024-05-02 Thu 18:17]
 :END:
+- State "AMPLE"      from ""           [2024-05-02 Thu 18:17]
 - State "AMPLE"      from ""           [2024-04-23 Tue 19:35]
 - State "AMPLE"      from ""           [2024-04-16 Tue 19:46]
 - State "AMPLE"      from ""           [2024-04-09 Tue 18:43]
@@ -2699,7 +2701,7 @@ CLOCK: [2024-04-19 Fri 16:21]--[2024-04-19 Fri 17:16] =>  0:55
 ** AMPLE [#C] Key-chord with y!!!
 SCHEDULED: <2024-04-22 Mon>
 ** DP1 [#B] Article about Python Programming Language
-SCHEDULED: <2024-05-02 Thu>
+SCHEDULED: <2024-05-03 Fri>
 :LOGBOOK:
 CLOCK: [2024-04-20 Sat 16:10]--[2024-04-20 Sat 16:25] =>  0:15
 :END:
@@ -2713,9 +2715,9 @@ SCHEDULED: <2024-04-23 Tue>
 CLOCK: [2024-04-22 Mon 09:39]--[2024-04-22 Mon 10:10] =>  0:31
 :END:
 ** RAW [#C] Python programming language brief overview diagram
-SCHEDULED: <2024-05-02 Thu>
+SCHEDULED: <2024-05-03 Fri>
 ** RAW [#A] Flask Web framework
-SCHEDULED: <2024-05-02 Thu>
+SCHEDULED: <2024-05-03 Fri>
 - Note taken on [2024-05-01 Wed 09:56] \\
   flask --app hello run --host=0.0.0.0
 :LOGBOOK:
@@ -2724,15 +2726,16 @@ CLOCK: [2024-05-01 Wed 07:12]--[2024-05-01 Wed 08:08] =>  0:56
 CLOCK: [2024-04-29 Mon 13:46]--[2024-04-29 Mon 13:58] =>  0:12
 :END: 
 ** RAW [#A] Twitter Bootstrap as the Template
-SCHEDULED: <2024-05-02 Thu>
+SCHEDULED: <2024-05-03 Fri>
 :LOGBOOK:
 CLOCK: [2024-05-01 Wed 10:02]--[2024-05-01 Wed 10:27] =>  0:25
 :END:
 ** RAW [#A] Jinja Templating
-SCHEDULED: <2024-05-02 Thu>
+SCHEDULED: <2024-05-03 Fri>
 - Note taken on [2024-05-01 Wed 11:11] \\
   https://realpython.com/primer-on-jinja-templating/
 :LOGBOOK:
+CLOCK: [2024-05-02 Thu 07:10]--[2024-05-02 Thu 08:44] =>  1:34
 CLOCK: [2024-05-01 Wed 11:01]--[2024-05-01 Wed 11:26] =>  0:25
 :END:
 
