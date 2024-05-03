@@ -2728,8 +2728,10 @@ CLOCK: [2024-04-29 Mon 13:46]--[2024-04-29 Mon 13:58] =>  0:12
 ** RAW [#A] Twitter Bootstrap as the Template
 SCHEDULED: <2024-05-03 Fri>
 :LOGBOOK:
+CLOCK: [2024-05-03 Fri 09:42]--[2024-05-03 Fri 10:16] =>  0:34
 CLOCK: [2024-05-01 Wed 10:02]--[2024-05-01 Wed 10:27] =>  0:25
 :END:
+[https://getbootstrap.com/docs/4.3/getting-started/introduction/]
 ** RAW [#A] Jinja Templating
 SCHEDULED: <2024-05-03 Fri>
 - Note taken on [2024-05-01 Wed 11:11] \\
