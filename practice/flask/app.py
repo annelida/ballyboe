@@ -4,7 +4,8 @@ app = Flask(__name__)
 
 @app.route("/")
 def home():
-    return render_template("base.html", title="Jinja and Flask")
+    #return render_template("base.html", title="Jinja and Flask")
+    return render_template("tb.html", title="Welcome to TwitterBootstrap")
 
 # def hello_world():
     # return "<p>Hello, World!</p>"
