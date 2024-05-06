@@ -57,7 +57,7 @@ SCHEDULED: <2024-05-14 Tue>
 features description
 ***** Task classification
 **** Article about brand-new task resolving
-SCHEDULED: <2024-05-06 Mon>
+SCHEDULED: <2024-05-13 Mon>
 :LOGBOOK:
 CLOCK: [2024-04-20 Sat 08:41]--[2024-04-20 Sat 09:25] =>  0:44
 CLOCK: [2024-04-12 Fri 07:12]--[2024-04-12 Fri 08:12] =>  1:00
@@ -78,10 +78,11 @@ CLOCK: [2024-04-12 Fri 07:12]--[2024-04-12 Fri 08:12] =>  1:00
 *** Working with transcripts
 
 **** "How to Learn Anything Fast: Teach Your Brain to Focus"
-SCHEDULED: <2024-05-05 Sun ++2w>
+SCHEDULED: <2024-05-19 Sun ++2w>
 :PROPERTIES:
-:LAST_REPEAT: [2024-04-20 Sat 16:59]
+:LAST_REPEAT: [2024-05-06 Mon 12:01]
 :END:
+- State "AMPLE"      from ""           [2024-05-06 Mon 12:01]
 - State "AMPLE"      from ""           [2024-04-20 Sat 16:59]
 - State "AMPLE"      from ""           [2024-04-08 Mon 15:54]
 - State "AMPLE"      from ""           [2024-02-08 Thu 19:03]
@@ -235,7 +236,7 @@ CLOCK: [2024-04-21 Sun 09:40]--[2024-04-21 Sun 10:13] =>  0:33
 :END:
 [[https://learnenglish.britishcouncil.org/grammar/english-grammar-reference/personal-pronouns]]
 ****** 'it' and 'there' as dummy subjects
-SCHEDULED: <2024-05-06 Mon ++1w>
+SCHEDULED: <2024-05-07 Tue ++1w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-04-29 Mon 18:40]
 :END:
@@ -244,7 +245,7 @@ SCHEDULED: <2024-05-06 Mon ++1w>
 :LOGBOOK:
 CLOCK: [2024-04-22 Mon 07:08]--[2024-04-22 Mon 07:39] =>  0:31
 :END:
-[https://learnenglish.britishcouncil.org/grammar/english-grammar-reference/it-there-dummy-subjects]
+[[https://learnenglish.britishcouncil.org/grammar/english-grammar-reference/it-there-dummy-subjects]]
 ****** AMPLE Possessive pronouns
 SCHEDULED: <2024-05-01 Wed ++2w>
 :LOGBOOK:
@@ -268,19 +269,25 @@ CLOCK: [2024-04-25 Thu 07:11]--[2024-04-25 Thu 07:40] =>  0:29
 :END:
 [https://learnenglish.britishcouncil.org/grammar/english-grammar-reference/demonstratives]
 ****** 'one' and 'ones'
-SCHEDULED: <2024-05-03 Fri ++2d>
+SCHEDULED: <2024-05-07 Tue ++2d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-04-30 Tue 18:20]
+:LAST_REPEAT: [2024-05-04 Sat 19:15]
 :END:
+- State "AMPLE"      from ""           [2024-05-04 Sat 19:15]
 - State "AMPLE"      from ""           [2024-04-30 Tue 18:20]
 - State "AMPLE"      from ""           [2024-04-29 Mon 18:39]
 :LOGBOOK:
+CLOCK: [2024-05-04 Sat 07:16]--[2024-05-04 Sat 07:55] =>  0:39
 CLOCK: [2024-04-29 Mon 08:36]--[2024-04-29 Mon 09:37] =>  1:01
 :END:
-[https://learnenglish.britishcouncil.org/grammar/english-grammar-reference/one-ones]
-****** Pronouns in questions
-SCHEDULED: <2024-05-03 Fri>
-[https://learnenglish.britishcouncil.org/grammar/english-grammar-reference/pronouns-questions]
+https://learnenglish.britishcouncil.org/grammar/english-grammar-reference/one-ones
+****** AMPLE Pronouns in questions
+SCHEDULED: <2024-05-04 Sat>
+:LOGBOOK:
+CLOCK: [2024-05-03 Fri 07:27]--[2024-05-03 Fri 07:48] =>  0:21
+CLOCK: [2024-05-03 Fri 07:11]--[2024-05-03 Fri 07:11] =>  0:00
+:END:
+https://learnenglish.britishcouncil.org/grammar/english-grammar-reference/pronouns-questions
 ****** Reflexive pronouns
 ****** Reciprocal pronouns
 ****** Indefinite pronouns
@@ -299,7 +306,7 @@ SCHEDULED: <2024-05-14 Tue ++2w>
 :LOGBOOK:
 CLOCK: [2024-03-01 Fri 11:03]--[2024-03-01 Fri 11:14] =>  0:11
 :END:
-[https://www.bbc.co.uk/sounds/play/p0hf8wg1]
+[[https://www.bbc.co.uk/sounds/play/p0hf8wg1]]
 **** A million to one
 SCHEDULED: <2024-05-14 Tue ++2w>
 :PROPERTIES:
@@ -311,7 +318,7 @@ SCHEDULED: <2024-05-14 Tue ++2w>
 [https://www.bbc.co.uk/sounds/play/p0hcy06f]
 **** AMPLE Come up with an idea carefully
 SCHEDULED: <2024-04-30 Tue>
-[https://www.bbc.co.uk/sounds/play/p0hj2w1w]
+[[https://www.bbc.co.uk/sounds/play/p0hj2w1w]]
 ** Linux
 :PROPERTIES:
 :CATEGORY: Linux
@@ -341,7 +348,7 @@ CLOCK: [2023-12-20 Wed 09:55]--[2023-12-20 Wed 10:45] =>  0:50
 CLOCK: [2023-12-19 Tue 09:15]--[2023-12-19 Tue 09:18] =>  0:03
 :END:
 *** DELAY MAN df
-SCHEDULED: <2024-05-07 Tue ++1w>
+SCHEDULED: <2024-05-10 Fri ++1w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-04-29 Mon 18:43]
 :END:
@@ -447,7 +454,7 @@ Avoiding Standard Software Risks
 Using Open Source Software
 
 *** RAW =helpful= package usage
-SCHEDULED: <2024-05-07 Tue ++2w>
+SCHEDULED: <2024-05-10 Fri ++2w>
 :LOGBOOK:
 CLOCK: [2024-03-20 Wed 18:24]--[2024-03-20 Wed 18:24] =>  0:00
 :END:
@@ -533,8 +540,8 @@ cat /etc/os-release
 : SUPPORT_URL="https://www.debian.org/support"
 : BUG_REPORT_URL="https://bugs.debian.org/"
 
-*** Windows and Workspaces
-SCHEDULED: <2024-05-03 Fri>
+*** AMPLE Windows and Workspaces
+SCHEDULED: <2024-05-05 Sun>
 :PROPERTIES:
 :CATEGORY: GNOME
 :END:
@@ -619,7 +626,7 @@ CLOCK: [2024-04-09 Tue 10:00]--[2024-04-09 Tue 10:42] =>  0:42
 CLOCK: [2024-04-09 Tue 09:03]--[2024-04-09 Tue 09:36] =>  0:33
 :END:
 *** Article about process management on Linux
-SCHEDULED: <2024-05-03 Fri>
+SCHEDULED: <2024-05-07 Tue>
 - Note taken on [2024-04-13 Sat 17:26] \\
   How to check is the SSHd process running?
   Which protocol it is listening if running?
@@ -631,7 +638,7 @@ CLOCK: [2024-04-12 Fri 09:30]--[2024-04-12 Fri 10:42] =>  1:12
 :END:
 [[file:~/git/annelida/ballyboe/org-blog/2024-04-12-process-management-on-linux.org::*Introduction][Introduction]]
 *** Article about Linux file system structure
-SCHEDULED: <2024-05-03 Fri>
+SCHEDULED: <2024-05-07 Tue>
 
 [[file:~/git/annelida/ballyboe/org-blog/2024-04-12-linux-file-system-structure.org::*Overview][Overview]]
 
@@ -893,8 +900,10 @@ CLOCK: [2024-04-23 Tue 07:44]--[2024-04-23 Tue 08:17] =>  0:33
 [[info:python3.11#Python Setup and Usage][python3.11#Python Setup and Usage]]
 
 **** [#A] Python Language Reference
-SCHEDULED: <2024-05-03 Fri>
+SCHEDULED: <2024-05-07 Tue>
 :LOGBOOK:
+CLOCK: [2024-05-04 Sat 08:05]--[2024-05-04 Sat 08:23] =>  0:18
+CLOCK: [2024-05-03 Fri 07:50]--[2024-05-03 Fri 08:25] =>  0:35
 CLOCK: [2024-04-29 Mon 07:12]--[2024-04-29 Mon 07:47] =>  0:35
 CLOCK: [2024-04-28 Sun 09:58]--[2024-04-28 Sun 10:48] =>  0:50
 CLOCK: [2024-04-27 Sat 07:14]--[2024-04-27 Sat 07:53] =>  0:39
@@ -1672,7 +1681,7 @@ SCHEDULED: <2024-07-09 Tue ++2w>
 CLOCK: [2024-01-12 Fri 10:28]--[2024-01-12 Fri 11:01] =>  0:33
 :END:
 *** [#B] UnitTest *info* studying
-SCHEDULED: <2024-05-06 Mon>
+SCHEDULED: <2024-05-09 Thu>
 :PROPERTIES:
 :CATEGORY: Python
 :END:
@@ -1698,6 +1707,21 @@ CLOCK: [2024-04-19 Fri 11:13]--[2024-04-19 Fri 11:53] =>  0:40
 :END:
 
 [[file:~/git/annelida/ballyboe/org-blog/2023-11-07-Python-venv.org::*Creating a Python virtual environment on a Debian-based system][Python virtual environment on a Debian-based system]]
+*** DP1 Article about Python Programming Language
+SCHEDULED: <2024-05-07 Tue>
+:LOGBOOK:
+CLOCK: [2024-04-20 Sat 16:10]--[2024-04-20 Sat 16:25] =>  0:15
+:END:
+[[file:~/git/annelida/ballyboe/org-blog/2024-04-20-python-programming-language.org::*Preamble][Python programming language]]
+*** [#A] Flask Web framework
+SCHEDULED: <2024-05-07 Tue>
+- Note taken on [2024-05-01 Wed 09:56] \\
+  flask --app hello run --host=0.0.0.0
+:LOGBOOK:
+CLOCK: [2024-05-01 Wed 08:10]--[2024-05-01 Wed 08:16] =>  0:06
+CLOCK: [2024-05-01 Wed 07:12]--[2024-05-01 Wed 08:08] =>  0:56
+CLOCK: [2024-04-29 Mon 13:46]--[2024-04-29 Mon 13:58] =>  0:12
+:END: 
 
 ** Org-mode
 
@@ -1845,11 +1869,12 @@ CLOCK: [2023-12-03 Sun 13:04]--[2023-12-03 Sun 13:32] =>  0:28
 ***** Jekyll
 
 ******* Org-Jekyll - article about initial config
-SCHEDULED: <2024-05-07 Tue ++1m>
+SCHEDULED: <2024-06-07 Fri ++1m>
 :PROPERTIES:
-:LAST_REPEAT: [2023-11-13 Mon 14:41]
+:LAST_REPEAT: [2024-05-06 Mon 18:12]
 :CATEGORY: Org-Jekyll
 :END:
+- State "AMPLE"      from ""           [2024-05-06 Mon 18:12]
 - State "DONE"       from "ACTIVE"     [2023-11-13 Mon 14:41]
 - State "DONE"       from "ACTIVE"     [2023-11-13 Mon 14:41]
   [[file:~/git/ballyboe/org-blog/2023-10-09-init.org::*Overview][Blogging with Org-mode and Jekyll]]
@@ -2201,7 +2226,7 @@ SCHEDULED: <2024-05-12 Sun>
 ***** Git/Magit
 
 ******* DELAY Git/Magit merge and rebase concept.
-SCHEDULED: <2024-05-06 Mon>
+SCHEDULED: <2024-05-14 Tue>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-16 Thu 15:34]
 :CATEGORY: Git
@@ -2376,9 +2401,9 @@ CLOCK: [2024-01-04 Thu 12:11]--[2024-01-04 Thu 12:13] =>  0:02
 :END:
 
 ** Interview Preparation
-SCHEDULED: <2024-05-06 Mon>
+SCHEDULED: <2024-05-08 Wed>
 ** [#B] Portfolio creation
-SCHEDULED: <2024-05-06 Mon>
+SCHEDULED: <2024-05-08 Wed>
 ** DELAY [#A] CV elaboration
 SCHEDULED: <2024-05-08 Wed>
 :LOGBOOK:
@@ -2402,7 +2427,7 @@ Manual's  studying
 SCHEDULED: <2024-05-17 Fri>
 
 ** RAW Linkedin profile elaboration
-SCHEDULED: <2024-05-06 Mon>
+SCHEDULED: <2024-05-08 Wed>
 Manual's studying
 
 ** LinkedIn member's manual
@@ -2415,7 +2440,7 @@ CLOCK: [2024-04-19 Fri 09:47]--[2024-04-19 Fri 10:03] =>  0:16
 :END:
 
 ** Available jobs on Indeed
-SCHEDULED: <2024-05-06 Mon>
+SCHEDULED: <2024-05-08 Wed>
 :LOGBOOK:
 CLOCK: [2024-04-19 Fri 09:10]--[2024-04-19 Fri 09:47] =>  0:37
 :END:
@@ -2613,8 +2638,8 @@ SCHEDULED: <2024-05-09 Thu ++2w>
 :END:
 
 - State "DONE"       from "Active"     [2023-12-13 Wed 11:24]
-***** DELAY [#C] Logic
-SCHEDULED: <2024-05-04 Sat>
+***** DELAY [#C] gLogic
+SCHEDULED: <2024-06-01 Sat>
 :PROPERTIES:
 :CATEGORY: CS
 :END:
@@ -2692,20 +2717,6 @@ CLOCK: [2024-02-21 Wed 07:45]--[2024-02-21 Wed 08:48] =>  1:03
 :END:
 [[file:~/git/ballyboe/org-blog/2024-02-12-What-is-CI-CD.org::*What is CI/CD?][What is CI/CD?]]
 [[https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions?learn=getting_started&learnProduct=actions]] 
-** RAW Tasks clarification
-** DONE [#C] Tasks clarification
-SCHEDULED: <2024-05-20 Mon>
-:LOGBOOK:
-CLOCK: [2024-04-19 Fri 16:21]--[2024-04-19 Fri 17:16] =>  0:55
-:END:
-** AMPLE [#C] Key-chord with y!!!
-SCHEDULED: <2024-04-22 Mon>
-** DP1 [#B] Article about Python Programming Language
-SCHEDULED: <2024-05-03 Fri>
-:LOGBOOK:
-CLOCK: [2024-04-20 Sat 16:10]--[2024-04-20 Sat 16:25] =>  0:15
-:END:
-[[file:~/git/annelida/ballyboe/org-blog/2024-04-20-python-programming-language.org::*Preamble][Python programming language]]
 ** AMPLE Processing notes from the buffer *scratch*
 SCHEDULED: <2024-04-23 Tue>
 :PROPERTIES:
@@ -2715,28 +2726,23 @@ SCHEDULED: <2024-04-23 Tue>
 CLOCK: [2024-04-22 Mon 09:39]--[2024-04-22 Mon 10:10] =>  0:31
 :END:
 ** RAW [#C] Python programming language brief overview diagram
-SCHEDULED: <2024-05-03 Fri>
-** RAW [#A] Flask Web framework
-SCHEDULED: <2024-05-03 Fri>
-- Note taken on [2024-05-01 Wed 09:56] \\
-  flask --app hello run --host=0.0.0.0
-:LOGBOOK:
-CLOCK: [2024-05-01 Wed 08:10]--[2024-05-01 Wed 08:16] =>  0:06
-CLOCK: [2024-05-01 Wed 07:12]--[2024-05-01 Wed 08:08] =>  0:56
-CLOCK: [2024-04-29 Mon 13:46]--[2024-04-29 Mon 13:58] =>  0:12
-:END: 
+SCHEDULED: <2024-05-07 Tue>
 ** RAW [#A] Twitter Bootstrap as the Template
-SCHEDULED: <2024-05-03 Fri>
+SCHEDULED: <2024-05-07 Tue>
 :LOGBOOK:
+CLOCK: [2024-05-04 Sat 08:54]--[2024-05-04 Sat 10:13] =>  1:19
+CLOCK: [2024-05-04 Sat 08:27]--[2024-05-04 Sat 08:47] =>  0:20
 CLOCK: [2024-05-03 Fri 09:42]--[2024-05-03 Fri 10:16] =>  0:34
 CLOCK: [2024-05-01 Wed 10:02]--[2024-05-01 Wed 10:27] =>  0:25
 :END:
-[https://getbootstrap.com/docs/4.3/getting-started/introduction/]
+[[https://getbootstrap.com/docs/4.3/getting-started/introduction/]]
+[[https://getbootstrap.com/docs/5.3/getting-started/introduction/]]
 ** RAW [#A] Jinja Templating
-SCHEDULED: <2024-05-03 Fri>
+SCHEDULED: <2024-05-07 Tue>
 - Note taken on [2024-05-01 Wed 11:11] \\
   https://realpython.com/primer-on-jinja-templating/
 :LOGBOOK:
+CLOCK: [2024-05-03 Fri 08:45]--[2024-05-03 Fri 09:42] =>  0:57
 CLOCK: [2024-05-02 Thu 07:10]--[2024-05-02 Thu 08:44] =>  1:34
 CLOCK: [2024-05-01 Wed 11:01]--[2024-05-01 Wed 11:26] =>  0:25
 :END:
