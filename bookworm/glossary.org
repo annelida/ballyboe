@@ -832,6 +832,17 @@ manipulating data.
 
 Is the development of the graphical user interface of a website
 through the use of HTML, CSS, and JavaScript so users can view and
-interact with that websit.
+interact with that website.
+
+** SQLite
+
+Is a database engine written in the C programming language.
+
+** SQLite3
+
+Is a terminal-based front-end to the SQLite library that can
+evaluate queries interactively and display the results in multiple
+formats. sqlite3 can also be used within shell scripts and other
+applications to provide batch processing features.
 
 
