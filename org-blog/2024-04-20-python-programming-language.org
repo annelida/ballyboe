@@ -71,6 +71,14 @@ software, Mobile apps etc.
 #+end_quote
 
 *Special programming language*
+* The Python interpreter
+
+The Python interpreter is usually installed as
+‘/usr/local/bin/python3.11’ on those machines where it is available;
+The interpreter operates somewhat like the Unix shell: when called
+with standard input connected to a tty device, it reads and executes
+commands interactively.
+
 * Questions
 ** Is Python compiled language?
 ** Is Python interpreted language?
