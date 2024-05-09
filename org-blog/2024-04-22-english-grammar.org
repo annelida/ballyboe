@@ -91,7 +91,7 @@ His father has just retired. > He was a teacher. (NOT Was a teacher.)
 
     =there=
 
-If there is no other subject, we use there to talk about:
+If there is no other subject, we use =there= to talk about:
 
 - where or when something is:
 
@@ -266,3 +266,31 @@ We often have a preposition at the end of a question:
 Who does this book belong to?
 What are you looking for?
 Which university did you go to?
+
+** Reflexive pronouns
+
+*Reflexive pronouns* are words ending in -self or -selves that are
+used when the subject and the object of a sentence are the same (e.g.,
+I believe in myself).
+
+| singular | myself    | yourself   | himself    | herself | itself |
+|----------+-----------+------------+------------+---------+--------|
+| plural   | ourselves | yourselves | themselves |         |        |
+
+
+I fell over and hurt myself.
+Be careful with that knife. You might cut yourself.
+
+We use reflexive pronouns as an indirect object when the indirect
+object is /the same as the subject of the verb/:
+
+Would you like to pour yourself a drink?
+We’ve brought ourselves something to eat.
+
+We use reflexive pronouns as the /object of/ a =preposition= when the
+object is the same as the subject of the verb:
+
+They had to cook for themselves.
+He was feeling very sorry for himself.
+
+
