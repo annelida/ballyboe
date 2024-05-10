@@ -14,6 +14,13 @@ tags: [python, intro]
 #+TOC: headlines 2
 
 * Preamble
+* Programming Pillars
+
+Assigment
+Comparison operations
+Control flow operations
+Proceges
+
 * Definitions
 
 #+begin_quote
@@ -78,6 +85,16 @@ The Python interpreter is usually installed as
 The interpreter operates somewhat like the Unix shell: when called
 with standard input connected to a tty device, it reads and executes
 commands interactively.
+
+* Keywords
+
+False      await      else       import     pass
+None       break      except     in         raise
+True       class      finally    is         return
+and        continue   for        lambda     try
+as         def        from       nonlocal   while
+assert     del        global     not        with
+async      elif       if         or         yield
 
 * Questions
 ** Is Python compiled language?
