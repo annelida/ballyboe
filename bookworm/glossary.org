@@ -797,8 +797,16 @@ Variable. It aids in distinguishing one entity from others.
 Operands are the variables and objects to which the computation is
 applied.
 
+The following tokens are operators:
+
+     +       -       *       **      /       //      %      @
+     <<      >>      &       |       ^       ~       :=
+     <       >       <=      >=      ==      !=
+
 ** Literals
 
+Are a data type and can hold any value type, such as strings, numbers,
+and more.
 Literals return a value for an object of the specified type.
 
 ** Punctuators
@@ -806,6 +814,12 @@ Literals return a value for an object of the specified type.
 Punctuators are symbols that are used to structure programming
 sentences in a computer language. Some commonly used punctuators are:
 ‘, ‘ ,#, \ ,( ) ,{ },[ ] ,@ ,: , =
+
+** Container
+
+Some objects contain reference to other objects. These are called
+'containers'. Examples of containers are tuples, lists and
+dictionaries.
 
 ** Flask
 
