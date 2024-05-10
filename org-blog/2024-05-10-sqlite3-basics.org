@@ -1,0 +1,50 @@
+#+BEGIN_EXPORT html
+---
+layout: page
+title: SQLite3 basics with org Babel
+tagline: " features and functionality"
+permalink: /linux/debian/SQLite3-basics.html
+categories: [Python, SQLite3, literate programming]
+tags: [Python, SQLite3]
+---
+#+END_EXPORT
+
+#+STARTUP: showall indent
+#+OPTIONS: tags:nil num:nil \n:nil @:t ::t |:t ^:{} _:{} *:t
+#+TOC: headlines 2
+#+PROPERTY:header-args :results output :exports both :eval no-export
+
+* Introduction
+
+*SQLite* is a database engine written in the C programming language.
+*SQLite3* is a terminal-based front-end to the SQLite library that can
+evaluate queries interactively and display the results in multiple
+formats.
+
+So, lets start to learn SQLite step by step through extensive hands-on
+practice.
+
+* Check if Python and SQLite3 already installed
+
+#+begin_src sh :results output :export both
+  python3 --version
+  sqlite3 --version
+#+end_src
+
+#+RESULTS:
+: Python 3.11.2
+: 3.40.1 2022-12-28 14:03:47 df5c253c0b3dd24916e4ec7cf77d3db5294cc9fd45ae7b9c5e82ad8197f3alt1
+
+* How to connect to SQLite sample database
+
+#+begin_src sqlite :echo on :db ~/Downloads/scraped.db :results output
+.tables
+#+end_src
+
+#+RESULTS:
+: .tables
+: img_index          premieres          price_wave         products_var_data
+: in_stock_wave      presence           products           stores           
+
+
+
