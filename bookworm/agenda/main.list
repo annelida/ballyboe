@@ -291,7 +291,11 @@ CLOCK: [2024-05-03 Fri 07:11]--[2024-05-03 Fri 07:11] =>  0:00
 :END:
 https://learnenglish.britishcouncil.org/grammar/english-grammar-reference/pronouns-questions
 ****** [#A] Reflexive pronouns
-SCHEDULED: <2024-05-10 Fri>
+SCHEDULED: <2024-05-24 Fri ++2w>
+:PROPERTIES:
+:LAST_REPEAT: [2024-05-10 Fri 18:02]
+:END:
+- State "AMPLE"      from ""           [2024-05-10 Fri 18:02]
 :LOGBOOK:
 CLOCK: [2024-05-09 Thu 07:12]--[2024-05-09 Thu 07:52] =>  0:40
 :END:
@@ -634,7 +638,7 @@ CLOCK: [2024-04-09 Tue 10:00]--[2024-04-09 Tue 10:42] =>  0:42
 CLOCK: [2024-04-09 Tue 09:03]--[2024-04-09 Tue 09:36] =>  0:33
 :END:
 *** Article about process management on Linux
-SCHEDULED: <2024-05-10 Fri>
+SCHEDULED: <2024-05-11 Sat>
 - Note taken on [2024-04-13 Sat 17:26] \\
   How to check is the SSHd process running?
   Which protocol it is listening if running?
@@ -646,7 +650,7 @@ CLOCK: [2024-04-12 Fri 09:30]--[2024-04-12 Fri 10:42] =>  1:12
 :END:
 [[file:~/git/annelida/ballyboe/org-blog/2024-04-12-process-management-on-linux.org::*Introduction][Introduction]]
 *** Article about Linux file system structure
-SCHEDULED: <2024-05-10 Fri>
+SCHEDULED: <2024-05-11 Sat>
 
 [[file:~/git/annelida/ballyboe/org-blog/2024-04-12-linux-file-system-structure.org::*Overview][Overview]]
 
@@ -908,8 +912,9 @@ CLOCK: [2024-04-23 Tue 07:44]--[2024-04-23 Tue 08:17] =>  0:33
 [[info:python3.11#Python Setup and Usage][python3.11#Python Setup and Usage]]
 
 **** [#A] Python Language Reference
-SCHEDULED: <2024-05-10 Fri>
+SCHEDULED: <2024-05-13 Mon>
 :LOGBOOK:
+CLOCK: [2024-05-10 Fri 07:02]--[2024-05-10 Fri 08:02] =>  1:00
 CLOCK: [2024-05-09 Thu 07:55]--[2024-05-09 Thu 08:42] =>  0:47
 CLOCK: [2024-05-04 Sat 08:05]--[2024-05-04 Sat 08:23] =>  0:18
 CLOCK: [2024-05-03 Fri 07:50]--[2024-05-03 Fri 08:25] =>  0:35
@@ -919,6 +924,10 @@ CLOCK: [2024-04-27 Sat 07:14]--[2024-04-27 Sat 07:53] =>  0:39
 CLOCK: [2024-04-22 Mon 08:24]--[2024-04-22 Mon 09:09] =>  0:45
 :END:
 [[info:python3.11#The Python Language Reference][python3.11#The Python Language Reference]]
+
+****  [#A] Python Data model
+SCHEDULED: <2024-05-11 Sat>
+[[info:python3.11#Data model][python3.11#Data model]]
 
 *** AMPLE Venvs decluttering and reorder
 SCHEDULED: <2024-02-22 Thu>
@@ -1717,13 +1726,13 @@ CLOCK: [2024-04-19 Fri 11:13]--[2024-04-19 Fri 11:53] =>  0:40
 
 [[file:~/git/annelida/ballyboe/org-blog/2023-11-07-Python-venv.org::*Creating a Python virtual environment on a Debian-based system][Python virtual environment on a Debian-based system]]
 *** DP1 Article about Python Programming Language
-SCHEDULED: <2024-05-10 Fri>
+SCHEDULED: <2024-05-11 Sat>
 :LOGBOOK:
 CLOCK: [2024-04-20 Sat 16:10]--[2024-04-20 Sat 16:25] =>  0:15
 :END:
 [[file:~/git/annelida/ballyboe/org-blog/2024-04-20-python-programming-language.org::*Preamble][Python programming language]]
 *** Flask Web framework
-SCHEDULED: <2024-05-10 Fri>
+SCHEDULED: <2024-05-11 Sat>
 - Note taken on [2024-05-01 Wed 09:56] \\
   flask --app hello run --host=0.0.0.0
 :LOGBOOK:
@@ -2411,8 +2420,17 @@ CLOCK: [2024-01-04 Thu 12:11]--[2024-01-04 Thu 12:13] =>  0:02
 :END:
 
 *** [#A] The studying of the SQLite3 manual
-SCHEDULED: <2024-05-10 Fri>
+SCHEDULED: <2024-05-11 Sat>
+[[file:~/git/annelida/ballyboe/org-blog/2024-05-10-sqlite3-basics.org::*How to connect to SQLite sample database][How to connect to SQLite sample database]]
+
+- Note taken on [2024-05-10 Fri 18:06] \\
+  Downloads/scraped.db in SQLite3
+  .table
+  pragma table_info(table_name); - structure
+  .schema tablename - structure
+  select count(*) from table_name; - count rows
 :LOGBOOK:
+CLOCK: [2024-05-10 Fri 08:39]--[2024-05-10 Fri 10:41] =>  2:02
 CLOCK: [2024-05-08 Wed 11:10]--[2024-05-08 Wed 11:53] =>  0:43
 CLOCK: [2024-05-07 Tue 08:29]--[2024-05-07 Tue 08:49] =>  0:20
 CLOCK: [2024-05-07 Tue 07:50]--[2024-05-07 Tue 08:22] =>  0:32
@@ -2421,7 +2439,7 @@ CLOCK: [2024-05-07 Tue 07:50]--[2024-05-07 Tue 08:22] =>  0:32
 SCHEDULED: <2024-05-08 Wed>
 
 ** [#A] Twitter Bootstrap as the Template
-SCHEDULED: <2024-05-10 Fri>
+SCHEDULED: <2024-05-11 Sat>
 :PROPERTIES:
 :CATEGORY: TB
 :END:
@@ -2738,11 +2756,12 @@ CLOCK: [2023-11-28 Tue 18:27]--[2023-11-28 Tue 18:33] =>  0:06
 - State "DONE"       from "Active"     [2023-11-23 Thu 15:54]
 * Events
 ** Preparation to meeting with Roisin
-SCHEDULED: <2024-05-10 Fri ++1w>
+SCHEDULED: <2024-05-17 Fri ++1w>
 :PROPERTIES:
 :CATEGORY: Speacking
-:LAST_REPEAT: [2024-05-02 Thu 18:17]
+:LAST_REPEAT: [2024-05-10 Fri 18:02]
 :END:
+- State "AMPLE"      from ""           [2024-05-10 Fri 18:02]
 - State "AMPLE"      from ""           [2024-05-02 Thu 18:17]
 - State "AMPLE"      from ""           [2024-04-23 Tue 19:35]
 - State "AMPLE"      from ""           [2024-04-16 Tue 19:46]
@@ -2774,9 +2793,9 @@ SCHEDULED: <2024-04-23 Tue>
 CLOCK: [2024-04-22 Mon 09:39]--[2024-04-22 Mon 10:10] =>  0:31
 :END:
 ** RAW [#C] Python programming language brief overview diagram
-SCHEDULED: <2024-05-10 Fri>
+SCHEDULED: <2024-05-11 Sat>
 ** RAW Jinja Templating
-SCHEDULED: <2024-05-10 Fri>
+SCHEDULED: <2024-05-11 Sat>
 - Note taken on [2024-05-01 Wed 11:11] \\
   https://realpython.com/primer-on-jinja-templating/
 :LOGBOOK:
