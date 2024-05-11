@@ -852,6 +852,10 @@ interact with that website.
 
 Is a database engine written in the C programming language.
 
+SQLite is a C library that provides a lightweight disk-based database
+that doesn’t require a separate server process and allows accessing
+the database using a nonstandard variant of the SQL query language.
+
 ** SQLite3
 
 Is a terminal-based front-end to the SQLite library that can
