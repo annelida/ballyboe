@@ -16,7 +16,11 @@ tags: [Python, SQLite3]
 
 * Introduction
 
-*SQLite* is a database engine written in the C programming language.
+*SQLite* is a C library that provides a lightweight disk-based
+database that doesn’t require a separate server process and allows
+accessing the database using a nonstandard variant of the SQL query
+language.
+
 *SQLite3* is a terminal-based front-end to the SQLite library that can
 evaluate queries interactively and display the results in multiple
 formats.
@@ -45,6 +49,75 @@ practice.
 : .tables
 : img_index          premieres          price_wave         products_var_data
 : in_stock_wave      presence           products           stores           
+
+* Show databases in the current database connection
+
+#+begin_src sqlite :echo on :db ~/Downloads/scraped.db :results output
+.database
+#+end_src
+
+#+RESULTS:
+: .database
+: main: /home/vikky/Downloads/scraped.db r/o
+
+* Show the structure of the table
+
+#+begin_src sqlite :echo on :db ~/Downloads/scraped.db :results output
+.schema products
+#+end_src
+
+#+RESULTS:
+: .schema products
+: CREATE TABLE IF NOT EXISTS "products" (id integer primary key autoincrement, name, sku, manufacturer, manuf_url, weight, pack_weight, dimension, description, ingredients, warning, suggested_use);
+: CREATE INDEX sku_index ON "products"(sku);
+
+
+#+begin_src sqlite :echo on :db ~/Downloads/scraped.db :results output
+pragma table_info(products)
+#+end_src
+
+#+RESULTS:
+#+begin_example
+pragma table_info(products)
+0,id,INTEGER,0,,1
+1,name,"",0,,0
+2,sku,"",0,,0
+3,manufacturer,"",0,,0
+4,manuf_url,"",0,,0
+5,weight,"",0,,0
+6,pack_weight,"",0,,0
+7,dimension,"",0,,0
+8,description,"",0,,0
+9,ingredients,"",0,,0
+10,warning,"",0,,0
+11,suggested_use,"",0,,0
+#+end_example
+
+* Show indexes
+
+*Indexes* are special lookup tables that the database search engine can
+ use to speed up data retrieval.
+#+begin_src sqlite :echo on :db ~/Downloads/scraped.db :results output
+.indexes
+#+end_src
+
+#+RESULTS:
+: .indexes
+: img_index_id                  price_changes_index         
+: img_index_img                 product_varied_data_index   
+: in_sale_index                 product_varied_data_index_id
+: instock_changes_index         sku_index
+
+Show the indexes of a specific table:
+
+#+begin_src sqlite :echo on :db ~/Downloads/scraped.db :results output
+.indexes products
+#+end_src
+
+#+RESULTS:
+: .indexes products
+: sku_index
+
 
 
 
