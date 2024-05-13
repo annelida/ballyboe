@@ -16,24 +16,35 @@ tags: [linux, process-management]
 
 * Introduction
 
-#+begin_quote
-A process in Linux is nothing but a program in execution. It’s a
-running instance of a program. Any command that you execute starts a
-process.
+A process In Linux is a running instance of a computer program. Any
+command that you execute starts a process.
 
 Occasionally processes may consume a lot of resources and need to be
-killed. Alternatively, times when you may want to change the priority
-level of a process, so the system will allocate more resources to it.
-All these tasks require you to do the same thing: listing the running
-processes on Linux.
+killed. Alternatively, you may want to change the priority level of a
+process, so the system will allocate more resources to it.  All these
+tasks require you to do the same thing: listen the running processes
+on Linux and manage it.
+
+#+begin_quote
 
 ** Types of processes in Linux
 
-Foreground Processes - depend on the user for input also referred to
-as interactive processes;
+Linux processes can be classified based on their interaction with the
+user, priority, parent-child relationships, and their state after
+termination.
 
-Background Processes - run independently of the user referred to as
-non-interactive or automatic processes.
+*Foreground Processes (Interactive processes)* - depend on user input
+and run in the foreground. They receive input from the keyboard and
+send output to the screen;
+
+*Background Processes (NOn-Interactive processes)* - these processes
+run independently of user input and can be executed in parallel with
+other processes. They do not require keyboard input;
+
+*Daemon Processes* - system-related background processes that
+often run with root permissions and wait for requests from other
+processes. They run in the background and are not associated with a
+terminal.
 
 ** Process' states in Linux
 
@@ -63,17 +74,12 @@ processes. These commands are =Top=, =htop= and =ps=.
   top
 #+end_src
 
-#+CAPTION: The =top= command presentation
-#+ATTR_HTML: :title The =top= command execution :align right :width 300px
-[[https://github.com/annelida/annelida.github.io/blob/main/assets/img/top_command.png]]
-
-
 PID: Unique Process ID given to each process;
 User: Username of the process owner;
 PR: Priority given to a process while scheduling;
 
 NI: ‘nice’ value of a process: a negative nice value means higher
-priority, whereas a positive nice value means lower priority.Zero in
+priority, whereas a positive nice value means lower priority. Zero in
 this field simply means priority will not be adjusted in determining a
 task's dispatch-ability
 
@@ -82,8 +88,8 @@ RES: Amount of physical memory used by a process;
 SHR: Amount of memory shared with other processes;
 S: state of the process;
 
-  - ‘D’ = uninterruptible sleep
-  - 'I' = Idle
+ - ‘D’ = uninterruptible sleep
+ - 'I' = Idle
  - ‘R’ = running
  - ‘S’ = sleeping
  - ‘T’ = traced or stopped
