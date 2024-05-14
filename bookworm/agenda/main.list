@@ -360,7 +360,7 @@ CLOCK: [2023-12-20 Wed 09:55]--[2023-12-20 Wed 10:45] =>  0:50
 CLOCK: [2023-12-19 Tue 09:15]--[2023-12-19 Tue 09:18] =>  0:03
 :END:
 *** DELAY MAN df
-SCHEDULED: <2024-05-15 Wed ++1w>
+SCHEDULED: <2024-06-02 Sun ++1w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-04-29 Mon 18:43]
 :END:
@@ -466,7 +466,7 @@ Avoiding Standard Software Risks
 Using Open Source Software
 
 *** RAW =helpful= package usage
-SCHEDULED: <2024-05-15 Wed ++2w>
+SCHEDULED: <2024-05-30 Thu ++2w>
 :LOGBOOK:
 CLOCK: [2024-03-20 Wed 18:24]--[2024-03-20 Wed 18:24] =>  0:00
 :END:
@@ -970,10 +970,11 @@ while working on a project or learning the language. This tool is
 available in every Python installation.
 
 *** Python script
-SCHEDULED: <2024-05-15 Wed ++2w>
+SCHEDULED: <2024-05-29 Wed ++2w>
 :PROPERTIES:
-:LAST_REPEAT: [2024-04-30 Tue 18:25]
+:LAST_REPEAT: [2024-05-14 Tue 18:15]
 :END:
+- State "AMPLE"      from ""           [2024-05-14 Tue 18:15]
 - State "AMPLE"      from ""           [2024-04-30 Tue 18:25]
 - State "AMPLE"      from ""           [2024-03-05 Tue 18:42]
 :LOGBOOK:
@@ -985,7 +986,7 @@ runs the code line by line, following the script or program’s
 execution flow.
 
 *** Init Python: modules, relative import.
-SCHEDULED: <2024-05-15 Wed>
+SCHEDULED: <2024-05-22 Wed>
 :PROPERTIES:
 :CATEGORY: Python
 :END:
@@ -1004,8 +1005,8 @@ SCHEDULED: <2024-05-15 Wed>
 CLOCK: [2023-10-24 Tue 08:07]--[2023-10-24 Tue 09:32] =>  1:25
 :END:
 
-*** RAW [#A] Python classes
-SCHEDULED: <2024-05-15 Wed>
+*** DELAY [#A] Python classes
+SCHEDULED: <2024-06-12 Wed>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-22 Wed 14:25]
 :CATEGORY: Python
@@ -1079,13 +1080,15 @@ Object's methods are functions that belong to the object.
 #+RESULTS:
 : The student's name is Tony Black
 
-*** [#A] Selenium WebDriver installation on DELL
-SCHEDULED: <2024-05-14 Tue ++2w>
+*** [#A] Selenium customization on DELL
+SCHEDULED: <2024-05-15 Wed ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-16 Thu 09:23]
 :CATEGORY: Python
 :END:
 :LOGBOOK:
+CLOCK: [2024-05-14 Tue 10:19]--[2024-05-14 Tue 11:05] =>  0:46
+CLOCK: [2024-05-14 Tue 09:56]--[2024-05-14 Tue 10:02] =>  0:06
 CLOCK: [2024-03-26 Tue 08:36]--[2024-03-26 Tue 09:41] =>  1:05
 CLOCK: [2024-03-25 Mon 09:56]--[2024-03-25 Mon 11:27] =>  1:31
 CLOCK: [2024-03-22 Fri 08:02]--[2024-03-22 Fri 08:34] =>  0:32
@@ -1648,7 +1651,7 @@ def test_always_fail():
 #+RESULTS:
 
 *** [#A] Playwright installation on DELL
-SCHEDULED: <2024-05-14 Tue>
+SCHEDULED: <2024-05-15 Wed>
 :PROPERTIES:
 :CATEGORY: Testing
 :END:
@@ -1691,11 +1694,11 @@ CLOCK: [2024-03-20 Wed 07:39]--[2024-03-20 Wed 08:37] =>  0:58
 CLOCK: [2024-03-19 Tue 10:37]--[2024-03-19 Tue 12:02] =>  1:25
 :END:
 
-[https://playwright.dev/python/docs/intro]
+[[https://playwright.dev/python/docs/intro]]
 
 Locating elements
 
-[https://playwright.dev/python/docs/locators]
+[[https://playwright.dev/python/docs/locators]]
 
 *** RAW Dictionaries
 SCHEDULED: <2024-05-21 Tue>
@@ -1713,7 +1716,7 @@ SCHEDULED: <2024-07-09 Tue ++2w>
 CLOCK: [2024-01-12 Fri 10:28]--[2024-01-12 Fri 11:01] =>  0:33
 :END:
 *** [#B] UnitTest *info* studying
-SCHEDULED: <2024-05-15 Wed>
+SCHEDULED: <2024-05-17 Fri>
 :PROPERTIES:
 :CATEGORY: Python
 :END:
@@ -1746,14 +1749,17 @@ CLOCK: [2024-04-20 Sat 16:10]--[2024-04-20 Sat 16:25] =>  0:15
 :END:
 [[file:~/git/annelida/ballyboe/org-blog/2024-04-20-python-programming-language.org::*Preamble][Python programming language]]
 *** [#A] Flask add route to several HTML pages
-SCHEDULED: <2024-05-14 Tue>
+SCHEDULED: <2024-05-15 Wed>
 - Note taken on [2024-05-01 Wed 09:56] \\
   flask --app hello run --host=0.0.0.0
 :LOGBOOK:
+CLOCK: [2024-05-14 Tue 08:14]--[2024-05-14 Tue 09:51] =>  1:37
 CLOCK: [2024-05-01 Wed 08:10]--[2024-05-01 Wed 08:16] =>  0:06
 CLOCK: [2024-05-01 Wed 07:12]--[2024-05-01 Wed 08:08] =>  0:56
 CLOCK: [2024-04-29 Mon 13:46]--[2024-04-29 Mon 13:58] =>  0:12
 :END: 
+*** [#A] How to link several HTML pages using Flask
+SCHEDULED: <2024-05-15 Wed>
 
 ** Org-mode
 
@@ -2434,7 +2440,7 @@ CLOCK: [2024-01-04 Thu 12:11]--[2024-01-04 Thu 12:13] =>  0:02
 :END:
 
 *** The studying of the SQLite3 manual
-SCHEDULED: <2024-05-14 Tue>
+SCHEDULED: <2024-05-15 Wed>
 [[file:~/git/annelida/ballyboe/org-blog/2024-05-10-sqlite3-basics.org::*How to connect to SQLite sample database][How to connect to SQLite sample database]]
 
 - Note taken on [2024-05-10 Fri 18:06] \\
@@ -2457,7 +2463,7 @@ CLOCK: [2024-05-07 Tue 07:50]--[2024-05-07 Tue 08:22] =>  0:32
 SCHEDULED: <2024-05-08 Wed>
 
 ** [#A] Twitter Bootstrap app extension
-SCHEDULED: <2024-05-14 Tue>
+SCHEDULED: <2024-05-15 Wed>
 :PROPERTIES:
 :CATEGORY: TB
 :END:
@@ -2816,8 +2822,8 @@ CLOCK: [2024-04-22 Mon 09:39]--[2024-04-22 Mon 10:10] =>  0:31
 :END:
 ** DELAY [#C] Python programming language brief overview diagram
 SCHEDULED: <2024-06-10 Mon>
-** [#A] Jinja Templating
-SCHEDULED: <2024-05-14 Tue>
+** Jinja Templating
+SCHEDULED: <2024-05-15 Wed>
 - Note taken on [2024-05-01 Wed 11:11] \\
   https://realpython.com/primer-on-jinja-templating/
 :LOGBOOK:
@@ -2826,5 +2832,7 @@ CLOCK: [2024-05-03 Fri 08:45]--[2024-05-03 Fri 09:42] =>  0:57
 CLOCK: [2024-05-02 Thu 07:10]--[2024-05-02 Thu 08:44] =>  1:34
 CLOCK: [2024-05-01 Wed 11:01]--[2024-05-01 Wed 11:26] =>  0:25
 :END:
+** RAW [#C] How works external links in Org-mode
+SCHEDULED: <2024-05-15 Wed>
 
 * Personal

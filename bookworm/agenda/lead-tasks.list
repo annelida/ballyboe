@@ -83,10 +83,11 @@ about how the program works are:
 
 --* INIT Conclusion*: the wisest decision is just to use it properly!
 * Deliberate practice
-SCHEDULED: <2024-05-14 Tue ++1d>
+SCHEDULED: <2024-05-15 Wed ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-05-13 Mon 18:57]
+:LAST_REPEAT: [2024-05-14 Tue 18:09]
 :END:
+- State "AMPLE"      from ""           [2024-05-14 Tue 18:09]
 - State "AMPLE"      from ""           [2024-05-13 Mon 18:57]
 - State "AMPLE"      from ""           [2024-05-12 Sun 18:23]
 - State "AMPLE"      from ""           [2024-05-11 Sat 12:39]
@@ -237,7 +238,7 @@ Stack-Overflow suggestions and notes. Bear this fact in mind do your
 job as it would be done in a sure and fire manner.
 
 ** DELAY [#A] *Python* embedded help system
-SCHEDULED: <2024-05-15 Wed ++2d/3d>
+SCHEDULED: <2024-06-01 Sat ++2d/3d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-05-12 Sun 18:24]
 :CATEGORY: Python
