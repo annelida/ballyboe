@@ -11,9 +11,5 @@ def home():
 def scaffolding():
     return render_template("scaffolding.html")
 
-
-# def hello_world():
-    # return "<p>Hello, World!</p>"
-
 if __name__ == "__main__":
     app.run(debug=True)
