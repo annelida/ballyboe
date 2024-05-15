@@ -379,11 +379,14 @@ path.
 Evaluate the region. Try to create weekly agenda by completing =M-x
 org-agenda= command.
 
-** INIT [#A] Org-babel variables customization 
-SCHEDULED: <2024-05-16 Thu ++1d>
+** RAW [#A] Org-babel variables customization 
+SCHEDULED: <2024-05-19 Sun ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-05-04 Sat 19:16]
+:LAST_REPEAT: [2024-05-15 Wed 18:25]
 :END:
+- State "AMPLE"      from "RAW"        [2024-05-15 Wed 18:25]
+- State "AMPLE"      from "RAW"        [2024-05-15 Wed 18:25]
+- State "AMPLE"      from "INIT"       [2024-05-15 Wed 18:25]
 - State "AMPLE"      from "RAW"        [2024-05-04 Sat 19:16]
 - State "AMPLE"      from "RAW"        [2024-05-04 Sat 19:16]
 - State "AMPLE"      from "ACTIVE"     [2024-05-04 Sat 19:16]
