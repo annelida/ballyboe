@@ -102,6 +102,7 @@
  ;; Your init file should contain only one such instance.
  ;; If there is more than one, they won't work right.
  '(bmkp-last-as-first-bookmark-file "~/.emacs.d/bookmarks")
+ '(browse-url-browser-function 'eww-browse-url)
  '(indent-tabs-mode nil)
  '(org-agenda-files
    '("~/git/annelida/ballyboe/org-blog/2024-04-09-SSH-connection-to-remote-host-in-Linux.org" "/home/vikky/git/annelida/ballyboe/org-blog/2023-12-26-migration-plan.org" "/home/vikky/git/annelida/ballyboe/bookworm/agenda/main.list" "/home/vikky/git/annelida/ballyboe/bookworm/agenda/lead-tasks.list" "/home/vikky/git/annelida/ballyboe/bookworm/agenda/personal.list" "/home/vikky/git/annelida/ballyboe/bookworm/agenda/chores-tasks.list"))
