@@ -14,40 +14,91 @@ tags: [python, intro]
 #+TOC: headlines 2
 
 * Preamble
-* Programming Pillars
 
+* The Programming Pillars:
+
+Input/Output
 Assigment
 Comparison operations
 Control flow operations
-Proceges
+Procedures
 
 * Definitions
 
+** What is a programming language whatever?
+
 #+begin_quote
-*Python* is an interpreted, object-oriented, high-level programming
-language with dynamic semantics.
+A programming language is a set of instructions used by programmers to
+communicate with computers.
 #+end_quote
 
-*Interpretation*
+** What is Python programming language?
 
-In *Interprereted Programming Language* the source code is executed by
+#+begin_quote
+/Python/ is an interpreted, object-oriented, high-level /programming
+language/ with dynamic semantics.
+#+end_quote
+
+** What is interpretation in programming?
+
+#+begin_quote
+/Interpretation/ in programming refers to the process where a computer
+program, known as an interpreter, directly executes instructions
+written in a programming or scripting language without the need for
+prior compilation into machine code.
+#+end_quote
+
+** What is compilation in programming?
+
+#+begin_quote
+/Compilation/ in programming refers to the process of translating a
+program written in a high-level programming language, known as source
+code, into object code that a computer can understand.
+#+end_quote
+
+** Is Python interpreted or compiled programming language?
+
+Python is both an interpreted and compiled language.
+
+In /Interprereted Programming Language/ the source code is executed by
 an interpreter which translates code into machine code on the fly.
 
-*Compilation* is the process of translating source code written in a
+/Compilation/ is the process of translating source code written in a
 high-level programming language into a lower-level language, such as
 machine code, that can be executed by a computer.
 
-But when you are execute any Python script the =.pyc= (compiled
-bytecode file) generated. If you run the script again (without making
-changes) =.pyc= file will not be regenerated. After execution modified
-script =.pyc= the file will be generated again. Compilation carried
-out to increase the speed of program execution.
 
-A *programming paradigm* is a method or style of programming that
+Python allows you to save the compiled bytecode to .pyc files. This
+speeds up startup time on subsequent runs since the source code
+doesn't need to be recompiled. When you are execute any Python script
+the =.pyc= (compiled bytecode file) generated. If you run the script
+again (without making changes) =.pyc= file will not be
+regenerated. After execution modified script =.pyc= the file will be
+generated again. Compilation carried out to increase the speed of
+program execution.
+
+** What is programming paradigm?
+
+#+begin_quote
+A /programming paradigm/ is a method or style of programming that
 defines a set of principles, techniques, and patterns for structuring
-code to solve problems on a computer. Programming paradigms can be
-classified into different categories, such as: Imperative
-paradigm. Declarative paradigm. Object-oriented paradigm.
+code to solve problems on a computer.
+#+end_quote
+
+#+begin_quote
+A /programming paradigm/ refers to a high-level approach used to
+structure and conceptualize the implementation of computer programs.
+#+end_quote
+
+
+** What is object-oriented programming language?
+
+#+begin_quote
+/Object-oriented programming (OOP)/ is a programming paradigm based on
+the concept of objects, which can contain data (properties) and code
+(methods).
+#+end_quote
+
 
 
 
@@ -99,3 +150,13 @@ async      elif       if         or         yield
 * Questions
 ** Is Python compiled language?
 ** Is Python interpreted language?
+* Notes                                                            :noexport:
+
+
+
+A *programming paradigm* is a method or style of programming that
+defines a set of principles, techniques, and patterns for structuring
+code to solve problems on a computer. Programming paradigms can be
+classified into different categories, such as: Imperative
+paradigm. Declarative paradigm. Object-oriented paradigm.
+
