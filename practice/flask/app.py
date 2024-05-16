@@ -13,7 +13,7 @@ def overview():
 
 @app.route("/scaffolding/")
 def scaffolding():
-    return render_template("scaffolding.html")
+    return render_template("scaffolding.html", title="Scaffolding")
 
 if __name__ == "__main__":
     app.run(debug=True)
