@@ -228,7 +228,6 @@ We use =one= (singular) and =ones= (plural):
   - You can borrow a book. Which /one/ do you want?
   - Which /ones/ are yours?
 
-
 ** Pronouns in questions
 
 We use =who= to ask about people:
@@ -293,4 +292,29 @@ object is the same as the subject of the verb:
 They had to cook for themselves.
 He was feeling very sorry for himself.
 
+** Reciprocal pronouns
 
+[rəˈsiprək(ə)l]
+
+/Reciprocal pronouns/ are pronouns that indicate a mutual relationship
+between two or more people or things. The only reciprocal pronouns in
+English are /each other/ and /one another/.
+
+We use the reciprocal pronouns /each other/ and /one another/ when two
+or more people do the same thing.
+
+- Peter and Mary helped each other. = Peter helped Mary and Mary
+  helped Peter.
+- We sent one another Christmas cards. = We sent them a Christmas card
+  and they sent us a Christmas card.
+
+ When to use /each other/ and /one another/ depends on the number of
+ people or things involved in the action.
+
+ /each other/ is more commonly used when referring to two people.
+
+ - John and Jane are fighting with each other.
+
+  while /one another/ is used when referring to more than two people.
+
+  - The team members are helping one another.
