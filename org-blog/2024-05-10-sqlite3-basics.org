@@ -119,5 +119,23 @@ Show the indexes of a specific table:
 : sku_index
 
 
+* Python sqlite3
+
+#+begin_src python :results output
+  import sqlite3
+  # creation a connection to the database ‘scraped.db’
+  con = sqlite3.connect("/home/vikky/Downloads/scraped.db")
+  # SQL statements execution and fetching the results
+  c = con.cursor()
+  c.execute('SELECT id, name FROM products LIMIT 1')
+  print(c.fetchone())
+  c.execute('SELECT count(*) FROM products')
+  print(c.fetchone())
+  con.close()
+#+end_src
+
+#+RESULTS:
+: (140000, 'Sierra Bees, Organic Cocoa Butter Lip Balm, .15 oz (4.25 g)')
+: (29676,)
 
 
