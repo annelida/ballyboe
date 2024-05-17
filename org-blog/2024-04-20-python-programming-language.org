@@ -67,7 +67,6 @@ an interpreter which translates code into machine code on the fly.
 high-level programming language into a lower-level language, such as
 machine code, that can be executed by a computer.
 
-
 Python allows you to save the compiled bytecode to .pyc files. This
 speeds up startup time on subsequent runs since the source code
 doesn't need to be recompiled. When you are execute any Python script
@@ -95,49 +94,52 @@ structure and conceptualize the implementation of computer programs.
 
 #+begin_quote
 /Object-oriented programming (OOP)/ is a programming paradigm based on
-the concept of objects, which can contain data (properties) and code
-(methods).
+the concept of objects, which can contain data (attributes or
+properties) and code (methods).
 #+end_quote
 
-
-
-
-
+** What is high-level programming language?
 
 #+begin_quote
-In *object-oriented* programming language a programming paradigm based
-on the concept of "objects", which may contain data, in the form of
-fields, often known as attributes; and code, in the form of
-procedures, often known as methods. For example, a person is an object
-which has certain properties such as height, gender, age, etc.
+A /high-level programming language/ (HLL) is a programming language
+that is designed to be easier for humans to read, write, and
+understand, while still being able to be executed by a computer
 #+end_quote
 
 #+begin_quote
-In *High-Level programming language* it may use natural language
+In /High-Level programming language/ it may use natural language
 elements, be easier to use, or may automate significant areas of
 computing systems, making the process of developing a program simpler
 and more understandable.
 #+end_quote
 
-*Natural language*
+** What is General-Purpose language?
 
 #+begin_quote
-Python is *General-Purpose language*. It means that you can use Python
+Python is /General-Purpose language/. It means that you can use Python
 in various domains including: Web applications, Big data applications,
 Testing, Automation, Data science, machine learning, and AI, Desktop
 software, Mobile apps etc.
 #+end_quote
 
-*Special programming language*
-* The Python interpreter
+** What is Python Interpreter?
 
-The Python interpreter is usually installed as
-‘/usr/local/bin/python3.11’ on those machines where it is available;
-The interpreter operates somewhat like the Unix shell: when called
-with standard input connected to a tty device, it reads and executes
-commands interactively.
 
-* Keywords
+** The Python interpreter
+
+It is a computer program that converts high-level Python program
+statements into machine code. The Python interpreter is usually
+installed as ‘/usr/local/bin/python3.11’ on those machines where it is
+available; The interpreter operates somewhat like the Unix shell: when
+called with standard input connected to a tty device, it reads and
+executes commands interactively.
+
+** Keywords
+
+/Python keywords/ are reserved words in the Python programming
+language that have special meanings and purposes. These keywords
+cannot be used as variable names, function names, or any other
+identifiers within Python code.
 
 False      await      else       import     pass
 None       break      except     in         raise
@@ -153,10 +155,18 @@ async      elif       if         or         yield
 * Notes                                                            :noexport:
 
 
-
 A *programming paradigm* is a method or style of programming that
 defines a set of principles, techniques, and patterns for structuring
 code to solve problems on a computer. Programming paradigms can be
 classified into different categories, such as: Imperative
 paradigm. Declarative paradigm. Object-oriented paradigm.
+
+#+begin_quote
+In *object-oriented* programming language a programming paradigm based
+on the concept of "objects", which may contain data, in the form of
+fields, often known as attributes; and code, in the form of
+procedures, often known as methods. For example, a person is an object
+which has certain properties such as height, gender, age, etc.
+#+end_quote
+
 
