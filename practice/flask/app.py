@@ -11,6 +11,9 @@ def home():
 @app.route("/scaffolding/")
 def scaffolding():
     return render_template("scaffolding.html", title="Scaffolding")
+@app.route('/base-css')
+def base():
+    return render_template('base-css.html', title="Base-Twitter Bootstrap")
 
 if __name__ == "__main__":
     app.run(debug=True)
