@@ -7,9 +7,6 @@ def home():
     #return render_template("base.html", title="Jinja and Flask")
     return render_template("index.html", title="Welcome to TwitterBootstrap")
 
-@app.route("/overview")
-def overview():
-    return render_template("index.html")
 
 @app.route("/scaffolding/")
 def scaffolding():
