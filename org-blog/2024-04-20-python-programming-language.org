@@ -18,10 +18,79 @@ tags: [python, intro]
 * The Programming Pillars:
 
 Input/Output
-Assigment
+Assignment
 Comparison operations
 Control flow operations
 Procedures
+
+** What means =input/output= in Python?
+
+#+begin_quote
+Input/Output (I/O) in Python refers to the process of taking input
+from the user or external sources and displaying output to the user or
+saving it to a file.
+#+end_quote
+
+#+begin_quote
+There are no specific keywords in Python dedicated solely for
+input/output (I/O) operations. Python's I/O functionality is primarily
+handled using built-in functions like ~input()~ and ~print()~ rather
+than reserved keywords.
+#+end_quote
+
+** What means =assignment= in Python?
+
+#+begin_quote
+In Python, assignment refers to the process of binding a name to a
+value or object.
+#+end_quote
+
+#+begin_quote
+Python's assignment functionality is primarily handled using the
+assignment operator (=) and various augmented assignment operators
+like +=, -=, *=, etc.
+
+The /keywords/ that are most closely related to assignment in Python
+are:
+
+~del~: Used to delete a variable or remove elements from a list,
+tuple, or dictionary;
+
+~global~: Used to declare a variable as global inside a function;
+
+~nonlocal~: Used to declare a variable as non-local inside a nested
+function.
+#+end_quote
+
+** What means =comparison= operation in Python?
+
+#+begin_quote
+Comparison operations in Python refer to the use of comparison or
+relational operators to compare variables or values. These operators
+are essential in Python for making decisions based on conditions and
+for controlling the flow of a program.
+
+Python comparison operators include:
+== (Equal to): Returns true if the two operands are equal.
+
+!= (Not equal to): Returns true if the two operands are not equal.
+
+> (Greater than): Returns true if the value of the left operand is
+greater than the right operand.
+
+< (Less than): Returns true if the value of the left operand is less
+than the right operand.
+
+>= (Greater than or equal to): Returns true if the value of the left
+operand is greater or equal to the right operand.
+
+<= (Less than or equal to): Returns true if the value of the left
+operand is less or equal to the right operan
+
+
+#+end_quote
+
+
 
 * Definitions
 
