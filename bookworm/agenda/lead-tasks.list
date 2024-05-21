@@ -11,11 +11,13 @@
 #+TODO: RAW Init DP0 Todo DP1 Active | DONE
 #+TODO: DELAY LAG RETARD | BARE
 
-* DELAY Genuine source of knowledge
-SCHEDULED: <2024-05-20 Mon ++1d>
+* Genuine source of knowledge
+SCHEDULED: <2024-05-22 Wed ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-02-03 Sat 17:19]
+:LAST_REPEAT: [2024-05-21 Tue 18:29]
 :END:
+- State "AMPLE"      from ""           [2024-05-21 Tue 18:29]
+- State "AMPLE"      from ""           [2024-05-20 Mon 17:28]
 - State "AMPLE"      from ""           [2024-02-03 Sat 17:19]
 - State "AMPLE"      from ""           [2024-02-03 Sat 17:19]
 - State "AMPLE"      from ""           [2024-02-02 Fri 17:45]
@@ -83,10 +85,12 @@ about how the program works are:
 
 --* INIT Conclusion*: the wisest decision is just to use it properly!
 * Deliberate practice
-SCHEDULED: <2024-05-18 Sat ++1d>
+SCHEDULED: <2024-05-22 Wed ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-05-17 Fri 19:09]
+:LAST_REPEAT: [2024-05-21 Tue 18:29]
 :END:
+- State "AMPLE"      from ""           [2024-05-21 Tue 18:29]
+- State "AMPLE"      from ""           [2024-05-20 Mon 17:28]
 - State "AMPLE"      from ""           [2024-05-17 Fri 19:09]
 - State "AMPLE"      from ""           [2024-05-16 Thu 16:40]
 - State "AMPLE"      from ""           [2024-05-15 Wed 18:25]
@@ -166,7 +170,7 @@ CLOCK: [2023-11-24 Fri 08:31]--[2023-11-24 Fri 09:02] =>  0:31
 - State "DONE"       from "ACTIVE"     [2023-11-07 Tue 18:19]
 when you do challenging but indispensable tasks by yourself
 * DELAY Help about *Help*
-SCHEDULED: <2024-05-20 Mon ++1d>
+SCHEDULED: <2024-05-29 Wed ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-01-30 Tue 14:56]
 :CATEGORY: Emacs
@@ -272,7 +276,7 @@ CLOCK: [2024-03-07 Thu 10:40]--[2024-03-07 Thu 10:57] =>  0:17
 - State "DONE"       from "ACTIVE"     [2023-11-09 Thu 18:41]
 - State "DONE"       from "ACTIVE"     [2023-11-07 Tue 18:21]
 ** DELAY [#A] *Selenium* package review
-SCHEDULED: <2024-05-22 Wed ++1d>
+SCHEDULED: <2024-05-30 Thu ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-03-14 Thu 18:04]
 :END:
@@ -338,7 +342,7 @@ CLOCK: [2023-10-14 Sat 07:30]--[2023-10-14 Sat 08:27] =>  0:57
 Very straighforward system out from 10 initial keys to use in embedded
 *Help* browser.OA To use several *Help* buffers use =M-x raname uniquely=
 * DELAY Help about *info*
-SCHEDULED: <2024-05-20 Mon ++1d>
+SCHEDULED: <2024-05-29 Wed ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-01-30 Tue 14:56]
 :CATEGORY: Emacs
