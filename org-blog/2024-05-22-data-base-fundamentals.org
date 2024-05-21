@@ -1,0 +1,38 @@
+#+BEGIN_EXPORT html
+---
+layout: page
+title: Data base fundamentals
+tagline: " the main definitions and types"
+permalink: /data-base-fundamentals.html
+categories: [Linux, Data bases, SQLite3, literate programming]
+tags: [Linux, data bases, SQLite3]
+---
+#+END_EXPORT
+
+#+STARTUP: showall indent
+#+OPTIONS: tags:nil num:nil \n:nil @:t ::t |:t ^:{} _:{} *:t
+#+TOC: headlines 2
+#+PROPERTY:header-args :results output :exports both :eval no-export
+
+* Introduction
+* Definitions
+
+#+begin_quote
+*Data base" refers to an organized collection of data stored and
+ accessed electronically, typically managed by a database management
+ system (DBMS).
+#+end_quote
+
+#+begin_quote
+ *A database* is a structured repository of information that allows
+ efficient storage, retrieval, modification, and deletion of
+ data.
+#+end_quote
+
+#+begin_quote
+*Database management system* is a software system that enables users
+ to define, create, maintain, and control access to databases.
+#+end_quote
+
+* Types
+
