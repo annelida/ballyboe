@@ -318,3 +318,48 @@ or more people do the same thing.
   while /one another/ is used when referring to more than two people.
 
   - The team members are helping one another.
+
+
+** Indefinite pronouns
+
+*Indefinite pronouns* in English are pronouns that refer to people,
+places, or things in a general, non-specific way.
+
+anybody   everybody   nobody  somebody
+anyone    everyone   no one  someone
+anything  everything  nothing  something
+
+We use pronouns ending in -body or -one for people, and
+pronouns ending in -thing for things:
+
+- I opened the door but there was /no one/ at home.
+- It was a very clear day. We could see /everything/.
+- /Everybody/ enjoyed the concert.
+
+  Be careful!
+      
+  In negative clauses, we use pronouns with no-, not pronouns with
+  any-:
+
+  - /Nobody/ came. (NOT Anybody didn't come.)
+
+  We do not use another negative in a clause with nobody, no one or
+  nothing:
+
+  - /Nobody/ came. (NOT Nobody didn't come.)
+  - /Nothing/ happened. (NOT Nothing didn't happen.)
+
+We can add 's to an indefinite pronoun to make a possessive:
+
+- Is this /anybody's/ coat?
+
+We use else after indefinite pronouns to refer to other people or
+things:
+
+- If Michael can't come, we'll ask /somebody else/.
+- I think this is /somebody else's/ coat.
+
+
+
+
+  
