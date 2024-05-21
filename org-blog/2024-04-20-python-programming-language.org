@@ -85,10 +85,50 @@ than the right operand.
 operand is greater or equal to the right operand.
 
 <= (Less than or equal to): Returns true if the value of the left
-operand is less or equal to the right operan
-
-
+operand is less or equal to the right operand.
 #+end_quote
+
+** What is =control flow operations= in programming? 
+
+/Control flow/ is the /order/ in which individual statements,
+instructions or function calls of an imperative program are executed
+or evaluated.
+
+Python provides several control flow constructs:
+
+Conditional statements:
+
+- ~if~ statement: Executes a block of code if a condition is True;
+- ~if-else~ statement: Executes one block of code if a condition is
+  True, and another block if it's False;
+- ~if-elif-else~ statement: Allows checking multiple conditions.
+
+Loops:
+
+- ~for~ loop: Iterates over a sequence (like a list or string);
+- ~while~ loop: Executes a block of code as long as a condition is
+  True.
+
+Transfer statements:
+
+- ~break~ statement: Terminates the current loop and resumes execution
+  at the next statement;
+- ~continue~ statement: Skips the current iteration of a loop and
+  moves to the next iteration.
+
+The ~pass~ statement:
+
+The body of a Python compound statement cannot be empty — it must
+contain at least one statement. The ~pass~ statement, which performs
+no action, can be used as a placeholder when a statement is
+syntactically required but you have nothing specific to do.
+
+Exception handling statements:
+
+Python supports exception handling with the ~try~ statement, which
+includes ~try~, ~except~, ~finally~, and ~else~ clauses.
+
+** What is =procedures= in Python?
 
 
 
