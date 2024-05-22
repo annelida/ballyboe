@@ -31,5 +31,9 @@ def less():
 def download():
     return render_template('download.html', title='Download-Twitter Bootstrap')
 
+@app.route('/examples')
+def examples():
+    return render_template('examples.html', title='Examples-Twitter Bootstrap')
+
 if __name__ == "__main__":
     app.run(debug=True)
