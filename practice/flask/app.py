@@ -27,5 +27,9 @@ def javascript():
 def less():
     return render_template('less.html', title='Less-Twitter Bootstrap')
 
+@app.route('/download')
+def download():
+    return render_template('download.html', title='Download-Twitter Bootstrap')
+
 if __name__ == "__main__":
     app.run(debug=True)
