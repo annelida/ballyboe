@@ -22,5 +22,10 @@ def components():
 @app.route('/javascript')
 def javascript():
     return render_template('javascript.html', title='Javascript-Twitter Bootstrap')
+
+@app.route('/less')
+def less():
+    return render_template('less.html', title='Less-Twitter Bootstrap')
+
 if __name__ == "__main__":
     app.run(debug=True)
