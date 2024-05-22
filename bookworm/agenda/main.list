@@ -178,7 +178,7 @@ CLOCK: [2024-03-01 Fri 10:32]--[2024-03-01 Fri 11:03] =>  0:31
 :END:
 [[https://www.bbc.co.uk/learningenglish/english/course/lower-intermediate/unit-3/session-2/activity-4]]
 ***** Adverbs of frequency
-SCHEDULED: <2024-05-22 Wed ++2w>
+SCHEDULED: <2024-05-24 Fri ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-03-05 Tue 18:43]
 :END:
@@ -188,7 +188,7 @@ CLOCK: [2024-03-05 Tue 10:30]--[2024-03-05 Tue 13:41] =>  3:11
 :END:
 [https://www.bbc.co.uk/learningenglish/english/course/lower-intermediate/unit-4/session-2/activity-4]
 ***** 'Have to' and 'must'
-SCHEDULED: <2024-05-22 Wed ++2w>
+SCHEDULED: <2024-05-24 Fri ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-04-30 Tue 18:19]
 :END:
@@ -215,7 +215,7 @@ CLOCK: [2024-03-19 Tue 12:02]--[2024-03-19 Tue 17:30] =>  5:28
 :END:
 [https://www.bbc.co.uk/learningnglish/english/course/lower-intermediate/unit-7/session-2/activity-4]
 ***** Articles
-SCHEDULED: <2024-05-22 Wed ++2w>
+SCHEDULED: <2024-05-24 Fri ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-04-30 Tue 18:19]
 :END:
@@ -273,7 +273,7 @@ CLOCK: [2024-04-25 Thu 07:11]--[2024-04-25 Thu 07:40] =>  0:29
 :END:
 [https://learnenglish.britishcouncil.org/grammar/english-grammar-reference/demonstratives]
 ****** 'one' and 'ones'
-SCHEDULED: <2024-05-22 Wed ++2d>
+SCHEDULED: <2024-05-24 Fri ++2d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-05-19 Sun 19:15]
 :END:
@@ -319,7 +319,7 @@ CLOCK: [2024-05-17 Fri 07:16]--[2024-05-17 Fri 07:48] =>  0:32
 :END:
 [[https://learnenglish.britishcouncil.org/grammar/english-grammar-reference/reciprocal-pronouns]]
 ****** Indefinite pronouns
-SCHEDULED: <2024-05-22 Wed>
+SCHEDULED: <2024-05-23 Thu>
 :LOGBOOK:
 CLOCK: [2024-05-21 Tue 11:20]--[2024-05-21 Tue 11:49] =>  0:29
 :END:
@@ -1256,7 +1256,7 @@ Object's methods are functions that belong to the object.
 : The student's name is Tony Black
 
 *** [#B] Selenium inside Emacs
-SCHEDULED: <2024-05-22 Wed ++2w>
+SCHEDULED: <2024-05-23 Thu ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-16 Thu 09:23]
 :CATEGORY: Python
@@ -1891,7 +1891,7 @@ SCHEDULED: <2024-07-09 Tue ++2w>
 CLOCK: [2024-01-12 Fri 10:28]--[2024-01-12 Fri 11:01] =>  0:33
 :END:
 *** [#B] UnitTest *info* studying
-SCHEDULED: <2024-05-23 Thu>
+SCHEDULED: <2024-05-25 Sat>
 :PROPERTIES:
 :CATEGORY: Python
 :END:
@@ -1918,8 +1918,10 @@ CLOCK: [2024-04-19 Fri 11:13]--[2024-04-19 Fri 11:53] =>  0:40
 
 [[file:~/git/annelida/ballyboe/org-blog/2023-11-07-Python-venv.org::*Creating a Python virtual environment on a Debian-based system][Python virtual environment on a Debian-based system]]
 *** Python Programming Language basics
-SCHEDULED: <2024-05-22 Wed>
+SCHEDULED: <2024-05-23 Thu>
 :LOGBOOK:
+CLOCK: [2024-05-22 Wed 07:31]--[2024-05-22 Wed 07:59] =>  0:28
+CLOCK: [2024-05-22 Wed 07:15]--[2024-05-22 Wed 07:21] =>  0:06
 CLOCK: [2024-05-21 Tue 07:54]--[2024-05-21 Tue 08:39] =>  0:45
 CLOCK: [2024-05-21 Tue 07:09]--[2024-05-21 Tue 07:37] =>  0:28
 CLOCK: [2024-05-20 Mon 07:47]--[2024-05-20 Mon 08:47] =>  1:00
@@ -1938,18 +1940,18 @@ CLOCK: [2024-05-01 Wed 07:12]--[2024-05-01 Wed 08:08] =>  0:56
 CLOCK: [2024-04-29 Mon 13:46]--[2024-04-29 Mon 13:58] =>  0:12
 :END: 
 *** Static pagination using Flask
-SCHEDULED: <2024-05-22 Wed>
+SCHEDULED: <2024-05-23 Thu>
 :LOGBOOK:
 CLOCK: [2024-05-15 Wed 07:23]--[2024-05-15 Wed 09:24] =>  2:01
 :END:
 *** Dynamic pagination using Flask
-SCHEDULED: <2024-05-22 Wed>
+SCHEDULED: <2024-05-23 Thu>
 :LOGBOOK:
 CLOCK: [2024-05-17 Fri 10:07]--[2024-05-17 Fri 10:07] =>  0:00
 :END:
 
 *** [#A] Flask static files
-SCHEDULED: <2024-05-22 Wed>
+SCHEDULED: <2024-05-23 Thu>
 :LOGBOOK:
 CLOCK: [2024-05-16 Thu 07:12]--[2024-05-16 Thu 07:27] =>  0:15
 :END:
@@ -2478,7 +2480,7 @@ CLOCK: [2024-01-04 Thu 12:11]--[2024-01-04 Thu 12:13] =>  0:02
 :CATEGORY: SQLite3
 :END:
 *** The studying of the SQLite3 manual
-SCHEDULED: <2024-05-22 Wed>
+SCHEDULED: <2024-05-23 Thu>
 [[file:~/git/annelida/ballyboe/org-blog/2024-05-10-sqlite3-basics.org::*How to connect to SQLite sample database][How to connect to SQLite sample database]]
 
 - Note taken on [2024-05-10 Fri 18:06] \\
@@ -2502,13 +2504,15 @@ CLOCK: [2024-05-07 Tue 07:50]--[2024-05-07 Tue 08:22] =>  0:32
 SCHEDULED: <2024-05-08 Wed>
 
 *** [#A] Data bases fundamentals
-SCHEDULED: <2024-05-22 Wed>
+SCHEDULED: <2024-05-23 Thu>
 :LOGBOOK:
-CLOCK: [2024-05-21 Tue 18:37]
+CLOCK: [2024-05-22 Wed 15:51]--[2024-05-22 Wed 15:51] =>  0:00
+CLOCK: [2024-05-22 Wed 08:47]--[2024-05-22 Wed 09:19] =>  0:32
+CLOCK: [2024-05-21 Tue 18:37]--[2024-05-22 Wed 07:15] => 12:38
 CLOCK: [2024-05-21 Tue 15:39]--[2024-05-21 Tue 16:09] =>  0:30
 :END:
 ** [#A] Twitter Bootstrap app extension
-SCHEDULED: <2024-05-22 Wed>
+SCHEDULED: <2024-05-23 Thu>
 :PROPERTIES:
 :CATEGORY: TB
 :END:
@@ -2518,6 +2522,7 @@ SCHEDULED: <2024-05-22 Wed>
   - include each file separately
   - check up the change in page's behaviour in browser.
 :LOGBOOK:
+CLOCK: [2024-05-22 Wed 15:09]--[2024-05-22 Wed 15:17] =>  0:08
 CLOCK: [2024-05-21 Tue 09:28]--[2024-05-21 Tue 10:03] =>  0:35
 CLOCK: [2024-05-21 Tue 08:44]--[2024-05-21 Tue 09:11] =>  0:27
 CLOCK: [2024-05-20 Mon 10:39]--[2024-05-20 Mon 11:38] =>  0:59
@@ -2872,11 +2877,12 @@ CLOCK: [2024-04-22 Mon 09:39]--[2024-04-22 Mon 10:10] =>  0:31
 ** DELAY [#C] Python programming language brief overview diagram
 SCHEDULED: <2024-06-10 Mon>
 ** [#A] Jinja Templating
-SCHEDULED: <2024-05-22 Wed>
+SCHEDULED: <2024-05-23 Thu>
 - Note taken on [2024-05-01 Wed 11:11] \\
   https://realpython.com/primer-on-jinja-templating/
   https://jinja.palletsprojects.com/en/3.1.x/templates/
 :LOGBOOK:
+CLOCK: [2024-05-22 Wed 08:11]--[2024-05-22 Wed 08:47] =>  0:36
 CLOCK: [2024-05-16 Thu 09:51]--[2024-05-16 Thu 10:20] =>  0:29
 CLOCK: [2024-05-08 Wed 07:17]--[2024-05-08 Wed 07:17] =>  0:00
 CLOCK: [2024-05-03 Fri 08:45]--[2024-05-03 Fri 09:42] =>  0:57
