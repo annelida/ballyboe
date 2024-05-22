@@ -16,6 +16,9 @@ tags: [Python, SQLite3]
 
 * Introduction
 
+*SQL* (Structured Query Language) is a programming language designed
+for managing data in relational database.
+
 *SQLite* is a C library that provides a lightweight disk-based
 database that doesn’t require a separate server process and allows
 accessing the database using a nonstandard variant of the SQL query
