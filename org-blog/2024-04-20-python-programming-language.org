@@ -130,7 +130,19 @@ includes ~try~, ~except~, ~finally~, and ~else~ clauses.
 
 ** What is =procedures= in Python?
 
+In Python, "procedures" typically refer to functions that perform
+specific tasks or operations. Procedures (or functions)
+are fundamental building blocks that allow you to encapsulate code
+into reusable and modular units.
 
+These keywords enable the creation and manipulation of functions:
+
+~def~: Used to define a function;
+
+~return~: Used to return a value from a function;
+
+~yield~ Is a powerful tool for creating generators. It's used when you
+need to iterate over a sequence of values efficiently
 
 * Definitions
 
