@@ -34,5 +34,32 @@ tags: [Linux, data bases, SQLite3]
  to define, create, maintain, and control access to databases.
 #+end_quote
 
-* Types
+* Databases types and examples
+
+- /Hierarchical Databases/: These databases organize data in a
+  parent-child relationship, resembling a tree-like structure where
+  each child record has only one parent. The Windows Registry is one
+  example of this system.;
+- /Relational Databases/: Based on the relational data model, these
+  databases store data in rows and columns forming tables, allowing
+  for multiple types of relationships between tables. his database
+  commonly uses /Structured Query Language (SQL)/ for operations like
+  creating, reading, updating, and deleting (CRUD) data. MySQL,
+  PostgreSQL, Microsoft SQL Server, and Oracle are examples;
+- /NoSQL Databases/ or /Non-relational/: These databases store data in
+  various ways, not limited to tabular form, and emerged to meet the
+  demands of modern applications.
+
+  They are further categorized into:
+  - document databases;
+  - key-value stores;
+  - column-oriented databases;
+  - graph databases.
+    
+   Examples include MongoDB and Redis;
+- /Object-oriented Databases/: These databases store data using the
+  object-based data model approach, representing and storing data as
+  objects similar to those used in object-oriented programming
+  languages. One example of an object oriented database is MongoDB
+  Realm;
 
