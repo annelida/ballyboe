@@ -22,6 +22,7 @@ Assignment
 Comparison operations
 Control flow operations
 Procedures
+Miscelellaneous
 
 ** What means =input/output= in Python?
 
@@ -144,6 +145,7 @@ These keywords enable the creation and manipulation of functions:
 ~yield~ Is a powerful tool for creating generators. It's used when you
 need to iterate over a sequence of values efficiently
 
+
 * Definitions
 
 ** What is a programming language whatever?
@@ -255,7 +257,7 @@ available; The interpreter operates somewhat like the Unix shell: when
 called with standard input connected to a tty device, it reads and
 executes commands interactively.
 
-** Keywords
+This** Keywords
 
 /Python keywords/ are reserved words in the Python programming
 language that have special meanings and purposes. These keywords
@@ -269,6 +271,27 @@ and        continue   for        lambda     try
 as         def        from       nonlocal   while
 assert     del        global     not        with
 async      elif       if         or         yield
+
+** Keywords categorization by their usage
+
+| Control flow |                                                    |
+|--------------+----------------------------------------------------|
+| if           | Conditional execution                              |
+| elif         | Allows checking multiple conditions                |
+| else         | Else condition                                     |
+| for          | Looping over sequences                             |
+| while        | Looping with a condition                           |
+| break        | Exit the loop                                      |
+| continue     | Skip the rest iteration and continue with the next |
+| pass         | Do nothing statement                               |
+| return       | Return a value from function                       |
+| yield        | Return a generator                                 |
+| try          | Start of exception handling                        |
+| except       | Catch an exception                                 |
+| finally      | Execute code even if exception occurred            |
+| raise        | Raise an exception                                 |
+
+
 
 * Questions
 ** Is Python compiled language?
