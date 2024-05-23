@@ -16,17 +16,24 @@ tags: [Python, SQLite3]
 
 * Introduction
 
+/SQLte/ is highly regarded and known for its simplicity and ease of
+use. It is widely adopted across various applications and platforms.
+
+* Definitions
+
 *SQL* (Structured Query Language) is a programming language designed
 for managing data in relational database.
 
-*SQLite* is a C library that provides a lightweight disk-based
-database that doesn’t require a separate server process and allows
-accessing the database using a nonstandard variant of the SQL query
+*SQLite* is a database engine in a C-library that provides a
+lightweight disk-based database that doesn’t require a separate server
+process and allows accessing the database using a the SQL query
 language.
 
 *SQLite3* is a terminal-based front-end to the SQLite library that can
 evaluate queries interactively and display the results in multiple
-formats.
+formats. It is the latest version of SQLite and includes numerous
+enhancements and new features compared to its predecessors.
+
 
 So, lets start to learn SQLite step by step through extensive hands-on
 practice.
@@ -121,7 +128,6 @@ Show the indexes of a specific table:
 : .indexes products
 : sku_index
 
-
 * Python sqlite3
 
 #+begin_src python :results output
@@ -141,4 +147,12 @@ Show the indexes of a specific table:
 : (140000, 'Sierra Bees, Organic Cocoa Butter Lip Balm, .15 oz (4.25 g)')
 : (29676,)
 
+* Conclusion
+
+SQLite's unique combination of simplicity, portability, efficiency,
+and reliability makes it an excellent choice for a wide range of
+applications, from embedded systems to desktop and mobile apps. Its
+serverless architecture and zero-configuration nature significantly
+reduce the complexity of database management, making it a favorite
+among developers and organizations
 
