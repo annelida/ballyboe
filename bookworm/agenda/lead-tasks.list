@@ -85,6 +85,7 @@ about how the program works are:
    - usually it is available through =Emacs= *info system*;
 
 --* INIT Conclusion*: the wisest decision is just to use it properly!
+
 * Deliberate practice
 SCHEDULED: <2024-05-24 Fri ++1d>
 :PROPERTIES:
@@ -172,6 +173,7 @@ CLOCK: [2023-11-24 Fri 08:31]--[2023-11-24 Fri 09:02] =>  0:31
 - State "DONE"       from "ACTIVE"     [2023-11-07 Tue 18:20]
 - State "DONE"       from "ACTIVE"     [2023-11-07 Tue 18:19]
 when you do challenging but indispensable tasks by yourself
+
 * DELAY Help about *Help*
 SCHEDULED: <2024-05-29 Wed ++1d>
 :PROPERTIES:
@@ -278,8 +280,8 @@ CLOCK: [2024-03-07 Thu 10:40]--[2024-03-07 Thu 10:57] =>  0:17
 - State "DONE"       from "ACTIVE"     [2023-11-11 Sat 17:14]
 - State "DONE"       from "ACTIVE"     [2023-11-09 Thu 18:41]
 - State "DONE"       from "ACTIVE"     [2023-11-07 Tue 18:21]
-** DELAY [#A] *Selenium* package review
-SCHEDULED: <2024-05-30 Thu ++1d>
+** [#A] *Selenium* package review
+SCHEDULED: <2024-05-24 Fri ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-03-14 Thu 18:04]
 :END:
@@ -344,6 +346,7 @@ CLOCK: [2023-10-14 Sat 07:30]--[2023-10-14 Sat 08:27] =>  0:57
 :END:
 Very straighforward system out from 10 initial keys to use in embedded
 *Help* browser.OA To use several *Help* buffers use =M-x raname uniquely=
+
 * DELAY Help about *info*
 SCHEDULED: <2024-05-29 Wed ++1d>
 :PROPERTIES:
@@ -393,10 +396,19 @@ CLOCK: [2023-11-27 Mon 10:20]--[2023-11-27 Mon 11:57] =>  1:37
 CLOCK: [2023-10-14 Sat 08:45]--[2023-10-14 Sat 09:18] =>  0:33
 :END:
 Mostly the similar approach with several quirks
+
+
+* [#A] Task decomposition
+SCHEDULED: <2024-05-24 Fri ++1d>
+
+Split the whole task into several digestable chunks in your agenda.
+
 * DONE [#A] Clocking
 CLOSED: [2023-10-25 Wed 16:15] SCHEDULED: <2023-10-28 Sat>
 [[info:org#Clocking Work Time][org#Clocking Work Time]]
-* TODO [#A] The Absolute Beginner
+
+* [#A] The Absolute Beginner
+SCHEDULED: <2024-05-24 Fri>
 :LOGBOOK:
 CLOCK: [2023-10-20 Fri 10:26]--[2023-10-20 Fri 13:17] =>  2:51
 CLOCK: [2023-10-19 Thu 08:48]--[2023-10-19 Thu 09:14] =>  0:26
