@@ -2030,6 +2030,15 @@ SCHEDULED: <2024-05-24 Fri>
 CLOCK: [2024-05-16 Thu 07:12]--[2024-05-16 Thu 07:27] =>  0:15
 :END:
 
+** Emacs
+:PROPERTIES:
+:CATEGORY: Emacs
+:END:
+
+*** Eww commands brief description
+SCHEDULED: <2024-05-25 Sat>
+
+The three column table: Key, command, description
 ** Org-mode
 
 *** DELAY [#B] Org-mode, org-babel markup rules
@@ -2173,6 +2182,9 @@ CLOCK: [2023-12-03 Sun 13:04]--[2023-12-03 Sun 13:32] =>  0:28
 :END:
 [[info:org#Capture templates][org#Capture templates]]
 
+*** Org-mode keys
+SCHEDULED: <2024-05-25 Sat>
+Three column table: key, name, description
 ** Jekyll
 *** Org-Jekyll - article about initial config
 SCHEDULED: <2024-06-07 Fri ++1m>
