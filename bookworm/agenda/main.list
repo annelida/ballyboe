@@ -178,7 +178,7 @@ CLOCK: [2024-03-01 Fri 10:32]--[2024-03-01 Fri 11:03] =>  0:31
 :END:
 [[https://www.bbc.co.uk/learningenglish/english/course/lower-intermediate/unit-3/session-2/activity-4]]
 ***** Adverbs of frequency
-SCHEDULED: <2024-05-24 Fri ++2w>
+SCHEDULED: <2024-05-26 Sun ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-03-05 Tue 18:43]
 :END:
@@ -215,7 +215,7 @@ CLOCK: [2024-03-19 Tue 12:02]--[2024-03-19 Tue 17:30] =>  5:28
 :END:
 [https://www.bbc.co.uk/learningnglish/english/course/lower-intermediate/unit-7/session-2/activity-4]
 ***** Articles
-SCHEDULED: <2024-05-24 Fri ++2w>
+SCHEDULED: <2024-05-27 Mon ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-04-30 Tue 18:19]
 :END:
@@ -237,7 +237,7 @@ CLOCK: [2024-04-21 Sun 09:40]--[2024-04-21 Sun 10:13] =>  0:33
 :END:
 [[https://learnenglish.britishcouncil.org/grammar/english-grammar-reference/personal-pronouns]]
 ****** 'it' and 'there' as dummy subjects
-SCHEDULED: <2024-05-24 Fri ++1w>
+SCHEDULED: <2024-05-23 Thu ++1w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-05-17 Fri 07:15]
 :END:
@@ -273,7 +273,7 @@ CLOCK: [2024-04-25 Thu 07:11]--[2024-04-25 Thu 07:40] =>  0:29
 :END:
 [https://learnenglish.britishcouncil.org/grammar/english-grammar-reference/demonstratives]
 ****** 'one' and 'ones'
-SCHEDULED: <2024-05-24 Fri ++2d>
+SCHEDULED: <2024-05-27 Mon ++2d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-05-19 Sun 19:15]
 :END:
@@ -319,7 +319,7 @@ CLOCK: [2024-05-17 Fri 07:16]--[2024-05-17 Fri 07:48] =>  0:32
 :END:
 [[https://learnenglish.britishcouncil.org/grammar/english-grammar-reference/reciprocal-pronouns]]
 ****** Indefinite pronouns
-SCHEDULED: <2024-05-23 Thu>
+SCHEDULED: <2024-05-24 Fri>
 :LOGBOOK:
 CLOCK: [2024-05-21 Tue 11:20]--[2024-05-21 Tue 11:49] =>  0:29
 :END:
@@ -1054,7 +1054,7 @@ SCHEDULED: <2024-05-12 Sun>
 :END:
 
 **** RAW Tutorial
-SCHEDULED: <2024-05-23 Thu ++2d>
+SCHEDULED: <2024-05-25 Sat ++2d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-04-27 Sat 18:21]
 :END:
@@ -1090,7 +1090,7 @@ CLOCK: [2024-04-23 Tue 07:44]--[2024-04-23 Tue 08:17] =>  0:33
 [[info:python3.11#Python Setup and Usage][python3.11#Python Setup and Usage]]
 
 **** Python Language Reference
-SCHEDULED: <2024-05-23 Thu ++1w>
+SCHEDULED: <2024-05-24 Fri ++1w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-05-12 Sun 18:24]
 :END:
@@ -1256,7 +1256,7 @@ Object's methods are functions that belong to the object.
 : The student's name is Tony Black
 
 *** [#B] Selenium inside Emacs
-SCHEDULED: <2024-05-23 Thu ++2w>
+SCHEDULED: <2024-05-24 Fri ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-16 Thu 09:23]
 :CATEGORY: Python
@@ -1826,7 +1826,7 @@ def test_always_fail():
 #+RESULTS:
 
 *** [#A] Playwright installation on DELL
-SCHEDULED: <2024-05-23 Thu>
+SCHEDULED: <2024-05-24 Fri>
 :PROPERTIES:
 :CATEGORY: Testing
 :END:
@@ -1918,8 +1918,10 @@ CLOCK: [2024-04-19 Fri 11:13]--[2024-04-19 Fri 11:53] =>  0:40
 
 [[file:~/git/annelida/ballyboe/org-blog/2023-11-07-Python-venv.org::*Creating a Python virtual environment on a Debian-based system][Python virtual environment on a Debian-based system]]
 *** Python Programming Language basics
-SCHEDULED: <2024-05-23 Thu>
+SCHEDULED: <2024-05-24 Fri>
 :LOGBOOK:
+CLOCK: [2024-05-23 Thu 10:14]--[2024-05-23 Thu 11:05] =>  0:51
+CLOCK: [2024-05-23 Thu 09:43]--[2024-05-23 Thu 10:04] =>  0:21
 CLOCK: [2024-05-22 Wed 07:31]--[2024-05-22 Wed 07:59] =>  0:28
 CLOCK: [2024-05-22 Wed 07:15]--[2024-05-22 Wed 07:21] =>  0:06
 CLOCK: [2024-05-21 Tue 07:54]--[2024-05-21 Tue 08:39] =>  0:45
@@ -1940,18 +1942,18 @@ CLOCK: [2024-05-01 Wed 07:12]--[2024-05-01 Wed 08:08] =>  0:56
 CLOCK: [2024-04-29 Mon 13:46]--[2024-04-29 Mon 13:58] =>  0:12
 :END: 
 *** Static pagination using Flask
-SCHEDULED: <2024-05-23 Thu>
+SCHEDULED: <2024-05-24 Fri>
 :LOGBOOK:
 CLOCK: [2024-05-15 Wed 07:23]--[2024-05-15 Wed 09:24] =>  2:01
 :END:
 *** Dynamic pagination using Flask
-SCHEDULED: <2024-05-23 Thu>
+SCHEDULED: <2024-05-24 Fri>
 :LOGBOOK:
 CLOCK: [2024-05-17 Fri 10:07]--[2024-05-17 Fri 10:07] =>  0:00
 :END:
 
 *** [#A] Flask static files
-SCHEDULED: <2024-05-23 Thu>
+SCHEDULED: <2024-05-24 Fri>
 :LOGBOOK:
 CLOCK: [2024-05-16 Thu 07:12]--[2024-05-16 Thu 07:27] =>  0:15
 :END:
@@ -2480,7 +2482,7 @@ CLOCK: [2024-01-04 Thu 12:11]--[2024-01-04 Thu 12:13] =>  0:02
 :CATEGORY: SQLite3
 :END:
 *** The studying of the SQLite3 manual
-SCHEDULED: <2024-05-23 Thu>
+SCHEDULED: <2024-05-24 Fri>
 [[file:~/git/annelida/ballyboe/org-blog/2024-05-10-sqlite3-basics.org::*How to connect to SQLite sample database][How to connect to SQLite sample database]]
 
 - Note taken on [2024-05-10 Fri 18:06] \\
@@ -2504,15 +2506,18 @@ CLOCK: [2024-05-07 Tue 07:50]--[2024-05-07 Tue 08:22] =>  0:32
 SCHEDULED: <2024-05-08 Wed>
 
 *** [#A] Data bases fundamentals
-SCHEDULED: <2024-05-23 Thu>
+SCHEDULED: <2024-05-24 Fri>
 :LOGBOOK:
+CLOCK: [2024-05-23 Thu 07:38]--[2024-05-23 Thu 08:52] =>  1:14
+CLOCK: [2024-05-23 Thu 07:17]--[2024-05-23 Thu 07:25] =>  0:08
+CLOCK: [2024-05-23 Thu 07:17]--[2024-05-23 Thu 07:17] =>  0:00
 CLOCK: [2024-05-22 Wed 15:51]--[2024-05-22 Wed 15:51] =>  0:00
 CLOCK: [2024-05-22 Wed 08:47]--[2024-05-22 Wed 09:19] =>  0:32
 CLOCK: [2024-05-21 Tue 18:37]--[2024-05-22 Wed 07:15] => 12:38
 CLOCK: [2024-05-21 Tue 15:39]--[2024-05-21 Tue 16:09] =>  0:30
 :END:
 ** [#A] Twitter Bootstrap app extension
-SCHEDULED: <2024-05-23 Thu>
+SCHEDULED: <2024-05-24 Fri>
 :PROPERTIES:
 :CATEGORY: TB
 :END:
@@ -2877,7 +2882,7 @@ CLOCK: [2024-04-22 Mon 09:39]--[2024-04-22 Mon 10:10] =>  0:31
 ** DELAY [#C] Python programming language brief overview diagram
 SCHEDULED: <2024-06-10 Mon>
 ** [#A] Jinja Templating
-SCHEDULED: <2024-05-23 Thu>
+SCHEDULED: <2024-05-24 Fri>
 - Note taken on [2024-05-01 Wed 11:11] \\
   https://realpython.com/primer-on-jinja-templating/
   https://jinja.palletsprojects.com/en/3.1.x/templates/
@@ -2889,8 +2894,8 @@ CLOCK: [2024-05-03 Fri 08:45]--[2024-05-03 Fri 09:42] =>  0:57
 CLOCK: [2024-05-02 Thu 07:10]--[2024-05-02 Thu 08:44] =>  1:34
 CLOCK: [2024-05-01 Wed 11:01]--[2024-05-01 Wed 11:26] =>  0:25
 :END:
-** RAW [#C] Work with links in Emacs with Bookmarks+
-SCHEDULED: <2024-05-23 Thu>
+** RAW [#C]Work with links in Emacs with Bookmarks+
+SCHEDULED: <2024-05-24 Fri>
 :LOGBOOK:
 CLOCK: [2024-05-15 Wed 09:48]--[2024-05-15 Wed 10:08] =>  0:20
 :END:
