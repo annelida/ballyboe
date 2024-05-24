@@ -1932,6 +1932,78 @@ CLOCK: [2024-04-20 Sat 16:10]--[2024-04-20 Sat 16:25] =>  0:15
 :END:
 [[file:~/git/annelida/ballyboe/org-blog/2024-04-20-python-programming-language.org::*Preamble][Python programming language]]
 *** AMPLE [#A] Flask add route to several HTML pages
+*** Flask
+:PROPERTIES:
+:CATEGORY: Flask
+:END:
+**** RAW A Minimal Application
+SCHEDULED: <2024-05-25 Sat>
+https://flask.palletsprojects.com/en/3.0.x/quickstart/#a-minimal-application
+**** RAW Debug Mode
+SCHEDULED: <2024-05-25 Sat>
+https://flask.palletsprojects.com/en/3.0.x/quickstart/#debug-mode
+**** RAW HTML Escaping
+SCHEDULED: <2024-05-25 Sat>
+https://flask.palletsprojects.com/en/3.0.x/quickstart/#html-escaping
+**** RAW Routing
+https://flask.palletsprojects.com/en/3.0.x/quickstart/#routing
+**** RAW Static Files
+https://flask.palletsprojects.com/en/3.0.x/quickstart/#static-files
+**** RAW Rendering Templates
+https://flask.palletsprojects.com/en/3.0.x/quickstart/#rendering-templates
+**** RAW Accessing Request Data
+https://flask.palletsprojects.com/en/3.0.x/quickstart/#accessing-request-data
+**** RAW Redirects and Errors
+https://flask.palletsprojects.com/en/3.0.x/quickstart/#redirects-and-errors
+**** RAW About Responses
+https://flask.palletsprojects.com/en/3.0.x/quickstart/#about-responses
+**** RAW Sessions
+https://flask.palletsprojects.com/en/3.0.x/quickstart/#sessions
+**** RAW Message Flashing
+https://flask.palletsprojects.com/en/3.0.x/quickstart/#message-flashing
+**** RAW Logging
+https://flask.palletsprojects.com/en/3.0.x/quickstart/#logging
+**** RAW Hooking in WSGI Middleware
+https://flask.palletsprojects.com/en/3.0.x/quickstart/#hooking-in-wsgi-middleware
+**** RAW Using Flask Extensions
+https://flask.palletsprojects.com/en/3.0.x/quickstart/#using-flask-extensions
+**** RAW Deploying to a Web Server
+https://flask.palletsprojects.com/en/3.0.x/quickstart/#deploying-to-a-web-server
+**** RAW Project layout
+https://flask.palletsprojects.com/en/3.0.x/tutorial/layout/
+**** RAW Application Setup
+https://flask.palletsprojects.com/en/3.0.x/tutorial/factory/
+**** RAW Define and Access the Database
+https://flask.palletsprojects.com/en/3.0.x/tutorial/database/
+**** RAW Blueprints and Views
+https://flask.palletsprojects.com/en/3.0.x/tutorial/views/
+**** RAW Templates
+https://flask.palletsprojects.com/en/3.0.x/tutorial/templates/
+**** RAW Static Files
+https://flask.palletsprojects.com/en/3.0.x/tutorial/static/
+**** RAW Blog Blueprint
+https://flask.palletsprojects.com/en/3.0.x/tutorial/blog/
+**** RAW Make the Project Installable
+https://flask.palletsprojects.com/en/3.0.x/tutorial/install/
+**** RAW Test Coverage
+https://flask.palletsprojects.com/en/3.0.x/tutorial/tests/
+**** RAW Deploy to Production
+https://flask.palletsprojects.com/en/3.0.x/tutorial/deploy/
+**** RAW Keep Developing!
+https://flask.palletsprojects.com/en/3.0.x/tutorial/next/
+
+**** RAW Jinja Setup
+https://flask.palletsprojects.com/en/3.0.x/templating/#jinja-setup
+**** RAW Standard Context
+https://flask.palletsprojects.com/en/3.0.x/templating/#standard-context
+**** RAW Controlling Autoescaping
+https://flask.palletsprojects.com/en/3.0.x/templating/#controlling-autoescaping
+**** RAW Registering Filters
+https://flask.palletsprojects.com/en/3.0.x/templating/#context-processors
+**** RAW Context Processors
+https://flask.palletsprojects.com/en/3.0.x/templating/#context-processors
+**** RAW Streaming
+https://flask.palletsprojects.com/en/3.0.x/templating/#streaming
 SCHEDULED: <2024-05-15 Wed>
 - Note taken on [2024-05-01 Wed 09:56] \\
   flask --app hello run --host=0.0.0.0
