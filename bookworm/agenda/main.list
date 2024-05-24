@@ -2561,11 +2561,23 @@ CLOCK: [2024-01-04 Thu 12:11]--[2024-01-04 Thu 12:13] =>  0:02
   tag
   version
 
-** SQLite3
+** Databases fundamentals
+SCHEDULED: <2024-05-24 Fri>
+:LOGBOOK:
+CLOCK: [2024-05-23 Thu 07:38]--[2024-05-23 Thu 08:52] =>  1:14
+CLOCK: [2024-05-23 Thu 07:17]--[2024-05-23 Thu 07:25] =>  0:08
+CLOCK: [2024-05-23 Thu 07:17]--[2024-05-23 Thu 07:17] =>  0:00
+CLOCK: [2024-05-22 Wed 15:51]--[2024-05-22 Wed 15:51] =>  0:00
+CLOCK: [2024-05-22 Wed 08:47]--[2024-05-22 Wed 09:19] =>  0:32
+CLOCK: [2024-05-21 Tue 18:37]--[2024-05-22 Wed 07:15] => 12:38
+CLOCK: [2024-05-21 Tue 15:39]--[2024-05-21 Tue 16:09] =>  0:30
+:END:
+[[file:~/git/annelida/ballyboe/org-blog/2024-05-22-data-base-fundamentals.org::*Databases types and examples][Databases fundamentals]]
+*** SQLite3
 :PROPERTIES:
 :CATEGORY: SQLite3
 :END:
-*** The studying of the SQLite3 manual
+**** The studying of the SQLite3 manual
 SCHEDULED: <2024-05-24 Fri>
 [[file:~/git/annelida/ballyboe/org-blog/2024-05-10-sqlite3-basics.org::*How to connect to SQLite sample database][How to connect to SQLite sample database]]
 
@@ -2589,19 +2601,7 @@ CLOCK: [2024-05-07 Tue 07:50]--[2024-05-07 Tue 08:22] =>  0:32
 *** AMPLE [#A] Downloads/scraped.db in SQLite3
 SCHEDULED: <2024-05-08 Wed>
 
-*** [#A] Data bases fundamentals
-SCHEDULED: <2024-05-24 Fri>
-:LOGBOOK:
-CLOCK: [2024-05-23 Thu 07:38]--[2024-05-23 Thu 08:52] =>  1:14
-CLOCK: [2024-05-23 Thu 07:17]--[2024-05-23 Thu 07:25] =>  0:08
-CLOCK: [2024-05-23 Thu 07:17]--[2024-05-23 Thu 07:17] =>  0:00
-CLOCK: [2024-05-22 Wed 15:51]--[2024-05-22 Wed 15:51] =>  0:00
-CLOCK: [2024-05-22 Wed 08:47]--[2024-05-22 Wed 09:19] =>  0:32
-CLOCK: [2024-05-21 Tue 18:37]--[2024-05-22 Wed 07:15] => 12:38
-CLOCK: [2024-05-21 Tue 15:39]--[2024-05-21 Tue 16:09] =>  0:30
-:END:
-** [#A] Twitter Bootstrap app extension
-SCHEDULED: <2024-05-24 Fri>
+**Twitter Bootstrap studying
 :PROPERTIES:
 :CATEGORY: TB
 :END:
