@@ -12,10 +12,11 @@
 #+TODO: DELAY LAG RETARD | BARE
 
 * Genuine source of knowledge
-SCHEDULED: <2024-05-24 Fri ++1d>
+SCHEDULED: <2024-05-25 Sat ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-05-22 Wed 18:04]
+:LAST_REPEAT: [2024-05-24 Fri 19:55]
 :END:
+- State "AMPLE"      from ""           [2024-05-24 Fri 19:55]
 - State "AMPLE"      from ""           [2024-05-22 Wed 18:04]
 - State "AMPLE"      from ""           [2024-05-21 Tue 18:29]
 - State "AMPLE"      from ""           [2024-05-20 Mon 17:28]
@@ -87,10 +88,11 @@ about how the program works are:
 --* INIT Conclusion*: the wisest decision is just to use it properly!
 
 * Deliberate practice
-SCHEDULED: <2024-05-24 Fri ++1d>
+SCHEDULED: <2024-05-25 Sat ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-05-23 Thu 18:13]
+:LAST_REPEAT: [2024-05-24 Fri 19:55]
 :END:
+- State "AMPLE"      from ""           [2024-05-24 Fri 19:55]
 - State "AMPLE"      from ""           [2024-05-23 Thu 18:13]
 - State "AMPLE"      from ""           [2024-05-22 Wed 18:04]
 - State "AMPLE"      from ""           [2024-05-21 Tue 18:29]
@@ -280,11 +282,12 @@ CLOCK: [2024-03-07 Thu 10:40]--[2024-03-07 Thu 10:57] =>  0:17
 - State "DONE"       from "ACTIVE"     [2023-11-11 Sat 17:14]
 - State "DONE"       from "ACTIVE"     [2023-11-09 Thu 18:41]
 - State "DONE"       from "ACTIVE"     [2023-11-07 Tue 18:21]
-** [#A] *Selenium* package review
-SCHEDULED: <2024-05-24 Fri ++1d>
+** *Selenium* package review
+SCHEDULED: <2024-05-25 Sat ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-03-14 Thu 18:04]
+:LAST_REPEAT: [2024-05-24 Fri 19:55]
 :END:
+- State "AMPLE"      from ""           [2024-05-24 Fri 19:55]
 - State "AMPLE"      from "Init"       [2024-03-14 Thu 18:04]
 - State "AMPLE"      from "DELAY"      [2024-02-28 Wed 18:57]
 - State "AMPLE"      from "DELAY"      [2024-02-26 Mon 17:57]
@@ -399,15 +402,19 @@ Mostly the similar approach with several quirks
 
 
 * [#A] Task decomposition
-SCHEDULED: <2024-05-24 Fri ++1d>
+SCHEDULED: <2024-05-25 Sat ++1d>
+:LOGBOOK:
+CLOCK: [2024-05-24 Fri 10:59]--[2024-05-24 Fri 11:30] =>  0:31
+CLOCK: [2024-05-24 Fri 09:44]--[2024-05-24 Fri 10:43] =>  0:59
+:END:
 
-Split the whole task into several digestable chunks in your agenda.
+Split the whole task into several digestible chunks in your agenda.
 
 * DONE [#A] Clocking
 CLOSED: [2023-10-25 Wed 16:15] SCHEDULED: <2023-10-28 Sat>
 [[info:org#Clocking Work Time][org#Clocking Work Time]]
 
-* [#A] The Absolute Beginner
+* AMPLE The Absolute Beginner
 SCHEDULED: <2024-05-24 Fri>
 :LOGBOOK:
 CLOCK: [2023-10-20 Fri 10:26]--[2023-10-20 Fri 13:17] =>  2:51
