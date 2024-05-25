@@ -75,4 +75,82 @@ wheel        0.38.4
   dictionary with the variable name and value. This renders the
   template with the provided data;
 - Finally, we printed the rendered output string.
-  
+
+
+* Use Jinja With Flask
+
+When you’re in your active virtual environment, go on and check if
+Flask installed:
+
+#+begin_src sh
+pip list
+#+end_src
+
+#+RESULTS:
+#+begin_example
+Package      Version
+------------ -------
+blinker      1.8.1
+click        8.1.7
+Flask        3.0.3
+itsdangerous 2.2.0
+Jinja2       3.1.3
+MarkupSafe   2.1.5
+pip          23.0.1
+setuptools   66.1.1
+Werkzeug     3.0.2
+wheel        0.38.4
+#+end_example
+
+* Set up your project directory structure
+
+#+begin_src sh :results verbatim
+  tree ~/git/annelida/ballyboe/practice/my_flask_app
+#+end_src
+
+#+RESULTS:
+: /home/vikky/git/annelida/ballyboe/practice/my_flask_app
+: ├── app.py
+: └── templates
+:     └── index.html
+: 
+: 2 directories, 2 files
+
+
+** Create the main application file, ~app.py~
+
+If Flask installed, start create your application. Create a file named
+~app.py~ in your project’s root directory:
+
+#+begin_src python :results output
+from flask import Flask, render_template
+
+app = Flask(__name__)
+
+@app.route('/')
+def home():
+    return render_template('index.html')
+
+if __name__ == '__main__':
+    app.run(debug=True)
+#+end_src
+
+** Create a basic HTML file, =templates/index.html=
+
+#+begin_example
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>My Flask App</title>
+  </head>
+  <body>
+    <h1>Hello, Jinja and Flask!</h1>
+  </body>
+</html>
+#+end_example
+
+
+
+
