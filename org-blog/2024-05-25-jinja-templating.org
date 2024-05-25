@@ -1,0 +1,78 @@
+#+BEGIN_EXPORT html
+---
+layout: page
+title: Jinja templating with Flask
+tagline: " description and examples"
+permalink: /jinja-templating-with-flask.html
+categories: [Jinja, Python, Flask, literate programming]
+tags: [Jinja, Python, Flask]
+---
+#+END_EXPORT
+
+#+STARTUP: showall indent
+#+OPTIONS: tags:nil num:nil \n:nil @:t ::t |:t ^:{} _:{} *:t
+#+TOC: headlines 2
+#+PROPERTY:header-args :results output :exports both :eval no-export
+
+* Overview
+
+/Jinja/ is a powerful /templating engine/ for Python that is used for
+rendering dynamic web pages and other text-based content.
+
+/Template engines/ is a software tool that generates dynamic content
+by replacing special placeholders in a template with real data when
+executed. Template engines, such as Jinja, are widely used in Python
+projects like Flask, Django, offering flexibility and ease of use in
+creating dynamic content.
+
+/Dynamic rendering of content/ refers to the process of generating web
+pages or other content on the fly, based on user input, database
+queries, or other dynamic factors.
+
+A template engine like /Jinja/ allows easy inserting variables,
+expressions, and control structures into templates.
+
+* Check if Jinja installed
+
+#+begin_src sh  
+pip list
+#+end_src
+
+#+RESULTS:
+#+begin_example
+Package      Version
+------------ -------
+blinker      1.8.1
+click        8.1.7
+Flask        3.0.3
+itsdangerous 2.2.0
+Jinja2       3.1.3
+MarkupSafe   2.1.5
+pip          23.0.1
+setuptools   66.1.1
+Werkzeug     3.0.2
+wheel        0.38.4
+#+end_example
+
+* Render Jinja Template example
+
+#+begin_src python :results output
+  import jinja2
+  from jinja2 import Template
+  template = Template("Hello, {{ name }}!")
+  result = template.render(name="World")
+  print(result)
+#+end_src
+
+#+RESULTS:
+: Hello, World!
+
+- We imported the ~Template~ class from the ~jinja2~ module;
+- We created a ~Template~ object by passing the template string as an
+  argument. In this case, the template contains a variable ~{{ name}}~
+  which will be replaced with a value when rendered;
+- We called the ~render()~ method on the template object, passing a
+  dictionary with the variable name and value. This renders the
+  template with the provided data;
+- Finally, we printed the rendered output string.
+  
