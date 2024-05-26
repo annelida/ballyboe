@@ -135,6 +135,10 @@ if __name__ == '__main__':
     app.run(debug=True)
 #+end_src
 
+When you put an ~@app.route()~ decorator on top of a Flask view
+function, you register it with the given URL rule. Here, you’re
+establishing the route /, which render a ~index.html~ template.
+
 ** Create a basic HTML file, =templates/index.html=
 
 #+begin_example
