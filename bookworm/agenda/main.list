@@ -2695,7 +2695,17 @@ https://jinja.palletsprojects.com/en/3.1.x/templates/#whitespace-control
 *** Escaping
 https://jinja.palletsprojects.com/en/3.1.x/templates/#escaping
 *** [#A] Navbar 'active' link 
-SCHEDULED: <2024-05-25 Sat>
+SCHEDULED: <2024-05-26 Sun>
+
+*** [#A] Rending Jinja template variable
+SCHEDULED: <2024-05-26 Sun>
+:LOGBOOK:
+CLOCK: [2024-05-26 Sun 09:56]--[2024-05-26 Sun 10:29] =>  0:33
+CLOCK: [2024-05-26 Sun 09:19]--[2024-05-26 Sun 09:41] =>  0:22
+:END:
+
+*** [#A] Adding Static Files to application
+SCHEDULED: <2024-05-26 Sun>
 
 * Work
 :PROPERTIES:
