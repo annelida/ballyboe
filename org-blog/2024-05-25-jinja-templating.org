@@ -155,6 +155,19 @@ establishing the route /, which render a ~index.html~ template.
 </html>
 #+end_example
 
+** Running the Application
 
+Ensure you're in the directory containing ~app.py~ and then run:
 
+#+begin_src sh
+flask --app app run
+#+end_src
+
+Open your web browser and navigate to http://127.0.0.1:5000/
+You should see "Hello, Jinja and Flask!"
+
+Flask app is running in debug mode. In debug mode, you’ll get more
+meaningful error messages if something goes wrong. Also, your server
+will restart automatically whenever you change something in your
+codebase.
 
