@@ -155,6 +155,44 @@ A programming language is a set of instructions used by programmers to
 communicate with computers.
 #+end_quote
 
+** What are the components of a Python programming language?
+
+- /Character Set/: The character set in Python includes letters (A-Z or
+  a-z), digits (0-9), special symbols (such as ., @, #, %, etc.), and
+  white spaces (like blank space, horizontal tab, carriage return, new
+  line, and form feed);
+- /Data Types/: Python supports various data types, which are the types
+  of values that can be stored and manipulated in a program. The
+  type() function is used to get the data type of any object or
+  variable;
+- /Constants/: are fixed values that remain unchanged during the
+  execution of a program and are used in assignment statements;
+- /Variables/: are data items whose values may vary during the
+  execution of the program;
+- /Keywords/: are words that have been assigned specific meanings in
+  the context of Python language programs and should not be used as
+  variable names to avoid problems. There are 35 keywords in the
+  Python programming language;
+- /Expressions/: are phrases of code that Python evaluates to produce
+  a value;
+- /Statements/: are logical units of code that can be executed by the
+  Python interpreter. They can be assignment statements, conditional
+  statements, loops, or function calls;
+- /Comments/: are additional readable information that is ignored by the
+  Python interpreter. They begin with the # symbol and end with the
+  end of the physical line;
+- /Functions/: are blocks of code that can be called multiple times from
+  different parts of a program;
+- /Blocks and identation/: Python uses indentation to mark blocks of
+  code. This is a distinctive feature of Python and is used to define
+  the scope of control structures like if-else statements and loops;
+- /Operators/: are symbols or keywords that perform mathematical,
+  logical, or comparison operations on data;
+- /Control Structures/: are used to control the flow of a Python
+  program. They include conditionals (if-else statements), loops
+  (for/while statements), and exceptions (try/except blocks.
+  
+
 ** What is Python programming language?
 
 #+begin_quote

@@ -1121,6 +1121,12 @@ CLOCK: [2024-05-11 Sat 09:05]--[2024-05-11 Sat 09:35] =>  0:30
 :END:
 [[info:python3.11#Data model][python3.11#Data model]]
 
+*** What are the components of a Python programming language?
+SCHEDULED: <2024-05-26 Sun>
+:LOGBOOK:
+CLOCK: [2024-05-26 Sun 08:42]--[2024-05-26 Sun 09:13] =>  0:31
+:END:
+
 *** AMPLE Venvs decluttering and reorder
 SCHEDULED: <2024-02-22 Thu>
 :PROPERTIES:
