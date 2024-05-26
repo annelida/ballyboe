@@ -171,3 +171,39 @@ meaningful error messages if something goes wrong. Also, your server
 will restart automatically whenever you change something in your
 codebase.
 
+** Rendering Jinja template variable
+
+Edit ~index.html~ by adding a varible ~{{ title }}~:
+
+#+begin_example
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>{{ title }}</title>
+  </head>
+  <body>
+    <h1>Hello, {{ title }}</h1>
+  </body>
+</html>
+#+end_example
+
+And make changes in ~app.py~ by adding {{ title }} variable value:
+
+#+begin_src python :results output
+from flask import Flask, render_template
+
+app = Flask(__name__)
+
+@app.route('/')
+def home():
+    return render_template('index.html', title='My Flask App')
+
+if __name__ == '__main__':
+    app.run(debug=True)
+#+end_src
+
+Restart your Flask development server, then visit
+http://127.0.0.1:5000 and verify that Flask rendered your {{ title }}
+variable in website's title and in the text message.
