@@ -380,7 +380,6 @@ Evaluate the region. Try to create weekly agenda by completing =M-x
 org-agenda= command.
 
 ** RAW [#A] Org-babel variables customization 
-SCHEDULED: <2024-05-27 Mon ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-05-23 Thu 18:10]
 :END:
