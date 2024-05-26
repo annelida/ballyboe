@@ -1,0 +1,86 @@
+#+BEGIN_EXPORT html
+---
+layout: post
+title: Emacs *Help* system key binding
+tagline: " brief description"
+permalink: /emacs/Help_key_commands.html
+categories: [Emacs, Help, Key-commands]
+tags: [emacs, help, key-commands]
+---
+#+END_EXPORT
+
+#+STARTUP: showall indent
+#+OPTIONS: tags:nil num:nil \n:nil @:t ::t |:t ^:{} _:{} *:t
+#+TOC: headlines 2
+#+PROPERTY:header-args :results output :exports both :eval no-export
+
+
+* The list of commands, which began with C-h prefix 
+
+| Key        | Command               | Description                              |
+|------------+-----------------------+------------------------------------------|
+| .          | display-local-help    | Display local help in the echo area      |
+|------------+-----------------------+------------------------------------------|
+| ?          | help-for-help         | Help command                             |
+|------------+-----------------------+------------------------------------------|
+| C          | describe-coding-      | Display information about CODING-SYSTEM. |
+|            | system                |                                          |
+|------------+-----------------------+------------------------------------------|
+| -F         | info-goto-emacs-      | Go to the Info node in the Emacs manual  |
+|            | -command-node         | for command COMMAND.                     |
+|------------+-----------------------+------------------------------------------|
+| -I         | describe-input-       | Describe input method INPUT-METHOD.      |
+|            | method                |                                          |
+|------------+-----------------------+------------------------------------------|
+| -K         | info-goto-emacs-      | Go to the node in the Emacs manual which |
+|            | key-command           | describes the command bound to KEY.      |
+|------------+-----------------------+------------------------------------------|
+|            |                       |                                          |
+| -L         | describe-language-    | Describe how Emacs supports language     |
+|            | environment           | environment LANGUAGE-NAME                |
+|------------+-----------------------+------------------------------------------|
+| -M         | bmpk-describe-        |                                          |
+|            | bookmark              |                                          |
+|------------+-----------------------+------------------------------------------|
+| -P         | describe-package      | Display documentation about the          |
+|            | /package/ RET         | specified package                        |
+|------------+-----------------------+------------------------------------------|
+| r          | info-emacs-manual     | Display the Emacs manual in Info         |
+|------------+-----------------------+------------------------------------------|
+|            |                       |                                          |
+| s          | describe-syntax       | Display the contents of the current      |
+|            |                       | syntax table                             |
+|------------+-----------------------+------------------------------------------|
+| a          |                       |                                          |
+| /topics/   | apropos-command       | Display a list of commands whose         |
+| RET        |                       | names match /topics/                     |
+|            |                       | (apropos-command)                        |
+|------------+-----------------------+------------------------------------------|
+|            |                       |                                          |
+| b          | describe-bindings     | Display all active key bindings;         |
+|            |                       | minor mode bindings first,               |
+|            |                       | then those of the major mode,            |
+|            |                       | then global bindings                     |
+|------------+-----------------------+------------------------------------------|
+| c          | describe-key-briefly  | Show the name of the command that the    |
+| /key/      |                       | /key/ is bound to                        |
+|------------+-----------------------+------------------------------------------|
+|            |                       |                                          |
+| d          | apropos-documentation | Display the commands and variables       |
+| /topic/    |                       | whose documentation matches /topics/     |
+| RET        |                       |                                          |
+|------------+-----------------------+------------------------------------------|
+|            |                       |                                          |
+| e          | view-echo-area-       | Display the *Messages* buffer            |
+|            | -messages             |                                          |
+|------------+-----------------------+------------------------------------------|
+|            |                       |                                          |
+| f          | describe-function     | Display documentation on the             |
+| /function/ |                       | Lisp function named /function/           |
+| RET        |                       |                                          |
+|------------+-----------------------+------------------------------------------|
+| i          | info                  |                                          |
+|            |                       |                                          |
+|            |                       |                                          |
+
+
