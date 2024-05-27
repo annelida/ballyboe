@@ -122,3 +122,58 @@ tags: [emacs, help, key-commands]
 | RET        |                       |                                          |
 |------------+-----------------------+------------------------------------------|
 
+* The list of *Info* commands
+
+| key | Description                                         |
+|-----+-----------------------------------------------------|
+|     | Selection other                                     |
+|     | nodes                                               |
+|-----+-----------------------------------------------------|
+| n   | Move to the "next" node of this node                |
+|-----+-----------------------------------------------------|
+| p   | Move to the "previous" node of this node            |
+|-----+-----------------------------------------------------|
+| ^   | Move "up" from this node.                           |
+|-----+-----------------------------------------------------|
+| m   | Pick menu item specified by name (or abbreviation). |
+|-----+-----------------------------------------------------|
+| d   | Go to the Info directory node                       |
+|-----+-----------------------------------------------------|
+| <   | Go to the Top node of this file                     |
+|-----+-----------------------------------------------------|
+| >   | Go to the final node in this file                   |
+|-----+-----------------------------------------------------|
+| [   | Go backward one node                                |
+|     | considering all nodes as                            |
+|     | as forming one sequence                             |
+|-----+-----------------------------------------------------|
+| ]   | Go forward one node                                 |
+|-----+-----------------------------------------------------|
+| TAB | Move cursor to next cross-reference or menu         |
+|     | item                                                |
+|-----+-----------------------------------------------------|
+| f   | Follow a cross reference.                           |
+|-----+-----------------------------------------------------|
+| l   | Move back in history to the                         |
+|     | last node you were at                               |
+|-----+-----------------------------------------------------|
+| r   | Move forward in history to the node you             |
+|     | returned from after using l                         |
+|-----+-----------------------------------------------------|
+| L   | Go to menu of visited nodes.                        |
+|-----+-----------------------------------------------------|
+| T   | Go to table of contents of the current Info file    |
+|     |                                                     |
+|-----+-----------------------------------------------------|
+| SPC | Normally, scroll forward a full screen.             |
+|     |                                                     |
+|-----+-----------------------------------------------------|
+| DEL | Normally, scroll backward.                          |
+|     |                                                     |
+|-----+-----------------------------------------------------|
+| b   | Go to beginning of node                             |
+|-----+-----------------------------------------------------|
+| e   | Go to beginning of node                             |
+|     |                                                     |
+|-----+-----------------------------------------------------|
+
