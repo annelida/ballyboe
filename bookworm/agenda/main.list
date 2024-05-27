@@ -1131,6 +1131,12 @@ Schema
 
 *** Python compiler itself
 SCHEDULED: <2024-05-27 Mon>
+:LOGBOOK:
+CLOCK: [2024-05-27 Mon 07:34]--[2024-05-27 Mon 08:27] =>  0:53
+:END:
+
+[[file:~/git/annelida/ballyboe/org-blog/2024-05-27-compiler-main-basics.org::*A detailed description of the compilation process][Compilator and the compilation process]]
+
 *** AMPLE Venvs decluttering and reorder
 SCHEDULED: <2024-02-22 Thu>
 :PROPERTIES:
