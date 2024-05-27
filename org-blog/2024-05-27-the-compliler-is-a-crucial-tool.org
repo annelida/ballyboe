@@ -1,0 +1,72 @@
+#+BEGIN_EXPORT html
+---
+layout: post
+title: Compiler role in programming
+tagline: " like a crutial software tool"
+permalink: /programming/compiler_role_in_programming.html
+categories: [Programming, Tools, Compiler, Python]
+tags: [programming, tools, compiler, python]
+---
+#+END_EXPORT
+
+#+STARTUP: showall indent
+#+OPTIONS: tags:nil num:nil \n:nil @:t ::t |:t ^:{} _:{} *:t
+#+TOC: headlines 2
+#+PROPERTY:header-args :results output :exports both :eval no-export
+
+* Introduction
+
+/A compiler/ is a crucial software tool that typically translates
+source code written in high-level programming languages (like as C,
+C++, Java, or Python) into low-level languages like assembly or
+machine code to create an executable program for computer's processor.
+
+It performs tasks like error detection, syntax analysis, and
+optimization to ensure the code is well-formed and optimized for the
+hardware being used.
+
+* A detailed description of the compilation process
+
+Here's a more detailed description of what a compiler does:
+
+- /Lexical Analysis/: The compiler reads the source code and converts it
+  into a stream of tokens.
+
+  /Tokens/ are basic language elements like keywords, operators,
+  identifiers, and symbols;
+
+- /Syntax Analysis (Parsing)/: The stream of tokens is analyzed to
+  ensure that they follow the grammatical structure of the programming
+  language. This phase produces a parse tree or syntax tree,
+  representing the hierarchical structure of the source code;
+
+- /Semantic Analysis/: The compiler checks the syntax tree for
+  semantic errors, such as type mismatches, undeclared variables, and
+  other logical errors. This ensures that the code makes sense within
+  the context of the language's rules;
+
+- /Intermediate Code Generation/: The compiler translates the syntax
+  tree into an intermediate representation (IR), which is a low-level
+  code that is easier to optimize and convert into machine code;
+
+- /Optimization/: The intermediate code is optimized to improve
+  performance and efficiency. This can involve removing redundant
+  code, improving memory usage, and optimizing execution speed;
+
+- /Code Generation/: The optimized intermediate code is then
+  translated into machine code or bytecode, depending on the target
+  platform. Machine code is specific to the computer's architecture,
+  while bytecode is typically used for virtual machines;
+
+- /Code Linking/: If the program consists of multiple modules or
+  libraries, the compiler links them together to create a single
+  executable file.
+
+
+* How works Python compiler?
+
+* What is assembly
+
+
+
+
