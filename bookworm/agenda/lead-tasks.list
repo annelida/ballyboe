@@ -402,6 +402,7 @@ SCHEDULED: <2024-05-27 Mon ++1d>
   To open Emacs Info use C-h-i or C-h-r
   [[help:Enabled][Help about *info*]]
 :LOGBOOK:
+CLOCK: [2024-05-27 Mon 09:47]--[2024-05-27 Mon 10:28] =>  0:41
 CLOCK: [2024-01-31 Wed 13:16]--[2024-01-31 Wed 13:46] =>  0:30
 CLOCK: [2024-01-30 Tue 09:46]--[2024-01-30 Tue 10:19] =>  0:33
 CLOCK: [2023-12-18 Mon 16:11]--[2023-12-18 Mon 16:26] =>  0:15
