@@ -15,7 +15,11 @@ tags: [emacs, help, key-commands]
 #+PROPERTY:header-args :results output :exports both :eval no-export
 
 
-* The list of commands, which began with C-h prefix 
+* The list of commands, which began with C-h prefix
+
+#+STARTUP: align
+#+ATTR_HTML: :border 2 :rules all :frame border
+
 
 | Key        | Command               | Description                              |
 |------------+-----------------------+------------------------------------------|
@@ -79,8 +83,42 @@ tags: [emacs, help, key-commands]
 | /function/ |                       | Lisp function named /function/           |
 | RET        |                       |                                          |
 |------------+-----------------------+------------------------------------------|
-| i          | info                  |                                          |
+| i          | info                  | Run Info                                 |
 |            |                       |                                          |
+|------------+-----------------------+------------------------------------------|
+| k /key/    | describe-key          | Display the name and documentation       |
+|            |                       | of the command that /key/ runs           |
+|------------+-----------------------+------------------------------------------|
+| l          | view-lossage          | Display a description of                 |
+|            |                       | your last 300 keystrokes                 |
+|------------+-----------------------+------------------------------------------|
+| m          | describe-mode         | Display documentation of                 |
+|            |                       | the current major mode and minor modes   |
+|------------+-----------------------+------------------------------------------|
+| o          | describe-symbol       | Display documentation of the Lisp        |
+| /symbol/   |                       | symbol named /symbol/                    |
+|------------+-----------------------+------------------------------------------|
+| p          | finder-by-keyword     | Find packages by topic keyword           |
 |            |                       |                                          |
-
+|------------+-----------------------+------------------------------------------|
+| q          | help-quit             |                                          |
+|            |                       |                                          |
+|------------+-----------------------+------------------------------------------|
+| s          | describe-syntax)      | Display the contents of the current      |
+|            |                       | syntax table                             |
+|------------+-----------------------+------------------------------------------|
+| t          | help-with-tutorial    | Enter the Emacs interactive tutorial     |
+|            |                       |                                          |
+|------------+-----------------------+------------------------------------------|
+| v          | describe-variable     | Display the documentation of the         |
+| /var/      |                       | Lisp variable /var/                      |
+|------------+-----------------------+------------------------------------------|
+| w          | where-is              | Show which keys run the command          |
+| /command/  |                       | named /command/                          |
+| RET        |                       |                                          |
+|------------+-----------------------+------------------------------------------|
+| x          | describe-command      | Display documentation on                 |
+| /command/  |                       | the named /command/                      |
+| RET        |                       |                                          |
+|------------+-----------------------+------------------------------------------|
 

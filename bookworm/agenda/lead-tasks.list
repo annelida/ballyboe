@@ -193,6 +193,9 @@ SCHEDULED: <2024-05-27 Mon ++1d>
   Help buffer:
   M-x rename-uniquely to rename buffer with a similar name.
   M-x clone-buffer
+
+[[file:~/git/annelida/ballyboe/org-blog/2024-05-26-Emacs-help-about-help.org::*The list of commands, which began with C-h prefix][The list of commands, which began with C-h prefix]]
+
 - State "DONE"       from "Active"     [2024-01-23 Tue 18:38]
 - State "DONE"       from "Active"     [2024-01-17 Wed 17:17]
 - State "DONE"       from "Active"     [2024-01-16 Tue 15:21]
@@ -235,6 +238,8 @@ SCHEDULED: <2024-05-27 Mon ++1d>
     [[info:emacs#Help][emacs#Help]]
 - State "DONE"       from "ACTIVE"     [2023-11-22 Wed 08:42]
 :LOGBOOK:
+CLOCK: [2024-05-27 Mon 09:13]--[2024-05-27 Mon 09:39] =>  0:26
+CLOCK: [2024-05-27 Mon 08:50]--[2024-05-27 Mon 09:06] =>  0:16
 CLOCK: [2024-05-26 Sun 15:58]--[2024-05-26 Sun 16:38] =>  0:40
 CLOCK: [2024-01-30 Tue 10:19]--[2024-01-30 Tue 10:29] =>  0:10
 CLOCK: [2024-01-30 Tue 09:46]--[2024-01-30 Tue 09:46] =>  0:00
