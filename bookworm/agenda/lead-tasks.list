@@ -12,10 +12,11 @@
 #+TODO: DELAY LAG RETARD | BARE
 
 * Genuine source of knowledge
-SCHEDULED: <2024-05-27 Mon ++1d>
+SCHEDULED: <2024-05-28 Tue ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-05-26 Sun 19:32]
+:LAST_REPEAT: [2024-05-27 Mon 18:23]
 :END:
+- State "AMPLE"      from ""           [2024-05-27 Mon 18:23]
 - State "AMPLE"      from ""           [2024-05-26 Sun 19:32]
 - State "AMPLE"      from ""           [2024-05-25 Sat 17:03]
 - State "AMPLE"      from ""           [2024-05-24 Fri 19:55]
@@ -90,10 +91,11 @@ about how the program works are:
 --* INIT Conclusion*: the wisest decision is just to use it properly!
 
 * Deliberate practice
-SCHEDULED: <2024-05-27 Mon ++1d>
+SCHEDULED: <2024-05-28 Tue ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-05-26 Sun 19:32]
+:LAST_REPEAT: [2024-05-27 Mon 18:23]
 :END:
+- State "AMPLE"      from ""           [2024-05-27 Mon 18:23]
 - State "AMPLE"      from ""           [2024-05-26 Sun 19:32]
 - State "AMPLE"      from ""           [2024-05-25 Sat 17:03]
 - State "AMPLE"      from ""           [2024-05-24 Fri 19:55]
@@ -181,7 +183,7 @@ CLOCK: [2023-11-24 Fri 08:31]--[2023-11-24 Fri 09:02] =>  0:31
 when you do challenging but indispensable tasks by yourself
 
 * RAW [#A] Help about *Help*
-SCHEDULED: <2024-05-27 Mon ++1d>
+SCHEDULED: <2024-05-28 Tue ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-01-30 Tue 14:56]
 :CATEGORY: Emacs
@@ -192,7 +194,7 @@ SCHEDULED: <2024-05-27 Mon ++1d>
   M-n
   Help buffer:
   M-x rename-uniquely to rename buffer with a similar name.
-  M-x clone-buffer
+  M-x clone-buffer;
 
 [[file:~/git/annelida/ballyboe/org-blog/2024-05-26-Emacs-help-about-help.org::*The list of commands, which began with C-h prefix][The list of commands, which began with C-h prefix]]
 
@@ -293,7 +295,7 @@ CLOCK: [2024-03-07 Thu 10:40]--[2024-03-07 Thu 10:57] =>  0:17
 - State "DONE"       from "ACTIVE"     [2023-11-09 Thu 18:41]
 - State "DONE"       from "ACTIVE"     [2023-11-07 Tue 18:21]
 ** *Selenium* package review
-SCHEDULED: <2024-05-27 Mon ++1d>
+SCHEDULED: <2024-05-28 Tue ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-05-26 Sun 19:32]
 :END:
@@ -363,7 +365,7 @@ Very straighforward system out from 10 initial keys to use in embedded
 *Help* browser.OA To use several *Help* buffers use =M-x raname uniquely=
 
 * RAW [#A] Help about *info*
-SCHEDULED: <2024-05-27 Mon ++1d>
+SCHEDULED: <2024-05-28 Tue ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-01-30 Tue 14:56]
 :CATEGORY: Emacs
@@ -415,10 +417,11 @@ Mostly the similar approach with several quirks
 
 
 * Task decomposition
-SCHEDULED: <2024-05-27 Mon ++1d>
+SCHEDULED: <2024-05-28 Tue ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-05-26 Sun 19:32]
+:LAST_REPEAT: [2024-05-27 Mon 18:23]
 :END:
+- State "AMPLE"      from ""           [2024-05-27 Mon 18:23]
 - State "AMPLE"      from ""           [2024-05-26 Sun 19:32]
 :LOGBOOK:
 CLOCK: [2024-05-24 Fri 10:59]--[2024-05-24 Fri 11:30] =>  0:31
