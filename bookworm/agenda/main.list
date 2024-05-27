@@ -1122,7 +1122,7 @@ CLOCK: [2024-05-11 Sat 09:05]--[2024-05-11 Sat 09:35] =>  0:30
 [[info:python3.11#Data model][python3.11#Data model]]
 
 *** What does the Python programming language consists of?
-SCHEDULED: <2024-05-27 Mon>
+SCHEDULED: <2024-05-28 Tue>
 :LOGBOOK:
 CLOCK: [2024-05-26 Sun 08:42]--[2024-05-26 Sun 09:13] =>  0:31
 :END:
@@ -1130,7 +1130,7 @@ CLOCK: [2024-05-26 Sun 08:42]--[2024-05-26 Sun 09:13] =>  0:31
 Schema
 
 *** Python compiler itself
-SCHEDULED: <2024-05-27 Mon>
+SCHEDULED: <2024-05-28 Tue>
 :LOGBOOK:
 CLOCK: [2024-05-27 Mon 07:34]--[2024-05-27 Mon 08:27] =>  0:53
 :END:
@@ -1958,7 +1958,7 @@ CLOCK: [2024-04-19 Fri 11:13]--[2024-04-19 Fri 11:53] =>  0:40
 
 [[file:~/git/annelida/ballyboe/org-blog/2023-11-07-Python-venv.org::*Creating a Python virtual environment on a Debian-based system][Python virtual environment on a Debian-based system]]
 *** Python Programming Language basics
-SCHEDULED: <2024-05-27 Mon>
+SCHEDULED: <2024-05-28 Tue>
 :LOGBOOK:
 CLOCK: [2024-05-23 Thu 10:14]--[2024-05-23 Thu 11:05] =>  0:51
 CLOCK: [2024-05-23 Thu 09:43]--[2024-05-23 Thu 10:04] =>  0:21
@@ -1986,7 +1986,7 @@ https://flask.palletsprojects.com/en/3.0.x/quickstart/#a-minimal-application
 SCHEDULED: <2024-05-28 Tue>
 https://flask.palletsprojects.com/en/3.0.x/quickstart/#debug-mode
 **** RAW HTML Escaping
-SCHEDULED: <2024-05-27 Mon>
+SCHEDULED: <2024-05-28 Tue>
 https://flask.palletsprojects.com/en/3.0.x/quickstart/#html-escaping
 **** RAW Routing
 https://flask.palletsprojects.com/en/3.0.x/quickstart/#routing
@@ -2084,12 +2084,12 @@ CLOCK: [2024-05-16 Thu 07:12]--[2024-05-16 Thu 07:27] =>  0:15
 :END:
 
 *** Eww commands brief description
-SCHEDULED: <2024-05-27 Mon>
+SCHEDULED: <2024-05-28 Tue>
 
 The three column table: Key, command, description
 
 *** [#A] Emacs' regexp
-SCHEDULED: <2024-05-27 Mon>
+SCHEDULED: <2024-05-28 Tue>
 
 ** Org-mode
 :PROPERTIES:
@@ -2240,7 +2240,7 @@ CLOCK: [2023-12-03 Sun 13:04]--[2023-12-03 Sun 13:32] =>  0:28
 [[info:org#Capture templates][org#Capture templates]]
 
 *** Org-mode keys
-SCHEDULED: <2024-05-27 Mon>
+SCHEDULED: <2024-05-28 Tue>
 Three column table: key, name, description
 ** Jekyll
 *** Org-Jekyll - article about initial config
@@ -2619,7 +2619,7 @@ CLOCK: [2024-01-04 Thu 12:11]--[2024-01-04 Thu 12:13] =>  0:02
   version
 
 ** Databases fundamentals
-SCHEDULED: <2024-05-27 Mon>
+SCHEDULED: <2024-05-28 Tue>
 :PROPERTIES:
 :CATEGORY: DB
 :END:
@@ -2637,7 +2637,7 @@ CLOCK: [2024-05-21 Tue 15:39]--[2024-05-21 Tue 16:09] =>  0:30
 :PROPERTIES:
 :END:
 **** The studying of the SQLite3 manual
-SCHEDULED: <2024-05-27 Mon>
+SCHEDULED: <2024-05-31 Fri>
 [[file:~/git/annelida/ballyboe/org-blog/2024-05-10-sqlite3-basics.org::*How to connect to SQLite sample database][How to connect to SQLite sample database]]
 
 - Note taken on [2024-05-10 Fri 18:06] \\
@@ -2714,14 +2714,14 @@ CLOCK: [2024-05-24 Fri 11:34]--[2024-05-24 Fri 11:50] =>  0:16
 :END:
 https://jinja.palletsprojects.com/en/3.1.x/templates/#synopsis
 *** Template file extension
-SCHEDULED: <2024-05-27 Mon>
+SCHEDULED: <2024-05-28 Tue>
 :LOGBOOK:
 CLOCK: [2024-05-25 Sat 07:24]--[2024-05-25 Sat 09:06] =>  1:42
 CLOCK: [2024-05-24 Fri 11:50]--[2024-05-24 Fri 12:29] =>  0:39
 :END:
 https://jinja.palletsprojects.com/en/3.1.x/templates/#template-file-extension
 *** Variables
-SCHEDULED: <2024-05-27 Mon>
+SCHEDULED: <2024-05-28 Tue>
 :LOGBOOK:
 CLOCK: [2024-05-25 Sat 09:06]--[2024-05-25 Sat 09:06] =>  0:00
 :END:
@@ -2737,20 +2737,26 @@ https://jinja.palletsprojects.com/en/3.1.x/templates/#whitespace-control
 *** Escaping
 https://jinja.palletsprojects.com/en/3.1.x/templates/#escaping
 *** [#B] Navbar 'active' link 
-SCHEDULED: <2024-05-27 Mon>
+SCHEDULED: <2024-05-29 Wed>
 
 *** Rendering Jinja template variable
-SCHEDULED: <2024-05-27 Mon>
+SCHEDULED: <2024-06-03 Mon ++1w>
+:PROPERTIES:
+:LAST_REPEAT: [2024-05-27 Mon 18:21]
+:END:
+- State "AMPLE"      from ""           [2024-05-27 Mon 18:21]
 :LOGBOOK:
 CLOCK: [2024-05-26 Sun 09:56]--[2024-05-26 Sun 10:29] =>  0:33
 CLOCK: [2024-05-26 Sun 09:19]--[2024-05-26 Sun 09:41] =>  0:22
 :END:
 
+[[file:~/git/annelida/ballyboe/org-blog/2024-05-25-jinja-templating.org::*Rendering Jinja template variable][Rendering Jinja template variable]]
+
 *** [#B] Adding Static Files to application
-SCHEDULED: <2024-05-27 Mon>
+SCHEDULED: <2024-05-28 Tue>
 
 ** [#A] Assemly language
-SCHEDULED: <2024-05-27 Mon>
+SCHEDULED: <2024-05-28 Tue>
 
 * Work
 :PROPERTIES:
@@ -3089,7 +3095,7 @@ CLOCK: [2024-04-22 Mon 09:39]--[2024-04-22 Mon 10:10] =>  0:31
 ** DELAY [#C] Python programming language brief overview diagram
 SCHEDULED: <2024-06-10 Mon>
 ** RAW [#C]Work with links in Emacs with Bookmarks+
-SCHEDULED: <2024-05-27 Mon>
+SCHEDULED: <2024-05-28 Tue>
 :LOGBOOK:
 CLOCK: [2024-05-15 Wed 09:48]--[2024-05-15 Wed 10:08] =>  0:20
 :END:
