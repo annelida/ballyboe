@@ -62,7 +62,40 @@ Here's a more detailed description of what a compiler does:
   libraries, the compiler links them together to create a single
   executable file.
 
+  Thus the compiler performs several functions:
 
+  - Parser;
+  - Analyzer;
+  - Generator;
+  - Optimizer.
+
+
+* A History of the compiler
+
+Early Development:
+
+- 1940s - Assembly Language and Machine Code. Kathleen Booth, a
+  British computer scientist, is often credited with writing one of
+  the first assembly languages.;
+- 1952 - First Compiler by Grace Hopper;
+
+High-Level Programming Languages and Compiler:
+
+- 1957 - FORTRAN Compiler (FORmula TRANslation);
+- 1959 - COBOL Compiler (COmmon Business-Oriented Language);
+- 1960 - LISP and Recursive Functions (LISt Processing);
+- 1960 - ALGOL and Structured Programming (ALGOrithmic Language);
+
+Advances in Compiler Theory and Technology:
+
+- Compilers for high-level languages such as C, C++, and Pascal were
+  developed in the 1970s and 1980s, enabling the development of more
+  complex software systems;
+- In recent years, the use of compilers has become even more common
+  with the rise of virtual machines and the development of
+  Just-in-Time (JIT) compilers. JIT compilers can optimize program
+  performance at runtime by generating machine code tailored to the
+  specific system.  
 * How works Python compiler?
 
 * What is assembly
