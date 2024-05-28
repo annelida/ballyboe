@@ -2090,6 +2090,41 @@ The three column table: Key, command, description
 
 *** [#A] Emacs' regexp
 SCHEDULED: <2024-05-28 Tue>
+- Note taken on [2024-05-28 Tue 08:28] \\
+  M-x re-builder command provides a convenient interface for creating
+  and testing regular expressions.  As you edit the regexp, all its
+  matches in the target buffer are highlighted. Each parenthesized
+  sub-expression is shown in a distinct face, making it easier to verify
+  even complex regexps.
+- Note taken on [2024-05-28 Tue 08:10] \\
+  [[info:emacs#Regexps][emacs#Regexps]]
+:LOGBOOK:
+CLOCK: [2024-05-28 Tue 07:58]--[2024-05-28 Tue 08:29] =>  0:31
+:END:
+
+*** [#A] How to save windows configuration in Emacs frame?
+SCHEDULED: <2024-05-28 Tue>
+- Note taken on [2024-05-28 Tue 07:41] \\
+  [[info:emacs#Frame Commands][emacs#Frame Commands]]
+- Note taken on [2024-05-28 Tue 07:36] \\
+  [[info:emacs#Creating Frames][emacs#Creating Frames]]
+- Note taken on [2024-05-28 Tue 07:28] \\
+  C-x r f <register> to store the frame layout into a register;
+  C-x r j <register> can restore it.
+  
+  C-x r w <register> to store the windows configuration into a register;
+  C-x r j <register> can restore it.
+:LOGBOOK:
+CLOCK: [2024-05-28 Tue 07:23]--[2024-05-28 Tue 07:47] =>  0:24
+:END:
+
+*** [#A] Emacs desktops
+SCHEDULED: <2024-05-28 Tue>
+- Note taken on [2024-05-28 Tue 07:54] \\
+  [[info:emacs#Saving Emacs Sessions][emacs#Saving Emacs Sessions]]
+:LOGBOOK:
+CLOCK: [2024-05-28 Tue 07:47]--[2024-05-28 Tue 07:54] =>  0:07
+:END:
 
 ** Org-mode
 :PROPERTIES:
