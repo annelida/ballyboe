@@ -863,4 +863,35 @@ evaluate queries interactively and display the results in multiple
 formats. sqlite3 can also be used within shell scripts and other
 applications to provide batch processing features.
 
+** Assembly language
+
+#+begin_quote
+Is any low-level programming language with a very strong
+correspondence between the instructions in the language and the
+architecture's machine code instructions.
+#+end_quote
+
+#+begin_quote
+Is a low-level programming language that provides a symbolic
+representation of a computer's machine code instructions. It is
+designed to be readable by humans and closely corresponds to the
+machine language instructions specific to a computer's architecture.
+#+end_quote
+
+#+begin_quote
+The conversion process is referred to as /assembly/, as in
+/assembling/ the source code.
+#+end_quote
+
+#+begin_quote
+The computational step when an assembler is processing a program is
+called /assembly time/.
+#+end_quote
+
+#+begin_quote
+An /assembler program/ creates object code by translating combinations
+of mnemonics and syntax for operations and addressing modes into their
+numerical equivalents.
+#+end_quote
+
 

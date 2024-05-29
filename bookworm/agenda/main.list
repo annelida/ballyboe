@@ -2792,8 +2792,19 @@ CLOCK: [2024-05-26 Sun 09:19]--[2024-05-26 Sun 09:41] =>  0:22
 *** [#B] Adding Static Files to application
 SCHEDULED: <2024-05-29 Wed>
 
-** [#A] Assemly language
+** [#A] Assembly language
 SCHEDULED: <2024-05-29 Wed>
+- Note taken on [2024-05-29 Wed 07:37] \\
+  [[https://en.wikipedia.org/wiki/Assembly_language]]
+  
+  An assembler program creates object code by translating combinations
+  of mnemonics and syntax for operations and addressing modes into their
+  numerical equivalents.
+:LOGBOOK:
+CLOCK: [2024-05-29 Wed 07:47]--[2024-05-29 Wed 07:59] =>  0:12
+CLOCK: [2024-05-29 Wed 07:31]--[2024-05-29 Wed 07:40] =>  0:09
+CLOCK: [2024-05-29 Wed 06:44]--[2024-05-29 Wed 07:20] =>  0:36
+:END:
 
 * Work
 :PROPERTIES:
