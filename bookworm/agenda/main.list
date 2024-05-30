@@ -2822,7 +2822,26 @@ CLOCK: [2024-05-24 Fri 11:50]--[2024-05-24 Fri 12:29] =>  0:39
 https://jinja.palletsprojects.com/en/3.1.x/templates/#template-file-extension
 *** [#A] Variables
 SCHEDULED: <2024-05-30 Thu>
+- Note taken on [2024-05-30 Thu 09:12] \\
+  In Jinja, variables are placeholders in your templates that get
+  replaced with values passed from your application. Jinja variables
+  are enclosed in double curly braces {{ }}. You can use these
+  variables to insert dynamic content into your HTML or other
+  text-based formats.
+
+  #+begin_src python :results output
+    from jinja2 import Template
+    tm = Template("The {{ animal }} is great!")
+    result = tm.render(animal = "Cat")
+    print(result)
+  #+end_src
+
+  #+RESULTS:
+  : The, Cat is great!
+  Jinja allows you to access items in dictionaries and lists.
+
 :LOGBOOK:
+CLOCK: [2024-05-30 Thu 09:06]--[2024-05-30 Thu 10:00] =>  0:54
 CLOCK: [2024-05-25 Sat 09:06]--[2024-05-25 Sat 09:06] =>  0:00
 :END:
 https://jinja.palletsprojects.com/en/3.1.x/templates/#variables
