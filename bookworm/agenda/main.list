@@ -2810,7 +2810,12 @@ CLOCK: [2024-05-24 Fri 11:34]--[2024-05-24 Fri 11:50] =>  0:16
 https://jinja.palletsprojects.com/en/3.1.x/templates/#synopsis
 *** [#A] Template file extension
 SCHEDULED: <2024-05-30 Thu>
+- Note taken on [2024-05-30 Thu 08:55] \\
+  Any file can be loaded as a template, regardless of file extension.
+  For identifying templates is that they are in a templates folder,
+  regardless of extension. This is a common layout for projects.
 :LOGBOOK:
+CLOCK: [2024-05-30 Thu 08:51]--[2024-05-30 Thu 08:56] =>  0:05
 CLOCK: [2024-05-25 Sat 07:24]--[2024-05-25 Sat 09:06] =>  1:42
 CLOCK: [2024-05-24 Fri 11:50]--[2024-05-24 Fri 12:29] =>  0:39
 :END:
