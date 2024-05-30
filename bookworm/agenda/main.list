@@ -2840,6 +2840,17 @@ SCHEDULED: <2024-05-30 Thu>
   : The, Cat is great!
   Jinja allows you to access items in dictionaries and lists.
 
+  #+begin_src python :results output
+    from jinja2 import Template
+    person = { 'name': 'Person', 'age': 34 }
+    tm = Template("My name is {{ per.name }} and I am {{ per.age }}")
+    msg = tm.render(per=person)
+    print(msg)
+  #+end_src
+
+  #+RESULTS:
+  : My name is Person and I am 34
+
 :LOGBOOK:
 CLOCK: [2024-05-30 Thu 09:06]--[2024-05-30 Thu 10:00] =>  0:54
 CLOCK: [2024-05-25 Sat 09:06]--[2024-05-25 Sat 09:06] =>  0:00
