@@ -491,7 +491,15 @@ Using Open Source Software
 
 *** RAW [#B] =helpful= package usage
 SCHEDULED: <2024-05-30 Thu ++2w>
+- Note taken on [2024-05-30 Thu 16:06] \\
+  The "Helpful" package in Emacs is an alternative to the built-in Emacs
+  help system that offers more contextual information and enhanced
+  features.
+  Call specific commands like helpful-callable, helpful-function,
+  helpful-macro, helpful-command, helpful-key, helpful-variable, and
+  helpful-at-point to access different types of information.
 :LOGBOOK:
+CLOCK: [2024-05-30 Thu 15:51]--[2024-05-30 Thu 16:06] =>  0:15
 CLOCK: [2024-03-20 Wed 18:24]--[2024-03-20 Wed 18:24] =>  0:00
 :END:
 
