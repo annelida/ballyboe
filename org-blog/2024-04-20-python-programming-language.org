@@ -145,7 +145,6 @@ These keywords enable the creation and manipulation of functions:
 ~yield~ Is a powerful tool for creating generators. It's used when you
 need to iterate over a sequence of values efficiently
 
-
 * Definitions
 
 ** What is a programming language whatever?
@@ -240,6 +239,10 @@ program execution.
 ** What is programming paradigm?
 
 #+begin_quote
+A model of something, or very clear and typical example of something.
+#+end_quote
+
+#+begin_quote
 A /programming paradigm/ is a method or style of programming that
 defines a set of principles, techniques, and patterns for structuring
 code to solve problems on a computer.
@@ -330,10 +333,55 @@ async      elif       if         or         yield
 | raise        | Raise an exception                                 |
 
 
-
 * Questions
 ** Is Python compiled language?
 ** Is Python interpreted language?
+* Data model
+** Objects, values and types
+
+/Objects/ are Python’s abstraction for data.  All data in a Python
+program is represented by objects or by relations between objects.
+
+Every object has an identity, a type and a value.
+
+*** Object identity
+
+Object identity refers to the unique integer value that identifies an
+object. This identity is unique during the lifetime of the object and
+remains constant throughout its lifetime. It can be thought of as the
+object's address in memory.
+
+~is~ operator compares the identity of two objects; the ~id()~
+function returns an integer representing its identity.
+
+#+begin_src python :results output
+  a = 10
+  b = 15
+  print(id(a))
+  print(id(b))
+#+end_src
+
+#+RESULTS:
+: 10861480
+: 10861640
+
+#+begin_src python :results output
+  a = [1, 2, 3]
+  b = a
+  c = [1, 2, 3]
+  print(a is b)
+  print(a is c)
+  print(a == c)
+#+end_src
+
+#+RESULTS:
+: True
+: False
+: True
+
+Use ~is~ to check if two variables reference the same object;
+Use == to check if two variables have the same value.
+
 * Notes                                                            :noexport:
 
 
