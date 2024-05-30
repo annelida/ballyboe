@@ -1114,12 +1114,15 @@ CLOCK: [2024-04-22 Mon 08:24]--[2024-04-22 Mon 09:09] =>  0:45
 [[info:python3.11#The Python Language Reference][python3.11#The Python Language Reference]]
 
 ****  [#A] Python Data model
-SCHEDULED: <2024-05-30 Thu>
+SCHEDULED: <2024-05-31 Fri>
 :LOGBOOK:
+CLOCK: [2024-05-30 Thu 08:11]--[2024-05-30 Thu 08:42] =>  0:31
+CLOCK: [2024-05-30 Thu 07:19]--[2024-05-30 Thu 07:52] =>  0:33
 CLOCK: [2024-05-13 Mon 07:12]--[2024-05-13 Mon 07:45] =>  0:33
 CLOCK: [2024-05-11 Sat 09:05]--[2024-05-11 Sat 09:35] =>  0:30
 :END:
 [[info:python3.11#Data model][python3.11#Data model]]
+[[info:python3.11#Objects values and types][python3.11#Objects values and types]]
 
 *** What does the Python programming language consists of?
 SCHEDULED: <2024-05-30 Thu>
