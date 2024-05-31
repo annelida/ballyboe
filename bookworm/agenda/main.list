@@ -2058,9 +2058,24 @@ CLOCK: [2024-05-29 Wed 11:03]--[2024-05-29 Wed 11:06] =>  0:03
 https://flask.palletsprojects.com/en/3.0.x/quickstart/#html-escaping
 **** RAW [#A] Routing
 SCHEDULED: <2024-05-31 Fri>
+:LOGBOOK:
+CLOCK: [2024-05-31 Fri 12:23]--[2024-05-31 Fri 12:33] =>  10:00
+:END:
 https://flask.palletsprojects.com/en/3.0.x/quickstart/#routing
 **** RAW [#A] Static Files
 SCHEDULED: <2024-05-31 Fri>
+:LOGBOOK:
+CLOCK: [2024-05-31 Fri 12:34]--[2024-05-31 Fri 12:38] =>  0:04
+:END:
+- Note taken on [2024-05-31 Fri 12:29] \\
+  The CSS and JavaScript files are available from folder /static which
+  must be located inside your application folder.
+
+  To generate URLs for static files, use
+
+  ~url_for('static', filename='style.css')~
+
+  The file has to be stored on the filesystem as static/style.css.
 https://flask.palletsprojects.com/en/3.0.x/quickstart/#static-files
 **** RAW [#A] Rendering Templates
 SCHEDULED: <2024-05-31 Fri>
