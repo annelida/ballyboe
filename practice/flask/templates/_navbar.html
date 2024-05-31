@@ -11,29 +11,29 @@
           <a class="brand" href="{{ url_for('home')}}">Bootstrap</a>
           <div class="nav-collapse">
             <ul class="nav">
-              <li class="active">
+              <li class="{{'active' if active_page == 'home' }}">
                 <a href="{{ url_for('home')}}">Overview</a>
               </li>
-              <li class="">
+              <li class="{{'active' if active_page == 'scaffolding' }}">
                 <a href="{{ url_for('scaffolding')}}">Scaffolding</a>
               </li>
-              <li class="">
+              <li class="{{'active' if active_page == 'base' }}">
                 <a href="{{ url_for('base')}}">Base CSS</a>
               </li>
-              <li class="">
+              <li class="{{'active' if active_page == 'components' }}">
                 <a href="{{ url_for('components')}}">Components</a>
               </li>
-              <li class="">
+              <li class="{{'active' if active_page == 'javascript' }}">
                 <a href="{{ url_for('javascript')}}">Javascript plugins</a>
               </li>
-              <li class="">
+              <li class="{{'active' if active_page == 'less' }}">
                 <a href="{{ url_for('less')}}">Using LESS</a>
               </li>
               <li class="divider-vertical"></li>
-              <li class="">
+              <li class="{{'active' if active_page == 'download' }}">
                 <a href="{{url_for('download')}}">Customize</a>
               </li>
-              <li class="">
+              <li class="{{'active' if active_page == 'examples' }}">
                 <a href="{{url_for('examples')}}">Examples</a>
               </li>
             </ul>
