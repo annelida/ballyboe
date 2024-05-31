@@ -382,6 +382,26 @@ function returns an integer representing its identity.
 Use ~is~ to check if two variables reference the same object;
 Use == to check if two variables have the same value.
 
+*** An object's type and value
+
+An object’s type determines the operations that the object supports
+and also defines the possible values for objects of that type.
+~type()~ function returns an object’s type. Like its identity, an
+object’s ‘type’ is also unchangeable.
+
+#+begin_src python :results output
+  x = 5
+  print(type(x))
+#+end_src
+
+#+RESULTS:
+: <class 'int'>
+
+The ‘value’ of some objects can change. Objects whose value can change
+are said to be /mutable/; objects whose value is unchangeable once
+they are created are called /immutable/. Numbers, strings and tuples
+are /immutable/, while dictionaries and lists are /mutable/.
+
 * Notes                                                            :noexport:
 
 
