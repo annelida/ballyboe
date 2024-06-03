@@ -402,6 +402,24 @@ are said to be /mutable/; objects whose value is unchangeable once
 they are created are called /immutable/. Numbers, strings and tuples
 are /immutable/, while dictionaries and lists are /mutable/.
 
+Some objects contain references to other objects; these are called
+/containers/. Examples of containers are tuples, lists and
+dictionaries.
+
+#+begin_src python :results output
+  my_list = [
+    "hello",
+    42,
+    3,56,
+    [1, 2, 3],
+    {'key': 'value'}
+    ]
+  print(my_list)
+#+end_src
+
+#+RESULTS:
+: ['hello', 42, 3, 56, [1, 2, 3], {'key': 'value'}]
+
 * Notes                                                            :noexport:
 
 
