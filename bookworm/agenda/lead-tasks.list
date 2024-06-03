@@ -457,3 +457,29 @@ Guide to Emacs --> Just watch it 25 minutes
 And *notice* the details, please!
 [[https://www.youtube.com/watch?v=48JlgiBpw_I]]
 https://www.youtube.com/watch?v=bEfYm8sAaQg
+
+* Computer Science
+:PROPERTIES:
+:CATEGORY: CS
+:END:
+
+** [#A] Data structures in CS
+SCHEDULED: <2024-06-03 Mon ++1d>
+https://realpython.com/python-data-structures/#toc
+
+
+** Algorithms in CS
+SCHEDULED: <2024-06-03 Mon ++1w>
+
+
+** Algorithm's Time Complexity O(n)
+SCHEDULED: <2024-06-04 Tue>
+:PROPERTIES:
+:CATEGORY: O(1)
+:END:
+
+* Python
+
+** Python built-in functions
+SCHEDULED: <2024-06-04 Tue>
+[[/home/vikky/git/0--key/org-pub/2016-09-13-python-built-in-functions.org][Read, comprehend and extend it, please]]
