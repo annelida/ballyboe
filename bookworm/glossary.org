@@ -863,6 +863,18 @@ evaluate queries interactively and display the results in multiple
 formats. sqlite3 can also be used within shell scripts and other
 applications to provide batch processing features.
 
+** Regular expression
+
+Is a pattern that denotes a class of alternative strings to match.
+
+Regular expressions have a syntax in which a few characters are
+special constructs and the rest are ordinary.
+
+#+begin_quote
+Is a sequence of characters that specifies a match pattern in text.
+#+end_quote
+
+
 ** Assembly language
 
 #+begin_quote
@@ -893,5 +905,16 @@ An /assembler program/ creates object code by translating combinations
 of mnemonics and syntax for operations and addressing modes into their
 numerical equivalents.
 #+end_quote
+
+** The von Neumann model
+
+#+begin_quote
+Consists of five parts: memory, a processing unit, input, output, and
+a control unit. The computer program is contained in the computer's
+memory. The control of the order in which the instructions are carried
+out is performed by the control unit.
+#+end_quote
+
+
 
 
