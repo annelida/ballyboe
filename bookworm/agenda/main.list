@@ -77,10 +77,11 @@ CLOCK: [2024-04-12 Fri 07:12]--[2024-04-12 Fri 08:12] =>  1:00
 *** Working with transcripts
 
 **** "How to Learn Anything Fast: Teach Your Brain to Focus"
-SCHEDULED: <2024-06-02 Sun ++2w>
+SCHEDULED: <2024-06-16 Sun ++2w>
 :PROPERTIES:
-:LAST_REPEAT: [2024-05-19 Sun 19:12]
+:LAST_REPEAT: [2024-06-02 Sun 18:06]
 :END:
+- State "AMPLE"      from ""           [2024-06-02 Sun 18:06]
 - State "AMPLE"      from ""           [2024-05-19 Sun 19:12]
 - State "AMPLE"      from ""           [2024-05-06 Mon 12:01]
 - State "AMPLE"      from ""           [2024-04-20 Sat 16:59]
@@ -113,7 +114,7 @@ SCHEDULED: <2024-02-10 Sat>
 *** Grammar
 **** BBC Learning English
 ***** [#C] Inderect questions
-SCHEDULED: <2024-05-31 Fri ++2w>
+SCHEDULED: <2024-06-03 Mon ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-05-17 Fri 07:16]
 :END:
@@ -127,7 +128,7 @@ CLOCK: [2024-02-09 Fri 12:23]--[2024-02-09 Fri 12:42] =>  0:19
 :END:
 [[https://www.bbc.co.uk/learningenglish/english/course/lower-intermediate/unit-21/session-2/activity-3]]
 ***** Tense tour
-SCHEDULED: <2024-06-02 Sun ++2w>
+SCHEDULED: <2024-06-04 Tue ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-05-19 Sun 19:15]
 :END:
@@ -167,7 +168,7 @@ CLOCK: [2024-02-21 Wed 09:38]--[2024-02-21 Wed 09:54] =>  0:16
 :END:
 https://www.bbc.co.uk/learningenglish/english/course/lower-intermediate/unit-1/session-2/activity-4
 ***** [#C] "Like" for preference and description
-SCHEDULED: <2024-05-31 Fri ++2w>
+SCHEDULED: <2024-06-03 Mon ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-04-30 Tue 18:19]
 :END:
@@ -177,7 +178,7 @@ SCHEDULED: <2024-05-31 Fri ++2w>
 CLOCK: [2024-03-01 Fri 10:32]--[2024-03-01 Fri 11:03] =>  0:31
 :END:
 [[https://www.bbc.co.uk/learningenglish/english/course/lower-intermediate/unit-3/session-2/activity-4]]
-***** Adverbs of frequency
+***** [#C] Adverbs of frequency
 SCHEDULED: <2024-06-03 Mon ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-03-05 Tue 18:43]
@@ -216,7 +217,7 @@ CLOCK: [2024-03-19 Tue 12:02]--[2024-03-19 Tue 17:30] =>  5:28
 :END:
 [https://www.bbc.co.uk/learningnglish/english/course/lower-intermediate/unit-7/session-2/activity-4]
 ***** [#C] Articles
-SCHEDULED: <2024-05-31 Fri ++2w>
+SCHEDULED: <2024-06-03 Mon ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-04-30 Tue 18:19]
 :END:
@@ -238,7 +239,7 @@ CLOCK: [2024-04-21 Sun 09:40]--[2024-04-21 Sun 10:13] =>  0:33
 :END:
 [[https://learnenglish.britishcouncil.org/grammar/english-grammar-reference/personal-pronouns]]
 ****** [#C] 'it' and 'there' as dummy subjects
-SCHEDULED: <2024-05-31 Fri ++1w>
+SCHEDULED: <2024-06-03 Mon ++1w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-05-24 Fri 19:52]
 :END:
@@ -259,7 +260,7 @@ CLOCK: [2024-04-23 Tue 07:07]--[2024-04-23 Tue 07:27] =>  0:20
 
 https://learnenglish.britishcouncil.org/grammar/english-grammar-reference/possessive-pronouns
 ****** [#C] Demonstratives
-SCHEDULED: <2024-05-31 Fri ++2w>
+SCHEDULED: <2024-06-03 Mon ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-05-17 Fri 07:15]
 :END:
@@ -275,7 +276,7 @@ CLOCK: [2024-04-25 Thu 07:11]--[2024-04-25 Thu 07:40] =>  0:29
 :END:
 [https://learnenglish.britishcouncil.org/grammar/english-grammar-reference/demonstratives]
 ****** [#C] 'one' and 'ones'
-SCHEDULED: <2024-05-31 Fri ++2d>
+SCHEDULED: <2024-06-03 Mon ++2d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-05-19 Sun 19:15]
 :END:
@@ -300,7 +301,7 @@ CLOCK: [2024-05-03 Fri 07:11]--[2024-05-03 Fri 07:11] =>  0:00
 :END:
 https://learnenglish.britishcouncil.org/grammar/english-grammar-reference/pronouns-questions
 ****** [#C] Reflexive pronouns
-SCHEDULED: <2024-05-31 Fri ++2w>
+SCHEDULED: <2024-06-03 Mon ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-05-10 Fri 18:02]
 :END:
@@ -321,7 +322,7 @@ CLOCK: [2024-05-17 Fri 07:16]--[2024-05-17 Fri 07:48] =>  0:32
 :END:
 [[https://learnenglish.britishcouncil.org/grammar/english-grammar-reference/reciprocal-pronouns]]
 ****** [#C] Indefinite pronouns
-SCHEDULED: <2024-05-31 Fri>
+SCHEDULED: <2024-06-03 Mon>
 :LOGBOOK:
 CLOCK: [2024-05-21 Tue 11:20]--[2024-05-21 Tue 11:49] =>  0:29
 :END:
@@ -344,7 +345,7 @@ CLOCK: [2024-03-01 Fri 11:03]--[2024-03-01 Fri 11:14] =>  0:11
 :END:
 [[https://www.bbc.co.uk/sounds/play/p0hf8wg1]]
 **** [#C] A million to one
-SCHEDULED: <2024-05-31 Fri ++2w>
+SCHEDULED: <2024-06-03 Mon ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-04-30 Tue 18:19]
 :END:
@@ -383,7 +384,7 @@ CLOCK: [2023-12-20 Wed 09:55]--[2023-12-20 Wed 10:45] =>  0:50
 CLOCK: [2023-12-19 Tue 09:15]--[2023-12-19 Tue 09:18] =>  0:03
 :END:
 *** DELAY MAN df
-SCHEDULED: <2024-06-02 Sun ++1w>
+SCHEDULED: <2024-06-05 Wed ++1w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-04-29 Mon 18:43]
 :END:
@@ -490,7 +491,7 @@ Avoiding Standard Software Risks
 Using Open Source Software
 
 *** RAW [#C] =helpful= package usage
-SCHEDULED: <2024-05-31 Fri ++2w>
+SCHEDULED: <2024-06-03 Mon ++2w>
 - Note taken on [2024-05-30 Thu 16:06] \\
   The "Helpful" package in Emacs is an alternative to the built-in Emacs
   help system that offers more contextual information and enhanced
@@ -544,7 +545,7 @@ types_operations.org
 : types_operations.org
 
 *** [#C] How ho check which Debian distro are you using
-SCHEDULED: <2024-05-31 Fri>
+SCHEDULED: <2024-06-03 Mon>
 
 #+begin_src sh :results output
 hostnamectl
@@ -1066,7 +1067,7 @@ SCHEDULED: <2024-05-12 Sun>
 :END:
 
 **** DELAY Tutorial
-SCHEDULED: <2024-06-01 Sat ++2d>
+SCHEDULED: <2024-06-04 Tue ++2d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-05-24 Fri 19:57]
 :END:
@@ -1089,7 +1090,7 @@ CLOCK: [2024-04-16 Tue 07:23]--[2024-04-16 Tue 08:38] =>  1:15
 [[info:python3.11#An Informal Introduction to Python][python3.11#An Informal Introduction to Python]]
 
 **** Python Setup and Usage
-SCHEDULED: <2024-06-02 Sun ++2w>
+SCHEDULED: <2024-06-05 Wed ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-05-13 Mon 18:56]
 :END:
@@ -1103,7 +1104,7 @@ CLOCK: [2024-04-23 Tue 07:44]--[2024-04-23 Tue 08:17] =>  0:33
 [[info:python3.11#Python Setup and Usage][python3.11#Python Setup and Usage]]
 
 **** [#C] Python Language Reference
-SCHEDULED: <2024-05-31 Fri ++1w>
+SCHEDULED: <2024-06-03 Mon ++1w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-05-24 Fri 19:54]
 :END:
@@ -1122,7 +1123,7 @@ CLOCK: [2024-04-22 Mon 08:24]--[2024-04-22 Mon 09:09] =>  0:45
 [[info:python3.11#The Python Language Reference][python3.11#The Python Language Reference]]
 
 ****  [#A] Python Data model
-SCHEDULED: <2024-06-03 Mon>
+SCHEDULED: <2024-06-04 Tue>
 :LOGBOOK:
 CLOCK: [2024-06-03 Mon 07:59]--[2024-06-03 Mon 08:50] =>  0:51
 CLOCK: [2024-05-31 Fri 08:02]--[2024-05-31 Fri 08:10] =>  0:08
@@ -1136,7 +1137,7 @@ CLOCK: [2024-05-11 Sat 09:05]--[2024-05-11 Sat 09:35] =>  0:30
 [[info:python3.11#Objects values and types][python3.11#Objects values and types]]
 
 *** What does the Python programming language consists of?
-SCHEDULED: <2024-05-31 Fri>
+SCHEDULED: <2024-06-03 Mon>
 :LOGBOOK:
 CLOCK: [2024-05-26 Sun 08:42]--[2024-05-26 Sun 09:13] =>  0:31
 :END:
@@ -1144,8 +1145,9 @@ CLOCK: [2024-05-26 Sun 08:42]--[2024-05-26 Sun 09:13] =>  0:31
 Schema
 
 *** [#A] The compiler itself
-SCHEDULED: <2024-05-31 Fri>
+SCHEDULED: <2024-06-03 Mon>
 :LOGBOOK:
+CLOCK: [2024-06-03 Mon 09:26]--[2024-06-03 Mon 09:34] =>  0:08
 CLOCK: [2024-05-31 Fri 08:49]--[2024-05-31 Fri 09:16] =>  0:27
 CLOCK: [2024-05-31 Fri 08:14]--[2024-05-31 Fri 08:34] =>  0:20
 CLOCK: [2024-05-28 Tue 09:06]--[2024-05-28 Tue 09:38] =>  0:32
@@ -1298,7 +1300,7 @@ Object's methods are functions that belong to the object.
 : The student's name is Tony Black
 
 *** Selenium inside Emacs
-SCHEDULED: <2024-06-03 Mon ++2w>
+SCHEDULED: <2024-06-08 Sat ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-16 Thu 09:23]
 :CATEGORY: Python
@@ -1918,7 +1920,7 @@ Locating elements
 [[https://playwright.dev/python/docs/locators]]
 
 *** RAW [#B] Dictionaries
-SCHEDULED: <2024-05-31 Fri>
+SCHEDULED: <2024-06-03 Mon>
 :PROPERTIES:
 :CATEGORY: Python
 :END:
@@ -1951,7 +1953,7 @@ SCHEDULED: <2024-07-09 Tue ++2w>
 CLOCK: [2024-01-12 Fri 10:28]--[2024-01-12 Fri 11:01] =>  0:33
 :END:
 *** [#B] UnitTest *info* studying
-SCHEDULED: <2024-06-03 Mon>
+SCHEDULED: <2024-06-05 Wed>
 :PROPERTIES:
 :CATEGORY: Python
 :END:
@@ -1978,7 +1980,7 @@ CLOCK: [2024-04-19 Fri 11:13]--[2024-04-19 Fri 11:53] =>  0:40
 
 [[file:~/git/annelida/ballyboe/org-blog/2023-11-07-Python-venv.org::*Creating a Python virtual environment on a Debian-based system][Python virtual environment on a Debian-based system]]
 *** [#C] Python Programming Language basics
-SCHEDULED: <2024-05-31 Fri>
+SCHEDULED: <2024-06-03 Mon>
 :LOGBOOK:
 CLOCK: [2024-05-23 Thu 10:14]--[2024-05-23 Thu 11:05] =>  0:51
 CLOCK: [2024-05-23 Thu 09:43]--[2024-05-23 Thu 10:04] =>  0:21
@@ -2057,14 +2059,23 @@ CLOCK: [2024-05-29 Wed 11:14]--[2024-05-29 Wed 11:21] =>  0:07
 CLOCK: [2024-05-29 Wed 11:03]--[2024-05-29 Wed 11:06] =>  0:03
 :END:
 https://flask.palletsprojects.com/en/3.0.x/quickstart/#html-escaping
-**** RAW [#A] Routing
-SCHEDULED: <2024-05-31 Fri>
+**** DELAY [#A] Routing
+SCHEDULED: <2024-06-28 Fri ++2w>
+:PROPERTIES:
+:LAST_REPEAT: [2024-06-02 Sun 18:00]
+:END:
+- State "AMPLE"      from "DELAY"      [2024-06-02 Sun 18:00]
+- State "AMPLE"      from "DELAY"      [2024-06-02 Sun 18:00]
 :LOGBOOK:
 CLOCK: [2024-05-31 Fri 12:23]--[2024-05-31 Fri 12:33] =>  10:00
 :END:
 https://flask.palletsprojects.com/en/3.0.x/quickstart/#routing
-**** RAW [#A] Static Files
-SCHEDULED: <2024-05-31 Fri>
+**** DELAY [#A] Static Files
+SCHEDULED: <2024-06-14 Fri ++2w>
+:PROPERTIES:
+:LAST_REPEAT: [2024-06-02 Sun 18:01]
+:END:
+- State "AMPLE"      from "DELAY"      [2024-06-02 Sun 18:01]
 :LOGBOOK:
 CLOCK: [2024-05-31 Fri 12:34]--[2024-05-31 Fri 12:38] =>  0:04
 :END:
@@ -2079,7 +2090,7 @@ CLOCK: [2024-05-31 Fri 12:34]--[2024-05-31 Fri 12:38] =>  0:04
   The file has to be stored on the filesystem as static/style.css.
 https://flask.palletsprojects.com/en/3.0.x/quickstart/#static-files
 **** RAW [#A] Rendering Templates
-SCHEDULED: <2024-05-31 Fri>
+SCHEDULED: <2024-06-03 Mon>
 https://flask.palletsprojects.com/en/3.0.x/quickstart/#rendering-templates
 **** RAW Accessing Request Data
 https://flask.palletsprojects.com/en/3.0.x/quickstart/#accessing-request-data
@@ -2171,12 +2182,12 @@ CLOCK: [2024-05-16 Thu 07:12]--[2024-05-16 Thu 07:27] =>  0:15
 :END:
 
 *** [#B] Eww commands brief description
-SCHEDULED: <2024-05-31 Fri>
+SCHEDULED: <2024-06-03 Mon>
 
 The three column table: Key, command, description
 
 *** [#B] Emacs' regexp
-SCHEDULED: <2024-05-31 Fri>
+SCHEDULED: <2024-06-03 Mon>
 - Note taken on [2024-05-28 Tue 08:28] \\
   M-x re-builder command provides a convenient interface for creating
   and testing regular expressions.  As you edit the regexp, all its
@@ -2285,7 +2296,7 @@ CLOCK: [2023-10-26 Thu 07:54]--[2023-10-26 Thu 08:52] =>  0:58
 [[https://orgmode.org/manual/Structure-Templates.html][org templates structure]]
 
 *** DELAY Org-drill concept
-SCHEDULED: <2024-06-01 Sat ++2w>
+SCHEDULED: <2024-06-07 Fri ++2w>
 :PROPERTIES:
 :CATEGORY: Drill
 :END:
@@ -2365,7 +2376,7 @@ CLOCK: [2023-12-03 Sun 13:04]--[2023-12-03 Sun 13:32] =>  0:28
 [[info:org#Capture templates][org#Capture templates]]
 
 *** [#B] Org-mode keys
-SCHEDULED: <2024-05-31 Fri>
+SCHEDULED: <2024-06-03 Mon>
 :LOGBOOK:
 CLOCK: [2024-05-29 Wed 15:38]--[2024-05-29 Wed 16:37] =>  0:59
 :END:
@@ -2747,7 +2758,7 @@ CLOCK: [2024-01-04 Thu 12:11]--[2024-01-04 Thu 12:13] =>  0:02
   version
 
 ** [#B] Databases fundamentals
-SCHEDULED: <2024-05-31 Fri>
+SCHEDULED: <2024-06-03 Mon>
 :PROPERTIES:
 :CATEGORY: DB
 :END:
@@ -2765,7 +2776,7 @@ CLOCK: [2024-05-21 Tue 15:39]--[2024-05-21 Tue 16:09] =>  0:30
 :PROPERTIES:
 :END:
 **** [#B] The studying of the SQLite3 manual
-SCHEDULED: <2024-05-31 Fri>
+SCHEDULED: <2024-06-03 Mon>
 [[file:~/git/annelida/ballyboe/org-blog/2024-05-10-sqlite3-basics.org::*How to connect to SQLite sample database][How to connect to SQLite sample database]]
 
 - Note taken on [2024-05-10 Fri 18:06] \\
@@ -2832,7 +2843,7 @@ CLOCK: [2024-05-02 Thu 07:10]--[2024-05-02 Thu 08:44] =>  1:34
 CLOCK: [2024-05-01 Wed 11:01]--[2024-05-01 Wed 11:26] =>  0:25
 :END:
 *** Synopsis
-SCHEDULED: <2024-05-31 Fri ++1w>
+SCHEDULED: <2024-06-03 Mon ++1w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-05-24 Fri 19:54]
 :END:
@@ -2908,7 +2919,7 @@ https://jinja.palletsprojects.com/en/3.1.x/templates/#whitespace-control
 *** Escaping
 https://jinja.palletsprojects.com/en/3.1.x/templates/#escaping
 *** [#A] Navbar 'active' link
-SCHEDULED: <2024-05-31 Fri>
+SCHEDULED: <2024-06-04 Tue>
 :LOGBOOK:
 CLOCK: [2024-05-31 Fri 09:53]--[2024-05-31 Fri 10:42] =>  0:49
 :END:
@@ -2926,11 +2937,10 @@ CLOCK: [2024-05-26 Sun 09:19]--[2024-05-26 Sun 09:41] =>  0:22
 
 [[file:~/git/annelida/ballyboe/org-blog/2024-05-25-jinja-templating.org::*Rendering Jinja template variable][Rendering Jinja template variable]]
 
-*** [#A] Adding Static Files to application
-SCHEDULED: <2024-05-31 Fri>
+*** AMPLE [#A] Adding Static Files to application
 
-** [#C] Assembly language
-SCHEDULED: <2024-05-31 Fri>
+** [#A] Assembly language
+SCHEDULED: <2024-06-03 Mon>
 - Note taken on [2024-05-29 Wed 07:37] \\
   [[https://en.wikipedia.org/wiki/Assembly_language]]
 
@@ -2953,7 +2963,7 @@ SCHEDULED: <2024-06-07 Fri>
 ** DELAY [#B] Portfolio creation
 SCHEDULED: <2024-06-27 Thu>
 ** DELAY [#A] CV elaboration
-SCHEDULED: <2024-06-03 Mon>
+SCHEDULED: <2024-06-05 Wed>
 :LOGBOOK:
 CLOCK: [2024-04-28 Sun 09:00]--[2024-04-28 Sun 09:35] =>  0:35
 CLOCK: [2024-04-28 Sun 07:14]--[2024-04-28 Sun 08:41] =>  1:27
@@ -3188,7 +3198,7 @@ SCHEDULED: <2024-06-29 Sat ++2w>
 
 - State "DONE"       from "Active"     [2023-12-13 Wed 11:24]
 ****** DELAY [#C] Logic
-SCHEDULED: <2024-06-01 Sat>
+SCHEDULED: <2024-06-12 Wed>
 :PROPERTIES:
 :CATEGORY: CS
 :END:
@@ -3239,11 +3249,13 @@ CLOCK: [2023-11-28 Tue 18:27]--[2023-11-28 Tue 18:33] =>  0:06
 - State "DONE"       from "Active"     [2023-11-23 Thu 15:54]
 * Events
 ** Preparation to meeting with Roisin
-SCHEDULED: <2024-05-31 Fri ++1w>
+SCHEDULED: <2024-06-14 Fri ++1w>
 :PROPERTIES:
 :CATEGORY: Speacking
-:LAST_REPEAT: [2024-05-24 Fri 19:34]
+:LAST_REPEAT: [2024-06-02 Sun 18:02]
 :END:
+- State "AMPLE"      from ""           [2024-06-02 Sun 18:02]
+- State "AMPLE"      from ""           [2024-06-02 Sun 18:02]
 - State "AMPLE"      from ""           [2024-05-24 Fri 19:34]
 - State "AMPLE"      from ""           [2024-05-17 Fri 11:09]
 - State "AMPLE"      from ""           [2024-05-10 Fri 18:02]
@@ -3280,7 +3292,7 @@ CLOCK: [2024-04-22 Mon 09:39]--[2024-04-22 Mon 10:10] =>  0:31
 ** DELAY [#C] Python programming language brief overview diagram
 SCHEDULED: <2024-06-10 Mon>
 ** RAW [#C]Work with links in Emacs with Bookmarks+
-SCHEDULED: <2024-05-31 Fri>
+SCHEDULED: <2024-06-04 Tue>
 :LOGBOOK:
 CLOCK: [2024-05-15 Wed 09:48]--[2024-05-15 Wed 10:08] =>  0:20
 :END:
