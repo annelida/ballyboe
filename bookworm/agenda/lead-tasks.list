@@ -12,10 +12,12 @@
 #+TODO: DELAY LAG RETARD | BARE
 
 * Genuine source of knowledge
-SCHEDULED: <2024-06-03 Mon ++1d>
+SCHEDULED: <2024-06-05 Wed ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-06-02 Sun 18:05]
+:LAST_REPEAT: [2024-06-04 Tue 19:05]
 :END:
+- State "AMPLE"      from ""           [2024-06-04 Tue 19:05]
+- State "AMPLE"      from ""           [2024-06-03 Mon 19:56]
 - State "AMPLE"      from ""           [2024-06-02 Sun 18:05]
 - State "AMPLE"      from ""           [2024-05-30 Thu 19:50]
 - State "AMPLE"      from ""           [2024-05-29 Wed 17:21]
@@ -95,10 +97,12 @@ about how the program works are:
 --* INIT Conclusion*: the wisest decision is just to use it properly!
 
 * Deliberate practice
-SCHEDULED: <2024-06-03 Mon ++1d>
+SCHEDULED: <2024-06-05 Wed ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-06-02 Sun 18:05]
+:LAST_REPEAT: [2024-06-04 Tue 19:05]
 :END:
+- State "AMPLE"      from ""           [2024-06-04 Tue 19:05]
+- State "AMPLE"      from ""           [2024-06-03 Mon 19:56]
 - State "AMPLE"      from ""           [2024-06-02 Sun 18:05]
 - State "AMPLE"      from ""           [2024-05-30 Thu 19:50]
 - State "AMPLE"      from ""           [2024-05-29 Wed 17:21]
@@ -191,7 +195,7 @@ CLOCK: [2023-11-24 Fri 08:31]--[2023-11-24 Fri 09:02] =>  0:31
 when you do challenging but indispensable tasks by yourself
 
 * RAW [#B] Help about *Help*
-SCHEDULED: <2024-06-03 Mon ++1d>
+SCHEDULED: <2024-06-05 Wed ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-01-30 Tue 14:56]
 :CATEGORY: Emacs
@@ -272,7 +276,7 @@ Stack-Overflow suggestions and notes. Bear this fact in mind do your
 job as it would be done in a sure and fire manner.
 
 ** DELAY [#A] *Python* embedded help system
-SCHEDULED: <2024-06-04 Tue ++2d/3d>
+SCHEDULED: <2024-06-07 Fri ++2d/3d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-05-12 Sun 18:24]
 :CATEGORY: Python
@@ -303,7 +307,7 @@ CLOCK: [2024-03-07 Thu 10:40]--[2024-03-07 Thu 10:57] =>  0:17
 - State "DONE"       from "ACTIVE"     [2023-11-09 Thu 18:41]
 - State "DONE"       from "ACTIVE"     [2023-11-07 Tue 18:21]
 ** *Selenium* package review
-SCHEDULED: <2024-06-04 Tue ++1d>
+SCHEDULED: <2024-06-08 Sat ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-05-26 Sun 19:32]
 :END:
@@ -373,7 +377,7 @@ Very straighforward system out from 10 initial keys to use in embedded
 *Help* browser.OA To use several *Help* buffers use =M-x raname uniquely=
 
 * RAW [#B] Help about *info*
-SCHEDULED: <2024-06-03 Mon ++1d>
+SCHEDULED: <2024-06-05 Wed ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-01-30 Tue 14:56]
 :CATEGORY: Emacs
@@ -426,10 +430,12 @@ Mostly the similar approach with several quirks
 [[file:~/git/annelida/ballyboe/org-blog/2024-05-26-Emacs-help-about-help.org::*The list of commands, which began with C-h prefix][The list of commands, which began with C-h prefix and Info commands]]
 
 * Task decomposition
-SCHEDULED: <2024-06-03 Mon ++1d>
+SCHEDULED: <2024-06-05 Wed ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-06-02 Sun 18:05]
+:LAST_REPEAT: [2024-06-04 Tue 19:05]
 :END:
+- State "AMPLE"      from ""           [2024-06-04 Tue 19:05]
+- State "AMPLE"      from ""           [2024-06-03 Mon 19:56]
 - State "AMPLE"      from ""           [2024-06-02 Sun 18:05]
 - State "AMPLE"      from ""           [2024-05-30 Thu 19:50]
 - State "AMPLE"      from ""           [2024-05-29 Wed 17:21]
@@ -464,22 +470,27 @@ https://www.youtube.com/watch?v=bEfYm8sAaQg
 :END:
 
 ** [#A] Data structures in CS
-SCHEDULED: <2024-06-03 Mon ++1d>
+SCHEDULED: <2024-06-05 Wed ++1d>
+:LOGBOOK:
+CLOCK: [2024-06-04 Tue 08:56]--[2024-06-04 Tue 09:45] =>  0:49
+CLOCK: [2024-06-04 Tue 07:33]--[2024-06-04 Tue 07:36] =>  0:03
+CLOCK: [2024-06-03 Mon 14:29]--[2024-06-03 Mon 15:34] =>  1:05
+:END:
 https://realpython.com/python-data-structures/#toc
 
 
-** Algorithms in CS
-SCHEDULED: <2024-06-03 Mon ++1w>
+** [#A] Algorithms in CS
+SCHEDULED: <2024-06-05 Wed ++1w>
 
 
-** Algorithm's Time Complexity O(n)
-SCHEDULED: <2024-06-04 Tue>
+** [#A] Algorithm's Time Complexity O(n)
+SCHEDULED: <2024-06-06 Thu>
 :PROPERTIES:
 :CATEGORY: O(1)
 :END:
 
 * Python
 
-** Python built-in functions
-SCHEDULED: <2024-06-04 Tue>
+** [#A] Python built-in functions
+SCHEDULED: <2024-06-05 Wed>
 [[/home/vikky/git/0--key/org-pub/2016-09-13-python-built-in-functions.org][Read, comprehend and extend it, please]]
