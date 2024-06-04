@@ -915,6 +915,29 @@ memory. The control of the order in which the instructions are carried
 out is performed by the control unit.
 #+end_quote
 
+** Data structure
+
+Is a way of organizing and storing data in a computer program so that
+it can be accessed and manipulated efficiently.
+
+** hashable object
+
+An object is /hashable/ if it has a hash value which never changes
+during its lifetime (it needs a __hash__() method), and can be
+compared to other objects (it needs an __eq__() method). Hashable
+objects which compare equal must have the same hash value.
+
+** Abstract data type
+
+Is a mathematical concept that defines a set of possible values and a
+set of operations that can be performed on those values.
+
+** Class attributes
+
+Are variables that are shared by all instances of a class. They are
+defined at the class level and are accessible through the class itself
+or any of its instances.
+
 
 
 
