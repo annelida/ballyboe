@@ -1,0 +1,71 @@
+#+BEGIN_EXPORT html
+---
+layout: page
+title: Dictionaries in Python
+tagline: " the basic characteristics"
+permalink: /python/dictionaries.html
+categories: [Python, Data Structuries, Dictionaries]
+tags: [python, data structuries, dictionaries]
+---
+#+END_EXPORT
+
+#+STARTUP: showall indent
+#+OPTIONS: tags:nil num:nil \n:nil @:t ::t |:t ^:{} _:{} *:t eval:noexport
+#+TOC: headlines 2
+
+
+* Introduction
+
+/Dictionaries/ in Python are a fundamental data structure in Python
+that allows you to store data in key-value pairs.
+
+* Definition
+
+A /dictionary/ is a collection of key-value pairs. Each key is unique
+and maps to a specific value. You can access a value by referring to
+its key. Dictionaries are ordered, changeable, and do not allow
+duplicates.
+
+* Creating ~dictionary~
+
+You can create a dictionary by placing key-value pairs inside curly
+brackets {}, separated by commas.
+
+#+begin_src python :results output
+country_capitals = {"Germany": "Berlin", "Canada": "Ottawa", "England": "London"}
+#+end_src
+
+* Dictionary Methods
+
+- pop(): Removes the item with the specified key;
+- update(): Adds or changes dictionary items;
+- clear(): Removes all the items from the dictionary;
+- keys(): Returns all the dictionary's keys;
+- values(): Returns all the dictionary's values;
+- get(): Returns the value of the specified key;
+- popitem(): Returns the last inserted key and value as a tuple;
+- copy(): Returns a copy of the dictionary.
+
+
+* Dictionary Length
+
+You can find the length of a dictionary using the ~len()~ function.
+
+* Dictionary Membership Test
+
+You can check whether a key exists in a dictionary using the ~in~
+operator.
+
+* Conclusion
+
+Python dictionaries are a powerful data structure that allows you to
+store data in key-value pairs. They are ordered, changeable, and do
+not allow duplicates. Dictionaries is crucial for effective Python
+programming.
+
+
+  
+
+
+
+
