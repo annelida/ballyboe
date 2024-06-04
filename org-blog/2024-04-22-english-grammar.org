@@ -337,7 +337,7 @@ pronouns ending in -thing for things:
 - /Everybody/ enjoyed the concert.
 
   Be careful!
-      
+
   In negative clauses, we use pronouns with no-, not pronouns with
   any-:
 
@@ -360,6 +360,27 @@ things:
 - I think this is /somebody else's/ coat.
 
 
+** Relative pronouns and relative clauses
 
+/Relative pronouns/ are words that introduce relative clauses, which
+provide additional information about a noun or noun phrase in a
+sentence.
 
-  
+The relative pronouns are:
+
+  Subject  Object     Possessive
+  who      who/whom   whose
+  which    which      whose
+  that     that      -
+
+We use:
+
+- /who/ and /whom/ for people;
+- /which/ for things;
+- /that/ for people or things.
+
+The book /which/ is on the table is my favorite.
+The boy /who/ stole my bike has been caught.
+The book /that/ I'm reading is very interesting.
+The woman /whose/ dog barks all night is annoying.
+This is George, /whom/ you met at our house last year.
