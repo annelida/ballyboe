@@ -12,10 +12,11 @@
 #+TODO: DELAY LAG RETARD | BARE
 
 * Genuine source of knowledge
-SCHEDULED: <2024-06-05 Wed ++1d>
+SCHEDULED: <2024-06-06 Thu ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-06-04 Tue 19:05]
+:LAST_REPEAT: [2024-06-05 Wed 19:26]
 :END:
+- State "AMPLE"      from ""           [2024-06-05 Wed 19:26]
 - State "AMPLE"      from ""           [2024-06-04 Tue 19:05]
 - State "AMPLE"      from ""           [2024-06-03 Mon 19:56]
 - State "AMPLE"      from ""           [2024-06-02 Sun 18:05]
@@ -97,10 +98,11 @@ about how the program works are:
 --* INIT Conclusion*: the wisest decision is just to use it properly!
 
 * Deliberate practice
-SCHEDULED: <2024-06-05 Wed ++1d>
+SCHEDULED: <2024-06-06 Thu ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-06-04 Tue 19:05]
+:LAST_REPEAT: [2024-06-05 Wed 19:26]
 :END:
+- State "AMPLE"      from ""           [2024-06-05 Wed 19:26]
 - State "AMPLE"      from ""           [2024-06-04 Tue 19:05]
 - State "AMPLE"      from ""           [2024-06-03 Mon 19:56]
 - State "AMPLE"      from ""           [2024-06-02 Sun 18:05]
@@ -195,7 +197,7 @@ CLOCK: [2023-11-24 Fri 08:31]--[2023-11-24 Fri 09:02] =>  0:31
 when you do challenging but indispensable tasks by yourself
 
 * RAW [#B] Help about *Help*
-SCHEDULED: <2024-06-05 Wed ++1d>
+SCHEDULED: <2024-06-06 Thu ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-01-30 Tue 14:56]
 :CATEGORY: Emacs
@@ -377,7 +379,7 @@ Very straighforward system out from 10 initial keys to use in embedded
 *Help* browser.OA To use several *Help* buffers use =M-x raname uniquely=
 
 * RAW [#B] Help about *info*
-SCHEDULED: <2024-06-05 Wed ++1d>
+SCHEDULED: <2024-06-06 Thu ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-01-30 Tue 14:56]
 :CATEGORY: Emacs
@@ -430,10 +432,11 @@ Mostly the similar approach with several quirks
 [[file:~/git/annelida/ballyboe/org-blog/2024-05-26-Emacs-help-about-help.org::*The list of commands, which began with C-h prefix][The list of commands, which began with C-h prefix and Info commands]]
 
 * Task decomposition
-SCHEDULED: <2024-06-05 Wed ++1d>
+SCHEDULED: <2024-06-06 Thu ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-06-04 Tue 19:05]
+:LAST_REPEAT: [2024-06-05 Wed 19:26]
 :END:
+- State "AMPLE"      from ""           [2024-06-05 Wed 19:26]
 - State "AMPLE"      from ""           [2024-06-04 Tue 19:05]
 - State "AMPLE"      from ""           [2024-06-03 Mon 19:56]
 - State "AMPLE"      from ""           [2024-06-02 Sun 18:05]
@@ -470,7 +473,7 @@ https://www.youtube.com/watch?v=bEfYm8sAaQg
 :END:
 
 ** [#A] Data structures in CS
-SCHEDULED: <2024-06-05 Wed ++1d>
+SCHEDULED: <2024-06-06 Thu ++1d>
 :LOGBOOK:
 CLOCK: [2024-06-04 Tue 08:56]--[2024-06-04 Tue 09:45] =>  0:49
 CLOCK: [2024-06-04 Tue 07:33]--[2024-06-04 Tue 07:36] =>  0:03
@@ -480,7 +483,7 @@ https://realpython.com/python-data-structures/#toc
 
 
 ** [#A] Algorithms in CS
-SCHEDULED: <2024-06-05 Wed ++1w>
+SCHEDULED: <2024-06-06 Thu ++1w>
 
 
 ** [#A] Algorithm's Time Complexity O(n)
@@ -491,8 +494,8 @@ SCHEDULED: <2024-06-06 Thu>
 
 * Python
 
-** AMPLE [#A] Python built-in functions
-SCHEDULED: <2024-06-05 Wed>
+** [#A] Python built-in functions
+SCHEDULED: <2024-06-06 Thu>
 :LOGBOOK:
 CLOCK: [2024-06-05 Wed 10:16]--[2024-06-05 Wed 10:25] =>  0:09
 CLOCK: [2024-06-05 Wed 09:55]--[2024-06-05 Wed 10:16] =>  0:21
