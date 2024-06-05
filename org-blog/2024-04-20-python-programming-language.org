@@ -89,7 +89,7 @@ operand is greater or equal to the right operand.
 operand is less or equal to the right operand.
 #+end_quote
 
-** What is =control flow operations= in programming? 
+** What is =control flow operations= in programming?
 
 /Control flow/ is the /order/ in which individual statements,
 instructions or function calls of an imperative program are executed
@@ -190,7 +190,7 @@ communicate with computers.
 - /Control Structures/: are used to control the flow of a Python
   program. They include conditionals (if-else statements), loops
   (for/while statements), and exceptions (try/except blocks.
-  
+
 
 ** What is Python programming language?
 
@@ -420,6 +420,94 @@ dictionaries.
 #+RESULTS:
 : ['hello', 42, 3, 56, [1, 2, 3], {'key': 'value'}]
 
+***  A list of types that are built into Python
+
+- /None/: It is used to signify the absence of a value in many
+  situations, e.g., it is returned from functions that don’t
+  explicitly return anything;
+- /NotImplemented/: Numeric methods and rich comparison methods should
+  return this value if they do not implement the operation for the
+  operands provided;
+- /Ellipsis/: This object is accessed through the literal ‘...’ or the
+  built-in name ‘Ellipsis’;
+- /Number/: These are created by numeric literals and returned as
+  results by arithmetic operators and arithmetic built-in functions.
+  Numeric objects are immutable;
+
+****  Numbers in Python
+
+Python supports three types of numbers: /integers, floats and complex/
+numbers. These types are used to represent numeric data in Python
+programming.
+
+- /Integers/ (int) are whole numbers, including negative numbers but
+  not fractions. These represent numbers in an unlimited range.  The
+  /Boolean/ (bool) type is a subtype of the integer type. These
+  represent the truth values /False/ and /True/.
+- /Float/ (float) are real numbers with a fractional part denoted by
+  the decimal symbol or the scientific notation.
+- /Complex/ (complex) store the real and imaginary parts as floats by
+  default.
+
+  Type Conversion:
+
+
+- ~int()~ Function converts a string or float to an integer;
+
+- ~float()~ Function converts a string or integer to a float;
+
+- ~complex()~ Function converts a string or float to a complex number;
+
+  Operations:
+
+- /Arithmetic Operations/: Integers and floats support basic
+  arithmetic operations like addition, subtraction, multiplication,
+  and division;
+
+- /Modulus/: The modulus operator (%) returns the remainder of the
+  division operation;
+
+- /Exponentiation/: The exponentiation operator (***) raises a number
+  to a power;
+
+- /Absolute Value/: The ~abs()~ function returns the absolute value of
+  a number.
+
+  Built-in Functions:
+
+  - ~math~ module: provides functions like ~sqrt()~, ~exp()~ and
+    ~pi()~ for mathematical operations;
+
+    #+begin_src python :results output
+      import math
+      print(math.pi)
+      print(math.e)
+      print(math.exp(10))
+    #+end_src
+
+    #+RESULTS:
+    : 3.141592653589793
+    : 2.718281828459045
+    : 22026.465794806718
+
+  - ~max()~ and ~min()~ functions: return the maximum and minimum
+    values of a set of numbers.
+
+    #+begin_src python :results output
+      numbers = [4, 12, 43.3, 19, 100]
+      print("Minimum:", min(numbers))
+      print("Maximum:", max(numbers))
+
+    #+end_src
+
+    #+RESULTS:
+    : Minimum: 4
+    : Maximum: 100
+
+
+
+
+
 * Notes                                                            :noexport:
 
 
@@ -436,5 +524,3 @@ fields, often known as attributes; and code, in the form of
 procedures, often known as methods. For example, a person is an object
 which has certain properties such as height, gender, age, etc.
 #+end_quote
-
-
