@@ -1,0 +1,62 @@
+#+BEGIN_EXPORT html
+---
+layout: page
+title: Python built-in function
+tagline: " overview in detail"
+permalink: /python/python-built-in-function.html
+categories: [Python, built-in-function]
+tags: [python, intro, built-in functions]
+---
+#+END_EXPORT
+
+#+STARTUP: showall indent
+#+OPTIONS: tags:nil num:nil \n:nil @:t ::t |:t ^:{} _:{} *:t eval:noexport
+#+TOC: headlines 2
+
+* Preamble
+
+Python has a wide range of built-in functions that can be used to
+perform various tasks. Here are some of the most commonly used
+built-in functions in Python:
+
+#+begin_quote
+ | abs()         | dict()      | help()       | min()      | setattr()      |
+ | all()         | dir()       | hex()        | next()     | slice()        |
+ | any()         | divmod()    | id()         | object()   | sorted()       |
+ | ascii()       | enumerate() | input()      | oct()      | staticmethod() |
+ | bin()         | eval()      | int()        | open()     | str()          |
+ | bool()        | exec()      | isinstance() | ord()      | sum()          |
+ | bytearray()   | filter()    | issubclass() | pow()      | super()        |
+ | bytes()       | float()     | iter()       | print()    | tuple()        |
+ | callable()    | format()    | len()        | property() | type()         |
+ | chr()         | frozenset() | list()       | range()    | vars()         |
+ | classmethod() | getattr()   | locals()     | repr()     | zip()          |
+ | compile()     | globals()   | map()        | reversed() | __import__()   |
+ | complex()     | hasattr()   | max()        | round()    |                |
+ | delattr()     | hash()      | memoryview() | set()      |                |
+ |               |             |              |            |                |
+#+end_quote
+
+** The ~abs()~ function
+
+The ~abs()~ returns the absolute value of a given number. It can be
+used with integers, floating-point numbers, and complex numbers. It is
+essential in calculations involving speed, distance, and time, as it
+ensures that these values are always positive.
+
+#+begin_src python :results output
+  number = 20
+  neg_number = -20
+  floating = -30.23
+  complex = (3 - 4j)
+  print(abs(number))
+  print(abs(neg_number))
+  print(abs(floating))
+  print(abs(complex))
+#+end_src
+
+#+RESULTS:
+: 20
+: 20
+: 30.23
+: 5.0
