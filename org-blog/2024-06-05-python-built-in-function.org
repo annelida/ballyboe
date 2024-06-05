@@ -10,7 +10,7 @@ tags: [python, intro, built-in functions]
 #+END_EXPORT
 
 #+STARTUP: showall indent
-#+OPTIONS: tags:nil num:nil \n:nil @:t ::t |:t ^:{} _:{} *:t eval:noexport
+#+OPTIONS: tags:nil num:nil \n:nil @:t ::t |:t ^:{} _:{} *:t
 #+TOC: headlines 2
 
 * Preamble
