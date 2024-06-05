@@ -1,0 +1,60 @@
+#+BEGIN_EXPORT html
+---
+layout: page
+title: General Data Structures
+tagline: " overview"
+permalink: /fundamentals/data-structures-overview.html
+categories: [Data Structuries, Fundamentals]
+tags: [python, data structuries, dictionaries]
+---
+#+END_EXPORT
+
+#+STARTUP: showall indent
+#+OPTIONS: tags:nil num:nil \n:nil @:t ::t |:t ^:{} _:{} *:t
+#+TOC: headlines 2
+
+* Preamble
+
+In computer science, a /data structure/ is a way of organizing and
+storing data in a computer so that it can be accessed and used
+efficiently.
+
+
+* Glossary
+
+Data Structure
+Array
+Linked List...
+Hash ??
+Mutable/unmutable??
+
+* The Common Data Structures in Computer Science
+
+- /Arrays/: A collection of elements of the same data type stored in
+  contiguous memory locations;
+- /Linked Lists/: A sequence of elements where each element points to
+  the next one, allowing for efficient insertion and deletion;
+- /Stacks/: A linear data structure that follows the Last In, First
+  Out (LIFO) principle, where elements are added and removed from the
+  top;
+- /Queues/: A linear data structure that follows the First In, First Out
+  (FIFO) principle, where elements are added to the end and removed
+  from the front;
+- /Hash Tables/: A data structure that maps keys to values using a hash
+  function, allowing for efficient lookup and insertion;
+- /Trees/: A non-linear data structure where elements are organized in a
+  hierarchical manner, often used for efficient storage and retrieval
+  of data;
+- /Graphs/: A non-linear data structure that represents a collection of
+  nodes connected by edges, often used for modeling relationships
+  between data;
+- /Tries/: A type of tree data structure used for storing and retrieving
+  data efficiently, particularly in applications involving strings;
+- Heaps: A specialized tree-based data structure used for efficient
+  sorting and priority queuing;
+
+
+
+* Classification
+
+IMG and description
