@@ -485,6 +485,10 @@ https://realpython.com/python-data-structures/#toc
 ** [#A] Algorithms in CS
 SCHEDULED: <2024-06-06 Thu ++1w>
 
+:LOGBOOK:
+CLOCK: [2024-06-06 Thu 07:21]--[2024-06-06 Thu 08:20] =>  0:59
+:END:
+[[file:~/git/annelida/ballyboe/org-blog/2024-06-06-algorithms-in-computer-science.org::*Preamble][Algorithms in CS]]
 
 ** [#A] Algorithm's Time Complexity O(n)
 SCHEDULED: <2024-06-06 Thu>

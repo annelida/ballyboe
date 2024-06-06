@@ -1,0 +1,82 @@
+#+BEGIN_EXPORT html
+---
+layout: page
+title: Algorithms in Computer Science
+tagline: " one of the cornerstones of Computer Science"
+permalink: /CS/fundamentals/algorithms-in-computer-science.html
+categories: [Computer Science, Python, Literate Programming]
+tags: [Computer Science, Python, Literate Programming]
+---
+#+END_EXPORT
+#+STARTUP: showall indent
+#+OPTIONS: tags:nil num:nil \n:nil @:t ::t |:t ^:{} _:{} *:t
+#+PROPERTY: header-args :exports both
+#+PROPERTY: header-args+ :results output pp
+#+PROPERTY: header-args+ :eval no-export
+#+TOC: headlines 2
+
+* Preamble
+
+/Algorithm/ is a set of well-defined instructions used to solve a
+problem or perform a specific task. It is a step-by-step plan that
+specifies the actions to be taken, the order in which they should be
+executed, and the conditions under which each step should be
+performed.
+
+#+begin_quote
+If we want to tell a computer to do something, we have to write a
+computer program that will tell the computer, step-by-step, exactly
+what we want it to do and how we want it to do it. This step-by-step
+program will need planning, and to do this we use an algorithm.
+#+end_quote
+
+* Glossary
+
+/Instruction/ A single action that can be performed by a computer
+processor.
+
+/Flowchart/ A diagram that shows a process, made up of boxes
+representing steps, decision, inputs and outputs.
+
+/Pseudocode/ A method of writing up a set of instructions for a
+computer program using plain natural language. This is a good way of
+planning a program before coding.
+
+* The application area for the algorithms
+
+Algorithms are fundamental to computer science and are used in various
+applications, such as:
+
+- Calculations and data processing;
+- Sorting and searching data;
+- Implementing computer programs.
+
+* Creating a blueprint
+
+#+begin_quote
+It is important to plan out the solution to a problem to make sure
+that it will be correct. Using /computational thinking/ and
+/decomposition/ we can break down the problem into smaller parts and
+then we can plan out how they fit back together in a suitable order to
+solve the problem. This order can be represented as an algorithm. An
+algorithm must be clear. It must have /a starting point/, /a finishing
+point/ and /a set of clear instructions/ in between.
+#+end_quote
+
+* Types of algorithms
+
+- /Brute Force Algorithm/: A simple algorithm that checks all possible
+  solutions to a problem until it finds the correct one;
+- /Recursive Algorithm/: An algorithm that breaks down a problem into
+  smaller sub-problems, solving each one recursively until the base
+  case is reached;
+- /Randomized Algorithm/: An algorithm that uses random numbers to make
+  decisions during its execution;
+- /Sorting Algorithm/: An algorithm that arranges elements in a specific
+  order, such as ascending or descending;
+- /Searching Algorithm/: An algorithm that locates a specific item in a
+  data structure;
+- /Hashing Algorithm/: An algorithm that uses a hash function to map
+  keys to values in a data structure;
+
+  
