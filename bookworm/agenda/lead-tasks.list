@@ -12,10 +12,11 @@
 #+TODO: DELAY LAG RETARD | BARE
 
 * Genuine source of knowledge
-SCHEDULED: <2024-06-06 Thu ++1d>
+SCHEDULED: <2024-06-07 Fri ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-06-05 Wed 19:26]
+:LAST_REPEAT: [2024-06-06 Thu 19:41]
 :END:
+- State "AMPLE"      from ""           [2024-06-06 Thu 19:41]
 - State "AMPLE"      from ""           [2024-06-05 Wed 19:26]
 - State "AMPLE"      from ""           [2024-06-04 Tue 19:05]
 - State "AMPLE"      from ""           [2024-06-03 Mon 19:56]
@@ -98,10 +99,11 @@ about how the program works are:
 --* INIT Conclusion*: the wisest decision is just to use it properly!
 
 * Deliberate practice
-SCHEDULED: <2024-06-06 Thu ++1d>
+SCHEDULED: <2024-06-07 Fri ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-06-05 Wed 19:26]
+:LAST_REPEAT: [2024-06-06 Thu 19:41]
 :END:
+- State "AMPLE"      from ""           [2024-06-06 Thu 19:41]
 - State "AMPLE"      from ""           [2024-06-05 Wed 19:26]
 - State "AMPLE"      from ""           [2024-06-04 Tue 19:05]
 - State "AMPLE"      from ""           [2024-06-03 Mon 19:56]
@@ -197,11 +199,12 @@ CLOCK: [2023-11-24 Fri 08:31]--[2023-11-24 Fri 09:02] =>  0:31
 when you do challenging but indispensable tasks by yourself
 
 * RAW [#B] Help about *Help*
-SCHEDULED: <2024-06-06 Thu ++1d>
+SCHEDULED: <2024-06-07 Fri ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-01-30 Tue 14:56]
+:LAST_REPEAT: [2024-06-06 Thu 19:41]
 :CATEGORY: Emacs
 :END:
+- State "AMPLE"      from "RAW"        [2024-06-06 Thu 19:41]
 - State "DONE"       from "Active"     [2024-01-30 Tue 14:56]
 - Note taken on [2024-01-24 Wed 14:21] \\
   Open two Info buffers:
@@ -278,7 +281,7 @@ Stack-Overflow suggestions and notes. Bear this fact in mind do your
 job as it would be done in a sure and fire manner.
 
 ** DELAY [#A] *Python* embedded help system
-SCHEDULED: <2024-06-07 Fri ++2d/3d>
+SCHEDULED: <2024-06-11 Tue ++2d/3d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-05-12 Sun 18:24]
 :CATEGORY: Python
@@ -379,11 +382,12 @@ Very straighforward system out from 10 initial keys to use in embedded
 *Help* browser.OA To use several *Help* buffers use =M-x raname uniquely=
 
 * RAW [#B] Help about *info*
-SCHEDULED: <2024-06-06 Thu ++1d>
+SCHEDULED: <2024-06-07 Fri ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-01-30 Tue 14:56]
+:LAST_REPEAT: [2024-06-06 Thu 19:41]
 :CATEGORY: Emacs
 :END:
+- State "AMPLE"      from "RAW"        [2024-06-06 Thu 19:41]
 - State "DONE"       from "Active"     [2024-01-30 Tue 14:56]
 - State "DONE"       from "Active"     [2024-01-23 Tue 18:38]
 - State "DONE"       from "Active"     [2024-01-17 Wed 17:17]
@@ -432,10 +436,11 @@ Mostly the similar approach with several quirks
 [[file:~/git/annelida/ballyboe/org-blog/2024-05-26-Emacs-help-about-help.org::*The list of commands, which began with C-h prefix][The list of commands, which began with C-h prefix and Info commands]]
 
 * Task decomposition
-SCHEDULED: <2024-06-06 Thu ++1d>
+SCHEDULED: <2024-06-07 Fri ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-06-05 Wed 19:26]
+:LAST_REPEAT: [2024-06-06 Thu 19:41]
 :END:
+- State "AMPLE"      from ""           [2024-06-06 Thu 19:41]
 - State "AMPLE"      from ""           [2024-06-05 Wed 19:26]
 - State "AMPLE"      from ""           [2024-06-04 Tue 19:05]
 - State "AMPLE"      from ""           [2024-06-03 Mon 19:56]
@@ -473,7 +478,7 @@ https://www.youtube.com/watch?v=bEfYm8sAaQg
 :END:
 
 ** [#A] Data structures in CS
-SCHEDULED: <2024-06-06 Thu ++1d>
+SCHEDULED: <2024-06-07 Fri ++1d>
 :LOGBOOK:
 CLOCK: [2024-06-04 Tue 08:56]--[2024-06-04 Tue 09:45] =>  0:49
 CLOCK: [2024-06-04 Tue 07:33]--[2024-06-04 Tue 07:36] =>  0:03
@@ -481,25 +486,34 @@ CLOCK: [2024-06-03 Mon 14:29]--[2024-06-03 Mon 15:34] =>  1:05
 :END:
 https://realpython.com/python-data-structures/#toc
 
+[[file:~/git/annelida/ballyboe/org-blog/2024-06-05-data-structures-in-cs.org::*Glossary][Data structures]]
 
 ** [#A] Algorithms in CS
-SCHEDULED: <2024-06-06 Thu ++1w>
-
+SCHEDULED: <2024-06-07 Fri ++1w>
 :LOGBOOK:
 CLOCK: [2024-06-06 Thu 07:21]--[2024-06-06 Thu 08:20] =>  0:59
 :END:
 [[file:~/git/annelida/ballyboe/org-blog/2024-06-06-algorithms-in-computer-science.org::*Preamble][Algorithms in CS]]
 
 ** [#A] Algorithm's Time Complexity O(n)
-SCHEDULED: <2024-06-06 Thu>
+SCHEDULED: <2024-06-07 Fri>
 :PROPERTIES:
 :CATEGORY: O(1)
+:END:
+- Note taken on [2024-06-06 Thu 08:58] \\
+  An algorithm's time complexity of O(n) refers to a linear time
+  complexity. This means that the running time of the algorithm
+  increases linearly with the size of the input. In other words, the
+  time taken by the algorithm to execute grows directly with the size of
+  the input, and the time complexity is proportional to the input size.
+:LOGBOOK:
+CLOCK: [2024-06-06 Thu 08:51]--[2024-06-06 Thu 09:09] =>  0:18
 :END:
 
 * Python
 
 ** [#A] Python built-in functions
-SCHEDULED: <2024-06-06 Thu>
+SCHEDULED: <2024-06-07 Fri>
 :LOGBOOK:
 CLOCK: [2024-06-05 Wed 10:16]--[2024-06-05 Wed 10:25] =>  0:09
 CLOCK: [2024-06-05 Wed 09:55]--[2024-06-05 Wed 10:16] =>  0:21
