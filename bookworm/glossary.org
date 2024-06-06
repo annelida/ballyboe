@@ -920,6 +920,12 @@ out is performed by the control unit.
 Is a way of organizing and storing data in a computer program so that
 it can be accessed and manipulated efficiently.
 
+** Hash
+
+Is a mathematical function that transforms a string of characters or
+data of arbitrary size into a fixed-size value or key, known as /a
+hash value/, /hash code/, /hash digest/, or simply /hash/.
+
 ** hashable object
 
 An object is /hashable/ if it has a hash value which never changes
@@ -937,6 +943,33 @@ set of operations that can be performed on those values.
 Are variables that are shared by all instances of a class. They are
 defined at the class level and are accessible through the class itself
 or any of its instances.
+
+** Algorithm
+
+Is a set of well-defined instructions used to solve a problem or
+perform a specific task. It is a step-by-step plan that specifies the
+actions to be taken, the order in which they should be executed, and
+the conditions under which each step should be performed.
+
+** Instruction
+
+A single action that can be performed by a computer processor.
+
+** Flowchart
+
+A diagram that shows a process, made up of boxes representing steps,
+decision, inputs and outputs.
+
+** Combination
+
+Is a selection of elements from a set, where the order of selection
+does not matter.
+
+** Permutations
+
+Is an arrangement of elements from a set, where the order of selection
+matters.
+
 
 
 
