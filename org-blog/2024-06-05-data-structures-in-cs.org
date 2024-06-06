@@ -22,11 +22,30 @@ efficiently.
 
 * Glossary
 
-Data Structure
-Array
-Linked List...
-Hash ??
-Mutable/unmutable??
+/Data Structures/: is a way of organizing and storing data in a
+computer so that it can be accessed and used efficiently. It refers to
+the logical or mathematical representation of data, as well as the
+implementation in a computer program;
+
+/Hash/: is a mathematical function that transforms a string of
+characters or data of arbitrary size into a fixed-size value or key,
+known as /a hash value/, /hash code/, /hash digest/, or simply /hash/.
+
+/Hashable object/: is an object that has a hash value which never
+changes during its lifetime.
+
+Hashability is important because it allows objects to be used as keys
+in dictionaries and members in sets. These data structures use the
+hash value internally to efficiently store and retrieve data.
+
+Mutable/immutable??
+
+Some examples of hashable objects in Python include: Immutable
+built-in types like integers, floats, strings, and tuples.
+
+On the other hand, mutable objects like lists and dictionaries are not
+hashable because their hash value can change during their lifetime.
+
 
 * The Common Data Structures in Computer Science
 
