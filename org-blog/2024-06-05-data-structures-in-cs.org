@@ -19,8 +19,16 @@ In computer science, a /data structure/ is a way of organizing and
 storing data in a computer so that it can be accessed and used
 efficiently.
 
+#+begin_quote
+Each data structure provides a particular way of organizing data so it
+can be accessed efficiently, depending on your use case.
+#+end_quote
 
 * Glossary
+
+/Abstract data/: refers to a mathematical concept that defines a set
+of possible values and a set of operations that can be performed on
+those values.
 
 /Data Structures/: is a way of organizing and storing data in a
 computer so that it can be accessed and used efficiently. It refers to
@@ -30,6 +38,12 @@ implementation in a computer program;
 /Hash/: is a mathematical function that transforms a string of
 characters or data of arbitrary size into a fixed-size value or key,
 known as /a hash value/, /hash code/, /hash digest/, or simply /hash/.
+
+A /hash value/ is a string of characters and numbers that is the
+result of a hash function applied to a given input, such as a file or
+a message. It is a /unique numerical value/ that identifies the
+contents of the input and can be used to verify the integrity of the
+data.
 
 /Hashable object/: is an object that has a hash value which never
 changes during its lifetime.
@@ -59,8 +73,11 @@ hashable because their hash value can change during their lifetime.
 - /Queues/: A linear data structure that follows the First In, First Out
   (FIFO) principle, where elements are added to the end and removed
   from the front;
-- /Hash Tables/: A data structure that maps keys to values using a hash
-  function, allowing for efficient lookup and insertion;
+- /Hash Tables/: A data structure that maps keys to values using a
+  hash function, allowing for efficient lookup and insertion;
+
+  Is simply an array that is addressed via a hash function.
+
 - /Trees/: A non-linear data structure where elements are organized in a
   hierarchical manner, often used for efficient storage and retrieval
   of data;
