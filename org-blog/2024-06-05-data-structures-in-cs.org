@@ -39,6 +39,7 @@ implementation in a computer program;
 characters or data of arbitrary size into a fixed-size value or key,
 known as /a hash value/, /hash code/, /hash digest/, or simply /hash/.
 
+
 A /hash value/ is a string of characters and numbers that is the
 result of a hash function applied to a given input, such as a file or
 a message. It is a /unique numerical value/ that identifies the
@@ -59,6 +60,9 @@ built-in types like integers, floats, strings, and tuples.
 
 On the other hand, mutable objects like lists and dictionaries are not
 hashable because their hash value can change during their lifetime.
+While dictionaries themselves are not hashable, they require their
+keys to be hashable in order to leverage efficient hash table
+implementations.
 
 
 * The Common Data Structures in Computer Science
@@ -77,6 +81,8 @@ hashable because their hash value can change during their lifetime.
   hash function, allowing for efficient lookup and insertion;
 
   Is simply an array that is addressed via a hash function.
+  https://realpython.com/python-hash-table/
+  [[https://www.eecs.umich.edu/courses/eecs380/ALG/niemann/s_has.htm]]
 
 - /Trees/: A non-linear data structure where elements are organized in a
   hierarchical manner, often used for efficient storage and retrieval
