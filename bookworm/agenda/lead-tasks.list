@@ -12,10 +12,12 @@
 #+TODO: DELAY LAG RETARD | BARE
 
 * Genuine source of knowledge
-SCHEDULED: <2024-06-07 Fri ++1d>
+SCHEDULED: <2024-06-09 Sun ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-06-06 Thu 19:41]
+:LAST_REPEAT: [2024-06-08 Sat 18:01]
 :END:
+- State "AMPLE"      from ""           [2024-06-08 Sat 18:01]
+- State "AMPLE"      from ""           [2024-06-07 Fri 19:27]
 - State "AMPLE"      from ""           [2024-06-06 Thu 19:41]
 - State "AMPLE"      from ""           [2024-06-05 Wed 19:26]
 - State "AMPLE"      from ""           [2024-06-04 Tue 19:05]
@@ -99,10 +101,12 @@ about how the program works are:
 --* INIT Conclusion*: the wisest decision is just to use it properly!
 
 * Deliberate practice
-SCHEDULED: <2024-06-07 Fri ++1d>
+SCHEDULED: <2024-06-09 Sun ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-06-06 Thu 19:41]
+:LAST_REPEAT: [2024-06-08 Sat 18:01]
 :END:
+- State "AMPLE"      from ""           [2024-06-08 Sat 18:01]
+- State "AMPLE"      from ""           [2024-06-07 Fri 19:27]
 - State "AMPLE"      from ""           [2024-06-06 Thu 19:41]
 - State "AMPLE"      from ""           [2024-06-05 Wed 19:26]
 - State "AMPLE"      from ""           [2024-06-04 Tue 19:05]
@@ -199,11 +203,12 @@ CLOCK: [2023-11-24 Fri 08:31]--[2023-11-24 Fri 09:02] =>  0:31
 when you do challenging but indispensable tasks by yourself
 
 * RAW [#B] Help about *Help*
-SCHEDULED: <2024-06-07 Fri ++1d>
+SCHEDULED: <2024-06-09 Sun ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-06-06 Thu 19:41]
+:LAST_REPEAT: [2024-06-07 Fri 19:27]
 :CATEGORY: Emacs
 :END:
+- State "AMPLE"      from "RAW"        [2024-06-07 Fri 19:27]
 - State "AMPLE"      from "RAW"        [2024-06-06 Thu 19:41]
 - State "DONE"       from "Active"     [2024-01-30 Tue 14:56]
 - Note taken on [2024-01-24 Wed 14:21] \\
@@ -313,7 +318,7 @@ CLOCK: [2024-03-07 Thu 10:40]--[2024-03-07 Thu 10:57] =>  0:17
 - State "DONE"       from "ACTIVE"     [2023-11-09 Thu 18:41]
 - State "DONE"       from "ACTIVE"     [2023-11-07 Tue 18:21]
 ** *Selenium* package review
-SCHEDULED: <2024-06-08 Sat ++1d>
+SCHEDULED: <2024-06-18 Tue ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-05-26 Sun 19:32]
 :END:
@@ -383,11 +388,12 @@ Very straighforward system out from 10 initial keys to use in embedded
 *Help* browser.OA To use several *Help* buffers use =M-x raname uniquely=
 
 * RAW [#B] Help about *info*
-SCHEDULED: <2024-06-07 Fri ++1d>
+SCHEDULED: <2024-06-09 Sun ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-06-06 Thu 19:41]
+:LAST_REPEAT: [2024-06-07 Fri 19:27]
 :CATEGORY: Emacs
 :END:
+- State "AMPLE"      from "RAW"        [2024-06-07 Fri 19:27]
 - State "AMPLE"      from "RAW"        [2024-06-06 Thu 19:41]
 - State "DONE"       from "Active"     [2024-01-30 Tue 14:56]
 - State "DONE"       from "Active"     [2024-01-23 Tue 18:38]
@@ -437,10 +443,12 @@ Mostly the similar approach with several quirks
 [[file:~/git/annelida/ballyboe/org-blog/2024-05-26-Emacs-help-about-help.org::*The list of commands, which began with C-h prefix][The list of commands, which began with C-h prefix and Info commands]]
 
 * Task decomposition
-SCHEDULED: <2024-06-07 Fri ++1d>
+SCHEDULED: <2024-06-09 Sun ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-06-06 Thu 19:41]
+:LAST_REPEAT: [2024-06-08 Sat 18:01]
 :END:
+- State "AMPLE"      from ""           [2024-06-08 Sat 18:01]
+- State "AMPLE"      from ""           [2024-06-07 Fri 19:27]
 - State "AMPLE"      from ""           [2024-06-06 Thu 19:41]
 - State "AMPLE"      from ""           [2024-06-05 Wed 19:26]
 - State "AMPLE"      from ""           [2024-06-04 Tue 19:05]
@@ -531,7 +539,7 @@ CLOCK: [2024-06-06 Thu 08:51]--[2024-06-06 Thu 09:09] =>  0:18
 * Python
 
 ** [#A] Python built-in functions
-SCHEDULED: <2024-06-07 Fri>
+SCHEDULED: <2024-06-09 Sun>
 :LOGBOOK:
 CLOCK: [2024-06-05 Wed 10:16]--[2024-06-05 Wed 10:25] =>  0:09
 CLOCK: [2024-06-05 Wed 09:55]--[2024-06-05 Wed 10:16] =>  0:21
