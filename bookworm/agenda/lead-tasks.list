@@ -214,6 +214,7 @@ SCHEDULED: <2024-06-07 Fri ++1d>
   M-x clone-buffer;
 
 [[file:~/git/annelida/ballyboe/org-blog/2024-05-26-Emacs-help-about-help.org::*The list of commands, which began with C-h prefix][The list of commands, which began with C-h prefix]]
+[[https://www.gnu.org/software/emacs/manual/html_node/emacs/Help-Summary.html]]
 
 - State "DONE"       from "Active"     [2024-01-23 Tue 18:38]
 - State "DONE"       from "Active"     [2024-01-17 Wed 17:17]
@@ -477,27 +478,43 @@ https://www.youtube.com/watch?v=bEfYm8sAaQg
 :CATEGORY: CS
 :END:
 
-** [#A] Data structures in CS
-SCHEDULED: <2024-06-07 Fri ++1d>
+** Data structures in CS
+SCHEDULED: <2024-06-09 Sun ++1d>
+:PROPERTIES:
+:LAST_REPEAT: [2024-06-08 Sat 18:01]
+:END:
+- State "AMPLE"      from ""           [2024-06-08 Sat 18:01]
 :LOGBOOK:
+CLOCK: [2024-06-08 Sat 08:31]--[2024-06-08 Sat 09:00] =>  0:29
+CLOCK: [2024-06-08 Sat 07:46]--[2024-06-08 Sat 08:17] =>  0:31
 CLOCK: [2024-06-07 Fri 07:26]--[2024-06-07 Fri 08:02] =>  0:36
 CLOCK: [2024-06-04 Tue 08:56]--[2024-06-04 Tue 09:45] =>  0:49
 CLOCK: [2024-06-04 Tue 07:33]--[2024-06-04 Tue 07:36] =>  0:03
 CLOCK: [2024-06-03 Mon 14:29]--[2024-06-03 Mon 15:34] =>  1:05
 :END:
 https://realpython.com/python-data-structures/#toc
-
+[[https://www.google.com/search?sca_esv=23c20ded85caa685&sca_upv=1&rlz=1CAEVJI_enIE1052IE1052&sxsrf=ADLYWIJKE5tyu2xXIkJ_acM8r-H_U6Ag4A:1717614638700&q=classification+of+data+structure&uds=ADvngMgXnVvsl8yyzlPcgBCE61H3vAKHLfcD15kL8ywWHO4imniB0wX1vY5TtKJFvh_zHBF97v1vcoO1A2dB1hCtcfAOo-KBtJ993TxgDeqsRmrxM_7GPQwwFjU1FytO1sJd0HbU2VyW4bVbLwvzC4MxRZSzooke7SWB3Sjk9sCQOT56bH6Q4tQsZwNF_g9IekOnRe9LH5dw5uH3SLcMSXz7o042Z0z23pncXMwtt_mNa4sPzvFyqxt4JpNilVtEXb7K5z9rVrt06P4DK7H1mND8Buvrgf7jFzuO-oAvin70Z3F0qO7Q3ouN8Pe22WAorNvINnfvsGbSAtvYwocylAX92ukp3kfJDKCdrrcV9yeX5ruyNllLtQPRz-uKAE1F0JHTwWJ5a7HG&udm=2&sa=X&ved=2ahUKEwjW7piTlcWGAxVjUUEAHSKmBYYQxKsJegQICRAB&ictx=0&biw=1181&bih=577&dpr=1.63#vhid=54bkx4PGJNilXM&vssid=mosaic]]
 [[file:~/git/annelida/ballyboe/org-blog/2024-06-05-data-structures-in-cs.org::*Glossary][Data structures]]
 
+[[https://www.geeksforgeeks.org/hash-functions-and-list-types-of-hash-functions/]]
+[[https://www.bbc.co.uk/bitesize/guides/zghbgk7/revision/2]]
+
+*** [#A] Dictionaries, Maps, and Hash Tables
+SCHEDULED: <2024-06-09 Sun>
+*** [#A] Array Data Structures
+SCHEDULED: <2024-06-09 Sun>
+
 ** [#A] Algorithms in CS
-SCHEDULED: <2024-06-07 Fri ++1w>
+SCHEDULED: <2024-06-09 Sun ++1w>
 :LOGBOOK:
+CLOCK: [2024-06-08 Sat 09:11]--[2024-06-08 Sat 09:38] =>  0:27
 CLOCK: [2024-06-06 Thu 07:21]--[2024-06-06 Thu 08:20] =>  0:59
 :END:
 [[file:~/git/annelida/ballyboe/org-blog/2024-06-06-algorithms-in-computer-science.org::*Preamble][Algorithms in CS]]
+[[https://www.bbc.co.uk/bitesize/guides/zpp49j6/revision/2]]
 
 ** [#A] Algorithm's Time Complexity O(n)
-SCHEDULED: <2024-06-07 Fri>
+SCHEDULED: <2024-06-10 Mon>
 :PROPERTIES:
 :CATEGORY: O(1)
 :END:

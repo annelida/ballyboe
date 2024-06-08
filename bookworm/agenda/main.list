@@ -1951,6 +1951,9 @@ CLOCK: [2024-05-25 Sat 13:42]--[2024-05-25 Sat 13:59] =>  0:17
 :END:
 - Note taken on [2024-05-25 Sat 13:42] \\
   [[info:python3.11#Dictionaries][python3.11#Dictionaries]]
+  [[https://realpython.com/python-dicts/]]
+  
+  [[file:~/git/annelida/ballyboe/org-blog/2024-06-04-python-dictionaries.org::+TOC: headlines 2][Dictionaries in Python]]
 
   Dictionary is a mutable data structures that
   allow you to store key-value pairs.
@@ -2015,6 +2018,8 @@ CLOCK: [2024-05-17 Fri 08:20]--[2024-05-17 Fri 08:52] =>  0:32
 CLOCK: [2024-04-20 Sat 16:10]--[2024-04-20 Sat 16:25] =>  0:15
 :END:
 [[file:~/git/annelida/ballyboe/org-blog/2024-04-20-python-programming-language.org::*Preamble][Python programming language]]
+[[https://realpython.com/python-keywords/]]
+[[https://en.wikipedia.org/wiki/Von_Neumann_architecture]]
 *** Flask
 :PROPERTIES:
 :CATEGORY: Flask
@@ -2398,11 +2403,12 @@ CLOCK: [2023-12-03 Sun 13:04]--[2023-12-03 Sun 13:32] =>  0:28
 [[info:org#Capture templates][org#Capture templates]]
 
 *** [#C] Org-mode keys
-SCHEDULED: <2024-06-07 Fri>
+SCHEDULED: <2024-06-09 Sun>
 :LOGBOOK:
 CLOCK: [2024-05-29 Wed 15:38]--[2024-05-29 Wed 16:37] =>  0:59
 :END:
 Three column table: key, name, description
+[[https://orgmode.org/manual/Structure-Editing.html]]
 ** Jekyll
 *** Org-Jekyll - article about initial config
 SCHEDULED: <2024-08-13 Tue ++1m>
@@ -2795,11 +2801,12 @@ CLOCK: [2024-05-21 Tue 18:37]--[2024-05-22 Wed 07:15] => 12:38
 CLOCK: [2024-05-21 Tue 15:39]--[2024-05-21 Tue 16:09] =>  0:30
 :END:
 [[file:~/git/annelida/ballyboe/org-blog/2024-05-22-data-base-fundamentals.org::*Databases types and examples][Databases fundamentals]]
+[[https://www.mongodb.com/resources/basics/databases/types]]
 *** SQLite3
 :PROPERTIES:
 :END:
-**** [#C] The studying of the SQLite3 manual
-SCHEDULED: <2024-06-07 Fri>
+**** AMPLE [#C] The studying of the SQLite3 manual
+SCHEDULED: <2024-06-12 Wed>
 [[file:~/git/annelida/ballyboe/org-blog/2024-05-10-sqlite3-basics.org::*How to connect to SQLite sample database][How to connect to SQLite sample database]]
 
 - Note taken on [2024-05-10 Fri 18:06] \\
@@ -2948,6 +2955,7 @@ SCHEDULED: <2024-06-04 Tue>
 :LOGBOOK:
 CLOCK: [2024-05-31 Fri 09:53]--[2024-05-31 Fri 10:42] =>  0:49
 :END:
+[[https://stackoverflow.com/questions/67351167/one-flask-with-multiple-page]]
 
 *** [#C] Rendering Jinja template variable
 SCHEDULED: <2024-06-13 Thu ++1w>
