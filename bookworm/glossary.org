@@ -970,6 +970,10 @@ does not matter.
 Is an arrangement of elements from a set, where the order of selection
 matters.
 
+** Syntax
+
+Rules governing how to write statements in a programming language.
+
 
 
 

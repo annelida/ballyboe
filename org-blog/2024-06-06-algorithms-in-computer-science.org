@@ -63,6 +63,29 @@ algorithm must be clear. It must have /a starting point/, /a finishing
 point/ and /a set of clear instructions/ in between.
 #+end_quote
 
+/Computational thinking/ A problem-solving method using computer
+science techniques, where possible solutions are developed and
+presented in a way that can be understood by humans and computers.
+
+/Decomposition/ The breaking down of a system into smaller parts that
+are easier to understand, program and maintain.
+
+An algorithm must be clear. It must have a starting point, a finishing
+point and a set of clear instructions in between.
+
+* Representation of the algorithm in pseudocode
+
+An algorithm can be represented in pseudocode, which is a step-by-step
+description of the algorithm in a code-like structure using plain
+English text.
+
+/Syntax-Free/: Pseudocode does not use any specific programming language
+syntax, making it easy to understand and read for anyone with basic
+programming knowledge.
+
+/Reserved Keywords/: Pseudocode uses reserved keywords like IF, WHILE,
+FOR, and CASE to describe control flow and decision-making.
+
 * Types of algorithms
 
 - /Brute Force Algorithm/: A simple algorithm that checks all possible
