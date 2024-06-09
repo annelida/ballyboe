@@ -24,11 +24,19 @@ executed, and the conditions under which each step should be
 performed.
 
 #+begin_quote
+An /algorithm/ is a finite sequence of well-defined instructions that
+can be used to solve a computational problem. It provides a
+step-by-step procedure that convert an input into a desired output.
+#+end_quote
+
+#+begin_quote
 If we want to tell a computer to do something, we have to write a
 computer program that will tell the computer, step-by-step, exactly
 what we want it to do and how we want it to do it. This step-by-step
 program will need planning, and to do this we use an algorithm.
 #+end_quote
+
+
 
 * Glossary
 
@@ -45,11 +53,26 @@ planning a program before coding.
 * The application area for the algorithms
 
 Algorithms are fundamental to computer science and are used in various
-applications, such as:
+applications. They are essential for solving complex computational
+problems efficiently and effectively. They provide a systematic
+approach to:
 
-- Calculations and data processing;
-- Sorting and searching data;
-- Implementing computer programs.
+- /Solving problems/: Algorithms break down problems into smaller,
+  manageable steps;
+- /Optimizing solutions/: Algorithms find the best or near-optimal
+  solutions to problems.
+- /Automating tasks/: Algorithms can automate repetitive or complex
+  tasks, saving time and effort.
+
+
+* Examples of Algorithms
+
+- /Sorting algorithms/: Merge sort, Quick sort, Heap sort;
+- /Searching algorithms/: Linear search, Binary search, Hashing;
+- /Graph algorithms/: Dijkstra’s algorithm, Prim’s algorithm,
+  Floyd-Warshall algorithm;
+- /String matching algorithms/: Knuth-Morris-Pratt algorithm,
+  Boyer-Moore algorithm.
 
 * Creating a blueprint
 
@@ -72,6 +95,17 @@ are easier to understand, program and maintain.
 
 An algorithm must be clear. It must have a starting point, a finishing
 point and a set of clear instructions in between.
+
+** How do Algorithms Work?
+
+Algorithms typically follow a logical structure:
+
+- /Input/: The algorithm receives input data;
+- /Processing/: The algorithm performs a series of operations on the
+  input data;
+- /Output/: The algorithm produces the desired output.
+
+
 
 * Representation of the algorithm in pseudocode
 
