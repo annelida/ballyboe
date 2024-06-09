@@ -49,9 +49,9 @@ data.
 /Hashable object/: is an object that has a hash value which never
 changes during its lifetime.
 
-Hashability is important because it allows objects to be used as keys
-in dictionaries and members in sets. These data structures use the
-hash value internally to efficiently store and retrieve data.
+/Hashability/ is important because it allows objects to be used as
+keys in dictionaries and members in sets. These data structures use
+the hash value internally to efficiently store and retrieve data.
 
 Mutable/immutable??
 
@@ -94,6 +94,31 @@ implementations.
   data efficiently, particularly in applications involving strings;
 - Heaps: A specialized tree-based data structure used for efficient
   sorting and priority queuing;
+
+
+** Arrays
+
+#+begin_quote
+/Array/ is a linear data structure that stores a collection of items
+of same data type in contiguous memory locations.
+#+end_quote
+
+/Linear data structures/ are a type of data structure in computer
+science where data elements are arranged sequentially or
+linearly. Each element has a previous and next adjacent, except for
+the first and last elements.
+
+/Array index/: In an array, elements are identified by their
+indexes. Array index starts from 0.
+
+/Array element/: Elements are items stored in an array and can be
+accessed by their index.
+
+/Array Length/: The length of an array is determined by the number of
+elements it can contain.
+
+ 
+
 
 
 
