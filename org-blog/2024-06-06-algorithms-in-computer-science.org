@@ -106,6 +106,40 @@ Algorithms typically follow a logical structure:
 - /Output/: The algorithm produces the desired output.
 
 
+** Searching Algorithms
+
+https://www.geeksforgeeks.org/searching-algorithms/?ref=lbp
+
+/Searching Algorithms/ are used to locate specific items within a
+collection of data. The primary objective of searching is to determine
+whether the desired element exists within the data, and if so, to
+identify its precise location or retrieve it.
+
+/Target Element/: The specific item or element being searched for
+within the data collection. This target could be a value, a record, a
+key.
+
+/Search Space/: The entire collection of data within which the target
+element is being searched.
+
+/Complexity/: The level of difficulty or efficiency of the algorithm,
+often measured in terms of time and space requirements.
+
+The simplest search algorithm is /Sequential Search/ also known as
+/linear search/: look at all items one after the other, until you find
+the one you want—or check all items to realize it’s not there.
+
+#+begin_example
+Suppose we have an array [] and we want to find the element 39.
+Here's how the sequential search would work:
+Start at index 0 and compare 13 with 39. No match.
+Move to index 1 and compare 9 with 39. No match.
+Move to index 2 and compare 21 with 39. No match.
+Move to index 3 and compare 15 with 39. No match.
+Move to index 4 and compare 39 with 39. Match found!
+#+end_example
+
+
 
 * Representation of the algorithm in pseudocode
 
