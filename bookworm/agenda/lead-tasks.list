@@ -553,7 +553,7 @@ https://www.geeksforgeeks.org/searching-algorithms/
 *** Init [#B] Sorting algorithms
 SCHEDULED: <2024-06-12 Wed>
 :LOGBOOK:
-CLOCK: [2024-06-10 Mon 08:50]
+CLOCK: [2024-06-10 Mon 08:50]--[2024-06-10 Mon 09:15] =>  0:25
 :END:
 
 https://www.geeksforgeeks.org/sorting-algorithms/
@@ -580,8 +580,15 @@ https://www.geeksforgeeks.org/learn-data-structures-and-algorithms-dsa-tutorial/
 ** [#A] Python built-in functions
 SCHEDULED: <2024-06-10 Mon>
 :LOGBOOK:
+CLOCK: [2024-06-10 Mon 12:44]--[2024-06-10 Mon 13:47] =>  1:03
+CLOCK: [2024-06-10 Mon 09:36]--[2024-06-10 Mon 10:02] =>  0:26
 CLOCK: [2024-06-05 Wed 10:16]--[2024-06-05 Wed 10:25] =>  0:09
 CLOCK: [2024-06-05 Wed 09:55]--[2024-06-05 Wed 10:16] =>  0:21
 CLOCK: [2024-06-05 Wed 09:23]--[2024-06-05 Wed 09:36] =>  0:13
 :END:
 [[/home/vikky/git/0--key/org-pub/2016-09-13-python-built-in-functions.org][Read, comprehend and extend it, please]]
+
+[[file:~/git/annelida/ballyboe/org-blog/2024-06-05-python-built-in-function.org::+BEGIN_EXPORT html][Built-in functions]]
+
+
+
