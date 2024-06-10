@@ -139,6 +139,22 @@ Move to index 3 and compare 15 with 39. No match.
 Move to index 4 and compare 39 with 39. Match found!
 #+end_example
 
+** Sorting algorithms
+
+https://www.geeksforgeeks.org/selection-sort/?ref=lbp
+
+/Sorting algorithms/: are used to rearrange a given array or list of
+elements according to a comparison operator on the elements. The
+/comparison operator/ is used to decide the new order of elements in
+the respective data structure. Sorting means /reordering/ of all the
+elements either in ascending or in descending order.
+
+/Selection sort/ is a simple and efficient sorting algorithm that
+works by repeatedly selecting the smallest (or largest) element from
+the unsorted portion of the list and moving it to the sorted portion
+of the list. This process is repeated for the remaining unsorted
+portion until the entire list is sorted.
+
 
 
 * Representation of the algorithm in pseudocode
