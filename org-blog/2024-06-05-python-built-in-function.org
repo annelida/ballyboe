@@ -8,10 +8,13 @@ categories: [Python, built-in-function]
 tags: [python, intro, built-in functions]
 ---
 #+END_EXPORT
-
 #+STARTUP: showall indent
 #+OPTIONS: tags:nil num:nil \n:nil @:t ::t |:t ^:{} _:{} *:t
+#+PROPERTY: header-args :exports both
+#+PROPERTY: header-args+ :results output pp
+#+PROPERTY: header-args+ :eval no-export
 #+TOC: headlines 2
+
 
 * Preamble
 
@@ -60,3 +63,67 @@ ensures that these values are always positive.
 : 20
 : 30.23
 : 5.0
+
+** The ~all()~ function
+
+The Python ~all()~ function returns True if all the elements of a
+given iterable (List, Dictionary, Tuple, set, etc.) are True otherwise
+it returns False. If the iterable object is empty, the ~all()~
+function also returns True.
+
+#+begin_src python
+  # 0 is the same as False
+  mylist = [0, 1, 1]
+  print(all(mylist))
+  # All elements of list are true
+  mylist = [4, 5, 1]
+  print(all(mylist))
+  # Empty List
+  mylist = []
+  print(all(mylist))
+  # Non-Empty String
+  mystring = "helloworld"
+  print(all(mystring))
+  mystring = ""
+  print(all(mystring))
+#+end_src
+
+#+RESULTS:
+: False
+: True
+: True
+: True
+: True
+
+*** Practical application
+
+#+begin_src python
+  # Validate that a username contains only alphabetic characters
+  username = "Alice123"
+  if all(char.isalpha() for char in username):
+      print("Valid username")
+  else:
+    print("Invalid username")
+#+end_src
+
+#+RESULTS:
+: Invalid username
+
+#+begin_src python
+  # Check if a password contains only lowercase letters
+  password = "secure_password"
+  if all(char.islower() for char in password):
+      print("Password format is correct")
+  else:
+    print("Password must contain only lowercase letters")
+#+end_src
+
+#+RESULTS:
+: Password must contain only lowercase letters
+
+
+
+** The ~any()~ function
+
+** The ~ascii()~ function
+
