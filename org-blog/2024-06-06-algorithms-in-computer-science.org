@@ -187,6 +187,14 @@ programming knowledge.
 /Reserved Keywords/: Pseudocode uses reserved keywords like IF, WHILE,
 FOR, and CASE to describe control flow and decision-making.
 
+#+begin_example
+# search of  the lowest value in an array
+Variable 'minVal' = array[0]
+For each element in the array
+    If current element < minVal
+        minVal = current element
+#+end_example
+
 * Types of algorithms
 
 - /Brute Force Algorithm/: A simple algorithm that checks all possible
