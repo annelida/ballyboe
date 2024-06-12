@@ -551,15 +551,16 @@ CLOCK: [2024-06-10 Mon 07:23]--[2024-06-10 Mon 08:01] =>  0:38
 https://www.geeksforgeeks.org/searching-algorithms/
 
 *** Init [#B] Sorting algorithms
-SCHEDULED: <2024-06-12 Wed>
+SCHEDULED: <2024-06-12 Wed ++1w>
 :LOGBOOK:
+CLOCK: [2024-06-12 Wed 09:16]--[2024-06-12 Wed 10:13] =>  0:57
 CLOCK: [2024-06-10 Mon 08:50]--[2024-06-10 Mon 09:15] =>  0:25
 :END:
 
 https://www.geeksforgeeks.org/sorting-algorithms/
 
 ** [#A] Algorithm's Time Complexity O(n)
-SCHEDULED: <2024-06-10 Mon>
+SCHEDULED: <2024-06-12 Wed>
 :PROPERTIES:
 :CATEGORY: O(1)
 :END:
