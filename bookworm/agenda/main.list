@@ -3002,14 +3002,18 @@ CLOCK: [2024-05-29 Wed 06:44]--[2024-05-29 Wed 07:20] =>  0:36
 :END:
 
 ***  [#A] Flask controller pass the dictionary to Jinja
-SCHEDULED: <2024-06-11 Tue>
+SCHEDULED: <2024-06-12 Wed>
+:LOGBOOK:
+CLOCK: [2024-06-12 Wed 08:12]--[2024-06-12 Wed 08:44] =>  0:32
+CLOCK: [2024-06-12 Wed 07:21]--[2024-06-12 Wed 08:05] =>  0:44
+:END:
 
 Flask controller pass the dictionary to Jinja and the latter render
 the values;
 
 
 ***  [#A] SQLite3 pass dictionary to Flask controller
-SCHEDULED: <2024-06-12 Wed>
+SCHEDULED: <2024-06-13 Thu>
 
 ** [#A] I 386 architecture commands
 SCHEDULED: <2024-06-12 Wed>
