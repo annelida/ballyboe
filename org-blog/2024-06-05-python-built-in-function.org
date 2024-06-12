@@ -125,5 +125,40 @@ function also returns True.
 
 ** The ~any()~ function
 
+Python ~any()~ function returns True if any of the elements of a given
+iterable( List, Dictionary, Tuple, set, etc) are True else it returns
+False.
+
+#+begin_src python
+  print(any([True, True]))
+  print(any([True, False]))
+  print(any([False, False]))
+  print(any([]))
+  print(any("Hello, there"))
+  print(any(""))
+#+end_src
+
+#+RESULTS:
+: True
+: True
+: False
+: False
+: True
+: False
+
+*** Practical application
+
+#+begin_src python
+  user_inputs = ["", "", "Python"] 
+  if (any(user_inputs)):
+      print("At least one valid input provided.")
+  else:
+      print("No valid inputs provided.")
+#+end_src
+
+#+RESULTS:
+: At least one valid input provided.
+
+
 ** The ~ascii()~ function
 
