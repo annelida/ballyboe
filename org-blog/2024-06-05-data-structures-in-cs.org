@@ -8,9 +8,11 @@ categories: [Data Structuries, Fundamentals]
 tags: [python, data structuries, dictionaries]
 ---
 #+END_EXPORT
-
 #+STARTUP: showall indent
 #+OPTIONS: tags:nil num:nil \n:nil @:t ::t |:t ^:{} _:{} *:t
+#+PROPERTY: header-args :exports both
+#+PROPERTY: header-args+ :results output pp
+#+PROPERTY: header-args+ :eval no-export
 #+TOC: headlines 2
 
 * Preamble
@@ -116,6 +118,20 @@ accessed by their index.
 
 /Array Length/: The length of an array is determined by the number of
 elements it can contain.
+
+#+begin_src python
+  # Find The Lowest Value in an Array
+  my_array = [5, 11, 8, 3, 12]
+  minVal = my_array[0]
+  for i in my_array:
+      if i < minVal:
+          minVal = i
+  print('Lowest value: ',minVal)
+
+#+end_src
+
+#+RESULTS:
+: Lowest value:  3
 
  
 
