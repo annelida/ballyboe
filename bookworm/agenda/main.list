@@ -3017,12 +3017,19 @@ Flask controller pass the dictionary to Jinja and the latter render
 the values;
 
 
-***  [#A] SQLite3 pass dictionary to Flask controller
+***  [#A] How to integrate a SQLite database into a Flask project
 SCHEDULED: <2024-06-13 Thu>
+:LOGBOOK:
+CLOCK: [2024-06-13 Thu 08:10]--[2024-06-13 Thu 08:34] =>  0:24
+CLOCK: [2024-06-13 Thu 07:16]--[2024-06-13 Thu 08:04] =>  0:48
+:END:
+
+https://realpython.com/flask-database/
+https://www.geeksforgeeks.org/how-to-build-a-web-app-using-flask-and-sqlite-in-python/
+https://realpython.com/flask-connexion-rest-api-part-2/
 
 ** [#A] I 386 architecture commands
 SCHEDULED: <2024-06-13 Thu>
-
 
 * Work
 :PROPERTIES:
