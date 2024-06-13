@@ -209,7 +209,6 @@ CLOCK: [2023-11-24 Fri 08:31]--[2023-11-24 Fri 09:02] =>  0:31
 - State "DONE"       from "ACTIVE"     [2023-11-07 Tue 18:19]
 when you do challenging but indispensable tasks by yourself
 
-* RAW [#B] Help about *Help*
 * [#A] DeepLearning AI
 SCHEDULED: <2024-06-14 Fri>
 - https://www.deeplearning.ai/ ==> Start Learning ==> Sign In (with
@@ -308,7 +307,7 @@ Initially all software was used by the ancient (true) users by its
 Stack-Overflow suggestions and notes. Bear this fact in mind do your
 job as it would be done in a sure and fire manner.
 
-** DELAY [#A] *Python* embedded help system
+*** DELAY [#A] *Python* embedded help system
 SCHEDULED: <2024-06-17 Mon ++2d/3d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-05-12 Sun 18:24]
@@ -339,7 +338,7 @@ CLOCK: [2024-03-07 Thu 10:40]--[2024-03-07 Thu 10:57] =>  0:17
 - State "DONE"       from "ACTIVE"     [2023-11-11 Sat 17:14]
 - State "DONE"       from "ACTIVE"     [2023-11-09 Thu 18:41]
 - State "DONE"       from "ACTIVE"     [2023-11-07 Tue 18:21]
-** *Selenium* package review
+*** *Selenium* package review
 SCHEDULED: <2024-06-18 Tue ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-05-26 Sun 19:32]
@@ -381,7 +380,7 @@ CLOCK: [2024-02-26 Mon 07:39]--[2024-02-26 Mon 08:37] =>  0:58
 - Content;
 - Source code and =docstrings=
 
-** AMPLE Emacs' embedded help system
+*** AMPLE Emacs' embedded help system
 CLOSED: [2023-12-06 Wed 16:11] SCHEDULED: <2023-12-08 Fri>
 - Note taken on [2023-10-14 Sat 08:14] \\
 
@@ -409,7 +408,7 @@ CLOCK: [2023-10-14 Sat 07:30]--[2023-10-14 Sat 08:27] =>  0:57
 Very straighforward system out from 10 initial keys to use in embedded
 *Help* browser.OA To use several *Help* buffers use =M-x raname uniquely=
 
-* RAW [#B] Help about *info*
+** RAW [#B] Help about *info*
 SCHEDULED: <2024-06-14 Fri ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-06-07 Fri 19:27]
@@ -624,7 +623,6 @@ https://www.geeksforgeeks.org/learn-data-structures-and-algorithms-dsa-tutorial/
 
 * Python
 
-** [#B] Python built-in functions
 ** [#A] Study Python with unittests
 SCHEDULED: <2024-06-14 Fri ++2d>
 - Take a look at 0--key/org-pub/2024-06-05-python-fundamentals.org;
@@ -641,6 +639,9 @@ SCHEDULED: <2024-06-14 Fri ++2d>
 - Finally it is possible to launch unittests inside Babel without any
   tangling files at all.
 
+
+
+** Python built-in functions
 SCHEDULED: <2024-06-14 Fri>
 :LOGBOOK:
 CLOCK: [2024-06-12 Wed 16:03]--[2024-06-12 Wed 16:45] =>  0:42
@@ -667,7 +668,7 @@ SCHEDULED: <2024-06-14 Fri>
 
 https://www.geeksforgeeks.org/ascii-in-python/?ref=lbp
 
-** [#A] Set of built-in methods in Python defined for specific data types
+** Set of built-in methods in Python defined for specific data types
 SCHEDULED: <2024-06-14 Fri>
 
 
