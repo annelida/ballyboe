@@ -12,10 +12,11 @@
 #+TODO: DELAY LAG RETARD | BARE
 
 * Genuine source of knowledge
-SCHEDULED: <2024-06-13 Thu ++1d>
+SCHEDULED: <2024-06-14 Fri ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-06-12 Wed 07:21]
+:LAST_REPEAT: [2024-06-13 Thu 17:26]
 :END:
+- State "AMPLE"      from ""           [2024-06-13 Thu 17:26]
 - State "AMPLE"      from ""           [2024-06-12 Wed 07:21]
 - State "AMPLE"      from ""           [2024-06-09 Sun 19:03]
 - State "AMPLE"      from ""           [2024-06-08 Sat 18:01]
@@ -103,10 +104,11 @@ about how the program works are:
 --* INIT Conclusion*: the wisest decision is just to use it properly!
 
 * Deliberate practice
-SCHEDULED: <2024-06-13 Thu ++1d>
+SCHEDULED: <2024-06-14 Fri ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-06-11 Tue 19:05]
+:LAST_REPEAT: [2024-06-13 Thu 17:26]
 :END:
+- State "AMPLE"      from ""           [2024-06-13 Thu 17:26]
 - State "AMPLE"      from ""           [2024-06-11 Tue 19:05]
 - State "AMPLE"      from ""           [2024-06-11 Tue 19:04]
 - State "AMPLE"      from ""           [2024-06-09 Sun 19:03]
@@ -208,7 +210,7 @@ CLOCK: [2023-11-24 Fri 08:31]--[2023-11-24 Fri 09:02] =>  0:31
 when you do challenging but indispensable tasks by yourself
 
 * RAW [#B] Help about *Help*
-SCHEDULED: <2024-06-13 Thu ++1d>
+SCHEDULED: <2024-06-14 Fri ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-06-07 Fri 19:27]
 :CATEGORY: Emacs
@@ -393,7 +395,7 @@ Very straighforward system out from 10 initial keys to use in embedded
 *Help* browser.OA To use several *Help* buffers use =M-x raname uniquely=
 
 * RAW [#B] Help about *info*
-SCHEDULED: <2024-06-13 Thu ++1d>
+SCHEDULED: <2024-06-14 Fri ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-06-07 Fri 19:27]
 :CATEGORY: Emacs
@@ -448,10 +450,11 @@ Mostly the similar approach with several quirks
 [[file:~/git/annelida/ballyboe/org-blog/2024-05-26-Emacs-help-about-help.org::*The list of commands, which began with C-h prefix][The list of commands, which began with C-h prefix and Info commands]]
 
 * Task decomposition
-SCHEDULED: <2024-06-13 Thu ++1d>
+SCHEDULED: <2024-06-14 Fri ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-06-11 Tue 19:05]
+:LAST_REPEAT: [2024-06-13 Thu 17:26]
 :END:
+- State "AMPLE"      from ""           [2024-06-13 Thu 17:26]
 - State "AMPLE"      from ""           [2024-06-11 Tue 19:05]
 - State "AMPLE"      from ""           [2024-06-11 Tue 19:04]
 - State "AMPLE"      from ""           [2024-06-09 Sun 19:03]
@@ -494,8 +497,10 @@ https://www.youtube.com/watch?v=bEfYm8sAaQg
 :CATEGORY: CS
 :END:
 
+** [#A] Abstract data types
+SCHEDULED: <2024-06-14 Fri>
 ** Data structures in CS
-SCHEDULED: <2024-06-13 Thu ++1d>
+SCHEDULED: <2024-06-14 Fri ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-06-12 Wed 17:11]
 :END:
@@ -566,20 +571,28 @@ CLOCK: [2024-06-10 Mon 07:23]--[2024-06-10 Mon 08:01] =>  0:38
 
 https://www.geeksforgeeks.org/searching-algorithms/
 
-*** Init [#B] Sorting algorithms
-SCHEDULED: <2024-06-13 Thu ++1w>
+*** DELAY [#B] Sorting algorithms
+SCHEDULED: <2024-06-20 Thu ++1w>
+:PROPERTIES:
+:LAST_REPEAT: [2024-06-13 Thu 17:01]
+:END:
+- State "AMPLE"      from "DELAY"      [2024-06-13 Thu 17:01]
 :LOGBOOK:
+CLOCK: [2024-06-13 Thu 09:44]--[2024-06-13 Thu 09:46] =>  0:02
+CLOCK: [2024-06-13 Thu 09:37]--[2024-06-13 Thu 09:39] =>  0:02
 CLOCK: [2024-06-12 Wed 09:16]--[2024-06-12 Wed 10:13] =>  0:57
 CLOCK: [2024-06-10 Mon 08:50]--[2024-06-10 Mon 09:15] =>  0:25
 :END:
 
 https://www.geeksforgeeks.org/sorting-algorithms/
 
-** [#A] Algorithm's Time Complexity O(n)
-SCHEDULED: <2024-06-13 Thu>
+** [#C] Algorithm's Time Complexity O(n)
+SCHEDULED: <2024-06-20 Thu ++1w>
 :PROPERTIES:
 :CATEGORY: O(1)
+:LAST_REPEAT: [2024-06-13 Thu 17:13]
 :END:
+- State "AMPLE"      from ""           [2024-06-13 Thu 17:13]
 - Note taken on [2024-06-06 Thu 08:58] \\
   An algorithm's time complexity of O(n) refers to a linear time
   complexity. This means that the running time of the algorithm
@@ -587,6 +600,7 @@ SCHEDULED: <2024-06-13 Thu>
   time taken by the algorithm to execute grows directly with the size of
   the input, and the time complexity is proportional to the input size.
 :LOGBOOK:
+CLOCK: [2024-06-13 Thu 09:27]--[2024-06-13 Thu 09:30] =>  0:03
 CLOCK: [2024-06-06 Thu 08:51]--[2024-06-06 Thu 09:09] =>  0:18
 :END:
 
@@ -595,8 +609,8 @@ https://www.geeksforgeeks.org/learn-data-structures-and-algorithms-dsa-tutorial/
 
 * Python
 
-** [#A] Python built-in functions
-SCHEDULED: <2024-06-13 Thu>
+** [#B] Python built-in functions
+SCHEDULED: <2024-06-14 Fri>
 :LOGBOOK:
 CLOCK: [2024-06-12 Wed 16:03]--[2024-06-12 Wed 16:45] =>  0:42
 CLOCK: [2024-06-10 Mon 12:44]--[2024-06-10 Mon 13:47] =>  1:03
@@ -617,12 +631,12 @@ SCHEDULED: <2024-06-19 Wed ++1w>
 - State "AMPLE"      from ""           [2024-06-12 Wed 16:55]
 https://www.geeksforgeeks.org/python-any-function/?ref=lbp
 
-*** [#A] Python ~ascii()~ built-in function
-SCHEDULED: <2024-06-13 Thu>
+*** [#B] Python ~ascii()~ built-in function
+SCHEDULED: <2024-06-14 Fri>
 
 https://www.geeksforgeeks.org/ascii-in-python/?ref=lbp
 
 ** [#A] Set of built-in methods in Python defined for specific data types
-SCHEDULED: <2024-06-13 Thu>
+SCHEDULED: <2024-06-14 Fri>
 
 
