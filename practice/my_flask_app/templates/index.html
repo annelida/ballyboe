@@ -1,3 +1,18 @@
 <!DOCTYPE html>
 <html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>{{ title }}</title>
+</head>
+
+<body>
+  <h1>SQLite Database in a Flask Application</h1>
+  <ul>
+  {% for item in items %}
+    <li>
+      <em>{{ item['name'] }}:</em> {{ item['sku'] }} {{ item['manufacturer'] }}
+    </li>
+  {% endfor %}
+  </ul>
+</body>
 </html>
