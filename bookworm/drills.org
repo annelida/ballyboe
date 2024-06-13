@@ -725,6 +725,7 @@ libraries] that allow [reproduce itself] on other workstations and
 :END:
 If you want something [you have never had], you must [be willing to do
 something] you [have never done].
+** “Knowing the right questions is much harder than having the answers.”
 ** Zig Ziglar                                                        :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: hide1cloze
