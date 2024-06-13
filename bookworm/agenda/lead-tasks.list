@@ -625,6 +625,22 @@ https://www.geeksforgeeks.org/learn-data-structures-and-algorithms-dsa-tutorial/
 * Python
 
 ** [#B] Python built-in functions
+** [#A] Study Python with unittests
+SCHEDULED: <2024-06-14 Fri ++2d>
+- Take a look at 0--key/org-pub/2024-06-05-python-fundamentals.org;
+- It uses :session and :tangle properties, check up the manual about
+  properties in general and about these particular ones as well;
+- The test suites are in the body with :results none (to suppress the
+  output);
+- The next code block evaluates the test suite above and uses the
+  property :results output pp frome the file header;
+- So, just evaluate the test suite first (C-c C-c inside the code block);
+- After that your test suite is inside Babel session;
+- So, unittest.main(exit=False) will produce the result of test suite
+  evaluation and spit out the relevant results;
+- Finally it is possible to launch unittests inside Babel without any
+  tangling files at all.
+
 SCHEDULED: <2024-06-14 Fri>
 :LOGBOOK:
 CLOCK: [2024-06-12 Wed 16:03]--[2024-06-12 Wed 16:45] =>  0:42
