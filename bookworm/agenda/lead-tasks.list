@@ -210,6 +210,21 @@ CLOCK: [2023-11-24 Fri 08:31]--[2023-11-24 Fri 09:02] =>  0:31
 when you do challenging but indispensable tasks by yourself
 
 * RAW [#B] Help about *Help*
+* [#A] DeepLearning AI
+SCHEDULED: <2024-06-14 Fri>
+- https://www.deeplearning.ai/ ==> Start Learning ==> Sign In (with
+  Google)
+- https://learn.deeplearning.ai/courses/chatgpt-prompt-eng/lesson/1/introduction
+- Have a joy!
+
+
+
+* Emacs
+
+** [#A] Counsel
+SCHEDULED: <2024-06-13 Thu ++2d>
+[[elisp:(apropos-command "counsel")]]
+** Init [#B] Help about *Help*
 SCHEDULED: <2024-06-14 Fri ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-06-07 Fri 19:27]
