@@ -221,7 +221,7 @@ SCHEDULED: <2024-06-14 Fri>
 * Emacs
 
 ** [#A] Counsel
-SCHEDULED: <2024-06-13 Thu ++2d>
+SCHEDULED: <2024-06-14 Fri ++2d>
 [[elisp:(apropos-command "counsel")]]
 ** Init [#B] Help about *Help*
 SCHEDULED: <2024-06-14 Fri ++1d>
