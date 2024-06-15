@@ -636,7 +636,25 @@ https://www.geeksforgeeks.org/learn-data-structures-and-algorithms-dsa-tutorial/
 * Python
 
 ** [#A] Study Python with unittests
-SCHEDULED: <2024-06-14 Fri ++2d>
+SCHEDULED: <2024-06-15 Sat ++2d>
+- Note taken on [2024-06-15 Sat 07:56] \\
+  [[info:org#Using Header Arguments][org#Using Header Arguments]]
+  https://orgmode.org/manual/Extracting-Source-Code.html#Header-arguments
+
+  #+begin_src :tangle example.py
+    print("Hello, World!")
+  #+end_src
+
+  #+begin_src python :results output pp
+    def hello_world():
+        print("Hello, world!")
+    hello_world()
+  #+end_src
+
+  #+RESULTS:
+  : Hello, world!
+
+
 - Take a look at 0--key/org-pub/2024-06-05-python-fundamentals.org;
 - It uses :session and :tangle properties, check up the manual about
   properties in general and about these particular ones as well;
