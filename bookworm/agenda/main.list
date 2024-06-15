@@ -1184,7 +1184,43 @@ CLOCK: [2024-05-27 Mon 07:34]--[2024-05-27 Mon 08:27] =>  0:53
 [[file:~/git/annelida/ballyboe/org-blog/2024-05-27-the-compliler-is-a-crucial-tool.org][file:~/git/annelida/ballyboe/org-blog/2024-05-27-the-compliler-is-a-crucial-tool.org]]
 
 *** [#A] Typical test folder structure in Python
-SCHEDULED: <2024-06-14 Fri>
+SCHEDULED: <2024-06-15 Sat>
+- Note taken on [2024-06-15 Sat 08:13] \\
+  - Project Root ~(project/)~: This is the top-level directory of the
+    project. It contains all the files and subdirectories related to
+    your project;
+  - Package ~(package/)~: This subdirectory contains the actual
+    application code. It's structured as a Python package, meaning it
+    can contain multiple modules. Each module within this package is a
+    ~.py~ file that contains the implementation of various
+    functionalities. The ~__init__.py~ file indicates that the
+    directory should be treated as a Python package;
+  - Tests ~(tests/)~: This subdirectory is dedicated to storing test
+    code. It mirrors the structure of the ~package/~ directory, with
+    one-to-one correspondence between modules in ~package/~ and test
+    modules in ~tests/~. Each test module corresponds to a module in
+    the ~package/~ directory and contains unit tests for that
+    module. The ~__init__.py~ file in the ~tests/~ directory is
+    necessary for Python to recognize it as a package, allowing for
+    test discovery;
+  - Setup ~(setup.py)~: This file is used for packaging and
+    distributing your project. It includes metadata about your project
+    and dependencies.
+
+    #+begin_example
+    project/
+  ├── package/
+  │   ├── __init__.py
+  │   ├── module.py
+  ├── tests/
+  │   ├── __init__.py
+  │   ├── test_module.py
+  ├── setup.py
+    #+end_example
+:LOGBOOK:
+CLOCK: [2024-06-15 Sat 08:08]--[2024-06-15 Sat 08:23] =>  0:15
+CLOCK: [2024-06-15 Sat 07:58]--[2024-06-15 Sat 07:58] =>  0:00
+:END:
 
 *** AMPLE Venvs decluttering and reorder
 SCHEDULED: <2024-02-22 Thu>
