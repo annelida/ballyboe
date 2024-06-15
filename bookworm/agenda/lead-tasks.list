@@ -221,10 +221,22 @@ SCHEDULED: <2024-06-14 Fri>
 * Emacs
 
 ** [#A] Counsel
-SCHEDULED: <2024-06-14 Fri ++2d>
+SCHEDULED: <2024-06-15 Sat ++2d>
+- Note taken on [2024-06-14 Fri 08:56] \\
+  Key bindings for navigation in ivy minibuffer
+
+  C-n (ivy-next-line) selects the next candidate
+  C-p (ivy-previous-line) selects the previous candidate
+  M-< (ivy-beginning-of-buffer) selects the first candidate
+  M-> (ivy-end-of-buffer) selects the last candidate
+  C-v (ivy-scroll-up-command) scrolls up by ivy-height lines
+  M-v (ivy-scroll-down-command) scrolls down by ivy-height lines
+:LOGBOOK:
+CLOCK: [2024-06-14 Fri 07:52]--[2024-06-14 Fri 08:50] =>  0:58
+:END:
 [[elisp:(apropos-command "counsel")]]
 ** Init [#B] Help about *Help*
-SCHEDULED: <2024-06-14 Fri ++1d>
+SCHEDULED: <2024-06-15 Sat ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-06-07 Fri 19:27]
 :CATEGORY: Emacs
