@@ -66,7 +66,39 @@ While dictionaries themselves are not hashable, they require their
 keys to be hashable in order to leverage efficient hash table
 implementations.
 
+* Abstract data types
 
+#+begin_quote
+/Abstract data type/ is a type (or class) for objects whose behavior
+is defined by a set of values and a set of operations.
+
+The definition of ADT only mentions what operations are to be
+performed but not how these operations will be implemented. It does
+not specify how data will be organized in memory and what algorithms
+will be used for implementing the operations. It is called “abstract”
+because it gives an implementation-independent view.
+
+So a user only needs to know what a data type can do, but not how it
+will be implemented. Think of ADT as a black box which hides the inner
+structure and design of the data type.
+#+end_quote
+
+An Abstract Data Type only describes how variables of a given data
+type are operated. It provides a list of operations, but doesn’t ex-
+plain how data operations happen.
+
+A List is a widely-used Abstract Data Type (ADT) that represents an
+ordered collection of elements.
+
+Commonly defined operations in a List ADT include:
+
+- insert n, e : insert the item e at position n,
+- remove n : remove the item at position n,
+- get n : get the item at position n,
+- sort : sort the items in the list,
+- slice start, end : return a sub-list slice starting at the position
+  start up until the position end,
+- reverse : reverse the order of the list.
 * The Common Data Structures in Computer Science
 
 - /Arrays/: A collection of elements of the same data type stored in
