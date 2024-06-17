@@ -685,6 +685,27 @@ SCHEDULED: <2024-06-16 Sun ++2d>
   #+RESULTS:
   : Hello, world!
 
+  The ~:session~ header argument in Org-mode is used to specify a
+  shared session for executing code blocks within an Org
+  document. ~:session~ header argument in Org-mode offers a powerful
+  way to manage code execution environments across multiple source
+  blocks. By sharing a session across multiple code blocks, you avoid
+  the overhead of reinitializing the environment for each block,
+  thereby improving the efficiency.
+
+  #+begin_src python :session mysession :results none
+    x = 10
+    y = 20
+  #+end_src
+
+  #+begin_src python :results output :session mysession
+    result = x + y
+    print(result)
+  #+end_src
+
+  #+RESULTS:
+  : 30
+
 
 - Take a look at 0--key/org-pub/2024-06-05-python-fundamentals.org;
 - It uses :session and :tangle properties, check up the manual about
