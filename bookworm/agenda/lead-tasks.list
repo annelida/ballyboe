@@ -655,7 +655,26 @@ SCHEDULED: <2024-06-16 Sun ++2d>
 
   #+begin_src :tangle example.py
     print("Hello, World!")
+  The ~:tangle~ argument in Org-mode is used to extract code from your
+  Org-mode documents and save it to an external file.
+
+  #+begin_src python :results output :tangle example.py
+    def hello_world():
+        print("Hello, world")
+
+    hello_world()
   #+end_src
+
+  When you run the =M-x org-babel-tangle= command (usually bound to
+  C-c C-v t), this code block will be extracted and saved into a file
+  named ~example.py~ with the following content:
+
+  #+begin_example
+    def hello_world():
+        print("Hello, world")
+
+    hello_world()
+  #+end_example
 
   #+begin_src python :results output pp
     def hello_world():
