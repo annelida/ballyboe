@@ -17,6 +17,8 @@
 ;; Scrolling
 (key-chord-define-global "ij"     'scroll-down-command)
 (key-chord-define-global ",j"     'scroll-up-command)
+(key-chord-define-global "IJ"     'scroll-other-window-down)
+(key-chord-define-global "KM"     'scroll-other-window)
 
 ;; Frames and Windows management:
 (key-chord-define-global "'\\"     'other-frame)
@@ -126,3 +128,22 @@
 ;; Clock In-Out and Timers
 (key-chord-define-global "lc"     'org-clock-in-last)
 (key-chord-define-global "sc"     'org-clock-out) ;; stop-clock
+
+;; Ivy and Counsel:
+(key-chord-define ivy-minibuffer-map "gg"     'minibuffer-keyboard-quit) ;; often
+(key-chord-define ivy-minibuffer-map "jj"     'ivy-next-line)
+(key-chord-define ivy-minibuffer-map "kk"     'ivy-previous-line)
+(key-chord-define ivy-minibuffer-map "km"     'ivy-scroll-up-command)
+(key-chord-define ivy-minibuffer-map "ij"     'ivy-scroll-down-command)
+
+
+;; helpful ===========  ***  =====================
+;; it's just a brilliant composer of *Help* buffers
+;; Note that the built-in `describe-function' includes both functions
+;; and macros. `helpful-function' is functions only, so we provide
+;; `helpful-callable' as a drop-in replacement.
+(global-set-key (kbd "C-h f") #'helpful-callable)
+
+(global-set-key (kbd "C-h v") #'helpful-variable)
+(global-set-key (kbd "C-h k") #'helpful-key)
+(global-set-key (kbd "C-h x") #'helpful-command)
