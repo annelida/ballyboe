@@ -12,10 +12,11 @@
 #+TODO: DELAY LAG RETARD | BARE
 
 * Genuine source of knowledge
-SCHEDULED: <2024-06-16 Sun ++1d>
+SCHEDULED: <2024-06-18 Tue ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-06-15 Sat 19:14]
+:LAST_REPEAT: [2024-06-16 Sun 18:12]
 :END:
+- State "AMPLE"      from ""           [2024-06-16 Sun 18:12]
 - State "AMPLE"      from ""           [2024-06-15 Sat 19:14]
 - State "AMPLE"      from ""           [2024-06-14 Fri 20:05]
 - State "AMPLE"      from ""           [2024-06-13 Thu 17:26]
@@ -106,10 +107,11 @@ about how the program works are:
 --* INIT Conclusion*: the wisest decision is just to use it properly!
 
 * Deliberate practice
-SCHEDULED: <2024-06-16 Sun ++1d>
+SCHEDULED: <2024-06-18 Tue ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-06-15 Sat 19:14]
+:LAST_REPEAT: [2024-06-16 Sun 18:12]
 :END:
+- State "AMPLE"      from ""           [2024-06-16 Sun 18:12]
 - State "AMPLE"      from ""           [2024-06-15 Sat 19:14]
 - State "AMPLE"      from ""           [2024-06-14 Fri 20:05]
 - State "AMPLE"      from ""           [2024-06-13 Thu 17:26]
@@ -213,9 +215,10 @@ CLOCK: [2023-11-24 Fri 08:31]--[2023-11-24 Fri 09:02] =>  0:31
 - State "DONE"       from "ACTIVE"     [2023-11-07 Tue 18:19]
 when you do challenging but indispensable tasks by yourself
 
-* [#A] DeepLearning AI
-SCHEDULED: <2024-06-16 Sun>
+* [#B] DeepLearning AI
+SCHEDULED: <2024-06-18 Tue>
 :LOGBOOK:
+CLOCK: [2024-06-17 Mon 10:10]--[2024-06-17 Mon 10:42] =>  0:32
 CLOCK: [2024-06-14 Fri 09:00]--[2024-06-14 Fri 09:24] =>  0:24
 :END:
 - https://www.deeplearning.ai/ ==> Start Learning ==> Sign In (with
@@ -223,11 +226,12 @@ CLOCK: [2024-06-14 Fri 09:00]--[2024-06-14 Fri 09:24] =>  0:24
 - https://learn.deeplearning.ai/courses/chatgpt-prompt-eng/lesson/1/introduction
 - Have a joy!
 
+ https://learn.deeplearning.ai/courses/chatgpt-prompt-eng/lesson/2/guidelines
 
 * Emacs
 
 ** [#A] Counsel
-SCHEDULED: <2024-06-16 Sun ++2d>
+SCHEDULED: <2024-06-18 Tue ++2d>
 - Note taken on [2024-06-14 Fri 08:56] \\
   Key bindings for navigation in ivy minibuffer
 
@@ -241,12 +245,13 @@ SCHEDULED: <2024-06-16 Sun ++2d>
 CLOCK: [2024-06-14 Fri 07:52]--[2024-06-14 Fri 08:50] =>  0:58
 :END:
 [[elisp:(apropos-command "counsel")]]
-** Init [#B] Help about *Help*
-SCHEDULED: <2024-06-16 Sun ++1d>
+** RAW [#B] Help about *Help*
+SCHEDULED: <2024-06-18 Tue ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-06-07 Fri 19:27]
+:LAST_REPEAT: [2024-06-16 Sun 18:12]
 :CATEGORY: Emacs
 :END:
+- State "AMPLE"      from "Init"       [2024-06-16 Sun 18:12]
 - State "AMPLE"      from "RAW"        [2024-06-07 Fri 19:27]
 - State "AMPLE"      from "RAW"        [2024-06-06 Thu 19:41]
 - State "DONE"       from "Active"     [2024-01-30 Tue 14:56]
@@ -325,8 +330,8 @@ Initially all software was used by the ancient (true) users by its
 Stack-Overflow suggestions and notes. Bear this fact in mind do your
 job as it would be done in a sure and fire manner.
 
-*** DELAY [#A] *Python* embedded help system
-SCHEDULED: <2024-06-17 Mon ++2d/3d>
+***  [#C] *Python* embedded help system
+SCHEDULED: <2024-06-18 Tue ++2d/3d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-05-12 Sun 18:24]
 :CATEGORY: Python
@@ -427,11 +432,12 @@ Very straighforward system out from 10 initial keys to use in embedded
 *Help* browser.OA To use several *Help* buffers use =M-x raname uniquely=
 
 ** RAW [#B] Help about *info*
-SCHEDULED: <2024-06-16 Sun ++1d>
+SCHEDULED: <2024-06-18 Tue ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-06-07 Fri 19:27]
+:LAST_REPEAT: [2024-06-16 Sun 18:12]
 :CATEGORY: Emacs
 :END:
+- State "AMPLE"      from "RAW"        [2024-06-16 Sun 18:12]
 - State "AMPLE"      from "RAW"        [2024-06-07 Fri 19:27]
 - State "AMPLE"      from "RAW"        [2024-06-06 Thu 19:41]
 - State "DONE"       from "Active"     [2024-01-30 Tue 14:56]
@@ -482,10 +488,11 @@ Mostly the similar approach with several quirks
 [[file:~/git/annelida/ballyboe/org-blog/2024-05-26-Emacs-help-about-help.org::*The list of commands, which began with C-h prefix][The list of commands, which began with C-h prefix and Info commands]]
 
 * Task decomposition
-SCHEDULED: <2024-06-16 Sun ++1d>
+SCHEDULED: <2024-06-18 Tue ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-06-15 Sat 19:14]
+:LAST_REPEAT: [2024-06-16 Sun 18:12]
 :END:
+- State "AMPLE"      from ""           [2024-06-16 Sun 18:12]
 - State "AMPLE"      from ""           [2024-06-15 Sat 19:14]
 - State "AMPLE"      from ""           [2024-06-14 Fri 20:03]
 - State "AMPLE"      from ""           [2024-06-13 Thu 17:26]
@@ -531,10 +538,13 @@ https://www.youtube.com/watch?v=bEfYm8sAaQg
 :CATEGORY: CS
 :END:
 
-** [#A] Abstract data types
-SCHEDULED: <2024-06-16 Sun>
-** [#A] Data structures in CS
-SCHEDULED: <2024-06-16 Sun ++1d>
+** [#B] Abstract data types
+SCHEDULED: <2024-06-18 Tue>
+:LOGBOOK:
+CLOCK: [2024-06-17 Mon 09:14]--[2024-06-17 Mon 10:04] =>  0:50
+:END:
+** [#B] Data structures in CS
+SCHEDULED: <2024-06-18 Tue ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-06-12 Wed 17:11]
 :END:
@@ -580,12 +590,12 @@ CLOCK: [2024-06-09 Sun 07:27]--[2024-06-09 Sun 08:47] =>  1:20
 
 [[https://www.geeksforgeeks.org/introduction-to-arrays-data-structure-and-algorithm-tutorials/]]
 *** [#A] Linked lists
-SCHEDULED: <2024-06-16 Sun>
+SCHEDULED: <2024-06-18 Tue>
 
 https://www.geeksforgeeks.org/singly-linked-list-definition-meaning-dsa/?ref=outind
 
 ** [#C] Algorithms in CS
-SCHEDULED: <2024-06-16 Sun ++1w>
+SCHEDULED: <2024-06-18 Tue ++1w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-06-09 Sun 19:01]
 :END:
@@ -601,7 +611,7 @@ https://www.geeksforgeeks.org/fundamentals-of-algorithms/?ref=shm
 [[https://www.bbc.co.uk/bitesize/guides/zpp49j6/revision/2]]
 
 *** Init [#A] Searching algorithms
-SCHEDULED: <2024-06-16 Sun>
+SCHEDULED: <2024-06-18 Tue>
 :LOGBOOK:
 CLOCK: [2024-06-10 Mon 08:09]--[2024-06-10 Mon 08:32] =>  0:23
 CLOCK: [2024-06-10 Mon 07:23]--[2024-06-10 Mon 08:01] =>  0:38
@@ -648,13 +658,15 @@ https://www.geeksforgeeks.org/learn-data-structures-and-algorithms-dsa-tutorial/
 * Python
 
 ** [#A] Study Python with unittests
-SCHEDULED: <2024-06-16 Sun ++2d>
+SCHEDULED: <2024-06-18 Tue ++2d>
+:LOGBOOK:
+CLOCK: [2024-06-17 Mon 07:21]--[2024-06-17 Mon 08:01] =>  0:40
+CLOCK: [2024-06-16 Sun 07:21]--[2024-06-16 Sun 08:06] =>  0:45
+:END:
 - Note taken on [2024-06-15 Sat 07:56] \\
   [[info:org#Using Header Arguments][org#Using Header Arguments]]
   https://orgmode.org/manual/Extracting-Source-Code.html#Header-arguments
 
-  #+begin_src :tangle example.py
-    print("Hello, World!")
   The ~:tangle~ argument in Org-mode is used to extract code from your
   Org-mode documents and save it to an external file.
 
@@ -679,6 +691,7 @@ SCHEDULED: <2024-06-16 Sun ++2d>
   #+begin_src python :results output pp
     def hello_world():
         print("Hello, world!")
+
     hello_world()
   #+end_src
 
@@ -723,8 +736,8 @@ SCHEDULED: <2024-06-16 Sun ++2d>
 
 
 
-** [#A] Python built-in functions
-SCHEDULED: <2024-06-16 Sun>
+** [#A] Python built-in functions with unittest
+SCHEDULED: <2024-06-18 Tue>
 :LOGBOOK:
 CLOCK: [2024-06-12 Wed 16:03]--[2024-06-12 Wed 16:45] =>  0:42
 CLOCK: [2024-06-10 Mon 12:44]--[2024-06-10 Mon 13:47] =>  1:03
@@ -746,9 +759,9 @@ SCHEDULED: <2024-06-19 Wed ++1w>
 https://www.geeksforgeeks.org/python-any-function/?ref=lbp
 
 *** [#A] Python ~ascii()~ built-in function
-SCHEDULED: <2024-06-16 Sun>
+SCHEDULED: <2024-06-18 Tue>
 
 https://www.geeksforgeeks.org/ascii-in-python/?ref=lbp
 
 ** [#A] Set of built-in methods in Python defined for specific data types
-SCHEDULED: <2024-06-16 Sun>
+SCHEDULED: <2024-06-18 Tue>
