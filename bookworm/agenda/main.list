@@ -56,7 +56,7 @@ MY PROJECTS    -*- mode: org; -*-
 features description
 ***** Task classification
 **** DELAY Article about brand-new task resolving
-SCHEDULED: <2024-06-17 Mon>
+SCHEDULED: <2024-07-30 Tue>
 :LOGBOOK:
 CLOCK: [2024-04-20 Sat 08:41]--[2024-04-20 Sat 09:25] =>  0:44
 CLOCK: [2024-04-12 Fri 07:12]--[2024-04-12 Fri 08:12] =>  1:00
@@ -115,10 +115,12 @@ SCHEDULED: <2024-02-10 Sat>
 *** Grammar
 **** BBC Learning English
 ***** DELAY [#C] Inderect questions
-SCHEDULED: <2024-06-17 Mon ++2w>
+SCHEDULED: <2024-07-15 Mon ++2w>
 :PROPERTIES:
-:LAST_REPEAT: [2024-06-03 Mon 19:55]
+:LAST_REPEAT: [2024-06-16 Sun 18:13]
 :END:
+- State "AMPLE"      from "DELAY"      [2024-06-16 Sun 18:13]
+- State "AMPLE"      from "LAG"        [2024-06-16 Sun 18:13]
 - State "AMPLE"      from "DELAY"      [2024-06-03 Mon 19:55]
 - State "AMPLE"      from "LAG"        [2024-05-17 Fri 07:16]
 - State "AMPLE"      from "DELAY"      [2024-03-26 Tue 10:15]
@@ -170,11 +172,13 @@ CLOCK: [2024-02-28 Wed 09:48]--[2024-02-28 Wed 10:29] =>  0:41
 CLOCK: [2024-02-21 Wed 09:38]--[2024-02-21 Wed 09:54] =>  0:16
 :END:
 https://www.bbc.co.uk/learningenglish/english/course/lower-intermediate/unit-1/session-2/activity-4
-***** [#C] "Like" for preference and description
-SCHEDULED: <2024-06-17 Mon ++2w>
+***** DELAY [#C] "Like" for preference and description
+SCHEDULED: <2024-07-15 Mon ++2w>
 :PROPERTIES:
-:LAST_REPEAT: [2024-06-03 Mon 19:55]
+:LAST_REPEAT: [2024-06-16 Sun 18:13]
 :END:
+- State "AMPLE"      from "DELAY"      [2024-06-16 Sun 18:13]
+- State "AMPLE"      from ""           [2024-06-16 Sun 18:13]
 - State "AMPLE"      from ""           [2024-06-03 Mon 19:55]
 - State "AMPLE"      from ""           [2024-04-30 Tue 18:19]
 - State "AMPLE"      from ""           [2024-03-01 Fri 18:36]
@@ -183,10 +187,11 @@ CLOCK: [2024-03-01 Fri 10:32]--[2024-03-01 Fri 11:03] =>  0:31
 :END:
 [[https://www.bbc.co.uk/learningenglish/english/course/lower-intermediate/unit-3/session-2/activity-4]]
 ***** [#C] Adverbs of frequency
-SCHEDULED: <2024-06-17 Mon ++2w>
+SCHEDULED: <2024-07-01 Mon ++2w>
 :PROPERTIES:
-:LAST_REPEAT: [2024-06-03 Mon 19:55]
+:LAST_REPEAT: [2024-06-16 Sun 18:13]
 :END:
+- State "AMPLE"      from ""           [2024-06-16 Sun 18:13]
 - State "AMPLE"      from ""           [2024-06-03 Mon 19:55]
 - State "AMPLE"      from ""           [2024-03-05 Tue 18:43]
 :LOGBOOK:
@@ -286,10 +291,12 @@ CLOCK: [2024-04-25 Thu 07:11]--[2024-04-25 Thu 07:40] =>  0:29
 :END:
 [https://learnenglish.britishcouncil.org/grammar/english-grammar-reference/demonstratives]
 ****** [#C] 'one' and 'ones'
-SCHEDULED: <2024-06-16 Sun ++2d>
+SCHEDULED: <2024-06-20 Thu ++2d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-06-14 Fri 20:04]
+:LAST_REPEAT: [2024-06-17 Mon 18:05]
 :END:
+- State "AMPLE"      from ""           [2024-06-17 Mon 18:05]
+- State "AMPLE"      from ""           [2024-06-16 Sun 18:11]
 - State "AMPLE"      from ""           [2024-06-14 Fri 20:04]
 - State "AMPLE"      from ""           [2024-06-11 Tue 19:10]
 - State "AMPLE"      from ""           [2024-06-08 Sat 18:02]
@@ -326,10 +333,11 @@ CLOCK: [2024-05-09 Thu 07:12]--[2024-05-09 Thu 07:52] =>  0:40
 :END:
 [[https://learnenglish.britishcouncil.org/grammar/english-grammar-reference/reflexive-pronouns]]
 ****** [#C] Reciprocal pronouns
-SCHEDULED: <2024-06-16 Sun ++2w>
+SCHEDULED: <2024-07-01 Mon ++2w>
 :PROPERTIES:
-:LAST_REPEAT: [2024-05-17 Fri 11:09]
+:LAST_REPEAT: [2024-06-16 Sun 18:13]
 :END:
+- State "AMPLE"      from ""           [2024-06-16 Sun 18:13]
 - State "AMPLE"      from ""           [2024-05-17 Fri 11:09]
 - State "AMPLE"      from ""           [2024-05-17 Fri 11:09]
 :LOGBOOK:
@@ -365,10 +373,11 @@ CLOCK: [2024-03-01 Fri 11:03]--[2024-03-01 Fri 11:14] =>  0:11
 :END:
 [[https://www.bbc.co.uk/sounds/play/p0hf8wg1]]
 **** [#C] A million to one
-SCHEDULED: <2024-06-17 Mon ++2w>
+SCHEDULED: <2024-07-01 Mon ++2w>
 :PROPERTIES:
-:LAST_REPEAT: [2024-06-03 Mon 19:56]
+:LAST_REPEAT: [2024-06-16 Sun 18:13]
 :END:
+- State "AMPLE"      from ""           [2024-06-16 Sun 18:13]
 - State "AMPLE"      from ""           [2024-06-03 Mon 19:56]
 - State "AMPLE"      from ""           [2024-04-30 Tue 18:19]
 - State "AMPLE"      from ""           [2024-04-09 Tue 18:46]
@@ -382,10 +391,12 @@ SCHEDULED: <2024-04-30 Tue>
 :CATEGORY: Linux
 :END:
 *** DELAY [#A] MAN ssh
-SCHEDULED: <2024-06-18 Tue ++1w>
+SCHEDULED: <2024-07-02 Tue ++1w>
 :PROPERTIES:
-:LAST_REPEAT: [2024-04-29 Mon 18:43]
+:LAST_REPEAT: [2024-06-17 Mon 18:04]
 :END:
+- State "AMPLE"      from "DELAY"      [2024-06-17 Mon 18:04]
+- State "AMPLE"      from "LAG"        [2024-06-17 Mon 18:04]
 - State "AMPLE"      from "DELAY"      [2024-04-29 Mon 18:43]
 - State "AMPLE"      from "LAG"        [2024-04-29 Mon 18:43]
 - State "DONE"       from "Active"     [2023-12-20 Wed 18:41]
@@ -513,7 +524,7 @@ Avoiding Standard Software Risks
 Using Open Source Software
 
 *** RAW [#C] =helpful= package usage
-SCHEDULED: <2024-06-16 Sun ++2w>
+SCHEDULED: <2024-06-18 Tue ++2w>
 - Note taken on [2024-05-30 Thu 16:06] \\
   The "Helpful" package in Emacs is an alternative to the built-in Emacs
   help system that offers more contextual information and enhanced
@@ -567,7 +578,7 @@ types_operations.org
 : types_operations.org
 
 *** [#C] How ho check which Debian distro are you using
-SCHEDULED: <2024-06-17 Mon>
+SCHEDULED: <2024-06-18 Tue>
 
 #+begin_src sh :results output
 hostnamectl
@@ -1152,7 +1163,7 @@ CLOCK: [2024-04-22 Mon 08:24]--[2024-04-22 Mon 09:09] =>  0:45
 [[info:python3.11#The Python Language Reference][python3.11#The Python Language Reference]]
 
 ****  [#B] Python Data model
-SCHEDULED: <2024-06-16 Sun>
+SCHEDULED: <2024-06-18 Tue>
 :LOGBOOK:
 CLOCK: [2024-06-05 Wed 07:40]--[2024-06-05 Wed 09:05] =>  1:25
 CLOCK: [2024-06-03 Mon 07:59]--[2024-06-03 Mon 08:50] =>  0:51
@@ -1167,7 +1178,7 @@ CLOCK: [2024-05-11 Sat 09:05]--[2024-05-11 Sat 09:35] =>  0:30
 [[info:python3.11#Objects values and types][python3.11#Objects values and types]]
 
 *** [#C] What does the Python programming language consists of?
-SCHEDULED: <2024-06-17 Mon>
+SCHEDULED: <2024-06-18 Tue>
 :LOGBOOK:
 CLOCK: [2024-05-26 Sun 08:42]--[2024-05-26 Sun 09:13] =>  0:31
 :END:
@@ -1175,7 +1186,7 @@ CLOCK: [2024-05-26 Sun 08:42]--[2024-05-26 Sun 09:13] =>  0:31
 Schema
 
 *** [#C] The compiler itself
-SCHEDULED: <2024-06-17 Mon>
+SCHEDULED: <2024-06-18 Tue>
 :LOGBOOK:
 CLOCK: [2024-06-03 Mon 09:26]--[2024-06-03 Mon 09:34] =>  0:08
 CLOCK: [2024-05-31 Fri 08:49]--[2024-05-31 Fri 09:16] =>  0:27
@@ -1187,8 +1198,8 @@ CLOCK: [2024-05-27 Mon 07:34]--[2024-05-27 Mon 08:27] =>  0:53
 
 [[file:~/git/annelida/ballyboe/org-blog/2024-05-27-the-compliler-is-a-crucial-tool.org][file:~/git/annelida/ballyboe/org-blog/2024-05-27-the-compliler-is-a-crucial-tool.org]]
 
-*** [#A] Typical test folder structure in Python
-SCHEDULED: <2024-06-17 Mon ++2d>
+*** [#C] Typical test folder structure in Python
+SCHEDULED: <2024-06-18 Tue ++2d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-06-15 Sat 19:12]
 :END:
@@ -2059,7 +2070,7 @@ CLOCK: [2024-04-19 Fri 11:13]--[2024-04-19 Fri 11:53] =>  0:40
 
 [[file:~/git/annelida/ballyboe/org-blog/2023-11-07-Python-venv.org::*Creating a Python virtual environment on a Debian-based system][Python virtual environment on a Debian-based system]]
 *** [#C] Python Programming Language basics
-SCHEDULED: <2024-06-17 Mon>
+SCHEDULED: <2024-06-18 Tue>
 :LOGBOOK:
 CLOCK: [2024-05-23 Thu 10:14]--[2024-05-23 Thu 11:05] =>  0:51
 CLOCK: [2024-05-23 Thu 09:43]--[2024-05-23 Thu 10:04] =>  0:21
@@ -2268,7 +2279,7 @@ CLOCK: [2024-05-16 Thu 07:12]--[2024-05-16 Thu 07:27] =>  0:15
 :END:
 
 *** [#C] Eww commands brief description
-SCHEDULED: <2024-06-16 Sun>
+SCHEDULED: <2024-06-18 Tue>
 
 The three column table: Key, command, description
 
@@ -2464,7 +2475,7 @@ CLOCK: [2023-12-03 Sun 13:04]--[2023-12-03 Sun 13:32] =>  0:28
 [[info:org#Capture templates][org#Capture templates]]
 
 *** [#C] Org-mode keys
-SCHEDULED: <2024-06-16 Sun>
+SCHEDULED: <2024-06-18 Tue>
 :LOGBOOK:
 CLOCK: [2024-05-29 Wed 15:38]--[2024-05-29 Wed 16:37] =>  0:59
 :END:
@@ -2848,7 +2859,7 @@ CLOCK: [2024-01-04 Thu 12:11]--[2024-01-04 Thu 12:13] =>  0:02
   version
 
 ** [#C] Databases fundamentals
-SCHEDULED: <2024-06-16 Sun>
+SCHEDULED: <2024-06-18 Tue>
 :PROPERTIES:
 :CATEGORY: DB
 :END:
@@ -3005,7 +3016,7 @@ CLOCK: [2024-05-25 Sat 09:06]--[2024-05-25 Sat 09:06] =>  0:00
 :END:
 https://jinja.palletsprojects.com/en/3.1.x/templates/#variables
 *** [#B] Filters
-SCHEDULED: <2024-06-16 Sun>
+SCHEDULED: <2024-06-18 Tue>
 https://jinja.palletsprojects.com/en/3.1.x/templates/#filters
 *** Tests
 https://jinja.palletsprojects.com/en/3.1.x/templates/#tests
@@ -3040,7 +3051,7 @@ CLOCK: [2024-05-26 Sun 09:19]--[2024-05-26 Sun 09:41] =>  0:22
 *** AMPLE [#A] Adding Static Files to application
 
 ** [#C] Assembly language
-SCHEDULED: <2024-06-16 Sun>
+SCHEDULED: <2024-06-18 Tue>
 - Note taken on [2024-05-29 Wed 07:37] \\
   [[https://en.wikipedia.org/wiki/Assembly_language]]
 
@@ -3092,7 +3103,7 @@ https://www.geeksforgeeks.org/how-to-build-a-web-app-using-flask-and-sqlite-in-p
 https://realpython.com/flask-connexion-rest-api-part-2/
 
 ** [#C] I 386 architecture commands
-SCHEDULED: <2024-06-16 Sun>
+SCHEDULED: <2024-06-18 Tue>
 :LOGBOOK:
 CLOCK: [2024-06-13 Thu 16:54]--[2024-06-13 Thu 17:00] =>  0:06
 :END:
@@ -3439,7 +3450,7 @@ CLOCK: [2024-04-22 Mon 09:39]--[2024-04-22 Mon 10:10] =>  0:31
 ** DELAY [#C] Python programming language brief overview diagram
 SCHEDULED: <2024-06-19 Wed>
 ** RAW [#C]Work with links in Emacs with Bookmarks+
-SCHEDULED: <2024-06-16 Sun>
+SCHEDULED: <2024-06-18 Tue>
 :LOGBOOK:
 CLOCK: [2024-05-15 Wed 09:48]--[2024-05-15 Wed 10:08] =>  0:20
 :END:
