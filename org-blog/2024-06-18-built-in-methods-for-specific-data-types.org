@@ -1,0 +1,36 @@
+#+BEGIN_EXPORT html
+---
+layout: page
+title: Python built-in function
+tagline: " detailed description"
+permalink: /python/python-built-in-methods.html
+categories: [Python, built-in-methods]
+tags: [python, intro, built-in methods]
+---
+#+END_EXPORT
+#+STARTUP: showall indent
+#+OPTIONS: tags:nil num:nil \n:nil @:t ::t |:t ^:{} _:{} *:t
+#+PROPERTY: header-args :exports both
+#+PROPERTY: header-args+ :results output pp
+#+PROPERTY: header-args+ :eval no-export
+#+TOC: headlines 2
+
+* Preamble
+Python provides a rich set of built-in methods for specific data
+types, enabling developers to perform various operations
+efficiently. These methods are categorized across different data types
+such as numeric, sequence, mapping, set, and others. Here's an
+overview of the built-in methods for some common data types.
+
+* Numeric Types (~int, float, complex~)
+
+* Sequence Types (~list, tuple, range~)
+
+* Mapping Type (~dict~)
+
+* Set Types (~set, frozenset~)
+
+* Text Sequence Type (~str~)
+
+
+
