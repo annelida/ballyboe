@@ -165,6 +165,36 @@ elements it can contain.
 #+RESULTS:
 : Lowest value:  3
 
+** Linked Lists
+
+A /Linked List/ is a data structure that consists of a series of nodes
+connected by pointers. Each node in a linked list contains two main
+components:
+
+- /Data/: This holds the actual value or data associated with the node;
+- /Next Pointer/: This stores the memory address (reference) of the next
+  node in the sequence.
+
+The way they are linked together is that each node points to where in
+the memory the next node is placed.
+
+A linked list is a collection of nodes. The first node is called the
+/head/, and it’s used as the starting point for any iteration
+through the list. The last node must have its next reference
+pointing to /None/ to determine the end of the list.
+
+** Queues or Stacks
+
+/Queue/ and /stacks/ differ only in the way elements are
+retrieved. For a /queue/, you use a /First-In/First-Out (FIFO)/
+approach. That means that the first element inserted in the list is
+the first one to be retrieved.
+
+For a /stack/, you use a /Last-In/First-Out (LIFO)/ approach, meaning
+that the last element inserted in the list is the first to be
+retrieved
+
+
  
 
 
