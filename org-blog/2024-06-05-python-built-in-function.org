@@ -162,3 +162,35 @@ False.
 
 ** The ~ascii()~ function
 
+~ascii()~ is a built-in function that takes one argument and returns a
+string that represents the object using only ASCII characters.
+
+#+begin_src python session :ascii
+   import unittest
+   class TestAscii(unittest.TestCase):
+       def test_string_convertation(self):
+           self.assertEqual(ascii('Café'), "'Caf\\xe9'")
+
+       def test_list_convertation(self):
+           self.assertEqual(ascii(['Simple', 'list']),
+                            "['Simple', 'list']")
+
+       def test_list_non_ascii(self):
+           self.assertEqual(ascii(["Ň", "ĕ", "Ŵ"]),
+                               "['\\u0147', '\\u0115', '\\u0174']")
+
+#+end_src
+
+#+RESULTS:
+
+#+begin_src python session :ascii :exports results
+unittest.main(exit=False)
+#+end_src
+
+#+RESULTS:
+: ...
+: ----------------------------------------------------------------------
+: Ran 3 tests in 0.000s
+: 
+: OK
+
