@@ -3447,10 +3447,14 @@ CLOCK: [2024-04-22 Mon 09:39]--[2024-04-22 Mon 10:10] =>  0:31
 :END:
 ** DELAY [#C] Python programming language brief overview diagram
 SCHEDULED: <2024-06-19 Wed>
-** RAW [#C]Work with links in Emacs with Bookmarks+
-SCHEDULED: <2024-06-19 Wed>
+** AMPLE [#C]Work with links in Emacs with Bookmarks+
+SCHEDULED: <2024-06-19 Wed ++2d>
 :LOGBOOK:
 CLOCK: [2024-05-15 Wed 09:48]--[2024-05-15 Wed 10:08] =>  0:20
 :END:
+
+#+begin_example
+[[elisp:(bookmark-jump-other-frame "file-name.txt")][Link description]]
+#+end_example
 
 * Personal
