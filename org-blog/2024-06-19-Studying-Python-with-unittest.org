@@ -1,0 +1,68 @@
+#+BEGIN_EXPORT html
+---
+layout: page
+title: Studying Python with unittest
+tagline: "  the best ways for testing your code"
+permalink: /python/studying-Python-with-unittest.html
+categories: [Python, testing, unittest]
+tags: [python, intro, testing, unittest]
+---
+#+END_EXPORT
+#+STARTUP: showall indent
+#+OPTIONS: tags:nil num:nil \n:nil @:t ::t |:t ^:{} _:{} *:t
+#+PROPERTY: header-args :exports both
+#+PROPERTY: header-args+ :results output pp
+#+PROPERTY: header-args+ :eval no-export
+#+PROPERTY: header-args+ :session basement
+#+TOC: headlines 2
+
+* Preamble
+* Vanila
+
+#+begin_src python :results none :tangle tests/test_cornerstones.py :comments link
+
+  import unittest
+
+  """
+
+  First and foremost let be sure about True, False and None
+  existence:
+
+  """
+
+
+  class TestTheBasement(unittest.TestCase):
+
+      def test_does_true_ever_exist(self):
+          self.assertTrue(True)
+
+      def test_does_false_ever_exist(self):
+          self.assertFalse(False)
+
+      # Now it is clear that True and False exist
+      # and they are touchable
+
+      def test_does_none_ever_exist(self):
+          self.assertIsNone(None)
+          self.assertFalse(None)  # None is showed up!
+          # None has a boolean value
+
+      def test_true_and_false_are_not_none_at_all(self):
+          self.assertIsNotNone(True)  # NotNone (inverted None) has no
+          self.assertIsNotNone(False)  # any Boolean value, it is unique
+          self.assertFalse(None)  # But the vanilla None is False!
+#+end_src
+
+#+begin_src python :exports results
+unittest.main(exit=False)
+#+end_src
+
+#+RESULTS:
+: .......
+: ----------------------------------------------------------------------
+: Ran 7 tests in 0.000s
+: 
+: OK
+
+
+
