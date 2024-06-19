@@ -26,6 +26,24 @@ overview of the built-in methods for some common data types.
 
 * Sequence Types (~list, tuple, range~)
 
+List Built-in Methods are next:
+
+- append(x): Add an item to the end of the list;
+- extend(iterable): Extend the list by appending elements from the
+  iterable;
+- insert(i, x): Insert an item at a given position;
+- remove(x): Remove the first item from the list whose value is equal
+  to x;
+- pop([i]): Remove the item at the given position in the list and
+  return it. If no index is specified, removes and returns the last
+  item in the list;
+- clear(): Remove all items from the list;
+- index(x[, start[, end]]): Return zero-based index in the list of the
+  first item whose value is equal to x;
+- count(x): Return the number of times x appears in the list;
+- sort(key=None, reverse=False): Sort the items of the list in place;
+- reverse(): Reverse the elements of the list in place;
+- copy(): Return a shallow copy of the list.
 * Mapping Type (~dict~)
 
 * Set Types (~set, frozenset~)
