@@ -165,7 +165,7 @@ False.
 ~ascii()~ is a built-in function that takes one argument and returns a
 string that represents the object using only ASCII characters.
 
-#+begin_src python session :ascii
+#+begin_src python :result none :session ascii
    import unittest
    class TestAscii(unittest.TestCase):
        def test_string_convertation(self):
@@ -183,7 +183,7 @@ string that represents the object using only ASCII characters.
 
 #+RESULTS:
 
-#+begin_src python session :ascii :exports results
+#+begin_src python :session ascii :exports results
 unittest.main(exit=False)
 #+end_src
 
