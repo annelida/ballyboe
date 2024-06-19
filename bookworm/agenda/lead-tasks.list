@@ -743,6 +743,8 @@ CLOCK: [2024-06-16 Sun 07:21]--[2024-06-16 Sun 08:06] =>  0:45
 - Finally it is possible to launch unittests inside Babel without any
   tangling files at all.
 
+ [[elisp:(bookmark-jump-other-frame "2024-06-19-Studuying-Python-with-unittest.org")][link]]
+
 
 
 ** [#A] Python built-in functions with unittest
@@ -779,3 +781,9 @@ https://www.geeksforgeeks.org/ascii-in-python/?ref=lbp
 
 ** [#A] Set of built-in methods in Python defined for specific data types
 SCHEDULED: <2024-06-19 Wed>
+:LOGBOOK:
+CLOCK: [2024-06-19 Wed 10:55]--[2024-06-19 Wed 11:37] =>  0:42
+CLOCK: [2024-06-19 Wed 09:22]--[2024-06-19 Wed 10:19] =>  0:57
+:END:
+
+[[elisp:(bookmark-jump-other-frame "2024-06-18-built-in-methods-for-specific-data-types.org")][Link]]
