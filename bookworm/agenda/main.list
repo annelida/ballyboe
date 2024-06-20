@@ -200,10 +200,11 @@ CLOCK: [2024-03-05 Tue 10:30]--[2024-03-05 Tue 13:41] =>  3:11
 :END:
 [https://www.bbc.co.uk/learningenglish/english/course/lower-intermediate/unit-4/session-2/activity-4]
 ***** 'Have to' and 'must'
-SCHEDULED: <2024-06-21 Fri ++2w>
+SCHEDULED: <2024-07-05 Fri ++2w>
 :PROPERTIES:
-:LAST_REPEAT: [2024-06-06 Thu 19:42]
+:LAST_REPEAT: [2024-06-20 Thu 18:49]
 :END:
+- State "AMPLE"      from ""           [2024-06-20 Thu 18:49]
 - State "AMPLE"      from ""           [2024-06-06 Thu 19:42]
 - State "AMPLE"      from ""           [2024-05-24 Fri 19:52]
 - State "AMPLE"      from ""           [2024-04-30 Tue 18:19]
@@ -252,10 +253,11 @@ CLOCK: [2024-04-21 Sun 09:40]--[2024-04-21 Sun 10:13] =>  0:33
 :END:
 [[https://learnenglish.britishcouncil.org/grammar/english-grammar-reference/personal-pronouns]]
 ****** [#C] 'it' and 'there' as dummy subjects
-SCHEDULED: <2024-06-20 Thu ++1w>
+SCHEDULED: <2024-06-27 Thu ++1w>
 :PROPERTIES:
-:LAST_REPEAT: [2024-06-13 Thu 17:25]
+:LAST_REPEAT: [2024-06-20 Thu 18:42]
 :END:
+- State "AMPLE"      from ""           [2024-06-20 Thu 18:42]
 - State "AMPLE"      from ""           [2024-06-13 Thu 17:25]
 - State "AMPLE"      from ""           [2024-05-24 Fri 19:52]
 - State "AMPLE"      from ""           [2024-05-17 Fri 07:15]
@@ -292,10 +294,11 @@ CLOCK: [2024-04-25 Thu 07:11]--[2024-04-25 Thu 07:40] =>  0:29
 :END:
 [https://learnenglish.britishcouncil.org/grammar/english-grammar-reference/demonstratives]
 ****** [#C] 'one' and 'ones'
-SCHEDULED: <2024-06-20 Thu ++2d>
+SCHEDULED: <2024-06-22 Sat ++2d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-06-17 Mon 18:05]
+:LAST_REPEAT: [2024-06-20 Thu 18:42]
 :END:
+- State "AMPLE"      from ""           [2024-06-20 Thu 18:42]
 - State "AMPLE"      from ""           [2024-06-17 Mon 18:05]
 - State "AMPLE"      from ""           [2024-06-16 Sun 18:11]
 - State "AMPLE"      from ""           [2024-06-14 Fri 20:04]
@@ -357,12 +360,18 @@ SCHEDULED: <2024-06-08 Sat>
 CLOCK: [2024-06-04 Tue 18:09]--[2024-06-04 Tue 18:41] =>  0:32
 :END:
 [[https://learnenglish.britishcouncil.org/grammar/english-grammar-reference/relative-pronouns-relative-clauses]]
+***** Determiners and quantifiers
+****** [#A] Specific and general determiners
+SCHEDULED: <2024-06-21 Fri>
+https://learnenglish.britishcouncil.org/grammar/english-grammar-reference/specific-general-determiners
+
 *** The English We Speak
 **** Rinse repeat
-SCHEDULED: <2024-06-21 Fri ++2w>
+SCHEDULED: <2024-07-05 Fri ++2w>
 :PROPERTIES:
-:LAST_REPEAT: [2024-06-06 Thu 19:42]
+:LAST_REPEAT: [2024-06-20 Thu 18:49]
 :END:
+- State "AMPLE"      from ""           [2024-06-20 Thu 18:49]
 - State "AMPLE"      from ""           [2024-06-06 Thu 19:42]
 - State "AMPLE"      from ""           [2024-05-24 Fri 19:52]
 - State "AMPLE"      from ""           [2024-04-30 Tue 18:19]
@@ -416,7 +425,7 @@ SCHEDULED: <2024-07-02 Tue ++1w>
 CLOCK: [2023-12-20 Wed 09:55]--[2023-12-20 Wed 10:45] =>  0:50
 CLOCK: [2023-12-19 Tue 09:15]--[2023-12-19 Tue 09:18] =>  0:03
 :END:
-*** Delay MAN df
+*** [#C] Delay MAN df
 SCHEDULED: <2024-06-21 Fri ++1w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-06-14 Fri 07:48]
@@ -433,8 +442,8 @@ SCHEDULED: <2024-06-21 Fri ++1w>
 :LOGBOOK:
 CLOCK: [2023-12-19 Tue 09:18]--[2023-12-19 Tue 09:22] =>  0:04
 :END:
-*** DELAY MAN free
-SCHEDULED: <2024-06-20 Thu ++1w>
+*** [#C] MAN free
+SCHEDULED: <2024-06-21 Fri ++1w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-04-24 Wed 18:48]
 :END:
@@ -462,8 +471,8 @@ SCHEDULED: <2024-06-20 Thu ++1w>
 :LOGBOOK:
 CLOCK: [2023-12-19 Tue 09:22]--[2023-12-19 Tue 09:34] =>  0:12
 :END:
-*** DELAY [#B] MAN htop
-SCHEDULED: <2024-06-20 Thu ++1w>
+*** [#C] MAN htop
+SCHEDULED: <2024-06-21 Fri ++1w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-01-11 Thu 16:06]
 :END:
@@ -494,7 +503,7 @@ SCHEDULED: <2024-06-22 Sat ++1w>
    system, including their process ID (PID), parent process ID (PPID),
    CPU usage, memory usage, and more.
 *** DELAY [#B] Process management
-SCHEDULED: <2024-06-20 Thu>
+SCHEDULED: <2024-07-14 Sun>
 - Note taken on [2023-12-20 Wed 11:33] \\
 
   Is the technique used by organizations to analyze, optimize, monitor,
@@ -511,7 +520,7 @@ SCHEDULED: <2024-06-20 Thu>
   to control how programs interact with each other.
 
 *** DELAY Software management
-SCHEDULED: <2024-06-20 Thu>
+SCHEDULED: <2024-07-28 Sun>
 
 Is a science of planning and leading software projects.
 
@@ -525,7 +534,7 @@ Avoiding Standard Software Risks
 Using Open Source Software
 
 *** RAW [#C] =helpful= package usage
-SCHEDULED: <2024-06-19 Wed ++2w>
+SCHEDULED: <2024-06-21 Fri ++2w>
 - Note taken on [2024-05-30 Thu 16:06] \\
   The "Helpful" package in Emacs is an alternative to the built-in Emacs
   help system that offers more contextual information and enhanced
@@ -631,11 +640,12 @@ CLOCK: [2024-04-02 Tue 10:27]--[2024-04-02 Tue 10:29] =>  0:02
 :END:
 
 *** Controls
-SCHEDULED: <2024-06-21 Fri ++2w>
+SCHEDULED: <2024-07-05 Fri ++2w>
 :PROPERTIES:
 :CATEGORY: GNOME
-:LAST_REPEAT: [2024-06-06 Thu 19:42]
+:LAST_REPEAT: [2024-06-20 Thu 18:50]
 :END:
+- State "AMPLE"      from ""           [2024-06-20 Thu 18:50]
 - State "AMPLE"      from ""           [2024-06-06 Thu 19:42]
 - State "AMPLE"      from ""           [2024-05-24 Fri 19:52]
 - State "AMPLE"      from ""           [2024-05-07 Tue 18:42]
@@ -1166,7 +1176,7 @@ CLOCK: [2024-04-22 Mon 08:24]--[2024-04-22 Mon 09:09] =>  0:45
 [[info:python3.11#The Python Language Reference][python3.11#The Python Language Reference]]
 
 ****  [#B] Python Data model
-SCHEDULED: <2024-06-19 Wed>
+SCHEDULED: <2024-06-21 Fri>
 :LOGBOOK:
 CLOCK: [2024-06-05 Wed 07:40]--[2024-06-05 Wed 09:05] =>  1:25
 CLOCK: [2024-06-03 Mon 07:59]--[2024-06-03 Mon 08:50] =>  0:51
@@ -1189,7 +1199,7 @@ CLOCK: [2024-05-26 Sun 08:42]--[2024-05-26 Sun 09:13] =>  0:31
 Schema
 
 *** [#C] The compiler itself
-SCHEDULED: <2024-06-20 Thu>
+SCHEDULED: <2024-06-21 Fri>
 :LOGBOOK:
 CLOCK: [2024-06-03 Mon 09:26]--[2024-06-03 Mon 09:34] =>  0:08
 CLOCK: [2024-05-31 Fri 08:49]--[2024-05-31 Fri 09:16] =>  0:27
@@ -1202,10 +1212,11 @@ CLOCK: [2024-05-27 Mon 07:34]--[2024-05-27 Mon 08:27] =>  0:53
 [[file:~/git/annelida/ballyboe/org-blog/2024-05-27-the-compliler-is-a-crucial-tool.org][file:~/git/annelida/ballyboe/org-blog/2024-05-27-the-compliler-is-a-crucial-tool.org]]
 
 *** [#C] Typical test folder structure in Python
-SCHEDULED: <2024-06-19 Wed ++2d>
+SCHEDULED: <2024-06-22 Sat ++2d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-06-15 Sat 19:12]
+:LAST_REPEAT: [2024-06-20 Thu 18:42]
 :END:
+- State "AMPLE"      from ""           [2024-06-20 Thu 18:42]
 - State "AMPLE"      from ""           [2024-06-15 Sat 19:12]
 - Note taken on [2024-06-15 Sat 08:13] \\
   - Project Root ~(project/)~: This is the top-level directory of the
@@ -1957,7 +1968,7 @@ def test_always_fail():
 #+RESULTS:
 
 *** DELAY Playwright installation on DELL
-SCHEDULED: <2024-06-20 Thu>
+SCHEDULED: <2024-06-27 Thu>
 :PROPERTIES:
 :CATEGORY: Testing
 :END:
@@ -2073,7 +2084,7 @@ CLOCK: [2024-04-19 Fri 11:13]--[2024-04-19 Fri 11:53] =>  0:40
 
 [[file:~/git/annelida/ballyboe/org-blog/2023-11-07-Python-venv.org::*Creating a Python virtual environment on a Debian-based system][Python virtual environment on a Debian-based system]]
 *** [#C] Python Programming Language basics
-SCHEDULED: <2024-06-19 Wed>
+SCHEDULED: <2024-06-21 Fri>
 :LOGBOOK:
 CLOCK: [2024-05-23 Thu 10:14]--[2024-05-23 Thu 11:05] =>  0:51
 CLOCK: [2024-05-23 Thu 09:43]--[2024-05-23 Thu 10:04] =>  0:21
@@ -2088,11 +2099,11 @@ CLOCK: [2024-04-20 Sat 16:10]--[2024-04-20 Sat 16:25] =>  0:15
 [[file:~/git/annelida/ballyboe/org-blog/2024-04-20-python-programming-language.org::*Preamble][Python programming language]]
 [[https://realpython.com/python-keywords/]]
 [[https://en.wikipedia.org/wiki/Von_Neumann_architecture]]
-*** Flask
+** Flask
 :PROPERTIES:
 :CATEGORY: Flask
 :END:
-**** DELAY A Minimal Application
+*** DELAY A Minimal Application
 SCHEDULED: <2024-06-26 Wed ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-06-12 Wed 09:14]
@@ -2121,7 +2132,7 @@ CLOCK: [2024-05-25 Sat 12:08]--[2024-05-25 Sat 12:27] =>  0:19
 CLOCK: [2024-05-25 Sat 09:07]--[2024-05-25 Sat 09:27] =>  0:20
 :END:
 https://flask.palletsprojects.com/en/3.0.x/quickstart/#a-minimal-application
-**** DELAY Debug Mode
+*** DELAY Debug Mode
 SCHEDULED: <2024-06-26 Wed ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-06-12 Wed 09:14]
@@ -2145,7 +2156,7 @@ CLOCK: [2024-05-29 Wed 10:46]--[2024-05-29 Wed 11:02] =>  0:16
 CLOCK: [2024-05-29 Wed 10:19]--[2024-05-29 Wed 10:23] =>  0:04
 :END:
 https://flask.palletsprojects.com/en/3.0.x/quickstart/#debug-mode
-**** DELAY HTML Escaping
+*** DELAY HTML Escaping
 SCHEDULED: <2024-06-29 Sat ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-05-29 Wed 17:19]
@@ -2156,7 +2167,7 @@ CLOCK: [2024-05-29 Wed 11:14]--[2024-05-29 Wed 11:21] =>  0:07
 CLOCK: [2024-05-29 Wed 11:03]--[2024-05-29 Wed 11:06] =>  0:03
 :END:
 https://flask.palletsprojects.com/en/3.0.x/quickstart/#html-escaping
-**** DELAY [#A] Routing
+*** DELAY [#A] Routing
 SCHEDULED: <2024-06-28 Fri ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-06-02 Sun 18:00]
@@ -2167,7 +2178,7 @@ SCHEDULED: <2024-06-28 Fri ++2w>
 CLOCK: [2024-05-31 Fri 12:23]--[2024-05-31 Fri 12:33] =>  10:00
 :END:
 https://flask.palletsprojects.com/en/3.0.x/quickstart/#routing
-**** DELAY [#A] Static Files
+*** DELAY [#A] Static Files
 SCHEDULED: <2024-07-26 Fri ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-06-13 Thu 17:14]
@@ -2189,61 +2200,62 @@ CLOCK: [2024-05-31 Fri 12:34]--[2024-05-31 Fri 12:38] =>  0:04
 
   The file has to be stored on the filesystem as static/style.css.
 https://flask.palletsprojects.com/en/3.0.x/quickstart/#static-files
-**** RAW [#B] Rendering Templates
-SCHEDULED: <2024-06-22 Sat>
+*** RAW [#A] Rendering Templates
+SCHEDULED: <2024-06-21 Fri>
 https://flask.palletsprojects.com/en/3.0.x/quickstart/#rendering-templates
-**** RAW Accessing Request Data
+*** RAW [#A] Accessing Request Data
+SCHEDULED: <2024-06-22 Sat>
 https://flask.palletsprojects.com/en/3.0.x/quickstart/#accessing-request-data
-**** RAW Redirects and Errors
+*** RAW Redirects and Errors
 https://flask.palletsprojects.com/en/3.0.x/quickstart/#redirects-and-errors
-**** RAW About Responses
+*** RAW About Responses
 https://flask.palletsprojects.com/en/3.0.x/quickstart/#about-responses
-**** RAW Sessions
+*** RAW Sessions
 https://flask.palletsprojects.com/en/3.0.x/quickstart/#sessions
-**** RAW Message Flashing
+*** RAW Message Flashing
 https://flask.palletsprojects.com/en/3.0.x/quickstart/#message-flashing
-**** RAW Logging
+*** RAW Logging
 https://flask.palletsprojects.com/en/3.0.x/quickstart/#logging
-**** RAW Hooking in WSGI Middleware
+*** RAW Hooking in WSGI Middleware
 https://flask.palletsprojects.com/en/3.0.x/quickstart/#hooking-in-wsgi-middleware
-**** RAW Using Flask Extensions
+*** RAW Using Flask Extensions
 https://flask.palletsprojects.com/en/3.0.x/quickstart/#using-flask-extensions
-**** RAW Deploying to a Web Server
+*** RAW Deploying to a Web Server
 https://flask.palletsprojects.com/en/3.0.x/quickstart/#deploying-to-a-web-server
-**** RAW Project layout
+*** RAW Project layout
 https://flask.palletsprojects.com/en/3.0.x/tutorial/layout/
-**** RAW Application Setup
+*** RAW Application Setup
 https://flask.palletsprojects.com/en/3.0.x/tutorial/factory/
-**** RAW Define and Access the Database
+*** RAW Define and Access the Database
 https://flask.palletsprojects.com/en/3.0.x/tutorial/database/
-**** RAW Blueprints and Views
+*** RAW Blueprints and Views
 https://flask.palletsprojects.com/en/3.0.x/tutorial/views/
-**** RAW Templates
+*** RAW Templates
 https://flask.palletsprojects.com/en/3.0.x/tutorial/templates/
-**** RAW Static Files
+*** RAW Static Files
 https://flask.palletsprojects.com/en/3.0.x/tutorial/static/
-**** RAW Blog Blueprint
+*** RAW Blog Blueprint
 https://flask.palletsprojects.com/en/3.0.x/tutorial/blog/
-**** RAW Make the Project Installable
+*** RAW Make the Project Installable
 https://flask.palletsprojects.com/en/3.0.x/tutorial/install/
-**** RAW Test Coverage
+*** RAW Test Coverage
 https://flask.palletsprojects.com/en/3.0.x/tutorial/tests/
-**** RAW Deploy to Production
+*** RAW Deploy to Production
 https://flask.palletsprojects.com/en/3.0.x/tutorial/deploy/
-**** RAW Keep Developing!
+*** RAW Keep Developing!
 https://flask.palletsprojects.com/en/3.0.x/tutorial/next/
 
-**** RAW Jinja Setup
+*** RAW Jinja Setup
 https://flask.palletsprojects.com/en/3.0.x/templating/#jinja-setup
-**** RAW Standard Context
+*** RAW Standard Context
 https://flask.palletsprojects.com/en/3.0.x/templating/#standard-context
-**** RAW Controlling Autoescaping
+*** RAW Controlling Autoescaping
 https://flask.palletsprojects.com/en/3.0.x/templating/#controlling-autoescaping
-**** RAW Registering Filters
+*** RAW Registering Filters
 https://flask.palletsprojects.com/en/3.0.x/templating/#context-processors
-**** RAW Context Processors
+*** RAW Context Processors
 https://flask.palletsprojects.com/en/3.0.x/templating/#context-processors
-**** RAW Streaming
+*** RAW Streaming
 https://flask.palletsprojects.com/en/3.0.x/templating/#streaming
 
 
@@ -2282,12 +2294,12 @@ CLOCK: [2024-05-16 Thu 07:12]--[2024-05-16 Thu 07:27] =>  0:15
 :END:
 
 *** [#C] Eww commands brief description
-SCHEDULED: <2024-06-19 Wed>
+SCHEDULED: <2024-06-21 Fri>
 
 The three column table: Key, command, description
 
 *** [#B] Emacs' regexp
-SCHEDULED: <2024-06-19 Wed>
+SCHEDULED: <2024-06-21 Fri>
 - Note taken on [2024-05-28 Tue 08:28] \\
   M-x re-builder command provides a convenient interface for creating
   and testing regular expressions.  As you edit the regexp, all its
@@ -2478,7 +2490,7 @@ CLOCK: [2023-12-03 Sun 13:04]--[2023-12-03 Sun 13:32] =>  0:28
 [[info:org#Capture templates][org#Capture templates]]
 
 *** [#C] Org-mode keys
-SCHEDULED: <2024-06-19 Wed>
+SCHEDULED: <2024-06-21 Fri>
 :LOGBOOK:
 CLOCK: [2024-05-29 Wed 15:38]--[2024-05-29 Wed 16:37] =>  0:59
 :END:
@@ -2864,7 +2876,7 @@ CLOCK: [2024-01-04 Thu 12:11]--[2024-01-04 Thu 12:13] =>  0:02
   version
 
 ** [#C] Databases fundamentals
-SCHEDULED: <2024-06-19 Wed>
+SCHEDULED: <2024-06-21 Fri>
 :PROPERTIES:
 :CATEGORY: DB
 :END:
@@ -2883,7 +2895,7 @@ CLOCK: [2024-05-21 Tue 15:39]--[2024-05-21 Tue 16:09] =>  0:30
 :PROPERTIES:
 :END:
 **** AMPLE [#C] The studying of the SQLite3 manual
-SCHEDULED: <2024-06-19 Wed>
+SCHEDULED: <2024-06-20 Thu>
 [[file:~/git/annelida/ballyboe/org-blog/2024-05-10-sqlite3-basics.org::*How to connect to SQLite sample database][How to connect to SQLite sample database]]
 
 - Note taken on [2024-05-10 Fri 18:06] \\
@@ -3021,7 +3033,7 @@ CLOCK: [2024-05-25 Sat 09:06]--[2024-05-25 Sat 09:06] =>  0:00
 :END:
 https://jinja.palletsprojects.com/en/3.1.x/templates/#variables
 *** [#B] Filters
-SCHEDULED: <2024-06-19 Wed>
+SCHEDULED: <2024-06-21 Fri>
 https://jinja.palletsprojects.com/en/3.1.x/templates/#filters
 *** Tests
 https://jinja.palletsprojects.com/en/3.1.x/templates/#tests
@@ -3039,10 +3051,11 @@ CLOCK: [2024-05-31 Fri 09:53]--[2024-05-31 Fri 10:42] =>  0:49
 [[https://stackoverflow.com/questions/67351167/one-flask-with-multiple-page]]
 
 *** [#C] Rendering Jinja template variable
-SCHEDULED: <2024-06-20 Thu ++1w>
+SCHEDULED: <2024-06-27 Thu ++1w>
 :PROPERTIES:
-:LAST_REPEAT: [2024-06-13 Thu 17:12]
+:LAST_REPEAT: [2024-06-20 Thu 18:43]
 :END:
+- State "AMPLE"      from ""           [2024-06-20 Thu 18:43]
 - State "AMPLE"      from ""           [2024-06-13 Thu 17:12]
 - State "AMPLE"      from ""           [2024-06-06 Thu 19:41]
 - State "AMPLE"      from ""           [2024-05-27 Mon 18:21]
@@ -3056,7 +3069,7 @@ CLOCK: [2024-05-26 Sun 09:19]--[2024-05-26 Sun 09:41] =>  0:22
 *** AMPLE [#A] Adding Static Files to application
 
 ** [#C] Assembly language
-SCHEDULED: <2024-06-19 Wed>
+SCHEDULED: <2024-06-21 Fri>
 - Note taken on [2024-05-29 Wed 07:37] \\
   [[https://en.wikipedia.org/wiki/Assembly_language]]
 
@@ -3070,7 +3083,6 @@ CLOCK: [2024-05-29 Wed 06:44]--[2024-05-29 Wed 07:20] =>  0:36
 :END:
 
 * Application creation
-
 :PROPERTIES:
 :CATEGORY: APP
 :END:
@@ -3089,9 +3101,14 @@ CLOCK: [2024-06-12 Wed 07:21]--[2024-06-12 Wed 08:05] =>  0:44
 Flask controller pass the dictionary to Jinja and the latter render
 the values;
 
-** AMPLE [#C] SQLite database integration into a Flask project
-SCHEDULED: <2024-06-19 Wed ++1w>
+** [#A] SQLite database integration into a Flask project
+SCHEDULED: <2024-06-28 Fri ++1w>
+:PROPERTIES:
+:LAST_REPEAT: [2024-06-20 Thu 18:47]
+:CATEGORY: APP
+:END:
 
+- State "AMPLE"      from ""           [2024-06-20 Thu 18:47]
 https://www.digitalocean.com/community/tutorials/how-to-use-an-sqlite-database-in-a-flask-application
 https://realpython.com/flask-connexion-rest-api-part-2/
 
@@ -3099,15 +3116,20 @@ https://realpython.com/flask-database/
 https://www.geeksforgeeks.org/how-to-build-a-web-app-using-flask-and-sqlite-in-python/
 https://realpython.com/flask-connexion-rest-api-part-2/
 
-
-SCHEDULED: <2024-06-18 Tue>
 :LOGBOOK:
 CLOCK: [2024-06-13 Thu 16:54]--[2024-06-13 Thu 17:00] =>  0:06
 :END:
-** [#A] Description of the application structure and content
-SCHEDULED: <2024-06-19 Wed>
-*** [#A] Displaying Sqlite3 results in a HTML table
-SCHEDULED: <2024-06-20 Thu>
+** AMPLE [#A] Description of the application structure and content
+:LOGBOOK:
+CLOCK: [2024-06-20 Thu 07:18]--[2024-06-20 Thu 07:59] =>  0:41
+CLOCK: [2024-06-19 Wed 08:31]--[2024-06-19 Wed 09:01] =>  0:30
+CLOCK: [2024-06-19 Wed 08:11]--[2024-06-19 Wed 08:21] =>  0:10
+:END:
+
+https://realpython.com/flask-connexion-rest-api-part-3/
+
+** [#A] Displaying Sqlite3 results in a HTML table
+SCHEDULED: <2024-06-21 Fri>
 - Note taken on [2024-06-20 Thu 08:00] \\
   #+begin_example
   c = sqlite3.connect('db_path.db')
@@ -3138,7 +3160,7 @@ SCHEDULED: <2024-07-12 Fri>
 ** DELAY [#B] Portfolio creation
 SCHEDULED: <2024-06-27 Thu>
 ** DELAY [#A] CV elaboration
-SCHEDULED: <2024-06-21 Fri>
+SCHEDULED: <2024-07-07 Sun>
 :LOGBOOK:
 CLOCK: [2024-04-28 Sun 09:00]--[2024-04-28 Sun 09:35] =>  0:35
 CLOCK: [2024-04-28 Sun 07:14]--[2024-04-28 Sun 08:41] =>  1:27
@@ -3468,9 +3490,9 @@ SCHEDULED: <2024-04-23 Tue>
 CLOCK: [2024-04-22 Mon 09:39]--[2024-04-22 Mon 10:10] =>  0:31
 :END:
 ** DELAY [#C] Python programming language brief overview diagram
-SCHEDULED: <2024-06-19 Wed>
+SCHEDULED: <2024-06-22 Sat>
 ** AMPLE [#C]Work with links in Emacs with Bookmarks+
-SCHEDULED: <2024-06-19 Wed ++2d>
+SCHEDULED: <2024-06-20 Thu ++2d>
 :LOGBOOK:
 CLOCK: [2024-05-15 Wed 09:48]--[2024-05-15 Wed 10:08] =>  0:20
 :END:
