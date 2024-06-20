@@ -75,7 +75,7 @@ List Built-in Methods are next:
 
   #+RESULTS:
 
-  #+begin_src python :session list_methods :export tesults
+  #+begin_src python :session list_methods :export results
   unittest.main(exit=False)
   #+end_src
 
