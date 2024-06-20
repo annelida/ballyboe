@@ -126,7 +126,7 @@ function also returns True.
 ** The ~any()~ function
 
 Python ~any()~ function returns True if any of the elements of a given
-iterable( List, Dictionary, Tuple, set, etc) are True else it returns
+iterable (List, Dictionary, Tuple, set, etc) are True else it returns
 False.
 
 #+begin_src python
@@ -193,4 +193,40 @@ unittest.main(exit=False)
 : Ran 3 tests in 0.000s
 : 
 : OK
+
+** The ~bin()~ function
+
+~bin()~ function is used to convert integer to binary string.
+
+#+begin_src python :result none :session bin_function
+  import unittest
+
+  class TestBinFunction(unittest.TestCase):
+
+      def test_positive_integer(self):
+          self.assertEqual(bin(10), '0b1010')
+
+      def test_negative_integer(self):
+          self.assertEqual(bin(-10), '-0b1010')
+
+      def test_zero(self):
+          self.assertEqual(bin(0), '0b0')
+
+#+end_src
+
+#+RESULTS:
+
+
+#+begin_src python :session bin_function :export results
+unittest.main(exit=False)
+#+end_src
+
+#+RESULTS:
+: ...
+: ----------------------------------------------------------------------
+: Ran 3 tests in 0.000s
+: 
+: OK
+ 
+
 
