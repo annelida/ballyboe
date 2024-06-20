@@ -183,6 +183,13 @@ A linked list is a collection of nodes. The first node is called the
 through the list. The last node must have its next reference
 pointing to /None/ to determine the end of the list.
 
+***  The Double Linked List
+
+The /Double Linked List/ is the Linked List with an extra: cells have
+two pointers: one to the cell that came before it, and other to the
+cell that comes after.
+
+
 ** Queues or Stacks
 
 /Queue/ and /stacks/ differ only in the way elements are
@@ -192,10 +199,33 @@ the first one to be retrieved.
 
 For a /stack/, you use a /Last-In/First-Out (LIFO)/ approach, meaning
 that the last element inserted in the list is the first to be
-retrieved
+retrieved.
+
+** Graph
+
+/Graph/ is a non-linear data structure consisting of vertices and
+edges. The vertices are sometimes also referred to as nodes and the
+edges are lines or arcs that connect any two nodes in the graph.
+
+The graphs components:
+
+- /Vertices/: These are the points or nodes in the graph where edges
+  begin ot end;
+
+- /Edges/: Is simply a connection between two vertices, indicating a
+  relationship or interaction between them.
+
+Basic Operations on Graphs:
+
+- Insertion of Nodes/Edges in the graph;
+- Deletion of Nodes/Edges in the graph;
+- Searching on Graphs;
+- Traversal of Graphs.
 
 
- 
+
+
+
 
 
 
