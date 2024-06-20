@@ -3106,6 +3106,28 @@ CLOCK: [2024-06-13 Thu 16:54]--[2024-06-13 Thu 17:00] =>  0:06
 :END:
 ** [#A] Description of the application structure and content
 SCHEDULED: <2024-06-19 Wed>
+*** [#A] Displaying Sqlite3 results in a HTML table
+SCHEDULED: <2024-06-20 Thu>
+- Note taken on [2024-06-20 Thu 08:00] \\
+  #+begin_example
+  c = sqlite3.connect('db_path.db')
+  cur = c.cursor()
+  cur.execute("SELECT column_name from table_name LIMIT 11")
+  test = cur.fetchall()
+  #+end_example
+
+  #+begin_example
+  <table>
+    {% for row in test %}
+    <tr>
+      <th> {{ row[0] }}</th>
+    </tr>
+    {% endfor %}
+  </table>
+  #+end_example
+:LOGBOOK:
+CLOCK: [2024-06-20 Thu 08:00]--[2024-06-20 Thu 08:17] =>  0:17
+:END:
 * Work
 :PROPERTIES:
 :CATEGORY: Job
