@@ -68,6 +68,15 @@
 ;; Additional config section:
 (load "~/key-chords.el")
 
+;; Additional packages:
+(require 'markdown-mode)
+(require 'htmlize )
+
+
+;; OpenAI section
+(require 'gptel)
+(setq gptel-api-key (getenv "OPENAI_API_KEY"))
+
 ;; Jekyll settings there -->
 ;;
 (setq org-publish-project-alist
