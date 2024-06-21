@@ -11,13 +11,15 @@
 </head>
 
 <body>
-  <h1>SQLite Database in a Flask Application</h1>
-  <ul>
-  {% for item in items %}
-    <li>
-      <em>{{ item['name'] }}:</em> {{ item['sku'] }} {{ item['manufacturer'] }}
-    </li>
-  {% endfor %}
-  </ul>
+
+  <div class = "container">
+    <h1>SQLite Database in a Flask Application</h1>
+    <div class="row">
+      {% for item in items%}
+      <div class="col-sm-4"> <em>{{ item['name'] }}:</em> {{ item['sku'] }} {{ item['manufacturer'] }} </div>
+      {% endfor %}
+     </div>
+   </div> 
+
 </body>
 </html>
