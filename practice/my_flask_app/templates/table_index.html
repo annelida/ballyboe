@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<style>
+th {
+  text-align: left;
+}
+</style>
+<head>
+  <meta charset="utf-8">
+  <title>{{ title }}</title>
+</head>
+
+<body>
+  <h1>SQLite Database in a Flask Application</h1>
+  <table style="width:100%">
+    <tr>
+      <th style="width:50%">Name</th>
+      <th>Sku</th>
+      <th>Manufacturer</th>
+    </tr>
+    {% for item in items %}
+     <tr>
+      <td>{{ item['name'] }}</td>
+      <td>{{ item['sku'] }}</td>
+      <td>{{ item['manufacturer'] }}</td>
+     </tr>
+    {% endfor %}
+  </table>
+</body>
+</html>
