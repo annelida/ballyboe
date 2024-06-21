@@ -69,6 +69,10 @@
 (org-babel-do-load-languages
  'org-babel-load-languages '((python . t) (emacs-lisp . t) (shell . t) (sqlite . t)))
 
+;; Additional packages:
+(require 'markdown-mode)
+(require 'htmlize )
+
 ;; Jekyll settings
 ;;
 (setq org-publish-project-alist
