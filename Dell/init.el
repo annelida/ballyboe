@@ -73,6 +73,13 @@
 (require 'markdown-mode)
 (require 'htmlize )
 
+
+;; OpenAI section
+(require 'gptel)
+(require 'gptel-transient)
+(require 'gptel-curl)
+(setq gptel-api-key (getenv "OPENAI_API_KEY"))
+
 ;; Jekyll settings
 ;;
 (setq org-publish-project-alist
@@ -105,7 +112,7 @@
  ;; If you edit it by hand, you could mess it up, so be careful.
  ;; Your init file should contain only one such instance.
  ;; If there is more than one, they won't work right.
- '(bmkp-last-as-first-bookmark-file "~/.emacs.d/bookmarks")
+ '(bmkp-last-as-first-bookmark-file "/home/vikky/.emacs.d/bookmarks")
  '(browse-url-browser-function 'eww-browse-url)
  '(indent-tabs-mode nil)
  '(org-agenda-files
