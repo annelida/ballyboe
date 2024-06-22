@@ -143,6 +143,16 @@ science where data elements are arranged sequentially or
 linearly. Each element has a previous and next adjacent, except for
 the first and last elements.
 
+
+#+begin_example
+A real-world analogy for an array data structure is a parking lot. You
+can look at the parking lot as a whole and treat it as a single
+object, but inside the lot there are parking spots indexed by a unique
+number. Parking spots are containers for vehicles—each parking spot
+can either be empty or have a car, a motorbike, or some other vehicle
+parked on it.
+#+end_example
+
 /Array index/: In an array, elements are identified by their
 indexes. Array index starts from 0.
 
@@ -216,12 +226,37 @@ The graphs components:
 - /Edges/: Is simply a connection between two vertices, indicating a
   relationship or interaction between them.
 
+#+begin_example
+Imagine a game of football as a web of connections, where players are
+the nodes and their interactions on the field are the edges.
+#+end_example
+
 Basic Operations on Graphs:
 
 - Insertion of Nodes/Edges in the graph;
 - Deletion of Nodes/Edges in the graph;
 - Searching on Graphs;
 - Traversal of Graphs.
+
+
+** Tree
+
+A /tree data structure/ is a collection of nodes that are connected by
+edges and has a hierarchical relationship between the nodes.
+
+The key components and properties of a tree data structure include:
+
+- Node: A basic unit of a tree that contains data and references to
+  child nodes;
+- Root: The topmost node in a tree, which does not have a parent;
+- Edge: The connection between two nodes, indicating a parent-child
+  relationship;
+- Leaf: A node that does not have any children;
+- Internal Node: A node that has at least one child;
+- Subtree: A tree consisting of a node and its descendants;
+- Height: The length of the longest path from the root to a leaf;
+- Depth: The length of the path from the root to a given node;
+- Degree: The number of children of a node;
 
 
 
