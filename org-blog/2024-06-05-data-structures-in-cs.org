@@ -124,9 +124,6 @@ Commonly defined operations in a List ADT include:
 - /Graphs/: A non-linear data structure that represents a collection of
   nodes connected by edges, often used for modeling relationships
   between data;
-- /Tries/: A type of tree data structure used for storing and
-  retrieving data efficiently, particularly in applications involving
-  strings;
 - /Heaps/: A specialized tree-based data structure used for efficient
   sorting and priority queuing;
 
@@ -258,6 +255,27 @@ The key components and properties of a tree data structure include:
 - Depth: The length of the path from the root to a given node;
 - Degree: The number of children of a node;
 
+
+
+** Heap data structure
+
+A /Heap/ is a special Tree-based Data Structure in which the tree is a
+complete binary tree.
+
+A /complete binary tree/ is a special type of binary tree where all
+the levels of the tree are filled completely except the lowest level
+nodes which are filled from as left as possible.
+
+There are two main types of heaps:
+
+- /Max-Heap/: In this heap, the value of the root node must be the
+  greatest among all its child nodes and the same thing must be done
+  for its left and right sub-tree also;
+- /Min-Heap/: In this heap, the value of the root node must be the
+  smallest among all its child nodes and the same thing must be done
+  for its left and right sub-tree also
+
+  
 
 
 
