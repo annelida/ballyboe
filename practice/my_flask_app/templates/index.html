@@ -1,25 +1,22 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+  <title>Bootstrap Example</title>
   <meta charset="utf-8">
-  <title>{{ title }}</title>
- <!-- Le styles -->
-   <link href="{{ url_for('static', filename='css/bootstrap.css') }}" rel="stylesheet">
-   <link href="{{ url_for('static', filename='css/bootstrap-responsive.css') }}" rel="stylesheet">
-   <link href="{{ url_for('static', filename='css/docs.css') }}" rel="stylesheet">
-   <link href="{{ url_for('static', filename='js/google-code-prettify/prettify.css') }}" rel="stylesheet">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 </head>
-
 <body>
 
-  {% for item in items %}
-  <div class="container">
-    <div class="row">
-      <div class="col">
-        <p>{{ item[0] }}</p>
-        </div>
-    </div>
+<div class="container">
+   <div class="row">
+    <div class="col-sm-4" style="background-color:lavender;">.col-sm-4</div>
+    <div class="col-sm-4" style="background-color:lavenderblush;">.col-sm-4</div>
+    <div class="col-sm-4" style="background-color:lavender;">.col-sm-4</div>
   </div>
-  {% endfor %}
+</div>
+
 </body>
 </html>
