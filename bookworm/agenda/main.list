@@ -66,8 +66,8 @@ CLOCK: [2024-04-12 Fri 07:12]--[2024-04-12 Fri 08:12] =>  1:00
 :PROPERTIES:
 :CATEGORY: OpenAI
 :END:
-**** [#A] gptel
-SCHEDULED: <2024-06-23 Sun>
+**** [#B] gptel
+SCHEDULED: <2024-06-24 Mon>
 
 ** English
 :PROPERTIES:
@@ -303,10 +303,13 @@ CLOCK: [2024-04-25 Thu 07:11]--[2024-04-25 Thu 07:40] =>  0:29
 :END:
 [https://learnenglish.britishcouncil.org/grammar/english-grammar-reference/demonstratives]
 ****** [#C] 'one' and 'ones'
-SCHEDULED: <2024-06-24 Mon ++2d>
+SCHEDULED: <2024-06-30 Sun ++2d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-06-21 Fri 18:47]
+:LAST_REPEAT: [2024-06-23 Sun 19:03]
 :END:
+- State "AMPLE"      from ""           [2024-06-23 Sun 19:03]
+- State "AMPLE"      from ""           [2024-06-23 Sun 19:03]
+- State "AMPLE"      from ""           [2024-06-23 Sun 19:03]
 - State "AMPLE"      from ""           [2024-06-21 Fri 18:47]
 - State "AMPLE"      from ""           [2024-06-20 Thu 18:42]
 - State "AMPLE"      from ""           [2024-06-17 Mon 18:05]
@@ -373,7 +376,7 @@ CLOCK: [2024-06-04 Tue 18:09]--[2024-06-04 Tue 18:41] =>  0:32
 [[https://learnenglish.britishcouncil.org/grammar/english-grammar-reference/relative-pronouns-relative-clauses]]
 ***** Determiners and quantifiers
 ****** [#A] Specific and general determiners
-SCHEDULED: <2024-06-23 Sun>
+SCHEDULED: <2024-06-24 Mon>
 https://learnenglish.britishcouncil.org/grammar/english-grammar-reference/specific-general-determiners
 
 *** The English We Speak
@@ -437,7 +440,7 @@ CLOCK: [2023-12-20 Wed 09:55]--[2023-12-20 Wed 10:45] =>  0:50
 CLOCK: [2023-12-19 Tue 09:15]--[2023-12-19 Tue 09:18] =>  0:03
 :END:
 *** [#C] MAN df
-SCHEDULED: <2024-06-23 Sun ++1w>
+SCHEDULED: <2024-06-25 Tue ++1w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-06-14 Fri 07:48]
 :END:
@@ -483,7 +486,7 @@ SCHEDULED: <2024-06-25 Tue ++1w>
 CLOCK: [2023-12-19 Tue 09:22]--[2023-12-19 Tue 09:34] =>  0:12
 :END:
 *** [#C] MAN htop
-SCHEDULED: <2024-06-23 Sun ++1w>
+SCHEDULED: <2024-06-25 Tue ++1w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-01-11 Thu 16:06]
 :END:
@@ -545,7 +548,7 @@ Avoiding Standard Software Risks
 Using Open Source Software
 
 *** RAW [#C] =helpful= package usage
-SCHEDULED: <2024-06-23 Sun ++2w>
+SCHEDULED: <2024-06-24 Mon ++2w>
 - Note taken on [2024-05-30 Thu 16:06] \\
   The "Helpful" package in Emacs is an alternative to the built-in Emacs
   help system that offers more contextual information and enhanced
@@ -599,7 +602,7 @@ types_operations.org
 : types_operations.org
 
 *** [#C] How ho check which Debian distro are you using
-SCHEDULED: <2024-06-23 Sun>
+SCHEDULED: <2024-06-24 Mon>
 
 #+begin_src sh :results output
 hostnamectl
@@ -1190,7 +1193,7 @@ CLOCK: [2024-04-22 Mon 08:24]--[2024-04-22 Mon 09:09] =>  0:45
 [[info:python3.11#The Python Language Reference][python3.11#The Python Language Reference]]
 
 ****  [#B] Python Data model
-SCHEDULED: <2024-06-23 Sun>
+SCHEDULED: <2024-06-24 Mon>
 :LOGBOOK:
 CLOCK: [2024-06-05 Wed 07:40]--[2024-06-05 Wed 09:05] =>  1:25
 CLOCK: [2024-06-03 Mon 07:59]--[2024-06-03 Mon 08:50] =>  0:51
@@ -1226,7 +1229,7 @@ CLOCK: [2024-05-27 Mon 07:34]--[2024-05-27 Mon 08:27] =>  0:53
 [[file:~/git/annelida/ballyboe/org-blog/2024-05-27-the-compliler-is-a-crucial-tool.org][file:~/git/annelida/ballyboe/org-blog/2024-05-27-the-compliler-is-a-crucial-tool.org]]
 
 *** [#C] Typical test folder structure in Python
-SCHEDULED: <2024-06-23 Sun ++2d>
+SCHEDULED: <2024-06-26 Wed ++2d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-06-20 Thu 18:42]
 :END:
@@ -2098,7 +2101,7 @@ CLOCK: [2024-04-19 Fri 11:13]--[2024-04-19 Fri 11:53] =>  0:40
 
 [[file:~/git/annelida/ballyboe/org-blog/2023-11-07-Python-venv.org::*Creating a Python virtual environment on a Debian-based system][Python virtual environment on a Debian-based system]]
 *** [#C] Python Programming Language basics
-SCHEDULED: <2024-06-23 Sun>
+SCHEDULED: <2024-06-24 Mon>
 :LOGBOOK:
 CLOCK: [2024-05-23 Thu 10:14]--[2024-05-23 Thu 11:05] =>  0:51
 CLOCK: [2024-05-23 Thu 09:43]--[2024-05-23 Thu 10:04] =>  0:21
@@ -2215,10 +2218,10 @@ CLOCK: [2024-05-31 Fri 12:34]--[2024-05-31 Fri 12:38] =>  0:04
   The file has to be stored on the filesystem as static/style.css.
 https://flask.palletsprojects.com/en/3.0.x/quickstart/#static-files
 *** RAW [#A] Rendering Templates
-SCHEDULED: <2024-06-23 Sun>
+SCHEDULED: <2024-06-24 Mon>
 https://flask.palletsprojects.com/en/3.0.x/quickstart/#rendering-templates
 *** RAW [#A] Accessing Request Data
-SCHEDULED: <2024-06-23 Sun>
+SCHEDULED: <2024-06-24 Mon>
 https://flask.palletsprojects.com/en/3.0.x/quickstart/#accessing-request-data
 *** RAW Redirects and Errors
 https://flask.palletsprojects.com/en/3.0.x/quickstart/#redirects-and-errors
@@ -2308,7 +2311,7 @@ CLOCK: [2024-05-16 Thu 07:12]--[2024-05-16 Thu 07:27] =>  0:15
 :END:
 
 *** [#C] Eww commands brief description
-SCHEDULED: <2024-06-23 Sun>
+SCHEDULED: <2024-06-24 Mon>
 
 The three column table: Key, command, description
 
@@ -2504,7 +2507,7 @@ CLOCK: [2023-12-03 Sun 13:04]--[2023-12-03 Sun 13:32] =>  0:28
 [[info:org#Capture templates][org#Capture templates]]
 
 *** [#C] Org-mode keys
-SCHEDULED: <2024-06-23 Sun>
+SCHEDULED: <2024-06-24 Mon>
 :LOGBOOK:
 CLOCK: [2024-05-29 Wed 15:38]--[2024-05-29 Wed 16:37] =>  0:59
 :END:
@@ -2890,7 +2893,7 @@ CLOCK: [2024-01-04 Thu 12:11]--[2024-01-04 Thu 12:13] =>  0:02
   version
 
 ** [#C] Databases fundamentals
-SCHEDULED: <2024-06-23 Sun>
+SCHEDULED: <2024-06-24 Mon>
 :PROPERTIES:
 :CATEGORY: DB
 :END:
@@ -2976,10 +2979,11 @@ CLOCK: [2024-05-02 Thu 07:10]--[2024-05-02 Thu 08:44] =>  1:34
 CLOCK: [2024-05-01 Wed 11:01]--[2024-05-01 Wed 11:26] =>  0:25
 :END:
 *** Synopsis
-SCHEDULED: <2024-06-24 Mon ++1w>
+SCHEDULED: <2024-07-01 Mon ++1w>
 :PROPERTIES:
-:LAST_REPEAT: [2024-06-09 Sun 19:03]
+:LAST_REPEAT: [2024-06-23 Sun 19:03]
 :END:
+- State "AMPLE"      from ""           [2024-06-23 Sun 19:03]
 - State "AMPLE"      from ""           [2024-06-09 Sun 19:03]
 - State "AMPLE"      from ""           [2024-06-09 Sun 19:03]
 - State "AMPLE"      from ""           [2024-06-03 Mon 19:54]
@@ -3047,7 +3051,7 @@ CLOCK: [2024-05-25 Sat 09:06]--[2024-05-25 Sat 09:06] =>  0:00
 :END:
 https://jinja.palletsprojects.com/en/3.1.x/templates/#variables
 *** [#B] Filters
-SCHEDULED: <2024-06-23 Sun>
+SCHEDULED: <2024-06-24 Mon>
 https://jinja.palletsprojects.com/en/3.1.x/templates/#filters
 *** Tests
 https://jinja.palletsprojects.com/en/3.1.x/templates/#tests
@@ -3102,10 +3106,11 @@ CLOCK: [2024-05-29 Wed 06:44]--[2024-05-29 Wed 07:20] =>  0:36
 :END:
 
 ** [#C] Flask controller pass the dictionary to Jinja
-SCHEDULED: <2024-06-23 Sun ++1w>
+SCHEDULED: <2024-06-30 Sun ++1w>
 :PROPERTIES:
-:LAST_REPEAT: [2024-06-14 Fri 20:04]
+:LAST_REPEAT: [2024-06-23 Sun 19:02]
 :END:
+- State "AMPLE"      from ""           [2024-06-23 Sun 19:02]
 - State "AMPLE"      from ""           [2024-06-14 Fri 20:04]
 :LOGBOOK:
 CLOCK: [2024-06-12 Wed 08:12]--[2024-06-12 Wed 08:44] =>  0:32
@@ -3525,7 +3530,7 @@ SCHEDULED: <2024-04-23 Tue>
 CLOCK: [2024-04-22 Mon 09:39]--[2024-04-22 Mon 10:10] =>  0:31
 :END:
 ** DELAY [#C] Python programming language brief overview diagram
-SCHEDULED: <2024-06-23 Sun>
+SCHEDULED: <2024-06-27 Thu>
 ** AMPLE [#C]Work with links in Emacs with Bookmarks+
 SCHEDULED: <2024-06-20 Thu ++2d>
 :LOGBOOK:
