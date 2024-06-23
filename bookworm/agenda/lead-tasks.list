@@ -12,10 +12,11 @@
 #+TODO: DELAY LAG RETARD | BARE
 
 * Genuine source of knowledge
-SCHEDULED: <2024-06-23 Sun ++1d>
+SCHEDULED: <2024-06-24 Mon ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-06-22 Sat 20:31]
+:LAST_REPEAT: [2024-06-23 Sun 19:00]
 :END:
+- State "AMPLE"      from ""           [2024-06-23 Sun 19:00]
 - State "AMPLE"      from ""           [2024-06-22 Sat 20:31]
 - State "AMPLE"      from ""           [2024-06-21 Fri 18:45]
 - State "AMPLE"      from ""           [2024-06-20 Thu 18:44]
@@ -111,10 +112,11 @@ about how the program works are:
 --* INIT Conclusion*: the wisest decision is just to use it properly!
 
 * Deliberate practice
-SCHEDULED: <2024-06-23 Sun ++1d>
+SCHEDULED: <2024-06-24 Mon ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-06-22 Sat 20:31]
+:LAST_REPEAT: [2024-06-23 Sun 19:00]
 :END:
+- State "AMPLE"      from ""           [2024-06-23 Sun 19:00]
 - State "AMPLE"      from ""           [2024-06-22 Sat 20:31]
 - State "AMPLE"      from ""           [2024-06-21 Fri 18:45]
 - State "AMPLE"      from ""           [2024-06-20 Thu 18:44]
@@ -224,7 +226,7 @@ CLOCK: [2023-11-24 Fri 08:31]--[2023-11-24 Fri 09:02] =>  0:31
 when you do challenging but indispensable tasks by yourself
 
 * [#B] DeepLearning AI
-SCHEDULED: <2024-06-23 Sun ++1d>
+SCHEDULED: <2024-06-24 Mon ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-06-21 Fri 18:45]
 :END:
@@ -245,7 +247,7 @@ CLOCK: [2024-06-14 Fri 09:00]--[2024-06-14 Fri 09:24] =>  0:24
 * Emacs
 
 ** [#C] Counsel
-SCHEDULED: <2024-06-23 Sun ++2d>
+SCHEDULED: <2024-06-24 Mon ++2d>
 - Note taken on [2024-06-14 Fri 08:56] \\
   Key bindings for navigation in ivy minibuffer
 
@@ -260,7 +262,7 @@ CLOCK: [2024-06-14 Fri 07:52]--[2024-06-14 Fri 08:50] =>  0:58
 :END:
 [[elisp:(apropos-command "counsel")]]
 ** RAW [#B] Help about *Help*
-SCHEDULED: <2024-06-23 Sun ++1d>
+SCHEDULED: <2024-06-24 Mon ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-06-21 Fri 18:45]
 :CATEGORY: Emacs
@@ -346,7 +348,7 @@ Stack-Overflow suggestions and notes. Bear this fact in mind do your
 job as it would be done in a sure and fire manner.
 
 ***  [#C] *Python* embedded help system
-SCHEDULED: <2024-06-23 Sun ++2d/3d>
+SCHEDULED: <2024-06-24 Mon ++2d/3d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-05-12 Sun 18:24]
 :CATEGORY: Python
@@ -448,7 +450,7 @@ Very straighforward system out from 10 initial keys to use in embedded
 *Help* browser.OA To use several *Help* buffers use =M-x raname uniquely=
 
 ** RAW [#B] Help about *info*
-SCHEDULED: <2024-06-23 Sun ++1d>
+SCHEDULED: <2024-06-24 Mon ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-06-21 Fri 18:45]
 :CATEGORY: Emacs
@@ -505,10 +507,11 @@ Mostly the similar approach with several quirks
 [[file:~/git/annelida/ballyboe/org-blog/2024-05-26-Emacs-help-about-help.org::*The list of commands, which began with C-h prefix][The list of commands, which began with C-h prefix and Info commands]]
 
 * Task decomposition
-SCHEDULED: <2024-06-23 Sun ++1d>
+SCHEDULED: <2024-06-24 Mon ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-06-19 Wed 19:14]
+:LAST_REPEAT: [2024-06-23 Sun 19:01]
 :END:
+- State "AMPLE"      from ""           [2024-06-23 Sun 19:01]
 - State "AMPLE"      from ""           [2024-06-19 Wed 19:14]
 - State "AMPLE"      from ""           [2024-06-18 Tue 19:14]
 - State "AMPLE"      from ""           [2024-06-16 Sun 18:12]
@@ -563,7 +566,7 @@ SCHEDULED: <2024-06-20 Thu>
 CLOCK: [2024-06-17 Mon 09:14]--[2024-06-17 Mon 10:04] =>  0:50
 :END:
 ** [#A] Data structures in CS
-SCHEDULED: <2024-06-23 Sun ++1d>
+SCHEDULED: <2024-06-24 Mon ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-06-22 Sat 20:29]
 :END:
@@ -594,7 +597,7 @@ https://realpython.com/python-data-structures/#toc
 [[https://www.bbc.co.uk/bitesize/guides/zghbgk7/revision/2]]
 
 *** [#C] Dictionaries, Maps, and Hash Tables
-SCHEDULED: <2024-06-23 Sun ++1w>
+SCHEDULED: <2024-06-24 Mon ++1w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-06-12 Wed 17:11]
 :END:
@@ -616,8 +619,8 @@ CLOCK: [2024-06-09 Sun 07:27]--[2024-06-09 Sun 08:47] =>  1:20
 :END:
 
 [[https://www.geeksforgeeks.org/introduction-to-arrays-data-structure-and-algorithm-tutorials/]]
-*** [#B] Linked lists
-SCHEDULED: <2024-06-23 Sun ++2d>
+*** [#C] Linked lists
+SCHEDULED: <2024-06-24 Mon ++2d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-06-20 Thu 15:49]
 :END:
@@ -635,11 +638,21 @@ SCHEDULED: <2024-06-25 Tue>
 https://www.geeksforgeeks.org/tree-data-structure/?ref=ml_lbp
 
 *** [#A] Heap data structure
-SCHEDULED: <2024-06-23 Sun>
+SCHEDULED: <2024-06-24 Mon ++2d>
+:PROPERTIES:
+:LAST_REPEAT: [2024-06-23 Sun 09:16]
+:END:
+- State "AMPLE"      from ""           [2024-06-23 Sun 09:16]
+:LOGBOOK:
+CLOCK: [2024-06-23 Sun 08:50]--[2024-06-23 Sun 09:16] =>  0:26
+CLOCK: [2024-06-23 Sun 07:49]--[2024-06-23 Sun 08:04] =>  0:15
+:END:
 https://www.geeksforgeeks.org/heap-data-structure/?ref=lbp
 
+
+
 ** [#C] Algorithms in CS
-SCHEDULED: <2024-06-23 Sun ++1w>
+SCHEDULED: <2024-06-24 Mon ++1w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-06-09 Sun 19:01]
 :END:
@@ -654,8 +667,8 @@ https://www.geeksforgeeks.org/fundamentals-of-algorithms/?ref=shm
 [[file:~/git/annelida/ballyboe/org-blog/2024-06-06-algorithms-in-computer-science.org::*Preamble][Algorithms in CS]]
 [[https://www.bbc.co.uk/bitesize/guides/zpp49j6/revision/2]]
 
-*** [#B] Searching algorithms
-SCHEDULED: <2024-06-23 Sun ++2d>
+*** [#C] Searching algorithms
+SCHEDULED: <2024-06-24 Mon ++2d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-06-20 Thu 15:49]
 :END:
@@ -688,7 +701,7 @@ https://www.geeksforgeeks.org/sorting-algorithms/
 [[https://www.geeksforgeeks.org/bubble-sort/]]
 
 ** [#C] Algorithm's Time Complexity O(n)
-SCHEDULED: <2024-06-23 Sun ++1w>
+SCHEDULED: <2024-06-25 Tue ++1w>
 :PROPERTIES:
 :CATEGORY: O(1)
 :LAST_REPEAT: [2024-06-13 Thu 17:13]
@@ -711,7 +724,7 @@ https://www.geeksforgeeks.org/learn-data-structures-and-algorithms-dsa-tutorial/
 * Python
 
 ** [#C] Study Python with unittests
-SCHEDULED: <2024-06-23 Sun ++2d>
+SCHEDULED: <2024-06-24 Mon ++2d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-06-20 Thu 15:48]
 :END:
@@ -826,12 +839,12 @@ SCHEDULED: <2024-06-25 Tue ++1w>
 https://www.geeksforgeeks.org/ascii-in-python/?ref=lbp
 
 *** [#A] Python ~bool()~ built-in function
-SCHEDULED: <2024-06-23 Sun>
+SCHEDULED: <2024-06-24 Mon>
 
 https://www.geeksforgeeks.org/bool-in-python/?ref=lbp
 
 ** [#A] Set of built-in methods defined for specific data types
-SCHEDULED: <2024-06-23 Sun>
+SCHEDULED: <2024-06-24 Mon>
 :LOGBOOK:
 CLOCK: [2024-06-19 Wed 10:55]--[2024-06-19 Wed 11:37] =>  0:42
 CLOCK: [2024-06-19 Wed 09:22]--[2024-06-19 Wed 10:19] =>  0:57
