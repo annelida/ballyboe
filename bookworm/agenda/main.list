@@ -66,8 +66,8 @@ CLOCK: [2024-04-12 Fri 07:12]--[2024-04-12 Fri 08:12] =>  1:00
 :PROPERTIES:
 :CATEGORY: OpenAI
 :END:
-**** [#B] gptel
-SCHEDULED: <2024-06-24 Mon>
+**** [#C] gptel
+SCHEDULED: <2024-06-25 Tue>
 
 ** English
 :PROPERTIES:
@@ -376,7 +376,7 @@ CLOCK: [2024-06-04 Tue 18:09]--[2024-06-04 Tue 18:41] =>  0:32
 [[https://learnenglish.britishcouncil.org/grammar/english-grammar-reference/relative-pronouns-relative-clauses]]
 ***** Determiners and quantifiers
 ****** [#A] Specific and general determiners
-SCHEDULED: <2024-06-24 Mon>
+SCHEDULED: <2024-06-25 Tue>
 https://learnenglish.britishcouncil.org/grammar/english-grammar-reference/specific-general-determiners
 
 *** The English We Speak
@@ -548,7 +548,7 @@ Avoiding Standard Software Risks
 Using Open Source Software
 
 *** RAW [#C] =helpful= package usage
-SCHEDULED: <2024-06-24 Mon ++2w>
+SCHEDULED: <2024-06-25 Tue ++2w>
 - Note taken on [2024-05-30 Thu 16:06] \\
   The "Helpful" package in Emacs is an alternative to the built-in Emacs
   help system that offers more contextual information and enhanced
@@ -602,7 +602,7 @@ types_operations.org
 : types_operations.org
 
 *** [#C] How ho check which Debian distro are you using
-SCHEDULED: <2024-06-24 Mon>
+SCHEDULED: <2024-06-25 Tue>
 
 #+begin_src sh :results output
 hostnamectl
@@ -1192,8 +1192,8 @@ CLOCK: [2024-04-22 Mon 08:24]--[2024-04-22 Mon 09:09] =>  0:45
 :END:
 [[info:python3.11#The Python Language Reference][python3.11#The Python Language Reference]]
 
-****  [#B] Python Data model
-SCHEDULED: <2024-06-24 Mon>
+****  [#C] Python Data model
+SCHEDULED: <2024-06-25 Tue>
 :LOGBOOK:
 CLOCK: [2024-06-05 Wed 07:40]--[2024-06-05 Wed 09:05] =>  1:25
 CLOCK: [2024-06-03 Mon 07:59]--[2024-06-03 Mon 08:50] =>  0:51
@@ -1216,7 +1216,7 @@ CLOCK: [2024-05-26 Sun 08:42]--[2024-05-26 Sun 09:13] =>  0:31
 Schema
 
 *** [#C] The compiler itself
-SCHEDULED: <2024-06-24 Mon>
+SCHEDULED: <2024-06-25 Tue>
 :LOGBOOK:
 CLOCK: [2024-06-03 Mon 09:26]--[2024-06-03 Mon 09:34] =>  0:08
 CLOCK: [2024-05-31 Fri 08:49]--[2024-05-31 Fri 09:16] =>  0:27
@@ -1775,7 +1775,7 @@ To find multiple elements (these methods will return a list):
 - State "DONE"       from "ACTIVE"     [2023-11-16 Thu 09:23]
 
 *** DELAY [#A] Testing in Python
-SCHEDULED: <2024-06-25 Tue>
+SCHEDULED: <2024-06-27 Thu>
 :PROPERTIES:
 :CATEGORY: Python
 :END:
@@ -2075,7 +2075,11 @@ CLOCK: [2024-01-12 Fri 10:28]--[2024-01-12 Fri 11:01] =>  0:33
 :END:
 
 *** [#A] List of tuples
-SCHEDULED: <2024-06-24 Mon>
+SCHEDULED: <2024-07-01 Mon ++1w>
+:PROPERTIES:
+:LAST_REPEAT: [2024-06-24 Mon 19:10]
+:END:
+- State "AMPLE"      from ""           [2024-06-24 Mon 19:10]
 - Note taken on [2024-06-24 Mon 17:37] \\
   * Accessing
 
@@ -2146,7 +2150,7 @@ CLOCK: [2024-04-19 Fri 11:13]--[2024-04-19 Fri 11:53] =>  0:40
 
 [[file:~/git/annelida/ballyboe/org-blog/2023-11-07-Python-venv.org::*Creating a Python virtual environment on a Debian-based system][Python virtual environment on a Debian-based system]]
 *** [#C] Python Programming Language basics
-SCHEDULED: <2024-06-24 Mon>
+SCHEDULED: <2024-06-25 Tue>
 :LOGBOOK:
 CLOCK: [2024-05-23 Thu 10:14]--[2024-05-23 Thu 11:05] =>  0:51
 CLOCK: [2024-05-23 Thu 09:43]--[2024-05-23 Thu 10:04] =>  0:21
@@ -2263,10 +2267,10 @@ CLOCK: [2024-05-31 Fri 12:34]--[2024-05-31 Fri 12:38] =>  0:04
   The file has to be stored on the filesystem as static/style.css.
 https://flask.palletsprojects.com/en/3.0.x/quickstart/#static-files
 *** RAW [#A] Rendering Templates
-SCHEDULED: <2024-06-24 Mon>
+SCHEDULED: <2024-06-25 Tue>
 https://flask.palletsprojects.com/en/3.0.x/quickstart/#rendering-templates
 *** RAW [#A] Accessing Request Data
-SCHEDULED: <2024-06-24 Mon>
+SCHEDULED: <2024-06-25 Tue>
 https://flask.palletsprojects.com/en/3.0.x/quickstart/#accessing-request-data
 *** RAW Redirects and Errors
 https://flask.palletsprojects.com/en/3.0.x/quickstart/#redirects-and-errors
@@ -2356,7 +2360,7 @@ CLOCK: [2024-05-16 Thu 07:12]--[2024-05-16 Thu 07:27] =>  0:15
 :END:
 
 *** [#C] Eww commands brief description
-SCHEDULED: <2024-06-24 Mon>
+SCHEDULED: <2024-06-25 Tue>
 
 The three column table: Key, command, description
 
@@ -2552,7 +2556,7 @@ CLOCK: [2023-12-03 Sun 13:04]--[2023-12-03 Sun 13:32] =>  0:28
 [[info:org#Capture templates][org#Capture templates]]
 
 *** [#C] Org-mode keys
-SCHEDULED: <2024-06-24 Mon>
+SCHEDULED: <2024-06-25 Tue>
 :LOGBOOK:
 CLOCK: [2024-05-29 Wed 15:38]--[2024-05-29 Wed 16:37] =>  0:59
 :END:
@@ -2937,8 +2941,8 @@ CLOCK: [2024-01-04 Thu 12:11]--[2024-01-04 Thu 12:13] =>  0:02
   tag
   version
 
-** [#C] Databases fundamentals
-SCHEDULED: <2024-06-24 Mon>
+** [#B] Databases fundamentals
+SCHEDULED: <2024-06-25 Tue>
 :PROPERTIES:
 :CATEGORY: DB
 :END:
@@ -3096,7 +3100,7 @@ CLOCK: [2024-05-25 Sat 09:06]--[2024-05-25 Sat 09:06] =>  0:00
 :END:
 https://jinja.palletsprojects.com/en/3.1.x/templates/#variables
 *** [#B] Filters
-SCHEDULED: <2024-06-24 Mon>
+SCHEDULED: <2024-06-25 Tue>
 https://jinja.palletsprojects.com/en/3.1.x/templates/#filters
 *** Tests
 https://jinja.palletsprojects.com/en/3.1.x/templates/#tests
@@ -3132,7 +3136,7 @@ CLOCK: [2024-05-26 Sun 09:19]--[2024-05-26 Sun 09:41] =>  0:22
 *** AMPLE [#A] Adding Static Files to application
 
 ** [#C] Assembly language
-SCHEDULED: <2024-06-24 Mon>
+SCHEDULED: <2024-06-25 Tue>
 - Note taken on [2024-05-29 Wed 07:37] \\
   [[https://en.wikipedia.org/wiki/Assembly_language]]
 
@@ -3218,7 +3222,11 @@ CLOCK: [2024-06-20 Thu 08:00]--[2024-06-20 Thu 08:17] =>  0:17
 :END:
 
 ** [#C] Twitter Bootstrap Grid System
-SCHEDULED: <2024-06-24 Mon>
+SCHEDULED: <2024-07-01 Mon ++1w>
+:PROPERTIES:
+:LAST_REPEAT: [2024-06-24 Mon 19:22]
+:END:
+- State "AMPLE"      from ""           [2024-06-24 Mon 19:22]
 - Note taken on [2024-06-21 Fri 17:12] \\
   Container: This is the outer wrapper that centers your content and
   adds padding. You can use either a fixed-width container (.container)
@@ -3233,7 +3241,7 @@ SCHEDULED: <2024-06-24 Mon>
 CLOCK: [2024-06-21 Fri 09:42]--[2024-06-21 Fri 10:15] =>  0:33
 :END:
 ** [#C] Browser Developer Tools
-SCHEDULED: <2024-06-24 Mon>
+SCHEDULED: <2024-06-25 Tue>
 * Work
 :PROPERTIES:
 :CATEGORY: Job
@@ -3293,10 +3301,12 @@ CLOCK: [2024-04-19 Fri 09:10]--[2024-04-19 Fri 09:47] =>  0:37
 :END:
 
 **** DELAY A Python Q&A Session
-SCHEDULED: <2024-06-25 Tue ++2w>
+SCHEDULED: <2024-07-23 Tue ++2w>
 :PROPERTIES:
-:LAST_REPEAT: [2024-01-25 Thu 11:34]
+:LAST_REPEAT: [2024-06-24 Mon 19:23]
 :END:
+- State "AMPLE"      from "DELAY"      [2024-06-24 Mon 19:23]
+- State "AMPLE"      from "LAG"        [2024-06-24 Mon 19:23]
 - State "AMPLE"      from "RAW"        [2024-01-25 Thu 11:34]
 - State "AMPLE"      from "RAW"        [2024-01-25 Thu 11:34]
 - State "DONE"       from "Active"     [2024-01-25 Thu 11:34]
@@ -3446,12 +3456,13 @@ SCHEDULED: <2024-07-06 Sat ++2w>
 :LOGBOOK:
 CLOCK: [2023-12-14 Thu 10:09]--[2023-12-14 Thu 10:34] =>  0:25
 :END:
-***** RAW Python Lists
-SCHEDULED: <2024-06-25 Tue ++2w>
+***** DELAY Python Lists
+SCHEDULED: <2024-07-09 Tue ++2w>
 :PROPERTIES:
 :CATEGORY: Python
-:LAST_REPEAT: [2024-01-09 Tue 15:43]
+:LAST_REPEAT: [2024-06-24 Mon 19:24]
 :END:
+- State "AMPLE"      from "DELAY"      [2024-06-24 Mon 19:24]
 - State "DONE"       from "Active"     [2024-01-09 Tue 15:43]
 - Note taken on [2023-12-22 Fri 14:51] \\
   A Python List is a built-in, ordered, mutable collection of elements
