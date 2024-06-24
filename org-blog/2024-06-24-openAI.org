@@ -56,3 +56,72 @@ pip list
 : setuptools 66.1.1
 : wheel      0.38.4
 
+* Install the OpenAI Python library
+
+#+begin_src sh
+pip install --upgrade openai
+#+end_src
+
+#+RESULTS:
+#+begin_example
+Collecting openai
+  Using cached openai-1.35.3-py3-none-any.whl (327 kB)
+Collecting anyio<5,>=3.5.0
+  Using cached anyio-4.4.0-py3-none-any.whl (86 kB)
+Collecting distro<2,>=1.7.0
+  Using cached distro-1.9.0-py3-none-any.whl (20 kB)
+Collecting httpx<1,>=0.23.0
+  Using cached httpx-0.27.0-py3-none-any.whl (75 kB)
+Collecting pydantic<3,>=1.9.0
+  Using cached pydantic-2.7.4-py3-none-any.whl (409 kB)
+Collecting sniffio
+  Using cached sniffio-1.3.1-py3-none-any.whl (10 kB)
+Collecting tqdm>4
+  Using cached tqdm-4.66.4-py3-none-any.whl (78 kB)
+Collecting typing-extensions<5,>=4.7
+  Using cached typing_extensions-4.12.2-py3-none-any.whl (37 kB)
+Collecting idna>=2.8
+  Using cached idna-3.7-py3-none-any.whl (66 kB)
+Collecting certifi
+  Using cached certifi-2024.6.2-py3-none-any.whl (164 kB)
+Collecting httpcore==1.*
+  Using cached httpcore-1.0.5-py3-none-any.whl (77 kB)
+Collecting h11<0.15,>=0.13
+  Using cached h11-0.14.0-py3-none-any.whl (58 kB)
+Collecting annotated-types>=0.4.0
+  Using cached annotated_types-0.7.0-py3-none-any.whl (13 kB)
+Collecting pydantic-core==2.18.4
+  Using cached pydantic_core-2.18.4-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (2.0 MB)
+Installing collected packages: typing-extensions, tqdm, sniffio, idna, h11, distro, certifi, annotated-types, pydantic-core, httpcore, anyio, pydantic, httpx, openai
+Successfully installed annotated-types-0.7.0 anyio-4.4.0 certifi-2024.6.2 distro-1.9.0 h11-0.14.0 httpcore-1.0.5 httpx-0.27.0 idna-3.7 openai-1.35.3 pydantic-2.7.4 pydantic-core-2.18.4 sniffio-1.3.1 tqdm-4.66.4 typing-extensions-4.12.2
+#+end_example
+
+** Check up again a list of installed packages
+
+#+begin_src sh
+pip list
+#+end_src
+
+#+RESULTS:
+#+begin_example
+Package           Version
+----------------- --------
+annotated-types   0.7.0
+anyio             4.4.0
+certifi           2024.6.2
+distro            1.9.0
+h11               0.14.0
+httpcore          1.0.5
+httpx             0.27.0
+idna              3.7
+openai            1.35.3
+pip               23.0.1
+pydantic          2.7.4
+pydantic_core     2.18.4
+setuptools        66.1.1
+sniffio           1.3.1
+tqdm              4.66.4
+typing_extensions 4.12.2
+wheel             0.38.4
+#+end_example
+
