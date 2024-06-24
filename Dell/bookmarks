@@ -2,7 +2,19 @@
 ;;; This format is meant to be slightly human-readable;
 ;;; nevertheless, you probably don't want to edit it.
 ;;; -*- End Of Bookmark File Format Version Stamp -*-
-(#1=(#("2024-05-25-jinja-templating.org" 0 31
+(#1=(#("2024-06-24-openAI.org" 0 21
+      (bmkp-full-record #1#))
+    (filename . "~/git/annelida/ballyboe/org-blog/2024-06-24-openAI.org")
+    (buffer-name . "2024-06-24-openAI.org")
+    (front-context-string . ": ChatCompletion")
+    (rear-context-string . "src\n\n#+RESULTS:\n")
+    (front-context-region-string)
+    (rear-context-region-string)
+    (visits . 0)
+    (time . #2=(26233 53137 178997 179000))
+    (created . #2#)
+    (position . 4218))
+#1=(#("2024-05-25-jinja-templating.org" 0 31
       (bmkp-full-record #1#))
     (filename . "~/git/annelida/ballyboe/org-blog/2024-05-25-jinja-templating.org")
     (buffer-name . "2024-05-25-jinja-templating.org")
