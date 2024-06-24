@@ -1,0 +1,58 @@
+#+BEGIN_EXPORT html
+---
+layout: page
+title: OpenAI
+tagline: " how start to think like a professional ChatGPT prompt engineer"
+permalink: /openAI/open-ai.html
+categories: [openAI]
+tags: [openAI]
+---
+#+END_EXPORT
+#+STARTUP: showall indent
+#+OPTIONS: tags:nil num:nil \n:nil @:t ::t |:t ^:{} _:{} *:t
+#+PROPERTY: header-args :exports both
+#+PROPERTY: header-args+ :results output pp
+#+PROPERTY: header-args+ :eval no-export
+#+TOC: headlines 2
+
+* Preamble
+
+* Set up a virtual environment
+
+** Creation
+
+#+begin_src sh
+ virtualenv ~/.local/venvs/ViOAI
+ ls ~/.local/venvs
+#+end_src
+
+#+RESULTS:
+: created virtual environment CPython3.11.2.final.0-64 in 207ms
+:   creator CPython3Posix(dest=/home/vikky/.local/venvs/ViOAI, clear=False, no_vcs_ignore=False, global=False)
+:   seeder FromAppData(download=False, pip=bundle, setuptools=bundle, wheel=bundle, via=copy, app_data_dir=/home/vikky/.local/share/virtualenv)
+:     added seed packages: pip==23.0.1, setuptools==66.1.1, wheel==0.38.4
+:   activators BashActivator,CShellActivator,FishActivator,NushellActivator,PowerShellActivator,PythonActivator
+: ViEnv0.1
+: ViEnv0.2
+: ViOAI
+: VirtSel
+
+** Activate =venv= inside Emacs:
+
+#+begin_src elisp
+(pyvenv-activate "~/.local/venvs/ViEnv0.1")
+#+end_src
+
+** Check-up a list of installed packaages:
+
+#+begin_src sh
+pip list
+#+end_src
+
+#+RESULTS:
+: Package    Version
+: ---------- -------
+: pip        23.0.1
+: setuptools 66.1.1
+: wheel      0.38.4
+
