@@ -2073,6 +2073,51 @@ SCHEDULED: <2024-07-09 Tue ++2w>
 :LOGBOOK:
 CLOCK: [2024-01-12 Fri 10:28]--[2024-01-12 Fri 11:01] =>  0:33
 :END:
+
+*** [#A] List of tuples
+SCHEDULED: <2024-06-24 Mon>
+- Note taken on [2024-06-24 Mon 17:37] \\
+  * Accessing
+
+  #+begin_src python :session list_of tuples :results output
+    list_of_tuples = [(1, 2), (3, 4), (5, 6)]
+    print(list_of_tuples[0])
+    print(list_of_tuples[0][0])
+  #+end_src
+
+  #+RESULTS:
+  : (1, 2)
+  : 1
+
+  * Accessing Elements in a List of Tuples
+
+  #+begin_src python :session list_of tuples :results output
+    a, b = list_of_tuples[0]
+    print(a, b)
+  #+end_src
+
+  #+RESULTS:
+  : 1 2
+
+  * Iterating Over a List of Tuples
+
+  #+begin_src python :session list_of tuples :results output
+    for a, b in list_of_tuples:
+        print(f"a: {a}, b: {b}")
+  #+end_src
+
+  #+RESULTS:
+  : a: 1, b: 2
+  : a: 3, b: 4
+  : a: 5, b: 6
+
+:LOGBOOK:
+CLOCK: [2024-06-24 Mon 17:36]--[2024-06-24 Mon 17:43] =>  0:07
+CLOCK: [2024-06-24 Mon 15:33]--[2024-06-24 Mon 15:40] =>  0:07
+:END:
+
+[[https://www.geeksforgeeks.org/python-create-a-list-of-tuples/]]
+
 *** [#B] UnitTest *info* studying
 SCHEDULED: <2024-06-28 Fri>
 :PROPERTIES:
@@ -3178,10 +3223,10 @@ SCHEDULED: <2024-06-24 Mon>
   Container: This is the outer wrapper that centers your content and
   adds padding. You can use either a fixed-width container (.container)
   or a full-width container (.container-fluid).
-  
+
   Row: Rows are horizontal groups of columns that ensure your columns
   are aligned properly. Each row can have up to 12 columns.
-  
+
   Column: Columns are the building blocks of your grid. You can specify
   how many of the 12 available columns you want each column to span
 :LOGBOOK:
