@@ -125,3 +125,24 @@ typing_extensions 4.12.2
 wheel             0.38.4
 #+end_example
 
+* Making an API request
+
+#+begin_src python
+  from openai import OpenAI
+  client = OpenAI()
+
+  completion = client.chat.completions.create(
+    model="gpt-3.5-turbo",
+    messages=[
+        {"role": "system", "content": "You are a professional ChatGPT prompt engineer with deep and profound knowledge of OpenAI subtleties and Python."},
+        {"role": "user", "content": "What is Python list?"}
+    ]
+  )
+
+  print(completion.choices[0].message)
+#+end_src
+
+#+RESULTS:
+: ChatCompletionMessage(content="In Python, a list is a data structure that is used to store collections of items. Lists are ordered, mutable (can be changed), and can contain elements of different data types. Lists are defined by enclosing a comma-separated sequence of items within square brackets []. Here's a simple example of a Python list:\n\n```python\nmy_list = [1, 2, 3, 'apple', 'banana', True]\nprint(my_list)\n```\n\nOutput:\n```\n[1, 2, 3, 'apple', 'banana', True]\n```\n\nYou can access elements within a list using indexing starting from 0. Lists in Python can contain duplicates and items can be added, removed, or changed as needed.", role='assistant', function_call=None, tool_calls=None)
+:
+:
