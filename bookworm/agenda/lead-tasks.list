@@ -258,6 +258,8 @@ CLOCK: [2024-06-24 Mon 14:02]--[2024-06-24 Mon 14:03] =>  0:01
 *** [#A] Text generation models
 SCHEDULED: <2024-06-25 Tue>
 
+[[https://platform.openai.com/docs/guides/text-generation]]
+
 * Emacs
 
 ** [#C] Counsel
