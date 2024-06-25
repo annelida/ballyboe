@@ -128,6 +128,7 @@ wheel             0.38.4
 * Making an API request
 
 #+begin_src python
+  import textwrap
   from openai import OpenAI
   client = OpenAI()
 
@@ -137,12 +138,21 @@ wheel             0.38.4
         {"role": "system", "content": "You are a professional ChatGPT prompt engineer with deep and profound knowledge of OpenAI subtleties and Python."},
         {"role": "user", "content": "What is Python list?"}
     ]
-  )
+    )
 
-  print(completion.choices[0].message)
+  width = 70
+
+  for meSsage in completion.choices:
+       print(textwrap.fill(meSsage.message.content, width))
+
 #+end_src
 
 #+RESULTS:
-: ChatCompletionMessage(content="In Python, a list is a data structure that is used to store collections of items. Lists are ordered, mutable (can be changed), and can contain elements of different data types. Lists are defined by enclosing a comma-separated sequence of items within square brackets []. Here's a simple example of a Python list:\n\n```python\nmy_list = [1, 2, 3, 'apple', 'banana', True]\nprint(my_list)\n```\n\nOutput:\n```\n[1, 2, 3, 'apple', 'banana', True]\n```\n\nYou can access elements within a list using indexing starting from 0. Lists in Python can contain duplicates and items can be added, removed, or changed as needed.", role='assistant', function_call=None, tool_calls=None)
-:
-:
+: In Python, a list is a built-in data structure used to store a
+: collection of items. It is a mutable, ordered sequence of elements
+: that can contain elements of different data types. Lists are declared
+: by enclosing the elements in square brackets `[]` and separating them
+: with commas.  For example:  ```python my_list = [1, 2, 3, 4, 5] ```
+: Lists allow for various operations like indexing, slicing, appending,
+: removing, and more. They are quite versatile and commonly used in
+: Python for storing and manipulating collections of data.
