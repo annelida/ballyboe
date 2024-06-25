@@ -67,7 +67,7 @@ CLOCK: [2024-04-12 Fri 07:12]--[2024-04-12 Fri 08:12] =>  1:00
 :CATEGORY: OpenAI
 :END:
 **** [#C] gptel
-SCHEDULED: <2024-06-25 Tue>
+SCHEDULED: <2024-06-26 Wed>
 
 ** English
 :PROPERTIES:
@@ -376,7 +376,7 @@ CLOCK: [2024-06-04 Tue 18:09]--[2024-06-04 Tue 18:41] =>  0:32
 [[https://learnenglish.britishcouncil.org/grammar/english-grammar-reference/relative-pronouns-relative-clauses]]
 ***** Determiners and quantifiers
 ****** [#A] Specific and general determiners
-SCHEDULED: <2024-06-25 Tue>
+SCHEDULED: <2024-06-26 Wed>
 https://learnenglish.britishcouncil.org/grammar/english-grammar-reference/specific-general-determiners
 
 *** The English We Speak
@@ -440,10 +440,11 @@ CLOCK: [2023-12-20 Wed 09:55]--[2023-12-20 Wed 10:45] =>  0:50
 CLOCK: [2023-12-19 Tue 09:15]--[2023-12-19 Tue 09:18] =>  0:03
 :END:
 *** [#C] MAN df
-SCHEDULED: <2024-06-25 Tue ++1w>
+SCHEDULED: <2024-07-02 Tue ++1w>
 :PROPERTIES:
-:LAST_REPEAT: [2024-06-14 Fri 07:48]
+:LAST_REPEAT: [2024-06-25 Tue 18:57]
 :END:
+- State "AMPLE"      from ""           [2024-06-25 Tue 18:57]
 - State "AMPLE"      from "LAG"        [2024-06-14 Fri 07:48]
 - State "AMPLE"      from "RETARD"     [2024-04-29 Mon 18:43]
 - State "AMPLE"      from "RAW"        [2024-01-11 Thu 16:03]
@@ -457,10 +458,11 @@ SCHEDULED: <2024-06-25 Tue ++1w>
 CLOCK: [2023-12-19 Tue 09:18]--[2023-12-19 Tue 09:22] =>  0:04
 :END:
 *** [#C] MAN free
-SCHEDULED: <2024-06-25 Tue ++1w>
+SCHEDULED: <2024-07-02 Tue ++1w>
 :PROPERTIES:
-:LAST_REPEAT: [2024-04-24 Wed 18:48]
+:LAST_REPEAT: [2024-06-25 Tue 18:57]
 :END:
+- State "AMPLE"      from ""           [2024-06-25 Tue 18:57]
 - State "AMPLE"      from ""           [2024-04-24 Wed 18:48]
 - State "AMPLE"      from "RAW"        [2024-01-11 Thu 16:04]
 - State "DONE"       from "Active"     [2023-12-20 Wed 18:42]
@@ -486,11 +488,12 @@ SCHEDULED: <2024-06-25 Tue ++1w>
 CLOCK: [2023-12-19 Tue 09:22]--[2023-12-19 Tue 09:34] =>  0:12
 :END:
 *** [#C] MAN htop
-SCHEDULED: <2024-06-25 Tue ++1w>
+SCHEDULED: <2024-07-02 Tue ++1w>
 :PROPERTIES:
-:LAST_REPEAT: [2024-01-11 Thu 16:06]
+:LAST_REPEAT: [2024-06-25 Tue 18:57]
 :END:
 
+- State "AMPLE"      from ""           [2024-06-25 Tue 18:57]
 - State "AMPLE"      from "Init"       [2024-01-11 Thu 16:06]
 - State "DONE"       from "Active"     [2023-12-20 Wed 18:43]
 *htop* is an interactive system-monitor process-viewer and
@@ -547,8 +550,12 @@ Choosing a Software Development Approach
 Avoiding Standard Software Risks
 Using Open Source Software
 
-*** RAW [#C] =helpful= package usage
-SCHEDULED: <2024-06-25 Tue ++2w>
+*** DELAY [#C] =helpful= package usage
+SCHEDULED: <2024-07-09 Tue ++2w>
+:PROPERTIES:
+:LAST_REPEAT: [2024-06-25 Tue 18:58]
+:END:
+- State "AMPLE"      from "DELAY"      [2024-06-25 Tue 18:58]
 - Note taken on [2024-05-30 Thu 16:06] \\
   The "Helpful" package in Emacs is an alternative to the built-in Emacs
   help system that offers more contextual information and enhanced
@@ -602,7 +609,7 @@ types_operations.org
 : types_operations.org
 
 *** [#C] How ho check which Debian distro are you using
-SCHEDULED: <2024-06-25 Tue>
+SCHEDULED: <2024-06-27 Thu>
 
 #+begin_src sh :results output
 hostnamectl
@@ -1193,7 +1200,7 @@ CLOCK: [2024-04-22 Mon 08:24]--[2024-04-22 Mon 09:09] =>  0:45
 [[info:python3.11#The Python Language Reference][python3.11#The Python Language Reference]]
 
 ****  [#C] Python Data model
-SCHEDULED: <2024-06-25 Tue>
+SCHEDULED: <2024-06-29 Sat>
 :LOGBOOK:
 CLOCK: [2024-06-05 Wed 07:40]--[2024-06-05 Wed 09:05] =>  1:25
 CLOCK: [2024-06-03 Mon 07:59]--[2024-06-03 Mon 08:50] =>  0:51
@@ -1216,7 +1223,7 @@ CLOCK: [2024-05-26 Sun 08:42]--[2024-05-26 Sun 09:13] =>  0:31
 Schema
 
 *** [#C] The compiler itself
-SCHEDULED: <2024-06-25 Tue>
+SCHEDULED: <2024-06-30 Sun>
 :LOGBOOK:
 CLOCK: [2024-06-03 Mon 09:26]--[2024-06-03 Mon 09:34] =>  0:08
 CLOCK: [2024-05-31 Fri 08:49]--[2024-05-31 Fri 09:16] =>  0:27
@@ -2150,7 +2157,7 @@ CLOCK: [2024-04-19 Fri 11:13]--[2024-04-19 Fri 11:53] =>  0:40
 
 [[file:~/git/annelida/ballyboe/org-blog/2023-11-07-Python-venv.org::*Creating a Python virtual environment on a Debian-based system][Python virtual environment on a Debian-based system]]
 *** [#C] Python Programming Language basics
-SCHEDULED: <2024-06-25 Tue>
+SCHEDULED: <2024-06-30 Sun>
 :LOGBOOK:
 CLOCK: [2024-05-23 Thu 10:14]--[2024-05-23 Thu 11:05] =>  0:51
 CLOCK: [2024-05-23 Thu 09:43]--[2024-05-23 Thu 10:04] =>  0:21
@@ -2165,7 +2172,7 @@ CLOCK: [2024-04-20 Sat 16:10]--[2024-04-20 Sat 16:25] =>  0:15
 [[file:~/git/annelida/ballyboe/org-blog/2024-04-20-python-programming-language.org::*Preamble][Python programming language]]
 [[https://realpython.com/python-keywords/]]
 [[https://en.wikipedia.org/wiki/Von_Neumann_architecture]]
-*** [#A] Print() function
+*** AMPLE [#A] Print() function
 SCHEDULED: <2024-06-25 Tue>
 :LOGBOOK:
 CLOCK: [2024-06-25 Tue 09:28]--[2024-06-25 Tue 10:48] =>  1:20
@@ -2175,10 +2182,13 @@ CLOCK: [2024-06-25 Tue 09:28]--[2024-06-25 Tue 10:48] =>  1:20
 :CATEGORY: Flask
 :END:
 *** DELAY A Minimal Application
-SCHEDULED: <2024-06-26 Wed ++2w>
+SCHEDULED: <2024-08-07 Wed ++2w>
 :PROPERTIES:
-:LAST_REPEAT: [2024-06-12 Wed 09:14]
+:LAST_REPEAT: [2024-06-25 Tue 19:00]
 :END:
+- State "AMPLE"      from "DELAY"      [2024-06-25 Tue 19:00]
+- State "AMPLE"      from "DELAY"      [2024-06-25 Tue 19:00]
+- State "AMPLE"      from "LAG"        [2024-06-25 Tue 19:00]
 - State "AMPLE"      from "LAG"        [2024-06-12 Wed 09:14]
 - State "AMPLE"      from "DELAY"      [2024-05-29 Wed 17:18]
 - Note taken on [2024-05-29 Wed 09:53] \\
@@ -2204,7 +2214,7 @@ CLOCK: [2024-05-25 Sat 09:07]--[2024-05-25 Sat 09:27] =>  0:20
 :END:
 https://flask.palletsprojects.com/en/3.0.x/quickstart/#a-minimal-application
 *** DELAY Debug Mode
-SCHEDULED: <2024-06-26 Wed ++2w>
+SCHEDULED: <2024-06-27 Thu ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-06-12 Wed 09:14]
 :END:
@@ -2272,10 +2282,10 @@ CLOCK: [2024-05-31 Fri 12:34]--[2024-05-31 Fri 12:38] =>  0:04
   The file has to be stored on the filesystem as static/style.css.
 https://flask.palletsprojects.com/en/3.0.x/quickstart/#static-files
 *** RAW [#A] Rendering Templates
-SCHEDULED: <2024-06-25 Tue>
+SCHEDULED: <2024-06-26 Wed>
 https://flask.palletsprojects.com/en/3.0.x/quickstart/#rendering-templates
 *** RAW [#A] Accessing Request Data
-SCHEDULED: <2024-06-25 Tue>
+SCHEDULED: <2024-06-26 Wed>
 https://flask.palletsprojects.com/en/3.0.x/quickstart/#accessing-request-data
 *** RAW Redirects and Errors
 https://flask.palletsprojects.com/en/3.0.x/quickstart/#redirects-and-errors
@@ -2365,12 +2375,12 @@ CLOCK: [2024-05-16 Thu 07:12]--[2024-05-16 Thu 07:27] =>  0:15
 :END:
 
 *** [#C] Eww commands brief description
-SCHEDULED: <2024-06-25 Tue>
+SCHEDULED: <2024-06-30 Sun>
 
 The three column table: Key, command, description
 
 *** [#B] Emacs' regexp
-SCHEDULED: <2024-06-26 Wed>
+SCHEDULED: <2024-07-04 Thu>
 - Note taken on [2024-05-28 Tue 08:28] \\
   M-x re-builder command provides a convenient interface for creating
   and testing regular expressions.  As you edit the regexp, all its
@@ -2561,7 +2571,7 @@ CLOCK: [2023-12-03 Sun 13:04]--[2023-12-03 Sun 13:32] =>  0:28
 [[info:org#Capture templates][org#Capture templates]]
 
 *** [#C] Org-mode keys
-SCHEDULED: <2024-06-25 Tue>
+SCHEDULED: <2024-06-26 Wed>
 :LOGBOOK:
 CLOCK: [2024-05-29 Wed 15:38]--[2024-05-29 Wed 16:37] =>  0:59
 :END:
@@ -2947,7 +2957,7 @@ CLOCK: [2024-01-04 Thu 12:11]--[2024-01-04 Thu 12:13] =>  0:02
   version
 
 ** [#B] Databases fundamentals
-SCHEDULED: <2024-06-25 Tue>
+SCHEDULED: <2024-06-26 Wed>
 :PROPERTIES:
 :CATEGORY: DB
 :END:
@@ -3105,7 +3115,7 @@ CLOCK: [2024-05-25 Sat 09:06]--[2024-05-25 Sat 09:06] =>  0:00
 :END:
 https://jinja.palletsprojects.com/en/3.1.x/templates/#variables
 *** [#B] Filters
-SCHEDULED: <2024-06-25 Tue>
+SCHEDULED: <2024-06-26 Wed>
 https://jinja.palletsprojects.com/en/3.1.x/templates/#filters
 *** Tests
 https://jinja.palletsprojects.com/en/3.1.x/templates/#tests
@@ -3141,7 +3151,7 @@ CLOCK: [2024-05-26 Sun 09:19]--[2024-05-26 Sun 09:41] =>  0:22
 *** AMPLE [#A] Adding Static Files to application
 
 ** [#C] Assembly language
-SCHEDULED: <2024-06-25 Tue>
+SCHEDULED: <2024-06-30 Sun>
 - Note taken on [2024-05-29 Wed 07:37] \\
   [[https://en.wikipedia.org/wiki/Assembly_language]]
 
@@ -3246,7 +3256,7 @@ SCHEDULED: <2024-07-01 Mon ++1w>
 CLOCK: [2024-06-21 Fri 09:42]--[2024-06-21 Fri 10:15] =>  0:33
 :END:
 
-**  [#A] Twitter Bootstrap <div class="card">
+** AMPLE [#A] Twitter Bootstrap <div class="card">
 SCHEDULED: <2024-06-25 Tue>
 - Note taken on [2024-06-25 Tue 10:56] \\
   A card in Bootstrap 4 is a bordered box with some padding around its
@@ -3264,11 +3274,12 @@ SCHEDULED: <2024-06-25 Tue>
   </div>
   #+end_example
 :LOGBOOK:
+CLOCK: [2024-06-25 Tue 19:01]--[2024-06-25 Tue 19:05] =>  0:04
 CLOCK: [2024-06-25 Tue 17:45]--[2024-06-25 Tue 18:11] =>  0:26
 CLOCK: [2024-06-25 Tue 10:54]--[2024-06-25 Tue 15:40] =>  4:46
 :END:
 ** [#C] Browser Developer Tools
-SCHEDULED: <2024-06-25 Tue>
+SCHEDULED: <2024-06-26 Wed>
 * Work
 :PROPERTIES:
 :CATEGORY: Job
@@ -3301,7 +3312,7 @@ Manual's  studying
 SCHEDULED: <2024-06-27 Thu>
 
 ** DELAY Linkedin profile elaboration
-SCHEDULED: <2024-06-26 Wed>
+SCHEDULED: <2024-07-13 Sat>
 Manual's studying
 
 ** DELAY LinkedIn member's manual
