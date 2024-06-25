@@ -13,19 +13,17 @@
   <div class="container">
     <div class = "row">
       {% for item in items %}
-      <div class="card">
-       <div class="col-sm-12 col-md-6 col-lg-4">
-         <div class="card">
-            <div class="card-body">
-                <h5 class="card-title">Item Name: {{ item[0] }}</h5>
-                <p class="card-text">Item SKU: {{ item[1] }}</p>
-                <p class="card-text">Manufacturer: {{ item[2] }}</p>
-                <!-- Add more details about the item as needed -->
-                </div>
-            </div>
+      <div class="col-md-4">
+        <div class="card bg-warning">
+          <div class="card-body">
+            <p class="card-text">Item Name: {{ item[0] }}</p>
+            <p class="card-text">Item SKU: {{ item[1] }}</p>
+            <p class="card-text">Manufacturer: {{ item[2] }}</p>
+            <!-- Add more details about the item as needed -->
+          </div>
         </div>
+      </div>
         {% endfor %}
-        </div>
     </div>
 
 </body>
