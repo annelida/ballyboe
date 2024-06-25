@@ -2168,7 +2168,7 @@ CLOCK: [2024-04-20 Sat 16:10]--[2024-04-20 Sat 16:25] =>  0:15
 *** [#A] Print() function
 SCHEDULED: <2024-06-25 Tue>
 :LOGBOOK:
-CLOCK: [2024-06-25 Tue 09:28]
+CLOCK: [2024-06-25 Tue 09:28]--[2024-06-25 Tue 10:48] =>  1:20
 :END:
 ** Flask
 :PROPERTIES:
@@ -3248,6 +3248,25 @@ CLOCK: [2024-06-21 Fri 09:42]--[2024-06-21 Fri 10:15] =>  0:33
 
 **  [#A] Twitter Bootstrap <div class="card">
 SCHEDULED: <2024-06-25 Tue>
+- Note taken on [2024-06-25 Tue 10:56] \\
+  A card in Bootstrap 4 is a bordered box with some padding around its
+  content. A basic card is created with the .card class, and content
+  inside the card has a .card-body class:
+
+  [[https://www.w3schools.com/bootstrap4/bootstrap_cards.asp]]
+
+  #+begin_example
+  <div class="container">
+    <h2>Basic Card</h2>
+    <div class="card">
+      <div class="card-body">Basic card</div>
+    </div>
+  </div>
+  #+end_example
+:LOGBOOK:
+CLOCK: [2024-06-25 Tue 17:45]--[2024-06-25 Tue 18:11] =>  0:26
+CLOCK: [2024-06-25 Tue 10:54]--[2024-06-25 Tue 15:40] =>  4:46
+:END:
 ** [#C] Browser Developer Tools
 SCHEDULED: <2024-06-25 Tue>
 * Work
