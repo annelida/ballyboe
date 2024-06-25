@@ -8,7 +8,7 @@ def display_items():
     conn = sqlite3.connect('/home/vikky/Downloads/scraped.db')
     cursor = conn.cursor()
 
-    cursor.execute("SELECT name, sku, manufacturer FROM products LIMIT 10")
+    cursor.execute("SELECT name, sku, manufacturer FROM products LIMIT 12")
     results = cursor.fetchall()
 
     conn.close()
