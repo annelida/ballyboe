@@ -12,10 +12,11 @@
 #+TODO: DELAY LAG RETARD | BARE
 
 * Genuine source of knowledge
-SCHEDULED: <2024-06-25 Tue ++1d>
+SCHEDULED: <2024-06-26 Wed ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-06-23 Sun 19:00]
+:LAST_REPEAT: [2024-06-25 Tue 18:55]
 :END:
+- State "AMPLE"      from ""           [2024-06-25 Tue 18:55]
 - State "AMPLE"      from ""           [2024-06-23 Sun 19:00]
 - State "AMPLE"      from ""           [2024-06-22 Sat 20:31]
 - State "AMPLE"      from ""           [2024-06-21 Fri 18:45]
@@ -112,10 +113,11 @@ about how the program works are:
 --* INIT Conclusion*: the wisest decision is just to use it properly!
 
 * Deliberate practice
-SCHEDULED: <2024-06-25 Tue ++1d>
+SCHEDULED: <2024-06-26 Wed ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-06-23 Sun 19:00]
+:LAST_REPEAT: [2024-06-25 Tue 18:55]
 :END:
+- State "AMPLE"      from ""           [2024-06-25 Tue 18:55]
 - State "AMPLE"      from ""           [2024-06-23 Sun 19:00]
 - State "AMPLE"      from ""           [2024-06-22 Sat 20:31]
 - State "AMPLE"      from ""           [2024-06-21 Fri 18:45]
@@ -256,7 +258,7 @@ CLOCK: [2024-06-24 Mon 14:02]--[2024-06-24 Mon 14:03] =>  0:01
 :END:
 
 *** [#A] Text generation models
-SCHEDULED: <2024-06-25 Tue>
+SCHEDULED: <2024-06-26 Wed>
 - Note taken on [2024-06-25 Tue 07:28] \\
   Chat GPT stands for /Chat Generative Pre-Trained Transformer/.
 
@@ -278,7 +280,7 @@ CLOCK: [2024-06-25 Tue 07:23]--[2024-06-25 Tue 09:03] =>  1:40
 * Emacs
 
 ** [#C] Counsel
-SCHEDULED: <2024-06-25 Tue ++2d>
+SCHEDULED: <2024-06-26 Wed ++2d>
 - Note taken on [2024-06-14 Fri 08:56] \\
   Key bindings for navigation in ivy minibuffer
 
@@ -293,7 +295,7 @@ CLOCK: [2024-06-14 Fri 07:52]--[2024-06-14 Fri 08:50] =>  0:58
 :END:
 [[elisp:(apropos-command "counsel")]]
 ** RAW [#B] Help about *Help*
-SCHEDULED: <2024-06-25 Tue ++1d>
+SCHEDULED: <2024-06-26 Wed ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-06-21 Fri 18:45]
 :CATEGORY: Emacs
@@ -378,12 +380,13 @@ Initially all software was used by the ancient (true) users by its
 Stack-Overflow suggestions and notes. Bear this fact in mind do your
 job as it would be done in a sure and fire manner.
 
-***  [#C] *Python* embedded help system
-SCHEDULED: <2024-06-25 Tue ++2d/3d>
+*** [#C] *Python* embedded help system
+SCHEDULED: <2024-06-30 Sun ++2d/3d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-05-12 Sun 18:24]
+:LAST_REPEAT: [2024-06-25 Tue 18:59]
 :CATEGORY: Python
 :END:
+- State "AMPLE"      from ""           [2024-06-25 Tue 18:59]
 - State "AMPLE"      from "DELAY"      [2024-05-12 Sun 18:24]
 :LOGBOOK:
 CLOCK: [2024-03-07 Thu 10:40]--[2024-03-07 Thu 10:57] =>  0:17
@@ -481,7 +484,7 @@ Very straighforward system out from 10 initial keys to use in embedded
 *Help* browser.OA To use several *Help* buffers use =M-x raname uniquely=
 
 ** RAW [#B] Help about *info*
-SCHEDULED: <2024-06-25 Tue ++1d>
+SCHEDULED: <2024-06-26 Wed ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-06-21 Fri 18:45]
 :CATEGORY: Emacs
@@ -538,10 +541,11 @@ Mostly the similar approach with several quirks
 [[file:~/git/annelida/ballyboe/org-blog/2024-05-26-Emacs-help-about-help.org::*The list of commands, which began with C-h prefix][The list of commands, which began with C-h prefix and Info commands]]
 
 * Task decomposition
-SCHEDULED: <2024-06-25 Tue ++1d>
+SCHEDULED: <2024-06-26 Wed ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-06-24 Mon 19:23]
+:LAST_REPEAT: [2024-06-25 Tue 18:55]
 :END:
+- State "AMPLE"      from ""           [2024-06-25 Tue 18:55]
 - State "AMPLE"      from ""           [2024-06-24 Mon 19:23]
 - State "AMPLE"      from ""           [2024-06-23 Sun 19:01]
 - State "AMPLE"      from ""           [2024-06-19 Wed 19:14]
@@ -628,19 +632,22 @@ https://realpython.com/python-data-structures/#toc
 [[https://www.bbc.co.uk/bitesize/guides/zghbgk7/revision/2]]
 
 *** [#B] Dictionaries, Maps, and Hash Tables
-SCHEDULED: <2024-06-25 Tue ++1w>
+SCHEDULED: <2024-07-02 Tue ++1w>
 :PROPERTIES:
-:LAST_REPEAT: [2024-06-12 Wed 17:11]
+:LAST_REPEAT: [2024-06-25 Tue 18:56]
 :END:
+- State "AMPLE"      from ""           [2024-06-25 Tue 18:56]
 - State "AMPLE"      from ""           [2024-06-12 Wed 17:11]
 
 [[https://realpython.com/python-hash-table/
 ]]
 *** [#A] Array Data Structures
-SCHEDULED: <2024-06-26 Wed ++1w>
+SCHEDULED: <2024-07-10 Wed ++1w>
 :PROPERTIES:
-:LAST_REPEAT: [2024-06-18 Tue 19:04]
+:LAST_REPEAT: [2024-06-25 Tue 18:59]
 :END:
+- State "AMPLE"      from ""           [2024-06-25 Tue 18:59]
+- State "AMPLE"      from ""           [2024-06-25 Tue 18:59]
 - State "AMPLE"      from ""           [2024-06-18 Tue 19:04]
 - State "AMPLE"      from ""           [2024-06-12 Wed 10:57]
 :LOGBOOK:
@@ -651,10 +658,11 @@ CLOCK: [2024-06-09 Sun 07:27]--[2024-06-09 Sun 08:47] =>  1:20
 
 [[https://www.geeksforgeeks.org/introduction-to-arrays-data-structure-and-algorithm-tutorials/]]
 *** [#B] Linked lists
-SCHEDULED: <2024-06-25 Tue ++2d>
+SCHEDULED: <2024-06-27 Thu ++2d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-06-20 Thu 15:49]
+:LAST_REPEAT: [2024-06-25 Tue 18:56]
 :END:
+- State "AMPLE"      from ""           [2024-06-25 Tue 18:56]
 - State "AMPLE"      from ""           [2024-06-20 Thu 15:49]
 :LOGBOOK:
 CLOCK: [2024-06-18 Tue 14:05]--[2024-06-18 Tue 14:20] =>  0:15
@@ -663,7 +671,7 @@ CLOCK: [2024-06-18 Tue 14:05]--[2024-06-18 Tue 14:20] =>  0:15
 https://www.geeksforgeeks.org/singly-linked-list-definition-meaning-dsa/?ref=outind
 [[https://realpython.com/linked-lists-python/]]
 
-*** [#C] Graphs and trees
+*** AMPLE [#C] Graphs and trees
 SCHEDULED: <2024-06-25 Tue>
 
 https://www.geeksforgeeks.org/tree-data-structure/?ref=ml_lbp
@@ -683,16 +691,21 @@ CLOCK: [2024-06-23 Sun 07:49]--[2024-06-23 Sun 08:04] =>  0:15
 https://www.geeksforgeeks.org/heap-data-structure/?ref=lbp
 
 *** [#A] String Data Structure
-SCHEDULED: <2024-06-25 Tue>
+SCHEDULED: <2024-06-26 Wed>
 
 [[https://www.geeksforgeeks.org/complete-guide-to-string-data-structure/?ref=outind]]
 
+*** [#B] Article about Data Structures composition
+SCHEDULED: <2024-06-26 Wed>
+
+[[elisp:(bookmark-jump-other-frame "2024-06-05-data-structures-in-cs.org")][Link]]
 
 ** [#C] Algorithms in CS
-SCHEDULED: <2024-06-25 Tue ++1w>
+SCHEDULED: <2024-07-02 Tue ++1w>
 :PROPERTIES:
-:LAST_REPEAT: [2024-06-09 Sun 19:01]
+:LAST_REPEAT: [2024-06-25 Tue 18:59]
 :END:
+- State "AMPLE"      from ""           [2024-06-25 Tue 18:59]
 - State "AMPLE"      from ""           [2024-06-09 Sun 19:01]
 :LOGBOOK:
 CLOCK: [2024-06-09 Sun 08:57]--[2024-06-09 Sun 09:49] =>  0:52
@@ -705,10 +718,11 @@ https://www.geeksforgeeks.org/fundamentals-of-algorithms/?ref=shm
 [[https://www.bbc.co.uk/bitesize/guides/zpp49j6/revision/2]]
 
 *** [#B] Searching algorithms
-SCHEDULED: <2024-06-25 Tue ++2d>
+SCHEDULED: <2024-06-27 Thu ++2d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-06-20 Thu 15:49]
+:LAST_REPEAT: [2024-06-25 Tue 18:56]
 :END:
+- State "AMPLE"      from ""           [2024-06-25 Tue 18:56]
 - State "AMPLE"      from ""           [2024-06-20 Thu 15:49]
 :LOGBOOK:
 CLOCK: [2024-06-10 Mon 08:09]--[2024-06-10 Mon 08:32] =>  0:23
@@ -738,11 +752,12 @@ https://www.geeksforgeeks.org/sorting-algorithms/
 [[https://www.geeksforgeeks.org/bubble-sort/]]
 
 ** [#C] Algorithm's Time Complexity O(n)
-SCHEDULED: <2024-06-25 Tue ++1w>
+SCHEDULED: <2024-07-02 Tue ++1w>
 :PROPERTIES:
 :CATEGORY: O(1)
-:LAST_REPEAT: [2024-06-13 Thu 17:13]
+:LAST_REPEAT: [2024-06-25 Tue 18:59]
 :END:
+- State "AMPLE"      from ""           [2024-06-25 Tue 18:59]
 - State "AMPLE"      from ""           [2024-06-13 Thu 17:13]
 - Note taken on [2024-06-06 Thu 08:58] \\
   An algorithm's time complexity of O(n) refers to a linear time
@@ -867,7 +882,7 @@ SCHEDULED: <2024-06-27 Thu ++1w>
 https://www.geeksforgeeks.org/python-any-function/?ref=lbp
 
 *** [#B] Python ~ascii()~ built-in function
-SCHEDULED: <2024-06-25 Tue ++1w>
+SCHEDULED: <2024-06-26 Wed ++1w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-06-18 Tue 14:02]
 :END:
@@ -876,12 +891,12 @@ SCHEDULED: <2024-06-25 Tue ++1w>
 https://www.geeksforgeeks.org/ascii-in-python/?ref=lbp
 
 *** [#B] Python ~bool()~ built-in function
-SCHEDULED: <2024-06-25 Tue>
+SCHEDULED: <2024-06-26 Wed>
 
 https://www.geeksforgeeks.org/bool-in-python/?ref=lbp
 
 ** [#B] Set of built-in methods defined for specific data types
-SCHEDULED: <2024-06-25 Tue>
+SCHEDULED: <2024-06-26 Wed>
 :LOGBOOK:
 CLOCK: [2024-06-19 Wed 10:55]--[2024-06-19 Wed 11:37] =>  0:42
 CLOCK: [2024-06-19 Wed 09:22]--[2024-06-19 Wed 10:19] =>  0:57
