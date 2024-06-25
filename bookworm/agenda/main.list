@@ -2165,6 +2165,11 @@ CLOCK: [2024-04-20 Sat 16:10]--[2024-04-20 Sat 16:25] =>  0:15
 [[file:~/git/annelida/ballyboe/org-blog/2024-04-20-python-programming-language.org::*Preamble][Python programming language]]
 [[https://realpython.com/python-keywords/]]
 [[https://en.wikipedia.org/wiki/Von_Neumann_architecture]]
+*** [#A] Print() function
+SCHEDULED: <2024-06-25 Tue>
+:LOGBOOK:
+CLOCK: [2024-06-25 Tue 09:28]
+:END:
 ** Flask
 :PROPERTIES:
 :CATEGORY: Flask
@@ -3240,6 +3245,9 @@ SCHEDULED: <2024-07-01 Mon ++1w>
 :LOGBOOK:
 CLOCK: [2024-06-21 Fri 09:42]--[2024-06-21 Fri 10:15] =>  0:33
 :END:
+
+**  [#A] Twitter Bootstrap <div class="card">
+SCHEDULED: <2024-06-25 Tue>
 ** [#C] Browser Developer Tools
 SCHEDULED: <2024-06-25 Tue>
 * Work
