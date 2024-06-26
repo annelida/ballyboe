@@ -156,3 +156,44 @@ wheel             0.38.4
 : Lists allow for various operations like indexing, slicing, appending,
 : removing, and more. They are quite versatile and commonly used in
 : Python for storing and manipulating collections of data.
+
+* Input parameters
+
+** Required
+
+- model: the name of the model you want to use (e.g., gpt-3.5-turbo,
+  gpt-4, gpt-3.5-turbo-16k-1106);
+- messages: a list of message objects, where each object has two
+  required fields:
+
+  - role: the role of the messenger (either system, user, assistant or
+ tool);
+  - content: the content of the message..
+
+** Optional
+
+- frequency_penalty: Penalizes tokens based on their frequency,
+  reducing repetition;
+- logit_bias: Modifies likelihood of specified tokens with bias
+  values;
+- logprobs: Returns log probabilities of output tokens if true;
+- top_logprobs: Specifies the number of most likely tokens to return
+  at each position;
+- max_tokens: Sets the maximum number of generated tokens in chat
+  completion;
+- n: Generates a specified number of chat completion choices for each
+ input;
+- presence_penalty: Penalizes new tokens based on their presence in
+  the text;
+- response_format: Specifies the output format, e.g., JSON mode;
+- seed: Ensures deterministic sampling with a specified seed;
+- stop: Specifies up to 4 sequences where the API should stop
+  generating tokens;
+- stream: Sends partial message deltas as tokens become available;
+- temperature: Sets the sampling temperature between 0 and 2;
+- top_p: Uses nucleus sampling; considers tokens with top_p
+  probability mass;
+- tools: Lists functions the model may call;
+- tool_choice: Controls the model's function calls
+  (none/auto/function);
+- user: Unique identifier for end-user monitoring and abuse detection.
