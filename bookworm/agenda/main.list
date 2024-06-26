@@ -66,8 +66,8 @@ CLOCK: [2024-04-12 Fri 07:12]--[2024-04-12 Fri 08:12] =>  1:00
 :PROPERTIES:
 :CATEGORY: OpenAI
 :END:
-**** [#C] gptel
-SCHEDULED: <2024-06-26 Wed>
+**** DELAY [#C] gptel
+SCHEDULED: <2024-07-28 Sun>
 
 ** English
 :PROPERTIES:
@@ -376,7 +376,10 @@ CLOCK: [2024-06-04 Tue 18:09]--[2024-06-04 Tue 18:41] =>  0:32
 [[https://learnenglish.britishcouncil.org/grammar/english-grammar-reference/relative-pronouns-relative-clauses]]
 ***** Determiners and quantifiers
 ****** [#A] Specific and general determiners
-SCHEDULED: <2024-06-26 Wed>
+SCHEDULED: <2024-06-27 Thu>
+:LOGBOOK:
+CLOCK: [2024-06-26 Wed 18:42]--[2024-06-26 Wed 18:57] =>  0:15
+:END:
 https://learnenglish.britishcouncil.org/grammar/english-grammar-reference/specific-general-determiners
 
 *** The English We Speak
@@ -500,7 +503,7 @@ SCHEDULED: <2024-07-02 Tue ++1w>
 process-manager. It shows a frequently updated list of the processes
 running on a computer, normally ordered by the amount of CPU usage.
 *** DELAY [#A] MAN ps
-SCHEDULED: <2024-06-27 Thu ++1w>
+SCHEDULED: <2024-07-08 Mon ++1w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-05-21 Tue 18:30]
 :END:
@@ -609,7 +612,7 @@ types_operations.org
 : types_operations.org
 
 *** [#C] How ho check which Debian distro are you using
-SCHEDULED: <2024-06-27 Thu>
+SCHEDULED: <2024-06-30 Sun>
 
 #+begin_src sh :results output
 hostnamectl
@@ -1236,7 +1239,7 @@ CLOCK: [2024-05-27 Mon 07:34]--[2024-05-27 Mon 08:27] =>  0:53
 [[file:~/git/annelida/ballyboe/org-blog/2024-05-27-the-compliler-is-a-crucial-tool.org][file:~/git/annelida/ballyboe/org-blog/2024-05-27-the-compliler-is-a-crucial-tool.org]]
 
 *** [#C] Typical test folder structure in Python
-SCHEDULED: <2024-06-26 Wed ++2d>
+SCHEDULED: <2024-06-29 Sat ++2d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-06-20 Thu 18:42]
 :END:
@@ -1347,7 +1350,7 @@ CLOCK: [2023-10-24 Tue 08:07]--[2023-10-24 Tue 09:32] =>  1:25
 :END:
 
 *** DELAY [#A] Python classes
-SCHEDULED: <2024-06-27 Thu>
+SCHEDULED: <2024-08-15 Thu>
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-22 Wed 14:25]
 :CATEGORY: Python
@@ -1992,7 +1995,7 @@ def test_always_fail():
 #+RESULTS:
 
 *** DELAY Playwright installation on DELL
-SCHEDULED: <2024-06-27 Thu>
+SCHEDULED: <2024-07-18 Thu>
 :PROPERTIES:
 :CATEGORY: Testing
 :END:
@@ -2214,10 +2217,12 @@ CLOCK: [2024-05-25 Sat 09:07]--[2024-05-25 Sat 09:27] =>  0:20
 :END:
 https://flask.palletsprojects.com/en/3.0.x/quickstart/#a-minimal-application
 *** DELAY Debug Mode
-SCHEDULED: <2024-06-27 Thu ++2w>
+SCHEDULED: <2024-07-25 Thu ++2w>
 :PROPERTIES:
-:LAST_REPEAT: [2024-06-12 Wed 09:14]
+:LAST_REPEAT: [2024-06-26 Wed 19:02]
 :END:
+- State "AMPLE"      from "DELAY"      [2024-06-26 Wed 19:02]
+- State "AMPLE"      from "LAG"        [2024-06-26 Wed 19:02]
 - State "AMPLE"      from "LAG"        [2024-06-12 Wed 09:14]
 - State "AMPLE"      from "DELAY"      [2024-05-29 Wed 17:19]
 - Note taken on [2024-05-29 Wed 10:49] \\
@@ -2282,10 +2287,10 @@ CLOCK: [2024-05-31 Fri 12:34]--[2024-05-31 Fri 12:38] =>  0:04
   The file has to be stored on the filesystem as static/style.css.
 https://flask.palletsprojects.com/en/3.0.x/quickstart/#static-files
 *** RAW [#A] Rendering Templates
-SCHEDULED: <2024-06-26 Wed>
+SCHEDULED: <2024-06-27 Thu>
 https://flask.palletsprojects.com/en/3.0.x/quickstart/#rendering-templates
-*** RAW [#A] Accessing Request Data
-SCHEDULED: <2024-06-26 Wed>
+*** RAW [#B] Accessing Request Data
+SCHEDULED: <2024-06-28 Fri>
 https://flask.palletsprojects.com/en/3.0.x/quickstart/#accessing-request-data
 *** RAW Redirects and Errors
 https://flask.palletsprojects.com/en/3.0.x/quickstart/#redirects-and-errors
@@ -2571,7 +2576,7 @@ CLOCK: [2023-12-03 Sun 13:04]--[2023-12-03 Sun 13:32] =>  0:28
 [[info:org#Capture templates][org#Capture templates]]
 
 *** [#C] Org-mode keys
-SCHEDULED: <2024-06-26 Wed>
+SCHEDULED: <2024-06-27 Thu>
 :LOGBOOK:
 CLOCK: [2024-05-29 Wed 15:38]--[2024-05-29 Wed 16:37] =>  0:59
 :END:
@@ -2956,12 +2961,13 @@ CLOCK: [2024-01-04 Thu 12:11]--[2024-01-04 Thu 12:13] =>  0:02
   tag
   version
 
-** [#B] Databases fundamentals
-SCHEDULED: <2024-06-26 Wed>
+** [#C] Databases fundamentals
+SCHEDULED: <2024-06-27 Thu>
 :PROPERTIES:
 :CATEGORY: DB
 :END:
 :LOGBOOK:
+CLOCK: [2024-06-26 Wed 10:10]--[2024-06-26 Wed 10:46] =>  0:36
 CLOCK: [2024-05-23 Thu 07:38]--[2024-05-23 Thu 08:52] =>  1:14
 CLOCK: [2024-05-23 Thu 07:17]--[2024-05-23 Thu 07:25] =>  0:08
 CLOCK: [2024-05-23 Thu 07:17]--[2024-05-23 Thu 07:17] =>  0:00
@@ -3057,7 +3063,7 @@ CLOCK: [2024-05-24 Fri 11:34]--[2024-05-24 Fri 11:50] =>  0:16
 :END:
 https://jinja.palletsprojects.com/en/3.1.x/templates/#synopsis
 *** [#C] Template file extension
-SCHEDULED: <2024-06-27 Thu ++2w>
+SCHEDULED: <2024-06-29 Sat ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-06-13 Thu 17:12]
 :END:
@@ -3115,7 +3121,7 @@ CLOCK: [2024-05-25 Sat 09:06]--[2024-05-25 Sat 09:06] =>  0:00
 :END:
 https://jinja.palletsprojects.com/en/3.1.x/templates/#variables
 *** [#B] Filters
-SCHEDULED: <2024-06-26 Wed>
+SCHEDULED: <2024-06-27 Thu>
 https://jinja.palletsprojects.com/en/3.1.x/templates/#filters
 *** Tests
 https://jinja.palletsprojects.com/en/3.1.x/templates/#tests
@@ -3279,7 +3285,7 @@ CLOCK: [2024-06-25 Tue 17:45]--[2024-06-25 Tue 18:11] =>  0:26
 CLOCK: [2024-06-25 Tue 10:54]--[2024-06-25 Tue 15:40] =>  4:46
 :END:
 ** [#C] Browser Developer Tools
-SCHEDULED: <2024-06-26 Wed>
+SCHEDULED: <2024-06-27 Thu>
 * Work
 :PROPERTIES:
 :CATEGORY: Job
@@ -3288,7 +3294,7 @@ SCHEDULED: <2024-06-26 Wed>
 ** Interview Preparation
 SCHEDULED: <2024-07-12 Fri>
 ** DELAY [#B] Portfolio creation
-SCHEDULED: <2024-06-27 Thu>
+SCHEDULED: <2024-08-21 Wed>
 ** DELAY [#A] CV elaboration
 SCHEDULED: <2024-07-07 Sun>
 :LOGBOOK:
@@ -3303,29 +3309,29 @@ CLOCK: [2024-04-22 Mon 10:19]--[2024-04-22 Mon 11:21] =>  1:02
 CLOCK: [2024-04-21 Sun 17:57]--[2024-04-21 Sun 19:00] =>  1:03
 :END:
 ** DELAY Upwork profile elaboration
-SCHEDULED: <2024-06-27 Thu>
+SCHEDULED: <2024-08-21 Wed>
 :LOGBOOK:
 CLOCK: [2024-04-09 Tue 17:37]--[2024-04-09 Tue 18:41] =>  1:04
 :END:
 Manual's  studying
 ** DELAY The requirements for testers at Upwork
-SCHEDULED: <2024-06-27 Thu>
+SCHEDULED: <2024-08-21 Wed>
 
 ** DELAY Linkedin profile elaboration
 SCHEDULED: <2024-07-13 Sat>
 Manual's studying
 
 ** DELAY LinkedIn member's manual
-SCHEDULED: <2024-06-27 Thu>
+SCHEDULED: <2024-08-21 Wed>
 
 ** DELAY The requirements for testers at Linkedin
-SCHEDULED: <2024-06-27 Thu>
+SCHEDULED: <2024-08-21 Wed>
 :LOGBOOK:
 CLOCK: [2024-04-19 Fri 09:47]--[2024-04-19 Fri 10:03] =>  0:16
 :END:
 
 ** DELAY Available jobs on Indeed
-SCHEDULED: <2024-06-27 Thu>
+SCHEDULED: <2024-08-21 Wed>
 :LOGBOOK:
 CLOCK: [2024-04-19 Fri 09:10]--[2024-04-19 Fri 09:47] =>  0:37
 :END:
