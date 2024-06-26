@@ -229,4 +229,53 @@ unittest.main(exit=False)
 : OK
  
 
+** The ~bool~ function
 
+The ~bool()~ function in Python is used to convert a value to a Boolean
+(True or False) value.
+
+#+begin_src python python :result none :session bool_function
+  import unittest
+
+  class TestBoolFunction(unittest.TestCase):
+    def test_none(self):
+      self.assertFalse(bool(None))
+
+    def test_false(self):
+      self.assertFalse(bool(False))
+
+    def test_zero(self):
+      self.assertFalse(bool(0))
+      self.assertFalse(bool(0.0))
+
+    def test_empty_sequence(self):
+      self.assertFalse(bool([]))
+      self.assertFalse(bool(()))
+      self.assertFalse(bool({}))
+      self.assertFalse(bool(""))
+
+    def test_true(self):
+      self.assertEqual(bool(True), True)
+
+    def test_string_types(self):
+      self.assertTrue(bool("hello"))
+      self.assertFalse(bool(""))
+      self.assertTrue(bool("0"))
+
+    def test_numeric_type(self):
+      self.assertTrue(bool(10) and bool(3.15) and bool(-5))
+
+#+end_src
+
+#+RESULTS:
+
+#+begin_src python :session bool_function :export results
+unittest.main(exit=False)
+#+end_src
+
+#+RESULTS:
+: .............
+: ----------------------------------------------------------------------
+: Ran 13 tests in 0.000s
+:
+: OK
