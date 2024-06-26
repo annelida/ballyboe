@@ -384,3 +384,33 @@ The boy /who/ stole my bike has been caught.
 The book /that/ I'm reading is very interesting.
 The woman /whose/ dog barks all night is annoying.
 This is George, /whom/ you met at our house last year.
+
+* Determiners and quantifiers
+
+/Determiners/ are words that introduce nouns and specify their
+reference in the context.
+
+They provide information about which or how many things the noun
+refers to. Determiners are essential in making the meaning of a
+sentence clear by indicating specifics such as definiteness, quantity,
+possession, and more.
+
+** Specific and general determiners
+
+/Specific determiners/ in English are words that point to specific
+nouns that are already known to the listener or reader.
+
+The specific determiners are:
+
+- the definite article: =the=;
+- possessives: =my, your, his, her, its, our, their, whose=;
+- demonstratives: =this, that, these, those=.
+
+We use a specific determiner when we believe the listener/reader knows
+exactly what we are referring to:
+
+- Can you pass me =the salt=, please?
+- Thank you very much for =your letter=.
+- Look at those lovely flowers.
+
+
