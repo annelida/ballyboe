@@ -77,6 +77,32 @@ wheel        0.38.4
 - Finally, we printed the rendered output string.
 
 
+* Render Jinja variable with filter
+
+#+begin_src python :results output
+    import jinja2
+    from jinja2 import Template
+
+    # Define a dictionary with data
+    data = {
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    }
+
+    # Create a Jinja template with variables and filters
+    template = Template("Name: {{ name|replace('John Doe','Eamon Boyle') }}\nEmail: {{ email|upper }}")
+
+    # Render the template with the data
+    output = template.render(data)
+    print(output)
+
+#+end_src
+
+#+RESULTS:
+: Name: Ian Boyle
+: Email: JOHN.DOE@EXAMPLE.COM
+
+
 * Use Jinja With Flask
 
 When you’re in your active virtual environment, go on and check if
