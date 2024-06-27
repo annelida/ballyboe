@@ -2286,8 +2286,45 @@ CLOCK: [2024-05-31 Fri 12:34]--[2024-05-31 Fri 12:38] =>  0:04
 
   The file has to be stored on the filesystem as static/style.css.
 https://flask.palletsprojects.com/en/3.0.x/quickstart/#static-files
-*** RAW [#A] Rendering Templates
-SCHEDULED: <2024-06-27 Thu>
+*** DELAY [#A] Rendering Templates
+SCHEDULED: <2024-07-11 Thu ++2w>
+:PROPERTIES:
+:LAST_REPEAT: [2024-06-27 Thu 16:09]
+:END:
+- State "AMPLE"      from "DELAY"      [2024-06-27 Thu 16:09]
+- Note taken on [2024-06-27 Thu 09:56] \\
+
+  To render a template is using the ~render_template()~ method.
+  Flask will look for templates in the templates/ folder.
+
+  If application is a module
+  #+begin_example
+  /application.py
+  /templates
+      /hello.html
+  #+end_example
+
+  A package
+  #+begin_example
+  /application
+    /__init__.py
+    /templates
+        /hello.html
+  #+end_example
+
+  Example of how to render a template:
+  #+begin_example
+  from flask import render_template
+
+  @app.route('/hello/')
+  @app.route('/hello/<name>')
+  def hello(name=None):
+      return render_template('hello.html', person=name)
+  #+end_example
+:LOGBOOK:
+CLOCK: [2024-06-27 Thu 16:03]--[2024-06-27 Thu 16:08] =>  0:05
+CLOCK: [2024-06-27 Thu 09:52]--[2024-06-27 Thu 10:08] =>  0:16
+:END:
 https://flask.palletsprojects.com/en/3.0.x/quickstart/#rendering-templates
 *** RAW [#B] Accessing Request Data
 SCHEDULED: <2024-06-28 Fri>
