@@ -12,10 +12,11 @@
 #+TODO: DELAY LAG RETARD | BARE
 
 * Genuine source of knowledge
-SCHEDULED: <2024-06-27 Thu ++1d>
+SCHEDULED: <2024-06-28 Fri ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-06-26 Wed 18:59]
+:LAST_REPEAT: [2024-06-27 Thu 19:20]
 :END:
+- State "AMPLE"      from ""           [2024-06-27 Thu 19:20]
 - State "AMPLE"      from ""           [2024-06-26 Wed 18:59]
 - State "AMPLE"      from ""           [2024-06-25 Tue 18:55]
 - State "AMPLE"      from ""           [2024-06-23 Sun 19:00]
@@ -114,10 +115,11 @@ about how the program works are:
 --* INIT Conclusion*: the wisest decision is just to use it properly!
 
 * Deliberate practice
-SCHEDULED: <2024-06-27 Thu ++1d>
+SCHEDULED: <2024-06-28 Fri ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-06-26 Wed 18:59]
+:LAST_REPEAT: [2024-06-27 Thu 19:20]
 :END:
+- State "AMPLE"      from ""           [2024-06-27 Thu 19:20]
 - State "AMPLE"      from ""           [2024-06-26 Wed 18:59]
 - State "AMPLE"      from ""           [2024-06-25 Tue 18:55]
 - State "AMPLE"      from ""           [2024-06-23 Sun 19:00]
@@ -230,7 +232,7 @@ CLOCK: [2023-11-24 Fri 08:31]--[2023-11-24 Fri 09:02] =>  0:31
 when you do challenging but indispensable tasks by yourself
 
 * [#B] DeepLearning AI online course
-SCHEDULED: <2024-06-26 Wed ++1d>
+SCHEDULED: <2024-06-28 Fri ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-06-25 Tue 19:07]
 :END:
@@ -262,19 +264,26 @@ CLOCK: [2024-06-24 Mon 14:02]--[2024-06-24 Mon 14:03] =>  0:01
 :END:
 
 *** [#A] Text generation models
-SCHEDULED: <2024-06-27 Thu>
+SCHEDULED: <2024-06-29 Sat ++2d>
+:PROPERTIES:
+:LAST_REPEAT: [2024-06-27 Thu 16:15]
+:END:
+- State "AMPLE"      from ""           [2024-06-27 Thu 16:15]
 :LOGBOOK:
-CLOCK: [2024-06-26 Wed 07:15]--[2024-06-26 Wed 08:31] =>  1:16
+CLOCK: [2024-06-27 Thu 08:05]--[2024-06-27 Thu 09:05] => 1:00
 CLOCK: [2024-06-25 Tue 07:23]--[2024-06-25 Tue 09:03] =>  1:40
 :END:
 - Note taken on [2024-06-25 Tue 07:28] \\
   Chat GPT stands for /Chat Generative Pre-Trained Transformer/.
-:LOGBOOK:
-:END:
 
 [[https://platform.openai.com/docs/guides/text-generation]]
 [[https://cookbook.openai.com/examples/how_to_format_inputs_to_chatgpt_models#2-an-example-chat-completion-api-call][How to format inputs]]
 [[https://platform.openai.com/docs/api-reference/chat/create][Input more detailed]]
+
+*** [#A] Chat Completion API
+SCHEDULED: <2024-06-28 Fri>
+
+[[https://platform.openai.com/docs/guides/text-generation/chat-completions-api]]
 
 *** [#A] API referrences
 SCHEDULED: <2024-06-28 Fri>
@@ -288,10 +297,11 @@ SCHEDULED: <2024-06-28 Fri>
 *** Assistants API
 SCHEDULED: <2024-06-29 Sat>
 [[https://platform.openai.com/docs/assistants/overview]]
+
 * Emacs
 
 ** [#C] Counsel
-SCHEDULED: <2024-06-27 Thu ++2d>
+SCHEDULED: <2024-06-28 Fri ++2d>
 - Note taken on [2024-06-14 Fri 08:56] \\
   Key bindings for navigation in ivy minibuffer
 
@@ -306,7 +316,7 @@ CLOCK: [2024-06-14 Fri 07:52]--[2024-06-14 Fri 08:50] =>  0:58
 :END:
 [[elisp:(apropos-command "counsel")]]
 ** RAW [#B] Help about *Help*
-SCHEDULED: <2024-06-27 Thu ++1d>
+SCHEDULED: <2024-06-28 Fri ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-06-21 Fri 18:45]
 :CATEGORY: Emacs
@@ -495,7 +505,7 @@ Very straighforward system out from 10 initial keys to use in embedded
 *Help* browser.OA To use several *Help* buffers use =M-x raname uniquely=
 
 ** RAW [#B] Help about *info*
-SCHEDULED: <2024-06-27 Thu ++1d>
+SCHEDULED: <2024-06-28 Fri ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-06-21 Fri 18:45]
 :CATEGORY: Emacs
@@ -552,10 +562,11 @@ Mostly the similar approach with several quirks
 [[file:~/git/annelida/ballyboe/org-blog/2024-05-26-Emacs-help-about-help.org::*The list of commands, which began with C-h prefix][The list of commands, which began with C-h prefix and Info commands]]
 
 * Task decomposition
-SCHEDULED: <2024-06-27 Thu ++1d>
+SCHEDULED: <2024-06-28 Fri ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-06-26 Wed 18:59]
+:LAST_REPEAT: [2024-06-27 Thu 19:20]
 :END:
+- State "AMPLE"      from ""           [2024-06-27 Thu 19:20]
 - State "AMPLE"      from ""           [2024-06-26 Wed 18:59]
 - State "AMPLE"      from ""           [2024-06-25 Tue 18:55]
 - State "AMPLE"      from ""           [2024-06-24 Mon 19:23]
@@ -705,12 +716,12 @@ CLOCK: [2024-06-23 Sun 07:49]--[2024-06-23 Sun 08:04] =>  0:15
 https://www.geeksforgeeks.org/heap-data-structure/?ref=lbp
 
 *** [#A] String Data Structure
-SCHEDULED: <2024-06-27 Thu>
+SCHEDULED: <2024-06-28 Fri>
 
 [[https://www.geeksforgeeks.org/complete-guide-to-string-data-structure/?ref=outind]]
 
 *** [#B] Composition of an article about Data Structures
-SCHEDULED: <2024-06-27 Thu>
+SCHEDULED: <2024-06-28 Fri>
 
 [[elisp:(bookmark-jump-other-frame "2024-06-05-data-structures-in-cs.org")][Link]]
 
@@ -747,7 +758,7 @@ https://www.geeksforgeeks.org/searching-algorithms/
 
 [[elisp:(bookmark-jump-other-frame "2024-06-06-algorithms-in-computer-science.org")][Link]]
 
-*** DELAY [#B] Sorting algorithms
+*** [#B] Sorting algorithms
 SCHEDULED: <2024-06-28 Fri ++1w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-06-20 Thu 15:53]
@@ -887,7 +898,7 @@ CLOCK: [2024-06-05 Wed 09:23]--[2024-06-05 Wed 09:36] =>  0:13
 [[file:~/git/annelida/ballyboe/org-blog/2024-06-05-python-built-in-function.org::+BEGIN_EXPORT html][Built-in functions]]
 
 *** [#C] Python ~any()~ function
-SCHEDULED: <2024-06-27 Thu ++1w>
+SCHEDULED: <2024-06-28 Fri ++1w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-06-20 Thu 18:38]
 :END:
@@ -896,7 +907,7 @@ SCHEDULED: <2024-06-27 Thu ++1w>
 https://www.geeksforgeeks.org/python-any-function/?ref=lbp
 
 *** [#C] Python ~ascii()~ built-in function
-SCHEDULED: <2024-06-27 Thu ++1w>
+SCHEDULED: <2024-06-28 Fri ++1w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-06-18 Tue 14:02]
 :END:
@@ -917,7 +928,7 @@ SCHEDULED: <2024-07-03 Wed ++1w>
 https://www.geeksforgeeks.org/bool-in-python/?ref=lbp
 
 ** [#B] Set of built-in methods defined for specific data types
-SCHEDULED: <2024-06-27 Thu>
+SCHEDULED: <2024-06-28 Fri>
 :LOGBOOK:
 CLOCK: [2024-06-19 Wed 10:55]--[2024-06-19 Wed 11:37] =>  0:42
 CLOCK: [2024-06-19 Wed 09:22]--[2024-06-19 Wed 10:19] =>  0:57
