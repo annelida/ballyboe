@@ -17,14 +17,20 @@ tags: [python, data structuries, dictionaries]
 
 * Preamble
 
-In computer science, a /data structure/ is a way of organizing and
-storing data in a computer so that it can be accessed and used
-efficiently.
+In computer science, a *data structure* is a systematic way of
+organizing, managing, and storing data on a computer to facilitate
+efficient access and modification. Data structures are critical for
+designing efficient algorithms and software applications, as they
+provide specific mechanisms that dictate how data is arranged in
+memory and how it can be retrieved and manipulated.
 
-#+begin_quote
-Each data structure provides a particular way of organizing data so it
-can be accessed efficiently, depending on your use case.
-#+end_quote
+Different data structures are tailored to solve various computational
+problems efficiently. The choice of a data structure directly impacts
+the performance of operations like searching, insertion, deletion, and
+traversal. Common types of data structures include arrays, linked
+lists, stacks, queues, trees, graphs, heaps, hash tables, and
+more. Each structure has its own strengths and weaknesses, making it
+suitable for particular use cases.
 
 * Glossary
 
