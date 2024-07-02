@@ -35,31 +35,40 @@ suitable for particular use cases.
 
 * The Common Data Structures in Computer Science
 
-- /Arrays/: A collection of elements of the same data type stored in
-  contiguous memory locations;
-- /Linked Lists/: A sequence of elements where each element points to
-  the next one, allowing for efficient insertion and deletion;
-- /Stacks/: A linear data structure that follows the Last In, First
-  Out (LIFO) principle, where elements are added and removed from the
-  top;
-- /Queues/: A linear data structure that follows the First In, First Out
-  (FIFO) principle, where elements are added to the end and removed
-  from the front;
-- /Hash Tables/: A data structure that maps keys to values using a
-  hash function, allowing for efficient lookup and insertion;
+** Linear Data Structures
 
-  Is simply an array that is addressed via a hash function.
-  https://realpython.com/python-hash-table/
-  [[https://www.eecs.umich.edu/courses/eecs380/ALG/niemann/s_has.htm]]
+  1. *Array*:
 
-- /Trees/: A non-linear data structure where elements are organized in a
-  hierarchical manner, often used for efficient storage and retrieval
-  of data;
-- /Graphs/: A non-linear data structure that represents a collection of
-  nodes connected by edges, often used for modeling relationships
-  between data;
-- /Heaps/: A specialized tree-based data structure used for efficient
-  sorting and priority queuing;
+     A collection of elements of the same data type stored in
+     contiguous memory locations, allowing for constant-time access to
+     elements via their index.
+
+  2. *Linked List*:
+
+     A sequence of elements where each element, called a node,
+     contains a value and a reference (or pointer) to the next node in
+     the sequence. This structure allows for efficient insertion and
+     deletion operations, as they can be performed in constant time if
+     the position is known, but access time is linear.
+
+  3. *Stack*:
+
+     A linear data structure that follows the Last In, First Out
+     (LIFO) principle. Elements are added to the top of the stack
+     using a push operation and removed from the top using a pop
+     operation. This structure is commonly used for function call
+     management, undo mechanisms in software, and syntax parsing.
+
+  4. *Queue*:
+
+     A linear data structure that follows the First In, First Out
+     (FIFO) principle. Elements are added to the rear of the queue
+     using an enqueue operation and removed from the front using a
+     dequeue operation. Queues are used in task scheduling, buffering
+     data streams, and handling asynchronous data transfers.
+
+
+
 
 
 ** Arrays
@@ -209,7 +218,7 @@ There are two main types of heaps:
   smallest among all its child nodes and the same thing must be done
   for its left and right sub-tree also
 
-  
+
 
 
 
@@ -297,3 +306,7 @@ Commonly defined operations in a List ADT include:
 - slice start, end : return a sub-list slice starting at the position
   start up until the position end,
 - reverse : reverse the order of the list.
+
+
+  https://realpython.com/python-hash-table/
+  [[https://www.eecs.umich.edu/courses/eecs380/ALG/niemann/s_has.htm]]
