@@ -234,53 +234,77 @@ Write down several idioms and proverbs about persistence, please.
   10. "Never give up on something you really want. It's difficult to
       wait, but more difficult to regret."
 #+end_src
+What is the specific determiners and how to use them?
+
 * Flask Thread
 :PROPERTIES:
 :vizier-assistant-id: asst_DnaQMwaoR1nGJHA0Y8bcqC2b
 :vizier-thread-id: thread_kMLnt3ba0opm0biRsBfpDHLR
 :END:
 
-What is Accessing Request Data in Flask and simple example of usage it.
+Can you provide a simple explanation of the Accessing Request Data in
+Flask and briefly describe how that works?
 
 
 
 #+begin_src markdown
-  Accessing request data in Flask is essential for handling client input
-  in your web applications. Flask provides various means to access the
-  data sent with the HTTP request, such as form data, query parameters,
-  JSON payloads, and headers. Here's a brief overview of the different
-  types of request data you can access in Flask:
+  Sure! Let's break down the concept of accessing request data in Flask
+  into simple terms.
 
-  ### Types of Request Data:
+  ### What is Request Data?
+
+  When a client (like a web browser) interacts with a Flask web
+  application, it sends an HTTP request. This request can contain
+  various types of data:
+  - **Query Parameters:** Data included in the URL, e.g.,
+    `http://example.com/search?query=flask`.
+  - **Form Data:** Data submitted via an HTML form, usually using the
+    POST method.
+  - **JSON Data:** Raw JSON sent in the body of the request, often used
+    in APIs.
+  - **Headers:** Metadata about the request, like content type or user
+    agent.
+
+  ### The `request` Object
+
+  Flask provides a special object called `request` that contains all the
+  information about the incoming HTTP request. You can access different
+  types of data through this object using specific methods and
+  properties.
+
+  ### Common Ways to Access Data:
 
   1. **Query Parameters:**
-     - URL-encoded parameters sent as part of the query string, e.g.,
-       `/search?query=flask`.
-   
+     - Stored in the URL and can be accessed using `request.args`.
+     - Example: `/search?query=flask`
+     - Access: `request.args.get('query')`
+
   2. **Form Data:**
-     - Data sent via HTML forms using POST or PUT methods.
-   
+     - Data submitted via an HTML form (POST request).
+     - Access: `request.form['field_name']` or
+       `request.form.get('field_name')`
+
   3. **JSON Data:**
-     - JSON payload sent with the request, often used in RESTful APIs.
-   
+     - JSON payload sent in the body of the request.
+     - Access: `request.get_json()`
+
   4. **Headers:**
-     - HTTP headers providing metadata about the request.
+     - Metadata about the request.
+     - Access: `request.headers['Header-Name']` or
+       `request.headers.get('Header-Name')`
 
-  ### Simple Example:
+  ### Simple Example
 
-  Below is a simple Flask application demonstrating the access to
-  different types of request data.
+  Let's look at a basic Flask application that demonstrates these
+  concepts:
 
   #### Directory Structure:
-
   ```
   .
   ├── app.py
   └── templates
       └── form.html
   ```
-
-  #### Example Code:
 
   ,**app.py:**
 
@@ -293,18 +317,18 @@ What is Accessing Request Data in Flask and simple example of usage it.
   def home():
       return render_template('form.html')
 
+  @app.route('/search')
+  def search():
+      # Accessing query parameters
+      query = request.args.get('query')
+      return f"Search Query: {query}"
+
   @app.route('/submit', methods=['POST'])
   def submit():
       # Accessing form data
       username = request.form.get('username')
       email = request.form.get('email')
       return f"Form Submitted. Username: {username}, Email: {email}"
-
-  @app.route('/search')
-  def search():
-      # Accessing query parameters
-      query = request.args.get('query')
-      return f"Search Query: {query}"
 
   @app.route('/api/data', methods=['POST'])
   def api_data():
@@ -345,59 +369,732 @@ What is Accessing Request Data in Flask and simple example of usage it.
 
   ### Explanation:
 
-  #### 1. Accessing Form Data:
+  1. **Query Parameters:**
+     - Accessed with `request.args.get('query')` in the `/search` route.
 
-  The `/submit` route handles form submissions sent via a POST
-  request. The `request.form.get('field_name')` method accesses form
-  data:
+  2. **Form Data:**
+     - Accessed with `request.form.get('username')` and
+       `request.form.get('email')` in the `/submit` route.
 
-  ```python
-  @app.route('/submit', methods=['POST'])
-  def submit():
-      username = request.form.get('username')
-      email = request.form.get('email')
-      return f"Form Submitted. Username: {username}, Email: {email}"
-  ```
+  3. **JSON Data:**
+     - Accessed with `request.get_json()` in the `/api/data` route.
 
-  #### 2. Accessing Query Parameters:
+  4. **Headers:**
+     - Accessed with `request.headers.get('User-Agent')` in the
+       `/headers` route.
 
-  The `/search` route processes query parameters sent in the URL. The
-  `request.args.get('param_name')` method retrieves these values:
+  ### Summary:
 
-  ```python
-  @app.route('/search')
-  def search():
-      query = request.args.get('query')
-      return f"Search Query: {query}"
-  ```
+  - **Query Parameters:** Use `request.args` to access data in the URL.
+  - **Form Data:** Use `request.form` to access data submitted via
+    forms.
+  - **JSON Data:** Use `request.get_json()` to access JSON payloads.
+  - **Headers:** Use `request.headers` to access metadata.
 
-  #### 3. Accessing JSON Data:
+  By using the `request` object in Flask, you can easily access and
+  manipulate the data sent by clients to build dynamic and responsive
+  web applications.
+#+end_src
 
-  In the `/api/data` route, the `request.get_json()` method is used to
-  parse JSON data from the request body:
+* Computure science
+:PROPERTIES:
+:vizier-assistant-id: asst_9U8N72u9uVQesQNNjgOLJOu8
+:vizier-thread-id: thread_Qmu6ocrAmdVCjJ643eRVW51Q
+:END:
 
-  ```python
-  @app.route('/api/data', methods=['POST'])
-  def api_data():
-      data = request.get_json()
-      return jsonify(data)
-  ```
+Summarize the text bellow into a concize overwiew, highlighting the
+key insights and most important facts. Ensure the summarry captures
+the essence and main points of the text.
 
-  #### 4. Accessing Headers:
+`In computer science, a /data structure/ is a way of organizing and
+storing data in a computer so that it can be accessed and used
+efficiently.
 
-  The `/headers` route demonstrates how to retrieve HTTP headers using
-  the `request.headers.get('Header-Name')` method:
+Each data structure provides a particular way of organizing data so it
+can be accessed efficiently, depending on your use case.`
 
-  ```python
-  @app.route('/headers')
-  def headers():
-      user_agent = request.headers.get('User-Agent')
-      return f"User-Agent: {user_agent}"
-  ```
 
-  With this foundational knowledge and examples, you can effectively
-  interact with and process various types of request data in your Flask
-  applications. For more details, refer to the [Flask Request
-  Documentation](https://flask.palletsprojects.com/en/latest/api/#flask.Request).
+
+
+#+begin_src markdown
+  In computer science, a **data structure** is a method for organizing
+  and storing data on a computer to enable efficient access and
+  usage. Different data structures are designed to organize data
+  optimally based on specific use cases, ensuring efficient performance.
+#+end_src
+
+Can you expand this definition to be more precize?
+
+#+begin_src markdown
+  Certainly! Here's an expanded and more precise definition:
+
+  In computer science, a **data structure** is a systematic way of
+  organizing, managing, and storing data on a computer to facilitate
+  efficient access and modification. Data structures are critical for
+  designing efficient algorithms and software applications, as they
+  provide specific mechanisms that dictate how data is arranged in
+  memory and how it can be retrieved and manipulated.
+
+  Different data structures are tailored to solve various computational
+  problems efficiently. The choice of a data structure directly impacts
+  the performance of operations like searching, insertion, deletion, and
+  traversal. Common types of data structures include arrays, linked
+  lists, stacks, queues, trees, graphs, heaps, hash tables, and
+  more. Each structure has its own strengths and weaknesses, making it
+  suitable for particular use cases.
+
+  For example:
+  - **Arrays** provide constant-time access to elements but can be
+    inefficient for insertions and deletions.
+  - **Linked lists** allow for efficient insertions and deletions but
+    require linear time for element access.
+  - **Stacks** and **queues** offer efficient Last-In-First-Out (LIFO)
+    and First-In-First-Out (FIFO) operations, respectively.
+  - **Trees** and **graphs** are ideal for representing hierarchical
+    relationships and networked data.
+  - **Heaps** are optimal for implementing priority queues.
+  - **Hash tables** enable fast data retrieval based on key-value pairs.
+
+  Choosing the appropriate data structure is crucial for optimizing the
+  performance and resource utilization of an application, aligning with
+  the specific needs and constraints of the problem being addressed.
+#+end_src
+
+Can you list the most common data structure in computer science?
+
+
+#+begin_src markdown
+  Certainly! Here is a list of some of the most common data structures
+  in computer science, along with a brief description of each:
+
+  ### Linear Data Structures:
+
+  1. **Arrays**:
+     - **Description**: A collection of elements identified by index or
+       key.
+     - **Use Cases**: Fixed-size collections, fast index-based access.
+
+  2. **Linked Lists**:
+     - **Description**: A sequence of elements, where each element
+       points to the next.
+     - **Types**: Singly Linked List, Doubly Linked List, Circular
+       Linked List.
+     - **Use Cases**: Dynamic size collections, efficient
+       insertions/deletions.
+
+  3. **Stacks**:
+     - **Description**: A collection that follows Last-In-First-Out
+       (LIFO) order.
+     - **Use Cases**: Function call management, undo mechanisms, parsing
+       expressions.
+
+  4. **Queues**:
+     - **Description**: A collection that follows First-In-First-Out
+       (FIFO) order.
+     - **Types**: Simple Queue, Circular Queue, Priority Queue, Deque.
+     - **Use Cases**: Task scheduling, buffering data streams, handling
+       asynchronous data.
+
+  ### Non-Linear Data Structures:
+
+  5. **Trees**:
+     - **Description**: Hierarchical structure with a root value and
+       subtrees of children.
+     - **Types**: Binary Tree, Binary Search Tree, AVL Tree, Red-Black
+       Tree, B-Tree.
+     - **Use Cases**: Hierarchical data representation, searching, and
+       sorting.
+
+  6. **Heaps**:
+     - **Description**: A specialized tree-based structure that
+       satisfies the heap property.
+     - **Types**: Min-Heap, Max-Heap.
+     - **Use Cases**: Implementing priority queues, heap sort.
+
+  7. **Graphs**:
+     - **Description**: A collection of nodes connected by edges.
+     - **Types**: Directed Graph, Undirected Graph, Weighted Graph.
+     - **Use Cases**: Modeling networks, social connections, and
+       shortest path algorithms.
+
+  ### Hash-Based Data Structures:
+
+  8. **Hash Tables**:
+     - **Description**: Stores key-value pairs with efficient hashing.
+     - **Use Cases**: Fast lookups, associative arrays, database
+       indexing.
+
+  ### Specialized Data Structures:
+
+  9. **Tries**:
+     - **Description**: A tree-like data structure used for storing
+       strings.
+     - **Use Cases**: Autocomplete systems, dictionary implementation.
+
+  10. **Disjoint Set (Union-Find)**:
+      - **Description**: A data structure that keeps track of a
+        partition of a set into disjoint subsets.
+      - **Use Cases**: Network connectivity, finding cycles in a graph.
+
+  ### Composite Data Structures:
+
+  11. **Priority Queues**:
+      - **Description**: An abstract data structure where each element
+        has a priority.
+      - **Use Cases**: Job scheduling, simulation systems.
+
+  12. **Deques (Double-ended Queues)**:
+      - **Description**: A generalization of queues that can insert and
+        delete from both ends.
+      - **Use Cases**: Palindrome checking, implementing both stack and
+        queue operations.
+
+  ### Summary:
+
+  - **Arrays**: Fast index-based access but fixed size.
+  - **Linked Lists**: Dynamic size, efficient insertions/deletions.
+  - **Stacks**: LIFO operations, used for function call management.
+  - **Queues**: FIFO operations, used for task scheduling.
+  - **Trees**: Hierarchical data, various search trees.
+  - **Heaps**: Priority queues, heap sort.
+  - **Graphs**: Network modeling, shortest path algorithms.
+  - **Hash Tables**: Fast lookups using key-value pairs.
+  - **Tries**: Efficient string storage and retrieval.
+  - **Disjoint Set**: Managing disjoint subsets.
+  - **Priority Queues**: Elements with priorities.
+  - **Deques**: Double-ended queue operations.
+
+  These data structures form the foundational tools used to build
+  efficient algorithms and applications, each tailored to specific types
+  of operations and performance requirements.
+#+end_src
+
+Can you list the most common data structures in computer science with
+their brief definition?
+
+#+begin_src markdown
+  Certainly! Here is a list of the most common data structures in
+  computer science along with a brief definition of each:
+
+  ### Linear Data Structures:
+
+  1. **Array**:
+     - **Definition**: A collection of elements identified by index,
+       stored in contiguous memory locations.
+
+  2. **Linked List**:
+     - **Definition**: A sequence of elements where each element points
+       to the next; allows dynamic size.
+     - **Types**: Singly Linked List, Doubly Linked List, Circular
+       Linked List.
+
+  3. **Stack**:
+     - **Definition**: A collection that follows Last-In-First-Out
+       (LIFO) order; supports push and pop operations.
+
+  4. **Queue**:
+     - **Definition**: A collection that follows First-In-First-Out
+       (FIFO) order; supports enqueue and dequeue operations.
+     - **Types**: Simple Queue, Circular Queue, Priority Queue, Deque.
+
+  ### Non-Linear Data Structures:
+
+  5. **Tree**:
+     - **Definition**: A hierarchical structure consisting of nodes,
+       with a single root and subtrees of children formed by edges.
+     - **Types**: Binary Tree, Binary Search Tree, AVL Tree, Red-Black
+       Tree, B-Tree.
+
+  6. **Heap**:
+     - **Definition**: A specialized tree-based structure that satisfies
+       the heap property (Min-Heap or Max-Heap).
+
+  7. **Graph**:
+     - **Definition**: A collection of nodes (vertices) connected by
+       edges, used to represent networks.
+     - **Types**: Directed Graph, Undirected Graph, Weighted Graph.
+
+  ### Hash-Based Data Structures:
+
+  8. **Hash Table**:
+     - **Definition**: Stores key-value pairs using a hash function to
+       enable fast data retrieval.
+
+  ### Specialized Data Structures:
+
+  9. **Trie**:
+     - **Definition**: A tree-like data structure used for storing
+       strings, allowing efficient retrieval.
+
+  10. **Disjoint Set (Union-Find)**:
+      - **Definition**: A data structure that keeps track of a partition
+        of a set into disjoint subsets, supporting union and find
+        operations.
+
+  ### Composite Data Structures:
+
+  11. **Priority Queue**:
+      - **Definition**: An abstract data structure where each element
+        has a priority, and elements are served based on priority.
+
+  12. **Deque (Double-ended Queue)**:
+      - **Definition**: A generalization of queues that allows insertion
+        and deletion from both ends.
+
+  These data structures are fundamental in computer science and are
+  widely used to solve various computational problems efficiently.
+#+end_src
+
+Can you list the most common data structures in computer science with
+only short definition?
+
+#+begin_src markdown
+  Certainly! Here are the most common data structures in computer
+  science along with a short definition for each:
+
+  ### Linear Data Structures:
+
+  1. **Array**:
+     - A collection of elements identified by index, stored in
+       contiguous memory locations.
+
+  2. **Linked List**:
+     - A sequence of elements where each element points to the next,
+       allowing dynamic size adjustments.
+
+  3. **Stack**:
+     - A collection following Last-In-First-Out (LIFO) order.
+
+  4. **Queue**:
+     - A collection following First-In-First-Out (FIFO) order.
+
+  ### Non-Linear Data Structures:
+
+  5. **Tree**:
+     - A hierarchical structure with nodes connected by edges, having a
+       single root.
+
+  6. **Heap**:
+     - A specialized tree-based structure satisfying the heap property
+       (Min-Heap or Max-Heap).
+
+  7. **Graph**:
+     - A collection of nodes connected by edges representing
+       relationships or pathways.
+
+  ### Hash-Based Data Structures:
+
+  8. **Hash Table**:
+     - Stores key-value pairs using a hash function for fast data
+       retrieval.
+
+  ### Specialized Data Structures:
+
+  9. **Trie**:
+     - A tree-like structure used for efficient retrieval of strings,
+       often in dictionaries.
+
+  10. **Disjoint Set (Union-Find)**:
+      - Maintains a partition of elements into disjoint subsets,
+        supporting union and find operations.
+
+  ### Composite Data Structures:
+
+  11. **Priority Queue**:
+      - An abstract collection where each element has a priority, and
+        elements are served based on priority.
+
+  12. **Deque (Double-ended Queue)**:
+      - Allows insertion and deletion of elements from both ends.
+#+end_src
+
+
+Summarize the text bellow into a concize overwiew, highlighting the
+key insights and most important facts. Ensure the summarry captures
+the essence and main points of the text.
+`- /Arrays/: A collection of elements of the same data type stored in
+  contiguous memory locations;
+- /Linked Lists/: A sequence of elements where each element points to
+  the next one, allowing for efficient insertion and deletion;
+- /Stacks/: A linear data structure that follows the Last In, First
+  Out (LIFO) principle, where elements are added and removed from the
+  top;
+- /Queues/: A linear data structure that follows the First In, First Out
+  (FIFO) principle, where elements are added to the end and removed
+  from the front;
+- /Hash Tables/: A data structure that maps keys to values using a
+  hash function, allowing for efficient lookup and insertion;
+
+  Is simply an array that is addressed via a hash function.
+  
+- /Trees/: A non-linear data structure where elements are organized in a
+  hierarchical manner, often used for efficient storage and retrieval
+  of data;
+- /Graphs/: A non-linear data structure that represents a collection of
+  nodes connected by edges, often used for modeling relationships
+  between data;
+- /Heaps/: A specialized tree-based data structure used for efficient
+  sorting and priority queuing;`
+
+#+begin_src markdown
+  ### Key Insights and Important Facts:
+
+  - **Arrays**:
+    - A collection of elements of the same data type stored in
+      contiguous memory locations.
+  
+  - **Linked Lists**:
+    - A sequence of elements where each element points to the next,
+      allowing for efficient insertion and deletion.
+  
+  - **Stacks**:
+    - A linear data structure that follows the Last In, First Out (LIFO)
+      principle, where elements are added and removed from the top.
+  
+  - **Queues**:
+    - A linear data structure that follows the First In, First Out
+      (FIFO) principle, where elements are added to the end and removed
+      from the front.
+  
+  - **Hash Tables**:
+    - A data structure that maps keys to values using a hash function,
+      allowing for efficient lookup and insertion; essentially, an array
+      addressed via a hash function.
+
+  - **Trees**:
+    - A non-linear data structure where elements are organized
+      hierarchically, often used for efficient storage and retrieval of
+      data.
+
+  - **Graphs**:
+    - A non-linear data structure representing nodes connected by edges,
+      often used to model relationships between data.
+
+  - **Heaps**:
+    - A specialized tree-based data structure used for efficient sorting
+      and priority queuing.
+#+end_src
+
+Can you  expand this definition to be more precize?
+
+#+begin_src markdown
+  Certainly! Here is a more precise and expanded version of the
+  definitions:
+
+  - **Arrays**:
+    - A collection of elements of the same data type stored in
+      contiguous memory locations, allowing for constant-time access to
+      elements via their index.
+
+  - **Linked Lists**:
+    - A sequence of elements where each element, called a node, contains
+      a value and a reference (or pointer) to the next node in the
+      sequence. This structure allows for efficient insertion and
+      deletion operations, as they can be performed in constant time if
+      the position is known, but access time is linear.
+
+  - **Stacks**:
+    - A linear data structure that follows the Last In, First Out (LIFO)
+      principle. Elements are added to the top of the stack using a push
+      operation and removed from the top using a pop operation. This
+      structure is commonly used for function call management, undo
+      mechanisms in software, and syntax parsing.
+
+  - **Queues**:
+    - A linear data structure that follows the First In, First Out
+      (FIFO) principle. Elements are added to the rear of the queue
+      using an enqueue operation and removed from the front using a
+      dequeue operation. Queues are used in task scheduling, buffering
+      data streams, and handling asynchronous data transfers.
+
+  - **Hash Tables**:
+    - A data structure that maps keys to values using a hash function to
+      compute an index into an array of buckets or slots, from which the
+      desired value can be found. This structure allows for average-case
+      constant-time complexity for lookup, insertion, and deletion
+      operations. Hash tables are used for fast data retrieval,
+      associative arrays, and database indexing.
+
+  - **Trees**:
+    - A non-linear data structure consisting of nodes, where each node
+      contains a value and references to child nodes, organized in a
+      hierarchical manner. The root node is the topmost node, and each
+      node can have zero or more child nodes. Common types of trees
+      include binary trees, binary search trees, AVL trees, and
+      B-trees. Trees are used for efficient data storage, retrieval, and
+      hierarchical data representation.
+
+  - **Graphs**:
+    - A non-linear data structure that consists of a collection of nodes
+      (also called vertices) connected by edges. Graphs are used to
+      model relationships and connections between entities, with
+      applications in networking, social network analysis, and
+      pathfinding algorithms. Graphs can be directed or undirected and
+      may have weighted edges.
+
+  - **Heaps**:
+    - A specialized tree-based data structure, specifically a binary
+      tree, that satisfies the heap property. In a min-heap, the value
+      of each node is greater than or equal to the value of its parent,
+      while in a max-heap, the value of each node is less than or equal
+      to the value of its parent. Heaps are commonly used to implement
+      priority queues and heap sort algorithms, providing efficient
+      access to the smallest or largest element.
+
+  These expanded definitions provide a clearer and more detailed
+  understanding of each data structure, highlighting their
+  characteristics, use cases, and performance implications.
+#+end_src
+
+Can you add more common data structures to the list above? 
+
+
+
+
+#+begin_src markdown
+  Certainly! Here are additional common data structures, along with the
+  existing ones, accompanied by their definitions for greater clarity:
+
+  ### Linear Data Structures:
+
+  1. **Array**:
+     - A collection of elements of the same data type stored in
+       contiguous memory locations, allowing for constant-time access to
+       elements via their index.
+
+  2. **Linked Lists**:
+     - A sequence of elements where each element, called a node,
+       contains a value and a reference (or pointer) to the next node in
+       the sequence. This structure allows for efficient insertion and
+       deletion operations, as they can be performed in constant time if
+       the position is known, but access time is linear.
+     - **Types**: Singly Linked List, Doubly Linked List, Circular
+       Linked List.
+
+  3. **Stack**:
+     - A linear data structure that follows the Last In, First Out
+       (LIFO) principle. Elements are added to the top of the stack
+       using a push operation and removed from the top using a pop
+       operation. This structure is commonly used for function call
+       management, undo mechanisms in software, and syntax parsing.
+
+  4. **Queue**:
+     - A linear data structure that follows the First In, First Out
+       (FIFO) principle. Elements are added to the rear of the queue
+       using an enqueue operation and removed from the front using a
+       dequeue operation. Queues are used in task scheduling, buffering
+       data streams, and handling asynchronous data transfers.
+     - **Types**: Simple Queue, Circular Queue, Priority Queue, Deque.
+
+  ### Non-Linear Data Structures:
+
+  5. **Tree**:
+     - A non-linear data structure consisting of nodes, where each node
+       contains a value and references to child nodes, organized in a
+       hierarchical manner. The root node is the topmost node, and each
+       node can have zero or more child nodes. Common types of trees
+       include binary trees, binary search trees, AVL trees, and
+       B-trees. Trees are used for efficient data storage, retrieval,
+       and hierarchical data representation.
+
+  6. **Heap**:
+     - A specialized tree-based data structure, specifically a binary
+       tree, that satisfies the heap property. In a min-heap, the value
+       of each node is greater than or equal to the value of its parent,
+       while in a max-heap, the value of each node is less than or equal
+       to the value of its parent. Heaps are commonly used to implement
+       priority queues and heap sort algorithms, providing efficient
+       access to the smallest or largest element.
+
+  7. **Graph**:
+     - A non-linear data structure that consists of a collection of
+       nodes (also called vertices) connected by edges. Graphs are used
+       to model relationships and connections between entities, with
+       applications in networking, social network analysis, and
+       pathfinding algorithms. Graphs can be directed or undirected and
+       may have weighted edges.
+
+  ### Hash-Based Data Structures:
+
+  8. **Hash Table**:
+     - A data structure that maps keys to values using a hash function
+       to compute an index into an array of buckets or slots, from which
+       the desired value can be found. This structure allows for
+       average-case constant-time complexity for lookup, insertion, and
+       deletion operations. Hash tables are used for fast data
+       retrieval, associative arrays, and database indexing.
+
+  ### Specialized Data Structures:
+
+  9. **Trie**:
+     - A tree-like data structure used for storing strings, where each
+       node represents a character of the string. Efficient for
+       prefix-based searches, making it useful for autocomplete systems
+       and dictionaries.
+
+  10. **Disjoint Set (Union-Find)**:
+      - A data structure that keeps track of a partition of elements
+        into disjoint subsets. Supports union and find operations
+        efficiently, commonly used in network connectivity and Kruskal’s
+        Minimum Spanning Tree algorithm.
+
+  11. **Priority Queue**:
+      - An abstract collection where each element has a priority, and
+        elements are served based on priority. Typically implemented
+        using heaps.
+
+  12. **Deque (Double-Ended Queue)**:
+      - Allows insertion and deletion of elements from both
+        ends. Combines the properties of stacks and queues.
+
+  ### Additional Data Structures:
+
+  13. **Matrix**:
+      - A two-dimensional array used to represent and manipulate
+        numerical data, often applied in mathematical computations,
+        image processing, and graph algorithms.
+
+  14. **Circular Buffer**:
+      - A fixed-size buffer where the end is connected to the beginning,
+        forming a circle. Used in situations where you need a continuous
+        buffer without worrying about overwriting valuable data.
+
+  15. **Bloom Filter**:
+      - A probabilistic data structure used to test whether an element
+        is a member of a set. Provides fast and memory-efficient
+        operation but with a possibility of false positives.
+
+  16. **Skip List**:
+      - A data structure that allows fast search within an ordered
+        sequence of elements by maintaining multiple layers of linked
+        lists. Provides a similar performance to balanced trees with
+        simpler implementation.
+
+  17. **Suffix Tree**:
+      - A compressed trie-like data structure that represents all the
+        suffixes of a given string. Efficient for pattern matching and
+        substring problems.
+
+  18. **Fenwick Tree (Binary Indexed Tree)**:
+      - A data structure that provides efficient methods for calculation
+        and manipulation of the prefix sums of a sequence of
+        numbers. Used in various algorithmic problems involving
+        cumulative frequency tables.
+
+  19. **Segment Tree**:
+      - A tree data structure used for storing intervals or segments. It
+        allows querying which of the stored segments contain a given
+        point efficiently.
+
+  These expanded definitions encompass a wide range of commonly used
+  data structures, providing a more comprehensive overview of their
+  characteristics and typical use cases.
+#+end_src
+
+Can you select only most common data structures from the list above?
+
+#+begin_src markdown
+  Certainly! Here are the most common data structures, focusing on those
+  that are fundamental and widely used in various applications:
+
+  ### Linear Data Structures:
+
+  1. **Array**:
+     - **Definition**: A collection of elements of the same data type
+       stored in contiguous memory locations, allowing for constant-time
+       access to elements via their index.
+
+  2. **Linked List**:
+     - **Definition**: A sequence of elements where each element, called
+       a node, contains a value and a reference (or pointer) to the next
+       node in the sequence. This structure allows for efficient
+       insertion and deletion operations, as they can be performed in
+       constant time if the position is known, but access time is
+       linear.
+     - **Types**: Singly Linked List, Doubly Linked List, Circular
+       Linked List.
+
+  3. **Stack**:
+     - **Definition**: A linear data structure that follows the Last In,
+       First Out (LIFO) principle. Elements are added to the top of the
+       stack using a push operation and removed from the top using a pop
+       operation. This structure is commonly used for function call
+       management, undo mechanisms in software, and syntax parsing.
+
+  4. **Queue**:
+     - **Definition**: A linear data structure that follows the First
+       In, First Out (FIFO) principle. Elements are added to the rear of
+       the queue using an enqueue operation and removed from the front
+       using a dequeue operation. Queues are used in task scheduling,
+       buffering data streams, and handling asynchronous data transfers.
+     - **Types**: Simple Queue, Circular Queue, Priority Queue, Deque.
+
+  ### Non-Linear Data Structures:
+
+  5. **Tree**:
+     - **Definition**: A non-linear data structure consisting of nodes,
+       where each node contains a value and references to child nodes,
+       organized in a hierarchical manner. The root node is the topmost
+       node, and each node can have zero or more child nodes. Common
+       types of trees include binary trees, binary search trees, AVL
+       trees, and B-trees. Trees are used for efficient data storage,
+       retrieval, and hierarchical data representation.
+
+  6. **Heap**:
+     - **Definition**: A specialized tree-based data structure,
+       specifically a binary tree, that satisfies the heap property. In
+       a min-heap, the value of each node is greater than or equal to
+       the value of its parent, while in a max-heap, the value of each
+       node is less than or equal to the value of its parent. Heaps are
+       commonly used to implement priority queues and heap sort
+       algorithms, providing efficient access to the smallest or largest
+       element.
+
+  7. **Graph**:
+     - **Definition**: A non-linear data structure that consists of a
+       collection of nodes (also called vertices) connected by
+       edges. Graphs are used to model relationships and connections
+       between entities, with applications in networking, social network
+       analysis, and pathfinding algorithms. Graphs can be directed or
+       undirected and may have weighted edges.
+
+  ### Hash-Based Data Structures:
+
+  8. **Hash Table**:
+     - **Definition**: A data structure that maps keys to values using a
+       hash function to compute an index into an array of buckets or
+       slots, from which the desired value can be found. This structure
+       allows for average-case constant-time complexity for lookup,
+       insertion, and deletion operations. Hash tables are used for fast
+       data retrieval, associative arrays, and database indexing.
+
+  ### Specialized Data Structures:
+
+  9. **Trie**:
+     - **Definition**: A tree-like data structure used for storing
+       strings, where each node represents a character of the
+       string. Efficient for prefix-based searches, making it useful for
+       autocomplete systems and dictionaries.
+
+  10. **Disjoint Set (Union-Find)**:
+     - **Definition**: A data structure that keeps track of a partition
+       of elements into disjoint subsets. Supports union and find
+       operations efficiently, commonly used in network connectivity and
+       Kruskal’s Minimum Spanning Tree algorithm.
+
+  ### Composite Data Structures:
+
+  11. **Priority Queue**:
+      - **Definition**: An abstract collection where each element has a
+        priority, and elements are served based on priority. Typically
+        implemented using heaps.
+
+  12. **Deque (Double-Ended Queue)**:
+      - **Definition**: Allows insertion and deletion of elements from
+        both ends. Combines the properties of stacks and queues.
+
+  These data structures represent core concepts that are fundamental to
+  computer science, offering a diverse range of capabilities for
+  different computational problems.
 #+end_src
 
