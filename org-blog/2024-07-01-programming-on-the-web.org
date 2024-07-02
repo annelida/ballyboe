@@ -10,8 +10,8 @@ layout: page
 title: Programming on the Web
 tagline: " sending data to your application"
 permalink: /Web/programming-on-the-web.html
-categories: [Python, Web, request]
-tags: [python, web], request
+categories: [Python, Flask, Web, request]
+tags: [python, flask, web, request]
 ---
 #+END_EXPORT
 #+STARTUP: showall indent
@@ -138,6 +138,7 @@ communication, enabling the retrieval and presentation of web
 resources on the World Wide Web. Understanding this cycle is crucial
 for optimizing web performance, troubleshooting issues, and building
 efficient web applications.
+
 ** What is Request Data
 
  When a client (like a web browser) interacts with a Flask web
@@ -159,10 +160,25 @@ efficient web applications.
   types of data through this object using specific methods and
   properties.
 
-  
-  
+  Common Ways to Access Data:
 
+  1. *Query Parameters:*
+     - Stored in the URL and can be accessed using `request.args`.
+     - Example: `/search?query=flask`
+     - Access: `request.args.get('query')`
 
+  2. *Form Data:*
+     - Data submitted via an HTML form (POST request).
+     - Access: `request.form['field_name']` or
+       `request.form.get('field_name')`
 
+  3. *JSON Data:*
+     - JSON payload sent in the body of the request.
+     - Access: `request.get_json()`
+
+  4. *Headers:*
+     - Metadata about the request.
+     - Access: `request.headers['Header-Name']` or
+       `request.headers.get('Header-Name')`
 
 
