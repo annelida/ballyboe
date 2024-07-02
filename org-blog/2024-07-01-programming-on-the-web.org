@@ -138,6 +138,26 @@ communication, enabling the retrieval and presentation of web
 resources on the World Wide Web. Understanding this cycle is crucial
 for optimizing web performance, troubleshooting issues, and building
 efficient web applications.
+** What is Request Data
+
+ When a client (like a web browser) interacts with a Flask web
+ application, it sends an HTTP request. This request can contain
+ various types of data:
+  - *Query Parameters:* Data included in the URL, e.g.,
+    `http://example.com/search?query=flask`.
+  - *Form Data:* Data submitted via an HTML form, usually using the
+    POST method.
+  - *JSON Data:* Raw JSON sent in the body of the request, often used
+    in APIs.
+  - *Headers:* Metadata about the request, like content type or user
+    agent.
+
+** The `request` Object
+
+  Flask provides a special object called `request` that contains all the
+  information about the incoming HTTP request. You can access different
+  types of data through this object using specific methods and
+  properties.
 
   
   
