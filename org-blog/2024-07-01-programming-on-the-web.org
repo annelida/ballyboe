@@ -1,0 +1,39 @@
+:PROPERTIES:
+:GPTEL_MODEL: gpt-3.5-turbo
+:GPTEL_BACKEND: ChatGPT
+:GPTEL_SYSTEM: You are a large language model living in Emacs and a helpful assistant. Respond concisely.
+:GPTEL_BOUNDS: nil
+:END:
+#+BEGIN_EXPORT html
+---
+layout: page
+title: Programming on the Web
+tagline: " sending data to your application"
+permalink: /Web/programming-on-the-web.html
+categories: [Python, Web, request]
+tags: [python, web], request
+---
+#+END_EXPORT
+#+STARTUP: showall indent
+#+OPTIONS: tags:nil num:nil \n:nil @:t ::t |:t ^:{} _:{} *:t
+#+PROPERTY: header-args :exports both
+#+PROPERTY: header-args+ :results output pp
+#+PROPERTY: header-args+ :eval no-export
+#+TOC: headlines 2
+
+* Preamble
+
+* Definition of a Request in Networking
+
+A /network request/ is a structured packet of data sent over a network
+by a client (such as a web browser, application, or device) to a
+server (such as a web server, database server, or other network
+service). The request typically asks the server to perform an
+operation or return specific information.
+
+* Request/response cycle
+
+
+
+
+
