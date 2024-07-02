@@ -31,6 +31,46 @@ server (such as a web server, database server, or other network
 service). The request typically asks the server to perform an
 operation or return specific information.
 
+* Glossary
+
+/URL/ stands for /Uniform Resource Locator/. It is a reference or
+address used to locate resources on the internet, such as web pages,
+files, or other resources. It typically consists of a protocol (such
+as HTTP or HTTPS), a domain name (or IP address) of the server hosting
+the resource, and additional path and parameters to specify the exact
+location of the resource.
+
+/DNS/ stands for Domain Name System. It is a decentralized naming
+system for computers, services, or any resource connected to the
+internet or a private network. DNS translates domain names (e.g.,
+example.com) into IP addresses that computers need to locate and
+communicate with each other on a network.
+
+/Transmission Control Protocol/ (TCP) is a connection-oriented
+protocol that facilitates the transmission of data between networked
+devices. It ensures that data is delivered accurately and in the same
+order it was sent.
+
+/HTTP (Hypertext Transfer Protocol)/ is a protocol used for
+transmitting hypertext (HTML) documents and other types of data
+between a client (such as a web browser) and a server over a network,
+primarily the Internet.
+
+/HTTPS (Hypertext Transfer Protocol Secure)/ is an extension of HTTP
+(Hypertext Transfer Protocol) that is used for secure communication
+over a computer network, particularly the Internet. HTTPS uses
+encryption protocols such as /SSL (Secure Sockets Layer)/ or /TLS
+(Transport Layer Security)/ to encrypt the data exchanged between the
+client (e.g., a web browser) and the server, ensuring that the data is
+protected from eavesdropping, tampering, and man-in-the-middle
+attacks.
+
+/SSH (Secure Shell)/ is a cryptographic network protocol used for
+secure communication, remote login, and other secure network services
+over an unsecured network. SSH provides a secure channel over an
+unsecured network by encrypting the traffic between the client and the
+server, ensuring confidentiality and integrity of data. It is commonly
+used to access and manage remote servers and devices securely.
 * Request/response cycle
 
 
