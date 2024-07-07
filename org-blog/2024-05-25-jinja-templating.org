@@ -102,6 +102,30 @@ wheel        0.38.4
 : Name: Ian Boyle
 : Email: JOHN.DOE@EXAMPLE.COM
 
+* Render Jinja variable with Test
+
+A Jinja test is a built-in conditional expression used within Jinja2
+templates to perform checks or evaluations on variables. These tests
+help determine the type, value, or property of a variable and allow
+you to control the rendered output based on these checks.
+
+Key Points:
+
+- *Purpose:* To enable conditional logic within Jinja2 templates.
+- *Usage:* Used with the `{% if %}` statement to perform various
+  checks.
+- *Examples:* Tests can check if a variable is defined, if it is of a
+  certain type, or if it matches a specific condition.
+
+Common Jinja Tests:
+
+- ~is defined~: Checks if the variable is defined;
+- ~is none~: Checks if the variable is ~None~;
+- ~is string~: Checks if the variable is a string;
+- ~is number~: Checks if the variable is a number;
+- ~is sequence~: Checks if the variable is a sequence (like a list or
+  tuple).
+
 
 * Use Jinja With Flask
 
