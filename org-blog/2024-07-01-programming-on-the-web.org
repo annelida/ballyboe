@@ -131,14 +131,6 @@ used to access and manage remote servers and devices securely.
   applications.
 
 
-* Conclusion
-
-This request/response cycle is a fundamental process in web
-communication, enabling the retrieval and presentation of web
-resources on the World Wide Web. Understanding this cycle is crucial
-for optimizing web performance, troubleshooting issues, and building
-efficient web applications.
-
 ** What is Request Data
 
  When a client (like a web browser) interacts with a Flask web
@@ -180,5 +172,17 @@ efficient web applications.
      - Metadata about the request.
      - Access: `request.headers['Header-Name']` or
        `request.headers.get('Header-Name')`
+
+
+
+* Conclusion
+
+This request/response cycle is a fundamental process in web
+communication, enabling the retrieval and presentation of web
+resources on the World Wide Web. Understanding this cycle is crucial
+for optimizing web performance, troubleshooting issues, and building
+efficient web applications.
+
+
 
 
