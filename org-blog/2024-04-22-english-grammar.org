@@ -414,3 +414,43 @@ exactly what we are referring to:
 - Look at those lovely flowers.
 
 
+
+* Question forms
+
+To make questions, we often put the verb before the subject. This is
+called inversion.
+
+  Affirmative    Question
+  I am late.    Am I late?
+  I can help.    Can I help?
+  She is sleeping.    Is she sleeping?
+  We have met before.  Have we met before?
+
+If there is a question word (why, what, where, how, etc.), it goes
+before the verb.
+
+  Question    Question with question word
+  Are you late?    Why are you late?
+  Was she there?    When was she there?
+  Can I help?    How can I help?
+  Have we met before?  Where have we met before?
+
+ Questions in the present simple and past simple:
+
+ Questions in the present simple and past simple
+
+For other verbs in the present simple, we use the auxiliary verb
+=do/does= in the question.
+
+  Affirmative    Question    Question with question
+        word
+  You work at home.    Do you work at home?   Where do you work?
+  It costs £10.     Does it cost £10?    How much does it cost?
+
+ We use the auxiliary verb =did= in the past simple.
+
+ Affirmative  Question  Question with question
+      word
+ She went home.   Did she go home?  Where did she go?
+ They went to the  Did they go to the  Where did they go?
+ cinema.   cinema?
