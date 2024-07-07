@@ -99,7 +99,7 @@ wheel        0.38.4
 #+end_src
 
 #+RESULTS:
-: Name: Ian Boyle
+: Name: Eamon Boyle
 : Email: JOHN.DOE@EXAMPLE.COM
 
 * Render Jinja variable with Test
@@ -126,6 +126,53 @@ Common Jinja Tests:
 - ~is sequence~: Checks if the variable is a sequence (like a list or
   tuple).
 
+Simple example:
+
+#+begin_src python :results output
+  import jinja2
+  from jinja2 import Template
+
+  # Define a simple Jinja2 template with tests
+  template_string = """
+  {% if name is defined %}
+  Hello, {{ name }}!
+  {% else %}
+  Hello, Guest!
+  {% endif %}
+
+  {% if age is number %}
+  You are {{ age }} years old.
+  {% else %}
+  Age is not available.
+  {% endif %}
+  """
+
+  # Create a Jinja2 Template instance
+  template = Template(template_string)
+
+  # Sample data
+  data = {
+      'name': 'Alice',
+      'age': 30,
+  }
+
+  # Render the template with the sample data
+  output = template.render(data)
+
+  # Print the output
+  print(output)
+
+#+end_src
+
+#+RESULTS:
+:
+:
+: Hello, Alice!
+:
+:
+:
+: You are 30 years old.
+:
 
 * Use Jinja With Flask
 
