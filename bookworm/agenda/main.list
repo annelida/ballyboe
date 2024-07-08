@@ -3281,12 +3281,19 @@ CLOCK: [2024-05-29 Wed 07:31]--[2024-05-29 Wed 07:40] =>  0:09
 CLOCK: [2024-05-29 Wed 06:44]--[2024-05-29 Wed 07:20] =>  0:36
 :END:
 
+* [#A] Software Testing Tutorial
+SCHEDULED: <2024-07-09 Tue>
+:LOGBOOK:
+CLOCK: [2024-07-08 Mon 07:46]--[2024-07-08 Mon 08:00] =>  0:14
+:END:
+https://www.geeksforgeeks.org/software-testing-tutorial/?ref=outind
+
 * Application creation
 :PROPERTIES:
 :CATEGORY: APP
 :END:
 ** [#B] Request/response cycle
-SCHEDULED: <2024-07-08 Mon ++2d>
+SCHEDULED: <2024-07-09 Tue ++2d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-07-02 Tue 09:29]
 :END:
