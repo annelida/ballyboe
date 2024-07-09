@@ -23,6 +23,25 @@ tags: [linux, git,  emacs, python, remotes]
 Therefore all configs are stored at GitHub, the first and foremost
 step to migrate is ~GitHub~ config:
 
+#+begin_src sh
+  cd ~/
+  cat .gitconfig
+#+end_src
+
+#+RESULTS:
+: [user]
+: 	name = annelida
+: 	email = viqsiq@gmail.com
+
+Confirm that you have set the email address correctly in Git:
+
+#+begin_src sh
+git config user.email
+#+end_src
+
+#+RESULTS:
+: viqsiq@gmail.com
+
 Repositories store in folder ~/git. For the separating repositories by
 owners it might be reasonable to create local folders:
 
