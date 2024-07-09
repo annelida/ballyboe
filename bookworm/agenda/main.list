@@ -2961,7 +2961,7 @@ CLOCK: [2023-10-25 Wed 10:36]--[2023-10-25 Wed 11:16] =>  0:40
   (ie. never rebase master). You should never rebase master onto
   a feature branch.
 
-**** DELAY Git/Magit undo options.
+*** DELAY Git/Magit undo options.
 SCHEDULED: <2024-07-17 Wed ++2w>
 :PROPERTIES:
 :CATEGORY: Git
@@ -3038,6 +3038,11 @@ CLOCK: [2024-01-04 Thu 12:11]--[2024-01-04 Thu 12:13] =>  0:02
   rebase
   tag
   version
+
+
+*** Setting your commit email address
+[[https://docs.github.com/en/enterprise-server@3.9/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences/setting-your-commit-email-address]]
+https://docs.github.com/en/enterprise-server@3.9/account-and-profile/setting-up-and-managing-your-github-profile/managing-contribution-settings-on-your-profile/why-are-my-contributions-not-showing-up-on-my-profile
 
 ** [#C] Databases fundamentals
 SCHEDULED: <2024-07-09 Tue>
