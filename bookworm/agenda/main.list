@@ -3044,6 +3044,35 @@ CLOCK: [2024-01-04 Thu 12:11]--[2024-01-04 Thu 12:13] =>  0:02
 [[https://docs.github.com/en/enterprise-server@3.9/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences/setting-your-commit-email-address]]
 https://docs.github.com/en/enterprise-server@3.9/account-and-profile/setting-up-and-managing-your-github-profile/managing-contribution-settings-on-your-profile/why-are-my-contributions-not-showing-up-on-my-profile
 
+**** How to rewrite previous commit email or/and name?
+
+- Open the terminal or command prompt;
+- Navigate to the root directory of your Git repository;
+- Run the following command with the -f flag to force overwrite the
+  backup:
+
+#+begin_src sh
+git filter-branch -f --env-filter '
+OLD_EMAIL="oldemail@gmail.com"
+CORRECT_NAME="YourCorrectName"
+CORRECT_EMAIL="newemail@gmail.com"
+if [ "$GIT_COMMITTER_EMAIL" = "$OLD_EMAIL" ]
+then
+   export GIT_COMMITTER_NAME="$CORRECT_NAME"
+   export GIT_COMMITTER_EMAIL="$CORRECT_EMAIL"
+fi
+if [ "$GIT_AUTHOR_EMAIL" = "$OLD_EMAIL" ]
+then
+   export GIT_AUTHOR_NAME="$CORRECT_NAME"
+   export GIT_AUTHOR_EMAIL="$CORRECT_EMAIL"
+fi
+' --tag-name-filter cat -- --branches --tags
+#+end_src
+
+#+begin_src sh
+git push --force --all
+#+end_src
+
 ** [#C] Databases fundamentals
 SCHEDULED: <2024-07-09 Tue>
 :PROPERTIES:
