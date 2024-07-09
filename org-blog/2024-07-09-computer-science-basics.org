@@ -1,0 +1,41 @@
+#+BEGIN_EXPORT html
+---
+layout: page
+title: Learning of Computer Science
+tagline: " thorough grounding in the fundamentals"
+permalink: /CS/computer-science.html
+categories: [CS, data structures, algorithms]
+tags: [cs, data structures, algorithms]
+---
+#+END_EXPORT
+#+STARTUP: showall indent
+#+OPTIONS: tags:nil num:nil \n:nil @:t ::t |:t ^:{} _:{} *:t
+#+PROPERTY: header-args :exports both
+#+PROPERTY: header-args+ :results output pp
+#+PROPERTY: header-args+ :eval no-export
+#+TOC: headlines 2
+
+* Preamble
+
+Computer science is the study of computers and computational
+systems. It encompasses theoretical studies of algorithms, data
+structures, and the fundamental principles of computer operation, as
+well as practical applications in software development, system
+design, and artificial intelligence. Computer science is an
+interdisciplinary field that integrates aspects of mathematics,
+engineering, and even cognitive sciences to solve complex problems
+and innovate new technologies.
+
+* Key Areas of Computer Science:
+
+- Algorithms and Data Structures;
+- Theoretical Computer Science;
+- Programming languages and Compilers;
+- Software Engineering;
+- Systems and Networking;
+- Artificial Intelligence and Machine Learning;
+- Database Systems;
+- Human-Computer Interaction (HCI);
+- Cybersecurity.
+
+
