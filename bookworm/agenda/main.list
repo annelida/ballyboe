@@ -3304,7 +3304,25 @@ CLOCK: [2024-07-07 Sun 10:22]--[2024-07-07 Sun 11:28] =>  1:06
 CLOCK: [2024-07-07 Sun 09:19]--[2024-07-07 Sun 10:03] =>  0:44
 :END:
 https://jinja.palletsprojects.com/en/3.1.x/templates/#tests
-*** Comments
+*** [#A] Comments
+SCHEDULED: <2024-07-17 Wed ++1w>
+:PROPERTIES:
+:LAST_REPEAT: [2024-07-10 Wed 09:03]
+:END:
+- State "AMPLE"      from ""           [2024-07-10 Wed 09:03]
+- Note taken on [2024-07-10 Wed 09:01] \\
+  To comment-out part of a line in a template, use the comment syntax
+  which is by default set to {# ... #}.
+  #+begin_example
+  {# note: commented-out template because we no longer use this
+      {% for user in users %}
+          ...
+      {% endfor %}
+  #}
+  #+end_example
+:LOGBOOK:
+CLOCK: [2024-07-10 Wed 08:59]--[2024-07-10 Wed 09:03] =>  0:04
+:END:
 https://jinja.palletsprojects.com/en/3.1.x/templates/#comments
 *** Whitespace control
 https://jinja.palletsprojects.com/en/3.1.x/templates/#whitespace-control
