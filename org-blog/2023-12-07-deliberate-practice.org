@@ -25,13 +25,6 @@ SCHEDULED: <2024-05-20 Mon>
 
 #+begin_quote
 /"Practice makes perfect."/
-
-/“The master has failed more times than the beginner has even tried.”/
-— Stephen McCranie
-
-/“I hated every minute of training, but I said, “Don’t quit. Suffer now and
-live the rest of your life as a champion.”/
-— Muhammad Ali
 #+end_quote
 
 Practice makes proficient employees, and proficient employees make for
@@ -52,7 +45,7 @@ of competence and are able to do what you need to do, the skill
 becomes automatic. At best, you’re maintaining your abilities, but not
 improving them.
 
-** NOTES                                                          :noexport:
+
 
 * TODO Several definitions
 
@@ -131,3 +124,16 @@ Deliberate practice have no immediate reward. Important to be
 consistent and persistent.
 
 Delibarate practice help us to maximize our potential.
+
+
+** NOTES                                                          :noexport:
+
+#+begin_quote
+/“The master has failed more times than the beginner has even tried.”/
+— Stephen McCranie
+
+/“I hated every minute of training, but I said, “Don’t quit. Suffer
+now and live the rest of your life as a champion.”/ — Muhammad Ali
+#+end_quote
+
+
