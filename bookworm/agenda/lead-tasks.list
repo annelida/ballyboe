@@ -1003,6 +1003,11 @@ SCHEDULED: <2024-07-10 Wed ++1w>
 - State "AMPLE"      from ""           [2024-06-26 Wed 18:41]
 https://www.geeksforgeeks.org/bool-in-python/?ref=lbp
 
+*** [#A] Python ~bytearray()~ built-in function
+SCHEDULED: <2024-07-11 Thu>
+:LOGBOOK:
+CLOCK: [2024-07-10 Wed 15:08]--[2024-07-10 Wed 16:10] =>  1:02
+:END:
 ** [#B] Set of built-in methods defined for specific data types
 SCHEDULED: <2024-07-10 Wed>
 :LOGBOOK:

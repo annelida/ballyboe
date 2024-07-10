@@ -279,3 +279,58 @@ unittest.main(exit=False)
 : Ran 13 tests in 0.000s
 :
 : OK
+
+** ~bytearray()~ built-in function
+
+~bytearray()~ is used to create a mutable sequence of bytes. Byte
+arrays are useful when you need a mutable version of `bytes` objects
+and are commonly used for binary data manipulation. It represents an
+array of bytes, where each byte is an integer in the range 0 to 255.
+
+#+begin_src python
+  b = bytearray([65, 66, 67])
+  print(b)
+#+end_src
+
+#+RESULTS:
+: bytearray(b'ABC')
+
+#+begin_src python
+  b = bytearray("Hello", "utf-8")
+  print(b)
+#+end_src
+
+#+RESULTS:
+: bytearray(b'Hello')
+
+
+#+begin_src python :result none :session bytearray_function
+  import unittest
+  class TestBytearray(unittest.TestCase):
+
+      def test_create_from_iterable(self):
+          b = bytearray([65, 66, 67])
+          self.assertEqual(b, bytearray(b'ABC'))
+
+      def test_create_from_string(self):
+          b = bytearray("Hello", "utf-8")
+          self.assertEqual(b, bytearray(b'Hello'))
+
+      def test_create_from_bytes(self):
+          b = bytearray(b'Hello')
+          self.assertEqual(b, bytearray(b'Hello'))
+
+#+end_src
+
+#+RESULTS:
+
+#+begin_src python :session bytearray_function :export results
+unittest.main(exit=False)
+#+end_src
+
+#+RESULTS:
+: ...
+: ----------------------------------------------------------------------
+: Ran 3 tests in 0.000s
+: 
+: OK
