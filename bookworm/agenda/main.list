@@ -2377,8 +2377,30 @@ CLOCK: [2024-07-01 Mon 09:05]--[2024-07-01 Mon 09:34] =>  0:29
 :END:
 https://flask.palletsprojects.com/en/3.0.x/quickstart/#accessing-request-data
 *** [#A] Redirects and Errors
-SCHEDULED: <2024-07-10 Wed>
+SCHEDULED: <2024-07-17 Wed ++1w>
+:PROPERTIES:
+:LAST_REPEAT: [2024-07-10 Wed 08:48]
+:END:
+- State "AMPLE"      from ""           [2024-07-10 Wed 08:48]
+- Note taken on [2024-07-10 Wed 08:36] \\
+  To redirect a user to another endpoint, use the ~redirect()~
+  function. To abort a request early with an error code, use the
+  ~abort()~ function.
+
+  #+begin_example
+  from flask import abort, redirect, url_for
+
+  @app.route('/')
+  def index():
+      return redirect(url_for('login'))
+
+  @app.route('/login')
+  def login():
+      abort(401)
+      this_is_never_executed()
+  #+end_example
 :LOGBOOK:
+CLOCK: [2024-07-10 Wed 08:16]--[2024-07-10 Wed 08:38] =>  0:22
 CLOCK: [2024-07-08 Mon 09:16]--[2024-07-08 Mon 09:28] =>  0:12
 :END:
 https://flask.palletsprojects.com/en/3.0.x/quickstart/#redirects-and-errors
