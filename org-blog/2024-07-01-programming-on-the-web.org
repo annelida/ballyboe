@@ -72,7 +72,6 @@ unsecured network by encrypting the traffic between the client and the
 server, ensuring confidentiality and integrity of data. It is commonly
 used to access and manage remote servers and devices securely.
 
-
 * Request/response cycle
 
 - /Initiation/: The cycle begins when a client (e.g., a web browser)
@@ -131,7 +130,6 @@ used to access and manage remote servers and devices securely.
   applications.
 
 
-** What is Request Data
 * Request/response cycle in Flask
 
 When a user interacts with a web application, several steps occur
@@ -184,6 +182,26 @@ cycle. Let's break it down into simple steps.
 - The web browser processes the response and /displays/ the content to
   the user.
 
+
+
+
+
+
+* Conclusion
+
+This request/response cycle is a fundamental process in web
+communication, enabling the retrieval and presentation of web
+resources on the World Wide Web. Understanding this cycle is crucial
+for optimizing web performance, troubleshooting issues, and building
+efficient web applications.
+
+
+
+
+
+
+* Notes                                                            :noexport:
+
  When a client (like a web browser) interacts with a Flask web
  application, it sends an HTTP request. This request can contain
  various types of data:
@@ -196,7 +214,7 @@ cycle. Let's break it down into simple steps.
   - *Headers:* Metadata about the request, like content type or user
     agent.
 
-** The `request` Object
+  The `request` Object
 
   Flask provides a special object called `request` that contains all the
   information about the incoming HTTP request. You can access different
@@ -223,17 +241,3 @@ cycle. Let's break it down into simple steps.
      - Metadata about the request.
      - Access: `request.headers['Header-Name']` or
        `request.headers.get('Header-Name')`
-
-
-
-* Conclusion
-
-This request/response cycle is a fundamental process in web
-communication, enabling the retrieval and presentation of web
-resources on the World Wide Web. Understanding this cycle is crucial
-for optimizing web performance, troubleshooting issues, and building
-efficient web applications.
-
-
-
-
