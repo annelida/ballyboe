@@ -132,6 +132,57 @@ used to access and manage remote servers and devices securely.
 
 
 ** What is Request Data
+* Request/response cycle in Flask
+
+When a user interacts with a web application, several steps occur
+behind the scenes to process their request and deliver a
+response. This sequence of events is known as the request/response
+cycle. Let's break it down into simple steps.
+
+
+** Client Sends a Request
+
+- A user performs /an action/ in their web browser, such as navigating
+  to a URL or submitting a form;
+- The browser sends an /HTTP request/ to the server hosting the Flask
+  application. This request includes details like he URL, request
+  method (GET, POST, etc.), headers, and optionally data.
+
+
+** Flask Receives the Request
+
+- The Flask web server receives the incoming HTTP request;
+- Flask uses its /routing/ system to match the URL of the request to a
+  corresponding view function in your application.
+
+** View Function Processes the Request
+
+- The matched view function is executed. This function can:
+  - Extract data from the request (query parameters, form data, JSON,
+    etc.);
+  - Interact with databases or other back-end services;
+  - Perform business logic to process the request.
+
+
+** Generate a Response
+
+- After processing the request, the view function /generates a
+  response/. This can involve:
+  - Rendering an HTML template;
+  - Returning JSON data for an API;
+  - Redirecting to another URL;
+  - Sending any other type of content.
+- Flask creates an /HTTP response object/ that includes:
+  - Response Data: The content to be sent back (HTML, JSON, etc.);
+  - Status Code: HTTP status code (e.g., 200 OK, 404 Not Found)
+  - Headers: Metadata for the response, like content type.
+
+** Flask Sends the Response Back to the Client
+
+- Flask /sends the generated HTTP response/ back to the client's web
+  browser.
+- The web browser processes the response and /displays/ the content to
+  the user.
 
  When a client (like a web browser) interacts with a Flask web
  application, it sends an HTTP request. This request can contain
