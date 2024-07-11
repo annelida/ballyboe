@@ -154,17 +154,25 @@ retrieved.
 
 ** Graph
 
-/Graph/ is a non-linear data structure consisting of vertices and
-edges. The vertices are sometimes also referred to as nodes and the
-edges are lines or arcs that connect any two nodes in the graph.
+/Graph/ is a non-linear data structure which are collection of nodes
+(also called vertices) and edges (connections between nodes) that can
+represent various relationships and pathways. Graphs are used to model
+networks, such as social networks, transport systems, and the
+internet.
 
 The graphs components:
 
 - /Vertices/: These are the points or nodes in the graph where edges
-  begin ot end;
+  begin ot end.
+
+  Example: In a social network graph, a vertice could represent a
+  person.
 
 - /Edges/: Is simply a connection between two vertices, indicating a
   relationship or interaction between them.
+
+  Example: In a social network graph, an edge could represent a
+  friendship between two people.
 
 #+begin_example
 Imagine a game of football as a web of connections, where players are
