@@ -2406,8 +2406,30 @@ CLOCK: [2024-07-10 Wed 08:16]--[2024-07-10 Wed 08:38] =>  0:22
 CLOCK: [2024-07-08 Mon 09:16]--[2024-07-08 Mon 09:28] =>  0:12
 :END:
 https://flask.palletsprojects.com/en/3.0.x/quickstart/#redirects-and-errors
-*** [#A] About Responses
-SCHEDULED: <2024-07-11 Thu>
+*** [#B] About Responses
+SCHEDULED: <2024-07-13 Sat>
+- Note taken on [2024-07-11 Thu 07:34] \\
+  Response States
+
+  - Informational (1xx): The request was received, and the server is
+    continuing to process it.
+    Example: 100 Continue, 101 Switching Protocols;
+  - Successful (2xx): The request was successfully received, understood,
+    and accepted.
+    Example: 200 OK, 201 Created;
+  - Redirection (3xx): Further action needs to be taken by the client to
+    complete the request.
+    Example: 301 Moved Permanently, 302 Found;
+  - Client Error (4xx): The request contains bad syntax or cannot be
+    fulfilled.
+    Example: 400 Bad Request, 404 Not Found;
+  - Server Error (5xx): The server failed to fulfill an apparently valid
+    request.
+    Example: 500 Internal Server Error, 503 Service Unavailable.
+:LOGBOOK:
+CLOCK: [2024-07-11 Thu 08:00]--[2024-07-11 Thu 09:00] =>  1:00
+CLOCK: [2024-07-11 Thu 07:24]--[2024-07-11 Thu 07:44] =>  0:20
+:END:
 https://flask.palletsprojects.com/en/3.0.x/quickstart/#about-responses
 *** RAW Sessions
 https://flask.palletsprojects.com/en/3.0.x/quickstart/#sessions
