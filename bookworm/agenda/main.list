@@ -2432,7 +2432,52 @@ CLOCK: [2024-07-11 Thu 08:00]--[2024-07-11 Thu 09:00] =>  1:00
 CLOCK: [2024-07-11 Thu 07:24]--[2024-07-11 Thu 07:44] =>  0:20
 :END:
 https://flask.palletsprojects.com/en/3.0.x/quickstart/#about-responses
-*** RAW Sessions
+*** DP0 [#A] Sessions
+SCHEDULED: <2024-07-15 Mon>
+- Note taken on [2024-07-12 Fri 07:55] \\
+  Flask sessions are used to keep track of data between requests for a
+  specific user. Flask sessions are initialized when you create an
+  instance of a Flask app. They are stored client-side but are signed
+  with a secret key to prevent tampering.
+
+  #+begin_example
+  rom flask import Flask, session
+
+  app = Flask(__name__)
+  app.secret_key = 'super_secret_key'
+
+  @app.route('/set_session')
+  def set_session():
+      session['username'] = 'JohnDoe'
+      return 'Session data set!'
+
+  @app.route('/get_session')
+  def get_session():
+      username = session.get('username', 'Not logged in')
+      return f'Logged in as {username}'
+  #+end_example
+
+  Data stored in the session can be retrieved in subsequent requests
+  using the same session object.
+
+  #+begin_example
+  @app.route('/get_session')
+  def get_session():
+      username = session.get('username', 'Not logged in')
+      return f'Logged in as {username}'
+  #+end_example
+
+    Use the following command to quickly generate a value for
+  Flask.secret_key (or SECRET_KEY):
+
+  #+begin_example
+  $ python -c 'import secrets; print(secrets.token_hex())'
+  #+end_example
+
+:LOGBOOK:
+CLOCK: [2024-07-12 Fri 07:48]--[2024-07-12 Fri 08:03] =>  0:15
+CLOCK: [2024-07-12 Fri 07:30]--[2024-07-12 Fri 07:44] =>  0:14
+:END:
 https://flask.palletsprojects.com/en/3.0.x/quickstart/#sessions
 *** RAW Message Flashing
 https://flask.palletsprojects.com/en/3.0.x/quickstart/#message-flashing
