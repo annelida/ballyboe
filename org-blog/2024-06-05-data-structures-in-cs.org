@@ -189,22 +189,49 @@ Basic Operations on Graphs:
 
 ** Tree
 
-A /tree data structure/ is a collection of nodes that are connected by
-edges and has a hierarchical relationship between the nodes.
+A /Tree data structure/ is a collection of nodes that are connected by
+edges and has a hierarchical relationship between the nodes. Unlike
+/graphs/, trees do not contain cycles, meaning there is only one path
+between any two nodes.
 
-The key components and properties of a tree data structure include:
+*** The key components and properties of a tree data structure
 
-- Node: A basic unit of a tree that contains data and references to
+- /Node/: A basic unit of a tree that contains data and references to
   child nodes;
-- Root: The topmost node in a tree, which does not have a parent;
-- Edge: The connection between two nodes, indicating a parent-child
+- /Root/: The topmost node in a tree, which does not have a
+  parent. Every tree has exactly one root;
+- /Edge/: The connection between two nodes, indicating a parent-child
   relationship;
-- Leaf: A node that does not have any children;
-- Internal Node: A node that has at least one child;
-- Subtree: A tree consisting of a node and its descendants;
-- Height: The length of the longest path from the root to a leaf;
-- Depth: The length of the path from the root to a given node;
-- Degree: The number of children of a node;
+- /Leaf/: A node that does not have any children;
+- /Sibling/: Nodes that share the same parent;
+- /Internal Node/: A node that has at least one child;
+- /Subtree/: A tree consisting of a node and its descendants;
+- /Height/: The length of the longest path from the root to a leaf;
+- /Depth/: The number of edges from the root to a specific node;
+- /Degree/: The number of children of a node;
+
+
+***  Types of Trees
+
+- *Binary Tree*:
+  Each node has at most two children, known as the left child and
+  the right child;
+- *Binary Search Tree (BST)*:
+  A binary tree where the left subtree of a node contains only
+  nodes with values less than the node's value, and the right
+  subtree only nodes with values greater;
+- *Balanced Binary Tree*:
+  Any binary tree where the height difference between the left and
+  right subtrees of any node is not more than one;
+- *Complete Binary Tree*:
+  A binary tree in which all levels are fully filled except possibly
+  for the last level, which is filled from left to right;
+- *Full Binary Tree*:
+  A binary tree where every node except the leaves has exactly two
+  children;
+- *Trie*:
+  A tree used to store strings, where each node represents a character
+  of the string;
 
 
 
