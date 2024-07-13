@@ -239,6 +239,27 @@ between any two nodes.
   character of the string.
 
 
+*** Basic Tree Operations
+
+- *Inserting a Node*:
+  Adding a new node to the tree while maintaining the tree's
+  properties;
+- Deleting a Node*:
+  Removing a node from the tree while maintaining the tree's
+  properties;
+- *Searching for a Node*:
+  Finding a node within the tree;
+- *Traversing the Tree*:
+  Visiting all the nodes in a specific order:
+  - *Pre-Order Traversal**: Visit the root, then the left subtree,
+    then the right subtree;
+  - *In-Order Traversal**: Visit the left subtree, then the root,
+    then the right subtree;
+  - *Post-Order Traversal**: Visit the left subtree, then the
+    right subtree, then the root;
+  - *Level-Order Traversal**: Visit nodes level by level from left
+    to right, top to bottom.
+
 
 ** Heap data structure
 
