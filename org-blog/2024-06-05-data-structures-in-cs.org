@@ -232,6 +232,11 @@ between any two nodes.
 - *Trie*:
   A tree used to store strings, where each node represents a character
   of the string;
+- *N-ary Tree*:
+  Each node can have at most N children;
+- *Trie*:
+  A tree used to store strings, where each node represents a
+  character of the string.
 
 
 
