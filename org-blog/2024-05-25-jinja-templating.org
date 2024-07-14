@@ -234,6 +234,65 @@ Example Without Whitespace Control:
 #+RESULTS:
 : Loop item:0Loop item:1Loop item:2
 
+* Escaping
+
+To have Jinja ignore parts of a template that it would otherwise
+handle as variables or blocks, you can use several methods to escape
+or delimit the parts you want to be treated as plain text.
+
+- Using Raw Tags
+  Jinja provides ~{% raw %} ... {% endraw %}~ tags to escape parts of
+  the template. Anything within these tags will be rendered as plain
+  text and not processed by Jinja.
+
+#+begin_src python :results output
+  import jinja2
+  from jinja2 import Template
+
+  template_str = '''
+  <!DOCTYPE html>
+  <html lang="en">
+  <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>Jinja Raw Tags Example</title>
+  </head>
+  <body>
+      <h1>Welcome to Jinja Raw Tags Example</h1>
+      {% raw %}
+      <p>This will not be rendered as a Jinja variable: {{ user_input }}</p>
+      {% endraw %}
+      <p>This will be rendered as a Jinja variable: {{ user_input }}</p>
+  </body>
+  </html>
+  '''
+  template = Template(template_str)
+  output = template.render(user_input='Hello, World!')
+
+  print(output)
+
+#+end_src
+
+#+RESULTS:
+#+begin_example
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jinja Raw Tags Example</title>
+</head>
+<body>
+    <h1>Welcome to Jinja Raw Tags Example</h1>
+    
+    <p>This will not be rendered as a Jinja variable: {{ user_input }}</p>
+    
+    <p>This will be rendered as a Jinja variable: Hello, World!</p>
+</body>
+</html>
+#+end_example
+
 * Use Jinja With Flask
 
 When you’re in your active virtual environment, go on and check if
