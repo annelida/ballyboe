@@ -2503,8 +2503,25 @@ SCHEDULED: <2024-07-20 Sat ++1w>
 CLOCK: [2024-07-13 Sat 07:19]--[2024-07-13 Sat 08:06] =>  0:47
 :END:
 https://flask.palletsprojects.com/en/3.0.x/quickstart/#logging
-*** RAW [#A] Hooking in WSGI Middleware
-SCHEDULED: <2024-07-14 Sun>
+*** DP0 [#A] Hooking in WSGI Middleware
+SCHEDULED: <2024-07-15 Mon>
+- Note taken on [2024-07-14 Sun 07:42] \\
+  /WSGI/ stands for Web Server Gateway Interface. It is a specification
+  that defines how web servers communicate with web applications in
+  Python.
+
+  The /Gateway/ is the component that connects the web server (which
+  handles HTTP requests and responses) to the web application (which
+  processes these requests and generates responses).
+
+  - *WSGI Purpose:* Standardizes the interface between web servers and
+    Python web applications;
+  - *Components:* Involves a WSGI server and a WSGI application;
+  - *Workflow:* The server handles requests and hands them off to the
+    application, which processes them and sends responses back.
+:LOGBOOK:
+CLOCK: [2024-07-14 Sun 07:15]--[2024-07-14 Sun 08:05] =>  0:50
+:END:
 https://flask.palletsprojects.com/en/3.0.x/quickstart/#hooking-in-wsgi-middleware
 *** RAW Using Flask Extensions
 https://flask.palletsprojects.com/en/3.0.x/quickstart/#using-flask-extensions
