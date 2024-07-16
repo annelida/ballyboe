@@ -45,5 +45,18 @@ signed with a secret key to ensure data integrity.
   on the website.
 
 * How Sessions Works in Flask?
+
+Flask provides a simple way to manage sessions using cookies.
+/A cookie/ is a small piece of data stored on the user's
+browser. Flask uses cookies to store session data on the client side
+while keeping the data secure and tamper-proof using a secret key.
+
+- *Session Cookie:* A cookie stored in the user's browser that holds
+  a session identifier;
+- *Secret Key:* A key used by Flask to sign the session data, ensuring
+  it can detect any tampering;
+- *Session Object:* A global object in Flask used to store and
+  retrieve session data.
+
 * Example
 * Conclusion
