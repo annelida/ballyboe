@@ -3651,13 +3651,32 @@ CLOCK: [2024-06-25 Tue 10:54]--[2024-06-25 Tue 15:40] =>  4:46
 :END:
 ** AMPLE [#C] Browser Developer Tools
 SCHEDULED: <2024-07-03 Wed>
+** [#A] AWS EC2 t2.micro
+SCHEDULED: <2024-07-16 Tue>
+:LOGBOOK:
+CLOCK: [2024-07-16 Tue 09:18]--[2024-07-16 Tue 09:33] =>  0:15
+:END:
+- Note taken on [2024-07-16 Tue 09:05] \\
+  /Amazon Elastic Compute Cloud (Amazon EC2)/ is a core service provided
+  by Amazon Web Services (AWS) that offers /scalable/ computing capacity
+  in the cloud. It allows users to rent virtual servers, known as
+  instances, to run applications.
+
+  /Scalable/ refers to the ability of a system, network, process, or
+  organization to handle a growing amount of work, or its potential to
+  be enlarged to accommodate that growth.
+
+  /AWS EC2 t2.micro/ is a specific instance type within the Amazon
+  Elastic Compute Cloud (EC2) service, designed to provide a
+  cost-effective, low-level baseline performance with the ability to
+  burst to higher performance levels when needed.
 * Work
 :PROPERTIES:
 :CATEGORY: Job
 :END:
 
 ** Interview Preparation
-SCHEDULED: <2024-07-15 Mon>
+SCHEDULED: <2024-07-20 Sat>
 ** DELAY [#B] Portfolio creation
 SCHEDULED: <2024-08-21 Wed>
 ** DELAY [#A] CV elaboration
