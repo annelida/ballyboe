@@ -1,0 +1,23 @@
+#+BEGIN_EXPORT html
+---
+layout: page
+title: Flask Sessions
+tagline: " Effortless User State Management, Secure and Simple."
+permalink: /python/flask/sessions.html
+categories: [Python, Flask]
+tags: [python, flask, sessions]
+---
+#+END_EXPORT
+#+STARTUP: showall indent
+#+OPTIONS: tags:nil num:nil \n:nil @:t ::t |:t ^:{} _:{} *:t
+#+PROPERTY: header-args :exports both
+#+PROPERTY: header-args+ :results output pp
+#+PROPERTY: header-args+ :eval no-export
+#+TOC: headlines 2
+
+* Preamble
+* What are Sessions?
+* Why are Sessions Important?
+* How Sessions Works in Flask?
+* Example
+* Conclusion
