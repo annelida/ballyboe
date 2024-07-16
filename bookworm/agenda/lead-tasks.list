@@ -12,10 +12,12 @@
 #+TODO: DELAY LAG RETARD | BARE
 
 * Genuine source of knowledge
-SCHEDULED: <2024-07-15 Mon ++1d>
+SCHEDULED: <2024-07-17 Wed ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-07-14 Sun 18:21]
+:LAST_REPEAT: [2024-07-16 Tue 19:18]
 :END:
+- State "AMPLE"      from ""           [2024-07-16 Tue 19:18]
+- State "AMPLE"      from ""           [2024-07-15 Mon 19:40]
 - State "AMPLE"      from ""           [2024-07-14 Sun 18:21]
 - State "AMPLE"      from ""           [2024-07-13 Sat 17:52]
 - State "AMPLE"      from ""           [2024-07-12 Fri 19:32]
@@ -125,10 +127,12 @@ about how the program works are:
 --* INIT Conclusion*: the wisest decision is just to use it properly!
 
 * Deliberate practice
-SCHEDULED: <2024-07-15 Mon ++1d>
+SCHEDULED: <2024-07-17 Wed ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-07-14 Sun 18:21]
+:LAST_REPEAT: [2024-07-16 Tue 19:18]
 :END:
+- State "AMPLE"      from ""           [2024-07-16 Tue 19:18]
+- State "AMPLE"      from ""           [2024-07-15 Mon 19:40]
 - State "AMPLE"      from ""           [2024-07-14 Sun 18:21]
 - State "AMPLE"      from ""           [2024-07-13 Sat 17:52]
 - State "AMPLE"      from ""           [2024-07-12 Fri 19:32]
@@ -285,10 +289,11 @@ CLOCK: [2024-06-24 Mon 14:02]--[2024-06-24 Mon 14:03] =>  0:01
 :END:
 
 *** [#A] Text generation models
-SCHEDULED: <2024-07-16 Tue ++2d>
+SCHEDULED: <2024-07-18 Thu ++2d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-07-13 Sat 17:53]
+:LAST_REPEAT: [2024-07-15 Mon 19:45]
 :END:
+- State "AMPLE"      from ""           [2024-07-15 Mon 19:45]
 - State "AMPLE"      from ""           [2024-07-13 Sat 17:53]
 - State "AMPLE"      from ""           [2024-07-12 Fri 19:31]
 - State "AMPLE"      from ""           [2024-07-10 Wed 14:59]
@@ -368,10 +373,11 @@ CLOCK: [2024-07-07 Sun 08:43]--[2024-07-07 Sun 09:19] =>  0:36
 * Emacs
 
 ** [#B] Counsel
-SCHEDULED: <2024-07-15 Mon ++2d>
+SCHEDULED: <2024-07-18 Thu ++2d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-07-13 Sat 17:52]
+:LAST_REPEAT: [2024-07-16 Tue 19:18]
 :END:
+- State "AMPLE"      from ""           [2024-07-16 Tue 19:18]
 - State "AMPLE"      from ""           [2024-07-13 Sat 17:52]
 - State "AMPLE"      from ""           [2024-07-09 Tue 18:09]
 - Note taken on [2024-06-14 Fri 08:56] \\
@@ -388,7 +394,7 @@ CLOCK: [2024-06-14 Fri 07:52]--[2024-06-14 Fri 08:50] =>  0:58
 :END:
 [[elisp:(apropos-command "counsel")]]
 ** RAW [#B] Help about *Help*
-SCHEDULED: <2024-07-15 Mon ++1d>
+SCHEDULED: <2024-07-17 Wed ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-06-21 Fri 18:45]
 :CATEGORY: Emacs
@@ -474,11 +480,12 @@ Stack-Overflow suggestions and notes. Bear this fact in mind do your
 job as it would be done in a sure and fire manner.
 
 *** [#B] *Python* embedded help system
-SCHEDULED: <2024-07-15 Mon ++2d/3d>
+SCHEDULED: <2024-07-17 Wed ++2d/3d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-07-09 Tue 18:09]
+:LAST_REPEAT: [2024-07-15 Mon 19:41]
 :CATEGORY: Python
 :END:
+- State "AMPLE"      from ""           [2024-07-15 Mon 19:41]
 - State "AMPLE"      from ""           [2024-07-09 Tue 18:09]
 - State "AMPLE"      from ""           [2024-07-06 Sat 17:52]
 - State "AMPLE"      from ""           [2024-06-25 Tue 18:59]
@@ -579,7 +586,7 @@ Very straighforward system out from 10 initial keys to use in embedded
 *Help* browser.OA To use several *Help* buffers use =M-x raname uniquely=
 
 ** RAW [#B] Help about *info*
-SCHEDULED: <2024-07-15 Mon ++1d>
+SCHEDULED: <2024-07-17 Wed ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-06-21 Fri 18:45]
 :CATEGORY: Emacs
@@ -636,10 +643,12 @@ Mostly the similar approach with several quirks
 [[file:~/git/annelida/ballyboe/org-blog/2024-05-26-Emacs-help-about-help.org::*The list of commands, which began with C-h prefix][The list of commands, which began with C-h prefix and Info commands]]
 
 * Task decomposition
-SCHEDULED: <2024-07-15 Mon ++1d>
+SCHEDULED: <2024-07-17 Wed ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-07-14 Sun 18:21]
+:LAST_REPEAT: [2024-07-16 Tue 19:18]
 :END:
+- State "AMPLE"      from ""           [2024-07-16 Tue 19:18]
+- State "AMPLE"      from ""           [2024-07-15 Mon 19:41]
 - State "AMPLE"      from ""           [2024-07-14 Sun 18:21]
 - State "AMPLE"      from ""           [2024-07-13 Sat 17:52]
 - State "AMPLE"      from ""           [2024-07-12 Fri 19:32]
@@ -708,8 +717,8 @@ SCHEDULED: <2024-06-20 Thu>
 :LOGBOOK:
 CLOCK: [2024-06-17 Mon 09:14]--[2024-06-17 Mon 10:04] =>  0:50
 :END:
-** [#A] Data structures in CS
-SCHEDULED: <2024-07-15 Mon>
+** AMPLE [#B] Data structures in CS
+SCHEDULED: <2024-07-16 Tue>
 :PROPERTIES:
 :LAST_REPEAT: [2024-06-22 Sat 20:29]
 :END:
@@ -741,10 +750,11 @@ https://realpython.com/python-data-structures/#toc
 [[https://www.bbc.co.uk/bitesize/guides/zghbgk7/revision/2]]
 
 *** [#B] Dictionaries, Maps, and Hash Tables
-SCHEDULED: <2024-07-16 Tue ++1w>
+SCHEDULED: <2024-07-23 Tue ++1w>
 :PROPERTIES:
-:LAST_REPEAT: [2024-07-09 Tue 18:07]
+:LAST_REPEAT: [2024-07-16 Tue 19:19]
 :END:
+- State "AMPLE"      from ""           [2024-07-16 Tue 19:19]
 - State "AMPLE"      from ""           [2024-07-09 Tue 18:07]
 - State "AMPLE"      from ""           [2024-07-01 Mon 20:27]
 - State "AMPLE"      from ""           [2024-06-25 Tue 18:56]
@@ -753,10 +763,11 @@ SCHEDULED: <2024-07-16 Tue ++1w>
 [[https://realpython.com/python-hash-table/
 ]]
 *** [#A] Array Data Structures
-SCHEDULED: <2024-07-17 Wed ++1w>
+SCHEDULED: <2024-07-24 Wed ++1w>
 :PROPERTIES:
-:LAST_REPEAT: [2024-07-09 Tue 18:11]
+:LAST_REPEAT: [2024-07-16 Tue 19:20]
 :END:
+- State "AMPLE"      from ""           [2024-07-16 Tue 19:20]
 - State "AMPLE"      from ""           [2024-07-09 Tue 18:11]
 - State "AMPLE"      from ""           [2024-06-25 Tue 18:59]
 - State "AMPLE"      from ""           [2024-06-25 Tue 18:59]
@@ -803,10 +814,12 @@ CLOCK: [2024-07-11 Thu 09:10]--[2024-07-11 Thu 09:35] =>  0:25
 https://www.geeksforgeeks.org/tree-data-structure/?ref=ml_lbp
 
 *** DELAY [#C] Heap data structure
-SCHEDULED: <2024-07-17 Wed ++2d>
+SCHEDULED: <2024-07-21 Sun ++2d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-07-12 Fri 19:39]
+:LAST_REPEAT: [2024-07-16 Tue 19:22]
 :END:
+- State "AMPLE"      from "DELAY"      [2024-07-16 Tue 19:22]
+- State "AMPLE"      from "LAG"        [2024-07-16 Tue 19:22]
 - State "AMPLE"      from "DELAY"      [2024-07-12 Fri 19:39]
 - State "AMPLE"      from ""           [2024-07-12 Fri 19:39]
 - State "AMPLE"      from ""           [2024-07-09 Tue 18:09]
@@ -827,7 +840,7 @@ SCHEDULED: <2024-07-29 Mon>
 [[https://www.geeksforgeeks.org/complete-guide-to-string-data-structure/?ref=outind]]
 
 *** [#B] Composition of an article about Data Structures
-SCHEDULED: <2024-07-15 Mon>
+SCHEDULED: <2024-07-17 Wed>
 :LOGBOOK:
 CLOCK: [2024-07-10 Wed 07:19]--[2024-07-10 Wed 07:43] =>  0:24
 CLOCK: [2024-07-02 Tue 17:53]--[2024-07-02 Tue 18:41] =>  0:48
@@ -836,11 +849,12 @@ CLOCK: [2024-07-02 Tue 17:07]--[2024-07-02 Tue 17:41] =>  0:34
 
 [[elisp:(bookmark-jump-other-frame "2024-06-05-data-structures-in-cs.org")][Link]]
 
-** [#A] Algorithms in CS
-SCHEDULED: <2024-07-15 Mon ++1w>
+** [#B] Algorithms in CS
+SCHEDULED: <2024-07-23 Tue ++1w>
 :PROPERTIES:
-:LAST_REPEAT: [2024-06-25 Tue 18:59]
+:LAST_REPEAT: [2024-07-16 Tue 19:19]
 :END:
+- State "AMPLE"      from ""           [2024-07-16 Tue 19:19]
 - State "AMPLE"      from ""           [2024-06-25 Tue 18:59]
 - State "AMPLE"      from ""           [2024-06-09 Sun 19:01]
 :LOGBOOK:
@@ -854,10 +868,11 @@ https://www.geeksforgeeks.org/fundamentals-of-algorithms/?ref=shm
 [[https://www.bbc.co.uk/bitesize/guides/zpp49j6/revision/2]]
 
 *** [#B] Searching algorithms
-SCHEDULED: <2024-07-16 Tue ++2d>
+SCHEDULED: <2024-07-18 Thu ++2d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-06-25 Tue 18:56]
+:LAST_REPEAT: [2024-07-16 Tue 19:19]
 :END:
+- State "AMPLE"      from ""           [2024-07-16 Tue 19:19]
 - State "AMPLE"      from ""           [2024-06-25 Tue 18:56]
 - State "AMPLE"      from ""           [2024-06-20 Thu 15:49]
 :LOGBOOK:
@@ -870,10 +885,11 @@ https://www.geeksforgeeks.org/searching-algorithms/
 [[elisp:(bookmark-jump-other-frame "2024-06-06-algorithms-in-computer-science.org")][Link]]
 
 *** [#B] Sorting algorithms
-SCHEDULED: <2024-07-15 Mon ++1w>
+SCHEDULED: <2024-07-23 Tue ++1w>
 :PROPERTIES:
-:LAST_REPEAT: [2024-06-20 Thu 15:53]
+:LAST_REPEAT: [2024-07-16 Tue 19:19]
 :END:
+- State "AMPLE"      from ""           [2024-07-16 Tue 19:19]
 - State "AMPLE"      from "DELAY"      [2024-06-20 Thu 15:53]
 - State "AMPLE"      from "DELAY"      [2024-06-13 Thu 17:01]
 :LOGBOOK:
@@ -887,12 +903,13 @@ CLOCK: [2024-06-10 Mon 08:50]--[2024-06-10 Mon 09:15] =>  0:25
 https://www.geeksforgeeks.org/sorting-algorithms/
 [[https://www.geeksforgeeks.org/bubble-sort/]]
 
-** [#C] Algorithm's Time Complexity O(n)
-SCHEDULED: <2024-07-16 Tue ++1w>
+** [#B] Algorithm's Time Complexity O(n)
+SCHEDULED: <2024-07-23 Tue ++1w>
 :PROPERTIES:
 :CATEGORY: O(1)
-:LAST_REPEAT: [2024-07-09 Tue 18:10]
+:LAST_REPEAT: [2024-07-16 Tue 19:19]
 :END:
+- State "AMPLE"      from ""           [2024-07-16 Tue 19:19]
 - State "AMPLE"      from ""           [2024-07-09 Tue 18:10]
 - State "AMPLE"      from ""           [2024-06-25 Tue 18:59]
 - State "AMPLE"      from ""           [2024-06-13 Thu 17:13]
@@ -1013,20 +1030,22 @@ CLOCK: [2024-06-05 Wed 09:23]--[2024-06-05 Wed 09:36] =>  0:13
 [[file:~/git/annelida/ballyboe/org-blog/2024-06-05-python-built-in-function.org::+BEGIN_EXPORT html][Built-in functions]]
 
 *** [#C] Python ~any()~ function
-SCHEDULED: <2024-07-17 Wed ++1w>
+SCHEDULED: <2024-07-24 Wed ++1w>
 :PROPERTIES:
-:LAST_REPEAT: [2024-07-10 Wed 17:42]
+:LAST_REPEAT: [2024-07-16 Tue 19:21]
 :END:
+- State "AMPLE"      from ""           [2024-07-16 Tue 19:21]
 - State "AMPLE"      from ""           [2024-07-10 Wed 17:42]
 - State "AMPLE"      from ""           [2024-06-20 Thu 18:38]
 - State "AMPLE"      from ""           [2024-06-12 Wed 16:55]
 https://www.geeksforgeeks.org/python-any-function/?ref=lbp
 
 *** [#C] Python ~ascii()~ built-in function
-SCHEDULED: <2024-07-17 Wed ++1w>
+SCHEDULED: <2024-07-24 Wed ++1w>
 :PROPERTIES:
-:LAST_REPEAT: [2024-07-10 Wed 17:42]
+:LAST_REPEAT: [2024-07-16 Tue 19:21]
 :END:
+- State "AMPLE"      from ""           [2024-07-16 Tue 19:21]
 - State "AMPLE"      from ""           [2024-07-10 Wed 17:42]
 :LOGBOOK:
 CLOCK: [2024-06-26 Wed 15:03]--[2024-06-26 Wed 16:30] =>  1:27
@@ -1048,14 +1067,14 @@ CLOCK: [2024-07-10 Wed 15:00]--[2024-07-10 Wed 15:05] =>  0:05
 - State "AMPLE"      from ""           [2024-06-26 Wed 18:41]
 https://www.geeksforgeeks.org/bool-in-python/?ref=lbp
 
-*** [#A] Python ~bytearray()~ built-in function
-SCHEDULED: <2024-07-15 Mon>
+*** [#B] Python ~bytearray()~ built-in function
+SCHEDULED: <2024-07-17 Wed>
 :LOGBOOK:
 CLOCK: [2024-07-10 Wed 15:08]--[2024-07-10 Wed 16:10] =>  1:02
 :END:
 
 ** [#B] Set of built-in methods defined for specific data types
-SCHEDULED: <2024-07-15 Mon>
+SCHEDULED: <2024-07-17 Wed>
 :LOGBOOK:
 CLOCK: [2024-06-19 Wed 10:55]--[2024-06-19 Wed 11:37] =>  0:42
 CLOCK: [2024-06-19 Wed 09:22]--[2024-06-19 Wed 10:19] =>  0:57
