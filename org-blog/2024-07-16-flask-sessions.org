@@ -59,4 +59,57 @@ while keeping the data secure and tamper-proof using a secret key.
   retrieve session data.
 
 * Example
+
+#+begin_src sh :results verbatim
+  tree ~/git/annelida/ballyboe/practice/session_flask
+#+end_src
+
+#+RESULTS:
+: /home/vikky/git/annelida/ballyboe/practice/session_flask
+: └── app.py
+:
+: 1 directory, 1 file
+
+#+begin_src sh
+  cd ~/git/annelida/ballyboe/practice/session_flask
+  cat app.py
+#+end_src
+
+#+RESULTS:
+#+begin_example
+from flask import Flask, session, redirect, url_for, request
+
+app = Flask(__name__)
+app.secret_key = 'supersecretkey'  # Secret key used to sign session cookies
+
+@app.route('/')
+def index():
+    if 'username' in session:
+        username = session['username']
+        return f'Logged in as {username} <br><a href="/logout">Logout</a>'
+    return 'You are not logged in <br><a href="/login">Login</a>'
+
+@app.route('/login', methods=['GET', 'POST'])
+def login():
+    if request.method == 'POST':
+        session['username'] = request.form['username']
+        return redirect(url_for('index'))
+    return '''
+        <form method="post">
+            <p><input type=text name=username>
+            <p><button type=submit>Login</button>
+        </form>
+    '''
+
+@app.route('/logout')
+def logout():
+    session.pop('username', None)
+    return redirect(url_for('index'))
+
+if __name__ == '__main__':
+      app.run(debug=True)
+
+
+#+end_example
+
 * Conclusion
