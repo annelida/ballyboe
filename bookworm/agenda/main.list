@@ -2461,7 +2461,7 @@ CLOCK: [2024-07-11 Thu 07:24]--[2024-07-11 Thu 07:44] =>  0:20
 :END:
 https://flask.palletsprojects.com/en/3.0.x/quickstart/#about-responses
 *** DP0 [#A] Sessions
-SCHEDULED: <2024-07-17 Wed>
+SCHEDULED: <2024-07-18 Thu>
 - Note taken on [2024-07-12 Fri 07:55] \\
   Flask sessions are used to keep track of data between requests for a
   specific user. Flask sessions are initialized when you create an
@@ -2503,6 +2503,7 @@ SCHEDULED: <2024-07-17 Wed>
   #+end_example
 
 :LOGBOOK:
+CLOCK: [2024-07-17 Wed 07:26]--[2024-07-17 Wed 08:55] =>  1:29
 CLOCK: [2024-07-16 Tue 17:20]--[2024-07-16 Tue 18:14] =>  0:54
 CLOCK: [2024-07-16 Tue 09:59]--[2024-07-16 Tue 11:17] =>  1:18
 CLOCK: [2024-07-15 Mon 07:51]--[2024-07-15 Mon 08:44] =>  0:53
