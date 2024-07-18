@@ -29,6 +29,7 @@
 (setq google-translate-translation-directions-alist '(("en" . "ru")))
 (setq google-translate-default-source-language "en")
 (setq google-translate-default-target-language "ru")
+(setq google-translate-show-phonetic t)
 
 (require 'mw-thesaurus)
 
