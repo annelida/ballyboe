@@ -120,7 +120,11 @@ CLOCK: [2023-10-14 Sat 13:30]--[2023-10-14 Sat 14:03] =>  0:33
 :END:
 **** AMPLE Transcript "Sex and the city"
 SCHEDULED: <2024-02-10 Sat>
-*** Grammar
+*** [#A] Grammar
+SCHEDULED: <2024-07-19 Fri>
+
+[[elisp:(bookmark-jump-other-frame "English-grammar.org")][Link]]
+
 **** BBC Learning English
 ***** DELAY [#C] Inderect questions
 SCHEDULED: <2024-08-12 Mon ++2w>
@@ -449,10 +453,14 @@ SCHEDULED: <2024-07-29 Mon ++2w>
 SCHEDULED: <2024-04-30 Tue>
 [[https://www.bbc.co.uk/sounds/play/p0hj2w1w]]
 
-** Linux
+** [#A] Linux
+SCHEDULED: <2024-07-19 Fri>
 :PROPERTIES:
 :CATEGORY: Linux
 :END:
+
+[[elisp:(bookmark-jump-other-frame "linux.org")][Link]]
+
 *** DELAY [#A] MAN ssh
 SCHEDULED: <2024-07-23 Tue ++1w>
 :PROPERTIES:
@@ -1184,16 +1192,436 @@ SCHEDULED: <2024-05-12 Sun>
   * link to original file. For create soft link use command ln -s
 
 *** [#C] I 386 architecture commands
+** [#A] Git/Magit
+SCHEDULED: <2024-07-19 Fri>
+:PROPERTIES:
+:CATEGORY: Git
+:END:
+[[elisp:(bookmark-jump-other-frame "git.org")][Link]]
+
+*** AMPLE Git/Magit merge and rebase concept.
+SCHEDULED: <2024-07-12 Fri>
+:PROPERTIES:
+:LAST_REPEAT: [2023-11-16 Thu 15:34]
+:CATEGORY: Git
+:END:
+
+- State "DONE"       from "ACTIVE"     [2023-11-16 Thu 15:34]
+- State "DONE"       from "ACTIVE"     [2023-11-16 Thu 15:34]
+
+  - Note taken on [2023-10-23 Mon 09:48] \\
+
+  A branch is an independent development line containing a pointer
+   — or the branch head — to the most recent commit in the code.
+  A single Git repository can track many branches, but your working
+  tree centers on just one. The head points to the tip (the latest commit)
+  of a branch.
+  In Git, a branch is a new/separate version of the main repository.
+
+  Let's say you have a large project, and you need to update
+  the design on it.
+
+  With a new branch called NEW-DISIGN, edit the code directly without
+  impacting the main branch.
+
+  Let’s say that at the same time an error was discovered in the
+  project that requires be urgent fixed.
+
+  Create a new branch from the main project called ERROR-FIX.
+  Fix the error and merge the ERROR-FIX branch with
+  the main branch.
+
+  When go back to the NEW_DESIGN branch, and finish the work there.
+  Merge the NEW-DISIGN branch with main.
+
+  $ git checkout -  command used to check out a branch
+  $ git checkout -b - will create a new branch, and move to it.
+
+Magit:
+b n (magit-branch-create)
+
+- Note taken on [2023-10-23 Mon 10:40] \\
+  You can describe of the HEAD as the "current branch".
+  When you switch branches
+
+  $ git checkout
+
+  the HEAD revision changes to point to the tip of the new branch.
+
+  You can see what HEAD points to by doing:
+
+  $ cat .git/HEAD
+
+  ref: refs/heads/main
+
+:LOGBOOK:
+CLOCK: [2023-10-23 Mon 08:47]--[2023-10-23 Mon 11:08] =>  2:21
+:END:
+
+- Note taken on [2023-10-25 Wed 10:50] \\
+  Git tags description
+
+  Tags are used as markers for significant points in the project timeline,
+  whereas branches are separate lines of development that will eventually
+  be merged back into the main application code.
+  A tag is an object referencing a specific commit within the project history,
+  similar to chapter markers in a book.
+  This allows you to switch to the tagged version of the codebase to see what
+  the code looked like when the tag was created and, if necessary,
+  revert to that specific codebase version.
+
+  $ git tag
+  command allows to create, list, delete, and verify tags.
+
+  Deleting a tag does not affect the code in your repository -
+  it just removes the tag label.
+:LOGBOOK:
+CLOCK: [2023-10-25 Wed 10:36]--[2023-10-25 Wed 11:16] =>  0:40
+:END:
+- Note taken on [2023-10-24 Tue 10:38] \\
+  Both of these commands are designed to integrate changes
+  from one branch into another branch. They just do it in very
+  different ways.
+
+  Merging is nice because it’s a non-destructive operation.
+  The existing branches are not changed in any way. This avoids
+  all of the potential pitfalls of rebasing.
+
+  The major benefit of rebasing is that you get a much cleaner
+  project history.
+
+  The golden rule of git rebase is to never use it on public branches.
+  (ie. never rebase master). You should never rebase master onto
+  a feature branch.
+
+*** DELAY Git/Magit undo options.
+SCHEDULED: <2024-07-25 Thu ++2w>
+:PROPERTIES:
+:CATEGORY: Git
+:LAST_REPEAT: [2024-06-18 Tue 19:16]
+:END:
+- State "AMPLE"      from "DELAY"      [2024-06-18 Tue 19:16]
+- State "AMPLE"      from "LAG"        [2024-06-18 Tue 19:16]
+- State "DONE"       from "Active"     [2024-01-04 Thu 12:46]
+- Note taken on [2024-01-04 Thu 12:12] \\
+  If you just want to undo commit then:
+  #+begin_example
+  $ git revert <commit id>
+  #+end_example
+  This will create a commit opposite to the commit id you provided.
+
+  If you want the branch to appear like the commit never took place
+  you can reset head of current branch to previous commit with
+  #+begin_example
+  $ git reset --hard HEAD^
+  #+end_example
+
+  And then send it to Github with
+  #+begin_example
+  $ git push --force
+  #+end_example
+
+  ~git reset --soft~ this option moves HEAD back to the specified
+  commit, undoes all the changes made between where HEAD was pointing
+  and the specified commit, and saves all the changes in the index. In
+  other words, Git re-adds the changes as staged, ready to be committed
+  again.
+
+  ~git reset --mixed~ will undo all the changes between HEAD and the
+  specified commit, but will preserve your changes in the Working
+  Directory, as unstaged changes.
+
+  ~git reset --hard~ it will automatically discard all the changes made
+   between HEAD and the specified commit.
+:LOGBOOK:
+CLOCK: [2024-01-04 Thu 12:11]--[2024-01-04 Thu 12:13] =>  0:02
+:END:
+- Note taken on [2023-10-23 Mon 08:47] \\
+  If you want to redo that commit, make the additional
+  changes you forgot, stage them, and commit again using
+  the --amend option
+
+  Git:
+  $ git commit --amend
+  Magit:
+  c a C-c C-c
+
+  Unstaging a Staged File
+  Git:
+  use "git reset HEAD <file>..." to unstage
+  use "git restore --staged <file>..." to unstage
+  Magit:
+  u (magit-unstage-file)
+
+  Unmodifying a Modified File
+  Git:
+  use "git checkout -- <file>..." to discard changes in
+  working directory
+  use "git restore <file>..." to discard changes in
+  working directory
+  Magit:
+  k (magit-discard)
+
+  [[https://git-scm.com/book/en/v2/Git-Basics-Undoing-Things][Git undoing things]]
+
+
+- Note taken on [2023-10-23 Mon 08:09] \\
+  branch
+  head
+  rebase
+  tag
+  version
+
+*** Setting your commit email address
+[[https://docs.github.com/en/enterprise-server@3.9/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences/setting-your-commit-email-address]]
+https://docs.github.com/en/enterprise-server@3.9/account-and-profile/setting-up-and-managing-your-github-profile/managing-contribution-settings-on-your-profile/why-are-my-contributions-not-showing-up-on-my-profile
+
+**** How to rewrite previous commit email or/and name?
+
+- Open the terminal or command prompt;
+- Navigate to the root directory of your Git repository;
+- Run the following command with the -f flag to force overwrite the
+  backup:
+
+#+begin_src sh
+git filter-branch -f --env-filter '
+OLD_EMAIL="oldemail@gmail.com"
+CORRECT_NAME="YourCorrectName"
+CORRECT_EMAIL="newemail@gmail.com"
+if [ "$GIT_COMMITTER_EMAIL" = "$OLD_EMAIL" ]
+then
+   export GIT_COMMITTER_NAME="$CORRECT_NAME"
+   export GIT_COMMITTER_EMAIL="$CORRECT_EMAIL"
+fi
+if [ "$GIT_AUTHOR_EMAIL" = "$OLD_EMAIL" ]
+then
+   export GIT_AUTHOR_NAME="$CORRECT_NAME"
+   export GIT_AUTHOR_EMAIL="$CORRECT_EMAIL"
+fi
+' --tag-name-filter cat -- --branches --tags
+#+end_src
+
+#+begin_src sh
+git push --force --all
+#+end_src
+** Emacs
+:PROPERTIES:
+:CATEGORY: Emacs
+:END:
+
+*** AMPLE [#C] Eww commands brief description
+SCHEDULED: <2024-07-03 Wed>
+
+The three column table: Key, command, description
+
+*** DELAY [#B] Emacs' regexp
+SCHEDULED: <2024-07-25 Thu>
+- Note taken on [2024-05-28 Tue 08:28] \\
+  M-x re-builder command provides a convenient interface for creating
+  and testing regular expressions.  As you edit the regexp, all its
+  matches in the target buffer are highlighted. Each parenthesized
+  sub-expression is shown in a distinct face, making it easier to verify
+  even complex regexps.
+- Note taken on [2024-05-28 Tue 08:10] \\
+  [[info:emacs#Regexps][emacs#Regexps]]
+:LOGBOOK:
+CLOCK: [2024-05-29 Wed 09:07]--[2024-05-29 Wed 09:32] =>  0:25
+CLOCK: [2024-05-29 Wed 08:35]--[2024-05-29 Wed 08:46] =>  0:11
+CLOCK: [2024-05-29 Wed 07:59]--[2024-05-29 Wed 08:08] =>  0:09
+CLOCK: [2024-05-28 Tue 07:58]--[2024-05-28 Tue 08:29] =>  0:31
+:END:
+
+*** AMPLE [#C] How to save windows configuration in Emacs frame?
+SCHEDULED: <2024-05-29 Wed>
+- Note taken on [2024-05-28 Tue 07:41] \\
+  [[info:emacs#Frame Commands][emacs#Frame Commands]]
+- Note taken on [2024-05-28 Tue 07:36] \\
+  [[info:emacs#Creating Frames][emacs#Creating Frames]]
+- Note taken on [2024-05-28 Tue 07:28] \\
+  C-x r f <register> to store the frame layout into a register;
+  C-x r j <register> can restore it.
+
+  C-x r w <register> to store the windows configuration into a register;
+  C-x r j <register> can restore it.
+:LOGBOOK:
+CLOCK: [2024-05-28 Tue 07:23]--[2024-05-28 Tue 07:47] =>  0:24
+:END:
+
+*** AMPLE [#C] Emacs desktops
+SCHEDULED: <2024-05-29 Wed>
+- Note taken on [2024-05-28 Tue 07:54] \\
+  [[info:emacs#Saving Emacs Sessions][emacs#Saving Emacs Sessions]]
+:LOGBOOK:
+CLOCK: [2024-05-28 Tue 07:47]--[2024-05-28 Tue 07:54] =>  0:07
+:END:
+** Org-mode
+:PROPERTIES:
+:CATEGORY: Org-mode
+:END:
+
+*** DELAY [#B] Org-mode, org-babel markup rules
+SCHEDULED: <2024-07-25 Thu ++2w>
+:PROPERTIES:
+:LAST_REPEAT: [2024-07-11 Thu 20:21]
+:END:
+- State "AMPLE"      from "LAG"        [2024-07-11 Thu 20:21]
+- State "AMPLE"      from "DELAY"      [2024-06-12 Wed 17:16]
+- State "AMPLE"      from "LAG"        [2024-06-12 Wed 17:16]
+- State "AMPLE"      from "DELAY"      [2024-01-29 Mon 15:59]
+- State "DONE"       from "ACTIVE"     [2023-11-16 Thu 15:33]
+- Note taken on [2023-11-14 Tue 15:13] \\
+  [[info:org#Markup for Rich Contents][org#Markup for Rich Contents]]
+  [[info:org#Emphasis and Monospace][org#Emphasis and Monospace]]
+
+  [[https://orgmode.org/worg/org-contrib/babel/examples/fontify-src-code-blocks.html]]]]
+:LOGBOOK:
+CLOCK: [2023-11-14 Tue 15:06]--[2023-11-14 Tue 15:48] =>  0:42
+:END:
+
+*** DELAY Org-Babel configuration.
+SCHEDULED: <2024-07-26 Fri ++2w>
+:PROPERTIES:
+:LAST_REPEAT: [2024-04-22 Mon 19:36]
+:END:
+- State "BARE"       from "RETARD"     [2024-04-22 Mon 19:36]
+- State "AMPLE"      from "LAG"        [2024-04-22 Mon 19:35]
+- State "DONE"       from "Active"     [2023-11-22 Wed 08:46]
+- State "DONE"       from "ACTIVE"     [2023-11-08 Wed 09:29]
+- Note taken on [2023-10-27 Fri 08:25] \\
+  I had problems with running Python3 code using org-babel.
+  At first when I run my code I saw the error:
+  "Program Python is not found."
+
+  I fixed this error when I installed the package "python-is-python3"
+  on my Debian:
+
+  #+begin_src shell :results output
+    apt-get install python-is-python3
+  #+end_src
+
+  Is a package which makes Python 3 become the default version in
+  Ubuntu/Debian instead of Python 2.
+
+  The second problem was that my output was always "None" when I run
+  my code.  My source code block looked:
+
+  #+begin_src python
+  print("hello")
+  #+end_src
+
+  #+RESULTS:
+  : None
+
+  I fixed it when added ==:results output==
+
+  #+begin_src python :results output
+  print("hello")
+  #+end_src
+  #+RESULTS:
+  : hello
+:LOGBOOK:
+CLOCK: [2023-10-26 Thu 07:54]--[2023-10-26 Thu 08:52] =>  0:58
+:END:
+[[https://www.youtube.com/watch?v=kkqVTDbfYp4][org-babel configuration]]
+[[https://orgmode.org/manual/Structure-Templates.html][org templates structure]]
+
+*** LAG Org-drill concept
+SCHEDULED: <2024-09-21 Sat ++2w>
+:PROPERTIES:
+:CATEGORY: Drill
+:LAST_REPEAT: [2024-07-12 Fri 19:47]
+:END:
+- State "AMPLE"      from "DELAY"      [2024-07-12 Fri 19:47]
+:LOGBOOK:
+CLOCK: [2023-12-03 Sun 12:32]--[2023-12-03 Sun 13:04] =>  0:32
+CLOCK: [2023-11-30 Thu 15:36]--[2023-12-01 Fri 07:55] => 16:19
+CLOCK: [2023-11-28 Tue 17:27]--[2023-11-28 Tue 18:27] =>  1:00
+CLOCK: [2023-11-28 Tue 08:00]--[2023-11-28 Tue 08:58] =>  0:58
+:END:
+https://orgmode.org/worg/org-contrib/org-drill.html
+https://orgmode.org/worg/org-contrib/org-drill.html#org51fd4f9
+
+*** DELAY Org-capture templates usage
+
+*** AMPLE Org-capture
+[[file:~/git/annelida/ballyboe/org-blog/2024-04-14-emacs-org-capture-creation-and-expansion.org::*Preamble][Org-capture creation and expansion]]
+
+:PROPERTIES:
+:LAST_REPEAT: [2024-01-25 Thu 11:48]
+:CATEGORY: Emacs
+:END:
+- Note taken on [2024-04-13 Sat 10:30] \\
+  During the working process usually I must to gathering text from
+  different sources for futher elaboration. One from existing
+  approaches for automation this task is org-capture template usage.
+
+  To create org-capture templete I will use Emacs built-in Help system:
+  [[info:org#Template expansion][org#Template expansion]]
+
+  and working org-capture templates from 0--key repository:
+
+  org-capture-templates.el
+- Note taken on [2024-02-02 Fri 10:29] \\
+  Template elements
+
+  ‘(file "path/to/file")’ Text will be placed at the beginning or end of
+  that file.
+
+  ‘entry’ An Org mode node, with a headline. Will be filed as the child
+  of the target entry or as a top-level entry.The target file should be
+  an Org file.
+
+  ‘plain’
+  Text to be inserted as it is.
+
+  ‘%c’ Current kill ring head.
+
+  ‘%x’ Content of the X clipboard.
+
+   ‘%?’  After completing the template, position point here.
+
+  #+begin_example
+  	;;
+	("n" "Notes" entry (file+headline
+        "~/git/annelida/ballyboe/org-blog/2024-01-25-Task-management.org"
+         "Preface"))
+  #+end_example
+- State "AMPLE"      from "DELAY"      [2024-01-25 Thu 11:48]
+- State "AMPLE"      from "DELAY"      [2024-01-25 Thu 11:48]
+- State "DONE"       from "Active"     [2023-12-13 Wed 17:47]
+- State "DONE"       from "Active"     [2023-12-04 Mon 11:20]
+:LOGBOOK:
+CLOCK: [2024-04-17 Wed 08:49]--[2024-04-17 Wed 10:06] =>  1:17
+CLOCK: [2024-04-16 Tue 10:08]--[2024-04-16 Tue 10:28] =>  0:20
+CLOCK: [2024-04-15 Mon 10:25]--[2024-04-15 Mon 11:10] =>  0:45
+CLOCK: [2024-04-15 Mon 08:43]--[2024-04-15 Mon 10:24] =>  1:41
+CLOCK: [2024-04-14 Sun 08:55]--[2024-04-14 Sun 10:11] =>  1:16
+CLOCK: [2024-04-13 Sat 08:46]--[2024-04-13 Sat 09:01] =>  0:15
+CLOCK: [2024-02-06 Tue 10:08]--[2024-02-06 Tue 11:11] =>  1:03
+CLOCK: [2024-02-02 Fri 08:55]--[2024-02-02 Fri 09:59] =>  1:04
+CLOCK: [2024-01-25 Thu 14:40]--[2024-01-25 Thu 15:02] =>  0:22
+CLOCK: [2024-01-25 Thu 11:49]--[2024-01-25 Thu 11:51] =>  0:02
+CLOCK: [2023-12-08 Fri 10:26]--[2023-12-09 Sat 10:19] => 23:53
+CLOCK: [2023-12-03 Sun 13:04]--[2023-12-03 Sun 13:32] =>  0:28
+:END:
+[[info:org#Capture templates][org#Capture templates]]
+
+*** AMPLE [#C] Org-mode keys
+SCHEDULED: <2024-07-03 Wed>
+:LOGBOOK:
+CLOCK: [2024-05-29 Wed 15:38]--[2024-05-29 Wed 16:37] =>  0:59
+:END:
+Three column table: key, name, description
+[[https://orgmode.org/manual/Structure-Editing.html]]
 ** Python
 :PROPERTIES:
 :CATEGORY: Python
 :END:
 *** Documentation
 :PROPERTIES:
-:CATEGORY: Docs
+:CATEGORY: Python
 :LAST_REPEAT: [2024-04-17 Wed 19:20]
 :END:
-
 **** DELAY Tutorial
 SCHEDULED: <2024-07-24 Wed ++2d>
 :PROPERTIES:
@@ -2622,223 +3050,217 @@ CLOCK: [2024-05-16 Thu 07:12]--[2024-05-16 Thu 07:27] =>  0:15
 :END:
 
 *** DELAY [#B] Request/Response cycle example with Code
-SCHEDULED: <2024-07-19 Fri ++1w>
+SCHEDULED: <2024-08-02 Fri ++1w>
 :PROPERTIES:
-:LAST_REPEAT: [2024-07-12 Fri 19:30]
+:LAST_REPEAT: [2024-07-18 Thu 21:17]
 :END:
 
+- State "AMPLE"      from "DELAY"      [2024-07-18 Thu 21:17]
+- State "AMPLE"      from "LAG"        [2024-07-18 Thu 21:17]
 - State "AMPLE"      from "DELAY"      [2024-07-12 Fri 19:30]
 
-** Emacs
+** [#A] Jinja2
+SCHEDULED: <2024-07-19 Fri>
 :PROPERTIES:
-:CATEGORY: Emacs
+:CATEGORY: Jinja2
 :END:
 
-*** AMPLE [#C] Eww commands brief description
-SCHEDULED: <2024-07-03 Wed>
+[[elisp:(bookmark-jump-other-frame "jinja.org")][Basics]]
 
-The three column table: Key, command, description
-
-*** DELAY [#B] Emacs' regexp
-SCHEDULED: <2024-07-25 Thu>
-- Note taken on [2024-05-28 Tue 08:28] \\
-  M-x re-builder command provides a convenient interface for creating
-  and testing regular expressions.  As you edit the regexp, all its
-  matches in the target buffer are highlighted. Each parenthesized
-  sub-expression is shown in a distinct face, making it easier to verify
-  even complex regexps.
-- Note taken on [2024-05-28 Tue 08:10] \\
-  [[info:emacs#Regexps][emacs#Regexps]]
+- Note taken on [2024-05-01 Wed 11:11] \\
+  https://realpython.com/primer-on-jinja-templating/
+  https://jinja.palletsprojects.com/en/3.1.x/templates/
 :LOGBOOK:
-CLOCK: [2024-05-29 Wed 09:07]--[2024-05-29 Wed 09:32] =>  0:25
-CLOCK: [2024-05-29 Wed 08:35]--[2024-05-29 Wed 08:46] =>  0:11
-CLOCK: [2024-05-29 Wed 07:59]--[2024-05-29 Wed 08:08] =>  0:09
-CLOCK: [2024-05-28 Tue 07:58]--[2024-05-28 Tue 08:29] =>  0:31
+CLOCK: [2024-07-18 Thu 14:19]--[2024-07-18 Thu 15:02] =>  0:43
+CLOCK: [2024-05-22 Wed 08:11]--[2024-05-22 Wed 08:47] =>  0:36
+CLOCK: [2024-05-16 Thu 09:51]--[2024-05-16 Thu 10:20] =>  0:29
+CLOCK: [2024-05-08 Wed 07:17]--[2024-05-08 Wed 07:17] =>  0:00
+CLOCK: [2024-05-03 Fri 08:45]--[2024-05-03 Fri 09:42] =>  0:57
+CLOCK: [2024-05-02 Thu 07:10]--[2024-05-02 Thu 08:44] =>  1:34
+CLOCK: [2024-05-01 Wed 11:01]--[2024-05-01 Wed 11:26] =>  0:25
 :END:
 
-*** AMPLE [#C] How to save windows configuration in Emacs frame?
-SCHEDULED: <2024-05-29 Wed>
-- Note taken on [2024-05-28 Tue 07:41] \\
-  [[info:emacs#Frame Commands][emacs#Frame Commands]]
-- Note taken on [2024-05-28 Tue 07:36] \\
-  [[info:emacs#Creating Frames][emacs#Creating Frames]]
-- Note taken on [2024-05-28 Tue 07:28] \\
-  C-x r f <register> to store the frame layout into a register;
-  C-x r j <register> can restore it.
-
-  C-x r w <register> to store the windows configuration into a register;
-  C-x r j <register> can restore it.
-:LOGBOOK:
-CLOCK: [2024-05-28 Tue 07:23]--[2024-05-28 Tue 07:47] =>  0:24
-:END:
-
-*** AMPLE [#C] Emacs desktops
-SCHEDULED: <2024-05-29 Wed>
-- Note taken on [2024-05-28 Tue 07:54] \\
-  [[info:emacs#Saving Emacs Sessions][emacs#Saving Emacs Sessions]]
-:LOGBOOK:
-CLOCK: [2024-05-28 Tue 07:47]--[2024-05-28 Tue 07:54] =>  0:07
-:END:
-
-** Org-mode
+*** Synopsis
+SCHEDULED: <2024-07-23 Tue ++1w>
 :PROPERTIES:
-:CATEGORY: Org-mode
+:LAST_REPEAT: [2024-07-15 Mon 19:42]
 :END:
-
-*** DELAY [#B] Org-mode, org-babel markup rules
-SCHEDULED: <2024-07-25 Thu ++2w>
-:PROPERTIES:
-:LAST_REPEAT: [2024-07-11 Thu 20:21]
-:END:
-- State "AMPLE"      from "LAG"        [2024-07-11 Thu 20:21]
-- State "AMPLE"      from "DELAY"      [2024-06-12 Wed 17:16]
-- State "AMPLE"      from "LAG"        [2024-06-12 Wed 17:16]
-- State "AMPLE"      from "DELAY"      [2024-01-29 Mon 15:59]
-- State "DONE"       from "ACTIVE"     [2023-11-16 Thu 15:33]
-- Note taken on [2023-11-14 Tue 15:13] \\
-  [[info:org#Markup for Rich Contents][org#Markup for Rich Contents]]
-  [[info:org#Emphasis and Monospace][org#Emphasis and Monospace]]
-
-  [[https://orgmode.org/worg/org-contrib/babel/examples/fontify-src-code-blocks.html]]]]
+- State "AMPLE"      from ""           [2024-07-15 Mon 19:42]
+- State "AMPLE"      from ""           [2024-07-08 Mon 19:46]
+- State "AMPLE"      from ""           [2024-07-01 Mon 20:27]
+- State "AMPLE"      from ""           [2024-06-23 Sun 19:03]
+- State "AMPLE"      from ""           [2024-06-09 Sun 19:03]
+- State "AMPLE"      from ""           [2024-06-09 Sun 19:03]
+- State "AMPLE"      from ""           [2024-06-03 Mon 19:54]
+- State "AMPLE"      from ""           [2024-05-24 Fri 19:54]
 :LOGBOOK:
-CLOCK: [2023-11-14 Tue 15:06]--[2023-11-14 Tue 15:48] =>  0:42
+CLOCK: [2024-05-24 Fri 11:34]--[2024-05-24 Fri 11:50] =>  0:16
 :END:
-
-*** DELAY Org-Babel configuration.
-SCHEDULED: <2024-07-26 Fri ++2w>
+https://jinja.palletsprojects.com/en/3.1.x/templates/#synopsis
+*** [#C] Template file extension
+SCHEDULED: <2024-07-29 Mon ++2w>
 :PROPERTIES:
-:LAST_REPEAT: [2024-04-22 Mon 19:36]
+:LAST_REPEAT: [2024-07-14 Sun 18:24]
 :END:
-- State "BARE"       from "RETARD"     [2024-04-22 Mon 19:36]
-- State "AMPLE"      from "LAG"        [2024-04-22 Mon 19:35]
-- State "DONE"       from "Active"     [2023-11-22 Wed 08:46]
-- State "DONE"       from "ACTIVE"     [2023-11-08 Wed 09:29]
-- Note taken on [2023-10-27 Fri 08:25] \\
-  I had problems with running Python3 code using org-babel.
-  At first when I run my code I saw the error:
-  "Program Python is not found."
-
-  I fixed this error when I installed the package "python-is-python3"
-  on my Debian:
-
-  #+begin_src shell :results output
-    apt-get install python-is-python3
-  #+end_src
-
-  Is a package which makes Python 3 become the default version in
-  Ubuntu/Debian instead of Python 2.
-
-  The second problem was that my output was always "None" when I run
-  my code.  My source code block looked:
-
-  #+begin_src python
-  print("hello")
-  #+end_src
-
-  #+RESULTS:
-  : None
-
-  I fixed it when added ==:results output==
+- State "AMPLE"      from ""           [2024-07-14 Sun 18:24]
+- State "AMPLE"      from ""           [2024-07-01 Mon 08:22]
+- State "AMPLE"      from ""           [2024-06-13 Thu 17:12]
+- State "AMPLE"      from ""           [2024-05-30 Thu 15:49]
+- Note taken on [2024-05-30 Thu 08:55] \\
+  Any file can be loaded as a template, regardless of file extension.
+  For identifying templates is that they are in a templates folder,
+  regardless of extension. This is a common layout for projects.
+:LOGBOOK:
+CLOCK: [2024-05-30 Thu 08:51]--[2024-05-30 Thu 08:56] =>  0:05
+CLOCK: [2024-05-25 Sat 07:24]--[2024-05-25 Sat 09:06] =>  1:42
+CLOCK: [2024-05-24 Fri 11:50]--[2024-05-24 Fri 12:29] =>  0:39
+:END:
+https://jinja.palletsprojects.com/en/3.1.x/templates/#template-file-extension
+*** [#B] Variables
+SCHEDULED: <2024-07-27 Sat ++2w>
+:PROPERTIES:
+:LAST_REPEAT: [2024-07-13 Sat 17:52]
+:END:
+- State "AMPLE"      from ""           [2024-07-13 Sat 17:52]
+- State "AMPLE"      from ""           [2024-06-27 Thu 19:21]
+- State "AMPLE"      from ""           [2024-06-13 Thu 17:12]
+- State "AMPLE"      from ""           [2024-05-30 Thu 15:49]
+- Note taken on [2024-05-30 Thu 09:12] \\
+  In Jinja, variables are placeholders in your templates that get
+  replaced with values passed from your application. Jinja variables
+  are enclosed in double curly braces {{ }}. You can use these
+  variables to insert dynamic content into your HTML or other
+  text-based formats.
 
   #+begin_src python :results output
-  print("hello")
+    from jinja2 import Template
+    tm = Template("The {{ animal }} is great!")
+    result = tm.render(animal = "Cat")
+    print(result)
   #+end_src
+
   #+RESULTS:
-  : hello
+  : The, Cat is great!
+  Jinja allows you to access items in dictionaries and lists.
+
+  #+begin_src python :results output
+    from jinja2 import Template
+    person = { 'name': 'Person', 'age': 34 }
+    tm = Template("My name is {{ per.name }} and I am {{ per.age }}")
+    msg = tm.render(per=person)
+    print(msg)
+  #+end_src
+
+  #+RESULTS:
+  : My name is Person and I am 34
+
 :LOGBOOK:
-CLOCK: [2023-10-26 Thu 07:54]--[2023-10-26 Thu 08:52] =>  0:58
+CLOCK: [2024-05-30 Thu 09:06]--[2024-05-30 Thu 10:00] =>  0:54
+CLOCK: [2024-05-25 Sat 09:06]--[2024-05-25 Sat 09:06] =>  0:00
 :END:
-[[https://www.youtube.com/watch?v=kkqVTDbfYp4][org-babel configuration]]
-[[https://orgmode.org/manual/Structure-Templates.html][org templates structure]]
-
-*** LAG Org-drill concept
-SCHEDULED: <2024-09-21 Sat ++2w>
+https://jinja.palletsprojects.com/en/3.1.x/templates/#variables
+*** DELAY [#B] Filters
+SCHEDULED: <2024-07-25 Thu ++1w>
 :PROPERTIES:
-:CATEGORY: Drill
-:LAST_REPEAT: [2024-07-12 Fri 19:47]
+:LAST_REPEAT: [2024-07-07 Sun 18:50]
 :END:
-- State "AMPLE"      from "DELAY"      [2024-07-12 Fri 19:47]
-:LOGBOOK:
-CLOCK: [2023-12-03 Sun 12:32]--[2023-12-03 Sun 13:04] =>  0:32
-CLOCK: [2023-11-30 Thu 15:36]--[2023-12-01 Fri 07:55] => 16:19
-CLOCK: [2023-11-28 Tue 17:27]--[2023-11-28 Tue 18:27] =>  1:00
-CLOCK: [2023-11-28 Tue 08:00]--[2023-11-28 Tue 08:58] =>  0:58
-:END:
-https://orgmode.org/worg/org-contrib/org-drill.html
-https://orgmode.org/worg/org-contrib/org-drill.html#org51fd4f9
-
-*** DELAY Org-capture templates usage
-
-*** AMPLE Org-capture
-[[file:~/git/annelida/ballyboe/org-blog/2024-04-14-emacs-org-capture-creation-and-expansion.org::*Preamble][Org-capture creation and expansion]]
-
-:PROPERTIES:
-:LAST_REPEAT: [2024-01-25 Thu 11:48]
-:CATEGORY: Emacs
-:END:
-- Note taken on [2024-04-13 Sat 10:30] \\
-  During the working process usually I must to gathering text from
-  different sources for futher elaboration. One from existing
-  approaches for automation this task is org-capture template usage.
-
-  To create org-capture templete I will use Emacs built-in Help system:
-  [[info:org#Template expansion][org#Template expansion]]
-
-  and working org-capture templates from 0--key repository:
-
-  org-capture-templates.el
-- Note taken on [2024-02-02 Fri 10:29] \\
-  Template elements
-
-  ‘(file "path/to/file")’ Text will be placed at the beginning or end of
-  that file.
-
-  ‘entry’ An Org mode node, with a headline. Will be filed as the child
-  of the target entry or as a top-level entry.The target file should be
-  an Org file.
-
-  ‘plain’
-  Text to be inserted as it is.
-
-  ‘%c’ Current kill ring head.
-
-  ‘%x’ Content of the X clipboard.
-
-   ‘%?’  After completing the template, position point here.
+- State "AMPLE"      from ""           [2024-07-07 Sun 18:50]
+- State "AMPLE"      from ""           [2024-06-27 Thu 19:19]
+- Note taken on [2024-06-27 Thu 18:07] \\
+  Variables can be modified by filters. Filters are separated from the
+  variable by a pipe symbol (|) and may have optional arguments in
+  parentheses. Multiple filters can be chained.
 
   #+begin_example
-  	;;
-	("n" "Notes" entry (file+headline
-        "~/git/annelida/ballyboe/org-blog/2024-01-25-Task-management.org"
-         "Preface"))
+   <!-- Applying 'upper' filter to a string variable -->
+      <p>Original: {{ greeting }}</p>
+      <p>Uppercase: {{ greeting | upper }}</p>
   #+end_example
-- State "AMPLE"      from "DELAY"      [2024-01-25 Thu 11:48]
-- State "AMPLE"      from "DELAY"      [2024-01-25 Thu 11:48]
-- State "DONE"       from "Active"     [2023-12-13 Wed 17:47]
-- State "DONE"       from "Active"     [2023-12-04 Mon 11:20]
-:LOGBOOK:
-CLOCK: [2024-04-17 Wed 08:49]--[2024-04-17 Wed 10:06] =>  1:17
-CLOCK: [2024-04-16 Tue 10:08]--[2024-04-16 Tue 10:28] =>  0:20
-CLOCK: [2024-04-15 Mon 10:25]--[2024-04-15 Mon 11:10] =>  0:45
-CLOCK: [2024-04-15 Mon 08:43]--[2024-04-15 Mon 10:24] =>  1:41
-CLOCK: [2024-04-14 Sun 08:55]--[2024-04-14 Sun 10:11] =>  1:16
-CLOCK: [2024-04-13 Sat 08:46]--[2024-04-13 Sat 09:01] =>  0:15
-CLOCK: [2024-02-06 Tue 10:08]--[2024-02-06 Tue 11:11] =>  1:03
-CLOCK: [2024-02-02 Fri 08:55]--[2024-02-02 Fri 09:59] =>  1:04
-CLOCK: [2024-01-25 Thu 14:40]--[2024-01-25 Thu 15:02] =>  0:22
-CLOCK: [2024-01-25 Thu 11:49]--[2024-01-25 Thu 11:51] =>  0:02
-CLOCK: [2023-12-08 Fri 10:26]--[2023-12-09 Sat 10:19] => 23:53
-CLOCK: [2023-12-03 Sun 13:04]--[2023-12-03 Sun 13:32] =>  0:28
-:END:
-[[info:org#Capture templates][org#Capture templates]]
 
-*** AMPLE [#C] Org-mode keys
-SCHEDULED: <2024-07-03 Wed>
+  #+begin_example
+  <!-- Applying 'replace' filter to a string -->
+      <p>Greeting with replacement: {{ greeting | replace('World', 'Jinja') }}</p>
+  #+end_example
 :LOGBOOK:
-CLOCK: [2024-05-29 Wed 15:38]--[2024-05-29 Wed 16:37] =>  0:59
+CLOCK: [2024-06-27 Thu 16:20]--[2024-06-27 Thu 17:37] =>  1:17
 :END:
-Three column table: key, name, description
-[[https://orgmode.org/manual/Structure-Editing.html]]
+https://jinja.palletsprojects.com/en/3.1.x/templates/#filters
+*** DELAY [#B] Tests
+SCHEDULED: <2024-07-25 Thu ++1w>
+:PROPERTIES:
+:LAST_REPEAT: [2024-07-07 Sun 11:53]
+:END:
+- State "AMPLE"      from ""           [2024-07-07 Sun 11:53]
+:LOGBOOK:
+CLOCK: [2024-07-07 Sun 10:22]--[2024-07-07 Sun 11:28] =>  1:06
+CLOCK: [2024-07-07 Sun 09:19]--[2024-07-07 Sun 10:03] =>  0:44
+:END:
+https://jinja.palletsprojects.com/en/3.1.x/templates/#tests
+*** [#A] Comments
+SCHEDULED: <2024-07-24 Wed ++1w>
+:PROPERTIES:
+:LAST_REPEAT: [2024-07-16 Tue 19:20]
+:END:
+- State "AMPLE"      from ""           [2024-07-16 Tue 19:20]
+- State "AMPLE"      from ""           [2024-07-10 Wed 09:03]
+- Note taken on [2024-07-10 Wed 09:01] \\
+  To comment-out part of a line in a template, use the comment syntax
+  which is by default set to {# ... #}.
+  #+begin_example
+  {# note: commented-out template because we no longer use this
+      {% for user in users %}
+          ...
+      {% endfor %}
+  #}
+  #+end_example
+:LOGBOOK:
+CLOCK: [2024-07-10 Wed 08:59]--[2024-07-10 Wed 09:03] =>  0:04
+:END:
+https://jinja.palletsprojects.com/en/3.1.x/templates/#comments
+*** DELAY [#B] Whitespace control
+SCHEDULED: <2024-07-20 Sat ++1w>
+:PROPERTIES:
+:LAST_REPEAT: [2024-07-13 Sat 08:52]
+:END:
+- State "AMPLE"      from "DELAY"      [2024-07-13 Sat 08:52]
+:LOGBOOK:
+CLOCK: [2024-07-13 Sat 08:15]--[2024-07-13 Sat 08:51] =>  0:36
+CLOCK: [2024-07-12 Fri 08:25]--[2024-07-12 Fri 08:56] =>  0:31
+:END:
+https://jinja.palletsprojects.com/en/3.1.x/templates/#whitespace-control
+*** DELAY [#B] Escaping
+SCHEDULED: <2024-07-25 Thu>
+:LOGBOOK:
+CLOCK: [2024-07-14 Sun 08:15]--[2024-07-14 Sun 09:31] =>  1:16
+:END:
+https://jinja.palletsprojects.com/en/3.1.x/templates/#escaping
+*** AMPLE Navbar 'active' link
+SCHEDULED: <2024-06-04 Tue>
+:LOGBOOK:
+CLOCK: [2024-05-31 Fri 09:53]--[2024-05-31 Fri 10:42] =>  0:49
+:END:
+[[https://stackoverflow.com/questions/67351167/one-flask-with-multiple-page]]
+
+*** [#B] Rendering Jinja template variable
+SCHEDULED: <2024-07-20 Sat ++1w>
+:PROPERTIES:
+:LAST_REPEAT: [2024-07-13 Sat 08:14]
+:END:
+- State "AMPLE"      from ""           [2024-07-13 Sat 08:14]
+- State "AMPLE"      from ""           [2024-07-06 Sat 17:51]
+- State "AMPLE"      from ""           [2024-06-27 Thu 19:21]
+- State "AMPLE"      from ""           [2024-06-20 Thu 18:43]
+- State "AMPLE"      from ""           [2024-06-13 Thu 17:12]
+- State "AMPLE"      from ""           [2024-06-06 Thu 19:41]
+- State "AMPLE"      from ""           [2024-05-27 Mon 18:21]
+:LOGBOOK:
+CLOCK: [2024-05-26 Sun 09:56]--[2024-05-26 Sun 10:29] =>  0:33
+CLOCK: [2024-05-26 Sun 09:19]--[2024-05-26 Sun 09:41] =>  0:22
+:END:
+
+[[file:~/git/annelida/ballyboe/org-blog/2024-05-25-jinja-templating.org::*Rendering Jinja template variable][Rendering Jinja template variable]]
+
+*** AMPLE [#A] Adding Static Files to application
 ** Jekyll
 *** Org-Jekyll - article about initial config
 SCHEDULED: <2024-08-13 Tue ++1m>
@@ -3045,6 +3467,9 @@ SCHEDULED: <2024-07-27 Sat ++4w>
 *******
 ** Git/Magit
 
+** [#A] Git/Magit
+SCHEDULED: <2024-07-19 Fri>
+[[elisp:(bookmark-jump-other-frame "git.org")][Link]]
 *** AMPLE Git/Magit merge and rebase concept.
 SCHEDULED: <2024-07-12 Fri>
 :PROPERTIES:
