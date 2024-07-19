@@ -12,10 +12,11 @@
 #+TODO: DELAY LAG RETARD | BARE
 
 * Genuine source of knowledge
-SCHEDULED: <2024-07-18 Thu ++1d>
+SCHEDULED: <2024-07-19 Fri ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-07-17 Wed 19:48]
+:LAST_REPEAT: [2024-07-18 Thu 21:17]
 :END:
+- State "AMPLE"      from ""           [2024-07-18 Thu 21:17]
 - State "AMPLE"      from ""           [2024-07-17 Wed 19:48]
 - State "AMPLE"      from ""           [2024-07-16 Tue 19:18]
 - State "AMPLE"      from ""           [2024-07-15 Mon 19:40]
@@ -128,10 +129,11 @@ about how the program works are:
 --* INIT Conclusion*: the wisest decision is just to use it properly!
 
 * Deliberate practice
-SCHEDULED: <2024-07-18 Thu ++1d>
+SCHEDULED: <2024-07-19 Fri ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-07-17 Wed 19:48]
+:LAST_REPEAT: [2024-07-18 Thu 21:17]
 :END:
+- State "AMPLE"      from ""           [2024-07-18 Thu 21:17]
 - State "AMPLE"      from ""           [2024-07-17 Wed 19:48]
 - State "AMPLE"      from ""           [2024-07-16 Tue 19:18]
 - State "AMPLE"      from ""           [2024-07-15 Mon 19:40]
@@ -376,10 +378,11 @@ CLOCK: [2024-07-07 Sun 08:43]--[2024-07-07 Sun 09:19] =>  0:36
 * Emacs
 
 ** [#B] Counsel
-SCHEDULED: <2024-07-18 Thu ++2d>
+SCHEDULED: <2024-07-20 Sat ++2d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-07-16 Tue 19:18]
+:LAST_REPEAT: [2024-07-18 Thu 21:17]
 :END:
+- State "AMPLE"      from ""           [2024-07-18 Thu 21:17]
 - State "AMPLE"      from ""           [2024-07-16 Tue 19:18]
 - State "AMPLE"      from ""           [2024-07-13 Sat 17:52]
 - State "AMPLE"      from ""           [2024-07-09 Tue 18:09]
@@ -397,7 +400,7 @@ CLOCK: [2024-06-14 Fri 07:52]--[2024-06-14 Fri 08:50] =>  0:58
 :END:
 [[elisp:(apropos-command "counsel")]]
 ** RAW [#B] Help about *Help*
-SCHEDULED: <2024-07-18 Thu ++1d>
+SCHEDULED: <2024-07-19 Fri ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-06-21 Fri 18:45]
 :CATEGORY: Emacs
@@ -590,7 +593,7 @@ Very straighforward system out from 10 initial keys to use in embedded
 *Help* browser.OA To use several *Help* buffers use =M-x raname uniquely=
 
 ** RAW [#B] Help about *info*
-SCHEDULED: <2024-07-18 Thu ++1d>
+SCHEDULED: <2024-07-19 Fri ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-06-21 Fri 18:45]
 :CATEGORY: Emacs
@@ -647,10 +650,11 @@ Mostly the similar approach with several quirks
 [[file:~/git/annelida/ballyboe/org-blog/2024-05-26-Emacs-help-about-help.org::*The list of commands, which began with C-h prefix][The list of commands, which began with C-h prefix and Info commands]]
 
 * Task decomposition
-SCHEDULED: <2024-07-18 Thu ++1d>
+SCHEDULED: <2024-07-19 Fri ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-07-17 Wed 19:48]
+:LAST_REPEAT: [2024-07-18 Thu 21:17]
 :END:
+- State "AMPLE"      from ""           [2024-07-18 Thu 21:17]
 - State "AMPLE"      from ""           [2024-07-17 Wed 19:48]
 - State "AMPLE"      from ""           [2024-07-16 Tue 19:18]
 - State "AMPLE"      from ""           [2024-07-15 Mon 19:41]
@@ -713,9 +717,12 @@ And *notice* the details, please!
 https://www.youtube.com/watch?v=bEfYm8sAaQg
 
 * [#A] Computer Science
-SCHEDULED: <2024-07-18 Thu>
+SCHEDULED: <2024-07-19 Fri>
 :PROPERTIES:
 :CATEGORY: CS
+:END:
+:LOGBOOK:
+CLOCK: [2024-07-18 Thu 07:51]--[2024-07-18 Thu 08:48] =>  0:57
 :END:
 [[elisp:(bookmark-jump-other-frame "computer-science.org")][CS basics]]
 

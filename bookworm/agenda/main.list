@@ -219,10 +219,11 @@ CLOCK: [2024-03-05 Tue 10:30]--[2024-03-05 Tue 13:41] =>  3:11
 :END:
 [https://www.bbc.co.uk/learningenglish/english/course/lower-intermediate/unit-4/session-2/activity-4]
 ***** 'Have to' and 'must'
-SCHEDULED: <2024-07-19 Fri ++2w>
+SCHEDULED: <2024-08-02 Fri ++2w>
 :PROPERTIES:
-:LAST_REPEAT: [2024-07-06 Sat 17:49]
+:LAST_REPEAT: [2024-07-18 Thu 21:17]
 :END:
+- State "AMPLE"      from ""           [2024-07-18 Thu 21:17]
 - State "AMPLE"      from ""           [2024-07-06 Sat 17:49]
 - State "AMPLE"      from ""           [2024-06-20 Thu 18:49]
 - State "AMPLE"      from ""           [2024-06-06 Thu 19:42]
@@ -321,10 +322,11 @@ CLOCK: [2024-04-25 Thu 07:11]--[2024-04-25 Thu 07:40] =>  0:29
 :END:
 [https://learnenglish.britishcouncil.org/grammar/english-grammar-reference/demonstratives]
 ****** [#B] 'one' and 'ones'
-SCHEDULED: <2024-07-19 Fri ++2d>
+SCHEDULED: <2024-07-21 Sun ++2d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-07-16 Tue 19:20]
+:LAST_REPEAT: [2024-07-18 Thu 21:17]
 :END:
+- State "AMPLE"      from ""           [2024-07-18 Thu 21:17]
 - State "AMPLE"      from ""           [2024-07-16 Tue 19:20]
 - State "AMPLE"      from ""           [2024-07-14 Sun 18:23]
 - State "AMPLE"      from ""           [2024-07-13 Sat 08:14]
@@ -420,10 +422,11 @@ CLOCK: [2024-07-03 Wed 10:25]--[2024-07-03 Wed 10:50] =>  0:25
 
 *** The English We Speak
 **** Rinse repeat
-SCHEDULED: <2024-07-19 Fri ++2w>
+SCHEDULED: <2024-08-02 Fri ++2w>
 :PROPERTIES:
-:LAST_REPEAT: [2024-07-06 Sat 17:49]
+:LAST_REPEAT: [2024-07-18 Thu 21:17]
 :END:
+- State "AMPLE"      from ""           [2024-07-18 Thu 21:17]
 - State "AMPLE"      from ""           [2024-07-06 Sat 17:49]
 - State "AMPLE"      from ""           [2024-06-20 Thu 18:49]
 - State "AMPLE"      from ""           [2024-06-06 Thu 19:42]
@@ -728,11 +731,12 @@ CLOCK: [2024-04-02 Tue 10:27]--[2024-04-02 Tue 10:29] =>  0:02
 :END:
 
 *** Controls
-SCHEDULED: <2024-07-19 Fri ++2w>
+SCHEDULED: <2024-08-02 Fri ++2w>
 :PROPERTIES:
 :CATEGORY: GNOME
-:LAST_REPEAT: [2024-07-06 Sat 17:49]
+:LAST_REPEAT: [2024-07-18 Thu 21:17]
 :END:
+- State "AMPLE"      from ""           [2024-07-18 Thu 21:17]
 - State "AMPLE"      from ""           [2024-07-06 Sat 17:49]
 - State "AMPLE"      from ""           [2024-06-20 Thu 18:50]
 - State "AMPLE"      from ""           [2024-06-06 Thu 19:42]
@@ -2656,9 +2660,11 @@ CLOCK: [2024-04-19 Fri 11:13]--[2024-04-19 Fri 11:53] =>  0:40
 :END:
 
 [[file:~/git/annelida/ballyboe/org-blog/2023-11-07-Python-venv.org::*Creating a Python virtual environment on a Debian-based system][Python virtual environment on a Debian-based system]]
-** [#A] Python Programming Language basics
-SCHEDULED: <2024-07-18 Thu>
+*** [#A] Python Programming Language basics
+SCHEDULED: <2024-07-19 Fri>
 :LOGBOOK:
+CLOCK: [2024-07-19 Fri 08:27]
+CLOCK: [2024-07-18 Thu 08:55]--[2024-07-18 Thu 09:30] =>  0:35
 CLOCK: [2024-05-23 Thu 10:14]--[2024-05-23 Thu 11:05] =>  0:51
 CLOCK: [2024-05-23 Thu 09:43]--[2024-05-23 Thu 10:04] =>  0:21
 CLOCK: [2024-05-22 Wed 07:31]--[2024-05-22 Wed 07:59] =>  0:28
@@ -2669,24 +2675,23 @@ CLOCK: [2024-05-20 Mon 07:47]--[2024-05-20 Mon 08:47] =>  1:00
 CLOCK: [2024-05-17 Fri 08:20]--[2024-05-17 Fri 08:52] =>  0:32
 CLOCK: [2024-04-20 Sat 16:10]--[2024-04-20 Sat 16:25] =>  0:15
 :END:
+
 [[file:~/git/annelida/ballyboe/org-blog/2024-04-20-python-programming-language.org::*Preamble][Python programming language]]
 [[https://realpython.com/python-keywords/]]
 [[https://en.wikipedia.org/wiki/Von_Neumann_architecture]]
 
 [[elisp:(bookmark-jump-other-frame "python.org")][Python basics]]
-*** AMPLE [#A] Print() function
+
+**** AMPLE [#A] Print() function
 SCHEDULED: <2024-06-25 Tue>
 :LOGBOOK:
 CLOCK: [2024-06-25 Tue 09:28]--[2024-06-25 Tue 10:48] =>  1:20
 :END:
 ** [#A] Flask
-SCHEDULED: <2024-07-18 Thu>
+SCHEDULED: <2024-07-19 Fri>
 :PROPERTIES:
 :CATEGORY: Flask
 :END:
-
-[[elisp:(bookmark-jump-other-frame "flask.org")][Basics]]
-
 *** DELAY A Minimal Application
 SCHEDULED: <2024-08-07 Wed ++2w>
 :PROPERTIES:
@@ -3079,7 +3084,6 @@ CLOCK: [2024-05-03 Fri 08:45]--[2024-05-03 Fri 09:42] =>  0:57
 CLOCK: [2024-05-02 Thu 07:10]--[2024-05-02 Thu 08:44] =>  1:34
 CLOCK: [2024-05-01 Wed 11:01]--[2024-05-01 Wed 11:26] =>  0:25
 :END:
-
 *** Synopsis
 SCHEDULED: <2024-07-23 Tue ++1w>
 :PROPERTIES:
@@ -3465,8 +3469,6 @@ SCHEDULED: <2024-07-27 Sat ++4w>
 ***** Linux
 
 *******
-** Git/Magit
-
 ** [#A] Git/Magit
 SCHEDULED: <2024-07-19 Fri>
 [[elisp:(bookmark-jump-other-frame "git.org")][Link]]
@@ -3643,7 +3645,6 @@ CLOCK: [2024-01-04 Thu 12:11]--[2024-01-04 Thu 12:13] =>  0:02
   tag
   version
 
-
 *** Setting your commit email address
 [[https://docs.github.com/en/enterprise-server@3.9/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences/setting-your-commit-email-address]]
 https://docs.github.com/en/enterprise-server@3.9/account-and-profile/setting-up-and-managing-your-github-profile/managing-contribution-settings-on-your-profile/why-are-my-contributions-not-showing-up-on-my-profile
@@ -3748,207 +3749,6 @@ CLOCK: [2024-05-01 Wed 10:02]--[2024-05-01 Wed 10:27] =>  0:25
 :END:
 [[https://getbootstrap.com/docs/4.3/getting-started/introduction/]]
 [[https://getbootstrap.com/docs/5.3/getting-started/introduction/]]
-
-** [#A] Jinja Templating
-SCHEDULED: <2024-07-18 Thu>
-:PROPERTIES:
-:CATEGORY: Jinja
-:END:
-
-[[elisp:(bookmark-jump-other-frame "jinja.org")][Basics]]
-
-- Note taken on [2024-05-01 Wed 11:11] \\
-  https://realpython.com/primer-on-jinja-templating/
-  https://jinja.palletsprojects.com/en/3.1.x/templates/
-:LOGBOOK:
-CLOCK: [2024-05-22 Wed 08:11]--[2024-05-22 Wed 08:47] =>  0:36
-CLOCK: [2024-05-16 Thu 09:51]--[2024-05-16 Thu 10:20] =>  0:29
-CLOCK: [2024-05-08 Wed 07:17]--[2024-05-08 Wed 07:17] =>  0:00
-CLOCK: [2024-05-03 Fri 08:45]--[2024-05-03 Fri 09:42] =>  0:57
-CLOCK: [2024-05-02 Thu 07:10]--[2024-05-02 Thu 08:44] =>  1:34
-CLOCK: [2024-05-01 Wed 11:01]--[2024-05-01 Wed 11:26] =>  0:25
-:END:
-*** Synopsis
-SCHEDULED: <2024-07-23 Tue ++1w>
-:PROPERTIES:
-:LAST_REPEAT: [2024-07-15 Mon 19:42]
-:END:
-- State "AMPLE"      from ""           [2024-07-15 Mon 19:42]
-- State "AMPLE"      from ""           [2024-07-08 Mon 19:46]
-- State "AMPLE"      from ""           [2024-07-01 Mon 20:27]
-- State "AMPLE"      from ""           [2024-06-23 Sun 19:03]
-- State "AMPLE"      from ""           [2024-06-09 Sun 19:03]
-- State "AMPLE"      from ""           [2024-06-09 Sun 19:03]
-- State "AMPLE"      from ""           [2024-06-03 Mon 19:54]
-- State "AMPLE"      from ""           [2024-05-24 Fri 19:54]
-:LOGBOOK:
-CLOCK: [2024-05-24 Fri 11:34]--[2024-05-24 Fri 11:50] =>  0:16
-:END:
-https://jinja.palletsprojects.com/en/3.1.x/templates/#synopsis
-*** [#C] Template file extension
-SCHEDULED: <2024-07-29 Mon ++2w>
-:PROPERTIES:
-:LAST_REPEAT: [2024-07-14 Sun 18:24]
-:END:
-- State "AMPLE"      from ""           [2024-07-14 Sun 18:24]
-- State "AMPLE"      from ""           [2024-07-01 Mon 08:22]
-- State "AMPLE"      from ""           [2024-06-13 Thu 17:12]
-- State "AMPLE"      from ""           [2024-05-30 Thu 15:49]
-- Note taken on [2024-05-30 Thu 08:55] \\
-  Any file can be loaded as a template, regardless of file extension.
-  For identifying templates is that they are in a templates folder,
-  regardless of extension. This is a common layout for projects.
-:LOGBOOK:
-CLOCK: [2024-05-30 Thu 08:51]--[2024-05-30 Thu 08:56] =>  0:05
-CLOCK: [2024-05-25 Sat 07:24]--[2024-05-25 Sat 09:06] =>  1:42
-CLOCK: [2024-05-24 Fri 11:50]--[2024-05-24 Fri 12:29] =>  0:39
-:END:
-https://jinja.palletsprojects.com/en/3.1.x/templates/#template-file-extension
-*** [#B] Variables
-SCHEDULED: <2024-07-27 Sat ++2w>
-:PROPERTIES:
-:LAST_REPEAT: [2024-07-13 Sat 17:52]
-:END:
-- State "AMPLE"      from ""           [2024-07-13 Sat 17:52]
-- State "AMPLE"      from ""           [2024-06-27 Thu 19:21]
-- State "AMPLE"      from ""           [2024-06-13 Thu 17:12]
-- State "AMPLE"      from ""           [2024-05-30 Thu 15:49]
-- Note taken on [2024-05-30 Thu 09:12] \\
-  In Jinja, variables are placeholders in your templates that get
-  replaced with values passed from your application. Jinja variables
-  are enclosed in double curly braces {{ }}. You can use these
-  variables to insert dynamic content into your HTML or other
-  text-based formats.
-
-  #+begin_src python :results output
-    from jinja2 import Template
-    tm = Template("The {{ animal }} is great!")
-    result = tm.render(animal = "Cat")
-    print(result)
-  #+end_src
-
-  #+RESULTS:
-  : The, Cat is great!
-  Jinja allows you to access items in dictionaries and lists.
-
-  #+begin_src python :results output
-    from jinja2 import Template
-    person = { 'name': 'Person', 'age': 34 }
-    tm = Template("My name is {{ per.name }} and I am {{ per.age }}")
-    msg = tm.render(per=person)
-    print(msg)
-  #+end_src
-
-  #+RESULTS:
-  : My name is Person and I am 34
-
-:LOGBOOK:
-CLOCK: [2024-05-30 Thu 09:06]--[2024-05-30 Thu 10:00] =>  0:54
-CLOCK: [2024-05-25 Sat 09:06]--[2024-05-25 Sat 09:06] =>  0:00
-:END:
-https://jinja.palletsprojects.com/en/3.1.x/templates/#variables
-*** DELAY [#B] Filters
-SCHEDULED: <2024-07-25 Thu ++1w>
-:PROPERTIES:
-:LAST_REPEAT: [2024-07-07 Sun 18:50]
-:END:
-- State "AMPLE"      from ""           [2024-07-07 Sun 18:50]
-- State "AMPLE"      from ""           [2024-06-27 Thu 19:19]
-- Note taken on [2024-06-27 Thu 18:07] \\
-  Variables can be modified by filters. Filters are separated from the
-  variable by a pipe symbol (|) and may have optional arguments in
-  parentheses. Multiple filters can be chained.
-
-  #+begin_example
-   <!-- Applying 'upper' filter to a string variable -->
-      <p>Original: {{ greeting }}</p>
-      <p>Uppercase: {{ greeting | upper }}</p>
-  #+end_example
-
-  #+begin_example
-  <!-- Applying 'replace' filter to a string -->
-      <p>Greeting with replacement: {{ greeting | replace('World', 'Jinja') }}</p>
-  #+end_example
-:LOGBOOK:
-CLOCK: [2024-06-27 Thu 16:20]--[2024-06-27 Thu 17:37] =>  1:17
-:END:
-https://jinja.palletsprojects.com/en/3.1.x/templates/#filters
-*** DELAY [#B] Tests
-SCHEDULED: <2024-07-25 Thu ++1w>
-:PROPERTIES:
-:LAST_REPEAT: [2024-07-07 Sun 11:53]
-:END:
-- State "AMPLE"      from ""           [2024-07-07 Sun 11:53]
-:LOGBOOK:
-CLOCK: [2024-07-07 Sun 10:22]--[2024-07-07 Sun 11:28] =>  1:06
-CLOCK: [2024-07-07 Sun 09:19]--[2024-07-07 Sun 10:03] =>  0:44
-:END:
-https://jinja.palletsprojects.com/en/3.1.x/templates/#tests
-*** [#A] Comments
-SCHEDULED: <2024-07-24 Wed ++1w>
-:PROPERTIES:
-:LAST_REPEAT: [2024-07-16 Tue 19:20]
-:END:
-- State "AMPLE"      from ""           [2024-07-16 Tue 19:20]
-- State "AMPLE"      from ""           [2024-07-10 Wed 09:03]
-- Note taken on [2024-07-10 Wed 09:01] \\
-  To comment-out part of a line in a template, use the comment syntax
-  which is by default set to {# ... #}.
-  #+begin_example
-  {# note: commented-out template because we no longer use this
-      {% for user in users %}
-          ...
-      {% endfor %}
-  #}
-  #+end_example
-:LOGBOOK:
-CLOCK: [2024-07-10 Wed 08:59]--[2024-07-10 Wed 09:03] =>  0:04
-:END:
-https://jinja.palletsprojects.com/en/3.1.x/templates/#comments
-*** DELAY [#B] Whitespace control
-SCHEDULED: <2024-07-20 Sat ++1w>
-:PROPERTIES:
-:LAST_REPEAT: [2024-07-13 Sat 08:52]
-:END:
-- State "AMPLE"      from "DELAY"      [2024-07-13 Sat 08:52]
-:LOGBOOK:
-CLOCK: [2024-07-13 Sat 08:15]--[2024-07-13 Sat 08:51] =>  0:36
-CLOCK: [2024-07-12 Fri 08:25]--[2024-07-12 Fri 08:56] =>  0:31
-:END:
-https://jinja.palletsprojects.com/en/3.1.x/templates/#whitespace-control
-*** DELAY [#B] Escaping
-SCHEDULED: <2024-07-25 Thu>
-:LOGBOOK:
-CLOCK: [2024-07-14 Sun 08:15]--[2024-07-14 Sun 09:31] =>  1:16
-:END:
-https://jinja.palletsprojects.com/en/3.1.x/templates/#escaping
-*** AMPLE Navbar 'active' link
-SCHEDULED: <2024-06-04 Tue>
-:LOGBOOK:
-CLOCK: [2024-05-31 Fri 09:53]--[2024-05-31 Fri 10:42] =>  0:49
-:END:
-[[https://stackoverflow.com/questions/67351167/one-flask-with-multiple-page]]
-
-*** [#B] Rendering Jinja template variable
-SCHEDULED: <2024-07-20 Sat ++1w>
-:PROPERTIES:
-:LAST_REPEAT: [2024-07-13 Sat 08:14]
-:END:
-- State "AMPLE"      from ""           [2024-07-13 Sat 08:14]
-- State "AMPLE"      from ""           [2024-07-06 Sat 17:51]
-- State "AMPLE"      from ""           [2024-06-27 Thu 19:21]
-- State "AMPLE"      from ""           [2024-06-20 Thu 18:43]
-- State "AMPLE"      from ""           [2024-06-13 Thu 17:12]
-- State "AMPLE"      from ""           [2024-06-06 Thu 19:41]
-- State "AMPLE"      from ""           [2024-05-27 Mon 18:21]
-:LOGBOOK:
-CLOCK: [2024-05-26 Sun 09:56]--[2024-05-26 Sun 10:29] =>  0:33
-CLOCK: [2024-05-26 Sun 09:19]--[2024-05-26 Sun 09:41] =>  0:22
-:END:
-
-[[file:~/git/annelida/ballyboe/org-blog/2024-05-25-jinja-templating.org::*Rendering Jinja template variable][Rendering Jinja template variable]]
-
-*** AMPLE [#A] Adding Static Files to application
 
 ** DELAY [#C] Assembly language
 SCHEDULED: <2024-07-30 Tue>
