@@ -121,8 +121,12 @@ CLOCK: [2023-10-14 Sat 13:30]--[2023-10-14 Sat 14:03] =>  0:33
 **** AMPLE Transcript "Sex and the city"
 SCHEDULED: <2024-02-10 Sat>
 *** [#A] Grammar
-SCHEDULED: <2024-07-19 Fri>
+SCHEDULED: <2024-07-21 Sun ++1d>
+:PROPERTIES:
+:LAST_REPEAT: [2024-07-19 Fri 19:01]
+:END:
 
+- State "AMPLE"      from ""           [2024-07-19 Fri 19:01]
 [[elisp:(bookmark-jump-other-frame "English-grammar.org")][Link]]
 
 **** BBC Learning English
@@ -251,10 +255,11 @@ CLOCK: [2024-03-19 Tue 12:02]--[2024-03-19 Tue 17:30] =>  5:28
 :END:
 [https://www.bbc.co.uk/learningnglish/english/course/lower-intermediate/unit-7/session-2/activity-4]
 ***** [#C] Articles
-SCHEDULED: <2024-07-20 Sat ++2w>
+SCHEDULED: <2024-08-03 Sat ++2w>
 :PROPERTIES:
-:LAST_REPEAT: [2024-07-06 Sat 17:52]
+:LAST_REPEAT: [2024-07-20 Sat 18:44]
 :END:
+- State "AMPLE"      from ""           [2024-07-20 Sat 18:44]
 - State "AMPLE"      from ""           [2024-07-06 Sat 17:52]
 - State "AMPLE"      from ""           [2024-06-21 Fri 18:47]
 - State "AMPLE"      from ""           [2024-06-08 Sat 18:01]
@@ -322,10 +327,12 @@ CLOCK: [2024-04-25 Thu 07:11]--[2024-04-25 Thu 07:40] =>  0:29
 :END:
 [https://learnenglish.britishcouncil.org/grammar/english-grammar-reference/demonstratives]
 ****** [#B] 'one' and 'ones'
-SCHEDULED: <2024-07-21 Sun ++2d>
+SCHEDULED: <2024-07-25 Thu ++2d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-07-18 Thu 21:17]
+:LAST_REPEAT: [2024-07-20 Sat 18:45]
 :END:
+- State "AMPLE"      from ""           [2024-07-20 Sat 18:45]
+- State "AMPLE"      from ""           [2024-07-20 Sat 18:44]
 - State "AMPLE"      from ""           [2024-07-18 Thu 21:17]
 - State "AMPLE"      from ""           [2024-07-16 Tue 19:20]
 - State "AMPLE"      from ""           [2024-07-14 Sun 18:23]
@@ -457,11 +464,16 @@ SCHEDULED: <2024-04-30 Tue>
 [[https://www.bbc.co.uk/sounds/play/p0hj2w1w]]
 
 ** [#A] Linux
-SCHEDULED: <2024-07-19 Fri>
+SCHEDULED: <2024-07-21 Sun ++1d>
 :PROPERTIES:
 :CATEGORY: Linux
+:LAST_REPEAT: [2024-07-19 Fri 19:01]
+:END:
+:LOGBOOK:
+CLOCK: [2024-07-20 Sat 07:09]--[2024-07-20 Sat 08:11] =>  1:02
 :END:
 
+- State "AMPLE"      from ""           [2024-07-19 Fri 19:01]
 [[elisp:(bookmark-jump-other-frame "linux.org")][Link]]
 
 *** DELAY [#A] MAN ssh
@@ -1197,10 +1209,12 @@ SCHEDULED: <2024-05-12 Sun>
 
 *** [#C] I 386 architecture commands
 ** [#A] Git/Magit
-SCHEDULED: <2024-07-19 Fri>
+SCHEDULED: <2024-07-21 Sun ++1d>
 :PROPERTIES:
 :CATEGORY: Git
+:LAST_REPEAT: [2024-07-19 Fri 19:01]
 :END:
+- State "AMPLE"      from ""           [2024-07-19 Fri 19:01]
 [[elisp:(bookmark-jump-other-frame "git.org")][Link]]
 
 *** AMPLE Git/Magit merge and rebase concept.
@@ -1653,10 +1667,11 @@ CLOCK: [2024-04-16 Tue 07:23]--[2024-04-16 Tue 08:38] =>  1:15
 [[info:python3.11#An Informal Introduction to Python][python3.11#An Informal Introduction to Python]]
 
 **** [#C] Python Setup and Usage
-SCHEDULED: <2024-07-20 Sat ++2w>
+SCHEDULED: <2024-08-03 Sat ++2w>
 :PROPERTIES:
-:LAST_REPEAT: [2024-06-21 Fri 18:47]
+:LAST_REPEAT: [2024-07-20 Sat 18:44]
 :END:
+- State "AMPLE"      from ""           [2024-07-20 Sat 18:44]
 - State "AMPLE"      from ""           [2024-06-21 Fri 18:47]
 - State "AMPLE"      from ""           [2024-06-21 Fri 18:47]
 - State "AMPLE"      from ""           [2024-06-08 Sat 18:03]
@@ -2661,9 +2676,10 @@ CLOCK: [2024-04-19 Fri 11:13]--[2024-04-19 Fri 11:53] =>  0:40
 
 [[file:~/git/annelida/ballyboe/org-blog/2023-11-07-Python-venv.org::*Creating a Python virtual environment on a Debian-based system][Python virtual environment on a Debian-based system]]
 *** [#A] Python Programming Language basics
-SCHEDULED: <2024-07-19 Fri>
+SCHEDULED: <2024-07-21 Sun>
 :LOGBOOK:
-CLOCK: [2024-07-19 Fri 08:27]
+CLOCK: [2024-07-20 Sat 08:18]--[2024-07-20 Sat 08:50] =>  0:32
+CLOCK: [2024-07-19 Fri 08:27]--[2024-07-19 Fri 09:02] =>  0:35
 CLOCK: [2024-07-18 Thu 08:55]--[2024-07-18 Thu 09:30] =>  0:35
 CLOCK: [2024-05-23 Thu 10:14]--[2024-05-23 Thu 11:05] =>  0:51
 CLOCK: [2024-05-23 Thu 09:43]--[2024-05-23 Thu 10:04] =>  0:21
@@ -2688,10 +2704,18 @@ SCHEDULED: <2024-06-25 Tue>
 CLOCK: [2024-06-25 Tue 09:28]--[2024-06-25 Tue 10:48] =>  1:20
 :END:
 ** [#A] Flask
-SCHEDULED: <2024-07-19 Fri>
+SCHEDULED: <2024-07-21 Sun ++1d>
 :PROPERTIES:
 :CATEGORY: Flask
+:LAST_REPEAT: [2024-07-19 Fri 19:02]
 :END:
+:LOGBOOK:
+CLOCK: [2024-07-20 Sat 08:50]--[2024-07-20 Sat 09:04] =>  0:14
+:END:
+
+- State "AMPLE"      from ""           [2024-07-19 Fri 19:02]
+[[elisp:(bookmark-jump-other-frame "flask.org")][Link]]
+
 *** DELAY A Minimal Application
 SCHEDULED: <2024-08-07 Wed ++2w>
 :PROPERTIES:
@@ -2952,8 +2976,8 @@ CLOCK: [2024-07-12 Fri 07:30]--[2024-07-12 Fri 07:44] =>  0:14
 https://flask.palletsprojects.com/en/3.0.x/quickstart/#sessions
 *** RAW Message Flashing
 https://flask.palletsprojects.com/en/3.0.x/quickstart/#message-flashing
-*** [#A] Logging
-SCHEDULED: <2024-07-20 Sat ++1w>
+*** DELAY [#A] Logging
+SCHEDULED: <2024-08-20 Tue ++1w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-07-13 Sat 09:04]
 :END:
@@ -3065,12 +3089,14 @@ SCHEDULED: <2024-08-02 Fri ++1w>
 - State "AMPLE"      from "DELAY"      [2024-07-12 Fri 19:30]
 
 ** [#A] Jinja2
-SCHEDULED: <2024-07-19 Fri>
+SCHEDULED: <2024-07-21 Sun ++1d>
 :PROPERTIES:
 :CATEGORY: Jinja2
+:LAST_REPEAT: [2024-07-19 Fri 19:02]
 :END:
 
-[[elisp:(bookmark-jump-other-frame "jinja.org")][Basics]]
+- State "AMPLE"      from ""           [2024-07-19 Fri 19:02]
+[[elisp:(bookmark-jump-other-frame "jinja.org")][Basic]]
 
 - Note taken on [2024-05-01 Wed 11:11] \\
   https://realpython.com/primer-on-jinja-templating/
@@ -3222,7 +3248,7 @@ CLOCK: [2024-07-10 Wed 08:59]--[2024-07-10 Wed 09:03] =>  0:04
 :END:
 https://jinja.palletsprojects.com/en/3.1.x/templates/#comments
 *** DELAY [#B] Whitespace control
-SCHEDULED: <2024-07-20 Sat ++1w>
+SCHEDULED: <2024-08-24 Sat ++1w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-07-13 Sat 08:52]
 :END:
@@ -3245,8 +3271,8 @@ CLOCK: [2024-05-31 Fri 09:53]--[2024-05-31 Fri 10:42] =>  0:49
 :END:
 [[https://stackoverflow.com/questions/67351167/one-flask-with-multiple-page]]
 
-*** [#B] Rendering Jinja template variable
-SCHEDULED: <2024-07-20 Sat ++1w>
+*** DELAY [#B] Rendering Jinja template variable
+SCHEDULED: <2024-08-24 Sat ++1w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-07-13 Sat 08:14]
 :END:
@@ -3469,183 +3495,6 @@ SCHEDULED: <2024-07-27 Sat ++4w>
 ***** Linux
 
 *******
-** [#A] Git/Magit
-SCHEDULED: <2024-07-19 Fri>
-[[elisp:(bookmark-jump-other-frame "git.org")][Link]]
-*** AMPLE Git/Magit merge and rebase concept.
-SCHEDULED: <2024-07-12 Fri>
-:PROPERTIES:
-:LAST_REPEAT: [2023-11-16 Thu 15:34]
-:CATEGORY: Git
-:END:
-
-- State "DONE"       from "ACTIVE"     [2023-11-16 Thu 15:34]
-- State "DONE"       from "ACTIVE"     [2023-11-16 Thu 15:34]
-
-  - Note taken on [2023-10-23 Mon 09:48] \\
-
-  A branch is an independent development line containing a pointer
-   — or the branch head — to the most recent commit in the code.
-  A single Git repository can track many branches, but your working
-  tree centers on just one. The head points to the tip (the latest commit)
-  of a branch.
-  In Git, a branch is a new/separate version of the main repository.
-
-  Let's say you have a large project, and you need to update
-  the design on it.
-
-  With a new branch called NEW-DISIGN, edit the code directly without
-  impacting the main branch.
-
-  Let’s say that at the same time an error was discovered in the
-  project that requires be urgent fixed.
-
-  Create a new branch from the main project called ERROR-FIX.
-  Fix the error and merge the ERROR-FIX branch with
-  the main branch.
-
-  When go back to the NEW_DESIGN branch, and finish the work there.
-  Merge the NEW-DISIGN branch with main.
-
-  $ git checkout -  command used to check out a branch
-  $ git checkout -b - will create a new branch, and move to it.
-
-Magit:
-b n (magit-branch-create)
-
-- Note taken on [2023-10-23 Mon 10:40] \\
-  You can describe of the HEAD as the "current branch".
-  When you switch branches
-
-  $ git checkout
-
-  the HEAD revision changes to point to the tip of the new branch.
-
-  You can see what HEAD points to by doing:
-
-  $ cat .git/HEAD
-
-  ref: refs/heads/main
-
-:LOGBOOK:
-CLOCK: [2023-10-23 Mon 08:47]--[2023-10-23 Mon 11:08] =>  2:21
-:END:
-
-- Note taken on [2023-10-25 Wed 10:50] \\
-  Git tags description
-
-  Tags are used as markers for significant points in the project timeline,
-  whereas branches are separate lines of development that will eventually
-  be merged back into the main application code.
-  A tag is an object referencing a specific commit within the project history,
-  similar to chapter markers in a book.
-  This allows you to switch to the tagged version of the codebase to see what
-  the code looked like when the tag was created and, if necessary,
-  revert to that specific codebase version.
-
-  $ git tag
-  command allows to create, list, delete, and verify tags.
-
-  Deleting a tag does not affect the code in your repository -
-  it just removes the tag label.
-:LOGBOOK:
-CLOCK: [2023-10-25 Wed 10:36]--[2023-10-25 Wed 11:16] =>  0:40
-:END:
-- Note taken on [2023-10-24 Tue 10:38] \\
-  Both of these commands are designed to integrate changes
-  from one branch into another branch. They just do it in very
-  different ways.
-
-  Merging is nice because it’s a non-destructive operation.
-  The existing branches are not changed in any way. This avoids
-  all of the potential pitfalls of rebasing.
-
-  The major benefit of rebasing is that you get a much cleaner
-  project history.
-
-  The golden rule of git rebase is to never use it on public branches.
-  (ie. never rebase master). You should never rebase master onto
-  a feature branch.
-
-*** DELAY Git/Magit undo options.
-SCHEDULED: <2024-07-25 Thu ++2w>
-:PROPERTIES:
-:CATEGORY: Git
-:LAST_REPEAT: [2024-06-18 Tue 19:16]
-:END:
-- State "AMPLE"      from "DELAY"      [2024-06-18 Tue 19:16]
-- State "AMPLE"      from "LAG"        [2024-06-18 Tue 19:16]
-- State "DONE"       from "Active"     [2024-01-04 Thu 12:46]
-- Note taken on [2024-01-04 Thu 12:12] \\
-  If you just want to undo commit then:
-  #+begin_example
-  $ git revert <commit id>
-  #+end_example
-  This will create a commit opposite to the commit id you provided.
-
-  If you want the branch to appear like the commit never took place
-  you can reset head of current branch to previous commit with
-  #+begin_example
-  $ git reset --hard HEAD^
-  #+end_example
-
-  And then send it to Github with
-  #+begin_example
-  $ git push --force
-  #+end_example
-
-  ~git reset --soft~ this option moves HEAD back to the specified
-  commit, undoes all the changes made between where HEAD was pointing
-  and the specified commit, and saves all the changes in the index. In
-  other words, Git re-adds the changes as staged, ready to be committed
-  again.
-
-  ~git reset --mixed~ will undo all the changes between HEAD and the
-  specified commit, but will preserve your changes in the Working
-  Directory, as unstaged changes.
-
-  ~git reset --hard~ it will automatically discard all the changes made
-   between HEAD and the specified commit.
-:LOGBOOK:
-CLOCK: [2024-01-04 Thu 12:11]--[2024-01-04 Thu 12:13] =>  0:02
-:END:
-- Note taken on [2023-10-23 Mon 08:47] \\
-  If you want to redo that commit, make the additional
-  changes you forgot, stage them, and commit again using
-  the --amend option
-
-  Git:
-  $ git commit --amend
-  Magit:
-  c a C-c C-c
-
-  Unstaging a Staged File
-  Git:
-  use "git reset HEAD <file>..." to unstage
-  use "git restore --staged <file>..." to unstage
-  Magit:
-  u (magit-unstage-file)
-
-  Unmodifying a Modified File
-  Git:
-  use "git checkout -- <file>..." to discard changes in
-  working directory
-  use "git restore <file>..." to discard changes in
-  working directory
-  Magit:
-  k (magit-discard)
-
-  [[https://git-scm.com/book/en/v2/Git-Basics-Undoing-Things][Git undoing things]]
-
-
-- Note taken on [2023-10-23 Mon 08:09] \\
-  branch
-  head
-  rebase
-  tag
-  version
-
-*** Setting your commit email address
 [[https://docs.github.com/en/enterprise-server@3.9/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences/setting-your-commit-email-address]]
 https://docs.github.com/en/enterprise-server@3.9/account-and-profile/setting-up-and-managing-your-github-profile/managing-contribution-settings-on-your-profile/why-are-my-contributions-not-showing-up-on-my-profile
 
@@ -3934,8 +3783,8 @@ CLOCK: [2024-07-16 Tue 09:18]--[2024-07-16 Tue 09:33] =>  0:15
 :CATEGORY: Job
 :END:
 
-** Interview Preparation
-SCHEDULED: <2024-07-20 Sat>
+** DELAY Interview Preparation
+SCHEDULED: <2024-08-24 Sat>
 ** DELAY [#B] Portfolio creation
 SCHEDULED: <2024-08-21 Wed>
 ** DELAY [#A] CV elaboration
@@ -4132,7 +3981,7 @@ CLOCK: [2023-11-28 Tue 10:40]--[2023-11-28 Tue 11:14] =>  0:34
 CLOCK: [2023-11-24 Fri 14:29]--[2023-11-24 Fri 14:52] =>  0:23
 :END:
 ******* DELAY Python how to code strings
-SCHEDULED: <2024-07-20 Sat ++2w>
+SCHEDULED: <2024-08-24 Sat ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-07-06 Sat 17:50]
 :END:
@@ -4232,11 +4081,12 @@ CLOCK: [2023-11-28 Tue 18:27]--[2023-11-28 Tue 18:33] =>  0:06
 - State "DONE"       from "Active"     [2023-11-23 Thu 15:54]
 * Events
 ** Preparation to meeting with Roisin
-SCHEDULED: <2024-07-19 Fri ++1w>
+SCHEDULED: <2024-07-26 Fri ++1w>
 :PROPERTIES:
 :CATEGORY: Speacking
-:LAST_REPEAT: [2024-07-12 Fri 19:32]
+:LAST_REPEAT: [2024-07-19 Fri 19:02]
 :END:
+- State "AMPLE"      from ""           [2024-07-19 Fri 19:02]
 - State "AMPLE"      from ""           [2024-07-12 Fri 19:32]
 - State "AMPLE"      from ""           [2024-07-06 Sat 17:49]
 - State "AMPLE"      from ""           [2024-06-28 Fri 20:55]
