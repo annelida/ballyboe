@@ -121,7 +121,7 @@ CLOCK: [2023-10-14 Sat 13:30]--[2023-10-14 Sat 14:03] =>  0:33
 **** AMPLE Transcript "Sex and the city"
 SCHEDULED: <2024-02-10 Sat>
 *** [#A] Grammar
-SCHEDULED: <2024-07-21 Sun ++1d>
+SCHEDULED: <2024-07-23 Tue ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-07-19 Fri 19:01]
 :END:
@@ -281,10 +281,11 @@ CLOCK: [2024-04-21 Sun 09:40]--[2024-04-21 Sun 10:13] =>  0:33
 :END:
 [[https://learnenglish.britishcouncil.org/grammar/english-grammar-reference/personal-pronouns]]
 ****** [#B] 'it' and 'there' as dummy subjects
-SCHEDULED: <2024-07-23 Tue ++1w>
+SCHEDULED: <2024-07-30 Tue ++1w>
 :PROPERTIES:
-:LAST_REPEAT: [2024-07-15 Mon 19:45]
+:LAST_REPEAT: [2024-07-22 Mon 18:27]
 :END:
+- State "AMPLE"      from ""           [2024-07-22 Mon 18:27]
 - State "AMPLE"      from ""           [2024-07-15 Mon 19:45]
 - State "AMPLE"      from ""           [2024-07-09 Tue 18:08]
 - State "AMPLE"      from ""           [2024-06-28 Fri 20:57]
@@ -308,10 +309,12 @@ CLOCK: [2024-04-23 Tue 07:07]--[2024-04-23 Tue 07:27] =>  0:20
 
 https://learnenglish.britishcouncil.org/grammar/english-grammar-reference/possessive-pronouns
 ****** [#C] Demonstratives
-SCHEDULED: <2024-07-23 Tue ++2w>
+SCHEDULED: <2024-08-20 Tue ++2w>
 :PROPERTIES:
-:LAST_REPEAT: [2024-07-09 Tue 18:08]
+:LAST_REPEAT: [2024-07-22 Mon 19:11]
 :END:
+- State "AMPLE"      from ""           [2024-07-22 Mon 19:11]
+- State "AMPLE"      from ""           [2024-07-22 Mon 19:10]
 - State "AMPLE"      from ""           [2024-07-09 Tue 18:08]
 - State "AMPLE"      from ""           [2024-06-21 Fri 18:47]
 - State "AMPLE"      from ""           [2024-06-08 Sat 18:02]
@@ -373,10 +376,11 @@ CLOCK: [2024-05-03 Fri 07:11]--[2024-05-03 Fri 07:11] =>  0:00
 :END:
 https://learnenglish.britishcouncil.org/grammar/english-grammar-reference/pronouns-questions
 ****** [#C] Reflexive pronouns
-SCHEDULED: <2024-07-23 Tue ++2w>
+SCHEDULED: <2024-08-06 Tue ++2w>
 :PROPERTIES:
-:LAST_REPEAT: [2024-07-09 Tue 18:08]
+:LAST_REPEAT: [2024-07-22 Mon 19:11]
 :END:
+- State "AMPLE"      from ""           [2024-07-22 Mon 19:11]
 - State "AMPLE"      from ""           [2024-07-09 Tue 18:08]
 - State "AMPLE"      from ""           [2024-06-21 Fri 18:47]
 - State "AMPLE"      from ""           [2024-06-08 Sat 18:02]
@@ -464,12 +468,14 @@ SCHEDULED: <2024-04-30 Tue>
 [[https://www.bbc.co.uk/sounds/play/p0hj2w1w]]
 
 ** [#A] Linux
-SCHEDULED: <2024-07-21 Sun ++1d>
+SCHEDULED: <2024-07-23 Tue ++1d>
 :PROPERTIES:
 :CATEGORY: Linux
-:LAST_REPEAT: [2024-07-19 Fri 19:01]
+:LAST_REPEAT: [2024-07-22 Mon 17:51]
 :END:
+- State "AMPLE"      from ""           [2024-07-22 Mon 17:51]
 :LOGBOOK:
+CLOCK: [2024-07-22 Mon 15:54]--[2024-07-22 Mon 17:51] =>  1:57
 CLOCK: [2024-07-20 Sat 07:09]--[2024-07-20 Sat 08:11] =>  1:02
 :END:
 
@@ -477,10 +483,11 @@ CLOCK: [2024-07-20 Sat 07:09]--[2024-07-20 Sat 08:11] =>  1:02
 [[elisp:(bookmark-jump-other-frame "linux.org")][Link]]
 
 *** DELAY [#A] MAN ssh
-SCHEDULED: <2024-07-23 Tue ++1w>
+SCHEDULED: <2024-07-30 Tue ++1w>
 :PROPERTIES:
-:LAST_REPEAT: [2024-07-15 Mon 19:42]
+:LAST_REPEAT: [2024-07-22 Mon 18:27]
 :END:
+- State "AMPLE"      from "DELAY"      [2024-07-22 Mon 18:27]
 - State "AMPLE"      from "DELAY"      [2024-07-15 Mon 19:42]
 - State "AMPLE"      from "DELAY"      [2024-07-01 Mon 20:26]
 - State "AMPLE"      from "LAG"        [2024-07-01 Mon 20:26]
@@ -627,10 +634,13 @@ Avoiding Standard Software Risks
 Using Open Source Software
 
 *** DELAY [#C] =helpful= package usage
-SCHEDULED: <2024-07-23 Tue ++2w>
+SCHEDULED: <2024-09-03 Tue ++2w>
 :PROPERTIES:
-:LAST_REPEAT: [2024-07-09 Tue 18:08]
+:LAST_REPEAT: [2024-07-22 Mon 19:11]
 :END:
+- State "AMPLE"      from "DELAY"      [2024-07-22 Mon 19:11]
+- State "AMPLE"      from "DELAY"      [2024-07-22 Mon 19:11]
+- State "AMPLE"      from "LAG"        [2024-07-22 Mon 19:11]
 - State "AMPLE"      from "LAG"        [2024-07-09 Tue 18:08]
 - State "AMPLE"      from "DELAY"      [2024-06-25 Tue 18:58]
 - Note taken on [2024-05-30 Thu 16:06] \\
@@ -1209,7 +1219,7 @@ SCHEDULED: <2024-05-12 Sun>
 
 *** [#C] I 386 architecture commands
 ** [#A] Git/Magit
-SCHEDULED: <2024-07-21 Sun ++1d>
+SCHEDULED: <2024-07-23 Tue ++1d>
 :PROPERTIES:
 :CATEGORY: Git
 :LAST_REPEAT: [2024-07-19 Fri 19:01]
@@ -2598,10 +2608,11 @@ CLOCK: [2024-01-12 Fri 10:28]--[2024-01-12 Fri 11:01] =>  0:33
 :END:
 
 *** [#B] List of tuples
-SCHEDULED: <2024-07-23 Tue ++1w>
+SCHEDULED: <2024-07-30 Tue ++1w>
 :PROPERTIES:
-:LAST_REPEAT: [2024-07-16 Tue 19:17]
+:LAST_REPEAT: [2024-07-22 Mon 18:27]
 :END:
+- State "AMPLE"      from ""           [2024-07-22 Mon 18:27]
 - State "AMPLE"      from ""           [2024-07-16 Tue 19:17]
 - State "AMPLE"      from ""           [2024-07-09 Tue 18:09]
 - State "AMPLE"      from ""           [2024-07-01 Mon 08:21]
@@ -2676,8 +2687,9 @@ CLOCK: [2024-04-19 Fri 11:13]--[2024-04-19 Fri 11:53] =>  0:40
 
 [[file:~/git/annelida/ballyboe/org-blog/2023-11-07-Python-venv.org::*Creating a Python virtual environment on a Debian-based system][Python virtual environment on a Debian-based system]]
 *** [#A] Python Programming Language basics
-SCHEDULED: <2024-07-21 Sun>
+SCHEDULED: <2024-07-23 Tue>
 :LOGBOOK:
+CLOCK: [2024-07-22 Mon 09:03]--[2024-07-22 Mon 09:35] =>  0:32
 CLOCK: [2024-07-20 Sat 08:18]--[2024-07-20 Sat 08:50] =>  0:32
 CLOCK: [2024-07-19 Fri 08:27]--[2024-07-19 Fri 09:02] =>  0:35
 CLOCK: [2024-07-18 Thu 08:55]--[2024-07-18 Thu 09:30] =>  0:35
@@ -2704,7 +2716,7 @@ SCHEDULED: <2024-06-25 Tue>
 CLOCK: [2024-06-25 Tue 09:28]--[2024-06-25 Tue 10:48] =>  1:20
 :END:
 ** [#A] Flask
-SCHEDULED: <2024-07-21 Sun ++1d>
+SCHEDULED: <2024-07-23 Tue ++1d>
 :PROPERTIES:
 :CATEGORY: Flask
 :LAST_REPEAT: [2024-07-19 Fri 19:02]
@@ -3089,7 +3101,7 @@ SCHEDULED: <2024-08-02 Fri ++1w>
 - State "AMPLE"      from "DELAY"      [2024-07-12 Fri 19:30]
 
 ** [#A] Jinja2
-SCHEDULED: <2024-07-21 Sun ++1d>
+SCHEDULED: <2024-07-23 Tue ++1d>
 :PROPERTIES:
 :CATEGORY: Jinja2
 :LAST_REPEAT: [2024-07-19 Fri 19:02]
@@ -3111,10 +3123,11 @@ CLOCK: [2024-05-02 Thu 07:10]--[2024-05-02 Thu 08:44] =>  1:34
 CLOCK: [2024-05-01 Wed 11:01]--[2024-05-01 Wed 11:26] =>  0:25
 :END:
 *** Synopsis
-SCHEDULED: <2024-07-23 Tue ++1w>
+SCHEDULED: <2024-07-30 Tue ++1w>
 :PROPERTIES:
-:LAST_REPEAT: [2024-07-15 Mon 19:42]
+:LAST_REPEAT: [2024-07-22 Mon 18:27]
 :END:
+- State "AMPLE"      from ""           [2024-07-22 Mon 18:27]
 - State "AMPLE"      from ""           [2024-07-15 Mon 19:42]
 - State "AMPLE"      from ""           [2024-07-08 Mon 19:46]
 - State "AMPLE"      from ""           [2024-07-01 Mon 20:27]
@@ -3640,10 +3653,11 @@ CLOCK: [2024-07-01 Mon 17:46]--[2024-07-01 Mon 18:48] =>  1:02
 [[elisp:(bookmark-jump-other-frame "2024-07-01-programming-on-the-web.org")][Link]]
 
 ** [#B] Flask controller pass the dictionary to Jinja
-SCHEDULED: <2024-07-23 Tue ++1w>
+SCHEDULED: <2024-07-30 Tue ++1w>
 :PROPERTIES:
-:LAST_REPEAT: [2024-07-15 Mon 19:46]
+:LAST_REPEAT: [2024-07-22 Mon 18:28]
 :END:
+- State "AMPLE"      from ""           [2024-07-22 Mon 18:28]
 - State "AMPLE"      from ""           [2024-07-15 Mon 19:46]
 - State "AMPLE"      from ""           [2024-07-09 Tue 18:09]
 - State "AMPLE"      from ""           [2024-07-01 Mon 08:23]
@@ -3713,10 +3727,11 @@ CLOCK: [2024-06-20 Thu 08:00]--[2024-06-20 Thu 08:17] =>  0:17
 :END:
 
 ** [#B] Twitter Bootstrap Grid System
-SCHEDULED: <2024-07-23 Tue ++1w>
+SCHEDULED: <2024-07-30 Tue ++1w>
 :PROPERTIES:
-:LAST_REPEAT: [2024-07-16 Tue 19:18]
+:LAST_REPEAT: [2024-07-22 Mon 18:27]
 :END:
+- State "AMPLE"      from ""           [2024-07-22 Mon 18:27]
 - State "AMPLE"      from ""           [2024-07-16 Tue 19:18]
 - State "AMPLE"      from ""           [2024-07-09 Tue 18:09]
 - State "AMPLE"      from ""           [2024-07-01 Mon 20:28]
@@ -3788,7 +3803,7 @@ SCHEDULED: <2024-08-24 Sat>
 ** DELAY [#B] Portfolio creation
 SCHEDULED: <2024-08-21 Wed>
 ** DELAY [#A] CV elaboration
-SCHEDULED: <2024-07-22 Mon>
+SCHEDULED: <2024-08-11 Sun>
 :LOGBOOK:
 CLOCK: [2024-04-28 Sun 09:00]--[2024-04-28 Sun 09:35] =>  0:35
 CLOCK: [2024-04-28 Sun 07:14]--[2024-04-28 Sun 08:41] =>  1:27
@@ -3837,10 +3852,11 @@ CLOCK: [2024-04-19 Fri 09:10]--[2024-04-19 Fri 09:47] =>  0:37
 :END:
 
 **** DELAY A Python Q&A Session
-SCHEDULED: <2024-07-23 Tue ++2w>
+SCHEDULED: <2024-08-06 Tue ++2w>
 :PROPERTIES:
-:LAST_REPEAT: [2024-06-24 Mon 19:23]
+:LAST_REPEAT: [2024-07-22 Mon 18:28]
 :END:
+- State "AMPLE"      from "DELAY"      [2024-07-22 Mon 18:28]
 - State "AMPLE"      from "DELAY"      [2024-06-24 Mon 19:23]
 - State "AMPLE"      from "LAG"        [2024-06-24 Mon 19:23]
 - State "AMPLE"      from "RAW"        [2024-01-25 Thu 11:34]
