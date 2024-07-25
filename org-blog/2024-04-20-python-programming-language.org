@@ -1,16 +1,20 @@
 #+BEGIN_EXPORT html
 ---
 layout: page
-title: Python programming language
-tagline: " brief overview"
-permalink: /python/python-programming-language-intro.html
-categories: [Python, Definitions]
-tags: [python, intro]
+title: The Origin and Evolution of Programming Languages
+tagline: " and Getting Started with Python"
+permalink: /cs/python-programming-language-intro.html
+categories: [cs, software development, python]
+tags: [cs, software development, python]
 ---
 #+END_EXPORT
-
 #+STARTUP: showall indent
-#+OPTIONS: tags:nil num:nil \n:nil @:t ::t |:t ^:{} _:{} *:t eval:noexport
+#+OPTIONS: tags:nil num:nil \n:nil @:t ::t |:t ^:{} _:{} *:t
+#+PROPERTY: header-args :exports both
+#+PROPERTY: header-args+ :results output pp
+#+PROPERTY: header-args+ :eval no-export
+#+PROPERTY: vizier-thread-id thread_NZcAE9JAYKhKc4uej7g5k6Dx
+#+PROPERTY: vizier-assistant-id asst_9U8N72u9uVQesQNNjgOLJOu8
 #+TOC: headlines 2
 
 * Preamble
