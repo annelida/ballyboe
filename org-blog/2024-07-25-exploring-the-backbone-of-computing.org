@@ -29,3 +29,46 @@ evolution of computing. Finally, we focus on the Linux operating
 system, a powerhouse in the world of open-source software, examining
 its origins, growth, and impact on modern computing.
 
+* What is Operating System
+
+#+begin_src markdown
+
+An operating system (OS) is a fundamental software component of a
+computer system that manages hardware and software resources,
+providing services for computer programs. Here's a detailed breakdown
+of its key functions and components:
+
+** **Basic Concepts and Functions:**
+  - **Resource Management:** The OS manages hardware resources,
+    including the CPU, memory, disk space, and input/output devices.
+  - **User Interface:** It provides an interface for users to interact
+    with the computer, commonly in the form of a graphical user
+    interface (GUI) or command-line interface (CLI).
+  - **Process Management:** The OS regulates the execution of
+    processes, including task scheduling, creation, termination, and
+    synchronization.
+  - **Memory Management:** It handles allocation and deallocation of
+    memory space, ensuring efficient and safe memory use.
+  - **File System Management:** The OS organizes, stores, retrieves,
+    and manages data on storage devices through a file system.
+  - **Device Management:** The OS controls and interacts with hardware
+    peripherals through device drivers.
+  - **Security and Access Control:** It enforces security policies,
+    user authentication, and access control to protect data and
+    resources.
+
+** **Examples of Operating Systems:**
+  - **Windows:** Developed by Microsoft, widely used in personal
+    computers.
+  - **macOS:** Developed by Apple, primarily used in Mac computers.
+  - **Linux:** An open-source OS with various distributions like
+    Ubuntu, Fedora, and CentOS.
+  - **Unix:** A multiuser, multitasking OS used in servers and
+    workstations.
+  - **Android:** Developed by Google, used in smartphones and tablets.
+  - **iOS:** Developed by Apple for iPhones and iPads.
+ 
+
+
+
+  
