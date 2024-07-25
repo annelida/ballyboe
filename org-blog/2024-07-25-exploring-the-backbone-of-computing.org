@@ -13,4 +13,6 @@ tags: [cs, operating systems, linux]
 #+PROPERTY: header-args :exports both
 #+PROPERTY: header-args+ :results output pp
 #+PROPERTY: header-args+ :eval no-export
+#+PROPERTY: vizier-thread-id thread_F75mhUQ3EgjBfTPFrKqjHtmY
+#+PROPERTY: vizier-assistant-id asst_9U8N72u9uVQesQNNjgOLJOu8
 #+TOC: headlines 2
