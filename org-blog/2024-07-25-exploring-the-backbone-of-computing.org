@@ -1,0 +1,16 @@
+#+BEGIN_EXPORT html
+---
+layout: page
+title: Exploring the Backbone of Computing
+tagline: " from Early Beginnings to Modern Linux"
+permalink: /cs/exploring-the-backbone-of-computing.html
+categories: [cs, operating systems, linux]
+tags: [cs, operating systems, linux]
+---
+#+END_EXPORT
+#+STARTUP: showall indent
+#+OPTIONS: tags:nil num:nil \n:nil @:t ::t |:t ^:{} _:{} *:t
+#+PROPERTY: header-args :exports both
+#+PROPERTY: header-args+ :results output pp
+#+PROPERTY: header-args+ :eval no-export
+#+TOC: headlines 2
