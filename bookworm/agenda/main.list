@@ -1224,6 +1224,10 @@ SCHEDULED: <2024-05-12 Sun>
   * link to original file. For create soft link use command ln -s
 
 *** [#C] I 386 architecture commands
+
+*** [#A] Exploring the Backbone of Computing
+SCHEDULED: <2024-07-26 Fri>
+[[elisp:(bookmark-jump-other-frame "2024-07-25-exploring-the-backbone-of-computing.org")][Link]]
 ** [#A] Git/Magit
 SCHEDULED: <2024-07-25 Thu ++1d>
 :PROPERTIES:
@@ -2744,6 +2748,9 @@ SCHEDULED: <2024-06-25 Tue>
 :LOGBOOK:
 CLOCK: [2024-06-25 Tue 09:28]--[2024-06-25 Tue 10:48] =>  1:20
 :END:
+*** [#A] The Origin and Evolution of Programming Languages
+SCHEDULED: <2024-07-26 Fri>
+[[elisp:(bookmark-jump-other-frame "2024-04-20-python-programming-language.org")][Link]]
 ** DP0 [#A] Flask
 SCHEDULED: <2024-07-25 Thu ++1d>
 :PROPERTIES:
