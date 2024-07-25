@@ -16,3 +16,16 @@ tags: [cs, operating systems, linux]
 #+PROPERTY: vizier-thread-id thread_F75mhUQ3EgjBfTPFrKqjHtmY
 #+PROPERTY: vizier-assistant-id asst_9U8N72u9uVQesQNNjgOLJOu8
 #+TOC: headlines 2
+
+* Preamble
+
+In the vast landscape of computing, operating systems play a crucial
+role as the backbone of every digital device, orchestrating the
+interaction between hardware and software. This article delves into
+the fundamental definition of operating systems, exploring the various
+types that power our technology. We journey through the history of
+their creation, highlighting key milestones that have shaped the
+evolution of computing. Finally, we focus on the Linux operating
+system, a powerhouse in the world of open-source software, examining
+its origins, growth, and impact on modern computing.
+
