@@ -19,6 +19,14 @@ tags: [cs, software development, python]
 
 * Preamble
 
+Programming languages are the foundation of modern computing, bridging
+the gap between human logic and machine execution. This article delves
+into the origins and evolution of programming languages, uncovering
+the key milestones and innovations that have shaped their
+development. Additionally, I provide a beginner-friendly introduction
+to Python, one of the most popular and versatile programming languages
+today.
+
 * The Programming Pillars:
 
 Input/Output
