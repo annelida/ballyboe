@@ -1,4 +1,5 @@
 (load-theme 'wombat);;manoj-dark)
+(desktop-save-mode 1)
 
 ;; add all subdirs from the host's =site-lisp= to ~load-path~
 (let* ((my-lisp-dir "/usr/local/share/emacs/site-lisp/")
