@@ -676,3 +676,14 @@ SCHEDULED: <2024-04-11 Thu>
 :LOGBOOK:
 CLOCK: [2024-04-11 Thu 12:41]--[2024-04-11 Thu 12:51] =>  0:10
 :END:
+
+* AMPLE [#C] gptel
+SCHEDULED: <2024-07-28 Sun>
+:PROPERTIES:
+:ARCHIVE_TIME: 2024-07-28 Sun 21:27
+:ARCHIVE_FILE: ~/git/annelida/ballyboe/bookworm/agenda/main.list
+:ARCHIVE_OLPATH: Learning/Meta/Open AI
+:ARCHIVE_CATEGORY: OpenAI
+:ARCHIVE_TODO: AMPLE
+:END:
+

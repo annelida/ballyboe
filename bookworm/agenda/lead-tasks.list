@@ -508,8 +508,8 @@ Initially all software was used by the ancient (true) users by its
 Stack-Overflow suggestions and notes. Bear this fact in mind do your
 job as it would be done in a sure and fire manner.
 
-*** [#B] *Python* embedded help system
-SCHEDULED: <2024-07-29 Mon ++2d/3d>
+*** DELAY [#B] *Python* embedded help system
+SCHEDULED: <2024-08-20 Tue ++2d/3d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-07-27 Sat 15:15]
 :CATEGORY: Python
@@ -619,8 +619,8 @@ CLOCK: [2023-10-14 Sat 07:30]--[2023-10-14 Sat 08:27] =>  0:57
 Very straighforward system out from 10 initial keys to use in embedded
 *Help* browser.OA To use several *Help* buffers use =M-x raname uniquely=
 
-** RAW [#C] Help about *info*
-SCHEDULED: <2024-07-28 Sun ++1d>
+** DELAY [#C] Help about *info*
+SCHEDULED: <2024-08-26 Mon ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-07-23 Tue 20:38]
 :CATEGORY: Emacs
@@ -680,10 +680,12 @@ Mostly the similar approach with several quirks
 [[file:~/git/annelida/ballyboe/org-blog/2024-05-26-Emacs-help-about-help.org::*The list of commands, which began with C-h prefix][The list of commands, which began with C-h prefix and Info commands]]
 
 * Task decomposition
-SCHEDULED: <2024-07-28 Sun ++1d>
+SCHEDULED: <2024-07-30 Tue ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-07-27 Sat 15:14]
+:LAST_REPEAT: [2024-07-29 Mon 19:33]
 :END:
+- State "AMPLE"      from ""           [2024-07-29 Mon 19:33]
+- State "AMPLE"      from ""           [2024-07-28 Sun 20:41]
 - State "AMPLE"      from ""           [2024-07-27 Sat 15:14]
 - State "AMPLE"      from ""           [2024-07-25 Thu 19:35]
 - State "AMPLE"      from ""           [2024-07-24 Wed 17:45]
@@ -755,7 +757,7 @@ And *notice* the details, please!
 https://www.youtube.com/watch?v=bEfYm8sAaQg
 
 * [#A] Computer Science
-SCHEDULED: <2024-07-28 Sun ++1d>
+SCHEDULED: <2024-07-30 Tue ++1d>
 :PROPERTIES:
 :CATEGORY: CS
 :END:
@@ -892,7 +894,7 @@ CLOCK: [2024-06-23 Sun 07:49]--[2024-06-23 Sun 08:04] =>  0:15
 https://www.geeksforgeeks.org/heap-data-structure/?ref=lbp
 
 *** DELAY [#A] String Data Structure
-SCHEDULED: <2024-07-29 Mon>
+SCHEDULED: <2024-08-20 Tue>
 
 [[https://www.geeksforgeeks.org/complete-guide-to-string-data-structure/?ref=outind]]
 
