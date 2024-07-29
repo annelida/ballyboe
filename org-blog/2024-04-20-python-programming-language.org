@@ -126,135 +126,24 @@ development. Additionally, I provide a beginner-friendly introduction
 to Python, one of the most popular and versatile programming languages
 today.
 
-* The Programming Pillars:
 
-Input/Output
-Assignment
-Comparison operations
-Control flow operations
-Procedures
-Miscelellaneous
+* Notes                                                            :noexport:
 
-** What means =input/output= in Python?
 
-#+begin_quote
-Input/Output (I/O) in Python refers to the process of taking input
-from the user or external sources and displaying output to the user or
-saving it to a file.
-#+end_quote
+A *programming paradigm* is a method or style of programming that
+defines a set of principles, techniques, and patterns for structuring
+code to solve problems on a computer. Programming paradigms can be
+classified into different categories, such as: Imperative
+paradigm. Declarative paradigm. Object-oriented paradigm.
 
 #+begin_quote
-There are no specific keywords in Python dedicated solely for
-input/output (I/O) operations. Python's I/O functionality is primarily
-handled using built-in functions like ~input()~ and ~print()~ rather
-than reserved keywords.
+In *object-oriented* programming language a programming paradigm based
+on the concept of "objects", which may contain data, in the form of
+fields, often known as attributes; and code, in the form of
+procedures, often known as methods. For example, a person is an object
+which has certain properties such as height, gender, age, etc.
 #+end_quote
 
-** What means =assignment= in Python?
-
-#+begin_quote
-In Python, assignment refers to the process of binding a name to a
-value or object.
-#+end_quote
-
-#+begin_quote
-Python's assignment functionality is primarily handled using the
-assignment operator (=) and various augmented assignment operators
-like +=, -=, *=, etc.
-
-The /keywords/ that are most closely related to assignment in Python
-are:
-
-~del~: Used to delete a variable or remove elements from a list,
-tuple, or dictionary;
-
-~global~: Used to declare a variable as global inside a function;
-
-~nonlocal~: Used to declare a variable as non-local inside a nested
-function.
-#+end_quote
-
-** What means =comparison= operation in Python?
-
-#+begin_quote
-Comparison operations in Python refer to the use of comparison or
-relational operators to compare variables or values. These operators
-are essential in Python for making decisions based on conditions and
-for controlling the flow of a program.
-
-Python comparison operators include:
-== (Equal to): Returns true if the two operands are equal.
-
-!= (Not equal to): Returns true if the two operands are not equal.
-
-> (Greater than): Returns true if the value of the left operand is
-greater than the right operand.
-
-< (Less than): Returns true if the value of the left operand is less
-than the right operand.
-
->= (Greater than or equal to): Returns true if the value of the left
-operand is greater or equal to the right operand.
-
-<= (Less than or equal to): Returns true if the value of the left
-operand is less or equal to the right operand.
-#+end_quote
-
-** What is =control flow operations= in programming?
-
-/Control flow/ is the /order/ in which individual statements,
-instructions or function calls of an imperative program are executed
-or evaluated.
-
-Python provides several control flow constructs:
-
-Conditional statements:
-
-- ~if~ statement: Executes a block of code if a condition is True;
-- ~if-else~ statement: Executes one block of code if a condition is
-  True, and another block if it's False;
-- ~if-elif-else~ statement: Allows checking multiple conditions.
-
-Loops:
-
-- ~for~ loop: Iterates over a sequence (like a list or string);
-- ~while~ loop: Executes a block of code as long as a condition is
-  True.
-
-Transfer statements:
-
-- ~break~ statement: Terminates the current loop and resumes execution
-  at the next statement;
-- ~continue~ statement: Skips the current iteration of a loop and
-  moves to the next iteration.
-
-The ~pass~ statement:
-
-The body of a Python compound statement cannot be empty — it must
-contain at least one statement. The ~pass~ statement, which performs
-no action, can be used as a placeholder when a statement is
-syntactically required but you have nothing specific to do.
-
-Exception handling statements:
-
-Python supports exception handling with the ~try~ statement, which
-includes ~try~, ~except~, ~finally~, and ~else~ clauses.
-
-** What is =procedures= in Python?
-
-In Python, "procedures" typically refer to functions that perform
-specific tasks or operations. Procedures (or functions)
-are fundamental building blocks that allow you to encapsulate code
-into reusable and modular units.
-
-These keywords enable the creation and manipulation of functions:
-
-~def~: Used to define a function;
-
-~return~: Used to return a value from a function;
-
-~yield~ Is a powerful tool for creating generators. It's used when you
-need to iterate over a sequence of values efficiently
 
 * Definitions
 
@@ -443,10 +332,136 @@ async      elif       if         or         yield
 | finally      | Execute code even if exception occurred            |
 | raise        | Raise an exception                                 |
 
+* The Programming Pillars:
 
-* Questions
-** Is Python compiled language?
-** Is Python interpreted language?
+Input/Output
+Assignment
+Comparison operations
+Control flow operations
+Procedures
+Miscelellaneous
+
+** What means =input/output= in Python?
+
+#+begin_quote
+Input/Output (I/O) in Python refers to the process of taking input
+from the user or external sources and displaying output to the user or
+saving it to a file.
+#+end_quote
+
+#+begin_quote
+There are no specific keywords in Python dedicated solely for
+input/output (I/O) operations. Python's I/O functionality is primarily
+handled using built-in functions like ~input()~ and ~print()~ rather
+than reserved keywords.
+#+end_quote
+
+** What means =assignment= in Python?
+
+#+begin_quote
+In Python, assignment refers to the process of binding a name to a
+value or object.
+#+end_quote
+
+#+begin_quote
+Python's assignment functionality is primarily handled using the
+assignment operator (=) and various augmented assignment operators
+like +=, -=, *=, etc.
+
+The /keywords/ that are most closely related to assignment in Python
+are:
+
+~del~: Used to delete a variable or remove elements from a list,
+tuple, or dictionary;
+
+~global~: Used to declare a variable as global inside a function;
+
+~nonlocal~: Used to declare a variable as non-local inside a nested
+function.
+#+end_quote
+
+** What means =comparison= operation in Python?
+
+#+begin_quote
+Comparison operations in Python refer to the use of comparison or
+relational operators to compare variables or values. These operators
+are essential in Python for making decisions based on conditions and
+for controlling the flow of a program.
+
+Python comparison operators include:
+== (Equal to): Returns true if the two operands are equal.
+
+!= (Not equal to): Returns true if the two operands are not equal.
+
+> (Greater than): Returns true if the value of the left operand is
+greater than the right operand.
+
+< (Less than): Returns true if the value of the left operand is less
+than the right operand.
+
+>= (Greater than or equal to): Returns true if the value of the left
+operand is greater or equal to the right operand.
+
+<= (Less than or equal to): Returns true if the value of the left
+operand is less or equal to the right operand.
+#+end_quote
+
+** What is =control flow operations= in programming?
+
+/Control flow/ is the /order/ in which individual statements,
+instructions or function calls of an imperative program are executed
+or evaluated.
+
+Python provides several control flow constructs:
+
+Conditional statements:
+
+- ~if~ statement: Executes a block of code if a condition is True;
+- ~if-else~ statement: Executes one block of code if a condition is
+  True, and another block if it's False;
+- ~if-elif-else~ statement: Allows checking multiple conditions.
+
+Loops:
+
+- ~for~ loop: Iterates over a sequence (like a list or string);
+- ~while~ loop: Executes a block of code as long as a condition is
+  True.
+
+Transfer statements:
+
+- ~break~ statement: Terminates the current loop and resumes execution
+  at the next statement;
+- ~continue~ statement: Skips the current iteration of a loop and
+  moves to the next iteration.
+
+The ~pass~ statement:
+
+The body of a Python compound statement cannot be empty — it must
+contain at least one statement. The ~pass~ statement, which performs
+no action, can be used as a placeholder when a statement is
+syntactically required but you have nothing specific to do.
+
+Exception handling statements:
+
+Python supports exception handling with the ~try~ statement, which
+includes ~try~, ~except~, ~finally~, and ~else~ clauses.
+
+** What is =procedures= in Python?
+
+In Python, "procedures" typically refer to functions that perform
+specific tasks or operations. Procedures (or functions)
+are fundamental building blocks that allow you to encapsulate code
+into reusable and modular units.
+
+These keywords enable the creation and manipulation of functions:
+
+~def~: Used to define a function;
+
+~return~: Used to return a value from a function;
+
+~yield~ Is a powerful tool for creating generators. It's used when you
+need to iterate over a sequence of values efficiently
+
 * Data model
 ** Objects, values and types
 
@@ -618,23 +633,6 @@ programming.
 
 
 
-
-* Notes                                                            :noexport:
-
-
-A *programming paradigm* is a method or style of programming that
-defines a set of principles, techniques, and patterns for structuring
-code to solve problems on a computer. Programming paradigms can be
-classified into different categories, such as: Imperative
-paradigm. Declarative paradigm. Object-oriented paradigm.
-
-#+begin_quote
-In *object-oriented* programming language a programming paradigm based
-on the concept of "objects", which may contain data, in the form of
-fields, often known as attributes; and code, in the form of
-procedures, often known as methods. For example, a person is an object
-which has certain properties such as height, gender, age, etc.
-#+end_quote
-
-
-
+* Questions
+** Is Python compiled language?
+** Is Python interpreted language?
