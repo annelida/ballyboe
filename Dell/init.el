@@ -1,4 +1,4 @@
-(load-theme 'wombat);;manoj-dark)
+(load-theme 'wombat);;man-dark)
 (desktop-save-mode 1)
 
 ;; add all subdirs from the host's =site-lisp= to ~load-path~
@@ -77,10 +77,10 @@
 
 
 ;; OpenAI section
-(require 'gptel)
-(require 'gptel-transient)
-(require 'gptel-curl)
-(setq gptel-api-key (getenv "OPENAI_API_KEY"))
+;; (require 'gptel)
+;; (require 'gptel-transient)
+;; (require 'gptel-curl)
+;; (setq gptel-api-key (getenv "OPENAI_API_KEY"))
 
 ;; Jekyll settings
 ;;
