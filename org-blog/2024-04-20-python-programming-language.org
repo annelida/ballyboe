@@ -126,7 +126,8 @@ development. Additionally, I provide a beginner-friendly introduction
 to Python, one of the most popular and versatile programming languages
 today.
 
-* What is a programming language, and what are its core components?
+* General overview
+** What is a programming language, and what are its core components?
 
 *A programming language* is a system of notation for writing computer
 programs.
@@ -218,7 +219,7 @@ This basic illustration covers the essential components of a
 programming language and helps in understanding how these elements
 work together to form executable programs.  #+end_src
 
-* How do programming languages translate human-readable code into machine-readable instructions?
+** How do programming languages translate human-readable code into machine-readable instructions?
 #+begin_src markdown
   Programming languages translate human-readable code into
   machine-readable instructions through a series of systematic steps
@@ -368,6 +369,219 @@ This detailed process illustrates how human-readable code is
 meticulously translated into machine-readable instructions, enabling
 the proper execution of software tasks.  #+end_src
 
+
+
+
+** What are the major categories of programming languages (e.g. procedural, functional, object-oriented, declarative)? 
+
+
+#+begin_src markdown
+  Programming languages can be categorized based on their paradigms and
+  styles of programming. Here are the major categories:
+
+  ,**1. Procedural Programming Languages**
+
+  ,**Definition:** These languages are based on the concept of procedure
+  calls, where the program is a sequence of statements that change the
+  program's state.
+  ,**Key Features:**
+  - Sequence of instructions.
+  - Use of variables to hold data.
+  - Use of loops and conditionals for flow control.  **Examples:** C,
+  Pascal, Ada **Code Example:** C ```org
+  ,#+begin_src c
+  #include <stdio.h>
+
+  // Function definition int add(int a, int b) { return a + b; }
+
+  int main() { int result = add(10, 5); printf("Result: %d\n", result);
+      return 0; }
+#+end_src
+```
+
+,**2. Object-Oriented Programming (OOP) Languages**
+
+,**Definition:** These languages are organized around objects rather
+than actions and data rather than logic.
+
+**Key Features:**
+- Encapsulation: Bundling data and methods that operate on the data.
+- Inheritance: Defining new classes based on existing ones.
+- Polymorphism: Using a single interface to represent different data
+  types.
+- Abstraction: Hiding complex implementation details.
+
+**Examples:** Java, C++, Python
+**Code Example:** Python
+```org
+#+begin_src python
+class Animal:
+    def __init__(self, name):
+        self.name = name
+
+    def speak(self):
+        pass
+
+class Dog(Animal):
+    def speak(self):
+        return "Woof!"
+
+dog = Dog("Buddy")
+print(dog.speak())
+#+end_src
+```
+
+**3. Functional Programming (FP) Languages**
+
+,**Definition:** These languages treat computation as the evaluation
+of mathematical functions and avoid changing-state and mutable data.
+
+**Key Features:**
+- First-class functions: Functions are treated as first-class citizens.
+- Pure functions: Functions have no side effects.
+- Higher-order functions: Functions that take other functions as
+  arguments or return them as results.
+- Recursion: Using functions to loop instead of iterative constructs.
+**Examples:** Haskell, Lisp, Erlang
+**Code Example:** Haskell
+```org
+#+begin_src haskell
+-- Function definition
+add :: Int -> Int -> Int
+add x y = x + y
+
+main = do
+    let result = add 10 5
+    print result
+#+end_src
+```
+
+**4. Declarative Programming Languages**
+
+**Definition:** These languages express the logic of a computation
+without describing its control flow.
+
+**Key Features:**
+- Specify *what* the program should accomplish rather than *how* to
+  accomplish it.
+- Include sub-paradigms like logic programming and constraint
+  programming.
+**Examples:** SQL, Prolog, HTML
+**Code Example:** SQL
+```org
+#+begin_src sql
+-- SQL Query to retrieve all records from a table
+SELECT * FROM employees WHERE department = 'Sales';
+#+end_src
+```
+
+**4.1 Logic Programming Languages**
+
+**Definition:** These are a subset of declarative languages that use
+formal logic to express computations.
+
+**Key Features:**
+- Use of facts, rules, and queries.
+- Resolution-based inference engines.
+**Examples:** Prolog, Datalog
+**Code Example:** Prolog
+```org
+#+begin_src prolog
+% Facts
+parent(john, mary).
+parent(mary, andrew).
+
+% Rule
+grandparent(X, Y) :- parent(X, Z), parent(Z, Y).
+
+% Query
+?- grandparent(john, andrew).
+#+end_src
+```
+
+**4.2 Constraint Programming Languages**
+
+**Definition:** These languages solve problems by stating constraints
+that must be satisfied, rather than by specifying a detailed procedure.
+**Key Features:**
+- Variables, domains, and constraints.
+- Constraint satisfaction problems (CSP).
+**Examples:** MiniZinc, Prolog (with constraint libraries)
+**Code Example:** MiniZinc
+```org
+#+begin_src minizinc
+% Variables
+var 1..10: x;
+var 1..10: y;
+
+% Constraints
+constraint x + y == 10;
+
+% Solve
+solve satisfy;
+
+output ["x = ", show(x), ", y = ", show(y)];
+#+end_src
+```
+
+**5. Scripting Languages**
+
+**Definition:** These are languages designed for integrating and
+**communicating with other programming languages.
+
+**Key Features:**
+- Often used for automating tasks.
+- Interpreted rather than compiled.
+- Dynamic typing and high-level data structures.
+**Examples:** Python, JavaScript, Perl
+**Code Example:** JavaScript
+```org
+#+begin_src javascript
+// Function definition
+function add(a, b) {
+    return a + b;
+}
+
+let result = add(10, 5);
+console.log("Result:", result);
+#+end_src
+```
+
+**6. Domain-Specific Languages (DSLs)**
+
+**Definition:** These are languages specialized to a particular application domain.
+**Key Features:**
+- Designed for specific tasks.
+- More expressive and concise within their domain.
+**Examples:** SQL (database queries), HTML (web page layout), Verilog (hardware description)
+**Code Example:** HTML
+```org
+#+begin_src html
+  <!DOCTYPE html>
+  <html>
+  <head>
+      <title>Sample Page</title>
+  </head>
+  <body>
+      <h1>Hello, World!</h1>
+  </body>
+  </html>
+  ```
+
+  ,**Further Reading and Resources** - [Structure and Interpretation of
+  Computer
+  Programs](https://mitpress.mit.edu/sites/default/files/sicp/index.html)
+  - [Programming Language Concepts by Peter Van Roy and Seif
+  Haridi](https://mitpress.mit.edu/books/concepts-techniques-and-models-computer-programming)
+  - [Python's official documentation](https://docs.python.org/3/) -
+  [JavaScript's MDN Web
+  Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) -
+  [SQL Tutorial](https://www.w3schools.com/sql/)
+
+  This classification helps in understanding the various styles and
+  methodologies that different programming languages embody, enabling
+  developers to choose the right tool for the task at hand.
+#+end_src
 
 
 * Notes                                                            :noexport:
@@ -877,6 +1091,9 @@ programming.
 * Questions
 ** Is Python compiled language?
 ** Is Python interpreted language?
+
+
+
 
 
 
