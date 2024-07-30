@@ -2,7 +2,19 @@
 ;;; This format is meant to be slightly human-readable;
 ;;; nevertheless, you probably don't want to edit it.
 ;;; -*- End Of Bookmark File Format Version Stamp -*-
-(#1=(#("2024-07-25-exploring-the-backbone-of-computing.org" 0 50
+(#1=(#("startup.org" 0 11
+      (bmkp-full-record #1#))
+    (filename . "~/git/0--key/philomath/startup.org")
+    (buffer-name . "startup.org")
+    (front-context-string . "/Prompt:/ \"Can y")
+    (rear-context-string . " Definitions:\n- ")
+    (front-context-region-string)
+    (rear-context-region-string)
+    (visits . 1)
+    (time 26280 37070 74300 525000)
+    (created 26280 36995 60240 760000)
+    (position . 491))
+#1=(#("2024-07-25-exploring-the-backbone-of-computing.org" 0 50
       (bmkp-full-record #1#))
     (filename . "~/git/annelida/ballyboe/org-blog/2024-07-25-exploring-the-backbone-of-computing.org")
     (buffer-name . "2024-07-25-exploring-the-backbone-of-computing.org")
@@ -293,8 +305,8 @@
     (rear-context-string . "amming Languages")
     (front-context-region-string)
     (rear-context-region-string)
-    (visits . 1)
-    (time 26279 19439 132448 466000)
+    (visits . 2)
+    (time 26280 40926 51271 556000)
     (created 26274 20925 784350 954000)
     (position . 94))
 #1=(#("Org-mode commands" 0 17
