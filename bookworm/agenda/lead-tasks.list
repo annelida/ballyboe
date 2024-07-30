@@ -303,10 +303,11 @@ CLOCK: [2024-06-24 Mon 14:02]--[2024-06-24 Mon 14:03] =>  0:01
 :END:
 
 *** [#A] Text generation models
-SCHEDULED: <2024-07-30 Tue ++2d>
+SCHEDULED: <2024-08-01 Thu ++2d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-07-25 Thu 19:35]
+:LAST_REPEAT: [2024-07-30 Tue 08:04]
 :END:
+- State "AMPLE"      from ""           [2024-07-30 Tue 08:04]
 - State "AMPLE"      from ""           [2024-07-25 Thu 19:35]
 - State "AMPLE"      from ""           [2024-07-25 Thu 19:35]
 - State "AMPLE"      from ""           [2024-07-23 Tue 20:39]
@@ -680,10 +681,11 @@ Mostly the similar approach with several quirks
 [[file:~/git/annelida/ballyboe/org-blog/2024-05-26-Emacs-help-about-help.org::*The list of commands, which began with C-h prefix][The list of commands, which began with C-h prefix and Info commands]]
 
 * Task decomposition
-SCHEDULED: <2024-07-30 Tue ++1d>
+SCHEDULED: <2024-07-31 Wed ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-07-29 Mon 19:33]
+:LAST_REPEAT: [2024-07-30 Tue 19:30]
 :END:
+- State "AMPLE"      from ""           [2024-07-30 Tue 19:30]
 - State "AMPLE"      from ""           [2024-07-29 Mon 19:33]
 - State "AMPLE"      from ""           [2024-07-28 Sun 20:41]
 - State "AMPLE"      from ""           [2024-07-27 Sat 15:14]
@@ -757,7 +759,7 @@ And *notice* the details, please!
 https://www.youtube.com/watch?v=bEfYm8sAaQg
 
 * [#A] Computer Science
-SCHEDULED: <2024-07-30 Tue ++1d>
+SCHEDULED: <2024-07-31 Wed ++1d>
 :PROPERTIES:
 :CATEGORY: CS
 :END:
