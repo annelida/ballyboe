@@ -735,6 +735,10 @@ class Dog(Animal):
 dog = Dog("Buddy")
 print(dog.speak())
 #+end_src
+
+#+RESULTS:
+: Woof!
+
 ```
 
 **3. Functional Programming**
@@ -797,10 +801,19 @@ print(user.name)  # Output: Alice
 ```
 
 **Summary:**
-- **Procedural Programming:** Python can be used in a procedural style, where code is organized into functions and sequentially executed instructions.
-- **Object-Oriented Programming (OOP):** Python supports OOP with classes and objects, encapsulation, inheritance, and polymorphism.
-- **Functional Programming:** Python has first-class functions, supports higher-order functions, and provides constructs like `map`, `filter`, and lambdas, making it suitable for functional programming.
-- **Declarative Programming (Limited):** Python support for declarative programming is more limited and typically achieved through specific libraries and frameworks, such as SQLAlchemy for ORM.
+- **Procedural Programming:** Python can be used in a procedural
+  style, where code is organized into functions and sequentially
+  executed instructions.
+- **Object-Oriented Programming (OOP):** Python supports OOP with
+  classes and objects, encapsulation, inheritance, and polymorphism.
+- **Functional Programming:** Python has first-class functions,
+  supports higher-order functions, and provides constructs like `map`,
+  `filter`, and lambdas, making it suitable for functional
+  programming.
+- **Declarative Programming (Limited):** Python support for
+  declarative programming is more limited and typically achieved
+  through specific libraries and frameworks, such as SQLAlchemy for
+  ORM.
 
 This flexibility allows developers to choose the most suitable
 paradigm or mix and match paradigms to best suit the needs of their
