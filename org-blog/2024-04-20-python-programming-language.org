@@ -685,8 +685,132 @@ console.log("Result:", result);
   developers to choose the right tool for the task at hand.
 #+end_src
 
+** Which category does Python belong to: procedural, functional, object-oriented, or declarative?
+Provide, please a code examples in Org-babel format.
+
+#+begin_src markdown
+  Python is a multi-paradigm programming language, which means it
+  supports multiple programming paradigms: procedural, object-oriented,
+  functional, and to a lesser extent, declarative programming. Here are
+  examples demonstrating each paradigm in Python:
+
+  ,**1. Procedural Programming**
+
+  ```org
+  ,#+begin_src python
+  # Procedural style code
+
+  # Function definition
+  def greet(name): print(f"Hello, {name}!")
+
+  # Main procedure
+  if __name__ == "__main__": greet("World") # Function call
+
+      # Loop to print iterations
+      for i in range(3):
+          print(f"Iteration {i}")
+#+end_src
+```
+
+**2. Object-Oriented Programming (OOP)**
+
+```org
+#+begin_src python
+# Object-Oriented style code
+
+# Class definition
+class Animal:
+    def __init__(self, name):
+        self.name = name
+
+    def speak(self):
+        pass
+
+# Subclass definition
+class Dog(Animal):
+    def speak(self):
+        return "Woof!"
+
+# Object instantiation
+dog = Dog("Buddy")
+print(dog.speak())
+#+end_src
+```
+
+**3. Functional Programming**
+
+```org
+#+begin_src python
+# Functional style code
+
+# Higher-order function
+def apply_function(func, value):
+    return func(value)
+
+# Lambda function definition
+increment = lambda x: x + 1
+
+# Use of map and filter with lambda functions
+numbers = [1, 2, 3, 4, 5]
+squared = map(lambda x: x * x, numbers)
+evens = filter(lambda x: x % 2 == 0, numbers)
+
+print(list(squared))  # Output: [1, 4, 9, 16, 25]
+print(list(evens))    # Output: [2, 4]
+#+end_src
+```
+
+**4. Declarative Programming (Limited, using SQLAlchemy ORM)**
+
+```org
+#+begin_src python
+# Declarative style code using SQLAlchemy ORM
+
+from sqlalchemy import Column, Integer, String, create_engine
+from sqlalchemy.ext.declarative import declarative_base
+from sqlalchemy.orm import sessionmaker
+
+# Declarative base class
+Base = declarative_base()
+
+# User class definition with SQLAlchemy ORM
+class User(Base):
+    __tablename__ = 'users'
+    id = Column(Integer, primary_key=True)
+    name = Column(String)
+
+# Database engine creation
+engine = create_engine('sqlite:///:memory:')
+Base.metadata.create_all(engine)
+Session = sessionmaker(bind=engine)
+session = Session()
+
+# Adding a new user declaratively
+new_user = User(name='Alice')
+session.add(new_user)
+session.commit()
+
+# Querying the user
+user = session.query(User).first()
+print(user.name)  # Output: Alice
+#+end_src
+```
+
+**Summary:**
+- **Procedural Programming:** Python can be used in a procedural style, where code is organized into functions and sequentially executed instructions.
+- **Object-Oriented Programming (OOP):** Python supports OOP with classes and objects, encapsulation, inheritance, and polymorphism.
+- **Functional Programming:** Python has first-class functions, supports higher-order functions, and provides constructs like `map`, `filter`, and lambdas, making it suitable for functional programming.
+- **Declarative Programming (Limited):** Python support for declarative programming is more limited and typically achieved through specific libraries and frameworks, such as SQLAlchemy for ORM.
+
+This flexibility allows developers to choose the most suitable
+paradigm or mix and match paradigms to best suit the needs of their
+application.  #+end_src
+
 * Historical Context
 ** What were the first programming languages developed, and what problems were they designed to solve?
+
+
+
 * Notes                                                            :noexport:
 
 
@@ -1204,4 +1328,12 @@ programming.
 
 
 
+
+
+
+
+
+
+
+ 
 
