@@ -31,22 +31,75 @@ monitored using a unique identifier called the Process ID (PID).
 
 ** Types of processes in Linux
 
-Linux processes can be classified based on their interaction with the
-user, priority, parent-child relationships, and their state after
-termination.
+1. Foreground Processes
 
-*Foreground Processes (Interactive processes)* - depend on user input
-and run in the foreground. They receive input from the keyboard and
-send output to the screen;
+   - These are processes that you start and interact with directly in
+     the terminal. They take over the terminal and keep it occupied
+     until they finish running or are stopped manually.
 
-*Background Processes (NOn-Interactive processes)* - these processes
-run independently of user input and can be executed in parallel with
-other processes. They do not require keyboard input;
+     #+begin_src sh
+     sh nano myfile.txt
+     #+end_src
 
-*Daemon Processes* - system-related background processes that
-often run with root permissions and wait for requests from other
-processes. They run in the background and are not associated with a
-terminal.
+     While `nano` is open, you cannot run other commands in the same
+     terminal window until you exit `nano` (using `Ctrl + X`).
+
+2. Background Processes
+
+   - These processes run in the background, allowing you to continue
+     using the terminal for other tasks. You can start a background
+     process by appending an `&` at the end of the command. Background
+     processes do not require direct user interaction once started.
+
+     #+begin_src sh
+     ./myscript.sh &
+     #+end_src
+
+     The script `myscript.sh` will run in the background, and you get
+     the terminal prompt back immediately to run other commands.
+
+3. Daemon Processes
+
+   - Daemons are background processes that typically start
+     automatically when the system boots and run continuously to
+     provide crucial services. They do not have a controlling terminal
+     and are used by the system to perform various tasks like handling
+     network requests, managing system logs, etc.
+
+     The `sshd` daemon (Secure Shell Daemon): Provides remote login
+     capabilities to your system.
+
+     #+begin_src sh
+     sudo systemctl start sshd  # Starts the SSH daemon service
+     sudo systemctl status sshd # Checks the status of the SSH daemon service
+     #+end_src
+
+4. System Processes
+
+   - These are processes essential for system operation, started by
+     the system itself (often at boot time). They handle various
+     low-level tasks and system management functions.
+
+     `systemd`: The primary system and service manager for many Linux
+     distributions.
+
+     #+begin_src sh
+     ps -e | grep systemd  # Shows the systemd process running
+     #+end_src
+
+5. User Processes
+
+   - Any processes started by users, either through the terminal or a
+     graphical interface. These processes handle user-level
+     applications and tasks.
+
+     /Example:/ When you start a web browser like Firefox, it runs as
+     a user process. Launching it from the terminal could look like
+     this:
+
+     #+begin_src sh
+     firefox &
+     #+end_src
 
 ** Process' states in Linux
 
