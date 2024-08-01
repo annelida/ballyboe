@@ -16,16 +16,10 @@ tags: [linux, process-management]
 
 * Introduction
 
-A process In Linux is a running instance of a computer program. Any
-command that you execute starts a process.
-
-Occasionally processes may consume a lot of resources and need to be
-killed. Alternatively, you may want to change the priority level of a
-process, so the system will allocate more resources to it.  All these
-tasks require you to do the same thing: listen the running processes
-on Linux and manage it.
-
-#+begin_quote
+Process management is a critical aspect of administering a Linux
+system. It involves starting, monitoring, controlling, and terminating
+processes. Understanding how to effectively manage processes can help
+ensure that your system runs smoothly and efficiently.
 
 ** Types of processes in Linux
 
