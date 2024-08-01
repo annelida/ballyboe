@@ -303,10 +303,11 @@ CLOCK: [2024-06-24 Mon 14:02]--[2024-06-24 Mon 14:03] =>  0:01
 :END:
 
 *** [#A] Text generation models
-SCHEDULED: <2024-08-01 Thu ++2d>
+SCHEDULED: <2024-08-03 Sat ++2d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-07-30 Tue 08:04]
+:LAST_REPEAT: [2024-07-31 Wed 18:53]
 :END:
+- State "AMPLE"      from ""           [2024-07-31 Wed 18:53]
 - State "AMPLE"      from ""           [2024-07-30 Tue 08:04]
 - State "AMPLE"      from ""           [2024-07-25 Thu 19:35]
 - State "AMPLE"      from ""           [2024-07-25 Thu 19:35]
@@ -681,10 +682,12 @@ Mostly the similar approach with several quirks
 [[file:~/git/annelida/ballyboe/org-blog/2024-05-26-Emacs-help-about-help.org::*The list of commands, which began with C-h prefix][The list of commands, which began with C-h prefix and Info commands]]
 
 * Task decomposition
-SCHEDULED: <2024-07-31 Wed ++1d>
+SCHEDULED: <2024-08-02 Fri ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-07-30 Tue 19:30]
+:LAST_REPEAT: [2024-08-01 Thu 18:56]
 :END:
+- State "AMPLE"      from ""           [2024-08-01 Thu 18:56]
+- State "AMPLE"      from ""           [2024-07-31 Wed 18:53]
 - State "AMPLE"      from ""           [2024-07-30 Tue 19:30]
 - State "AMPLE"      from ""           [2024-07-29 Mon 19:33]
 - State "AMPLE"      from ""           [2024-07-28 Sun 20:41]
@@ -759,10 +762,13 @@ And *notice* the details, please!
 https://www.youtube.com/watch?v=bEfYm8sAaQg
 
 * [#A] Computer Science
-SCHEDULED: <2024-07-31 Wed ++1d>
+SCHEDULED: <2024-08-02 Fri ++1d>
 :PROPERTIES:
 :CATEGORY: CS
+:LAST_REPEAT: [2024-08-01 Thu 18:55]
 :END:
+- State "AMPLE"      from ""           [2024-08-01 Thu 18:55]
+- State "AMPLE"      from ""           [2024-07-31 Wed 18:53]
 :LOGBOOK:
 CLOCK: [2024-07-24 Wed 09:10]--[2024-07-24 Wed 09:38] =>  0:28
 CLOCK: [2024-07-23 Tue 08:02]--[2024-07-23 Tue 09:02] =>  1:00
@@ -823,10 +829,11 @@ SCHEDULED: <2024-09-02 Mon ++1w>
 [[https://realpython.com/python-hash-table/
 ]]
 *** [#A] Array Data Structures
-SCHEDULED: <2024-07-31 Wed ++1w>
+SCHEDULED: <2024-08-07 Wed ++1w>
 :PROPERTIES:
-:LAST_REPEAT: [2024-07-23 Tue 20:39]
+:LAST_REPEAT: [2024-07-31 Wed 18:52]
 :END:
+- State "AMPLE"      from ""           [2024-07-31 Wed 18:52]
 - State "AMPLE"      from ""           [2024-07-23 Tue 20:39]
 - State "AMPLE"      from ""           [2024-07-16 Tue 19:20]
 - State "AMPLE"      from ""           [2024-07-09 Tue 18:11]
