@@ -21,6 +21,14 @@ system. It involves starting, monitoring, controlling, and terminating
 processes. Understanding how to effectively manage processes can help
 ensure that your system runs smoothly and efficiently.
 
+* What is a Process?
+
+*Definition:* A process in Linux refers to a program that is currently
+running. It includes the program's code, what the program is doing
+at the moment, and the resources it needs to operate. Every time you
+execute a command, Linux starts a new process. These processes are
+monitored using a unique identifier called the Process ID (PID).
+
 ** Types of processes in Linux
 
 Linux processes can be classified based on their interaction with the
