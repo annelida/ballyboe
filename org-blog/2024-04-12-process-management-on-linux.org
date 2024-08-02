@@ -120,23 +120,42 @@ monitored using a unique identifier called the Process ID (PID).
      firefox &
      #+end_src
 
-** Process' states in Linux
+** States of Processes in Linux
 
-Running:
-A process in running state means that it is running or it’s
-ready to run.
+1. Running (R)
 
-Sleeping (interruptible sleep, uninterruptible sleep): When it is
-waiting for a resource to be available. A process in Interruptible
-sleep will wakeup to handle signals, whereas a process in
-Uninterruptible sleep will not.
+   - A process is in the "Running" state when it is either currently
+     using the CPU or is ready to use the CPU as soon as it becomes
+     available. Displayed as `R` in process status outputs.
 
-Stopped:
-When it receives a stop signal.
+2. Sleeping (S and D)
 
-Zombie
-When a process is dead but the entry for the process is
-still present in the table.
+   - *Interruptible Sleep (S)*:
+     - A process is in "Interruptible Sleep" when it is waiting for an
+       event or resource (such as input/output operation) and can be
+       awakened by signals. Displayed as `S` in process status
+       outputs.
+
+   - *Uninterruptible Sleep (D)*:
+     - A process is in "Uninterruptible Sleep" when it is waiting for
+       a low-level resource, typically I/O operation, and cannot be
+       interrupted by signals. Displayed as `D` in process status
+       outputs.
+
+3. Stopped (T)
+
+   - A process is in the "Stopped" state if it has been paused,
+     typically by receiving a `SIGSTOP` or `SIGTSTP` signal. This can
+     happen intentionally by the user or a debugger. Displayed as `T`
+     in process status outputs.
+
+4. Zombie (Z)
+
+   - A process is in the "Zombie" state if it has finished execution
+     but still has an entry in the process table. Displayed as `Z` in
+     process status outputs.
+
+
 
 ** Commands for Process Management in Linux
 
