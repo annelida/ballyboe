@@ -58,6 +58,13 @@ monitored using a unique identifier called the Process ID (PID).
      The script `myscript.sh` will run in the background, and you get
      the terminal prompt back immediately to run other commands.
 
+     Listing background jobs and bringing them to the foreground
+
+     #+begin_src sh
+     jobs                     # List current background jobs
+     fg %1                    # Bring job number 1 back to the foreground
+     #+end_src
+
 3. Daemon Processes
 
    - Daemons are background processes that typically start
