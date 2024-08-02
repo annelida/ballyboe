@@ -76,6 +76,26 @@ wheel        0.38.4
   template with the provided data;
 - Finally, we printed the rendered output string.
 
+* Basic Syntax
+
+Jinja2 uses different delimiters to distinguish between various
+elements within a template, including variables, control structures,
+and comments.
+
+** Variable Delimiters (`{{ }}`)
+
+These delimiters are used to output the value of a variable or an
+expression within a template.
+
+#+begin_src python
+  from jinja2 import Template
+  template = Template('Hello, {{ name }}!')
+  rendered = template.render(name='Viktoriia')
+  print(rendered)
+#+end_src
+
+#+RESULTS:
+: Hello, Viktoriia!
 
 * Render Jinja variable with filter
 
