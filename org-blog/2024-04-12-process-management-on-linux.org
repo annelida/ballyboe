@@ -81,6 +81,18 @@ monitored using a unique identifier called the Process ID (PID).
      sudo systemctl status sshd # Checks the status of the SSH daemon service
      #+end_src
 
+*** The key differences between Background and Daemon processes
+
+| Feature                 | Background Process               | Daemon Process                         |
+|-------------------------+----------------------------------+----------------------------------------|
+| **Started By**          | User                             | System or Administrator                |
+| **Terminal Attachment** | Initially attached               | No controlling terminal                |
+| **Purpose**             | Run user tasks in the background | Provide ongoing system services        |
+| **Lifecycle**           | Temporary, can terminate or end  | Long-running, usually run continuously |
+| **Management Commands** | `jobs`, `fg`, `bg`, `kill`       | `systemctl`, `service`, `init`         |
+| **Logging**             | Output directed to terminal      | Logs to system files (/var/log/)       |
+
+
 4. System Processes
 
    - These are processes essential for system operation, started by
@@ -266,4 +278,3 @@ running processes.
 
 
 ** Notes
-
