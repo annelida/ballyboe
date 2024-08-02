@@ -97,6 +97,40 @@ expression within a template.
 #+RESULTS:
 : Hello, Viktoriia!
 
+** Statement Delimiters (`{% %}`)
+
+These delimiters are used for control structures such as loops and
+conditionals, and for calling functions or macros.
+
+#+begin_src python
+  from jinja2 import Template
+
+  template = Template('''
+  {% if user.is_logged_in %}
+    Welcome back, {{ user.name }}!
+  {% else %}
+    Please log in.
+  {% endif %}
+  ''')
+  rendered = template.render(user={'is_logged_in': True, 'name': 'Viktoriia'})
+  print(rendered)
+  # Output: Welcome back, Viktoriia!
+
+  rendered = template.render(user={'is_logged_in': False, 'name': 'Viktoriia'})
+  print(rendered)
+  # Output: Please log in.
+#+end_src
+
+#+RESULTS:
+: 
+: 
+:   Welcome back, Viktoriia!
+: 
+: 
+: 
+:   Please log in.
+: 
+
 * Render Jinja variable with filter
 
 #+begin_src python :results output
