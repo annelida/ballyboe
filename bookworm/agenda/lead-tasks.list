@@ -302,11 +302,13 @@ CLOCK: [2024-06-24 Mon 14:10]--[2024-06-24 Mon 15:10] =>  1:00
 CLOCK: [2024-06-24 Mon 14:02]--[2024-06-24 Mon 14:03] =>  0:01
 :END:
 
-*** [#A] Text generation models
-SCHEDULED: <2024-08-03 Sat ++2d>
+*** Text generation models
+SCHEDULED: <2024-08-07 Wed ++2d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-07-31 Wed 18:53]
+:LAST_REPEAT: [2024-08-05 Mon 19:56]
 :END:
+- State "AMPLE"      from ""           [2024-08-05 Mon 19:56]
+- State "AMPLE"      from ""           [2024-08-04 Sun 18:39]
 - State "AMPLE"      from ""           [2024-07-31 Wed 18:53]
 - State "AMPLE"      from ""           [2024-07-30 Tue 08:04]
 - State "AMPLE"      from ""           [2024-07-25 Thu 19:35]
@@ -348,11 +350,12 @@ CLOCK: [2024-06-28 Fri 08:53]--[2024-06-28 Fri 09:53] =>  1:00
 [[https://platform.openai.com/docs/api-reference/chat/create]]
 
 *** [#B] Prompt engineering
-SCHEDULED: <2024-08-04 Sun ++1w>
+SCHEDULED: <2024-08-11 Sun ++1w>
 :PROPERTIES:
-:LAST_REPEAT: [2024-07-27 Sat 15:15]
+:LAST_REPEAT: [2024-08-04 Sun 18:39]
 :END:
 
+- State "AMPLE"      from ""           [2024-08-04 Sun 18:39]
 - State "AMPLE"      from ""           [2024-07-27 Sat 15:15]
 - State "AMPLE"      from ""           [2024-07-20 Sat 18:45]
 - State "AMPLE"      from ""           [2024-07-13 Sat 17:54]
@@ -360,10 +363,11 @@ SCHEDULED: <2024-08-04 Sun ++1w>
 [[https://platform.openai.com/docs/guides/prompt-engineering]]
 
 *** [#A] Assistants API
-SCHEDULED: <2024-08-03 Sat ++1w>
+SCHEDULED: <2024-08-10 Sat ++1w>
 :PROPERTIES:
-:LAST_REPEAT: [2024-07-27 Sat 15:14]
+:LAST_REPEAT: [2024-08-04 Sun 18:39]
 :END:
+- State "AMPLE"      from ""           [2024-08-04 Sun 18:39]
 - State "AMPLE"      from ""           [2024-07-27 Sat 15:14]
 - State "AMPLE"      from ""           [2024-07-20 Sat 08:17]
 - State "AMPLE"      from ""           [2024-07-13 Sat 17:51]
@@ -681,11 +685,12 @@ CLOCK: [2023-10-14 Sat 08:45]--[2023-10-14 Sat 09:18] =>  0:33
 Mostly the similar approach with several quirks
 [[file:~/git/annelida/ballyboe/org-blog/2024-05-26-Emacs-help-about-help.org::*The list of commands, which began with C-h prefix][The list of commands, which began with C-h prefix and Info commands]]
 
-* Task decomposition
-SCHEDULED: <2024-08-02 Fri ++1d>
+* [#A] Task decomposition
+SCHEDULED: <2024-08-06 Tue ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-08-01 Thu 18:56]
+:LAST_REPEAT: [2024-08-04 Sun 18:39]
 :END:
+- State "AMPLE"      from ""           [2024-08-04 Sun 18:39]
 - State "AMPLE"      from ""           [2024-08-01 Thu 18:56]
 - State "AMPLE"      from ""           [2024-07-31 Wed 18:53]
 - State "AMPLE"      from ""           [2024-07-30 Tue 19:30]
@@ -761,8 +766,8 @@ And *notice* the details, please!
 [[https://www.youtube.com/watch?v=48JlgiBpw_I]]
 https://www.youtube.com/watch?v=bEfYm8sAaQg
 
-* [#A] Computer Science
-SCHEDULED: <2024-08-02 Fri ++1d>
+* Computer Science
+SCHEDULED: <2024-08-05 Mon ++1d>
 :PROPERTIES:
 :CATEGORY: CS
 :LAST_REPEAT: [2024-08-01 Thu 18:55]
