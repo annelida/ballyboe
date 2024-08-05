@@ -40,6 +40,8 @@ learn how to reach the level you need to be at.
 It’s worth noting that the level you need to reach is likely higher
 than you think, but we’ll discuss that later.
 
+* The First Level: "Remembering"
+
 The first level focuses on memorization. This involves a lot of
 rereading and rewriting, and is usually very repetitive. It can feel
 tedious and often makes us drowsy. This level is called "Remembering."
@@ -53,6 +55,8 @@ professional life. Confusingly, even though this first level is called
 "Remembering," it is not an effective way to retain what you
 learn. We’ll address that later.
 
+* The Second level: "Understanding"
+
 The second level of learning focuses on truly comprehending what you
 are studying, rather than just repeatedly trying to cram information
 into your brain. This level is called "Understanding." There’s a
@@ -60,12 +64,12 @@ reason I refer to these as levels of thinking rather than levels of
 studying: your intentions matter. Two people could use exactly the
 same technique, and from an outsider’s perspective, it might look
 identical. When asked how they study, one might say, “I’m just reading
-my textbook”—but mentally, they are in different places. The person at
-level one might mean, “I’m rereading it over and over to get it stuck
-in my head,” whereas the person at level two is reading to truly
+my textbook”— but mentally, they are in different places. The person
+at level one might mean, “I’m rereading it over and over to get it
+stuck in my head,” whereas the person at level two is reading to truly
 understand what the content is communicating.
 
-Naturally, at level two thinking—Understanding—we unlock the ability
+Naturally, at level two thinking "Understanding" we unlock the ability
 to "Explain." This skill allows us to answer questions that require us
 to clarify our understanding of a concept or process. Such questions
 often constitute the bulk of assessments until later in university.
@@ -76,6 +80,8 @@ later revised in 2001. Despite being over 70 years old, it remains one
 of the most underrated principles that most students have never heard
 of. If you have heard of it, stick around because I'll teach you a
 method of using it that helped me double my learning efficiency.
+
+* The Third Level: "Applying"
 
 Level three involves using what you have learned to solve
 problems. This level is known as "Applying." Here, things can become
@@ -98,6 +104,8 @@ problems. Many practice papers and quizzes include questions at the
 "Applying" level, such as building a simple function in coding using
 basic variables.
 
+* The Four Level: "Analyzing"
+
 Now, regarding the more complex problems—these fall under level four
 thinking. This level is all about "Analyzing." It involves comparing
 and contrasting, identifying similarities and differences. This is the
@@ -112,6 +120,9 @@ useful study tip is to use tools like ChatGPT or Gemini and input
 prompts to obtain questions tailored to your educational needs. For
 instance, if you're studying microbiology for a second-year university
 level, you can ask for questions based on Bloom’s revised taxonomy.
+
+*Prompt:* Give me a questions at 2nd year university level for
+Microbiology at Bloom's revised taxonomy level 4.
 
 This technique is beneficial for your study because Bloom's Revised
 Taxonomy was designed for educators and exam writers, not individual
@@ -129,6 +140,8 @@ understanding and stronger memory. Unfortunately, many students opt
 not to think at level four because it feels more difficult,
 illustrating a phenomenon known as the "Misinterpreted Effort
 Hypothesis," which hinders their progress.
+
+* The Fifth Level: "Evaluating"
 
 Level five thinking is what top learners engage in. If you think at
 level five, you will achieve top results. However, this level can also
@@ -168,6 +181,8 @@ between words and categories. However, this does not truly represent
 level five thinking. That entails critically evaluating which
 relationships are more significant and determining the most effective
 way to group ideas.
+
+* Sixth Level: "Creating"
 
 Level six will be covered more briefly because, paradoxically, it is
 less critical for most people. Level six involves creating hypotheses
