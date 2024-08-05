@@ -29,7 +29,7 @@ at the moment, and the resources it needs to operate. Every time you
 execute a command, Linux starts a new process. These processes are
 monitored using a unique identifier called the Process ID (PID).
 
-** Types of processes in Linux
+* Types of processes in Linux
 
 1. Foreground Processes
 
@@ -81,7 +81,7 @@ monitored using a unique identifier called the Process ID (PID).
      sudo systemctl status sshd # Checks the status of the SSH daemon service
      #+end_src
 
-*** The key differences between Background and Daemon processes
+** The key differences between Background and Daemon processes
 
 | Feature                 | Background Process               | Daemon Process                         |
 |-------------------------+----------------------------------+----------------------------------------|
@@ -120,7 +120,7 @@ monitored using a unique identifier called the Process ID (PID).
      firefox &
      #+end_src
 
-** States of Processes in Linux
+* States of Processes in Linux
 
 1. Running (R)
 
@@ -157,7 +157,7 @@ monitored using a unique identifier called the Process ID (PID).
 
 
 
-** Commands for Process Management in Linux
+* Commands for Process Management in Linux
 
 There are several commands available in Linux to track running
 processes. These commands are =Top=, =htop= and =ps=.
@@ -296,4 +296,4 @@ running processes.
   : vikky    1442624  0.0  0.0   6472  2132 ?        S    08:44   0:00 grep sshd
 
 
-** Notes
+*** Notes
