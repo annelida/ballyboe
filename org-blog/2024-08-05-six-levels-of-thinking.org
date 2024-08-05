@@ -1,0 +1,239 @@
+#+BEGIN_EXPORT html
+---
+layout: page
+title: Six Levels of Thinking
+tagline: " a path to deeper understanding"
+permalink: /meta-learning/six-levels-of-thinking.html
+categories: [meta-learning, experience, double-loop]
+tags: [meta-learning, experience, double-loop]
+---
+#+END_EXPORT
+#+STARTUP: showall indent
+>#+OPTIONS: tags:nil num:nil \n:nil @:t ::t |:t ^:{} _:{} *:t
+#+PROPERTY: header-args :exports both
+#+PROPERTY: header-args+ :results output pp
+#+PROPERTY: header-args+ :eval no-export
+#+TOC: headlines 2
+
+There are six levels or types of thinking that every student or
+learner, regardless of age, should master. Each of these levels leads
+to a different outcome. Unfortunately, most of the students I work
+with are stuck at the first few levels of thinking. The reason they
+struggle to achieve top results is that they are thinking at the wrong
+level. This situation can cause a lot of stress, waste time, and lead
+to frustration. It may feel impossible to reach high results with any
+degree of confidence, and over time, one might start to think they are
+simply not cut out for success. However, this is probably not true.
+
+For me, learning how to think deliberately at the right level is one
+of the main reasons I was able to achieve top academic results in both
+medical school and my Master’s in Education. Trust me, I’m certainly
+not a genius. I have seen similar results with thousands of students
+and professionals I have trained over the years. By the end of this
+video, you'll be able to identify the level you tend to operate at and
+learn how to reach the level you need to be at.
+
+It’s worth noting that the level you need to reach is likely higher
+than you think, but we’ll discuss that later.
+
+The first level focuses on memorization. This involves a lot of
+rereading and rewriting, and is usually very repetitive. It can feel
+tedious and often makes us drowsy. This level is called "Remembering."
+It involves rote learning and repeating hundreds or thousands of
+flashcards. This is how I, and perhaps you, studied in high school,
+and it may be the reason why you disliked studying. When you think and
+study at this level, you unlock the "Regurgitation" result. This level
+is about listing, defining, and stating facts. These kinds of
+questions become less common in university and are mostly useless in
+professional life. Confusingly, even though this first level is called
+"Remembering," it is not an effective way to retain what you
+learn. We’ll address that later.
+
+The second level of learning focuses on truly comprehending what you
+are studying, rather than just repeatedly trying to cram information
+into your brain. This level is called "Understanding." There’s a
+reason I refer to these as levels of thinking rather than levels of
+studying: your intentions matter. Two people could use exactly the
+same technique, and from an outsider’s perspective, it might look
+identical. When asked how they study, one might say, “I’m just reading
+my textbook”—but mentally, they are in different places. The person at
+level one might mean, “I’m rereading it over and over to get it stuck
+in my head,” whereas the person at level two is reading to truly
+understand what the content is communicating.
+
+Naturally, at level two thinking—Understanding—we unlock the ability
+to "Explain." This skill allows us to answer questions that require us
+to clarify our understanding of a concept or process. Such questions
+often constitute the bulk of assessments until later in university.
+
+If this sounds familiar, it’s because it aligns with a framework
+called Bloom’s Revised Taxonomy, which was first published in 1956 and
+later revised in 2001. Despite being over 70 years old, it remains one
+of the most underrated principles that most students have never heard
+of. If you have heard of it, stick around because I'll teach you a
+method of using it that helped me double my learning efficiency.
+
+Level three involves using what you have learned to solve
+problems. This level is known as "Applying." Here, things can become
+slightly confusing because many misunderstand Bloom’s Taxonomy. There
+are various ways to apply your knowledge in problem-solving. For
+example, consider "simple problems," where you learn something and
+directly use that knowledge to solve a problem. In math or physics,
+you might learn an equation or formula to solve a specific problem
+requiring that equation.
+
+Then there are more advanced problems, where you must think
+strategically about the best way to tackle the issue. This involves
+combining concepts in a specific sequence, which requires more
+strategic thinking. At level three, we primarily discuss "simple
+problem solving" or what I call "One-to-One" problems, where one
+concept you learned directly addresses the problem.
+
+You can reach level three by solving numerous practice questions and
+problems. Many practice papers and quizzes include questions at the
+"Applying" level, such as building a simple function in coding using
+basic variables.
+
+Now, regarding the more complex problems—these fall under level four
+thinking. This level is all about "Analyzing." It involves comparing
+and contrasting, identifying similarities and differences. This is the
+first phase where we look at information concerning another piece of
+information. Various techniques aid level four analysis, such as Venn
+diagrams, tables, summaries that clarify similarities and differences,
+and mind maps.
+
+To access the level four result—comparison—you'll find questions that
+prompt you to evaluate various concepts in relation to one another. A
+useful study tip is to use tools like ChatGPT or Gemini and input
+prompts to obtain questions tailored to your educational needs. For
+instance, if you're studying microbiology for a second-year university
+level, you can ask for questions based on Bloom’s revised taxonomy.
+
+This technique is beneficial for your study because Bloom's Revised
+Taxonomy was designed for educators and exam writers, not individual
+learners. Almost every curriculum is structured around Bloom's
+taxonomy or similar frameworks, meaning your exam writers are
+constructing questions to distinguish between competent and
+exceptional learners. This allows you to predict the types of
+questions they might ask and even create your own practice papers.
+
+However, level four thinkers are rare because moving from level three
+to level four requires more mental effort. It is more challenging than
+previous levels, demanding deeper, longer thinking. While this may
+seem to slow you down, it allows your brain to form a more robust
+understanding and stronger memory. Unfortunately, many students opt
+not to think at level four because it feels more difficult,
+illustrating a phenomenon known as the "Misinterpreted Effort
+Hypothesis," which hinders their progress.
+
+Level five thinking is what top learners engage in. If you think at
+level five, you will achieve top results. However, this level can also
+be confusing. Level five is about "Evaluating." At this stage, after
+analyzing, comparing, and contrasting, we are left with the question:
+"So what? Why does this matter?"
+
+Learning to think at this level leads to the ability to "Prioritize."
+This can be demonstrated through the same AI inquiry technique we used
+previously. Notice the distinction between level four and level five
+questions; level five calls for conclusions that require
+justification, unlike level four, which primarily addresses
+similarities and differences.
+
+Level five thinking takes considerable effort. You’re doing it right
+when you find yourself going back and forth between the material,
+considering questions such as “Why does this matter? How does it fit
+with everything else? Why should I care?” This process might involve
+transitioning between your lectures, textbooks, and even conducting
+Google searches. It’s more challenging than previous levels, but to
+achieve results at levels five and six will require moving through
+them.
+
+Level four and level five thinking are the types of problems and
+challenges you’ll encounter in your second and third years of
+university and in postgraduate studies. Most assessments will require
+levels four and five thinking. Moreover, any senior position in any
+profession will typically necessitate levels four and five
+thinking. Much like before, the emphasis is less about which
+techniques you use and more about what's occurring in your mind.
+
+Techniques such as mind maps, teaching others, answering questions,
+and creating summaries are all effective for level five, but it's
+vital to engage with them at that cognitive level. For instance, it's
+easy to create a mind map by simply connecting lines and arrows
+between words and categories. However, this does not truly represent
+level five thinking. That entails critically evaluating which
+relationships are more significant and determining the most effective
+way to group ideas.
+
+Level six will be covered more briefly because, paradoxically, it is
+less critical for most people. Level six involves creating hypotheses
+and synthesizing new ideas from existing knowledge. This level is
+referred to as "Creating," and it leads to the result of
+"Hypothesizing."
+
+It's a common misconception that level six encompasses any situation
+requiring you to generate knowledge. In reality, it only qualifies as
+level six if you’re producing answers to questions where you couldn’t
+find the answer in your existing knowledge. You’re identifying a gap
+and crafting a potential answer based on your current understanding.
+
+The reason level six is less crucial than the previous levels is that
+most individuals won’t engage at this level unless they are pursuing
+advanced education or in specialized professions. In daily life, most
+people perform optimally by consistently functioning at level
+five. Nonetheless, here are some examples of level six thinking; these
+are quite advanced. You can pause to read them or prompt your AI for
+similar examples in your own subjects.
+
+Now, here’s a mind-blowing approach: If you want to achieve levels
+five and six, there are actually two different methods to get
+there. The first method is to start studying and proceed through each
+level from bottom to top. You first remember, then understand, apply,
+analyze, and so forth. While this approach seems logical, it is often
+not effective for many learners.
+
+The problem with mastering each level sequentially is that it's
+time-consuming, and most people lack the time to reach level five, let
+alone master it. In reality, most learners engage with multiple levels
+simultaneously, fluctuating between them. For example, during
+lectures, they might touch on level one concepts followed by level
+two, and later tackle quizzes that require both level two and level
+three thinking. Challenging questions may necessitate level four and
+level five thinking.
+
+However, this method doesn’t work effectively because knowledge tends
+to decay over time, a phenomenon known as the "forgetting curve."
+While you engage with levels two and three, your grasp of level one
+diminishes. Instead of ascending through the levels, you spend much of
+your time relearning information you continually forget.
+
+Instead, a better approach is to start at level five and work
+downward. Remember that level six is less relevant for most
+learners. This approach works because you process and retain
+information more effectively at level five than at level one. When you
+aim for the top, your brain fills in the lower-level knowledge as a
+byproduct.
+
+If you focus on learning to regurgitate material, your brain won’t
+instinctively learn to compare or prioritize information. However, if
+you strive to evaluate and prioritize, you will enhance your memory,
+enabling you to recall, explain, and solve problems more efficiently.
+
+The science behind this process can be nuanced, so if you want me to
+delve deeper into it, please let me know in the comments. Although
+level five demands more mental effort, the payoff is significant in
+terms of reduced forgetting. Consequently, when studying, don’t
+prioritize memorization or comprehension. Instead, focus on
+evaluation, which will require you to understand and analyze the
+material from the outset.
+
+If you found this video useful and would like to receive key points
+summarized and sent directly to your inbox, I have a newsletter where
+I distill my decade of coaching experience into bite-sized
+emails. Each email covers a key concept that I believe every learner
+would benefit from, complete with practical takeaways. The insights
+from this video are also included in one of those newsletters. If
+you're interested, check the link in the description or visit
+iconstudy.com/learning to sign up. You will receive your first
+newsletter straight away. Thank you for watching, and I’ll see you
+next time or in your inbox!
