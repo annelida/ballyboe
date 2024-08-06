@@ -781,7 +781,8 @@ CLOCK: [2024-07-22 Mon 07:49]--[2024-07-22 Mon 08:31] =>  0:42
 CLOCK: [2024-07-19 Fri 07:31]--[2024-07-19 Fri 08:14] =>  0:43
 CLOCK: [2024-07-18 Thu 07:51]--[2024-07-18 Thu 08:48] =>  0:57
 :END:
-[[elisp:(bookmark-jump-other-frame "computer-science.org")][CS basics]]
+
+[[elisp:(bookmark-jump-other-frame "computer-science.org")]]
 
 ** AMPLE [#B] Abstract data types
 SCHEDULED: <2024-06-20 Thu>
