@@ -686,7 +686,7 @@ Mostly the similar approach with several quirks
 [[file:~/git/annelida/ballyboe/org-blog/2024-05-26-Emacs-help-about-help.org::*The list of commands, which began with C-h prefix][The list of commands, which began with C-h prefix and Info commands]]
 
 * [#A] Task decomposition
-SCHEDULED: <2024-08-06 Tue ++1d>
+SCHEDULED: <2024-08-07 Wed ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-08-04 Sun 18:39]
 :END:
@@ -767,11 +767,12 @@ And *notice* the details, please!
 https://www.youtube.com/watch?v=bEfYm8sAaQg
 
 * Computer Science
-SCHEDULED: <2024-08-05 Mon ++1d>
+SCHEDULED: <2024-08-07 Wed ++1d>
 :PROPERTIES:
 :CATEGORY: CS
-:LAST_REPEAT: [2024-08-01 Thu 18:55]
+:LAST_REPEAT: [2024-08-06 Tue 19:09]
 :END:
+- State "AMPLE"      from ""           [2024-08-06 Tue 19:09]
 - State "AMPLE"      from ""           [2024-08-01 Thu 18:55]
 - State "AMPLE"      from ""           [2024-07-31 Wed 18:53]
 :LOGBOOK:
@@ -783,6 +784,11 @@ CLOCK: [2024-07-18 Thu 07:51]--[2024-07-18 Thu 08:48] =>  0:57
 :END:
 
 [[elisp:(bookmark-jump-other-frame "computer-science.org")]]
+
+** RAW Repetition the material on the subject "Computer science"
+SCHEDULED: <2024-08-07 Wed ++1d>
+
+[[elisp:(bookmark-jump-other-frame "computer-science-repetition.org")]]
 
 ** AMPLE [#B] Abstract data types
 SCHEDULED: <2024-06-20 Thu>
@@ -835,10 +841,11 @@ SCHEDULED: <2024-09-02 Mon ++1w>
 [[https://realpython.com/python-hash-table/
 ]]
 *** [#A] Array Data Structures
-SCHEDULED: <2024-08-07 Wed ++1w>
+SCHEDULED: <2024-08-14 Wed ++1w>
 :PROPERTIES:
-:LAST_REPEAT: [2024-07-31 Wed 18:52]
+:LAST_REPEAT: [2024-08-06 Tue 18:39]
 :END:
+- State "AMPLE"      from ""           [2024-08-06 Tue 18:39]
 - State "AMPLE"      from ""           [2024-07-31 Wed 18:52]
 - State "AMPLE"      from ""           [2024-07-23 Tue 20:39]
 - State "AMPLE"      from ""           [2024-07-16 Tue 19:20]
