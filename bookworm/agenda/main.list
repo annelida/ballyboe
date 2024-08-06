@@ -10,6 +10,7 @@ MY PROJECTS    -*- mode: org; -*-
 #+TODO: | AMPLE
 #+TODO: RAW Init DP0 Todo DP1 Active | DONE
 #+TODO: DELAY LAG RETARD | BARE
+
 * Learning
 ** Meta
 :PROPERTIES:
@@ -78,9 +79,10 @@ CLOCK: [2024-08-05 Mon 07:11]--[2024-08-05 Mon 07:50] =>  0:39
 :END:
 https://www.youtube.com/watch?v=1xqerXscTsE
 
+** English
 
 *** Grammar
-SCHEDULED: <2024-08-05 Mon ++1d>
+SCHEDULED: <2024-08-06 Tue ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-08-01 Thu 18:55]
 :END:
@@ -388,7 +390,7 @@ CLOCK: [2024-06-04 Tue 18:09]--[2024-06-04 Tue 18:41] =>  0:32
 :END:
 [[https://learnenglish.britishcouncil.org/grammar/english-grammar-reference/relative-pronouns-relative-clauses]]
 ***** Determiners and quantifiers
-*** DELAY [#B] Specific and general determiners
+***** DELAY [#B] Specific and general determiners
 SCHEDULED: <2024-08-21 Wed>
 :LOGBOOK:
 CLOCK: [2024-07-02 Tue 11:03]--[2024-07-02 Tue 11:08] =>  0:05
@@ -397,15 +399,15 @@ CLOCK: [2024-06-26 Wed 18:42]--[2024-06-26 Wed 18:57] =>  0:15
 :END:
 https://learnenglish.britishcouncil.org/grammar/english-grammar-reference/specific-general-determiners
 
-*** DELAY [#B] How to make questions correctly?
+***** DELAY [#B] How to make questions correctly?
 SCHEDULED: <2024-08-21 Wed>
 :LOGBOOK:
 CLOCK: [2024-07-03 Wed 10:25]--[2024-07-03 Wed 10:50] =>  0:25
 :END:
 [[https://learnenglish.britishcouncil.org/grammar/a1-a2-grammar/question-forms]]
 
-*** The English We Speak
-**** Rinse repeat
+***** The English We Speak
+***** Rinse repeat
 SCHEDULED: <2024-08-16 Fri ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-08-04 Sun 18:38]
@@ -424,7 +426,7 @@ SCHEDULED: <2024-08-16 Fri ++2w>
 CLOCK: [2024-03-01 Fri 11:03]--[2024-03-01 Fri 11:14] =>  0:11
 :END:
 [[https://www.bbc.co.uk/sounds/play/p0hf8wg1]]
-**** DELAY [#C] A million to one
+***** DELAY [#C] A million to one
 SCHEDULED: <2024-08-26 Mon ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-07-14 Sun 18:23]
@@ -437,12 +439,11 @@ SCHEDULED: <2024-08-26 Mon ++2w>
 - State "AMPLE"      from ""           [2024-04-09 Tue 18:46]
 - State "AMPLE"      from ""           [2024-03-13 Wed 17:48]
 [https://www.bbc.co.uk/sounds/play/p0hcy06f]
-**** AMPLE Come up with an idea carefully
+***** AMPLE Come up with an idea carefully
 SCHEDULED: <2024-04-30 Tue>
 [[https://www.bbc.co.uk/sounds/play/p0hj2w1w]]
-
 ** Linux Operating System Basics
-SCHEDULED: <2024-08-05 Mon ++1d>
+SCHEDULED: <2024-08-06 Tue ++1d>
 :PROPERTIES:
 :CATEGORY: Linux
 :LAST_REPEAT: [2024-08-01 Thu 18:55]
@@ -831,6 +832,7 @@ SCHEDULED: <2024-08-06 Tue>
   How to check is the SSHd process running?
   Which protocol it is listening if running?
 :LOGBOOK:
+CLOCK: [2024-08-06 Tue 09:30]--[2024-08-06 Tue 10:04] =>  0:34
 CLOCK: [2024-08-02 Fri 08:46]--[2024-08-02 Fri 09:43] =>  0:57
 CLOCK: [2024-08-02 Fri 08:18]--[2024-08-02 Fri 08:37] =>  0:19
 CLOCK: [2024-05-13 Mon 11:24]--[2024-05-13 Mon 12:00] =>  0:36
@@ -839,7 +841,9 @@ CLOCK: [2024-04-14 Sun 07:12]--[2024-04-14 Sun 08:17] =>  1:05
 CLOCK: [2024-04-13 Sat 07:07]--[2024-04-13 Sat 08:12] =>  1:05
 CLOCK: [2024-04-12 Fri 09:30]--[2024-04-12 Fri 10:42] =>  1:12
 :END:
-[[file:~/git/annelida/ballyboe/org-blog/2024-04-12-process-management-on-linux.org::*Introduction][Introduction]]
+
+[[elisp:(bookmark-jump-other-frame "2024-04-12-process-management-on-linux.org")]]
+
 *** DELAY Article about Linux file system structure
 SCHEDULED: <2024-09-03 Tue>
 
@@ -1470,7 +1474,7 @@ CLOCK: [2024-07-23 Tue 07:23]--[2024-07-23 Tue 07:56] =>  0:33
 
 [[elisp:(bookmark-jump-other-frame "emacs.org")][Link]]
 *** [#A] Bmp+
-SCHEDULED: <2024-08-06 Tue>
+SCHEDULED: <2024-08-07 Wed>
 https://www.emacswiki.org/emacs/BookmarkPlus
 
 *** AMPLE [#C] Eww commands brief description
@@ -2775,8 +2779,10 @@ SCHEDULED: <2024-08-06 Tue ++1d>
 CLOCK: [2024-08-01 Thu 09:40]--[2024-08-01 Thu 10:09] =>  0:29
 CLOCK: [2024-07-31 Wed 08:07]--[2024-07-31 Wed 08:57] =>  0:50
 :END:
-[[elisp:(bookmark-jump-other-frame "2024-04-20-python-programming-language.org")][Link]]
-** Flask
+
+[[elisp:(bookmark-jump-other-frame "2024-04-20-python-programming-language.org")]]
+
+** Flask Framework
 SCHEDULED: <2024-08-07 Wed ++1d>
 :PROPERTIES:
 :CATEGORY: Flask
@@ -2793,7 +2799,9 @@ CLOCK: [2024-07-20 Sat 08:50]--[2024-07-20 Sat 09:04] =>  0:14
 :END:
 
 - State "AMPLE"      from ""           [2024-07-19 Fri 19:02]
-[[elisp:(bookmark-jump-other-frame "flask.org")][Link]]
+
+  [[elisp:(bookmark-jump-other-frame "flask.org")]]
+  
 
 *** DELAY A Minimal Application
 SCHEDULED: <2024-08-07 Wed ++2w>
@@ -3167,8 +3175,75 @@ SCHEDULED: <2024-08-10 Sat ++1w>
 - State "AMPLE"      from "LAG"        [2024-07-18 Thu 21:17]
 - State "AMPLE"      from "DELAY"      [2024-07-12 Fri 19:30]
 
-** Jinja2 Templating Engine
-SCHEDULED: <2024-08-05 Mon ++1d>
+*** [#B] Flask controller pass the dictionary to Jinja
+SCHEDULED: <2024-08-13 Tue ++1w>
+:PROPERTIES:
+:LAST_REPEAT: [2024-08-05 Mon 19:58]
+:END:
+- State "AMPLE"      from ""           [2024-08-05 Mon 19:58]
+- State "AMPLE"      from ""           [2024-07-29 Mon 19:35]
+- State "AMPLE"      from ""           [2024-07-22 Mon 18:28]
+- State "AMPLE"      from ""           [2024-07-15 Mon 19:46]
+- State "AMPLE"      from ""           [2024-07-09 Tue 18:09]
+- State "AMPLE"      from ""           [2024-07-01 Mon 08:23]
+- State "AMPLE"      from ""           [2024-06-23 Sun 19:02]
+- State "AMPLE"      from ""           [2024-06-14 Fri 20:04]
+:LOGBOOK:
+CLOCK: [2024-06-12 Wed 08:12]--[2024-06-12 Wed 08:44] =>  0:32
+CLOCK: [2024-06-12 Wed 07:21]--[2024-06-12 Wed 08:05] =>  0:44
+:END:
+
+Flask controller pass the dictionary to Jinja and the latter render
+the values;
+
+*** DELAY [#C] SQLite database integration into a Flask project
+SCHEDULED: <2024-10-15 Tue ++1w>
+:PROPERTIES:
+:LAST_REPEAT: [2024-07-16 Tue 19:21]
+:CATEGORY: APP
+:END:
+
+- State "AMPLE"      from ""           [2024-07-16 Tue 19:21]
+- State "AMPLE"      from ""           [2024-07-09 Tue 18:11]
+- State "AMPLE"      from ""           [2024-07-06 Sat 17:51]
+- State "AMPLE"      from ""           [2024-06-20 Thu 18:47]
+https://www.digitalocean.com/community/tutorials/how-to-use-an-sqlite-database-in-a-flask-application
+https://realpython.com/flask-connexion-rest-api-part-2/
+
+https://realpython.com/flask-database/
+https://www.geeksforgeeks.org/how-to-build-a-web-app-using-flask-and-sqlite-in-python/
+https://realpython.com/flask-connexion-rest-api-part-2/
+
+:LOGBOOK:
+CLOCK: [2024-06-13 Thu 16:54]--[2024-06-13 Thu 17:00] =>  0:06
+:END:
+*** AMPLE [#A] Displaying Sqlite3 results in a HTML table
+SCHEDULED: <2024-06-21 Fri>
+- Note taken on [2024-06-20 Thu 08:00] \\
+  #+begin_example
+  c = sqlite3.connect('db_path.db')
+  cur = c.cursor()
+  cur.execute("SELECT column_name from table_name LIMIT 11")
+  test = cur.fetchall()
+  #+end_example
+
+  #+begin_example
+  <table>
+    {% for row in test %}
+    <tr>
+      <th> {{ row[0] }}</th>
+    </tr>
+    {% endfor %}
+  </table>
+  #+end_example
+:LOGBOOK:
+CLOCK: [2024-06-21 Fri 11:36]--[2024-06-21 Fri 11:36] =>  0:00
+CLOCK: [2024-06-21 Fri 07:24]--[2024-06-21 Fri 08:35] =>  1:11
+CLOCK: [2024-06-20 Thu 08:00]--[2024-06-20 Thu 08:17] =>  0:17
+:END:
+
+** Jinja2: The Templating Engine
+SCHEDULED: <2024-08-06 Tue ++1d>
 :PROPERTIES:
 :CATEGORY: Jinja2
 :LAST_REPEAT: [2024-08-01 Thu 18:55]
@@ -3387,7 +3462,102 @@ SCHEDULED: <2024-08-06 Tue>
 
 [[elisp:(bookmark-jump-other-frame "jinja-repetition.org")]]
 
-** Jekyll
+** Creation an Application with Jinja2 and Flask
+:PROPERTIES:
+:CATEGORY: APP
+:END:
+*** DELAY [#B] Twitter Bootstrap Grid System
+SCHEDULED: <2024-09-02 Mon ++1w>
+:PROPERTIES:
+:LAST_REPEAT: [2024-07-22 Mon 18:27]
+:END:
+- State "AMPLE"      from ""           [2024-07-22 Mon 18:27]
+- State "AMPLE"      from ""           [2024-07-16 Tue 19:18]
+- State "AMPLE"      from ""           [2024-07-09 Tue 18:09]
+- State "AMPLE"      from ""           [2024-07-01 Mon 20:28]
+- State "AMPLE"      from ""           [2024-06-24 Mon 19:22]
+- Note taken on [2024-06-21 Fri 17:12] \\
+  Container: This is the outer wrapper that centers your content and
+  adds padding. You can use either a fixed-width container (.container)
+  or a full-width container (.container-fluid).
+
+  Row: Rows are horizontal groups of columns that ensure your columns
+  are aligned properly. Each row can have up to 12 columns.
+
+  Column: Columns are the building blocks of your grid. You can specify
+  how many of the 12 available columns you want each column to span
+:LOGBOOK:
+CLOCK: [2024-06-21 Fri 09:42]--[2024-06-21 Fri 10:15] =>  0:33
+:END:
+
+*** AMPLE [#A] Twitter Bootstrap <div class="card">
+SCHEDULED: <2024-06-25 Tue>
+- Note taken on [2024-06-25 Tue 10:56] \\
+  A card in Bootstrap 4 is a bordered box with some padding around its
+  content. A basic card is created with the .card class, and content
+  inside the card has a .card-body class:
+
+  [[https://www.w3schools.com/bootstrap4/bootstrap_cards.asp]]
+
+  #+begin_example
+  <div class="container">
+    <h2>Basic Card</h2>
+    <div class="card">
+      <div class="card-body">Basic card</div>
+    </div>
+  </div>
+  #+end_example
+:LOGBOOK:
+CLOCK: [2024-06-25 Tue 19:01]--[2024-06-25 Tue 19:05] =>  0:04
+CLOCK: [2024-06-25 Tue 17:45]--[2024-06-25 Tue 18:11] =>  0:26
+CLOCK: [2024-06-25 Tue 10:54]--[2024-06-25 Tue 15:40] =>  4:46
+:END:
+*** DELAY [#A] AWS EC2 t2.micro
+SCHEDULED: <2024-08-21 Wed>
+:LOGBOOK:
+CLOCK: [2024-07-16 Tue 09:18]--[2024-07-16 Tue 09:33] =>  0:15
+:END:
+- Note taken on [2024-07-16 Tue 09:05] \\
+  /Amazon Elastic Compute Cloud (Amazon EC2)/ is a core service provided
+  by Amazon Web Services (AWS) that offers /scalable/ computing capacity
+  in the cloud. It allows users to rent virtual servers, known as
+  instances, to run applications.
+
+  /Scalable/ refers to the ability of a system, network, process, or
+  organization to handle a growing amount of work, or its potential to
+  be enlarged to accommodate that growth.
+
+  /AWS EC2 t2.micro/ is a specific instance type within the Amazon
+  Elastic Compute Cloud (EC2) service, designed to provide a
+  cost-effective, low-level baseline performance with the ability to
+  burst to higher performance levels when needed.
+*** AMPLE [#C] Browser Developer Tools
+SCHEDULED: <2024-07-03 Wed>
+*** AMPLE [#A] Description of the application structure and content
+:LOGBOOK:
+CLOCK: [2024-06-20 Thu 07:18]--[2024-06-20 Thu 07:59] =>  0:41
+CLOCK: [2024-06-19 Wed 08:31]--[2024-06-19 Wed 09:01] =>  0:30
+CLOCK: [2024-06-19 Wed 08:11]--[2024-06-19 Wed 08:21] =>  0:10
+:END:
+
+https://realpython.com/flask-connexion-rest-api-part-3/
+
+*** DELAY [#B] Request/response cycle
+SCHEDULED: <2024-08-31 Sat ++2d>
+:PROPERTIES:
+:LAST_REPEAT: [2024-07-16 Tue 19:18]
+:END:
+- State "AMPLE"      from ""           [2024-07-16 Tue 19:18]
+- State "AMPLE"      from ""           [2024-07-12 Fri 19:31]
+- State "AMPLE"      from ""           [2024-07-02 Tue 09:29]
+:LOGBOOK:
+CLOCK: [2024-07-02 Tue 07:09]--[2024-07-02 Tue 08:41] =>  1:32
+CLOCK: [2024-07-01 Mon 17:46]--[2024-07-01 Mon 18:48] =>  1:02
+:END:
+
+[[elisp:(bookmark-jump-other-frame "2024-07-01-programming-on-the-web.org")][Link]]
+
+** Jekyll: A Static Site Generator 
 *** Org-Jekyll - article about initial config
 SCHEDULED: <2024-08-13 Tue ++1m>
 :PROPERTIES:
@@ -3623,7 +3793,7 @@ fi
 git push --force --all
 #+end_src
 
-** DELAY [#B] Databases fundamentals
+** Databases fundamentals
 SCHEDULED: <2024-08-21 Wed>
 :PROPERTIES:
 :CATEGORY: DB
@@ -3695,189 +3865,14 @@ CLOCK: [2024-05-01 Wed 10:02]--[2024-05-01 Wed 10:27] =>  0:25
 [[https://getbootstrap.com/docs/4.3/getting-started/introduction/]]
 [[https://getbootstrap.com/docs/5.3/getting-started/introduction/]]
 
-** DELAY [#C] Assembly language
-SCHEDULED: <2024-09-09 Mon>
-- Note taken on [2024-05-29 Wed 07:37] \\
-  [[https://en.wikipedia.org/wiki/Assembly_language]]
-
-  An assembler program creates object code by translating combinations
-  of mnemonics and syntax for operations and addressing modes into their
-  numerical equivalents.
-:LOGBOOK:
-CLOCK: [2024-05-29 Wed 07:47]--[2024-05-29 Wed 07:59] =>  0:12
-CLOCK: [2024-05-29 Wed 07:31]--[2024-05-29 Wed 07:40] =>  0:09
-CLOCK: [2024-05-29 Wed 06:44]--[2024-05-29 Wed 07:20] =>  0:36
-:END:
-
-** DELAY [#B] Software Testing Tutorial
+** Software Testing Tutorial
 SCHEDULED: <2024-08-21 Wed>
 :LOGBOOK:
 CLOCK: [2024-07-08 Mon 07:46]--[2024-07-08 Mon 08:00] =>  0:14
 :END:
 https://www.geeksforgeeks.org/software-testing-tutorial/?ref=outind
 
-* Application creation
-:PROPERTIES:
-:CATEGORY: APP
-:END:
-** DELAY [#B] Request/response cycle
-SCHEDULED: <2024-08-31 Sat ++2d>
-:PROPERTIES:
-:LAST_REPEAT: [2024-07-16 Tue 19:18]
-:END:
-- State "AMPLE"      from ""           [2024-07-16 Tue 19:18]
-- State "AMPLE"      from ""           [2024-07-12 Fri 19:31]
-- State "AMPLE"      from ""           [2024-07-02 Tue 09:29]
-:LOGBOOK:
-CLOCK: [2024-07-02 Tue 07:09]--[2024-07-02 Tue 08:41] =>  1:32
-CLOCK: [2024-07-01 Mon 17:46]--[2024-07-01 Mon 18:48] =>  1:02
-:END:
-
-[[elisp:(bookmark-jump-other-frame "2024-07-01-programming-on-the-web.org")][Link]]
-
-** [#B] Flask controller pass the dictionary to Jinja
-SCHEDULED: <2024-08-13 Tue ++1w>
-:PROPERTIES:
-:LAST_REPEAT: [2024-08-05 Mon 19:58]
-:END:
-- State "AMPLE"      from ""           [2024-08-05 Mon 19:58]
-- State "AMPLE"      from ""           [2024-07-29 Mon 19:35]
-- State "AMPLE"      from ""           [2024-07-22 Mon 18:28]
-- State "AMPLE"      from ""           [2024-07-15 Mon 19:46]
-- State "AMPLE"      from ""           [2024-07-09 Tue 18:09]
-- State "AMPLE"      from ""           [2024-07-01 Mon 08:23]
-- State "AMPLE"      from ""           [2024-06-23 Sun 19:02]
-- State "AMPLE"      from ""           [2024-06-14 Fri 20:04]
-:LOGBOOK:
-CLOCK: [2024-06-12 Wed 08:12]--[2024-06-12 Wed 08:44] =>  0:32
-CLOCK: [2024-06-12 Wed 07:21]--[2024-06-12 Wed 08:05] =>  0:44
-:END:
-
-Flask controller pass the dictionary to Jinja and the latter render
-the values;
-
-** DELAY [#C] SQLite database integration into a Flask project
-SCHEDULED: <2024-10-15 Tue ++1w>
-:PROPERTIES:
-:LAST_REPEAT: [2024-07-16 Tue 19:21]
-:CATEGORY: APP
-:END:
-
-- State "AMPLE"      from ""           [2024-07-16 Tue 19:21]
-- State "AMPLE"      from ""           [2024-07-09 Tue 18:11]
-- State "AMPLE"      from ""           [2024-07-06 Sat 17:51]
-- State "AMPLE"      from ""           [2024-06-20 Thu 18:47]
-https://www.digitalocean.com/community/tutorials/how-to-use-an-sqlite-database-in-a-flask-application
-https://realpython.com/flask-connexion-rest-api-part-2/
-
-https://realpython.com/flask-database/
-https://www.geeksforgeeks.org/how-to-build-a-web-app-using-flask-and-sqlite-in-python/
-https://realpython.com/flask-connexion-rest-api-part-2/
-
-:LOGBOOK:
-CLOCK: [2024-06-13 Thu 16:54]--[2024-06-13 Thu 17:00] =>  0:06
-:END:
-** AMPLE [#A] Description of the application structure and content
-:LOGBOOK:
-CLOCK: [2024-06-20 Thu 07:18]--[2024-06-20 Thu 07:59] =>  0:41
-CLOCK: [2024-06-19 Wed 08:31]--[2024-06-19 Wed 09:01] =>  0:30
-CLOCK: [2024-06-19 Wed 08:11]--[2024-06-19 Wed 08:21] =>  0:10
-:END:
-
-https://realpython.com/flask-connexion-rest-api-part-3/
-
-** AMPLE [#A] Displaying Sqlite3 results in a HTML table
-SCHEDULED: <2024-06-21 Fri>
-- Note taken on [2024-06-20 Thu 08:00] \\
-  #+begin_example
-  c = sqlite3.connect('db_path.db')
-  cur = c.cursor()
-  cur.execute("SELECT column_name from table_name LIMIT 11")
-  test = cur.fetchall()
-  #+end_example
-
-  #+begin_example
-  <table>
-    {% for row in test %}
-    <tr>
-      <th> {{ row[0] }}</th>
-    </tr>
-    {% endfor %}
-  </table>
-  #+end_example
-:LOGBOOK:
-CLOCK: [2024-06-21 Fri 11:36]--[2024-06-21 Fri 11:36] =>  0:00
-CLOCK: [2024-06-21 Fri 07:24]--[2024-06-21 Fri 08:35] =>  1:11
-CLOCK: [2024-06-20 Thu 08:00]--[2024-06-20 Thu 08:17] =>  0:17
-:END:
-
-** DELAY [#B] Twitter Bootstrap Grid System
-SCHEDULED: <2024-09-02 Mon ++1w>
-:PROPERTIES:
-:LAST_REPEAT: [2024-07-22 Mon 18:27]
-:END:
-- State "AMPLE"      from ""           [2024-07-22 Mon 18:27]
-- State "AMPLE"      from ""           [2024-07-16 Tue 19:18]
-- State "AMPLE"      from ""           [2024-07-09 Tue 18:09]
-- State "AMPLE"      from ""           [2024-07-01 Mon 20:28]
-- State "AMPLE"      from ""           [2024-06-24 Mon 19:22]
-- Note taken on [2024-06-21 Fri 17:12] \\
-  Container: This is the outer wrapper that centers your content and
-  adds padding. You can use either a fixed-width container (.container)
-  or a full-width container (.container-fluid).
-
-  Row: Rows are horizontal groups of columns that ensure your columns
-  are aligned properly. Each row can have up to 12 columns.
-
-  Column: Columns are the building blocks of your grid. You can specify
-  how many of the 12 available columns you want each column to span
-:LOGBOOK:
-CLOCK: [2024-06-21 Fri 09:42]--[2024-06-21 Fri 10:15] =>  0:33
-:END:
-
-** AMPLE [#A] Twitter Bootstrap <div class="card">
-SCHEDULED: <2024-06-25 Tue>
-- Note taken on [2024-06-25 Tue 10:56] \\
-  A card in Bootstrap 4 is a bordered box with some padding around its
-  content. A basic card is created with the .card class, and content
-  inside the card has a .card-body class:
-
-  [[https://www.w3schools.com/bootstrap4/bootstrap_cards.asp]]
-
-  #+begin_example
-  <div class="container">
-    <h2>Basic Card</h2>
-    <div class="card">
-      <div class="card-body">Basic card</div>
-    </div>
-  </div>
-  #+end_example
-:LOGBOOK:
-CLOCK: [2024-06-25 Tue 19:01]--[2024-06-25 Tue 19:05] =>  0:04
-CLOCK: [2024-06-25 Tue 17:45]--[2024-06-25 Tue 18:11] =>  0:26
-CLOCK: [2024-06-25 Tue 10:54]--[2024-06-25 Tue 15:40] =>  4:46
-:END:
-** AMPLE [#C] Browser Developer Tools
-SCHEDULED: <2024-07-03 Wed>
-** DELAY [#A] AWS EC2 t2.micro
-SCHEDULED: <2024-08-21 Wed>
-:LOGBOOK:
-CLOCK: [2024-07-16 Tue 09:18]--[2024-07-16 Tue 09:33] =>  0:15
-:END:
-- Note taken on [2024-07-16 Tue 09:05] \\
-  /Amazon Elastic Compute Cloud (Amazon EC2)/ is a core service provided
-  by Amazon Web Services (AWS) that offers /scalable/ computing capacity
-  in the cloud. It allows users to rent virtual servers, known as
-  instances, to run applications.
-
-  /Scalable/ refers to the ability of a system, network, process, or
-  organization to handle a growing amount of work, or its potential to
-  be enlarged to accommodate that growth.
-
-  /AWS EC2 t2.micro/ is a specific instance type within the Amazon
-  Elastic Compute Cloud (EC2) service, designed to provide a
-  cost-effective, low-level baseline performance with the ability to
-  burst to higher performance levels when needed.
+*
 * Work
 :PROPERTIES:
 :CATEGORY: Job
@@ -3931,12 +3926,11 @@ CLOCK: [2024-04-19 Fri 09:10]--[2024-04-19 Fri 09:47] =>  0:37
 * Leasure
 
 * Books
-*** Learning Python
+** Learning Python
 :PROPERTIES:
 :CATEGORY: Learning Python
 :END:
-
-**** DELAY A Python Q&A Session
+*** DELAY A Python Q&A Session
 SCHEDULED: <2024-09-17 Tue ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-07-22 Mon 18:28]
@@ -3988,8 +3982,7 @@ CLOCK: [2023-11-13 Mon 12:10]--[2023-11-13 Mon 12:21] =>  0:11
 CLOCK: [2023-11-10 Fri 07:49]--[2023-11-10 Fri 09:32] =>  1:43
 :END:
 
-
-**** Todo How Python Runs Programs
+*** Todo How Python Runs Programs
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-13 Mon 13:24]
 :END:
@@ -4025,7 +4018,7 @@ CLOCK: [2023-11-13 Mon 12:21]--[2023-11-13 Mon 13:06] =>  0:45
 CLOCK: [2023-11-28 Tue 08:59]--[2023-11-28 Tue 09:23] =>  0:24
 :END:
 
-** DELAY Python run the file with executable privileges.
+*** DELAY Python run the file with executable privileges.
 :PROPERTIES:
 :LAST_REPEAT: [2024-05-12 Sun 18:25]
 :CATEGORY: Python
@@ -4038,7 +4031,7 @@ CLOCK: [2023-11-28 Tue 08:59]--[2023-11-28 Tue 09:23] =>  0:24
 CLOCK: [2023-12-01 Fri 10:08]--[2023-12-01 Fri 10:39] =>  0:31
 :END:
 
-***  DP1 How do you run program.
+*** DP1 How do you run program.
 :PROPERTIES:
 :LAST_REPEAT: [2023-11-23 Thu 10:43]
 :END:
@@ -4122,56 +4115,6 @@ CLOCK: [2023-12-19 Tue 14:10]--[2023-12-19 Tue 14:10] =>  0:00
 :CATEGORY: CS Basic
 :END:
 
-** AMPLE [#C] Logic
-SCHEDULED: <2024-07-13 Sat>
-:PROPERTIES:
-:CATEGORY: CS
-:END:
-:LOGBOOK:
-CLOCK: [2023-12-14 Thu 10:45]--[2023-12-14 Thu 11:09] =>  0:24
-:END:
-
-** AMPLE Operators
-SCHEDULED: <2024-06-29 Sat>
-
-- Note taken on [2023-12-14 Thu 10:58] \\
-  Conditional operator:
-  A = True implies B = True :
-  A → B
-  Negation operator:
-  ! A
-  ! B
-  Contrapositive:
-  ! B → ! A
-  The Biconditional:
-  A ↔ B
-
-  These logical operators are the most famous, as they’re often
-  explicitly coded. AND expresses all ideas are True ; OR expresses any
-  idea is True ; XOR expresses ideas are of opposing truths.
-******* Boolean algebra
-
-******* Truth tables
-
-******* Logic in computing
-
-****** Counting
-
-******* Multipying
-
-***** RAW Complexity
-***** RAW Strategy
-
-**** "Talk Python to me" podcasts
-
-***** Init Transcript 10 Tips and Tools for Developer Productivity
-:PROPERTIES:
-:LAST_REPEAT: [2023-11-23 Thu 15:54]
-:END:
-:LOGBOOK:
-CLOCK: [2023-11-28 Tue 18:27]--[2023-11-28 Tue 18:33] =>  0:06
-:END:
-- State "DONE"       from "Active"     [2023-11-23 Thu 15:54]
 * Events
 ** Preparation to meeting with Roisin
 SCHEDULED: <2024-08-09 Fri ++1w>
@@ -4244,11 +4187,39 @@ CLOCK: [2024-07-30 Tue 08:04]--[2024-07-30 Tue 09:01] =>  0:57
 :END:
 [[elisp:(bookmark-jump-other-frame "startup.org")][Link]]
 ** [#A] Philomath's Bootstrap template reading
-SCHEDULED: <2024-08-06 Tue>
+SCHEDULED: <2024-08-08 Thu ++2d>
+:PROPERTIES:
+:LAST_REPEAT: [2024-08-06 Tue 08:16]
+:END:
+- State "AMPLE"      from ""           [2024-08-06 Tue 08:16]
+:LOGBOOK:
+CLOCK: [2024-08-06 Tue 07:25]--[2024-08-06 Tue 08:15] =>  0:50
+:END:
 https://getbootstrap.com/docs/5.3/getting-started/introduction/
 [[elisp:(bookmark-jump-other-frame "index.html")][Link]]
-* Personal
 ** [#A] Aligning the Agenda with the might-do.list from 0-Key 
 SCHEDULED: <2024-08-06 Tue ++1d>
+:LOGBOOK:
+CLOCK: [2024-08-06 Tue 15:12]--[2024-08-06 Tue 15:32] =>  0:20
+CLOCK: [2024-08-06 Tue 10:41]--[2024-08-06 Tue 11:07] =>  0:26
+:END:
 
 [[elisp:(bookmark-jump-other-frame "might-do.list")]]
+** * DELAY [#C] Assembly language
+SCHEDULED: <2024-09-09 Mon>
+- Note taken on [2024-05-29 Wed 07:37] \\
+  [[https://en.wikipedia.org/wiki/Assembly_language]]
+
+  An assembler program creates object code by translating combinations
+  of mnemonics and syntax for operations and addressing modes into their
+  numerical equivalents.
+:LOGBOOK:
+CLOCK: [2024-05-29 Wed 07:47]--[2024-05-29 Wed 07:59] =>  0:12
+CLOCK: [2024-05-29 Wed 07:31]--[2024-05-29 Wed 07:40] =>  0:09
+CLOCK: [2024-05-29 Wed 06:44]--[2024-05-29 Wed 07:20] =>  0:36
+:END:
+
+
+* Personal
+** Check the level of a waste
+SCHEDULED: <2024-08-06 Tue ++1w>
