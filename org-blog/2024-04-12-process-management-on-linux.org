@@ -159,8 +159,9 @@ monitored using a unique identifier called the Process ID (PID).
 
 * Commands for Process Management in Linux
 
-There are several commands available in Linux to track running
-processes. These commands are =Top=, =htop= and =ps=.
+There are numerous commands available in Linux for process management,
+which allow you to view, control, and manipulate processes. The most
+commonly used commands are =top=, =htop= and =ps=.
 
 ** The =top= command for mananging Linux processes
 #+begin_src sh
