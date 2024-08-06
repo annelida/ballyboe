@@ -164,35 +164,73 @@ which allow you to view, control, and manipulate processes. The most
 commonly used commands are =top=, =htop= and =ps=.
 
 ** The =top= command for mananging Linux processes
+
+The `top` command is a powerful tool for monitoring and managing Linux
+processes in real-time. It provides continuous updates on system
+performance and resource usage, including CPU and memory usage, as
+well as detailed information about running processes.
+
 #+begin_src sh
   top
 #+end_src
 
-PID: Unique Process ID given to each process;
-User: Username of the process owner;
-PR: Priority given to a process while scheduling;
+*** Understanding the `top` Output
 
-NI: ‘nice’ value of a process: a negative nice value means higher
-priority, whereas a positive nice value means lower priority. Zero in
-this field simply means priority will not be adjusted in determining a
-task's dispatch-ability
+The `top` interface is divided into several sections:
 
-VIRT: Amount of virtual memory used by a process;
-RES: Amount of physical memory used by a process;
-SHR: Amount of memory shared with other processes;
-S: state of the process;
+1. Summary Area (Header)
 
- - ‘D’ = uninterruptible sleep
- - 'I' = Idle
- - ‘R’ = running
- - ‘S’ = sleeping
- - ‘T’ = traced or stopped
- - ‘Z’ = zombie
+   This section provides an overview of the system's performance
+   metrics.
 
-%CPU: Percentage of CPU used by the process;
-%MEM; Percentage of RAM used by the process;
-TIME+: Total CPU time consumed by the process;
-Command: Command used to activate the process;
+   - *System Information*:
+     - **uptime**: Shows how long the system has been running;
+     - **users**: Number of logged-in users;
+     - **load average**: System load average for the past 1, 5, and 15
+       minutes.
+
+   - *Task and CPU Information*:
+     - **Tasks**: Total number of tasks, and their states (running,
+       sleeping, stopped, zombie);
+     - **%Cpu(s)**: Detailed CPU usage:
+       - `us`: User space (non-kernel usage);
+       - `sy`: System space (kernel usage);
+       - `ni`: Nice value (processes with adjusted priority);
+       - `id`: Idle;
+       - `wa`: I/O wait (waiting for I/O operations);
+       - `hi` and `si`: Hardware and software interrupts;
+       - `st`: Steal time (virtual environments).
+
+   - *Memory Information*:
+     - **KiB Mem**: Total, used, free, buffers, and cache memory;
+     - **KiB Swap**: Swap space, used, free, and cached swap memory.
+
+2. Task Area (Process List)
+
+   This section shows a detailed list of all running processes,
+   including various metrics.
+
+   - **PID**: Process ID;
+   - **USER**: Username owning the process;
+   - **PR**: Priority of the process;
+   - **NI**: Nice value. A negative nice value means higher priority,
+     whereas a positive nice value means lower priority.  Zero in this
+     field simply means priority will not be adjusted in determining a
+     task's dispatch-ability;
+   - **VIRT**: Virtual memory used;
+   - **RES**: Resident memory used;
+   - **SHR**: Shared memory used;
+   - **S**: Current state (R, S, D, T, Z):
+     - ‘D’ = uninterruptible sleep;
+     - 'I' = Idle;
+     - ‘R’ = running;
+     - ‘S’ = sleeping;
+     - ‘T’ = traced or stopped;
+     - ‘Z’ = zombie.
+   - **%CPU**: CPU usage percentage;
+   - *%MEM**: Memory usage percentage;
+   - *TIME+**: Total CPU time used;
+   - *COMMAND**: Command name/line of the process.
 
 ** The =htop=
 It is similar to top, but allows you to scroll vertically and
