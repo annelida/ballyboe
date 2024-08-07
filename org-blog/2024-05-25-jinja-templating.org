@@ -34,7 +34,7 @@ expressions, and control structures into templates.
 
 * Check if Jinja installed
 
-#+begin_src sh  
+#+begin_src sh
 pip list
 #+end_src
 
@@ -122,14 +122,15 @@ conditionals, and for calling functions or macros.
 #+end_src
 
 #+RESULTS:
-: 
-: 
+:
+:
 :   Welcome back, Viktoriia!
-: 
-: 
-: 
+:
+:
+:
 :   Please log in.
-: 
+:
+
 
 * Render Jinja variable with filter
 
@@ -254,14 +255,14 @@ Example Without Whitespace Control:
 #+end_src
 
 #+RESULTS:
-: 
-: 
+:
+:
 : Loop item: 0
-: 
+:
 : Loop item: 1
-: 
+:
 : Loop item: 2
-: 
+:
 
 #+begin_src python :results output
     import jinja2
@@ -339,9 +340,9 @@ or delimit the parts you want to be treated as plain text.
 </head>
 <body>
     <h1>Welcome to Jinja Raw Tags Example</h1>
-    
+
     <p>This will not be rendered as a Jinja variable: {{ user_input }}</p>
-    
+
     <p>This will be rendered as a Jinja variable: Hello, World!</p>
 </body>
 </html>
@@ -383,7 +384,7 @@ wheel        0.38.4
 : ├── app.py
 : └── templates
 :     └── index.html
-: 
+:
 : 2 directories, 2 files
 
 
