@@ -232,6 +232,48 @@ The `top` interface is divided into several sections:
    - *TIME+**: Total CPU time used;
    - *COMMAND**: Command name/line of the process.
 
+
+*** Interactive Commands in `top`
+
+While `top` is running, you can interact with it using various key
+commands to tailor the display to your needs:
+
+- *`h`*: Display help and interactive command guide;
+- *`k`*: Kill a process; Enter the PID of the process you want to
+  kill, then signal (e.g., `15` for SIGTERM, `9` for SIGKILL).
+  SIGTERM is a signal used to request a process to terminate
+  gracefully, which can be sent by other processes or the system
+  itself. SIGKILL is a signal used to forcefully terminate a process
+  without allowing it to perform any cleanup operations.
+
+  #+begin_example
+  k <enter> 1234 <enter> 15
+  #+end_example
+
+- *`r`*: Renice a process.
+  Enter the PID of the process and the new
+  nice value.
+
+  #+begin_example
+  r <enter> 1234 <enter> 10
+  #+end_example
+
+- *`u`*: Filter tasks by a specific user.
+  Enter the username to display only processes from that user.
+
+  #+begin_example
+  u <enter> username
+  #+end_example
+
+- *`M`*: Sort by memory usage;
+- *`P`*: Sort by CPU usage;
+- *`T`*: Sort by running time;
+- *`l`*: Toggle the display of load average and uptime line;
+- *`t`*: Toggle the display of task/cpu line;
+- *`m`*: Toggle the display of memory information;
+- *`i`*: Toggle idle processes display;
+- *`q`**: Quit `top`.
+
 ** The =htop=
 It is similar to top, but allows you to scroll vertically and
 horizontally and use the functional keys.
