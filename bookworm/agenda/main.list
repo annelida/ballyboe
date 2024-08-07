@@ -72,19 +72,26 @@ CLOCK: [2024-04-12 Fri 07:12]--[2024-04-12 Fri 08:12] =>  1:00
 :END:
 
 *** [#A] 6 Levels of Thinking
-SCHEDULED: <2024-08-07 Wed>
+SCHEDULED: <2024-08-08 Thu ++1d>
+:PROPERTIES:
+:LAST_REPEAT: [2024-08-07 Wed 15:57]
+:END:
+- State "AMPLE"      from ""           [2024-08-07 Wed 15:57]
 :LOGBOOK:
+CLOCK: [2024-08-07 Wed 09:54]--[2024-08-07 Wed 09:54] =>  0:00
+CLOCK: [2024-08-07 Wed 08:13]--[2024-08-07 Wed 08:14] =>  0:01
+CLOCK: [2024-08-07 Wed 07:29]--[2024-08-07 Wed 08:09] =>  0:40
 CLOCK: [2024-08-05 Mon 08:09]--[2024-08-05 Mon 09:37] =>  1:28
 CLOCK: [2024-08-05 Mon 07:11]--[2024-08-05 Mon 07:50] =>  0:39
 :END:
 https://www.youtube.com/watch?v=1xqerXscTsE
-[[elisp:(bookmark-jump-other-frame "2024-08-05-modes-of-thinking.org.org")]]
+[[elisp:(bookmark-jump-other-frame "2024-08-05-modes-of-thinking.org")]]
 [[elisp:(bookmark-jump-other-frame "2024-04-12-six-levels-of-thinking.org")]]
 
 ** English
 
 *** Grammar
-SCHEDULED: <2024-08-07 Wed ++1d>
+SCHEDULED: <2024-08-08 Thu ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-08-06 Tue 18:35]
 :END:
@@ -446,7 +453,7 @@ SCHEDULED: <2024-08-26 Mon ++2w>
 SCHEDULED: <2024-04-30 Tue>
 [[https://www.bbc.co.uk/sounds/play/p0hj2w1w]]
 ** Linux Operating System Basics
-SCHEDULED: <2024-08-07 Wed ++1d>
+SCHEDULED: <2024-08-08 Thu ++1d>
 :PROPERTIES:
 :CATEGORY: Linux
 :LAST_REPEAT: [2024-08-01 Thu 18:55]
@@ -470,7 +477,7 @@ CLOCK: [2024-07-20 Sat 07:09]--[2024-07-20 Sat 08:11] =>  1:02
 [[elisp:(bookmark-jump-other-frame "linux.org")]]
 
 *** RAW Repetition of material on the subject "Linux Operating System"
-SCHEDULED: <2024-08-07 Wed>
+SCHEDULED: <2024-08-08 Thu>
 
 [[elisp:(bookmark-jump-other-frame "linux-repetition.org")]]
 
@@ -830,11 +837,13 @@ CLOCK: [2024-04-09 Tue 10:00]--[2024-04-09 Tue 10:42] =>  0:42
 CLOCK: [2024-04-09 Tue 09:03]--[2024-04-09 Tue 09:36] =>  0:33
 :END:
 *** Revision of the Article about Process Management on Linux
-SCHEDULED: <2024-08-07 Wed>
+SCHEDULED: <2024-08-08 Thu>
 - Note taken on [2024-04-13 Sat 17:26] \\
   How to check is the SSHd process running?
   Which protocol it is listening if running?
 :LOGBOOK:
+CLOCK: [2024-08-07 Wed 10:40]--[2024-08-07 Wed 11:12] =>  0:32
+CLOCK: [2024-08-07 Wed 09:53]--[2024-08-07 Wed 09:53] =>  0:00
 CLOCK: [2024-08-06 Tue 09:30]--[2024-08-06 Tue 10:04] =>  0:34
 CLOCK: [2024-08-02 Fri 08:46]--[2024-08-02 Fri 09:43] =>  0:57
 CLOCK: [2024-08-02 Fri 08:18]--[2024-08-02 Fri 08:37] =>  0:19
@@ -1222,7 +1231,7 @@ SCHEDULED: <2024-05-12 Sun>
 *** [#C] I 386 architecture commands
 
 *** Exploring the Backbone of Computing
-SCHEDULED: <2024-08-07 Wed ++1d>
+SCHEDULED: <2024-08-08 Thu ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-08-01 Thu 18:55]
 :END:
@@ -1236,7 +1245,7 @@ CLOCK: [2024-07-26 Fri 07:19]--[2024-07-26 Fri 08:04] =>  0:45
 
 [[elisp:(bookmark-jump-other-frame "2024-07-25-exploring-the-backbone-of-computing.org")]]
 ** Git/Magit
-SCHEDULED: <2024-08-07 Wed ++1d>
+SCHEDULED: <2024-08-08 Thu ++1d>
 :PROPERTIES:
 :CATEGORY: Git
 :LAST_REPEAT: [2024-08-01 Thu 18:55]
@@ -1459,7 +1468,7 @@ fi
 git push --force --all
 #+end_src
 ** Emacs
-SCHEDULED: <2024-08-07 Wed ++1d>
+SCHEDULED: <2024-08-08 Thu ++1d>
 :PROPERTIES:
 :CATEGORY: Emacs
 :LAST_REPEAT: [2024-08-01 Thu 18:55]
@@ -1470,6 +1479,7 @@ SCHEDULED: <2024-08-07 Wed ++1d>
 - State "AMPLE"      from ""           [2024-07-24 Wed 09:09]
 - State "AMPLE"      from ""           [2024-07-23 Tue 09:13]
 :LOGBOOK:
+CLOCK: [2024-08-07 Wed 15:58]--[2024-08-07 Wed 16:11] =>  0:13
 CLOCK: [2024-07-31 Wed 18:15]--[2024-07-31 Wed 18:47] =>  0:32
 CLOCK: [2024-07-24 Wed 08:21]--[2024-07-24 Wed 09:09] =>  0:48
 CLOCK: [2024-07-24 Wed 08:07]--[2024-07-24 Wed 08:07] =>  0:00
@@ -1478,7 +1488,7 @@ CLOCK: [2024-07-23 Tue 07:23]--[2024-07-23 Tue 07:56] =>  0:33
 
 [[elisp:(bookmark-jump-other-frame "emacs.org")][Link]]
 *** Bmp+
-SCHEDULED: <2024-08-07 Wed ++2d>
+SCHEDULED: <2024-08-08 Thu ++2d>
 https://www.emacswiki.org/emacs/BookmarkPlus
 
 *** AMPLE [#C] Eww commands brief description
@@ -2736,7 +2746,7 @@ CLOCK: [2024-04-19 Fri 11:13]--[2024-04-19 Fri 11:53] =>  0:40
 
 [[file:~/git/annelida/ballyboe/org-blog/2023-11-07-Python-venv.org::*Creating a Python virtual environment on a Debian-based system][Python virtual environment on a Debian-based system]]
 *** Python Programming Language basics
-SCHEDULED: <2024-08-07 Wed ++1d>
+SCHEDULED: <2024-08-08 Thu ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-08-01 Thu 18:55]
 :END:
@@ -2778,7 +2788,7 @@ SCHEDULED: <2024-06-25 Tue>
 CLOCK: [2024-06-25 Tue 09:28]--[2024-06-25 Tue 10:48] =>  1:20
 :END:
 *** The Origin and Evolution of Programming Languages
-SCHEDULED: <2024-08-07 Wed ++1d>
+SCHEDULED: <2024-08-08 Thu ++1d>
 :LOGBOOK:
 CLOCK: [2024-08-01 Thu 09:40]--[2024-08-01 Thu 10:09] =>  0:29
 CLOCK: [2024-07-31 Wed 08:07]--[2024-07-31 Wed 08:57] =>  0:50
@@ -2787,7 +2797,7 @@ CLOCK: [2024-07-31 Wed 08:07]--[2024-07-31 Wed 08:57] =>  0:50
 [[elisp:(bookmark-jump-other-frame "2024-04-20-python-programming-language.org")]]
 
 ** Flask Framework
-SCHEDULED: <2024-08-07 Wed ++1d>
+SCHEDULED: <2024-08-08 Thu ++1d>
 :PROPERTIES:
 :CATEGORY: Flask
 :LAST_REPEAT: [2024-07-30 Tue 19:29]
@@ -3247,7 +3257,7 @@ CLOCK: [2024-06-20 Thu 08:00]--[2024-06-20 Thu 08:17] =>  0:17
 :END:
 
 ** Jinja2: The Templating Engine
-SCHEDULED: <2024-08-07 Wed ++1d>
+SCHEDULED: <2024-08-08 Thu ++1d>
 :PROPERTIES:
 :CATEGORY: Jinja2
 :LAST_REPEAT: [2024-08-01 Thu 18:55]
@@ -3463,7 +3473,7 @@ CLOCK: [2024-05-26 Sun 09:19]--[2024-05-26 Sun 09:41] =>  0:22
 *** AMPLE [#A] Adding Static Files to application
 
 *** RAW Repetition of material on the subject "Jinja2 Templating Engine" 
-SCHEDULED: <2024-08-07 Wed>
+SCHEDULED: <2024-08-08 Thu>
 
 [[elisp:(bookmark-jump-other-frame "jinja-repetition.org")]]
 
@@ -4191,7 +4201,7 @@ SCHEDULED: <2024-08-09 Fri ++1w>
 CLOCK: [2024-07-30 Tue 08:04]--[2024-07-30 Tue 09:01] =>  0:57
 :END:
 [[elisp:(bookmark-jump-other-frame "startup.org")][Link]]
-** [#A] Philomath's Bootstrap template reading
+** Philomath's Bootstrap template reading
 SCHEDULED: <2024-08-08 Thu ++2d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-08-06 Tue 08:16]
