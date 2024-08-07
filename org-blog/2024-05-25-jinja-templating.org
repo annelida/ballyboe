@@ -131,6 +131,26 @@ conditionals, and for calling functions or macros.
 :   Please log in.
 :
 
+** Comment Delimiters (`{# #}`)
+
+These delimiters are used to add comments within templates. Comments
+are not rendered in the output HTML.
+
+#+begin_src python
+  from jinja2 import Template
+
+  template = Template('''
+  {# This is a comment and will not be rendered #}
+  <p>This part will be rendered.</p>
+  ''')
+  rendered = template.render()
+  print(rendered)
+#+end_src
+
+#+RESULTS:
+:
+:
+: <p>This part will be rendered.</p>
 
 * Render Jinja variable with filter
 
