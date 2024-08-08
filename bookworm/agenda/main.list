@@ -72,10 +72,11 @@ CLOCK: [2024-04-12 Fri 07:12]--[2024-04-12 Fri 08:12] =>  1:00
 :END:
 
 *** [#A] 6 Levels of Thinking
-SCHEDULED: <2024-08-08 Thu ++1d>
+SCHEDULED: <2024-08-10 Sat ++2d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-08-07 Wed 15:57]
+:LAST_REPEAT: [2024-08-08 Thu 18:27]
 :END:
+- State "AMPLE"      from ""           [2024-08-08 Thu 18:27]
 - State "AMPLE"      from ""           [2024-08-07 Wed 15:57]
 :LOGBOOK:
 CLOCK: [2024-08-07 Wed 09:54]--[2024-08-07 Wed 09:54] =>  0:00
@@ -91,7 +92,7 @@ https://www.youtube.com/watch?v=1xqerXscTsE
 ** English
 
 *** Grammar
-SCHEDULED: <2024-08-08 Thu ++1d>
+SCHEDULED: <2024-08-09 Fri ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-08-06 Tue 18:35]
 :END:
@@ -453,11 +454,12 @@ SCHEDULED: <2024-08-26 Mon ++2w>
 SCHEDULED: <2024-04-30 Tue>
 [[https://www.bbc.co.uk/sounds/play/p0hj2w1w]]
 ** Linux Operating System Basics
-SCHEDULED: <2024-08-08 Thu ++1d>
+SCHEDULED: <2024-08-09 Fri ++1d>
 :PROPERTIES:
 :CATEGORY: Linux
-:LAST_REPEAT: [2024-08-01 Thu 18:55]
+:LAST_REPEAT: [2024-08-08 Thu 18:27]
 :END:
+- State "AMPLE"      from ""           [2024-08-08 Thu 18:27]
 - State "AMPLE"      from ""           [2024-08-01 Thu 18:55]
 - State "AMPLE"      from ""           [2024-07-31 Wed 18:15]
 - State "AMPLE"      from ""           [2024-07-30 Tue 19:29]
@@ -477,7 +479,7 @@ CLOCK: [2024-07-20 Sat 07:09]--[2024-07-20 Sat 08:11] =>  1:02
 [[elisp:(bookmark-jump-other-frame "linux.org")]]
 
 *** RAW Repetition of material on the subject "Linux Operating System"
-SCHEDULED: <2024-08-08 Thu>
+SCHEDULED: <2024-08-09 Fri>
 
 [[elisp:(bookmark-jump-other-frame "linux-repetition.org")]]
 
@@ -836,8 +838,18 @@ SCHEDULED: <2024-04-10 Wed>
 CLOCK: [2024-04-09 Tue 10:00]--[2024-04-09 Tue 10:42] =>  0:42
 CLOCK: [2024-04-09 Tue 09:03]--[2024-04-09 Tue 09:36] =>  0:33
 :END:
+*** [#A] Establishment of an Encrypted Session in SSH
+SCHEDULED: <2024-08-09 Fri>
+
+[[elisp:(bookmark-jump-other-frame "linux.org")]]
+
+*** Improvement the article "SSH Connection to Remote Linux Hosts"
+SCHEDULED: <2024-08-09 Fri>
+
+[[elisp:(bookmark-jump-other-frame "2024-04-09-SSH-connection-to-remote-host-in-linux.org.org")]]
+
 *** Revision of the Article about Process Management on Linux
-SCHEDULED: <2024-08-08 Thu>
+SCHEDULED: <2024-08-09 Fri>
 - Note taken on [2024-04-13 Sat 17:26] \\
   How to check is the SSHd process running?
   Which protocol it is listening if running?
@@ -855,6 +867,7 @@ CLOCK: [2024-04-12 Fri 09:30]--[2024-04-12 Fri 10:42] =>  1:12
 :END:
 
 [[elisp:(bookmark-jump-other-frame "2024-04-12-process-management-on-linux.org")]]
+
 
 *** DELAY Article about Linux file system structure
 SCHEDULED: <2024-09-03 Tue>
@@ -1231,7 +1244,7 @@ SCHEDULED: <2024-05-12 Sun>
 *** [#C] I 386 architecture commands
 
 *** Exploring the Backbone of Computing
-SCHEDULED: <2024-08-08 Thu ++1d>
+SCHEDULED: <2024-08-09 Fri ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-08-01 Thu 18:55]
 :END:
@@ -1245,7 +1258,7 @@ CLOCK: [2024-07-26 Fri 07:19]--[2024-07-26 Fri 08:04] =>  0:45
 
 [[elisp:(bookmark-jump-other-frame "2024-07-25-exploring-the-backbone-of-computing.org")]]
 ** Git/Magit
-SCHEDULED: <2024-08-08 Thu ++1d>
+SCHEDULED: <2024-08-09 Fri ++1d>
 :PROPERTIES:
 :CATEGORY: Git
 :LAST_REPEAT: [2024-08-01 Thu 18:55]
@@ -1468,7 +1481,7 @@ fi
 git push --force --all
 #+end_src
 ** Emacs
-SCHEDULED: <2024-08-08 Thu ++1d>
+SCHEDULED: <2024-08-09 Fri ++1d>
 :PROPERTIES:
 :CATEGORY: Emacs
 :LAST_REPEAT: [2024-08-01 Thu 18:55]
@@ -1488,7 +1501,7 @@ CLOCK: [2024-07-23 Tue 07:23]--[2024-07-23 Tue 07:56] =>  0:33
 
 [[elisp:(bookmark-jump-other-frame "emacs.org")][Link]]
 *** Bmp+
-SCHEDULED: <2024-08-08 Thu ++2d>
+SCHEDULED: <2024-08-09 Fri ++2d>
 https://www.emacswiki.org/emacs/BookmarkPlus
 
 *** AMPLE [#C] Eww commands brief description
@@ -2746,7 +2759,7 @@ CLOCK: [2024-04-19 Fri 11:13]--[2024-04-19 Fri 11:53] =>  0:40
 
 [[file:~/git/annelida/ballyboe/org-blog/2023-11-07-Python-venv.org::*Creating a Python virtual environment on a Debian-based system][Python virtual environment on a Debian-based system]]
 *** Python Programming Language basics
-SCHEDULED: <2024-08-08 Thu ++1d>
+SCHEDULED: <2024-08-09 Fri ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-08-01 Thu 18:55]
 :END:
@@ -2788,7 +2801,7 @@ SCHEDULED: <2024-06-25 Tue>
 CLOCK: [2024-06-25 Tue 09:28]--[2024-06-25 Tue 10:48] =>  1:20
 :END:
 *** The Origin and Evolution of Programming Languages
-SCHEDULED: <2024-08-08 Thu ++1d>
+SCHEDULED: <2024-08-09 Fri ++1d>
 :LOGBOOK:
 CLOCK: [2024-08-01 Thu 09:40]--[2024-08-01 Thu 10:09] =>  0:29
 CLOCK: [2024-07-31 Wed 08:07]--[2024-07-31 Wed 08:57] =>  0:50
@@ -2797,7 +2810,7 @@ CLOCK: [2024-07-31 Wed 08:07]--[2024-07-31 Wed 08:57] =>  0:50
 [[elisp:(bookmark-jump-other-frame "2024-04-20-python-programming-language.org")]]
 
 ** Flask Framework
-SCHEDULED: <2024-08-08 Thu ++1d>
+SCHEDULED: <2024-08-09 Fri ++1d>
 :PROPERTIES:
 :CATEGORY: Flask
 :LAST_REPEAT: [2024-07-30 Tue 19:29]
@@ -3257,7 +3270,7 @@ CLOCK: [2024-06-20 Thu 08:00]--[2024-06-20 Thu 08:17] =>  0:17
 :END:
 
 ** Jinja2: The Templating Engine
-SCHEDULED: <2024-08-08 Thu ++1d>
+SCHEDULED: <2024-08-09 Fri ++1d>
 :PROPERTIES:
 :CATEGORY: Jinja2
 :LAST_REPEAT: [2024-08-01 Thu 18:55]
@@ -3473,7 +3486,7 @@ CLOCK: [2024-05-26 Sun 09:19]--[2024-05-26 Sun 09:41] =>  0:22
 *** AMPLE [#A] Adding Static Files to application
 
 *** RAW Repetition of material on the subject "Jinja2 Templating Engine" 
-SCHEDULED: <2024-08-08 Thu>
+SCHEDULED: <2024-08-09 Fri>
 
 [[elisp:(bookmark-jump-other-frame "jinja-repetition.org")]]
 
@@ -4192,17 +4205,18 @@ CLOCK: [2024-05-15 Wed 09:48]--[2024-05-15 Wed 10:08] =>  0:20
 [[elisp:(bookmark-jump-other-frame "file-name.txt")][Link description]]
 #+end_example
 ** [#A] Philomath startup.org
-SCHEDULED: <2024-08-09 Fri ++1w>
+SCHEDULED: <2024-08-16 Fri ++1w>
 :PROPERTIES:
-:LAST_REPEAT: [2024-08-04 Sun 18:38]
+:LAST_REPEAT: [2024-08-08 Thu 18:28]
 :END:
+- State "AMPLE"      from ""           [2024-08-08 Thu 18:28]
 - State "AMPLE"      from ""           [2024-08-04 Sun 18:38]
 :LOGBOOK:
 CLOCK: [2024-07-30 Tue 08:04]--[2024-07-30 Tue 09:01] =>  0:57
 :END:
 [[elisp:(bookmark-jump-other-frame "startup.org")][Link]]
 ** Philomath's Bootstrap template reading
-SCHEDULED: <2024-08-08 Thu ++2d>
+SCHEDULED: <2024-08-09 Fri ++2d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-08-06 Tue 08:16]
 :END:
@@ -4213,10 +4227,11 @@ CLOCK: [2024-08-06 Tue 07:25]--[2024-08-06 Tue 08:15] =>  0:50
 https://getbootstrap.com/docs/5.3/getting-started/introduction/
 [[elisp:(bookmark-jump-other-frame "index.html")][Link]]
 ** [#A] Aligning the Agenda with the might-do.list from 0-Key 
-SCHEDULED: <2024-08-08 Thu ++2d>
+SCHEDULED: <2024-08-10 Sat ++2d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-08-06 Tue 18:32]
+:LAST_REPEAT: [2024-08-08 Thu 18:27]
 :END:
+- State "AMPLE"      from ""           [2024-08-08 Thu 18:27]
 - State "AMPLE"      from ""           [2024-08-06 Tue 18:32]
 :LOGBOOK:
 CLOCK: [2024-08-06 Tue 15:12]--[2024-08-06 Tue 15:32] =>  0:20

@@ -687,10 +687,11 @@ Mostly the similar approach with several quirks
 [[file:~/git/annelida/ballyboe/org-blog/2024-05-26-Emacs-help-about-help.org::*The list of commands, which began with C-h prefix][The list of commands, which began with C-h prefix and Info commands]]
 
 * [#A] Task decomposition
-SCHEDULED: <2024-08-08 Thu ++1d>
+SCHEDULED: <2024-08-09 Fri ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-08-07 Wed 16:49]
+:LAST_REPEAT: [2024-08-08 Thu 18:27]
 :END:
+- State "AMPLE"      from ""           [2024-08-08 Thu 18:27]
 - State "AMPLE"      from ""           [2024-08-07 Wed 16:49]
 - State "AMPLE"      from ""           [2024-08-04 Sun 18:39]
 - State "AMPLE"      from ""           [2024-08-01 Thu 18:56]
@@ -769,7 +770,7 @@ And *notice* the details, please!
 https://www.youtube.com/watch?v=bEfYm8sAaQg
 
 * Computer Science
-SCHEDULED: <2024-08-08 Thu ++1d>
+SCHEDULED: <2024-08-09 Fri ++1d>
 :PROPERTIES:
 :CATEGORY: CS
 :LAST_REPEAT: [2024-08-06 Tue 19:09]
@@ -788,7 +789,7 @@ CLOCK: [2024-07-18 Thu 07:51]--[2024-07-18 Thu 08:48] =>  0:57
 [[elisp:(bookmark-jump-other-frame "computer-science.org")]]
 
 ** RAW Repetition the material on the subject "Computer science"
-SCHEDULED: <2024-08-08 Thu ++1d>
+SCHEDULED: <2024-08-09 Fri ++1d>
 
 [[elisp:(bookmark-jump-other-frame "computer-science-repetition.org")]]
 
