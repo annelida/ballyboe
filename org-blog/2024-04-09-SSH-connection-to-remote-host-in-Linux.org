@@ -23,19 +23,14 @@ manage systems remotely while ensuring confidentiality and
 integrity. In this article, there is a detailed breakdown of how SSH
 connections work in Linux.
 
+* Components of SSH
 
+ *SSH client* is a program running on the user's local machine
+ that initiates the connection to a remote server.
 
- *ssh (SSH client)* is a program for logging into a remote machine and
- for executing commands on a remote machine. It is intended to provide
- secure encrypted communications between two untrusted hosts over an
- insecure network.
-
- SSH works by connecting a client program to an SSH server, called
- *sshd*.
-
- *sshd (OpenSSH Daemon)* is the daemon program for ssh. It provides
- secure encrypted communications between two untrusted hosts over an
- insecure network.
+ *SSH Server* is a program running on the remote machine that accepts
+ incoming SSH connections. OpenSSH is a widely used SSH server
+ implementation on Linux systems.
 
  When a secure SSH connection is established, a shell session
  starts. It enables manipulating the remote machine (server) by typing
