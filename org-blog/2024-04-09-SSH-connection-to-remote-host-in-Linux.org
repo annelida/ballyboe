@@ -40,7 +40,7 @@ connections work in Linux.
 * Prerequisites
 
 - The remote computer must be turned on and have a network connection;
-- The SSHd program must be running;
+- The SSH Server must be running;
 - You must to know the IP address or the name of the remote machine:
 
   #+begin_src sh :results verbatim
@@ -55,11 +55,26 @@ connections work in Linux.
 - You must to have permission to access the remote computer;
 - You must to know user's name and password for logging.
 
-* How to Connect via SSH
+* Establishing a Connection
+
+
+The user initiates an SSH connection from their terminal
 
 #+begin_src sh
-  ssh UserName@IPAddressOrHostname
+  ssh UserName@remote_host
 #+end_src
+
+Here, `username` is the account you want to log into, and
+`remote_host` is the IP address or hostname of the remote server.
+
+The SSH client attempts to connect to the remote server via TCP on
+port **22** (the default port for SSH). If you want to specify a
+different port, you can use the `-p` option:
+
+#+begin_src sh
+  ssh -p 2222 username@remote_host
+#+end_src
+
 
 * How to verify that SSH server is running
 
