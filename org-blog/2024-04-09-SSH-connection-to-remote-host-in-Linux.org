@@ -1,8 +1,8 @@
 #+BEGIN_EXPORT html
 ---
 layout: page
-title: SSH connection to a remote host in Linux
-tagline: " how it works"
+title: SSH Connection to Remote Linux Hosts
+tagline: " connect easily and securely"
 permalink: /linux/debian/SSH-connection.html
 categories: [Linux, Debian12, SSH]
 tags: [Linux, Debian12, ssh]
@@ -15,6 +15,15 @@ tags: [Linux, Debian12, ssh]
 #+PROPERTY:header-args :results output :exports both :eval no-export
 
 * Introduction
+
+SSH (Secure Shell) is a protocol used to securely connect to remote
+servers or systems over a network. It provides a secure channel for
+communication, allowing users to execute commands, transfer files, and
+manage systems remotely while ensuring confidentiality and
+integrity. In this article, there is a detailed breakdown of how SSH
+connections work in Linux.
+
+
 
  *ssh (SSH client)* is a program for logging into a remote machine and
  for executing commands on a remote machine. It is intended to provide
