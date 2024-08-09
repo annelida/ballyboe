@@ -38,12 +38,12 @@ and the *SSH server*.
  starts. It enables manipulating the remote machine (server) by typing
  commands within the client on your local computer.
 
-
 * Prerequisites
 
-- The remote computer must be turned on and have a network connection;
+- The remote computer must be turned on and have a network connection,
+  typically the Internet;
 - The SSH Server must be running;
-- You must to know the IP address or the name of the remote machine:
+- User must to know the IP address or the name of the remote machine:
 
   #+begin_src sh :results verbatim
     hostname
@@ -54,41 +54,9 @@ and the *SSH server*.
   : Dell
   : 192.168.43.143
 
-- You must to have permission to access the remote computer;
-- You must to know user's name and password for logging.
-
-* Establishing a Connection
-
-
-The user initiates an SSH connection from their terminal
-
-#+begin_src sh
-  ssh UserName@remote_host
-#+end_src
-
-Here, `username` is the account you want to log into, and
-`remote_host` is the IP address or hostname of the remote server.
-
-The SSH client attempts to connect to the remote server via TCP on
-port **22** (the default port for SSH).
-
-You can check which port SSH is listening on:
-
-#+begin_src sh
-grep -i port /etc/ssh/sshd_config
-#+end_src
-
-#+RESULTS:
-: Port 22
-: #GatewayPorts no
-
-If you want to specify a different port, you can use the `-p` option:
-
-#+begin_src sh
-  ssh -p 2222 username@remote_host
-#+end_src
-
-
+- User must have permission to access the remote computer;
+- The user must know their name and password for logging in.
+  
 * How to verify that SSH server is running
 
 #+begin_src sh :results verbatim
@@ -149,10 +117,67 @@ sudo systemctl stop sshd
   sudo service ssh stop
 #+end_src
 
-* SSH port
+* How SSH Clients and Servers Interact
 
-SSH, by default, is configured to use port 22 for remote
-communication. Note that it’s possible to configure a different port
-for SSH.
+** Establishing a Connection
+
+
+The user initiates an SSH connection from their terminal
+
+#+begin_src sh
+  ssh UserName@remote_host
+#+end_src
+
+Here, `username` is the account you want to log into, and
+`remote_host` is the IP address or hostname of the remote server.
+
+The SSH client attempts to connect to the remote server via TCP on
+port **22** (the default port for SSH).
+
+You can check which port SSH is listening on:
+
+#+begin_src sh
+grep -i port /etc/ssh/sshd_config
+#+end_src
+
+#+RESULTS:
+: Port 22
+: #GatewayPorts no
+
+If you want to specify a different port, you can use the `-p` option:
+
+#+begin_src sh
+  ssh -p 2222 username@remote_host
+#+end_src
+
+** Server Response
+
+The SSH server responds to the connection request. It sends its public
+key to the client for verification or it prompts the user for their
+login and password.
+
+** Authentication
+
+The client either prompts the user for a password or uses
+public/private key authentication. If using keys, the client sends a
+request to the server to authenticate using its private key.
+
+** Secure Channel Setup
+
+Once authentication is successful, a secure encrypted channel is
+established for communication.
+
+** Interactive Session
+
+The user can now execute commands on the remote server and transfer
+files securely over the established SSH session.  For example, running
+`ls` will list directories on the remote server instead of the local
+machine.
+
+** Ending the Session
+
+When the user is done, they can log out by typing `exit` or closing
+the terminal window.
+
 
 * Notes                                                            :noexport:
