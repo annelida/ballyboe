@@ -28,15 +28,15 @@ connections work in Linux.
 The SSH architecture consists of two main components: the *SSH client*
 and the *SSH server*.
 
- *SSH client* is a program running on the user's local machine that
- initiates the connection to a remote server.
+*SSH client* is a program running on the user's local machine that
+initiates the connection to a remote server.
 
- *SSH Server* is a program running on the remote machine that listens
- and accepts incoming SSH connections from clients.
+*SSH Server* is a program running on the remote machine that listens
+and accepts incoming SSH connections from clients.
 
- When a secure SSH connection is established, a shell session
- starts. It enables manipulating the remote machine (server) by typing
- commands within the client on your local computer.
+When a secure SSH connection is established, a shell session
+starts. It enables manipulating the remote machine (server) by typing
+commands within the client on your local computer.
 
 * Prerequisites
 
@@ -179,5 +179,13 @@ machine.
 When the user is done, they can log out by typing `exit` or closing
 the terminal window.
 
+* Conclusion
 
+SSH (Secure Shell) is a powerful tool for secure remote access in
+Linux systems. It encrypts connections and provides secure
+authentication methods, allowing for the safe management of remote
+systems. Understanding how SSH functions—particularly the initiation
+of sessions and key-based authentication—is essential for effective
+Linux administration. Gaining this knowledge not only enhances
+security but also improves the efficiency of managing remote servers.
 * Notes                                                            :noexport:
