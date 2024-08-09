@@ -153,8 +153,21 @@ If you want to specify a different port, you can use the `-p` option:
 ** Server Response
 
 The SSH server responds to the connection request. It sends its public
-key to the client for verification or it prompts the user for their
-login and password.
+key to the client for verification the server’s identity and confirm
+that the client is connecting to the intended server. The client will
+typically store the server's public key in a file called
+`known_hosts`, allowing it to recognize the server in future
+connections.
+#+begin_src sh
+  cd ~/.ssh
+  ls
+#+end_src
+
+#+RESULTS:
+: id_ed25519
+: id_ed25519.pub
+: known_hosts
+: known_hosts.old
 
 ** Authentication
 
