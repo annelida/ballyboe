@@ -128,8 +128,8 @@ The user initiates an SSH connection from their terminal
   ssh UserName@remote_host
 #+end_src
 
-Here, `username` is the account you want to log into, and
-`remote_host` is the IP address or hostname of the remote server.
+Here, =username= is the account you want to log into, and
+=remote_host= is the IP address or hostname of the remote server.
 
 The SSH client attempts to connect to the remote server via TCP on
 port **22** (the default port for SSH).
@@ -144,7 +144,7 @@ grep -i port /etc/ssh/sshd_config
 : Port 22
 : #GatewayPorts no
 
-If you want to specify a different port, you can use the `-p` option:
+If you want to specify a different port, you can use the =-p= option:
 
 #+begin_src sh
   ssh -p 2222 username@remote_host
@@ -189,7 +189,7 @@ machine.
 
 ** Ending the Session
 
-When the user is done, they can log out by typing `exit` or closing
+When the user is done, they can log out by typing ~exit~ or closing
 the terminal window.
 
 * Conclusion
