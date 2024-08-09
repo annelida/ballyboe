@@ -130,10 +130,20 @@ distribution of Linux that you are using. In Debian12 you can manually
 start it by running:
 
 #+begin_src sh
+  sudo systemctl start sshd
+#+end_src
+
+or
+
+#+begin_src sh
   sudo service ssh start
 #+end_src
 
 To stop the SSH host server, enter the following:
+
+#+begin_src sh
+sudo systemctl stop sshd
+#+end_src
 
 #+begin_src
   sudo service ssh stop
