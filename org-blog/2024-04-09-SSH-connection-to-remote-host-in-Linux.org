@@ -25,12 +25,14 @@ connections work in Linux.
 
 * Components of SSH
 
- *SSH client* is a program running on the user's local machine
- that initiates the connection to a remote server.
+The SSH architecture consists of two main components: the *SSH client*
+and the *SSH server*.
 
- *SSH Server* is a program running on the remote machine that accepts
- incoming SSH connections. OpenSSH is a widely used SSH server
- implementation on Linux systems.
+ *SSH client* is a program running on the user's local machine that
+ initiates the connection to a remote server.
+
+ *SSH Server* is a program running on the remote machine that listens
+ and accepts incoming SSH connections from clients.
 
  When a secure SSH connection is established, a shell session
  starts. It enables manipulating the remote machine (server) by typing
