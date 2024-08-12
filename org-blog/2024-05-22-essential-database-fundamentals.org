@@ -1,11 +1,11 @@
 #+BEGIN_EXPORT html
 ---
 layout: page
-title: Data base fundamentals
-tagline: " the main definitions and types"
-permalink: /data-base-fundamentals.html
-categories: [Linux, Data bases, SQLite3, literate programming]
-tags: [Linux, data bases, SQLite3]
+title: Essential Database Fundamentals
+tagline: " mastering the basics"
+permalink: /database-fundamentals.html
+categories: [Linux, Database, SQL]
+tags: [linux, database, sql]
 ---
 #+END_EXPORT
 
