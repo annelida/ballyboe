@@ -51,7 +51,24 @@ way that makes it easy to access and manipulate.
    Databases allow multiple users to interact with data simultaneously
    while maintaining data consistency through concurrency control.
 
-* Databases types and examples
+* Types and Examples of Databases
+
+There are several types of databases, but they can broadly be
+classified into two main categories: *Relational Databases* and *NoSQL
+Databases*.
+
+** Relational Databases
+
+*Relational databases* store data in structured tables, utilizing rows
+and columns to represent relationships between data points.
+
+This database commonly uses Structured Query Language (SQL) for for
+operations like creating, reading, updating, and deleting (CRUD) data.
+
+*Examples:*
+- MySQL, PostgreSQL, Oracle Database, Microsoft SQL Server.
+
+* Notes                                                            :noexport:
 
 - /Hierarchical Databases/: These databases organize data in a
   parent-child relationship, resembling a tree-like structure where
@@ -79,4 +96,6 @@ way that makes it easy to access and manipulate.
   objects similar to those used in object-oriented programming
   languages. One example of an object oriented database is MongoDB
   Realm;
+
+
 
