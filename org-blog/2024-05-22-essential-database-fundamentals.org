@@ -68,6 +68,21 @@ operations like creating, reading, updating, and deleting (CRUD) data.
 *Examples:*
 - MySQL, PostgreSQL, Oracle Database, Microsoft SQL Server.
 
+
+** NoSQL Databases
+
+*NoSQL databases (Not only SQL) or Non-relational databases* do not
+use a fixed schema and can store unstructured or semi-structured data.
+
+Flexible data models, including key-value stores, document stores,
+column stores, and graph databases.
+
+*Examples:*
+- MongoDB (document store), Redis (key-value store), Cassandra
+(column store), Neo4j (graph database).
+
+
+
 * Notes                                                            :noexport:
 
 - /Hierarchical Databases/: These databases organize data in a
