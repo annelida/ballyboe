@@ -71,11 +71,12 @@ CLOCK: [2024-04-12 Fri 07:12]--[2024-04-12 Fri 08:12] =>  1:00
 :CATEGORY: OpenAI
 :END:
 
-*** [#A] 6 Levels of Thinking
-SCHEDULED: <2024-08-10 Sat ++2d>
+*** 6 Levels of Thinking
+SCHEDULED: <2024-08-14 Wed ++2d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-08-08 Thu 18:27]
+:LAST_REPEAT: [2024-08-13 Tue 08:05]
 :END:
+- State "AMPLE"      from ""           [2024-08-13 Tue 08:05]
 - State "AMPLE"      from ""           [2024-08-08 Thu 18:27]
 - State "AMPLE"      from ""           [2024-08-07 Wed 15:57]
 :LOGBOOK:
@@ -92,11 +93,12 @@ https://www.youtube.com/watch?v=1xqerXscTsE
 ** English
 
 *** Grammar
-SCHEDULED: <2024-08-09 Fri ++1d>
+SCHEDULED: <2024-08-14 Wed ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-08-06 Tue 18:35]
+:LAST_REPEAT: [2024-08-13 Tue 08:05]
 :END:
 
+- State "AMPLE"      from ""           [2024-08-13 Tue 08:05]
 - State "AMPLE"      from ""           [2024-08-06 Tue 18:35]
 - State "AMPLE"      from ""           [2024-08-01 Thu 18:55]
 - State "AMPLE"      from ""           [2024-07-31 Wed 18:52]
@@ -109,10 +111,11 @@ SCHEDULED: <2024-08-09 Fri ++1d>
 
 **** BBC Learning English
 ***** DELAY [#C] Inderect questions
-SCHEDULED: <2024-08-12 Mon ++2w>
+SCHEDULED: <2024-08-26 Mon ++2w>
 :PROPERTIES:
-:LAST_REPEAT: [2024-07-14 Sun 18:23]
+:LAST_REPEAT: [2024-08-13 Tue 08:06]
 :END:
+- State "AMPLE"      from "DELAY"      [2024-08-13 Tue 08:06]
 - State "AMPLE"      from "DELAY"      [2024-07-14 Sun 18:23]
 - State "AMPLE"      from "LAG"        [2024-07-14 Sun 18:23]
 - State "AMPLE"      from "DELAY"      [2024-06-16 Sun 18:13]
@@ -128,10 +131,11 @@ CLOCK: [2024-02-09 Fri 12:23]--[2024-02-09 Fri 12:42] =>  0:19
 :END:
 [[https://www.bbc.co.uk/learningenglish/english/course/lower-intermediate/unit-21/session-2/activity-3]]
 ***** Tense tour
-SCHEDULED: <2024-08-13 Tue ++2w>
+SCHEDULED: <2024-08-27 Tue ++2w>
 :PROPERTIES:
-:LAST_REPEAT: [2024-07-29 Mon 19:33]
+:LAST_REPEAT: [2024-08-13 Tue 08:06]
 :END:
+- State "AMPLE"      from ""           [2024-08-13 Tue 08:06]
 - State "AMPLE"      from ""           [2024-07-29 Mon 19:33]
 - State "AMPLE"      from ""           [2024-07-15 Mon 19:42]
 - State "AMPLE"      from ""           [2024-07-01 Mon 20:26]
@@ -262,10 +266,11 @@ CLOCK: [2024-04-21 Sun 09:40]--[2024-04-21 Sun 10:13] =>  0:33
 :END:
 [[https://learnenglish.britishcouncil.org/grammar/english-grammar-reference/personal-pronouns]]
 ****** [#B] 'it' and 'there' as dummy subjects
-SCHEDULED: <2024-08-13 Tue ++1w>
+SCHEDULED: <2024-08-20 Tue ++1w>
 :PROPERTIES:
-:LAST_REPEAT: [2024-08-05 Mon 19:57]
+:LAST_REPEAT: [2024-08-13 Tue 08:07]
 :END:
+- State "AMPLE"      from ""           [2024-08-13 Tue 08:07]
 - State "AMPLE"      from ""           [2024-08-05 Mon 19:57]
 - State "AMPLE"      from ""           [2024-07-29 Mon 19:33]
 - State "AMPLE"      from ""           [2024-07-22 Mon 18:27]
@@ -454,11 +459,12 @@ SCHEDULED: <2024-08-26 Mon ++2w>
 SCHEDULED: <2024-04-30 Tue>
 [[https://www.bbc.co.uk/sounds/play/p0hj2w1w]]
 ** Linux Operating System Basics
-SCHEDULED: <2024-08-09 Fri ++1d>
+SCHEDULED: <2024-08-14 Wed ++1d>
 :PROPERTIES:
 :CATEGORY: Linux
-:LAST_REPEAT: [2024-08-08 Thu 18:27]
+:LAST_REPEAT: [2024-08-13 Tue 08:05]
 :END:
+- State "AMPLE"      from ""           [2024-08-13 Tue 08:05]
 - State "AMPLE"      from ""           [2024-08-08 Thu 18:27]
 - State "AMPLE"      from ""           [2024-08-01 Thu 18:55]
 - State "AMPLE"      from ""           [2024-07-31 Wed 18:15]
@@ -479,7 +485,7 @@ CLOCK: [2024-07-20 Sat 07:09]--[2024-07-20 Sat 08:11] =>  1:02
 [[elisp:(bookmark-jump-other-frame "linux.org")]]
 
 *** RAW Repetition of material on the subject "Linux Operating System"
-SCHEDULED: <2024-08-09 Fri>
+SCHEDULED: <2024-08-14 Wed>
 
 [[elisp:(bookmark-jump-other-frame "linux-repetition.org")]]
 
@@ -701,11 +707,12 @@ types_operations.org
 : types_operations.org
 
 *** DELAY [#B] How ho check which Debian distro are you using
-SCHEDULED: <2024-08-10 Sat ++2w>
+SCHEDULED: <2024-08-24 Sat ++2w>
 :PROPERTIES:
-:LAST_REPEAT: [2024-07-13 Sat 17:51]
+:LAST_REPEAT: [2024-08-11 Sun 18:41]
 :END:
 
+- State "AMPLE"      from "DELAY"      [2024-08-11 Sun 18:41]
 - State "AMPLE"      from "LAG"        [2024-07-13 Sat 17:51]
 - State "AMPLE"      from "DELAY"      [2024-07-13 Sat 17:51]
 #+begin_src sh :results output
@@ -838,22 +845,28 @@ SCHEDULED: <2024-04-10 Wed>
 CLOCK: [2024-04-09 Tue 10:00]--[2024-04-09 Tue 10:42] =>  0:42
 CLOCK: [2024-04-09 Tue 09:03]--[2024-04-09 Tue 09:36] =>  0:33
 :END:
-*** [#A] Establishment of an Encrypted Session in SSH
+*** AMPLE [#A] Client/User architecture in SSH
 SCHEDULED: <2024-08-09 Fri>
+:LOGBOOK:
+CLOCK: [2024-08-09 Fri 08:22]--[2024-08-09 Fri 10:08] =>  1:46
+CLOCK: [2024-08-09 Fri 07:41]--[2024-08-09 Fri 08:19] =>  0:38
+CLOCK: [2024-08-09 Fri 07:12]--[2024-08-09 Fri 07:22] =>  0:10
+:END:
 
 [[elisp:(bookmark-jump-other-frame "linux.org")]]
 
-*** Improvement the article "SSH Connection to Remote Linux Hosts"
-SCHEDULED: <2024-08-09 Fri>
+*** AMPLE Improvement the article "SSH Connection to Remote Linux Hosts"
+SCHEDULED: <2024-08-10 Sat>
 
 [[elisp:(bookmark-jump-other-frame "2024-04-09-SSH-connection-to-remote-host-in-linux.org.org")]]
 
-*** Revision of the Article about Process Management on Linux
-SCHEDULED: <2024-08-09 Fri>
+*** [#A] Revision of the Article about Process Management on Linux
+SCHEDULED: <2024-08-14 Wed>
 - Note taken on [2024-04-13 Sat 17:26] \\
   How to check is the SSHd process running?
   Which protocol it is listening if running?
 :LOGBOOK:
+CLOCK: [2024-08-13 Tue 09:31]--[2024-08-13 Tue 09:32] =>  0:01
 CLOCK: [2024-08-07 Wed 10:40]--[2024-08-07 Wed 11:12] =>  0:32
 CLOCK: [2024-08-07 Wed 09:53]--[2024-08-07 Wed 09:53] =>  0:00
 CLOCK: [2024-08-06 Tue 09:30]--[2024-08-06 Tue 10:04] =>  0:34
@@ -1244,7 +1257,7 @@ SCHEDULED: <2024-05-12 Sun>
 *** [#C] I 386 architecture commands
 
 *** Exploring the Backbone of Computing
-SCHEDULED: <2024-08-09 Fri ++1d>
+SCHEDULED: <2024-08-14 Wed ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-08-01 Thu 18:55]
 :END:
@@ -1258,7 +1271,7 @@ CLOCK: [2024-07-26 Fri 07:19]--[2024-07-26 Fri 08:04] =>  0:45
 
 [[elisp:(bookmark-jump-other-frame "2024-07-25-exploring-the-backbone-of-computing.org")]]
 ** Git/Magit
-SCHEDULED: <2024-08-09 Fri ++1d>
+SCHEDULED: <2024-08-14 Wed ++1d>
 :PROPERTIES:
 :CATEGORY: Git
 :LAST_REPEAT: [2024-08-01 Thu 18:55]
@@ -1481,7 +1494,7 @@ fi
 git push --force --all
 #+end_src
 ** Emacs
-SCHEDULED: <2024-08-09 Fri ++1d>
+SCHEDULED: <2024-08-14 Wed ++1d>
 :PROPERTIES:
 :CATEGORY: Emacs
 :LAST_REPEAT: [2024-08-01 Thu 18:55]
@@ -1501,7 +1514,11 @@ CLOCK: [2024-07-23 Tue 07:23]--[2024-07-23 Tue 07:56] =>  0:33
 
 [[elisp:(bookmark-jump-other-frame "emacs.org")][Link]]
 *** Bmp+
-SCHEDULED: <2024-08-09 Fri ++2d>
+SCHEDULED: <2024-09-01 Sun ++2d>
+:PROPERTIES:
+:LAST_REPEAT: [2024-08-09 Fri 19:22]
+:END:
+- State "AMPLE"      from ""           [2024-08-09 Fri 19:22]
 https://www.emacswiki.org/emacs/BookmarkPlus
 
 *** AMPLE [#C] Eww commands brief description
@@ -1897,10 +1914,11 @@ while working on a project or learning the language. This tool is
 available in every Python installation.
 
 *** Python script
-SCHEDULED: <2024-08-09 Fri ++2w>
+SCHEDULED: <2024-08-23 Fri ++2w>
 :PROPERTIES:
-:LAST_REPEAT: [2024-07-25 Thu 19:36]
+:LAST_REPEAT: [2024-08-09 Fri 19:22]
 :END:
+- State "AMPLE"      from ""           [2024-08-09 Fri 19:22]
 - State "AMPLE"      from ""           [2024-07-25 Thu 19:36]
 - State "AMPLE"      from ""           [2024-07-12 Fri 19:31]
 - State "AMPLE"      from ""           [2024-06-27 Thu 19:22]
@@ -1918,7 +1936,7 @@ runs the code line by line, following the script or program’s
 execution flow.
 
 *** DELAY Python: modules, relative import.
-SCHEDULED: <2024-08-12 Mon>
+SCHEDULED: <2024-09-30 Mon>
 :PROPERTIES:
 :CATEGORY: Python
 :END:
@@ -2013,11 +2031,12 @@ Object's methods are functions that belong to the object.
 : The student's name is Tony Black
 
 *** Selenium inside Emacs
-SCHEDULED: <2024-08-10 Sat ++2w>
+SCHEDULED: <2024-08-24 Sat ++2w>
 :PROPERTIES:
-:LAST_REPEAT: [2024-07-27 Sat 15:14]
+:LAST_REPEAT: [2024-08-11 Sun 18:41]
 :CATEGORY: Python
 :END:
+- State "AMPLE"      from ""           [2024-08-11 Sun 18:41]
 - State "AMPLE"      from ""           [2024-07-27 Sat 15:14]
 :LOGBOOK:
 CLOCK: [2024-05-14 Tue 10:19]--[2024-05-14 Tue 11:05] =>  0:46
@@ -2665,7 +2684,7 @@ CLOCK: [2024-05-25 Sat 13:42]--[2024-05-25 Sat 13:59] =>  0:17
   : Hello, world!
 
 *** DELAY Tuples and Sequences
-SCHEDULED: <2024-08-11 Sun ++2w>
+SCHEDULED: <2024-10-06 Sun ++2w>
 :PROPERTIES:
 :CATEGORY: Python
 :LAST_REPEAT: [2024-07-13 Sat 17:53]
@@ -2678,10 +2697,11 @@ CLOCK: [2024-01-12 Fri 10:28]--[2024-01-12 Fri 11:01] =>  0:33
 :END:
 
 *** [#B] List of tuples
-SCHEDULED: <2024-08-13 Tue ++1w>
+SCHEDULED: <2024-08-20 Tue ++1w>
 :PROPERTIES:
-:LAST_REPEAT: [2024-08-05 Mon 19:57]
+:LAST_REPEAT: [2024-08-13 Tue 08:07]
 :END:
+- State "AMPLE"      from ""           [2024-08-13 Tue 08:07]
 - State "AMPLE"      from ""           [2024-08-05 Mon 19:57]
 - State "AMPLE"      from ""           [2024-07-29 Mon 19:33]
 - State "AMPLE"      from ""           [2024-07-22 Mon 18:27]
@@ -2759,7 +2779,7 @@ CLOCK: [2024-04-19 Fri 11:13]--[2024-04-19 Fri 11:53] =>  0:40
 
 [[file:~/git/annelida/ballyboe/org-blog/2023-11-07-Python-venv.org::*Creating a Python virtual environment on a Debian-based system][Python virtual environment on a Debian-based system]]
 *** Python Programming Language basics
-SCHEDULED: <2024-08-09 Fri ++1d>
+SCHEDULED: <2024-08-14 Wed ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-08-01 Thu 18:55]
 :END:
@@ -2801,7 +2821,7 @@ SCHEDULED: <2024-06-25 Tue>
 CLOCK: [2024-06-25 Tue 09:28]--[2024-06-25 Tue 10:48] =>  1:20
 :END:
 *** The Origin and Evolution of Programming Languages
-SCHEDULED: <2024-08-09 Fri ++1d>
+SCHEDULED: <2024-08-14 Wed ++1d>
 :LOGBOOK:
 CLOCK: [2024-08-01 Thu 09:40]--[2024-08-01 Thu 10:09] =>  0:29
 CLOCK: [2024-07-31 Wed 08:07]--[2024-07-31 Wed 08:57] =>  0:50
@@ -2810,7 +2830,7 @@ CLOCK: [2024-07-31 Wed 08:07]--[2024-07-31 Wed 08:57] =>  0:50
 [[elisp:(bookmark-jump-other-frame "2024-04-20-python-programming-language.org")]]
 
 ** Flask Framework
-SCHEDULED: <2024-08-09 Fri ++1d>
+SCHEDULED: <2024-08-14 Wed ++1d>
 :PROPERTIES:
 :CATEGORY: Flask
 :LAST_REPEAT: [2024-07-30 Tue 19:29]
@@ -2936,10 +2956,13 @@ CLOCK: [2024-05-31 Fri 12:34]--[2024-05-31 Fri 12:38] =>  0:04
   The file has to be stored on the filesystem as static/style.css.
 https://flask.palletsprojects.com/en/3.0.x/quickstart/#static-files
 *** DELAY [#A] Rendering Templates
-SCHEDULED: <2024-08-10 Sat ++2w>
+SCHEDULED: <2024-09-21 Sat ++2w>
 :PROPERTIES:
-:LAST_REPEAT: [2024-07-12 Fri 19:40]
+:LAST_REPEAT: [2024-08-09 Fri 19:23]
 :END:
+- State "AMPLE"      from "DELAY"      [2024-08-09 Fri 19:23]
+- State "AMPLE"      from "LAG"        [2024-08-09 Fri 19:23]
+- State "AMPLE"      from "DELAY"      [2024-08-09 Fri 19:23]
 - State "AMPLE"      from "DELAY"      [2024-07-12 Fri 19:40]
 - State "AMPLE"      from "LAG"        [2024-07-12 Fri 19:40]
 - State "AMPLE"      from "DELAY"      [2024-06-27 Thu 16:09]
@@ -3193,7 +3216,7 @@ CLOCK: [2024-05-16 Thu 07:12]--[2024-05-16 Thu 07:27] =>  0:15
 :END:
 
 *** DELAY [#B] Request/Response cycle example with Code
-SCHEDULED: <2024-08-10 Sat ++1w>
+SCHEDULED: <2024-09-28 Sat ++1w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-07-18 Thu 21:17]
 :END:
@@ -3203,10 +3226,11 @@ SCHEDULED: <2024-08-10 Sat ++1w>
 - State "AMPLE"      from "DELAY"      [2024-07-12 Fri 19:30]
 
 *** [#B] Flask controller pass the dictionary to Jinja
-SCHEDULED: <2024-08-13 Tue ++1w>
+SCHEDULED: <2024-08-20 Tue ++1w>
 :PROPERTIES:
-:LAST_REPEAT: [2024-08-05 Mon 19:58]
+:LAST_REPEAT: [2024-08-13 Tue 19:34]
 :END:
+- State "AMPLE"      from ""           [2024-08-13 Tue 19:34]
 - State "AMPLE"      from ""           [2024-08-05 Mon 19:58]
 - State "AMPLE"      from ""           [2024-07-29 Mon 19:35]
 - State "AMPLE"      from ""           [2024-07-22 Mon 18:28]
@@ -3270,7 +3294,7 @@ CLOCK: [2024-06-20 Thu 08:00]--[2024-06-20 Thu 08:17] =>  0:17
 :END:
 
 ** Jinja2: The Templating Engine
-SCHEDULED: <2024-08-09 Fri ++1d>
+SCHEDULED: <2024-08-14 Wed ++1d>
 :PROPERTIES:
 :CATEGORY: Jinja2
 :LAST_REPEAT: [2024-08-01 Thu 18:55]
@@ -3336,10 +3360,11 @@ CLOCK: [2024-05-24 Fri 11:50]--[2024-05-24 Fri 12:29] =>  0:39
 :END:
 https://jinja.palletsprojects.com/en/3.1.x/templates/#template-file-extension
 *** [#B] Variables
-SCHEDULED: <2024-08-10 Sat ++2w>
+SCHEDULED: <2024-08-24 Sat ++2w>
 :PROPERTIES:
-:LAST_REPEAT: [2024-07-27 Sat 15:14]
+:LAST_REPEAT: [2024-08-11 Sun 18:42]
 :END:
+- State "AMPLE"      from ""           [2024-08-11 Sun 18:42]
 - State "AMPLE"      from ""           [2024-07-27 Sat 15:14]
 - State "AMPLE"      from ""           [2024-07-13 Sat 17:52]
 - State "AMPLE"      from ""           [2024-06-27 Thu 19:21]
@@ -3416,11 +3441,12 @@ CLOCK: [2024-07-07 Sun 10:22]--[2024-07-07 Sun 11:28] =>  1:06
 CLOCK: [2024-07-07 Sun 09:19]--[2024-07-07 Sun 10:03] =>  0:44
 :END:
 https://jinja.palletsprojects.com/en/3.1.x/templates/#tests
-*** [#A] Comments
-SCHEDULED: <2024-08-14 Wed ++1w>
+*** Comments
+SCHEDULED: <2024-08-21 Wed ++1w>
 :PROPERTIES:
-:LAST_REPEAT: [2024-08-06 Tue 18:39]
+:LAST_REPEAT: [2024-08-13 Tue 19:36]
 :END:
+- State "AMPLE"      from ""           [2024-08-13 Tue 19:36]
 - State "AMPLE"      from ""           [2024-08-06 Tue 18:39]
 - State "AMPLE"      from ""           [2024-07-31 Wed 18:52]
 - State "AMPLE"      from ""           [2024-07-23 Tue 20:38]
@@ -3486,7 +3512,7 @@ CLOCK: [2024-05-26 Sun 09:19]--[2024-05-26 Sun 09:41] =>  0:22
 *** AMPLE [#A] Adding Static Files to application
 
 *** RAW Repetition of material on the subject "Jinja2 Templating Engine" 
-SCHEDULED: <2024-08-09 Fri>
+SCHEDULED: <2024-08-14 Wed>
 
 [[elisp:(bookmark-jump-other-frame "jinja-repetition.org")]]
 
@@ -3586,8 +3612,8 @@ CLOCK: [2024-07-01 Mon 17:46]--[2024-07-01 Mon 18:48] =>  1:02
 [[elisp:(bookmark-jump-other-frame "2024-07-01-programming-on-the-web.org")][Link]]
 
 ** Jekyll: A Static Site Generator 
-*** Org-Jekyll - article about initial config
-SCHEDULED: <2024-08-13 Tue ++1m>
+*** [#A] Org-Jekyll - article about initial config
+SCHEDULED: <2024-08-14 Wed ++1m>
 :PROPERTIES:
 :LAST_REPEAT: [2024-06-06 Thu 19:42]
 :CATEGORY: Org-Jekyll
@@ -3821,12 +3847,15 @@ fi
 git push --force --all
 #+end_src
 
-** Databases fundamentals
-SCHEDULED: <2024-08-21 Wed>
+** [#A] Databases fundamentals
+SCHEDULED: <2024-08-14 Wed>
 :PROPERTIES:
 :CATEGORY: DB
 :END:
 :LOGBOOK:
+CLOCK: [2024-08-13 Tue 08:24]--[2024-08-13 Tue 09:00] =>  0:36
+CLOCK: [2024-08-12 Mon 08:34]--[2024-08-12 Mon 09:05] =>  0:31
+CLOCK: [2024-08-12 Mon 08:07]--[2024-08-12 Mon 08:14] =>  0:07
 CLOCK: [2024-06-26 Wed 10:10]--[2024-06-26 Wed 10:46] =>  0:36
 CLOCK: [2024-05-23 Thu 07:38]--[2024-05-23 Thu 08:52] =>  1:14
 CLOCK: [2024-05-23 Thu 07:17]--[2024-05-23 Thu 07:25] =>  0:08
@@ -3836,8 +3865,9 @@ CLOCK: [2024-05-22 Wed 08:47]--[2024-05-22 Wed 09:19] =>  0:32
 CLOCK: [2024-05-21 Tue 18:37]--[2024-05-22 Wed 07:15] => 12:38
 CLOCK: [2024-05-21 Tue 15:39]--[2024-05-21 Tue 16:09] =>  0:30
 :END:
-[[file:~/git/annelida/ballyboe/org-blog/2024-05-22-data-base-fundamentals.org::*Databases types and examples][Databases fundamentals]]
-[[https://www.mongodb.com/resources/basics/databases/types]]
+[[elisp:(bookmark-jump-other-frame "2024-05-22-essential-database-fundamentals.org")]]
+
+https://www.mongodb.com/resources/basics/databases/types]]
 *** SQLite3
 :PROPERTIES:
 :END:
@@ -3911,7 +3941,7 @@ SCHEDULED: <2024-08-24 Sat>
 ** DELAY [#B] Portfolio creation
 SCHEDULED: <2024-08-21 Wed>
 ** DELAY [#A] CV elaboration
-SCHEDULED: <2024-08-11 Sun>
+SCHEDULED: <2024-10-06 Sun>
 :LOGBOOK:
 CLOCK: [2024-04-28 Sun 09:00]--[2024-04-28 Sun 09:35] =>  0:35
 CLOCK: [2024-04-28 Sun 07:14]--[2024-04-28 Sun 08:41] =>  1:27
@@ -4145,11 +4175,12 @@ CLOCK: [2023-12-19 Tue 14:10]--[2023-12-19 Tue 14:10] =>  0:00
 
 * Events
 ** Preparation to meeting with Roisin
-SCHEDULED: <2024-08-09 Fri ++1w>
+SCHEDULED: <2024-08-16 Fri ++1w>
 :PROPERTIES:
 :CATEGORY: Speacking
-:LAST_REPEAT: [2024-07-27 Sat 15:13]
+:LAST_REPEAT: [2024-08-09 Fri 19:22]
 :END:
+- State "AMPLE"      from ""           [2024-08-09 Fri 19:22]
 - State "AMPLE"      from ""           [2024-07-27 Sat 15:13]
 - State "AMPLE"      from ""           [2024-07-27 Sat 15:13]
 - State "AMPLE"      from ""           [2024-07-19 Fri 19:02]
@@ -4215,22 +4246,26 @@ SCHEDULED: <2024-08-16 Fri ++1w>
 CLOCK: [2024-07-30 Tue 08:04]--[2024-07-30 Tue 09:01] =>  0:57
 :END:
 [[elisp:(bookmark-jump-other-frame "startup.org")][Link]]
-** Philomath's Bootstrap template reading
-SCHEDULED: <2024-08-09 Fri ++2d>
+** [#A] Philomath's Bootstrap template reading
+SCHEDULED: <2024-08-16 Fri ++2d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-08-06 Tue 08:16]
+:LAST_REPEAT: [2024-08-13 Tue 19:35]
 :END:
+- State "AMPLE"      from ""           [2024-08-13 Tue 19:35]
+- State "AMPLE"      from ""           [2024-08-13 Tue 08:05]
+- State "AMPLE"      from ""           [2024-08-09 Fri 19:22]
 - State "AMPLE"      from ""           [2024-08-06 Tue 08:16]
 :LOGBOOK:
 CLOCK: [2024-08-06 Tue 07:25]--[2024-08-06 Tue 08:15] =>  0:50
 :END:
 https://getbootstrap.com/docs/5.3/getting-started/introduction/
 [[elisp:(bookmark-jump-other-frame "index.html")][Link]]
-** [#A] Aligning the Agenda with the might-do.list from 0-Key 
-SCHEDULED: <2024-08-10 Sat ++2d>
+** Aligning the Agenda with the might-do.list from 0-Key 
+SCHEDULED: <2024-08-15 Thu ++2d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-08-08 Thu 18:27]
+:LAST_REPEAT: [2024-08-13 Tue 19:36]
 :END:
+- State "AMPLE"      from ""           [2024-08-13 Tue 19:36]
 - State "AMPLE"      from ""           [2024-08-08 Thu 18:27]
 - State "AMPLE"      from ""           [2024-08-06 Tue 18:32]
 :LOGBOOK:
@@ -4256,8 +4291,9 @@ CLOCK: [2024-05-29 Wed 06:44]--[2024-05-29 Wed 07:20] =>  0:36
 
 * Personal
 ** Check the level of a waste
-SCHEDULED: <2024-08-13 Tue ++1w>
+SCHEDULED: <2024-08-20 Tue ++1w>
 :PROPERTIES:
-:LAST_REPEAT: [2024-08-06 Tue 18:35]
+:LAST_REPEAT: [2024-08-13 Tue 19:36]
 :END:
+- State "AMPLE"      from ""           [2024-08-13 Tue 19:36]
 - State "AMPLE"      from ""           [2024-08-06 Tue 18:35]

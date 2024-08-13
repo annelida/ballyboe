@@ -303,10 +303,13 @@ CLOCK: [2024-06-24 Mon 14:02]--[2024-06-24 Mon 14:03] =>  0:01
 :END:
 
 *** Text generation models
-SCHEDULED: <2024-08-09 Fri ++2d>
+SCHEDULED: <2024-08-15 Thu ++2d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-08-07 Wed 16:55]
+:LAST_REPEAT: [2024-08-13 Tue 19:36]
 :END:
+- State "AMPLE"      from ""           [2024-08-13 Tue 19:36]
+- State "AMPLE"      from ""           [2024-08-11 Sun 18:44]
+- State "AMPLE"      from ""           [2024-08-09 Fri 19:22]
 - State "AMPLE"      from ""           [2024-08-07 Wed 16:55]
 - State "AMPLE"      from ""           [2024-08-05 Mon 19:56]
 - State "AMPLE"      from ""           [2024-08-04 Sun 18:39]
@@ -351,11 +354,12 @@ CLOCK: [2024-06-28 Fri 08:53]--[2024-06-28 Fri 09:53] =>  1:00
 [[https://platform.openai.com/docs/api-reference/chat/create]]
 
 *** [#B] Prompt engineering
-SCHEDULED: <2024-08-11 Sun ++1w>
+SCHEDULED: <2024-08-18 Sun ++1w>
 :PROPERTIES:
-:LAST_REPEAT: [2024-08-04 Sun 18:39]
+:LAST_REPEAT: [2024-08-11 Sun 18:44]
 :END:
 
+- State "AMPLE"      from ""           [2024-08-11 Sun 18:44]
 - State "AMPLE"      from ""           [2024-08-04 Sun 18:39]
 - State "AMPLE"      from ""           [2024-07-27 Sat 15:15]
 - State "AMPLE"      from ""           [2024-07-20 Sat 18:45]
@@ -364,10 +368,11 @@ SCHEDULED: <2024-08-11 Sun ++1w>
 [[https://platform.openai.com/docs/guides/prompt-engineering]]
 
 *** [#A] Assistants API
-SCHEDULED: <2024-08-10 Sat ++1w>
+SCHEDULED: <2024-08-17 Sat ++1w>
 :PROPERTIES:
-:LAST_REPEAT: [2024-08-04 Sun 18:39]
+:LAST_REPEAT: [2024-08-11 Sun 18:40]
 :END:
+- State "AMPLE"      from ""           [2024-08-11 Sun 18:40]
 - State "AMPLE"      from ""           [2024-08-04 Sun 18:39]
 - State "AMPLE"      from ""           [2024-07-27 Sat 15:14]
 - State "AMPLE"      from ""           [2024-07-20 Sat 08:17]
@@ -687,10 +692,12 @@ Mostly the similar approach with several quirks
 [[file:~/git/annelida/ballyboe/org-blog/2024-05-26-Emacs-help-about-help.org::*The list of commands, which began with C-h prefix][The list of commands, which began with C-h prefix and Info commands]]
 
 * [#A] Task decomposition
-SCHEDULED: <2024-08-09 Fri ++1d>
+SCHEDULED: <2024-08-14 Wed ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-08-08 Thu 18:27]
+:LAST_REPEAT: [2024-08-13 Tue 08:05]
 :END:
+- State "AMPLE"      from ""           [2024-08-13 Tue 08:05]
+- State "AMPLE"      from ""           [2024-08-09 Fri 19:23]
 - State "AMPLE"      from ""           [2024-08-08 Thu 18:27]
 - State "AMPLE"      from ""           [2024-08-07 Wed 16:49]
 - State "AMPLE"      from ""           [2024-08-04 Sun 18:39]
@@ -770,7 +777,7 @@ And *notice* the details, please!
 https://www.youtube.com/watch?v=bEfYm8sAaQg
 
 * Computer Science
-SCHEDULED: <2024-08-09 Fri ++1d>
+SCHEDULED: <2024-08-14 Wed ++1d>
 :PROPERTIES:
 :CATEGORY: CS
 :LAST_REPEAT: [2024-08-06 Tue 19:09]
@@ -789,7 +796,7 @@ CLOCK: [2024-07-18 Thu 07:51]--[2024-07-18 Thu 08:48] =>  0:57
 [[elisp:(bookmark-jump-other-frame "computer-science.org")]]
 
 ** RAW Repetition the material on the subject "Computer science"
-SCHEDULED: <2024-08-09 Fri ++1d>
+SCHEDULED: <2024-08-14 Wed ++1d>
 
 [[elisp:(bookmark-jump-other-frame "computer-science-repetition.org")]]
 
@@ -843,8 +850,8 @@ SCHEDULED: <2024-09-02 Mon ++1w>
 
 [[https://realpython.com/python-hash-table/
 ]]
-*** [#A] Array Data Structures
-SCHEDULED: <2024-08-14 Wed ++1w>
+*** DELAY Array Data Structures
+SCHEDULED: <2024-09-18 Wed ++1w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-08-06 Tue 18:39]
 :END:
