@@ -81,6 +81,19 @@ column stores, and graph databases.
 - MongoDB (document store), Redis (key-value store), Cassandra
 (column store), Neo4j (graph database).
 
+* Basic Database Operations (CRUD Operations)
+
+CRUD operations are the four fundamental operations that can be
+performed on a database:
+
+1. *Create:*
+   - Add new records to a database.
+2. *Read:*
+   - Retrieve existing records from a database.
+3. *Update:*
+   - Modify existing records in a database.
+4. *Delete:*
+   - Remove records from a database.
 
 
 * Notes                                                            :noexport:
@@ -104,13 +117,10 @@ column stores, and graph databases.
   - key-value stores;
   - column-oriented databases;
   - graph databases.
-    
+
    Examples include MongoDB and Redis;
 - /Object-oriented Databases/: These databases store data using the
   object-based data model approach, representing and storing data as
   objects similar to those used in object-oriented programming
   languages. One example of an object oriented database is MongoDB
   Realm;
-
-
-
