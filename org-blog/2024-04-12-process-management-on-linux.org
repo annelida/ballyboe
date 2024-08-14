@@ -155,8 +155,6 @@ monitored using a unique identifier called the Process ID (PID).
      but still has an entry in the process table. Displayed as `Z` in
      process status outputs.
 
-
-
 * Commands for Process Management in Linux
 
 There are numerous commands available in Linux for process management,
@@ -298,6 +296,65 @@ in all distributions by default.
     htop
   #+end_src
 
+  The ~htop~ interface is similar to the ~top~ interface, but it
+  allows you to scroll both vertically and horizontally, as well as
+  utilize function keys.
+
+*** Process Management
+
+- Killing a Process:
+  1. Navigate to the desired process using the arrow keys;
+  2. Press ~F9~ to kill the process;
+  3. Select the signal (e.g., ~15~ for SIGTERM or ~9~ for SIGKILL) and
+     press ~Enter~.
+
+- Renicing a Process:
+  1. Navigate to the process you want to renice;
+  2. Press ~F7~ to increase priority (lower nice value) or ~F8~ to
+     decrease priority (higher nice value).
+
+- Searching and Filtering:
+  1. Search for a Process:
+     - Press ~F3~ and type the name or part of the name of the process
+       you want to search for.
+
+  2. Filter the Process List:
+     - Press ~F4~ to toggle the filter and enter a term to refine the
+       list of processes displayed.
+
+- Sorting Processes:
+
+  You can sort the process list based on various criteria:
+
+  1. Press ~F6~ to change the sort column (CPU usage, memory usage,
+     etc.);
+
+  2. You can also toggle between ascending and descending order by
+     pressing the key again.
+
+- Display Options:
+
+  1. Tree view:
+     - Press ~F5~ to view processes in a tree structure, displaying
+       the parent-child relationships clearly;
+
+  2. Customize the Display:
+     - Press ~F2~ to enter the setup menu, where you can configure
+       display options, change colors, and toggle different fields.
+
+- Saving Configuration
+
+  To save your customized settings (like layout and display options),
+  you can:
+
+  1. Make your desired adjustments in ~htop~.
+  2. Exit using ~F10~; it will save the configuration automatically.
+
+- Exiting ~htop~
+
+  To exit ~htop~, simply press the ~F10~ key or ~q~.
+
+
 ** ps (Process Status) command
 
 It displays the currently-running processes. However, unlike the top
@@ -403,4 +460,3 @@ Incremental process filtering: type in part of a process command line
 and only processes whose names match will be shown. To cancel filtering,
 enter the Filter option again and press Esc.
 #+end_example
-
