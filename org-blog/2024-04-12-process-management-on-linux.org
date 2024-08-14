@@ -275,21 +275,8 @@ commands to tailor the display to your needs:
 - *`q`**: Quit `top`.
 
 ** The =htop=
-It is similar to top, but allows you to scroll vertically and
-horizontally and use the functional keys.
 
-#+begin_example
-F3, /
-Incrementally search the command lines of all the displayed processes.
-The currently selected (highlighted) command will update as you type.
-While in search mode, pressing F3 will cycle through matching
-occurrences.
 
-F4, \
-Incremental process filtering: type in part of a process command line
-and only processes whose names match will be shown. To cancel filtering,
-enter the Filter option again and press Esc.
-#+end_example
 
 ** ps (Process Status) command
 
@@ -378,3 +365,22 @@ running processes.
 
 
 *** Notes
+
+* Notes                                                            :noexport:
+
+It is similar to top, but allows you to scroll vertically and
+horizontally and use the functional keys.
+
+#+begin_example
+F3, /
+Incrementally search the command lines of all the displayed processes.
+The currently selected (highlighted) command will update as you type.
+While in search mode, pressing F3 will cycle through matching
+occurrences.
+
+F4, \
+Incremental process filtering: type in part of a process command line
+and only processes whose names match will be shown. To cancel filtering,
+enter the Filter option again and press Esc.
+#+end_example
+
