@@ -18,6 +18,21 @@ tags: [init, manual, how-to]
 
 * Overview
 
+In today’s dynamic digital landscape, blogging stands as a powerful
+platform for sharing ideas, insights, and creativity with a global
+audience. For writers and developers seeking an efficient and flexible
+workflow, the combination of **Emacs Org-mode** and **Jekyll**
+presents an ideal solution. Emacs Org-mode excels at organizing
+thoughts, managing tasks, and formatting text, while Jekyll provides a
+robust framework for generating static websites with ease.
+
+This article explores the seamless integration of Emacs Org-mode with
+Jekyll, illustrating how to transform your organized notes and drafts
+into a beautifully formatted blog. We’ll cover topics such as setting
+up your environment, effectively writing and organizing blog content
+in Org-mode, and leveraging Jekyll’s capabilities to publish your work
+effortlessly.
+
 #+begin_quote
 Jekyll is a simple, blog-aware, static site generator perfect for
 personal, project, or organization sites.
