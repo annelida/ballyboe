@@ -276,7 +276,27 @@ commands to tailor the display to your needs:
 
 ** The =htop=
 
+=htop= is an enhanced and user-friendly interactive process viewer for
+Linux, which provides a comprehensive list of running processes along
+with real-time information about system performance. Unlike the =top=
+command, which displays process data in a more basic way, =htop=
+offers a colorful and easily navigable interface.
 
+Before using =htop=, you may need to install it, as it is not included
+in all distributions by default.
+
+- *Ubutu/Debian:*
+
+  #+begin_src sh
+    sudo apt update
+    sudo apt install htop
+  #+end_src
+
+ To start =htop=, simply open a terminal and type:
+
+  #+begin_src sh
+    htop
+  #+end_src
 
 ** ps (Process Status) command
 
