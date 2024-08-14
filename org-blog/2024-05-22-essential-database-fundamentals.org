@@ -4,8 +4,8 @@ layout: page
 title: Essential Database Fundamentals
 tagline: " mastering the basics"
 permalink: /database-fundamentals.html
-categories: [Linux, Database, SQL]
-tags: [linux, database, sql]
+categories: [Linux, Database, Python, SQlite3]
+tags: [linux, database, python, sqlite3]
 ---
 #+END_EXPORT
 
