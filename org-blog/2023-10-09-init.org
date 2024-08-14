@@ -33,6 +33,38 @@ up your environment, effectively writing and organizing blog content
 in Org-mode, and leveraging Jekyll’s capabilities to publish your work
 effortlessly.
 
+* What is Jekyll and Why Should You Use It?
+
+*Jekyll* is a static site generator written in Ruby, designed to
+transform plain text files into a static website. It allows users to
+create websites using simple Markdown, Org-mode or Textile formats,
+which are then processed into HTML. Jekyll is particularly known for
+its efficiency and minimalism, as it generates static pages that can
+be served without the need for a database, making it faster and
+simpler than traditional content management systems like WordPress.
+
+Originally introduced in 2008 by GitHub co-founder Tom Preston-Werner,
+Jekyll is often used for blogs and project documentation. It operates
+by taking content written in Org-mode or Markdown, applying templates,
+and compiling everything into a static ~_site~ folder that can be
+hosted on any web server, including GitHub Pages for free. Jekyll does
+not come with built-in themes or content; users must create their own
+layouts and write their content, which allows for a high degree of
+customization and control over the website's design and functionality.
+
+
+* Installation
+
+Install Jekyll
+
+Installation is described at the [[https://jekyllrb.com/][Jekyll]] web site.
+
+
+* Settings
+* Usage Samples
+
+* Notes                                                            :noexport:
+
 #+begin_quote
 Jekyll is a simple, blog-aware, static site generator perfect for
 personal, project, or organization sites.
@@ -66,12 +98,3 @@ tags on the page and Jekyll to produce the rest. Note that you can
 easily embed html content in your org pages using the +BEGIN_EXPORT
 html tag.
 #+end_quote
-* Installation
-
-Install Jekyll
-
-Installation is described at the [[https://jekyllrb.com/][Jekyll]] web site.
-
-
-* Settings
-* Usage Samples
