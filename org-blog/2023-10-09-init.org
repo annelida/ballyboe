@@ -55,12 +55,25 @@ customization and control over the website's design and functionality.
 
 * Installation
 
-Install Jekyll
+** Install Jekyll
 
-Installation is described at the [[https://jekyllrb.com/][Jekyll]] web site.
-
+The installation process is described on the [[https://jekyllrb.com/][Jekyll official wesite]].
 
 * Settings
+
+** Set Up Your GitHub Pages Repository
+
+1. Create a new repository on GitHub named username.github.io (replace
+   username with your GitHub username).
+2. Clone this repository to your local machine:
+
+   #+begin_src sh
+     git clone https://github.com/username/username.github.io.git
+   #+end_src
+
+3. Configuring Emacs to export Org files directly to the Jekyll ~_posts~
+   directory.
+
 * Usage Samples
 
 * Notes                                                            :noexport:
