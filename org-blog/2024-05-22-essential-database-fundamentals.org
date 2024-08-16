@@ -115,31 +115,51 @@ database context using SQLite3 with Python.
 
 #+begin_src python
   import sqlite3
+
   # Connect to the SQLite database (it will create the database file if it doesn't exist)
-  conn = sqlite3.connect("/home/vikky/Templates/example.db")
-  cursor = conn.cursor()
-  # Creating a customers table
-  cursor.execute('''
-  CREATE TABLE IF NOT EXISTS customers (
-      id INTEGER PRIMARY KEY AUTOINCREMENT,
-      name TEXT NOT NULL,
-      email TEXT NOT NULL
-  )
-  ''')
-  # Commit the changes and close the connection
-  conn.commit()
-  conn.close()
+  def initialize_db():
+      conn = sqlite3.connect("/home/vikky/Templates/example.db")
+      cursor = conn.cursor()
+      # Creating a customers table
+      cursor.execute('''
+      CREATE TABLE IF NOT EXISTS customers (
+          id INTEGER PRIMARY KEY AUTOINCREMENT,
+          name TEXT NOT NULL,
+          email TEXT NOT NULL
+      )
+      ''')
+      # Commit the changes and close the connection
+      conn.commit()
+      conn.close()
 
   # Function to create a new customer
   def create_customer(name, email):
-      conn = sqlite3.connect("example.db")
+      conn = sqlite3.connect("/home/vikky/Templates/example.db")
       cursor = conn.cursor()
       cursor.execute("INSERT INTO customers (name, email) VALUES (?, ?)", (name, email))
       conn.commit()
       conn.close()
 
-   
+  # Function to read all customers
+  def read_customers():
+      conn = sqlite3.connect("/home/vikky/Templates/example.db")
+      cursor = conn.cursor()
+      cursor.execute("SELECT * FROM customers")
+      customers = cursor.fetchall()  # Fetch all records
+      conn.close()
+      return customers
+
+  initialize_db()
+  create_customer("Alice", "alice@example.com")
+  print("Customers after creation:")
+  print(read_customers())
+  
+
 #+end_src
+
+#+RESULTS:
+: Customers after creation:
+: [(1, 'Alice', 'alice@example.com'), (2, 'Alice', 'alice@example.com'), (3, 'Alice', 'alice@example.com'), (4, 'Alice', 'alice@example.com')]
 
 
 
