@@ -52,6 +52,15 @@ not come with built-in themes or content; users must create their own
 layouts and write their content, which allows for a high degree of
 customization and control over the website's design and functionality.
 
+* Prerequisites
+
+1. *Jekyll:* a static site generator;
+2. *Emacs with Org-mode:* Org-mode is a powerful plain text markup
+   language within Emacs;
+3. *GitHub Account:* You need a GitHub account to host your blog;
+4. *Jekyll-bootstrap:* A framework that makes it easier to start using
+   Jekyll for blogging.
+
 
 * Installation
 
