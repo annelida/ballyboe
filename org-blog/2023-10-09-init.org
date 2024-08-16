@@ -70,18 +70,60 @@ The installation process is described on the [[https://jekyllrb.com/][Jekyll off
 
 * Settings
 
-** Set Up Your GitHub Pages Repository
+** Set Up Your GitHub Blog Repository
 
 1. Create a new repository on GitHub named username.github.io (replace
    username with your GitHub username).
+
 2. Clone this repository to your local machine:
 
    #+begin_src sh
      git clone https://github.com/username/username.github.io.git
    #+end_src
 
-3. Configuring Emacs to export Org files directly to the Jekyll ~_posts~
-   directory.
+
+** Set Up Your Blog on GitHub with Jekyll-bootstrap
+
+ Clone the [[https://github.com/plusjade/jekyll-bootstrap?tab=readme-ov-file][Jekyll-bootstrap repository]] to /username.github.io folder:
+
+ #+begin_src sh
+   cd ~/git/annelida/annelida.github.io
+   git clone git@github.com:plusjade/jekyll-bootstrap.git
+ #+end_src
+
+** Integrate Org-mode with Jekyll
+
+Configuring Emacs to export Org files directly to the Jekyll ~_posts~
+directory.
+
+#+begin_src elisp
+;; Jekyll settings
+;;
+(setq org-publish-project-alist
+'(("jekyll-org"
+   :base-directory "~/git/annelida/ballyboe/org-blog/"
+   :base-extension "org"
+   ;; Path to your Jekyll project.
+   :publishing-directory "~/git/annelida/annelida.github.io/_posts/"
+   :recursive t
+   :publishing-function org-html-publish-to-html
+   :headline-levels 4
+   :html-extension "html"
+   :section-numbers nil
+   :with-toc nil
+   :body-only t
+   ;; Only export section between <body> </body> (body-only)
+   )
+  ("jekyll-org-img"
+   :base-directory "~/git/annelida/ballyboe/org-blog/img/"
+   :base-extension "css\\|js\\|png\\|jpg\\|gif\\|pdf\\|mp3\\|ogg\\|swf\\|php"
+   :publishing-directory "~/git/annelida/annelida.github.io/assets/img/"
+   :recursive t
+   :publishing-function org-publish-attachment)
+
+  ("jekyll" :components ("jekyll-org" "jekyll-org-img"))
+  ))
+#+end_src
 
 * Usage Samples
 
