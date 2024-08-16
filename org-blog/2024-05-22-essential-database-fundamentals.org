@@ -129,9 +129,18 @@ database context using SQLite3 with Python.
   # Commit the changes and close the connection
   conn.commit()
   conn.close()
+
+  # Function to create a new customer
+  def create_customer(name, email):
+      conn = sqlite3.connect("example.db")
+      cursor = conn.cursor()
+      cursor.execute("INSERT INTO customers (name, email) VALUES (?, ?)", (name, email))
+      conn.commit()
+      conn.close()
+
+   
 #+end_src
 
-#+RESULTS:
 
 
 
