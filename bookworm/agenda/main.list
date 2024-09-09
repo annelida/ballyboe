@@ -72,7 +72,7 @@ CLOCK: [2024-04-12 Fri 07:12]--[2024-04-12 Fri 08:12] =>  1:00
 :END:
 
 *** 6 Levels of Thinking
-SCHEDULED: <2024-09-09 Mon ++2d>
+SCHEDULED: <2024-09-10 Tue ++2d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-08-13 Tue 08:05]
 :END:
@@ -267,11 +267,12 @@ CLOCK: [2024-04-23 Tue 07:27]--[2024-04-23 Tue 07:40] =>  0:13
 CLOCK: [2024-04-21 Sun 09:40]--[2024-04-21 Sun 10:13] =>  0:33
 :END:
 [[https://learnenglish.britishcouncil.org/grammar/english-grammar-reference/personal-pronouns]]
-****** [#B] 'it' and 'there' as dummy subjects
-SCHEDULED: <2024-09-10 Tue ++1w>
+****** DELAY [#C] 'it' and 'there' as dummy subjects
+SCHEDULED: <2024-10-22 Tue ++1w>
 :PROPERTIES:
-:LAST_REPEAT: [2024-09-09 Mon 07:21]
+:LAST_REPEAT: [2024-09-09 Mon 18:20]
 :END:
+- State "AMPLE"      from "DELAY"      [2024-09-09 Mon 18:20]
 - State "AMPLE"      from ""           [2024-09-09 Mon 07:21]
 - State "AMPLE"      from ""           [2024-08-13 Tue 08:07]
 - State "AMPLE"      from ""           [2024-08-05 Mon 19:57]
@@ -464,8 +465,8 @@ SCHEDULED: <2024-10-27 Sun ++2w>
 ***** AMPLE Come up with an idea carefully
 SCHEDULED: <2024-04-30 Tue>
 [[https://www.bbc.co.uk/sounds/play/p0hj2w1w]]
-** Linux Operating System Basics
-SCHEDULED: <2024-09-10 Tue ++1d>
+** DELAY Linux Operating System Basics
+SCHEDULED: <2024-10-22 Tue ++1d>
 :PROPERTIES:
 :CATEGORY: Linux
 :LAST_REPEAT: [2024-09-09 Mon 07:09]
@@ -496,7 +497,7 @@ SCHEDULED: <2024-08-17 Sat>
 [[elisp:(bookmark-jump-other-frame "linux-repetition.org")]]
 
 *** DELAY [#A] MAN ssh
-SCHEDULED: <2024-09-10 Tue ++1w>
+SCHEDULED: <2024-09-24 Tue ++1w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-07-29 Mon 19:35]
 :END:
@@ -869,7 +870,7 @@ SCHEDULED: <2024-08-10 Sat>
 [[elisp:(bookmark-jump-other-frame "2024-04-09-SSH-connection-to-remote-host-in-linux.org.org")]]
 
 *** Revision of the Article about Process Management on Linux
-SCHEDULED: <2024-09-09 Mon>
+SCHEDULED: <2024-09-10 Tue>
 - Note taken on [2024-04-13 Sat 17:26] \\
   How to check is the SSHd process running?
   Which protocol it is listening if running?
@@ -1266,7 +1267,7 @@ SCHEDULED: <2024-05-12 Sun>
 *** [#C] I 386 architecture commands
 
 *** Exploring the Backbone of Computing
-SCHEDULED: <2024-09-09 Mon ++1d>
+SCHEDULED: <2024-09-11 Wed ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-08-01 Thu 18:55]
 :END:
@@ -1279,8 +1280,8 @@ CLOCK: [2024-07-26 Fri 07:19]--[2024-07-26 Fri 08:04] =>  0:45
 :END:
 
 [[elisp:(bookmark-jump-other-frame "2024-07-25-exploring-the-backbone-of-computing.org")]]
-** Git/Magit
-SCHEDULED: <2024-09-10 Tue ++1d>
+** DELAY Git/Magit
+SCHEDULED: <2024-10-22 Tue ++1d>
 :PROPERTIES:
 :CATEGORY: Git
 :LAST_REPEAT: [2024-09-09 Mon 07:10]
@@ -1502,8 +1503,8 @@ fi
 #+begin_src sh
 git push --force --all
 #+end_src
-** Emacs
-SCHEDULED: <2024-09-10 Tue ++1d>
+** DELAY Emacs
+SCHEDULED: <2024-10-22 Tue ++1d>
 :PROPERTIES:
 :CATEGORY: Emacs
 :LAST_REPEAT: [2024-09-09 Mon 07:10]
@@ -2788,8 +2789,8 @@ CLOCK: [2024-04-19 Fri 11:13]--[2024-04-19 Fri 11:53] =>  0:40
 :END:
 
 [[file:~/git/annelida/ballyboe/org-blog/2023-11-07-Python-venv.org::*Creating a Python virtual environment on a Debian-based system][Python virtual environment on a Debian-based system]]
-*** Python Programming Language basics
-SCHEDULED: <2024-09-10 Tue ++1d>
+*** DELAY Python Programming Language basics
+SCHEDULED: <2024-10-22 Tue ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-09-09 Mon 07:11]
 :END:
@@ -2831,7 +2832,7 @@ SCHEDULED: <2024-06-25 Tue>
 CLOCK: [2024-06-25 Tue 09:28]--[2024-06-25 Tue 10:48] =>  1:20
 :END:
 *** The Origin and Evolution of Programming Languages
-SCHEDULED: <2024-09-09 Mon ++1d>
+SCHEDULED: <2024-09-11 Wed ++1d>
 :LOGBOOK:
 CLOCK: [2024-08-01 Thu 09:40]--[2024-08-01 Thu 10:09] =>  0:29
 CLOCK: [2024-07-31 Wed 08:07]--[2024-07-31 Wed 08:57] =>  0:50
@@ -2840,7 +2841,7 @@ CLOCK: [2024-07-31 Wed 08:07]--[2024-07-31 Wed 08:57] =>  0:50
 [[elisp:(bookmark-jump-other-frame "2024-04-20-python-programming-language.org")]]
 
 ** DELAY Flask Framework
-SCHEDULED: <2024-09-10 Tue ++1d>
+SCHEDULED: <2024-10-22 Tue ++1d>
 :PROPERTIES:
 :CATEGORY: Flask
 :LAST_REPEAT: [2024-09-09 Mon 18:01]
@@ -3305,7 +3306,7 @@ CLOCK: [2024-06-20 Thu 08:00]--[2024-06-20 Thu 08:17] =>  0:17
 :END:
 
 ** Jinja2: The Templating Engine
-SCHEDULED: <2024-09-09 Mon ++1d>
+SCHEDULED: <2024-09-10 Tue ++1d>
 :PROPERTIES:
 :CATEGORY: Jinja2
 :LAST_REPEAT: [2024-08-01 Thu 18:55]
@@ -3623,8 +3624,8 @@ CLOCK: [2024-07-01 Mon 17:46]--[2024-07-01 Mon 18:48] =>  1:02
 [[elisp:(bookmark-jump-other-frame "2024-07-01-programming-on-the-web.org")][Link]]
 
 ** Jekyll: A Static Site Generator 
-*** [#A] Org-Jekyll - article about initial config
-SCHEDULED: <2024-09-09 Mon ++1m>
+*** [#B] Org-Jekyll - article about initial config
+SCHEDULED: <2024-09-10 Tue ++1m>
 :PROPERTIES:
 :LAST_REPEAT: [2024-06-06 Thu 19:42]
 :CATEGORY: Org-Jekyll
@@ -3859,8 +3860,8 @@ fi
 git push --force --all
 #+end_src
 
-** [#A] Databases fundamentals
-SCHEDULED: <2024-09-09 Mon>
+** [#B] Databases fundamentals
+SCHEDULED: <2024-09-10 Tue>
 :PROPERTIES:
 :CATEGORY: DB
 :END:
@@ -4278,7 +4279,7 @@ CLOCK: [2024-08-06 Tue 07:25]--[2024-08-06 Tue 08:15] =>  0:50
 https://getbootstrap.com/docs/5.3/getting-started/introduction/
 [[elisp:(bookmark-jump-other-frame "index.html")][Link]]
 ** Aligning the Agenda with the might-do.list from 0-Key 
-SCHEDULED: <2024-09-09 Mon ++2d>
+SCHEDULED: <2024-09-10 Tue ++2d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-08-13 Tue 19:36]
 :END:
@@ -4304,11 +4305,18 @@ CLOCK: [2024-05-29 Wed 07:47]--[2024-05-29 Wed 07:59] =>  0:12
 CLOCK: [2024-05-29 Wed 07:31]--[2024-05-29 Wed 07:40] =>  0:09
 CLOCK: [2024-05-29 Wed 06:44]--[2024-05-29 Wed 07:20] =>  0:36
 :END:
-
+** [#A] What is Koyeb and Render Hosting Platforms?
+SCHEDULED: <2024-09-10 Tue>
+** [#A] What is Meta API
+SCHEDULED: <2024-09-10 Tue>
+** [#A] What is Midjourney AI
+SCHEDULED: <2024-09-10 Tue>
+** [#A] What is AI Image Generation?
+SCHEDULED: <2024-09-10 Tue>
 
 * Personal
 ** Check the level of a waste
-SCHEDULED: <2024-09-09 Mon ++1w>
+SCHEDULED: <2024-09-10 Tue ++1w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-08-13 Tue 19:36]
 :END:
