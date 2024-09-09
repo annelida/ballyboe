@@ -12,7 +12,7 @@
 #+TODO: DELAY LAG RETARD | BARE
 
 * Genuine source of knowledge
-SCHEDULED: <2024-08-29 Thu ++1d>
+SCHEDULED: <2024-09-09 Mon ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-07-23 Tue 20:38]
 :END:
@@ -134,7 +134,7 @@ about how the program works are:
 --* INIT Conclusion*: the wisest decision is just to use it properly!
 
 * Deliberate practice
-SCHEDULED: <2024-09-03 Tue ++1d>
+SCHEDULED: <2024-09-09 Mon ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-07-23 Tue 20:38]
 :END:
@@ -270,10 +270,12 @@ CLOCK: [2023-11-24 Fri 08:31]--[2023-11-24 Fri 09:02] =>  0:31
 when you do challenging but indispensable tasks by yourself
 
 * DELAY [#C] DeepLearning AI online course
-SCHEDULED: <2024-08-15 Thu ++1d>
+SCHEDULED: <2024-09-11 Wed ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-08-14 Wed 18:20]
+:LAST_REPEAT: [2024-08-16 Fri 09:13]
 :END:
+- State "AMPLE"      from "DELAY"      [2024-08-16 Fri 09:13]
+- State "AMPLE"      from "LAG"        [2024-08-16 Fri 09:13]
 - State "AMPLE"      from "DELAY"      [2024-08-14 Wed 18:20]
 - State "AMPLE"      from ""           [2024-07-02 Tue 18:46]
 - State "AMPLE"      from ""           [2024-06-25 Tue 19:07]
@@ -304,10 +306,11 @@ CLOCK: [2024-06-24 Mon 14:02]--[2024-06-24 Mon 14:03] =>  0:01
 :END:
 
 *** Text generation models
-SCHEDULED: <2024-08-16 Fri ++2d>
+SCHEDULED: <2024-09-11 Wed ++2d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-08-13 Tue 19:36]
+:LAST_REPEAT: [2024-09-09 Mon 07:20]
 :END:
+- State "AMPLE"      from ""           [2024-08-16 Fri 19:39]
 - State "AMPLE"      from ""           [2024-08-13 Tue 19:36]
 - State "AMPLE"      from ""           [2024-08-11 Sun 18:44]
 - State "AMPLE"      from ""           [2024-08-09 Fri 19:22]
@@ -355,7 +358,7 @@ CLOCK: [2024-06-28 Fri 08:53]--[2024-06-28 Fri 09:53] =>  1:00
 [[https://platform.openai.com/docs/api-reference/chat/create]]
 
 *** [#B] Prompt engineering
-SCHEDULED: <2024-08-18 Sun ++1w>
+SCHEDULED: <2024-09-11 Wed ++1w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-08-11 Sun 18:44]
 :END:
@@ -369,10 +372,11 @@ SCHEDULED: <2024-08-18 Sun ++1w>
 [[https://platform.openai.com/docs/guides/prompt-engineering]]
 
 *** [#A] Assistants API
-SCHEDULED: <2024-08-17 Sat ++1w>
+SCHEDULED: <2024-09-14 Sat ++1w>
 :PROPERTIES:
-:LAST_REPEAT: [2024-08-11 Sun 18:40]
+:LAST_REPEAT: [2024-09-09 Mon 07:03]
 :END:
+- State "AMPLE"      from ""           [2024-09-09 Mon 07:03]
 - State "AMPLE"      from ""           [2024-08-11 Sun 18:40]
 - State "AMPLE"      from ""           [2024-08-04 Sun 18:39]
 - State "AMPLE"      from ""           [2024-07-27 Sat 15:14]
@@ -409,8 +413,8 @@ CLOCK: [2024-07-07 Sun 08:43]--[2024-07-07 Sun 09:19] =>  0:36
 
 * Emacs
 
-** DELAY [#B] Counsel
-SCHEDULED: <2024-09-03 Tue ++2d>
+** Counsel
+SCHEDULED: <2024-09-09 Mon ++2d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-07-22 Mon 18:27]
 :END:
@@ -433,8 +437,8 @@ SCHEDULED: <2024-09-03 Tue ++2d>
 CLOCK: [2024-06-14 Fri 07:52]--[2024-06-14 Fri 08:50] =>  0:58
 :END:
 [[elisp:(apropos-command "counsel")]]
-** DELAY [#B] Help about *Help*
-SCHEDULED: <2024-09-03 Tue ++1d>
+** Help about *Help*
+SCHEDULED: <2024-09-09 Mon ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-07-21 Sun 19:41]
 :CATEGORY: Emacs
@@ -522,7 +526,7 @@ Stack-Overflow suggestions and notes. Bear this fact in mind do your
 job as it would be done in a sure and fire manner.
 
 *** DELAY [#B] *Python* embedded help system
-SCHEDULED: <2024-08-20 Tue ++2d/3d>
+SCHEDULED: <2024-10-20 Sun ++2d/3d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-07-27 Sat 15:15]
 :CATEGORY: Python
@@ -562,7 +566,7 @@ CLOCK: [2024-03-07 Thu 10:40]--[2024-03-07 Thu 10:57] =>  0:17
 - State "DONE"       from "ACTIVE"     [2023-11-09 Thu 18:41]
 - State "DONE"       from "ACTIVE"     [2023-11-07 Tue 18:21]
 *** DELAY *Selenium* package review
-SCHEDULED: <2024-09-03 Tue ++1d>
+SCHEDULED: <2024-11-24 Sun ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-06-18 Tue 17:59]
 :END:
@@ -633,7 +637,7 @@ Very straighforward system out from 10 initial keys to use in embedded
 *Help* browser.OA To use several *Help* buffers use =M-x raname uniquely=
 
 ** DELAY [#C] Help about *info*
-SCHEDULED: <2024-08-26 Mon ++1d>
+SCHEDULED: <2024-10-27 Sun ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-07-23 Tue 20:38]
 :CATEGORY: Emacs
@@ -693,7 +697,7 @@ Mostly the similar approach with several quirks
 [[file:~/git/annelida/ballyboe/org-blog/2024-05-26-Emacs-help-about-help.org::*The list of commands, which began with C-h prefix][The list of commands, which began with C-h prefix and Info commands]]
 
 * [#A] Task decomposition
-SCHEDULED: <2024-08-16 Fri ++1d>
+SCHEDULED: <2024-09-09 Mon ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-08-13 Tue 08:05]
 :END:
@@ -778,10 +782,10 @@ And *notice* the details, please!
 https://www.youtube.com/watch?v=bEfYm8sAaQg
 
 * Computer Science
-SCHEDULED: <2024-08-16 Fri ++1d>
+SCHEDULED: <2024-09-10 Tue ++1d>
 :PROPERTIES:
 :CATEGORY: CS
-:LAST_REPEAT: [2024-08-06 Tue 19:09]
+:LAST_REPEAT: [2024-09-09 Mon 07:13]
 :END:
 - State "AMPLE"      from ""           [2024-08-06 Tue 19:09]
 - State "AMPLE"      from ""           [2024-08-01 Thu 18:55]
@@ -796,8 +800,11 @@ CLOCK: [2024-07-18 Thu 07:51]--[2024-07-18 Thu 08:48] =>  0:57
 
 [[elisp:(bookmark-jump-other-frame "computer-science.org")]]
 
-** RAW Repetition the material on the subject "Computer science"
-SCHEDULED: <2024-08-16 Fri ++1d>
+** DELAY Repetition the material on the subject "Computer science"
+SCHEDULED: <2024-09-10 Tue ++1d>
+:PROPERTIES:
+:LAST_REPEAT: [2024-09-09 Mon 07:13]
+:END:
 
 [[elisp:(bookmark-jump-other-frame "computer-science-repetition.org")]]
 
@@ -839,7 +846,7 @@ https://realpython.com/python-data-structures/#toc
 [[https://www.bbc.co.uk/bitesize/guides/zghbgk7/revision/2]]
 
 *** DELAY [#B] Dictionaries, Maps, and Hash Tables
-SCHEDULED: <2024-09-02 Mon ++1w>
+SCHEDULED: <2024-11-24 Sun ++1w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-07-16 Tue 19:19]
 :END:
@@ -873,7 +880,7 @@ CLOCK: [2024-06-09 Sun 07:27]--[2024-06-09 Sun 08:47] =>  1:20
 
 [[https://www.geeksforgeeks.org/introduction-to-arrays-data-structure-and-algorithm-tutorials/]]
 *** DELAY [#B] Linked lists
-SCHEDULED: <2024-08-18 Sun ++2d>
+SCHEDULED: <2024-10-20 Sun ++2d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-07-12 Fri 19:32]
 :END:
@@ -892,7 +899,7 @@ https://www.geeksforgeeks.org/singly-linked-list-definition-meaning-dsa/?ref=out
 [[https://realpython.com/linked-lists-python/]]
 
 *** DELAY [#A] Graphs and trees
-SCHEDULED: <2024-08-24 Sat ++1w>
+SCHEDULED: <2024-09-30 Mon ++1w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-07-13 Sat 09:37]
 :END:
@@ -906,7 +913,7 @@ CLOCK: [2024-07-11 Thu 09:10]--[2024-07-11 Thu 09:35] =>  0:25
 https://www.geeksforgeeks.org/tree-data-structure/?ref=ml_lbp
 
 *** DELAY [#C] Heap data structure
-SCHEDULED: <2024-09-08 Sun ++2d>
+SCHEDULED: <2024-10-27 Sun ++2d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-07-16 Tue 19:22]
 :END:
@@ -927,12 +934,12 @@ CLOCK: [2024-06-23 Sun 07:49]--[2024-06-23 Sun 08:04] =>  0:15
 https://www.geeksforgeeks.org/heap-data-structure/?ref=lbp
 
 *** DELAY [#A] String Data Structure
-SCHEDULED: <2024-08-20 Tue>
+SCHEDULED: <2024-09-30 Mon>
 
 [[https://www.geeksforgeeks.org/complete-guide-to-string-data-structure/?ref=outind]]
 
 *** DELAY [#B] Composition of an article about Data Structures
-SCHEDULED: <2024-08-21 Wed>
+SCHEDULED: <2024-10-20 Sun>
 :LOGBOOK:
 CLOCK: [2024-07-10 Wed 07:19]--[2024-07-10 Wed 07:43] =>  0:24
 CLOCK: [2024-07-02 Tue 17:53]--[2024-07-02 Tue 18:41] =>  0:48
@@ -942,7 +949,7 @@ CLOCK: [2024-07-02 Tue 17:07]--[2024-07-02 Tue 17:41] =>  0:34
 [[elisp:(bookmark-jump-other-frame "2024-06-05-data-structures-in-cs.org")][Link]]
 
 ** DELAY [#B] Algorithms in CS
-SCHEDULED: <2024-09-02 Mon ++1w>
+SCHEDULED: <2024-11-24 Sun ++1w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-07-16 Tue 19:19]
 :END:
@@ -960,7 +967,7 @@ https://www.geeksforgeeks.org/fundamentals-of-algorithms/?ref=shm
 [[https://www.bbc.co.uk/bitesize/guides/zpp49j6/revision/2]]
 
 *** DELAY [#B] Searching algorithms
-SCHEDULED: <2024-09-03 Tue ++2d>
+SCHEDULED: <2024-11-24 Sun ++2d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-07-22 Mon 18:27]
 :END:
@@ -980,7 +987,7 @@ https://www.geeksforgeeks.org/searching-algorithms/
 [[elisp:(bookmark-jump-other-frame "2024-06-06-algorithms-in-computer-science.org")][Link]]
 
 *** DELAY [#B] Sorting algorithms
-SCHEDULED: <2024-09-02 Mon ++1w>
+SCHEDULED: <2024-11-24 Sun ++1w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-07-16 Tue 19:19]
 :END:
@@ -999,7 +1006,7 @@ https://www.geeksforgeeks.org/sorting-algorithms/
 [[https://www.geeksforgeeks.org/bubble-sort/]]
 
 ** DELAY [#B] Algorithm's Time Complexity O(n)
-SCHEDULED: <2024-09-02 Mon ++1w>
+SCHEDULED: <2024-11-24 Sun ++1w>
 :PROPERTIES:
 :CATEGORY: O(1)
 :LAST_REPEAT: [2024-07-16 Tue 19:19]
@@ -1150,7 +1157,7 @@ CLOCK: [2024-06-26 Wed 15:03]--[2024-06-26 Wed 16:30] =>  1:27
 https://www.geeksforgeeks.org/ascii-in-python/?ref=lbp
 
 *** DELAY [#B] Python ~bool()~ built-in function
-SCHEDULED: <2024-08-21 Wed ++1w>
+SCHEDULED: <2024-10-20 Sun ++1w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-07-10 Wed 15:05]
 :END:
@@ -1163,13 +1170,13 @@ CLOCK: [2024-07-10 Wed 15:00]--[2024-07-10 Wed 15:05] =>  0:05
 https://www.geeksforgeeks.org/bool-in-python/?ref=lbp
 
 *** DELAY [#B] Python ~bytearray()~ built-in function
-SCHEDULED: <2024-08-21 Wed>
+SCHEDULED: <2024-10-20 Sun>
 :LOGBOOK:
 CLOCK: [2024-07-10 Wed 15:08]--[2024-07-10 Wed 16:10] =>  1:02
 :END:
 
 ** DELAY [#B] Set of built-in methods defined for specific data types
-SCHEDULED: <2024-08-21 Wed>
+SCHEDULED: <2024-10-20 Sun>
 :LOGBOOK:
 CLOCK: [2024-06-19 Wed 10:55]--[2024-06-19 Wed 11:37] =>  0:42
 CLOCK: [2024-06-19 Wed 09:22]--[2024-06-19 Wed 10:19] =>  0:57
