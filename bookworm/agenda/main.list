@@ -72,7 +72,7 @@ CLOCK: [2024-04-12 Fri 07:12]--[2024-04-12 Fri 08:12] =>  1:00
 :END:
 
 *** 6 Levels of Thinking
-SCHEDULED: <2024-09-10 Tue ++2d>
+SCHEDULED: <2024-09-11 Wed ++2d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-08-13 Tue 08:05]
 :END:
@@ -91,9 +91,12 @@ https://www.youtube.com/watch?v=1xqerXscTsE
 [[elisp:(bookmark-jump-other-frame "2024-04-12-six-levels-of-thinking.org")]]
 
 ** English
+:PROPERTIES:
+:CATEGORY: English
+:END:
 
 *** Grammar
-SCHEDULED: <2024-09-10 Tue ++1d>
+SCHEDULED: <2024-09-11 Wed ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-09-09 Mon 07:09]
 :END:
@@ -599,7 +602,7 @@ SCHEDULED: <2024-10-15 Tue ++1w>
 process-manager. It shows a frequently updated list of the processes
 running on a computer, normally ordered by the amount of CPU usage.
 *** DELAY [#A] MAN ps
-SCHEDULED: <2024-09-11 Wed ++1w>
+SCHEDULED: <2024-10-09 Wed ++1w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-09-09 Mon 07:04]
 :END:
@@ -869,8 +872,8 @@ SCHEDULED: <2024-08-10 Sat>
 
 [[elisp:(bookmark-jump-other-frame "2024-04-09-SSH-connection-to-remote-host-in-linux.org.org")]]
 
-*** Revision of the Article about Process Management on Linux
-SCHEDULED: <2024-09-10 Tue>
+*** [#B] Revision of the Article about Process Management on Linux
+SCHEDULED: <2024-09-11 Wed>
 - Note taken on [2024-04-13 Sat 17:26] \\
   How to check is the SSHd process running?
   Which protocol it is listening if running?
@@ -1267,7 +1270,7 @@ SCHEDULED: <2024-05-12 Sun>
 *** [#C] I 386 architecture commands
 
 *** Exploring the Backbone of Computing
-SCHEDULED: <2024-09-11 Wed ++1d>
+SCHEDULED: <2024-09-12 Thu ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-08-01 Thu 18:55]
 :END:
@@ -2832,7 +2835,7 @@ SCHEDULED: <2024-06-25 Tue>
 CLOCK: [2024-06-25 Tue 09:28]--[2024-06-25 Tue 10:48] =>  1:20
 :END:
 *** The Origin and Evolution of Programming Languages
-SCHEDULED: <2024-09-11 Wed ++1d>
+SCHEDULED: <2024-09-12 Thu ++1d>
 :LOGBOOK:
 CLOCK: [2024-08-01 Thu 09:40]--[2024-08-01 Thu 10:09] =>  0:29
 CLOCK: [2024-07-31 Wed 08:07]--[2024-07-31 Wed 08:57] =>  0:50
@@ -2860,7 +2863,7 @@ CLOCK: [2024-07-20 Sat 08:50]--[2024-07-20 Sat 09:04] =>  0:14
 - State "AMPLE"      from ""           [2024-07-19 Fri 19:02]
 
   [[elisp:(bookmark-jump-other-frame "flask.org")]]
-  
+
 
 *** DELAY A Minimal Application
 SCHEDULED: <2024-11-24 Sun ++2w>
@@ -3305,8 +3308,8 @@ CLOCK: [2024-06-21 Fri 07:24]--[2024-06-21 Fri 08:35] =>  1:11
 CLOCK: [2024-06-20 Thu 08:00]--[2024-06-20 Thu 08:17] =>  0:17
 :END:
 
-** Jinja2: The Templating Engine
-SCHEDULED: <2024-09-10 Tue ++1d>
+** [#B] Jinja2: The Templating Engine
+SCHEDULED: <2024-09-11 Wed ++1d>
 :PROPERTIES:
 :CATEGORY: Jinja2
 :LAST_REPEAT: [2024-08-01 Thu 18:55]
@@ -3317,7 +3320,7 @@ SCHEDULED: <2024-09-10 Tue ++1d>
 - State "AMPLE"      from ""           [2024-07-30 Tue 19:29]
 - State "AMPLE"      from ""           [2024-07-23 Tue 20:38]
 - State "AMPLE"      from ""           [2024-07-19 Fri 19:02]
-  
+
 [[elisp:(bookmark-jump-other-frame "jinja.org")]]
 
 - Note taken on [2024-05-01 Wed 11:11] \\
@@ -3523,7 +3526,7 @@ CLOCK: [2024-05-26 Sun 09:19]--[2024-05-26 Sun 09:41] =>  0:22
 
 *** AMPLE [#A] Adding Static Files to application
 
-*** AMPLE Repetition of material on the subject "Jinja2 Templating Engine" 
+*** AMPLE Repetition of material on the subject "Jinja2 Templating Engine"
 SCHEDULED: <2024-08-17 Sat>
 
 [[elisp:(bookmark-jump-other-frame "jinja-repetition.org")]]
@@ -3623,9 +3626,9 @@ CLOCK: [2024-07-01 Mon 17:46]--[2024-07-01 Mon 18:48] =>  1:02
 
 [[elisp:(bookmark-jump-other-frame "2024-07-01-programming-on-the-web.org")][Link]]
 
-** Jekyll: A Static Site Generator 
+** Jekyll: A Static Site Generator
 *** [#B] Org-Jekyll - article about initial config
-SCHEDULED: <2024-09-10 Tue ++1m>
+SCHEDULED: <2024-09-11 Wed ++1m>
 :PROPERTIES:
 :LAST_REPEAT: [2024-06-06 Thu 19:42]
 :CATEGORY: Org-Jekyll
@@ -3861,7 +3864,7 @@ git push --force --all
 #+end_src
 
 ** [#B] Databases fundamentals
-SCHEDULED: <2024-09-10 Tue>
+SCHEDULED: <2024-09-11 Wed>
 :PROPERTIES:
 :CATEGORY: DB
 :END:
@@ -4264,10 +4267,11 @@ CLOCK: [2024-07-30 Tue 08:04]--[2024-07-30 Tue 09:01] =>  0:57
 :END:
 [[elisp:(bookmark-jump-other-frame "startup.org")][Link]]
 ** [#A] Philomath's Bootstrap template reading
-SCHEDULED: <2024-09-11 Wed ++2d>
+SCHEDULED: <2024-09-13 Fri ++2d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-09-09 Mon 07:03]
+:LAST_REPEAT: [2024-09-10 Tue 18:54]
 :END:
+- State "AMPLE"      from ""           [2024-09-10 Tue 18:54]
 - State "AMPLE"      from ""           [2024-08-15 Thu 18:43]
 - State "AMPLE"      from ""           [2024-08-13 Tue 19:35]
 - State "AMPLE"      from ""           [2024-08-13 Tue 08:05]
@@ -4278,8 +4282,8 @@ CLOCK: [2024-08-06 Tue 07:25]--[2024-08-06 Tue 08:15] =>  0:50
 :END:
 https://getbootstrap.com/docs/5.3/getting-started/introduction/
 [[elisp:(bookmark-jump-other-frame "index.html")][Link]]
-** Aligning the Agenda with the might-do.list from 0-Key 
-SCHEDULED: <2024-09-10 Tue ++2d>
+** Aligning the Agenda with the might-do.list from 0-Key
+SCHEDULED: <2024-09-11 Wed ++2d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-08-13 Tue 19:36]
 :END:
@@ -4305,8 +4309,8 @@ CLOCK: [2024-05-29 Wed 07:47]--[2024-05-29 Wed 07:59] =>  0:12
 CLOCK: [2024-05-29 Wed 07:31]--[2024-05-29 Wed 07:40] =>  0:09
 CLOCK: [2024-05-29 Wed 06:44]--[2024-05-29 Wed 07:20] =>  0:36
 :END:
-** [#A] What is Koyeb and Render Hosting Platforms?
-SCHEDULED: <2024-09-10 Tue>
+** [#B] What is Koyeb and Render Hosting Platforms?
+SCHEDULED: <2024-09-11 Wed>
 - Note taken on [2024-09-10 Tue 08:45] \\
   ~Koyeb~ and ~Render~ are both modern hosting platforms that cater to
   developers looking for efficient deployment solutions, but they differ
@@ -4330,9 +4334,8 @@ SCHEDULED: <2024-09-10 Tue>
 CLOCK: [2024-09-10 Tue 08:45]--[2024-09-10 Tue 09:01] =>  0:16
 CLOCK: [2024-09-10 Tue 07:02]--[2024-09-10 Tue 07:05] =>  0:03
 :END:
-** [#A] What is Meta API
+** AMPLE [#A] What is Meta API
 SCHEDULED: <2024-09-10 Tue>
-** [#A] What is Midjourney AI
 - Note taken on [2024-09-10 Tue 09:35] \\
   ~Meta API~ refers to various application programming interfaces (APIs)
   provided by Meta Platforms, Inc. (formerly Facebook), designed to
@@ -4341,13 +4344,30 @@ SCHEDULED: <2024-09-10 Tue>
 :LOGBOOK:
 CLOCK: [2024-09-10 Tue 09:33]--[2024-09-10 Tue 09:39] =>  0:06
 :END:
+** AMPLE [#A] What is Midjourney AI
 SCHEDULED: <2024-09-10 Tue>
-** [#A] What is AI Image Generation?
+:LOGBOOK:
+CLOCK: [2024-09-10 Tue 07:32]--[2024-09-10 Tue 07:47] =>  0:15
+:END:
+** AMPLE [#A] What is AI Image Generation?
 SCHEDULED: <2024-09-10 Tue>
+:LOGBOOK:
+CLOCK: [2024-09-10 Tue 07:50]--[2024-09-10 Tue 07:55] =>  0:05
+:END:
+** [#A] What is Docker Container? 
+SCHEDULED: <2024-09-11 Wed>
+** [#A] How to deploy Flask application on Render?
+SCHEDULED: <2024-09-11 Wed>
+** [#A] Revision of Poshmark, Etsy, Wayfair
+SCHEDULED: <2024-09-11 Wed>
+** [#A] What is serp api?
+SCHEDULED: <2024-09-11 Wed>
+** [#A] What is Bubble.io?
+SCHEDULED: <2024-09-11 Wed>
 
 * Personal
 ** Check the level of a waste
-SCHEDULED: <2024-09-10 Tue ++1w>
+SCHEDULED: <2024-09-11 Wed ++1w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-08-13 Tue 19:36]
 :END:
