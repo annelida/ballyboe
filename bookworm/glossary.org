@@ -989,5 +989,20 @@ use to request and exchange information.
 
 
 
+** PaaS
 
+Platform as a Service (PaaS) is a cloud computing model that provides
+a complete platform for developers to build, run, and manage
+applications without the complexity of maintaining the underlying
+infrastructure. PaaS typically includes hardware, software, and
+development tools hosted by a third-party provider, allowing users to
+focus on application development rather than infrastructure
+management.
+
+** CDN
+
+A ~content delivery network~ or ~content distribution network~ is a
+geographically distributed network of proxy servers and their data
+centers. The goal is to provide high availability and performance
+("speed") by distributing the service spatially relative to end users.
 
