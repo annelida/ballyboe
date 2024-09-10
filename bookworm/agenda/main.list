@@ -4307,6 +4307,29 @@ CLOCK: [2024-05-29 Wed 06:44]--[2024-05-29 Wed 07:20] =>  0:36
 :END:
 ** [#A] What is Koyeb and Render Hosting Platforms?
 SCHEDULED: <2024-09-10 Tue>
+- Note taken on [2024-09-10 Tue 08:45] \\
+  ~Koyeb~ and ~Render~ are both modern hosting platforms that cater to
+  developers looking for efficient deployment solutions, but they differ
+  in features, pricing, and target audiences.
+
+  ~Koyeb~ is a serverless Platform-as-a-Service (PaaS) designed to
+  facilitate the deployment of applications without the need for complex
+  infrastructure management.
+
+  ~Render~ is another PaaS that provides a wide range of managed
+  services, making it suitable for a variety of applications.
+
+  Both Koyeb and Render provide valuable solutions for application
+  deployment, with Koyeb focusing on serverless architecture and Render
+  offering a diverse array of managed services.
+
+  Koyeb's pricing is generally more competitive, especially for smaller
+  applications or startups, while Render's pricing reflects its broader
+  range of services.
+:LOGBOOK:
+CLOCK: [2024-09-10 Tue 08:45]--[2024-09-10 Tue 09:01] =>  0:16
+CLOCK: [2024-09-10 Tue 07:02]--[2024-09-10 Tue 07:05] =>  0:03
+:END:
 ** [#A] What is Meta API
 SCHEDULED: <2024-09-10 Tue>
 ** [#A] What is Midjourney AI
