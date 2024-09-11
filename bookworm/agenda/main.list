@@ -4355,7 +4355,40 @@ SCHEDULED: <2024-09-10 Tue>
 CLOCK: [2024-09-10 Tue 07:50]--[2024-09-10 Tue 07:55] =>  0:05
 :END:
 ** [#A] What is Docker Container? 
+** [#A] Introduction to Containers and Docker
 SCHEDULED: <2024-09-11 Wed>
+
+https://endjin.com/blog/2022/01/introduction-to-containers-and-docker
+
+- Note taken on [2024-09-11 Wed 08:14] \\
+  ~Containers~ provide a way of creating an isolated environment,
+  sometimes called a sandbox, in which applications and their
+  dependencies can live.
+
+  ~Docker~ is a containerisation platform – it is a toolkit that allows
+  you to build, deploy and manage containerised applications.
+
+  Docker terminology:
+
+  /Images/: The blueprints of an application which form the basis of
+  containers. These contain all of the configuration settings that
+  define the isolated environment.
+
+  /Containers/: Are instances of a Docker image and are what run the
+  actual application.
+
+  /Docker Daemon/: That background service running on the host that
+  listens to API calls (via the Docker client), manages images and
+  building, running and distributing containers.
+
+  /Docker Client/: The command line tool that allows the user to
+  interact with the daemon.
+
+  /Docker Hub/: A registry of Docker images containing all available
+  Docker images.
+:LOGBOOK:
+CLOCK: [2024-09-11 Wed 07:17]--[2024-09-11 Wed 07:53] =>  0:36
+:END:
 ** [#A] How to deploy Flask application on Render?
 SCHEDULED: <2024-09-11 Wed>
 ** [#A] Revision of Poshmark, Etsy, Wayfair
