@@ -72,7 +72,7 @@ CLOCK: [2024-04-12 Fri 07:12]--[2024-04-12 Fri 08:12] =>  1:00
 :END:
 
 *** 6 Levels of Thinking
-SCHEDULED: <2024-09-11 Wed ++2d>
+SCHEDULED: <2024-09-14 Sat ++2d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-08-13 Tue 08:05]
 :END:
@@ -96,7 +96,7 @@ https://www.youtube.com/watch?v=1xqerXscTsE
 :END:
 
 *** Grammar
-SCHEDULED: <2024-09-11 Wed ++1d>
+SCHEDULED: <2024-09-14 Sat ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-09-09 Mon 07:09]
 :END:
@@ -872,8 +872,8 @@ SCHEDULED: <2024-08-10 Sat>
 
 [[elisp:(bookmark-jump-other-frame "2024-04-09-SSH-connection-to-remote-host-in-linux.org.org")]]
 
-*** [#B] Revision of the Article about Process Management on Linux
-SCHEDULED: <2024-09-11 Wed>
+*** DELAY [#B] Revision of the Article about Process Management on Linux
+SCHEDULED: <2024-09-16 Mon>
 - Note taken on [2024-04-13 Sat 17:26] \\
   How to check is the SSHd process running?
   Which protocol it is listening if running?
@@ -1270,7 +1270,7 @@ SCHEDULED: <2024-05-12 Sun>
 *** [#C] I 386 architecture commands
 
 *** Exploring the Backbone of Computing
-SCHEDULED: <2024-09-12 Thu ++1d>
+SCHEDULED: <2024-09-17 Tue ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-08-01 Thu 18:55]
 :END:
@@ -2835,7 +2835,7 @@ SCHEDULED: <2024-06-25 Tue>
 CLOCK: [2024-06-25 Tue 09:28]--[2024-06-25 Tue 10:48] =>  1:20
 :END:
 *** The Origin and Evolution of Programming Languages
-SCHEDULED: <2024-09-12 Thu ++1d>
+SCHEDULED: <2024-09-17 Tue ++1d>
 :LOGBOOK:
 CLOCK: [2024-08-01 Thu 09:40]--[2024-08-01 Thu 10:09] =>  0:29
 CLOCK: [2024-07-31 Wed 08:07]--[2024-07-31 Wed 08:57] =>  0:50
@@ -3308,8 +3308,8 @@ CLOCK: [2024-06-21 Fri 07:24]--[2024-06-21 Fri 08:35] =>  1:11
 CLOCK: [2024-06-20 Thu 08:00]--[2024-06-20 Thu 08:17] =>  0:17
 :END:
 
-** [#B] Jinja2: The Templating Engine
-SCHEDULED: <2024-09-11 Wed ++1d>
+** DELAY [#B] Jinja2: The Templating Engine
+SCHEDULED: <2024-09-16 Mon ++1d>
 :PROPERTIES:
 :CATEGORY: Jinja2
 :LAST_REPEAT: [2024-08-01 Thu 18:55]
@@ -3627,8 +3627,8 @@ CLOCK: [2024-07-01 Mon 17:46]--[2024-07-01 Mon 18:48] =>  1:02
 [[elisp:(bookmark-jump-other-frame "2024-07-01-programming-on-the-web.org")][Link]]
 
 ** Jekyll: A Static Site Generator
-*** [#B] Org-Jekyll - article about initial config
-SCHEDULED: <2024-09-11 Wed ++1m>
+*** DELAY [#B] Org-Jekyll - article about initial config
+SCHEDULED: <2024-09-16 Mon ++1m>
 :PROPERTIES:
 :LAST_REPEAT: [2024-06-06 Thu 19:42]
 :CATEGORY: Org-Jekyll
@@ -3863,8 +3863,8 @@ fi
 git push --force --all
 #+end_src
 
-** [#B] Databases fundamentals
-SCHEDULED: <2024-09-11 Wed>
+** DELAY [#B] Databases fundamentals
+SCHEDULED: <2024-09-16 Mon>
 :PROPERTIES:
 :CATEGORY: DB
 :END:
@@ -3946,7 +3946,6 @@ SCHEDULED: <2024-10-20 Sun>
 CLOCK: [2024-07-08 Mon 07:46]--[2024-07-08 Mon 08:00] =>  0:14
 :END:
 https://www.geeksforgeeks.org/software-testing-tutorial/?ref=outind
-
 
 * Work
 :PROPERTIES:
@@ -4282,8 +4281,8 @@ CLOCK: [2024-08-06 Tue 07:25]--[2024-08-06 Tue 08:15] =>  0:50
 :END:
 https://getbootstrap.com/docs/5.3/getting-started/introduction/
 [[elisp:(bookmark-jump-other-frame "index.html")][Link]]
-** Aligning the Agenda with the might-do.list from 0-Key
-SCHEDULED: <2024-09-11 Wed ++2d>
+** DELAY Aligning the Agenda with the might-do.list from 0-Key
+SCHEDULED: <2024-09-16 Mon ++2d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-08-13 Tue 19:36]
 :END:
@@ -4309,8 +4308,8 @@ CLOCK: [2024-05-29 Wed 07:47]--[2024-05-29 Wed 07:59] =>  0:12
 CLOCK: [2024-05-29 Wed 07:31]--[2024-05-29 Wed 07:40] =>  0:09
 CLOCK: [2024-05-29 Wed 06:44]--[2024-05-29 Wed 07:20] =>  0:36
 :END:
-** [#B] What is Koyeb and Render Hosting Platforms?
-SCHEDULED: <2024-09-11 Wed>
+** DELAY [#B] What is Koyeb and Render Hosting Platforms?
+SCHEDULED: <2024-09-16 Mon>
 - Note taken on [2024-09-10 Tue 08:45] \\
   ~Koyeb~ and ~Render~ are both modern hosting platforms that cater to
   developers looking for efficient deployment solutions, but they differ
@@ -4354,9 +4353,8 @@ SCHEDULED: <2024-09-10 Tue>
 :LOGBOOK:
 CLOCK: [2024-09-10 Tue 07:50]--[2024-09-10 Tue 07:55] =>  0:05
 :END:
-** [#A] What is Docker Container? 
-** [#A] Introduction to Containers and Docker
-SCHEDULED: <2024-09-11 Wed>
+** [#C] Introduction to Containers and Docker
+SCHEDULED: <2024-09-16 Mon>
 
 https://endjin.com/blog/2022/01/introduction-to-containers-and-docker
 
@@ -4389,23 +4387,28 @@ https://endjin.com/blog/2022/01/introduction-to-containers-and-docker
 :LOGBOOK:
 CLOCK: [2024-09-11 Wed 07:17]--[2024-09-11 Wed 07:53] =>  0:36
 :END:
-** [#A] How to deploy Flask application on Render?
-SCHEDULED: <2024-09-11 Wed>
+** [#B] How to deploy Flask application on Render?
+SCHEDULED: <2024-09-12 Thu>
 
 [[https://blog.coffeeinc.in/deploying-your-python-flask-app-on-render-com-9f73bde88d7e]]
 
-** [#A] Revision of Poshmark, Etsy, Wayfair
+** [#B] Revision of Poshmark, Etsy, Wayfair
+SCHEDULED: <2024-09-12 Thu>
+** [#B] What is serp api?
+SCHEDULED: <2024-09-12 Thu>
+** [#B] What is Bubble.io?
+SCHEDULED: <2024-09-12 Thu>
+** AMPLE [#A] Try an youtube-transcript-generator
 SCHEDULED: <2024-09-11 Wed>
-** [#A] What is serp api?
-SCHEDULED: <2024-09-11 Wed>
-** [#A] What is Bubble.io?
-SCHEDULED: <2024-09-11 Wed>
+** [#A] CV and cover letter elaboration
+SCHEDULED: <2024-09-12 Thu>
 
 * Personal
 ** Check the level of a waste
-SCHEDULED: <2024-09-11 Wed ++1w>
+SCHEDULED: <2024-09-18 Wed ++1w>
 :PROPERTIES:
-:LAST_REPEAT: [2024-08-13 Tue 19:36]
+:LAST_REPEAT: [2024-09-11 Wed 19:49]
 :END:
+- State "AMPLE"      from ""           [2024-09-11 Wed 19:49]
 - State "AMPLE"      from ""           [2024-08-13 Tue 19:36]
 - State "AMPLE"      from ""           [2024-08-06 Tue 18:35]
