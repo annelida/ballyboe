@@ -1,0 +1,180 @@
+#+BEGIN_EXPORT html
+---
+layout: post
+title: Viktoriia Kosinova
+tagline: " I do my best"
+permalink: /cv/sales-assistant.html
+categories: [CV, Sales Assistant]
+tags: [cv, info, about me]
+---
+#+END_EXPORT
+
+#+STARTUP: showall indent
+#+OPTIONS: tags:nil num:nil \n:nil @:t ::t |:t ^:{} _:{} *:t eval:noexport
+#+TOC: headlines 2
+#+PROPERTY: vizier-thread-id thread_Gjhs9xN9D00alN6S8dkd3UjP
+#+PROPERTY: vizier-assistant-id asst_TBAMrIBzyYhMQ1cJSEuaGzGx
+
+
+* I am as a professional
+
+Dedicated and results-oriented Chief Store Manager with over 14 years
+of experience in retail management in Ukraine. I have a proven ability
+to lead store operations, drive sales, and optimize customer
+experiences. I am skilled in team management, inventory control, and
+executing strategic initiatives to enhance store performance.
+
+With a strong background in software development, my unique blend of
+technical expertise and managerial skills ensures operational
+excellence and the effective achievement of business objectives. I am
+currently seeking to transition my extensive retail management
+experience into a Sales Assistant role at EUROSPAR, where I aim to
+contribute to the store's success and deliver exceptional customer
+service in Ireland.
+
+* Experience
+
+** Econom-Plus LLC., Elite Alcohol and Wine Store  - Chief Store Manager
+/February 2020 \ to April 2022/
+
+My liable duties and achievements:
+
+- Led daily store operations and supervised a team of sales
+  associates, promoting a collaborative and high-performance
+  environment, which contributed to a 25% increase in store revenue
+  over a two-year period;
+
+- Managed inventory control processes, including ordering, stocking,
+  and conducting regular audits. Successfully implemented an inventory
+  management system that reduced stock discrepancies by 30%;
+
+- Developed and implemented strategic sales initiatives to drive
+  revenue growth. This included launching a customer loyalty program
+  that enhanced customer retention and boosted repeat sales by 15%;
+
+- Ensured exceptional customer service by addressing inquiries and
+  resolving complaints, leading to recognition for maintaining the
+  highest standards of customer satisfaction within the store chai;.
+
+- Analyzed sales data and market trends to make informed business
+  decisions, which helped the store achieve top performance rankings
+  in sales and customer service among all stores in the region;
+
+- Coordinated marketing and promotional activities, such as seasonal
+  and special event promotions, significantly increasing foot traffic
+  and sales during key periods;
+
+- Maintained store appearance and merchandising standards to enhance
+  the customer shopping experience, contributing to overall store
+  success;
+
+- Ensured compliance with all health, safety, and regulatory
+  requirements, including alcohol sales regulations, maintaining a
+  safe and legal operating environment;
+
+- Established and maintained strong relationships with suppliers,
+  negotiating favorable terms and ensuring timely deliveries, which
+  supported smooth store operations;
+
+- Trained and developed team members, several of whom were
+  subsequently promoted to leadership roles within the company.
+
+** [[https://en.wikipedia.org/wiki/Fozzy_Group][Fozzy-Food LLC]]. — Chief Store Manager
+/January 2008 \to February 2020/
+
+#+CAPTION: The store's photo
+#+ATTR_HTML: :title Silpo grocery store :align center
+[[https://annelida.github.io/assets/img/03.jpeg]]
+
+
+#+CAPTION: Inside
+#+ATTR_HTML: :title The grocery store :align center
+[[https://annelida.github.io/assets/img/01.jpg]]
+
+My liable duties and achievements:
+
+- Increased sales: Achieved a 15% increase in sales over six months
+  through strategic merchandising and up selling techniques, resulting
+  in a total revenue of $600,000 over the past five years;
+
+- Improved customer satisfaction: Implemented a customer relationship
+  management system that improved customer satisfaction by 20% and
+  increased repeat business by 15%;
+
+- Developed and executed successful marketing campaigns: Developed and
+  executed a successful marketing campaign that generated a 25%
+  increase in website traffic and a 10% increase in sales;
+
+- Managed and trained a team: Trained and managed a team of 100 sales
+  associates, resulting in a 20% increase in sales per associate;
+
+- Implemented new policies and procedures: Implemented new policies and
+  procedures that improved store operations, resulting in a 15%
+  reduction in operational costs;
+
+- Improved inventory management: Implemented a new inventory
+  management system, improving stock turnover by 25%;
+
+- Filled open positions and improved recruitment process: Filled 100%
+  of open positions within the targeted timeline over 12 months,
+  enhancing organisational efficiency. Reduced the average
+  time-to-hire by 20 days through streamlining the recruitment
+  process;
+
+- Led employee engagement programs: Led a company-wide employee
+  engagement program that resulted in a 30% increase in employee
+  satisfaction scores;
+
+- Negotiated with benefits providers: Negotiated with benefits
+  providers to enhance employee packages, achieving a 10% cost
+  reduction while improving benefits;
+
+- Developed and facilitated leadership training programs: Developed
+  and facilitated a leadership training program, contributing to a 25%
+  improvement in management effectiveness.
+
+
+** [[https://en.wikipedia.org/wiki/Prominvestbank][Prominvestbank]] — Software Engineer
+/June 2003 \to December 2008/
+
+  The list of liable duties:
+
+- Initial configure, set up, maintenance and debug the modern (at that
+  time, of course) informational system /"Client-Bank"/ (at server
+  side) for providing remote banking services for the customers;
+
+- Technical support for bank's clients with /"Client-Bank"/
+  installation and initial settings (at client side), consistently
+  assisted in theirs issue solving by phone and email;
+
+- User's manuals development for bank customers and employees;
+
+- Miscellaneous software installation, configuring and technical
+  support at all stages of its usage by a bank's employees;
+
+- Mixed office equipment maintenance and repair.
+
+
+* Education
+/September 1998 \to May 2004/
+
+[[https://en.wikipedia.org/wiki/Zaporizhzhia_Polytechnic_National_University][Zaporizhzhia Polytechnic National University]]
+Graduated as: /a Bachelor in Computational Systems and Networks/
+
+
+* Skills
+
+- Leadership;
+
+- Problem-solving;
+
+- Decision-making;
+
+- IT-skills: Windows, Linux, and I am familiar with a plethora of
+  applications such as Gmail, Word, Excel, Google Docs, Google Tables
+  etc., Emacs text editor;
+
+- I am fluent in Ukrainian and Russian and have Intermediate level of
+  English.
+
+
