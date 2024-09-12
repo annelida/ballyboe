@@ -7,7 +7,7 @@ permalink: /cv/sales-assistant.html
 categories: [CV, Sales Assistant]
 tags: [cv, info, about me]
 ---
-#+END_EXPORT
+ #+END_EXPORT
 
 #+STARTUP: showall indent
 #+OPTIONS: tags:nil num:nil \n:nil @:t ::t |:t ^:{} _:{} *:t eval:noexport
@@ -15,6 +15,37 @@ tags: [cv, info, about me]
 #+PROPERTY: vizier-thread-id thread_Gjhs9xN9D00alN6S8dkd3UjP
 #+PROPERTY: vizier-assistant-id asst_TBAMrIBzyYhMQ1cJSEuaGzGx
 
+
+* Cover Letter
+
+My name is Viktoriia Kosinova and I am really interested in applying
+for the Sales Assistant role at EUROSPAR.
+
+I am an experienced store manager, with over 14 years of experience in
+managing large volumes of stock and manage teams in busy retail
+environments.
+
+While working as a Store Manager with an Alcohol and Wine store in
+Ukraine, I ensured high levels of customer service, monitored stock
+levels, placed orders and negotiated prices with suppliers, handled
+customer complaints and trained in new staff.
+
+I really like to communicate with people, and excel at problem
+solving. I am really good at building relationships, and I take a
+personal approach with each customer. It always gives me great joy and
+I am filled with pride when customers return again and again to our
+store.
+
+I am really interested in this opportunity as I would like to work in
+an busy and growing company like yours. I hope that my great
+experience will contribute to the continued success of your store.
+
+I am available for interview at any time that is convenient for you. I
+look forward to hearing from you. If you have any questions, please do
+not hesitate to contact me.
+
+Yours faithfully,
+Viktoriia Kosinova
 
 * I am as a professional
 
@@ -166,13 +197,11 @@ My liable duties and achievements:
 
 - Mixed office equipment maintenance and repair.
 
-
 * Education
 /September 1998 \to May 2004/
 
 [[https://en.wikipedia.org/wiki/Zaporizhzhia_Polytechnic_National_University][Zaporizhzhia Polytechnic National University]]
 Graduated as: /a Bachelor in Computational Systems and Networks/
-
 
 * Skills
 
@@ -189,39 +218,6 @@ Graduated as: /a Bachelor in Computational Systems and Networks/
 - I am fluent in Ukrainian and Russian and have Intermediate level of
   English.
 
-
-
-
-* Cover Letter
-
-My name is Viktoriia Kosinova and I am really interested in applying
-for the Sales Assistant role at EUROSPAR.
-
-I am an experienced store manager, with over 14 years of experience in
-managing large volumes of stock and manage teams in busy retail
-environments.
-
-While working as a Store Manager with an Alcohol and Wine store in
-Ukraine, I ensured high levels of customer service, monitored stock
-levels, placed orders and negotiated prices with suppliers, handled
-customer complaints and trained in new staff.
-
-I really like to communicate with people, and excel at problem
-solving. I am really good at building relationships, and I take a
-personal approach with each customer. It always gives me great joy and
-I am filled with pride when customers return again and again to our
-store.
-
-I am really interested in this opportunity as I would like to work in
-an busy and growing company like yours. I hope that my great
-experience will contribute to the continued success of your store.
-
-I am available for interview at any time that is convenient for you. I
-look forward to hearing from you. If you have any questions, please do
-not hesitate to contact me.
-
-Yours faithfully,
-Viktoriia Kosinova
 
 
 * Notes                                                            :noexport:
