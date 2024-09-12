@@ -4191,11 +4191,12 @@ CLOCK: [2023-12-19 Tue 14:10]--[2023-12-19 Tue 14:10] =>  0:00
 
 * Events
 ** Preparation to meeting with Roisin
-SCHEDULED: <2024-09-13 Fri ++1w>
+SCHEDULED: <2024-09-20 Fri ++1w>
 :PROPERTIES:
 :CATEGORY: Speacking
-:LAST_REPEAT: [2024-08-16 Fri 19:38]
+:LAST_REPEAT: [2024-09-12 Thu 19:18]
 :END:
+- State "AMPLE"      from ""           [2024-09-12 Thu 19:18]
 - State "AMPLE"      from ""           [2024-08-16 Fri 19:38]
 - State "AMPLE"      from ""           [2024-08-09 Fri 19:22]
 - State "AMPLE"      from ""           [2024-07-27 Sat 15:13]
@@ -4388,20 +4389,20 @@ https://endjin.com/blog/2022/01/introduction-to-containers-and-docker
 CLOCK: [2024-09-11 Wed 07:17]--[2024-09-11 Wed 07:53] =>  0:36
 :END:
 ** [#B] How to deploy Flask application on Render?
-SCHEDULED: <2024-09-12 Thu>
+SCHEDULED: <2024-09-13 Fri>
 
 [[https://blog.coffeeinc.in/deploying-your-python-flask-app-on-render-com-9f73bde88d7e]]
 
 ** [#B] Revision of Poshmark, Etsy, Wayfair
-SCHEDULED: <2024-09-12 Thu>
+SCHEDULED: <2024-09-13 Fri>
 ** [#B] What is serp api?
-SCHEDULED: <2024-09-12 Thu>
+SCHEDULED: <2024-09-13 Fri>
 ** [#B] What is Bubble.io?
-SCHEDULED: <2024-09-12 Thu>
+SCHEDULED: <2024-09-13 Fri>
 ** AMPLE [#A] Try an youtube-transcript-generator
 SCHEDULED: <2024-09-11 Wed>
 ** [#A] CV and cover letter elaboration
-SCHEDULED: <2024-09-12 Thu>
+SCHEDULED: <2024-09-13 Fri>
 
 * Personal
 ** Check the level of a waste

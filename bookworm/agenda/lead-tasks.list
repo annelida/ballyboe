@@ -136,10 +136,11 @@ about how the program works are:
 --* INIT Conclusion*: the wisest decision is just to use it properly!
 
 * Deliberate practice
-SCHEDULED: <2024-09-12 Thu ++1d>
+SCHEDULED: <2024-09-13 Fri ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-09-11 Wed 19:51]
+:LAST_REPEAT: [2024-09-12 Thu 19:17]
 :END:
+- State "AMPLE"      from ""           [2024-09-12 Thu 19:17]
 - State "AMPLE"      from ""           [2024-09-11 Wed 19:51]
 - State "AMPLE"      from ""           [2024-09-10 Tue 18:54]
 - State "AMPLE"      from ""           [2024-09-09 Mon 18:22]
@@ -447,11 +448,12 @@ CLOCK: [2024-06-14 Fri 07:52]--[2024-06-14 Fri 08:50] =>  0:58
 :END:
 [[elisp:(apropos-command "counsel")]]
 ** Help about *Help*
-SCHEDULED: <2024-09-12 Thu ++1d>
+SCHEDULED: <2024-09-13 Fri ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-09-11 Wed 19:51]
+:LAST_REPEAT: [2024-09-12 Thu 19:17]
 :CATEGORY: Emacs
 :END:
+- State "AMPLE"      from ""           [2024-09-12 Thu 19:17]
 - State "AMPLE"      from ""           [2024-09-11 Wed 19:51]
 - State "AMPLE"      from ""           [2024-09-10 Tue 18:54]
 - State "AMPLE"      from ""           [2024-09-09 Mon 18:22]
@@ -709,10 +711,11 @@ Mostly the similar approach with several quirks
 [[file:~/git/annelida/ballyboe/org-blog/2024-05-26-Emacs-help-about-help.org::*The list of commands, which began with C-h prefix][The list of commands, which began with C-h prefix and Info commands]]
 
 * Task decomposition
-SCHEDULED: <2024-09-12 Thu ++1d>
+SCHEDULED: <2024-09-13 Fri ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-09-11 Wed 19:51]
+:LAST_REPEAT: [2024-09-12 Thu 19:17]
 :END:
+- State "AMPLE"      from ""           [2024-09-12 Thu 19:17]
 - State "AMPLE"      from ""           [2024-09-11 Wed 19:51]
 - State "AMPLE"      from ""           [2024-09-10 Tue 18:54]
 - State "AMPLE"      from ""           [2024-09-09 Mon 18:22]
