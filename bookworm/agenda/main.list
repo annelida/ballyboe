@@ -72,7 +72,7 @@ CLOCK: [2024-04-12 Fri 07:12]--[2024-04-12 Fri 08:12] =>  1:00
 :END:
 
 *** 6 Levels of Thinking
-SCHEDULED: <2024-09-14 Sat ++2d>
+SCHEDULED: <2024-09-18 Wed ++2d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-08-13 Tue 08:05]
 :END:
@@ -96,7 +96,7 @@ https://www.youtube.com/watch?v=1xqerXscTsE
 :END:
 
 *** Grammar
-SCHEDULED: <2024-09-14 Sat ++1d>
+SCHEDULED: <2024-09-18 Wed ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-09-09 Mon 07:09]
 :END:
@@ -243,7 +243,7 @@ CLOCK: [2024-03-19 Tue 12:02]--[2024-03-19 Tue 17:30] =>  5:28
 :END:
 [https://www.bbc.co.uk/learningnglish/english/course/lower-intermediate/unit-7/session-2/activity-4]
 ***** [#C] Articles
-SCHEDULED: <2024-09-14 Sat ++2w>
+SCHEDULED: <2024-09-18 Wed ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-09-09 Mon 07:27]
 :END:
@@ -872,8 +872,8 @@ SCHEDULED: <2024-08-10 Sat>
 
 [[elisp:(bookmark-jump-other-frame "2024-04-09-SSH-connection-to-remote-host-in-linux.org.org")]]
 
-*** DELAY [#B] Revision of the Article about Process Management on Linux
-SCHEDULED: <2024-09-16 Mon>
+*** DELAY Revision of the Article about Process Management on Linux
+SCHEDULED: <2024-09-28 Sat>
 - Note taken on [2024-04-13 Sat 17:26] \\
   How to check is the SSHd process running?
   Which protocol it is listening if running?
@@ -1774,7 +1774,7 @@ CLOCK: [2024-04-16 Tue 07:23]--[2024-04-16 Tue 08:38] =>  1:15
 [[info:python3.11#An Informal Introduction to Python][python3.11#An Informal Introduction to Python]]
 
 **** [#C] Python Setup and Usage
-SCHEDULED: <2024-09-14 Sat ++2w>
+SCHEDULED: <2024-09-18 Wed ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2024-09-09 Mon 07:28]
 :END:
@@ -3308,8 +3308,8 @@ CLOCK: [2024-06-21 Fri 07:24]--[2024-06-21 Fri 08:35] =>  1:11
 CLOCK: [2024-06-20 Thu 08:00]--[2024-06-20 Thu 08:17] =>  0:17
 :END:
 
-** DELAY [#B] Jinja2: The Templating Engine
-SCHEDULED: <2024-09-16 Mon ++1d>
+** DELAY Jinja2: The Templating Engine
+SCHEDULED: <2024-09-28 Sat ++1d>
 :PROPERTIES:
 :CATEGORY: Jinja2
 :LAST_REPEAT: [2024-08-01 Thu 18:55]
@@ -3627,8 +3627,8 @@ CLOCK: [2024-07-01 Mon 17:46]--[2024-07-01 Mon 18:48] =>  1:02
 [[elisp:(bookmark-jump-other-frame "2024-07-01-programming-on-the-web.org")][Link]]
 
 ** Jekyll: A Static Site Generator
-*** DELAY [#B] Org-Jekyll - article about initial config
-SCHEDULED: <2024-09-16 Mon ++1m>
+*** DELAY Org-Jekyll - article about initial config
+SCHEDULED: <2024-09-28 Sat ++1m>
 :PROPERTIES:
 :LAST_REPEAT: [2024-06-06 Thu 19:42]
 :CATEGORY: Org-Jekyll
@@ -3863,8 +3863,8 @@ fi
 git push --force --all
 #+end_src
 
-** DELAY [#B] Databases fundamentals
-SCHEDULED: <2024-09-16 Mon>
+** DELAY Databases fundamentals
+SCHEDULED: <2024-09-28 Sat>
 :PROPERTIES:
 :CATEGORY: DB
 :END:
@@ -4254,10 +4254,11 @@ CLOCK: [2024-05-15 Wed 09:48]--[2024-05-15 Wed 10:08] =>  0:20
 [[elisp:(bookmark-jump-other-frame "file-name.txt")][Link description]]
 #+end_example
 ** [#A] Philomath startup.org
-SCHEDULED: <2024-09-13 Fri ++1w>
+SCHEDULED: <2024-09-20 Fri ++1w>
 :PROPERTIES:
-:LAST_REPEAT: [2024-09-09 Mon 07:06]
+:LAST_REPEAT: [2024-09-15 Sun 17:51]
 :END:
+- State "AMPLE"      from ""           [2024-09-15 Sun 17:51]
 - State "AMPLE"      from ""           [2024-09-09 Mon 07:06]
 - State "AMPLE"      from ""           [2024-08-15 Thu 18:43]
 - State "AMPLE"      from ""           [2024-08-08 Thu 18:28]
@@ -4267,10 +4268,11 @@ CLOCK: [2024-07-30 Tue 08:04]--[2024-07-30 Tue 09:01] =>  0:57
 :END:
 [[elisp:(bookmark-jump-other-frame "startup.org")][Link]]
 ** [#A] Philomath's Bootstrap template reading
-SCHEDULED: <2024-09-13 Fri ++2d>
+SCHEDULED: <2024-09-17 Tue ++2d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-09-10 Tue 18:54]
+:LAST_REPEAT: [2024-09-15 Sun 17:51]
 :END:
+- State "AMPLE"      from ""           [2024-09-15 Sun 17:51]
 - State "AMPLE"      from ""           [2024-09-10 Tue 18:54]
 - State "AMPLE"      from ""           [2024-08-15 Thu 18:43]
 - State "AMPLE"      from ""           [2024-08-13 Tue 19:35]
@@ -4283,7 +4285,7 @@ CLOCK: [2024-08-06 Tue 07:25]--[2024-08-06 Tue 08:15] =>  0:50
 https://getbootstrap.com/docs/5.3/getting-started/introduction/
 [[elisp:(bookmark-jump-other-frame "index.html")][Link]]
 ** DELAY Aligning the Agenda with the might-do.list from 0-Key
-SCHEDULED: <2024-09-16 Mon ++2d>
+SCHEDULED: <2024-09-28 Sat ++2d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-08-13 Tue 19:36]
 :END:
@@ -4309,8 +4311,8 @@ CLOCK: [2024-05-29 Wed 07:47]--[2024-05-29 Wed 07:59] =>  0:12
 CLOCK: [2024-05-29 Wed 07:31]--[2024-05-29 Wed 07:40] =>  0:09
 CLOCK: [2024-05-29 Wed 06:44]--[2024-05-29 Wed 07:20] =>  0:36
 :END:
-** DELAY [#B] What is Koyeb and Render Hosting Platforms?
-SCHEDULED: <2024-09-16 Mon>
+** DELAY What is Koyeb and Render Hosting Platforms?
+SCHEDULED: <2024-09-28 Sat>
 - Note taken on [2024-09-10 Tue 08:45] \\
   ~Koyeb~ and ~Render~ are both modern hosting platforms that cater to
   developers looking for efficient deployment solutions, but they differ
@@ -4389,20 +4391,20 @@ https://endjin.com/blog/2022/01/introduction-to-containers-and-docker
 CLOCK: [2024-09-11 Wed 07:17]--[2024-09-11 Wed 07:53] =>  0:36
 :END:
 ** [#B] How to deploy Flask application on Render?
-SCHEDULED: <2024-09-13 Fri>
+SCHEDULED: <2024-09-16 Mon>
 
 [[https://blog.coffeeinc.in/deploying-your-python-flask-app-on-render-com-9f73bde88d7e]]
 
 ** [#B] Revision of Poshmark, Etsy, Wayfair
-SCHEDULED: <2024-09-13 Fri>
-** [#B] What is serp api?
-SCHEDULED: <2024-09-13 Fri>
+SCHEDULED: <2024-09-16 Mon>
+** [#C] What is serp api?
+SCHEDULED: <2024-09-16 Mon>
 ** [#B] What is Bubble.io?
-SCHEDULED: <2024-09-13 Fri>
+SCHEDULED: <2024-09-16 Mon>
 ** AMPLE [#A] Try an youtube-transcript-generator
 SCHEDULED: <2024-09-11 Wed>
 ** [#A] CV and cover letter elaboration
-SCHEDULED: <2024-09-13 Fri>
+SCHEDULED: <2024-09-17 Tue>
 
 * Personal
 ** Check the level of a waste
