@@ -304,10 +304,11 @@ CLOCK: [2024-04-23 Tue 07:07]--[2024-04-23 Tue 07:27] =>  0:20
 
 https://learnenglish.britishcouncil.org/grammar/english-grammar-reference/possessive-pronouns
 ****** [#C] Demonstratives
-SCHEDULED: <2024-09-17 Tue ++2w>
+SCHEDULED: <2024-10-01 Tue ++2w>
 :PROPERTIES:
-:LAST_REPEAT: [2024-09-09 Mon 07:28]
+:LAST_REPEAT: [2024-09-16 Mon 17:44]
 :END:
+- State "AMPLE"      from ""           [2024-09-16 Mon 17:44]
 - State "AMPLE"      from ""           [2024-09-09 Mon 07:28]
 - State "AMPLE"      from ""           [2024-07-22 Mon 19:11]
 - State "AMPLE"      from ""           [2024-07-22 Mon 19:10]
@@ -374,10 +375,11 @@ CLOCK: [2024-05-03 Fri 07:11]--[2024-05-03 Fri 07:11] =>  0:00
 :END:
 https://learnenglish.britishcouncil.org/grammar/english-grammar-reference/pronouns-questions
 ****** [#C] Reflexive pronouns
-SCHEDULED: <2024-09-17 Tue ++2w>
+SCHEDULED: <2024-10-01 Tue ++2w>
 :PROPERTIES:
-:LAST_REPEAT: [2024-09-09 Mon 07:28]
+:LAST_REPEAT: [2024-09-16 Mon 17:44]
 :END:
+- State "AMPLE"      from ""           [2024-09-16 Mon 17:44]
 - State "AMPLE"      from ""           [2024-09-09 Mon 07:28]
 - State "AMPLE"      from ""           [2024-08-05 Mon 19:58]
 - State "AMPLE"      from ""           [2024-07-22 Mon 19:11]
@@ -4005,10 +4007,12 @@ CLOCK: [2024-04-19 Fri 09:10]--[2024-04-19 Fri 09:47] =>  0:37
 :CATEGORY: Learning Python
 :END:
 *** DELAY A Python Q&A Session
-SCHEDULED: <2024-09-17 Tue ++2w>
+SCHEDULED: <2024-10-15 Tue ++2w>
 :PROPERTIES:
-:LAST_REPEAT: [2024-07-22 Mon 18:28]
+:LAST_REPEAT: [2024-09-16 Mon 17:43]
 :END:
+- State "AMPLE"      from "DELAY"      [2024-09-16 Mon 17:43]
+- State "AMPLE"      from "LAG"        [2024-09-16 Mon 17:43]
 - State "AMPLE"      from "DELAY"      [2024-07-22 Mon 18:28]
 - State "AMPLE"      from "DELAY"      [2024-06-24 Mon 19:23]
 - State "AMPLE"      from "LAG"        [2024-06-24 Mon 19:23]
@@ -4268,10 +4272,11 @@ CLOCK: [2024-07-30 Tue 08:04]--[2024-07-30 Tue 09:01] =>  0:57
 :END:
 [[elisp:(bookmark-jump-other-frame "startup.org")][Link]]
 ** [#A] Philomath's Bootstrap template reading
-SCHEDULED: <2024-09-17 Tue ++2d>
+SCHEDULED: <2024-09-19 Thu ++2d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-09-15 Sun 17:51]
+:LAST_REPEAT: [2024-09-16 Mon 17:43]
 :END:
+- State "AMPLE"      from ""           [2024-09-16 Mon 17:43]
 - State "AMPLE"      from ""           [2024-09-15 Sun 17:51]
 - State "AMPLE"      from ""           [2024-09-10 Tue 18:54]
 - State "AMPLE"      from ""           [2024-08-15 Thu 18:43]
@@ -4391,16 +4396,16 @@ https://endjin.com/blog/2022/01/introduction-to-containers-and-docker
 CLOCK: [2024-09-11 Wed 07:17]--[2024-09-11 Wed 07:53] =>  0:36
 :END:
 ** [#B] How to deploy Flask application on Render?
-SCHEDULED: <2024-09-16 Mon>
+SCHEDULED: <2024-09-17 Tue>
 
 [[https://blog.coffeeinc.in/deploying-your-python-flask-app-on-render-com-9f73bde88d7e]]
 
 ** [#B] Revision of Poshmark, Etsy, Wayfair
-SCHEDULED: <2024-09-16 Mon>
+SCHEDULED: <2024-09-17 Tue>
 ** [#C] What is serp api?
 SCHEDULED: <2024-09-16 Mon>
 ** [#B] What is Bubble.io?
-SCHEDULED: <2024-09-16 Mon>
+SCHEDULED: <2024-09-17 Tue>
 ** AMPLE [#A] Try an youtube-transcript-generator
 SCHEDULED: <2024-09-11 Wed>
 ** [#A] CV and cover letter elaboration

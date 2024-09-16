@@ -12,10 +12,11 @@
 #+TODO: DELAY LAG RETARD | BARE
 
 * Genuine source of knowledge
-SCHEDULED: <2024-09-16 Mon ++1d>
+SCHEDULED: <2024-09-17 Tue ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-09-10 Tue 18:54]
+:LAST_REPEAT: [2024-09-16 Mon 17:43]
 :END:
+- State "AMPLE"      from ""           [2024-09-16 Mon 17:43]
 - State "AMPLE"      from ""           [2024-09-10 Tue 18:54]
 - State "AMPLE"      from ""           [2024-09-09 Mon 18:22]
 - State "AMPLE"      from ""           [2024-07-23 Tue 20:38]
@@ -136,10 +137,11 @@ about how the program works are:
 --* INIT Conclusion*: the wisest decision is just to use it properly!
 
 * Deliberate practice
-SCHEDULED: <2024-09-16 Mon ++1d>
+SCHEDULED: <2024-09-17 Tue ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-09-15 Sun 17:51]
+:LAST_REPEAT: [2024-09-16 Mon 17:43]
 :END:
+- State "AMPLE"      from ""           [2024-09-16 Mon 17:43]
 - State "AMPLE"      from ""           [2024-09-15 Sun 17:51]
 - State "AMPLE"      from ""           [2024-09-12 Thu 19:17]
 - State "AMPLE"      from ""           [2024-09-11 Wed 19:51]
@@ -277,7 +279,7 @@ CLOCK: [2023-11-24 Fri 08:31]--[2023-11-24 Fri 09:02] =>  0:31
 when you do challenging but indispensable tasks by yourself
 
 * DELAY [#C] DeepLearning AI online course
-SCHEDULED: <2024-09-16 Mon ++1d>
+SCHEDULED: <2024-09-21 Sat ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2024-08-16 Fri 09:13]
 :END:
@@ -382,10 +384,11 @@ SCHEDULED: <2024-09-18 Wed ++1w>
 [[https://platform.openai.com/docs/guides/prompt-engineering]]
 
 *** [#A] Assistants API
-SCHEDULED: <2024-09-17 Tue ++1w>
+SCHEDULED: <2024-09-24 Tue ++1w>
 :PROPERTIES:
-:LAST_REPEAT: [2024-09-09 Mon 07:03]
+:LAST_REPEAT: [2024-09-16 Mon 17:43]
 :END:
+- State "AMPLE"      from ""           [2024-09-16 Mon 17:43]
 - State "AMPLE"      from ""           [2024-09-09 Mon 07:03]
 - State "AMPLE"      from ""           [2024-08-11 Sun 18:40]
 - State "AMPLE"      from ""           [2024-08-04 Sun 18:39]
@@ -715,10 +718,11 @@ Mostly the similar approach with several quirks
 [[file:~/git/annelida/ballyboe/org-blog/2024-05-26-Emacs-help-about-help.org::*The list of commands, which began with C-h prefix][The list of commands, which began with C-h prefix and Info commands]]
 
 * Task decomposition
-SCHEDULED: <2024-09-16 Mon ++1d>
+SCHEDULED: <2024-09-17 Tue ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-09-15 Sun 17:51]
+:LAST_REPEAT: [2024-09-16 Mon 17:43]
 :END:
+- State "AMPLE"      from ""           [2024-09-16 Mon 17:43]
 - State "AMPLE"      from ""           [2024-09-15 Sun 17:51]
 - State "AMPLE"      from ""           [2024-09-12 Thu 19:17]
 - State "AMPLE"      from ""           [2024-09-11 Wed 19:51]
